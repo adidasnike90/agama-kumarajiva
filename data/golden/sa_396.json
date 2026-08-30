@@ -1,0 +1,32 @@
+{
+  "id": "SA_396",
+  "uid": "sa396",
+  "title": "雜阿含經  卷第十六  諦相應  （396）  日月",
+  "chinese_text": "如是我聞：\n\n一時，佛住波羅㮈國仙人住處鹿野苑中。\n\n爾時，世尊告諸比丘：「譬如日出，周行空中，壞諸闇冥，光明顯照。如是，聖弟子所有集法，一切滅已，離諸塵垢，得法眼生，與無間等，俱三結斷。所謂身見、戒取、疑，此三結盡，名須陀洹，不墮惡趣法，必定正覺，趣七有天人往生，作苦邊。彼聖弟子中間雖起憂苦，聽彼聖弟子離欲、惡不善法，有覺有觀，離生喜樂，初禪具足住。不見彼聖弟子有一法不斷，能令還生此世者，此則聖弟子得法眼之大義。是故，比丘於此四聖諦未無間等者，當勤方便，起增上欲，精進修學。」\n\n佛說是經已，諸比丘聞佛所說，歡喜奉行。",
+  "english_sa_text": "",
+  "parallels": [],
+  "primary_sn_uid": null,
+  "pali_text": "",
+  "english_sn_text": "",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa301-400/sa396_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa301-400/sa396_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛在波罗㮈仙人住处鹿野苑中。\n尔时，世尊告诸比丘：「譬如日出，周行空中，坏诸闇冥，光明显照。如是圣弟子一切集法灭已，离诸尘垢，法眼生，与无间等俱——三结尽：身见、戒取、疑；名须陀洹，不堕恶趣，决定正向正觉，极七有天人往来，作苦边。」\n「彼圣弟子中间虽起忧苦，犹能离欲、离恶不善法，有觉有观，离生喜乐，初禅具足住——不见有一法未断，能令还生此世；此则法眼之大义。」\n「是故比丘于四圣谛未无间等者，当勤方便，起增上欲，精进修学。」\n佛说此经已，诸比丘闻佛所说，欢喜奉行。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在波罗㮈仙人住处鹿野苑中。\n那时，世尊告诉比丘们：「好比太阳出来，在空中运行，坏灭闇冥，光明显照。同样，圣弟子一切集法灭尽以后，离开尘垢，生起法眼，与无间等同时——断尽三结：身见、戒取、疑；名为须陀洹，不堕恶趣，决定正向正觉，最多七次往返人天，作苦边。」\n「那位圣弟子中间虽然还会起忧苦，仍能离欲、离恶不善法，有觉有观，离生喜乐，具足住于初禅——看不到还有哪一法未断、能让他再还生此世；这就是得法眼的大义。」\n「所以比丘对四圣谛还没有无间等的，应当勤加方便，发起强盛愿欲，精进修学。」\n佛说完这部经，比丘们听佛所说，都欢喜奉行。",
+  "notes": "SC 于本经未列可靠巴利平行，故唯以汉本为底，参同相应之巴利定型语厘义；依项目规约「无可靠平行时 confidence 降为 medium/low」，本经作 medium。法眼＋三结尽＝须陀洹定型；初禅段示法眼后仍可进住禅支。不引入如来藏／本觉义。confidence=medium。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "medium",
+  "prior_review_status": "needs_revision",
+  "similarity_to_source": 0.297,
+  "paragraph_parallel": true
+}

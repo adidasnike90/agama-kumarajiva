@@ -1,0 +1,63 @@
+{
+  "id": "SA_954",
+  "uid": "sa954",
+  "title": "雜阿含經  卷第三十七  婆蹉外道相應  （954）  縛掃篲",
+  "chinese_text": "如是我聞：\n\n一時，佛住舍衛國祇樹給孤獨園。\n\n爾時，世尊告諸比丘：「眾生無始生死，長夜輪轉，不知苦之本際。譬如普天大雨洪澍，東西南北無斷絕處。如是東方、南方、西方、北方，無量國土劫成、劫壞，如天大雨，普雨天下，無斷絕處。如是無始生死，長夜輪轉，不知苦之本際。譬如擲杖空中，或頭落地，或尾落地，或中落地；如是無始生死，長夜輪轉，或墮地獄，或墮畜生，或墮餓鬼。如是無始生死，長夜輪轉。是故，比丘！當如是學：『斷除諸有，莫令增長。』」\n\n佛說此經已，諸比丘聞佛所說，歡喜奉行。",
+  "english_sa_text": "",
+  "parallels": [
+    {
+      "uid": "sa-2.348",
+      "acronym": "SA2 348",
+      "root_lang": "lzh",
+      "original_title": "縛掃篲",
+      "translated_title": null,
+      "type": "full",
+      "resembling": true,
+      "remark": null
+    },
+    {
+      "uid": "sa-2.347",
+      "acronym": "SA2 347",
+      "root_lang": "lzh",
+      "original_title": "縛掃篲",
+      "translated_title": null,
+      "type": "full",
+      "resembling": true,
+      "remark": null
+    },
+    {
+      "uid": "sn15.9",
+      "acronym": "SN 15.9",
+      "root_lang": "pli",
+      "original_title": "Daṇḍasutta",
+      "translated_title": null,
+      "type": "full",
+      "resembling": true,
+      "remark": null
+    }
+  ],
+  "primary_sn_uid": "sn15.9",
+  "pali_text": "Sāvatthiyaṁ viharati. “Anamataggoyaṁ, bhikkhave, saṁsāro. Pubbā koṭi na paññāyati avijjānīvaraṇānaṁ sattānaṁ taṇhāsaṁyojanānaṁ sandhāvataṁ saṁsarataṁ. Seyyathāpi, bhikkhave, daṇḍo uparivehāsaṁ khitto sakimpi mūlena nipatati, sakimpi majjhena nipatati, sakimpi antena nipatati; evameva kho, bhikkhave, avijjānīvaraṇā sattā taṇhāsaṁyojanā sandhāvantā saṁsarantā sakimpi asmā lokā paraṁ lokaṁ gacchanti, sakimpi parasmā lokā imaṁ lokaṁ āgacchanti. Taṁ kissa hetu? Anamataggoyaṁ, bhikkhave, saṁsāro …pe… alaṁ vimuccitun”ti. Navamaṁ.",
+  "english_sn_text": "At Sāvatthī. “Mendicants, this transmigration has no known beginning. No first point is found of sentient beings roaming and transmigrating, shrouded by ignorance and fettered by craving. Suppose a stick was tossed up in the air. Sometimes it’d fall on its bottom, sometimes the middle, and sometimes the end. It’s the same for sentient beings roaming and transmigrating, shrouded by ignorance and fettered by craving. Sometimes they go from this world to the other world, and sometimes they come from the other world to this world. Why is that? This transmigration has no known beginning. … This is quite enough for you to become disillusioned, dispassionate, and freed regarding all conditions.”",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa901-1000/sa954_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa901-1000/sa954_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛住舍卫国祇树给孤独园。\n尔时，世尊告诸比丘：「众生无始生死，长夜轮转，苦之本际不可得。譬如普天大雨，东西南北无有断绝；如是十方无量国土，劫成劫坏，亦如大雨普澍，无有间断。又譬如掷杖空中，或头落地、或尾落地、或中落地；如是无始轮回，或堕地狱、或堕畜生、或堕饿鬼。如是长夜轮转，不知苦际。是故，比丘！当如是学：『断除诸有，莫令增长。』」\n佛说此经已，诸比丘闻佛所说，欢喜奉行。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在舍卫国祇树给孤独园。\n那时，世尊告诉比丘们：「众生无始以来生死轮转，苦的本际找不到。好比普天大雨，东南西北没有断绝；同样，十方无量国土劫成劫坏，也像大雨普降，没有间断。又好比把杖抛向空中，有时头落地、有时尾落地、有时中段落地；同样，无始轮回中，有时堕地狱、有时堕畜生、有时堕饿鬼。如此长夜轮转，不知道苦的边际。所以，比丘们！应当这样学：『断除诸有，不要让它增长。』」\n佛说完这部经，比丘们听佛所说，都欢喜奉行。",
+  "notes": "本经 SC 平行表所列平行及 `raw_aligned_data.json` 内之巴利本文、Sujato 英译并用以厘定法义；求那跋陀罗汉本用于定位经文与传统术语。confidence=high：primary SN15.9（掷杖／三趣）；汉本前段普雨劫成坏为增饰，义与无始无边相顺，并存；题「缚扫帚」或系异传／误题，正文以掷杖为准。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "high",
+  "prior_review_status": "needs_revision",
+  "similarity_to_source": 0.325,
+  "paragraph_parallel": true
+}

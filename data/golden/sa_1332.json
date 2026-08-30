@@ -1,0 +1,53 @@
+{
+  "id": "SA_1332",
+  "uid": "sa1332",
+  "title": "雜阿含經  卷第五十  林相應  （1332）  睡眠",
+  "chinese_text": "如是我聞：\n\n一時，佛住舍衛國祇樹給孤獨園。\n\n爾時，有異比丘在拘薩羅國人間，止住一林中，入晝正受，身體疲極，夜則睡眠。\n\n時，彼林中止住天神作是念：「此非比丘法，於空林中入晝正受，夜著睡眠，我今當往覺悟之。」\n\n爾時，天神往至比丘前，而說偈言：\n\n「比丘汝起起，　　何以著睡眠？\n\n　睡眠有何利？　　病時何不眠？\n\n　利刺刺身時，　　云何得睡眠？\n\n　汝本捨非家，　　出家之所欲。\n\n　當如本所欲，　　日夜求增進，\n\n　莫得墮睡眠，　　令心不自在。\n\n　無常不恒欲，　　迷醉於愚夫，\n\n　餘人悉被縛，　　汝今已解脫。\n\n　正信而出家，　　何以著睡眠？\n\n　已調伏貪欲，　　其心得解脫。\n\n　具足勝妙智，　　出家何故眠，\n\n　勤精進正受，　　常修堅固力。\n\n　專求般涅槃，　　云何而睡眠？\n\n　起明斷無明，　　滅盡諸有漏。\n\n　調彼後邊身，　　云何著睡眠？」\n\n時，彼天神說是偈時，彼比丘聞其所說，專精思惟，得阿羅漢。",
+  "english_sa_text": "",
+  "parallels": [
+    {
+      "uid": "sa-2.352",
+      "acronym": "SA2 352",
+      "root_lang": "lzh",
+      "original_title": "睡眠",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "sn9.2",
+      "acronym": "SN 9.2",
+      "root_lang": "pli",
+      "original_title": "Upaṭṭhānasutta",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    }
+  ],
+  "primary_sn_uid": "sn9.2",
+  "pali_text": "Ekaṁ samayaṁ aññataro bhikkhu kosalesu viharati aññatarasmiṁ vanasaṇḍe. Tena kho pana samayena so bhikkhu divāvihāragato supati. Atha kho yā tasmiṁ vanasaṇḍe adhivatthā devatā tassa bhikkhuno anukampikā atthakāmā taṁ bhikkhuṁ saṁvejetukāmā yena so bhikkhu tenupasaṅkami; upasaṅkamitvā taṁ bhikkhuṁ gāthāhi ajjhabhāsi: “Uṭṭhehi bhikkhu kiṁ sesi, ko attho supitena te; Āturassa hi kā niddā, sallaviddhassa ruppato. Yāya saddhāya pabbajito, agārasmānagāriyaṁ; Tameva saddhaṁ brūhehi, mā niddāya vasaṁ gamī”ti. “Aniccā addhuvā kāmā, yesu mandova mucchito; Baddhesu muttaṁ asitaṁ, kasmā pabbajitaṁ tape. Chandarāgassa vinayā, avijjāsamatikkamā; Taṁ ñāṇaṁ paramodānaṁ, kasmā pabbajitaṁ tape. Chetvā avijjaṁ vijjāya, āsavānaṁ parikkhayā; Asokaṁ anupāyāsaṁ, kasmā pabbajitaṁ tape. Āraddhavīriyaṁ pahitattaṁ, Niccaṁ daḷhaparakkamaṁ; Nibbānaṁ abhikaṅkhantaṁ, Kasmā pabbajitaṁ tape”ti.",
+  "english_sn_text": "At one time one of the mendicants was staying in the land of the Kosalans in a certain forest grove. Now at that time that mendicant went for the day’s meditation, but fell asleep. The deity haunting that forest had sympathy for that mendicant, and wanted what’s best for them. So they approached that mendicant wanting to stir them up, and addressed them in verse: “Get up, mendicant! Why lie down? What’s the point in sleeping? How can the afflicted slumber, inflicted by an arrow strike? You should amplify the faith that led you to go forth from the lay life to homelessness. Don’t fall under the sway of slumber.” “Sensual pleasures are impermanent and unstable, but dullards still fall for them. Among those who are bound, they’re free and unattached: why bother a renunciate? By removing desire and greed, by going beyond ignorance, that knowledge has been perfectly cleansed: why bother a renunciate? By breaking ignorance with knowledge, by the ending of defilements, they’re sorrowless, unstressed: why bother a renunciate? Energetic, resolute, always staunchly vigorous, aspiring to extinguishment: why bother a renunciate?”",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa1301-1400/sa1332_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa1301-1400/sa1332_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛住舍卫国祇树给孤独园。\n时有异比丘在拘萨罗人间，住一林中，昼入正受，身极疲怠，夜则睡眠。林中天神念：「此非比丘法——空林正受而夜著睡眠，我当往觉悟之。」即说偈言：\n「比丘宜速起，何以著睡眠？病箭刺身时，睡眠复何益？汝本信出家，当增彼信乐；莫为睡眠伏，令心不自在。欲乐无常住，愚夫迷醉之；余人犹被缚，汝已得解脱——正信而出家，何得著睡眠？已伏贪欲心，慧净超无明；漏尽无忧恼，出家何故眠？精进常坚固，专求于涅槃；起明断无明，调此最后身——云何著睡眠？」\n比丘闻已，专精思惟，得阿罗汉。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在舍卫国祇树给孤独园。\n那时有一位比丘在拘萨罗人间，住在一座林中，白天入定，身体非常疲倦，夜里就睡着了。林中的天神心想：「这不是比丘该做的——在空林里入定却夜里贪睡，我应当去唤醒他。」便说偈：\n「比丘，快起来！为什么贪睡？被病箭射中时，睡眠有什么好处？你本因信而出家，应当增长那份信乐；不要被睡眠制服，让心不得自在。欲乐无常不定，愚夫仍迷醉其中；别人还被绑着，你已经解脱——正信出家，怎么还贪睡？已调伏贪欲，以智超越无明；漏尽无忧，出家为什么睡？精进、坚定，一心求涅槃；生起明慧断无明，调御这最后之身——怎么还贪睡？」\n比丘听了，专精思惟，证得阿罗汉。",
+  "notes": "本经 SC 平行表所列平行及 `raw_aligned_data.json` 内之巴利本文、Sujato 英译并用以厘定法义；求那跋陀罗汉本用于定位经文与传统术语。confidence=high：primary SN9.2。巴利后半「何以烦扰出家者」诸偈，汉本统归天神劝进且结以得罗汉；义据 SN（无常欲、离贪、断无明、精进求涅槃），叙次存汉。「正受」＝昼禅／入定（divāvihāra）。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "high",
+  "prior_review_status": "needs_revision",
+  "similarity_to_source": 0.164,
+  "paragraph_parallel": true
+}

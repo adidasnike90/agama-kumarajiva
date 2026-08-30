@@ -1,0 +1,43 @@
+{
+  "id": "SA_749",
+  "uid": "sa749",
+  "title": "雜阿含經  卷第二十九  聖道分相應  （749）  無明",
+  "chinese_text": "如是我聞：\n\n一時，佛住舍衛國祇樹給孤獨園。\n\n爾時，世尊告諸比丘：「若無明為前相，故生諸惡不善法。時，隨生無慚、無愧；無慚、無愧生已，隨生邪見；邪見生已，能起邪志、邪語、邪業、邪命、邪方便、邪念、邪定。若起明為前相，生諸善法。時，慚愧隨生，慚愧生已，能生正見，正見生已，起正志、正語、正業、正命、正方便、正念、正定，次第而起。正定起已，聖弟子得正解脫貪欲、瞋恚、愚癡。如是聖弟子得正解脫已，得正知見：『我生已盡，梵行已立，所作已作，自知不受後有。』」\n\n佛說此經已，諸比丘聞佛所說，歡喜奉行。",
+  "english_sa_text": "",
+  "parallels": [
+    {
+      "uid": "sn45.1",
+      "acronym": "SN 45.1",
+      "root_lang": "pli",
+      "original_title": "Avijjāsutta",
+      "translated_title": "Ignorance",
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    }
+  ],
+  "primary_sn_uid": "sn45.1",
+  "pali_text": "Evaṁ me sutaṁ— ekaṁ samayaṁ bhagavā sāvatthiyaṁ viharati jetavane anāthapiṇḍikassa ārāme. Tatra kho bhagavā bhikkhū āmantesi: “bhikkhavo”ti. “Bhadante”ti te bhikkhū bhagavato paccassosuṁ. Bhagavā etadavoca: “Avijjā, bhikkhave, pubbaṅgamā akusalānaṁ dhammānaṁ samāpattiyā, anvadeva ahirikaṁ anottappaṁ. Avijjāgatassa, bhikkhave, aviddasuno micchādiṭṭhi pahoti; micchādiṭṭhissa micchāsaṅkappo pahoti; micchāsaṅkappassa micchāvācā pahoti; micchāvācassa micchākammanto pahoti; micchākammantassa micchāājīvo pahoti; micchāājīvassa micchāvāyāmo pahoti; micchāvāyāmassa micchāsati pahoti; micchāsatissa micchāsamādhi pahoti. Vijjā ca kho, bhikkhave, pubbaṅgamā kusalānaṁ dhammānaṁ samāpattiyā, anvadeva hirottappaṁ. Vijjāgatassa, bhikkhave, viddasuno sammādiṭṭhi pahoti; sammādiṭṭhissa sammāsaṅkappo pahoti; sammāsaṅkappassa sammāvācā pahoti; sammāvācassa sammākammanto pahoti; sammākammantassa sammāājīvo pahoti; sammāājīvassa sammāvāyāmo pahoti; sammāvāyāmassa sammāsati pahoti; sammāsatissa sammāsamādhi pahotī”ti. Paṭhamaṁ.",
+  "english_sn_text": "So I have heard. At one time the Buddha was staying near Sāvatthī in Jeta’s Grove, Anāthapiṇḍika’s monastery. There the Buddha addressed the mendicants, “Mendicants!” “Venerable sir,” they replied. The Buddha said this: “Mendicants, ignorance leads the attainment of unskillful qualities, with lack of conscience and prudence following along. An ignoramus, sunk in ignorance, produces wrong view. Wrong view produces wrong purpose. Wrong purpose produces wrong speech. Wrong speech produces wrong action. Wrong action produces wrong livelihood. Wrong livelihood produces wrong effort. Wrong effort produces wrong mindfulness. Wrong mindfulness produces wrong immersion. Knowledge leads the attainment of skillful qualities, with conscience and prudence following along. A knowing one, firm in knowledge, produces right view. Right view produces right purpose. Right purpose produces right speech. Right speech produces right action. Right action produces right livelihood. Right livelihood produces right effort. Right effort produces right mindfulness. Right mindfulness produces right immersion.”",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa701-800/sa749_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa701-800/sa749_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛住舍卫国祇树给孤独园。\n佛告比丘：「无明为前相，生诸恶不善法，无惭无愧随生；无惭无愧生已，起邪见；邪见起已，能起邪见、邪思惟、邪语、邪业、邪命、邪精进、邪念、邪定。」\n「明为前相，生诸善法，惭愧随生；惭愧生已，能生正见；正见生已，起正见、正思惟、正语、正业、正命、正精进、正念、正定，次第而起。」\n「正定起已，圣弟子心正解脱贪欲、瞋恚、愚癡；得正知見：『我生已尽，梵行已立，所作已作，自知不受后有。』」\n佛说此经已，诸比丘闻佛所说，欢喜奉行。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在舍卫国祇树给孤独园。\n佛告诉比丘：「无明作为前相，生起各种恶不善法，无惭无愧跟着生起；无惭无愧生起后，生起邪见；邪见生起后，就能生起邪见、邪思惟、邪语、邪业、邪命、邪精进、邪念、邪定。」\n「明作为前相，生起各种善法，惭愧跟着生起；惭愧生起后，能生正见；正见生起后，就生起正见、正思惟、正语、正业、正命、正精进、正念、正定，按次第生起。」\n「正定生起之后，圣弟子的心正解脱贪欲、瞋恚、愚痴；得正知見：『我生已尽，梵行已立，所作已作，自己知道不再受后有。』」\n佛说完这部经，比丘们听佛所说，都欢喜奉行。",
+  "notes": "本经 SC 平行表所列平行及 `raw_aligned_data.json` 内之巴利本文、Sujato 英译并用以厘定法义；求那跋陀罗汉本用于定位经文与传统术语。confidence=high：primary SN45.1 Avijjā（无明→无惭无愧→邪道；明→惭愧→正道）。正志／正方便据罗什常译作正思惟／正精进；汉有解脱智见收束，SN 止于正定——从汉相应结。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "high",
+  "prior_review_status": "needs_revision",
+  "similarity_to_source": 0.377,
+  "paragraph_parallel": true
+}

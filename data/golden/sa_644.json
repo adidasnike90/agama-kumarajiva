@@ -1,0 +1,53 @@
+{
+  "id": "SA_644",
+  "uid": "sa644",
+  "title": "雜阿含經  卷第二十七  根力相應  （644）  須陀洹",
+  "chinese_text": "如是我聞：\n\n一時，佛住舍衛國祇樹給孤獨園。\n\n爾時，世尊告諸比丘：「有五根。何等為五？謂信根、精進根、念根、定根、慧根。若比丘於此五根如實善觀察，如實善觀察者，於三結斷知，謂身見、戒取、疑，是名須陀洹，不墮惡趣法，決定正向於正覺，七有天人往生，究竟苦邊。」\n\n佛說此經已，諸比丘聞佛所說，歡喜奉行。",
+  "english_sa_text": "",
+  "parallels": [
+    {
+      "uid": "sn48.3",
+      "acronym": "SN 48.3",
+      "root_lang": "pli",
+      "original_title": "Dutiyasotāpannasutta",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "sn48.2",
+      "acronym": "SN 48.2",
+      "root_lang": "pli",
+      "original_title": "Paṭhamasotāpannasutta",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    }
+  ],
+  "primary_sn_uid": "sn48.2",
+  "pali_text": "“Pañcimāni, bhikkhave, indriyāni. Katamāni pañca? Saddhindriyaṁ, vīriyindriyaṁ, satindriyaṁ, samādhindriyaṁ, paññindriyaṁ. Yato kho, bhikkhave, ariyasāvako imesaṁ pañcannaṁ indriyānaṁ assādañca ādīnavañca nissaraṇañca yathābhūtaṁ pajānāti— ayaṁ vuccati, bhikkhave, ariyasāvako sotāpanno avinipātadhammo niyato sambodhiparāyaṇo”ti. Dutiyaṁ.",
+  "english_sn_text": "“Mendicants, there are these five faculties. What five? The faculties of faith, energy, mindfulness, immersion, and wisdom. A noble disciple comes to truly understand these five faculties’ gratification, drawback, and escape. Such a noble disciple is called a stream-enterer, not liable to be reborn in the underworld, assured, destined for awakening.”",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa601-700/sa644_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa601-700/sa644_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛住舍卫国祇树给孤独园。\n佛告比丘：「有五根——信、精进、念、定、慧。圣弟子于此五根如实知味、知患、知离，是名须陀洹，不堕恶趣，决定正向正觉，七有天人往生，究竟苦边。」\n佛说此经已，诸比丘闻佛所说，欢喜奉行。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在舍卫国祇树给孤独园。\n佛告比丘：「有五根——信、精进、念、定、慧。圣弟子对这五根如实知味、知患、知离，叫做须陀洹，不堕恶趣，决定正向正觉，最多七次往来天人，究竟苦边。」\n佛说完这部经，比丘们听佛所说，都欢喜奉行。",
+  "notes": "本经 SC 平行表所列平行及 `raw_aligned_data.json` 内之巴利本文、Sujato 英译并用以厘定法义；求那跋陀罗汉本用于定位经文与传统术语。confidence=high：primary SN48.2。据 SN 校正：汉「三结断知」→知五根之味／患／离（assāda／ādīnava／nissaraṇa）；果位须陀洹从两边同。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "high",
+  "prior_review_status": "needs_revision",
+  "similarity_to_source": 0.277,
+  "paragraph_parallel": true
+}

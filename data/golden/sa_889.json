@@ -1,0 +1,32 @@
+{
+  "id": "SA_889",
+  "uid": "sa889",
+  "title": "雜阿含經  卷第三十四  修證相應  （889）  等起",
+  "chinese_text": "如是我聞：\n\n一時，佛住舍衛國祇樹給孤獨園。\n\n時，有異婆羅門來詣佛所，問訊安否，問訊已，退坐一面，白佛言：「世尊！我名等起。」\n\n佛告婆羅門：「夫等起者，謂起於信，起戒、聞、捨、慧，是為等起，非名字為等起也。」\n\n爾時，婆羅門聞佛所說，歡喜隨喜，從坐起而去。",
+  "english_sa_text": "",
+  "parallels": [],
+  "primary_sn_uid": null,
+  "pali_text": "",
+  "english_sn_text": "",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa801-900/sa889_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa801-900/sa889_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛住舍卫国祇树给孤独园。\n时有异婆罗门来诣佛所，问讯安否，问讯已，退坐一面，白佛言：「世尊！我名等起。」\n佛告婆罗门：「夫等起者，起于信，起戒、闻、舍、慧，是名等起——非但名字为等起也。」\n时婆罗门闻佛所说，欢喜随喜，从座起去。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在舍卫国祇树给孤独园。\n当时有一位婆罗门来到佛那里，问候安好，问候完毕，坐在一边，对佛说：「世尊！我名叫等起。」\n佛告诉婆罗门：「所谓等起，是生起信心，生起戒、闻、舍、慧，这才叫做等起——不是仅仅有个名字叫等起。」\n当时婆罗门听了佛所说，欢喜随喜，从座位起来离去。",
+  "notes": "SC 于本经未列可靠巴利平行，故唯以汉本为底，参同相应之巴利定型语厘义；依项目规约「无可靠平行时 confidence 降为 medium/low」。confidence=medium：与 SA_887–888 同型；等起＝令信戒闻舍慧生起。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "medium",
+  "prior_review_status": "needs_revision",
+  "similarity_to_source": 0.362,
+  "paragraph_parallel": true
+}

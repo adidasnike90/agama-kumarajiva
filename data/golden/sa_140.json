@@ -1,0 +1,32 @@
+{
+  "id": "SA_140",
+  "uid": "sa140",
+  "title": "雜阿含經  卷第七  見相應  （140）  憂悲惱苦",
+  "chinese_text": "次經亦如是。差別者，苦、集、滅、道狐疑斷。\n\n次經亦如是。差別者，佛、法、僧、苦、集、滅、道狐疑斷。",
+  "english_sa_text": "Saṁyuktāgama\n\n140. [Second Discourse on Worry, Sorrow, Vexation, and Pain]\n\nThe next discourse is also like this, with this difference: he abandons doubt about dukkha, its arising, its cessation, and the path.\n\nTranslated by Bhikkhu Anālayo. Originally published in ‘On Views and Penetrative Knowledge – A Translation of Saṁyukta-āgama Discourses 139 to 187 (Fascicle 7)’, Dharma Drum Journal of Buddhist Studies, 2015, vol. 17 pp. 43–100.\n\nPrepared for SuttaCentral by Seniya Ariyakumara and Ayya Vimala.",
+  "parallels": [],
+  "primary_sn_uid": null,
+  "pali_text": "",
+  "english_sn_text": "",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa101-200/sa140_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa101-200/sa140_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "次经亦如是说，所差别者：若多闻圣弟子于此六见处观察非我、非我所，如是观者，于苦、集、灭、道狐疑断。\n如是广说，乃至究竟苦边。佛说此经已，诸比丘闻佛所说，欢喜奉行。",
+  "modern_psychology_text": "接下来的一经也这样说，差别在于：如果多闻圣弟子对这六种见处观察为非我、非我所，这样观察的人，对苦、集、灭、道的犹疑就断了。\n以下如上经广说，直到走到苦的尽头。佛说完这部经，比丘们听佛所说，都欢喜奉行。",
+  "notes": "底本此处「次經亦如是。差別者……」二行连书，SuttaCentral 切分时于 SA_140／SA_141 各存两行全文，实为二经；今以第一行（四谛除疑）属本经，第二行属 SA_141。无独立经文，无 SC 平行，仅依 SA_139 之纲补出差别语。gold_reconstructed，confidence=low。",
+  "review_status": "gold_reconstructed",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "low",
+  "prior_review_status": "needs_revision",
+  "similarity_to_source": 0.108,
+  "paragraph_parallel": true
+}

@@ -1,0 +1,90 @@
+{
+  "id": "SA_77",
+  "uid": "sa77",
+  "title": "雜阿含經  卷第三  陰相應  （七七）  貪",
+  "chinese_text": "如是我聞：\n\n一時，佛住舍衛國祇樹給孤獨園。\n\n爾時，世尊告諸比丘：「當斷色欲貪，欲貪斷已，則色斷；色斷已，得斷知；得斷知已，則根本斷。如截多羅樹頭，未來不復更生。如是受、想、行、識欲貪斷，乃至未來世不復更生。」\n\n佛說此經已，諸比丘聞佛所說，歡喜奉行。",
+  "english_sa_text": "Saṁyuktāgama\n\n77. Discourse on Desire and Lust\n\nThus have I heard. At one time the Buddha was staying at Sāvatthī in Jeta’s Grove, Anāthapiṇḍika’s Park.\n\nAt that time the Blessed One said to the monks: “You should abandon desire and lust for bodily form. Having abandoned desire and lust for it, bodily form will be abandoned. Having abandoned bodily form, you will attain the understanding that it has been abandoned. Having attained the understanding that it has been abandoned, its root will be abandoned, like cutting off the crown of a Palmyra tree, so that it will not grow again in the future.\n\n“In the same way, you should abandon desire and lust for feeling … perception … formations … consciousness … up to … so that it will not grow again in the future.” T 20a\n\nWhen the Buddha had spoken this discourse, the monks, hearing what the Buddha had said, were delighted and received it respectfully.\n\nTranslated by Bhikkhu Anālayo. Originally published in ‘On the Five Aggregates (3)—A Translation of Saṁyukta-āgama Discourses 59 to 87’. Dharma Drum Journal of Buddhist Studies, vol. 13, pp. 1–65 (2013). New Taipei City: Dharma Drum Buddhist College.\n\nPrepared for SuttaCentral by Bhikkhu Sujato.",
+  "parallels": [
+    {
+      "uid": "sn22.25",
+      "acronym": "SN 22.25",
+      "root_lang": "pli",
+      "original_title": "Chandarāgasutta",
+      "translated_title": "Desire and Lust",
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "sn23.9",
+      "acronym": "SN 23.9",
+      "root_lang": "pli",
+      "original_title": "Chandarāgasutta",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "cnd11",
+      "acronym": "Cnd 11",
+      "root_lang": "pli",
+      "original_title": "Nandamāṇavapucchāniddesa",
+      "translated_title": null,
+      "type": "mention",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "mnd11",
+      "acronym": "Mnd 11",
+      "root_lang": "pli",
+      "original_title": "Kalahavivādasuttaniddesa",
+      "translated_title": null,
+      "type": "mention",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "mnd2",
+      "acronym": "Mnd 2",
+      "root_lang": "pli",
+      "original_title": "Guhaṭṭhakasuttaniddesa",
+      "translated_title": null,
+      "type": "mention",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "mnd2",
+      "acronym": "Mnd 2",
+      "root_lang": "pli",
+      "original_title": "Guhaṭṭhakasuttaniddesa",
+      "translated_title": null,
+      "type": "mention",
+      "resembling": false,
+      "remark": null
+    }
+  ],
+  "primary_sn_uid": "sn22.25",
+  "pali_text": "Sāvatthinidānaṁ. “Yo, bhikkhave, rūpasmiṁ chandarāgo taṁ pajahatha. Evaṁ taṁ rūpaṁ pahīnaṁ bhavissati ucchinnamūlaṁ tālāvatthukataṁ anabhāvaṅkataṁ āyatiṁ anuppādadhammaṁ. Yo vedanāya chandarāgo taṁ pajahatha. Evaṁ sā vedanā pahīnā bhavissati ucchinnamūlā tālāvatthukatā anabhāvaṅkatā āyatiṁ anuppādadhammā. Yo saññāya chandarāgo taṁ pajahatha. Evaṁ sā saññā pahīnā bhavissati ucchinnamūlā tālāvatthukatā anabhāvaṅkatā āyatiṁ anuppādadhammā. Yo saṅkhāresu chandarāgo taṁ pajahatha. Evaṁ te saṅkhārā pahīnā bhavissanti ucchinnamūlā tālāvatthukatā anabhāvaṅkatā āyatiṁ anuppādadhammā. Yo viññāṇasmiṁ chandarāgo taṁ pajahatha. Evaṁ taṁ viññāṇaṁ pahīnaṁ bhavissati ucchinnamūlaṁ tālāvatthukataṁ anabhāvaṅkataṁ āyatiṁ anuppādadhamman”ti. Catutthaṁ.",
+  "english_sn_text": "At Sāvatthī. “Mendicants, give up desire and greed for form. Thus that form will be given up, cut off at the root, made like a palm stump, obliterated, and unable to arise in the future. Give up desire and greed for feeling … perception … choices … consciousness. Thus that consciousness will be given up, cut off at the root, made like a palm stump, obliterated, and unable to arise in the future.”",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa1-100/sa77_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa1-100/sa77_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时佛在舍卫国祇树给孤独园。\n尔时世尊告诸比丘：当断于色欲贪。欲贪断故，色则断；色断故，得断遍知；得断遍知故，根本永断，譬如截多罗树头，无复生分，于未来世永不复生。如是，受、想、行、识欲贪断故，识则断；识断故，得断遍知；得断遍知故，根本永断，亦如截多罗树头，无复生分，于未来世永不复生。\n佛说此经已，诸比丘闻佛所说，欢喜奉行。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在舍卫国祇树给孤独园。\n那时，世尊告诉比丘们：应当断除对色的欲贪。欲贪断了，色就断了；色断了，就得到断的遍知；得到断的遍知，根本就永远断绝，好比把多罗树的树头截去，再没有生长的余地，于未来世永远不再生起。同样，对受、想、行、识的欲贪断了，识就断了；识断了，就得到断的遍知；得到断的遍知，根本就永远断绝，也像截去多罗树头一样，再没有生长的余地，于未来世永远不再生起。\n佛说完这部经，比丘们听佛所说，都欢喜奉行。",
+  "notes": "据 SN22.25（Chandarāga）：断五蕴之欲贪，则彼蕴断，断其根本，如多罗树桩（tālāvatthukata），未来不复生法。汉译「得断知」即遍知（pariññā）之断遍知，今作「得断遍知」以免误读。汉本受想行识作「乃至」略写，今依例展开。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "high"
+}

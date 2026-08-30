@@ -1,0 +1,79 @@
+{
+  "id": "SA_784",
+  "uid": "sa784",
+  "title": "雜阿含經  卷第三十  聖道分相應  （784）  邪正",
+  "chinese_text": "如是我聞。一時佛住舍衞國祇樹給孤獨園。爾時世尊告諸比丘。有邪有正。諦聽善思。當爲汝説。何等爲邪。謂邪見乃至邪定。何等爲正。謂正見乃至正定。何等爲正見。謂説有施有説有齋。有善行有惡行。有善惡行果報。有此世有他世。有父母有衆生生。有阿羅漢善到善向。有此世他世。自知作證具足住。我生已盡。梵行已立。所作已作。自知不受後有。何等爲正志。謂出要志。無恚志。不害志。何等爲正語。謂離妄語。離兩舌。離惡口。離綺語。何等爲正業。謂離殺･盜･婬。何等爲正命。謂如法求衣服･飮食･臥具･湯藥。非不如法。何等爲正方便。謂欲精進。方便出離。勤競堪能。常行不退。何等爲正念。謂念隨順。念不妄不虚。何等爲正定。謂住心不亂。堅固攝持。寂止三昧一心。佛説此經已。諸比丘聞佛所説。歡喜奉行",
+  "english_sa_text": "Thus I have heard: One time, the Buddha stayed at Anāthapiṇḍada’s Park in Jeta’s Grove of Śrāvastī. It was then that the Bhagavān addressed the monks, “There’s wrong, and there’s right. Listen closely and well consider it. I will explain this for you. “What’s wrong? This refers to wrong view … wrong concentration. What’s right? This refers to right view … right concentration. “What’s right view? It’s refers to the teaching that there’s generosity, there’s the teaching, there are observances, there’s good conduct and bad conduct, and there are the results of good and bad conduct. There’s this world, and there’s the other world. There’s father and mother and the birth of sentient beings. There are arhats who well arrive, are well-headed, and know and realize for themselves the perfect abode, whether it’s in this or the other world: ‘My births have been ended, the religious practice has been established, the task has been accomplished. I know that I won’t be subject to a later existence.’ “What’s right intention? It’s intent of renunciation, intent without anger, and intent that’s not harmful. “What’s right speech? It’s being free of false speech, free of duplicity, free of harsh words, and free of fancy speech. “What’s right action? It’s being free of killing, stealing, and sexual misconduct. “What’s right livelihood? It’s pursuing clothing, food and drink, bedding, and medicine in ways that are according to the teaching and not contrary to the teaching. “What’s right method? It’s desire, effort, method, setting out, striving, and the capability to work constantly and not retreat. “What’s right mindfulness? It’s mindfully following and remembering that’s not false or pointless. “What’s right concentration? It’s abiding with mind unconfused, resolute, collected, tranquil, concentrated, and single-minded.” After the Buddha taught this sūtra, the monks who heard what he taught rejoiced and approved.",
+  "parallels": [
+    {
+      "uid": "sa770",
+      "acronym": "SA 770",
+      "root_lang": "lzh",
+      "original_title": "邪",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "sn45.21",
+      "acronym": "SN 45.21",
+      "root_lang": "pli",
+      "original_title": "Micchattasutta",
+      "translated_title": "Wrongness",
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "t112",
+      "acronym": "T 112",
+      "root_lang": "lzh",
+      "original_title": "佛說八正道",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "arv7",
+      "acronym": "Arv 7",
+      "root_lang": "san",
+      "original_title": "Dvāviṁśatir-indriyāṇi",
+      "translated_title": "The Twenty-Two Faculties",
+      "type": "full",
+      "resembling": true,
+      "remark": null
+    },
+    {
+      "uid": "sn45.8",
+      "acronym": "SN 45.8",
+      "root_lang": "pli",
+      "original_title": "Vibhaṅgasutta",
+      "translated_title": "Analysis",
+      "type": "full",
+      "resembling": true,
+      "remark": null
+    }
+  ],
+  "primary_sn_uid": "sn45.21",
+  "pali_text": "Sāvatthinidānaṁ. “Micchattañca vo, bhikkhave, desessāmi, sammattañca. Taṁ suṇātha. Katamañca, bhikkhave, micchattaṁ? Seyyathidaṁ—micchādiṭṭhi …pe… micchāsamādhi. Idaṁ vuccati, bhikkhave, micchattaṁ. Katamañca, bhikkhave, sammattaṁ? Seyyathidaṁ—sammādiṭṭhi …pe… sammāsamādhi. Idaṁ vuccati, bhikkhave, sammattan”ti. Paṭhamaṁ.",
+  "english_sn_text": "At Sāvatthī. “Mendicants, I will teach you the wrong way and the right way. Listen … And what is the wrong way? It is wrong view, wrong purpose, wrong speech, wrong action, wrong livelihood, wrong effort, wrong mindfulness, and wrong immersion. This is called the wrong way. And what is the right way? It is right view, right purpose, right speech, right action, right livelihood, right effort, right mindfulness, and right immersion. This is called the right way.”",
+  "errors": [],
+  "kumarajiva_style_text": "如是我闻：一时，佛住舍卫国祇树给孤独园。\n尔时世尊告诸比丘：「有邪有正。谛听，善思，当为汝说。何等为邪？谓邪见、邪志、邪语、邪业、邪命、邪方便、邪念、邪定。何等为正？谓正见、正志、正语、正业、正命、正方便、正念、正定。」\n「何等正见？谓知有施、有说、有斋，有善恶业及果报，有此世他世，有父母、有众生生，有阿罗汉善到善向，于此世他世自知作证：我生已尽，梵行已立，所作已作，自知不受后有。」\n「何等正志？谓出要志、无恚志、不害志。何等正语？谓离妄语、两舌、恶口、绮语。何等正业？谓离杀、盗、淫。何等正命？谓如法求衣食卧具汤药，非不如法。何等正方便？谓欲精进、方便出离、勤竞堪能、常行不退。何等正念？谓念随顺，不妄不虚。何等正定？谓心住不乱，坚固摄持，寂止三昧，系念一心。」\n佛说此经已，诸比丘闻佛所说，欢喜奉行。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在舍卫国祇树给孤独园。\n那时世尊告诉诸比丘：「有邪，也有正。仔细听，好好想，我为你们说。什么是邪？就是邪见、邪志、邪语、邪业、邪命、邪方便、邪念、邪定。什么是正？就是正见、正志、正语、正业、正命、正方便、正念、正定。」\n「什么是正见？就是知道有布施、有教说、有斋戒，有善恶业及果报，有此世他世，有父母、有众生生，有阿罗汉善到善向，在此世他世自己证知：我生已尽，梵行已立，所作已作，自己知道不受后有。」\n「什么是正志？就是出离之志、无瞋之志、不害之志。什么是正语？就是远离妄语、两舌、恶口、绮语。什么是正业？就是远离杀、盗、淫。什么是正命？就是如法求衣服饮食卧具汤药，而不是不如法。什么是正方便？就是有欲精进、方便出离、勤奋胜任、常行不退。什么是正念？就是念能随顺，不虚妄。什么是正定？就是心安住不乱，坚固摄持，寂止三昧，一心。」\n佛说完这部经，比丘们听佛所说，都欢喜奉行。",
+  "notes": "本经 SC 平行表所列平行及 `raw_aligned_data.json` 内之巴利本文、Sujato 英译并用以厘定法义；求那跋陀罗汉本用于定位经文与传统术语。confidence=high：primary SN45.21 Micchatta（邪／正道列名）；汉具各支释义，近 SN45.8／世间正见定型；据巴利厘「邪／正」总纲，释义从汉＋早期定型。正志＝sammāsaṅkappa；正方便＝sammāvāyāma。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "high",
+  "prior_review_status": "needs_revision",
+  "similarity_to_source": 0.141,
+  "paragraph_parallel": true
+}

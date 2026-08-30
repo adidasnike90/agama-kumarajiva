@@ -1,0 +1,32 @@
+{
+  "id": "SA_534",
+  "uid": "sa534",
+  "title": "雜阿含經  卷第二十一  弟子所說相應  （534）  好起諍訟",
+  "chinese_text": "如是我聞：\n\n一時，佛住舍衛國。乃至佛告諸比丘：「此眾生者，過去世時，於此舍衛國迦葉佛法中出家作比丘，好起諍訟，鬪亂眾僧，作諸口舌，令不和合，先住比丘厭惡捨去，未來者不來，緣斯罪故，已地獄中受無量苦，地獄餘罪，今得此身續受斯苦。諸比丘！如大目揵連所見，真實不異，當受持之。」\n\n佛說此經已，諸比丘聞佛所說，歡喜奉行。",
+  "english_sa_text": "",
+  "parallels": [],
+  "primary_sn_uid": null,
+  "pali_text": "",
+  "english_sn_text": "",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa501-600/sa534_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa501-600/sa534_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛住舍卫国。\n尊者大目犍连言：「我于路中见一大身众生，其身裂而为二，各执利刃，互相割截，乘虚而行，啼哭号呼，乘虚而行，啼哭号呼。」\n佛告诸比丘：「此众生者，过去于此舍卫国为迦叶佛法中出家比丘，好起诤讼、斗乱众僧，缘斯罪故，堕地狱受无量苦；地狱余报，今得此身，续受其苦。诸比丘！如大目犍连所见，真实不虚，应当受持。。」\n作诸口舌令不和合，先住比丘厌恶舍去，未来者不来。\n佛说此经已，诸比丘闻佛所说，欢喜奉行。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在舍卫国。\n大目犍连尊者说：「我在路中看见一个身躯巨大的众生，它的身体裂成两半，各执利刃，互相割截，在空中飞行，啼哭号呼，在空中飞行，啼哭号呼。」\n佛告诉比丘们：「这个众生，过去在此舍卫国做在迦叶佛时代出家做比丘，好起诤讼、斗乱众僧，因为那个罪业的缘故，堕入地狱受无量苦；地狱的剩余果报，现在得到这样的身，继续承受那些苦。诸比丘！如同大目犍连所见的，真实不虚，你们应当受持。。」\n造诸口舌令不和合，原先住的比丘厌恶而离去，未来者也不来。\n佛说完这部经，比丘们听佛所说，都欢喜奉行。",
+  "notes": "SC 于本经未列可靠巴利平行，故唯以汉本为底，参同相应之巴利定型语厘义；依项目规约「无可靠平行时 confidence 降为 medium/low」，本经作 medium。confidence=medium：汉本「乃至」略去目连路见，据同卷 SN19 系补裂身相；诤讼斗乱众僧义从汉。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "medium",
+  "prior_review_status": "needs_revision",
+  "similarity_to_source": 0.276,
+  "paragraph_parallel": true
+}

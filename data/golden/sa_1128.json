@@ -1,0 +1,77 @@
+{
+  "id": "SA_1128",
+  "uid": "sa1128",
+  "title": "雜阿含經  卷第五十  不壞淨相應  （1128）  四果",
+  "chinese_text": "如是我聞：\n\n一時，佛住舍衛國祇樹給孤獨園。\n\n爾時，世尊告諸比丘：「有四沙門果。何等為四？謂須陀洹果、斯陀含果、阿那含果、阿羅漢果。」\n\n佛說此經已，諸比丘聞佛所說，歡喜奉行。",
+  "english_sa_text": "",
+  "parallels": [
+    {
+      "uid": "sn55.58",
+      "acronym": "SN 55.58",
+      "root_lang": "pli",
+      "original_title": "Arahattaphalasutta",
+      "translated_title": null,
+      "type": "full",
+      "resembling": true,
+      "remark": null
+    },
+    {
+      "uid": "sn55.57",
+      "acronym": "SN 55.57",
+      "root_lang": "pli",
+      "original_title": "Anāgāmiphalasutta",
+      "translated_title": null,
+      "type": "full",
+      "resembling": true,
+      "remark": null
+    },
+    {
+      "uid": "sn55.56",
+      "acronym": "SN 55.56",
+      "root_lang": "pli",
+      "original_title": "Sakadāgāmiphalasutta",
+      "translated_title": null,
+      "type": "full",
+      "resembling": true,
+      "remark": null
+    },
+    {
+      "uid": "sn55.55",
+      "acronym": "SN 55.55",
+      "root_lang": "pli",
+      "original_title": "Sotāpattiphalasutta",
+      "translated_title": null,
+      "type": "full",
+      "resembling": true,
+      "remark": null
+    }
+  ],
+  "primary_sn_uid": "sn55.55",
+  "pali_text": "“Cattārome, bhikkhave, dhammā bhāvitā bahulīkatā sotāpattiphalasacchikiriyāya saṁvattanti. Katame cattāro? Sappurisasaṁsevo, saddhammassavanaṁ, yonisomanasikāro, dhammānudhammappaṭipatti— ime kho, bhikkhave, cattāro dhammā bhāvitā bahulīkatā sotāpattiphalasacchikiriyāya saṁvattantī”ti. Pañcamaṁ.",
+  "english_sn_text": "“Mendicants, when four things are developed and cultivated they lead to the realization of the fruit of stream-entry. What four? Associating with true persons, listening to the true teaching, rational application of mind, and practicing in line with the teaching. When these four things are developed and cultivated they lead to the realization of the fruit of stream-entry.”",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa1101-1200/sa1128_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa1101-1200/sa1128_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛住舍卫国祇树给孤独园。\n尔时世尊告诸比丘：「沙门之果凡有四种——预流、一来、不还、无生；是名四沙门果。」\n佛说此经已，诸比丘闻佛所说，欢喜奉行。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在舍卫国祇树给孤独园。\n那时世尊告诉比丘们：「沙门的果位一共有四种——预流（须陀洹）、一来（斯陀含）、不还（阿那含）、无生（阿罗汉）；这叫四沙门果。」\n佛说完这部经，比丘们听佛所说，都欢喜奉行。",
+  "notes": "本经 SC 平行表所列平行及 `raw_aligned_data.json` 内之巴利本文、Sujato 英译并用以厘定法义；求那跋陀罗汉本用于定位经文与传统术语。confidence=medium：SC 标 ~SN55.55–58，然彼明四预流支趣果；本经唯列四沙门果名，从汉略说，不据 SN 扩写预流支。文言用预流／一来／不还／无生，白话括注传统音译。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "medium",
+  "prior_review_status": "needs_revision",
+  "similarity_to_source": 0.317,
+  "paragraph_parallel": true,
+  "quality_gate_reasons": [
+    "sim_lit=0.505>=0.5",
+    "lit_mod_gap=0.308>=0.1"
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "id": "SA_1305",
+  "uid": "sa1305",
+  "title": "雜阿含經  卷第五十  雜相應  （1305）  般闍羅",
+  "chinese_text": "如是我聞：\n\n一時，佛住舍衛國祇樹給孤獨園。\n\n時，有般闍羅健天子，容色絕妙，於後夜時來詣佛所，稽首佛足，退坐一面。身諸光明遍照祇樹給孤獨園。\n\n時，般闍羅揵天子而說偈言：\n\n「憒亂之處所，　　黠慧者能覺，\n\n　禪思覺所覺，　　牟尼思惟力。」\n\n爾時，世尊說偈答言：\n\n「了知憒亂法，　　正覺得涅槃，\n\n　若得正繫念，　　一心善正受。」\n\n時，般闍羅健天子聞佛所說，歡喜隨喜，稽首佛足，即沒不現。",
+  "english_sa_text": "",
+  "parallels": [
+    {
+      "uid": "sa-2.304",
+      "acronym": "SA2 304",
+      "root_lang": "lzh",
+      "original_title": "般闍羅",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "sn2.7",
+      "acronym": "SN 2.7",
+      "root_lang": "pli",
+      "original_title": "Pañcālacaṇḍasutta",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    }
+  ],
+  "primary_sn_uid": "sn2.7",
+  "pali_text": "Sāvatthinidānaṁ. Ekamantaṁ ṭhito kho pañcālacaṇḍo devaputto bhagavato santike imaṁ gāthaṁ abhāsi: “Sambādhe vata okāsaṁ, Avindi bhūrimedhaso; Yo jhānamabujjhi buddho, Paṭilīnanisabho munī”ti. “Sambādhe vāpi vindanti, (pañcālacaṇḍāti bhagavā) Dhammaṁ nibbānapattiyā; Ye satiṁ paccalatthaṁsu, Sammā te susamāhitā”ti.",
+  "english_sn_text": "At Sāvatthī. Standing to one side, the godling Pañcālacaṇḍa spoke this verse in the Buddha’s presence: “The opening amid confinement was discovered by the Buddha of vast intelligence, who awakened to absorption, the sage, the solitary boss bull.” “Even amid confinement they understand,” said the Buddha to Pañcālacaṇḍa, “the principle for attaining extinguishment. Those who have acquired mindfulness are perfectly serene in samādhi.”",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa1301-1400/sa1305_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa1301-1400/sa1305_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛住舍卫国祇树给孤独园。\n后夜分，有般闍罗健天子容色绝妙，来诣佛所，稽首礼足，退坐一面；身诸光明遍照祇树给孤独园。\n般闍罗健天子说偈：「憒乱之处所，黠慧者能觉；禅思觉所觉，牟尼思惟力。」\n世尊说偈答：「了知憒乱法，亦得知涅槃；若得正系念，一心善正受。」\n般闍罗健天子闻已欢喜，礼足即没。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在舍卫国祇树给孤独园。\n后夜分，有般闍罗健天子容色绝妙，来到佛前，顶礼佛足，退坐一面；身上的光明遍照祇树给孤独园。\n般闍罗健天子说偈：「在逼窄憒乱之处，广慧者能发现出路；以禅而觉所应觉，那是牟尼的思惟力。」\n世尊说偈答：「即使在逼窄憒乱中，也能了知趣向涅槃的法；若得正念，便能一心善入正定。」\n般闍罗健天子听完欢喜随喜，顶礼佛足，随即隐没不见。",
+  "notes": "本经 SC 平行表所列平行及 `raw_aligned_data.json` 内之巴利本文、Sujato 英译并用以厘定法义；求那跋陀罗汉本用于定位经文与传统术语。confidence=high：primary SN2.7（Pañcālacaṇḍa）。据 SN：sambādhe okāsa——逼窄中得空隙；佛答即使逼窄中亦得知趣涅槃之法，正念者正定。汉「正觉得涅槃」作「得知涅槃／趣灭之法」，避后期「正觉」歧读。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "high",
+  "prior_review_status": "needs_revision",
+  "similarity_to_source": 0.28,
+  "paragraph_parallel": true
+}

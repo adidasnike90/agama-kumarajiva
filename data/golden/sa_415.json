@@ -1,0 +1,33 @@
+{
+  "id": "SA_415",
+  "uid": "sa415",
+  "title": "雜阿含經  卷第十七  界相應  （415）  說論",
+  "chinese_text": "如是我聞：\n\n一時，佛住王舍城迦蘭陀竹園。時，有眾多比丘集於食堂，作如是說論：「某甲檀越作麁疎食，我等食已，無味無力，我等不如捨彼麁食，而行乞食。所以者何？比丘乞食時得好食，又見好色，時聞好聲，多人所識，亦得衣被、臥具、醫藥。」\n\n爾時，世尊於禪定中，以天耳聞諸比丘論說之聲，即詣食堂……如是廣說，乃至「正向涅槃。」\n\n佛說此經已，諸比丘聞佛所說，歡喜奉行。",
+  "english_sa_text": "",
+  "parallels": [],
+  "primary_sn_uid": null,
+  "pali_text": "",
+  "english_sn_text": "",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa401-500/sa415_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa401-500/sa415_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛在王舍城迦兰陀竹园。\n时有众多比丘集于食堂，共作说论：「某檀越作粗疏食，我等食已无味无力；不如捨彼粗食而行乞食——乞时得好食，又见好色、闻好声，多人所识，亦得衣被、卧具、医药。」\n世尊以天耳闻已，往诣食堂，问已，比丘具白。佛言：「莫作如是论。所以者何？此非义饶益，非法饶益，非梵行饶益，非智、非觉，不向涅槃。应当论说：『此苦圣谛、此苦集圣谛、此苦灭圣谛、此苦灭道迹圣谛。』所以者何？此四圣谛义饶益、法饶益、梵行饶益，正智、正觉、正向涅槃。」\n「是故比丘于四圣谛未无间等者，当勤方便，起增上欲，精进修学。何等为四？谓苦圣谛、苦集圣谛、苦灭圣谛、苦灭道迹圣谛。」\n佛说此经已，诸比丘闻佛所说，欢喜奉行。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在王舍城迦兰陀竹园。\n当时有许多比丘聚集在食堂里，一起议论：「某位檀越做的饭菜粗陋，我们吃了无味无力；不如捨了那粗食去乞食——乞食时能得好食，又能见好色、闻好声，为许多人所识，还能得衣被、卧具、医药。」\n世尊用天耳听见以后，来到食堂，询问之后，比丘们都禀告了。佛说：「不要作这样的议论。为什么？这没有义饶益，没有法饶益，没有梵行饶益，不是正智、正觉，不向涅槃。应当讨论：『这是苦圣谛、这是苦集圣谛、这是苦灭圣谛、这是苦灭道迹圣谛。』为什么？这四圣谛有义饶益、法饶益、梵行饶益，能得正智、正觉，正向涅槃。」\n「所以比丘对四圣谛还没有无间等的，应当勤加方便，发起强盛愿欲，精进修学。哪四种？就是苦圣谛、苦集圣谛、苦灭圣谛、苦灭道迹圣谛。」\n佛说完这部经，比丘们听佛所说，都欢喜奉行。",
+  "notes": "SC 于本经未列可靠巴利平行，故唯以汉本为底，参同相应之巴利定型语厘义；依项目规约「无可靠平行时 confidence 降为 medium/low」，本经作 medium。底本『即诣食堂……如是广说，乃至正向涅槃』为交叉指示；依 SA_411／414 食堂斥戏论框重建，差别保留汉本『粗食／乞食利养』话题。",
+  "review_status": "gold_reconstructed",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "medium",
+  "prior_review_status": "needs_revision",
+  "reconstruction_basis": "底本『即诣食堂……如是广说，乃至正向涅槃』为交叉指示；依 SA_411／414 框 + 汉本『粗食／乞食利养』差别重建",
+  "similarity_to_source": 0.199,
+  "paragraph_parallel": true
+}

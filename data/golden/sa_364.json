@@ -1,0 +1,43 @@
+{
+  "id": "SA_364",
+  "uid": "sa364",
+  "title": "雜阿含經  卷第十四  因緣相應  （364）  次法",
+  "chinese_text": "如是我聞：\n\n一時，佛住舍衛國祇樹給孤獨園。\n\n爾時，世尊告諸比丘：「謂法次法向。諸比丘！云何名為法次法向？」\n\n諸比丘白佛：「世尊是法根、法眼、法依。善哉！世尊！唯願為說，諸比丘聞已，當受奉行。」\n\n佛告諸比丘：「若比丘於老、病、死，生厭、離欲、滅盡向，是名法次法向。如是生，乃至行，生厭、離欲、滅盡向，是名法次法向。諸比丘！是名如來施設法次法向。」\n\n佛說此經已，諸比丘聞佛所說，歡喜奉行。",
+  "english_sa_text": "",
+  "parallels": [
+    {
+      "uid": "sn12.16",
+      "acronym": "SN 12.16",
+      "root_lang": "pli",
+      "original_title": "Dhammakathikasutta",
+      "translated_title": "A Speaker on the Dhamma",
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    }
+  ],
+  "primary_sn_uid": "sn12.16",
+  "pali_text": "Sāvatthiyaṁ … Atha kho aññataro bhikkhu yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṁ abhivādetvā ekamantaṁ nisīdi. Ekamantaṁ nisinno kho so bhikkhu bhagavantaṁ etadavoca: “‘dhammakathiko dhammakathiko’ti, bhante, vuccati. Kittāvatā nu kho, bhante, dhammakathiko hotī”ti? “Jarāmaraṇassa ce bhikkhu nibbidāya virāgāya nirodhāya dhammaṁ deseti, ‘dhammakathiko bhikkhū’ti alaṁvacanāya. Jarāmaraṇassa ce bhikkhu nibbidāya virāgāya nirodhāya paṭipanno hoti, ‘dhammānudhammappaṭipanno bhikkhū’ti alaṁvacanāya. Jarāmaraṇassa ce bhikkhu nibbidā virāgā nirodhā anupādāvimutto hoti, ‘diṭṭhadhammanibbānappatto bhikkhū’ti alaṁvacanāya. Jātiyā ce bhikkhu …pe… bhavassa ce bhikkhu … upādānassa ce bhikkhu … taṇhāya ce bhikkhu … vedanāya ce bhikkhu … phassassa ce bhikkhu … saḷāyatanassa ce bhikkhu … nāmarūpassa ce bhikkhu … viññāṇassa ce bhikkhu … saṅkhārānañce bhikkhu … avijjāya ce bhikkhu nibbidāya virāgāya nirodhāya dhammaṁ deseti, ‘dhammakathiko bhikkhū’ti alaṁvacanāya. Avijjāya ce bhikkhu nibbidāya virāgāya nirodhāya paṭipanno hoti, ‘dhammānudhammappaṭipanno bhikkhū’ti alaṁvacanāya. Avijjāya ce bhikkhu nibbidā virāgā nirodhā anupādāvimutto hoti, ‘diṭṭhadhammanibbānappatto bhikkhū’ti alaṁvacanāyā”ti. Chaṭṭhaṁ.",
+  "english_sn_text": "At Sāvatthī. Then a mendicant went up to the Buddha, bowed, sat down to one side, and said to him: “Sir, they speak of a ‘Dhamma speaker’. How is a Dhamma speaker defined?” “If a mendicant teaches Dhamma for disillusionment, dispassion, and cessation regarding old age and death, they’re qualified to be called ‘a mendicant who speaks on Dhamma’. If they practice for disillusionment, dispassion, and cessation regarding old age and death, they’re qualified to be called ‘a mendicant who practices in line with the teaching’. If they’re freed by not grasping, by disillusionment, dispassion, and cessation regarding old age and death, they’re qualified to be called ‘a mendicant who has attained extinguishment in this very life’. If a mendicant teaches Dhamma for disillusionment regarding rebirth … continued existence … grasping … craving … feeling … contact … the six sense fields … name and form … consciousness … choices … If a mendicant teaches Dhamma for disillusionment, dispassion, and cessation regarding ignorance, they’re qualified to be called ‘a mendicant who speaks on Dhamma’. If they practice for disillusionment, dispassion, and cessation regarding ignorance, they’re qualified to be called ‘a mendicant who practices in line with the teaching’. If they’re freed by not grasping, by disillusionment, dispassion, and cessation regarding ignorance, they’re qualified to be called ‘a mendicant who has attained extinguishment in this very life’.”",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa301-400/sa364_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa301-400/sa364_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛在舍卫国祇树给孤独园。\n尔时，世尊告诸比丘：「云何名法次法向？」\n诸比丘白佛：「世尊是法根、法眼、法依。愿说，我等当受奉行。」\n佛告诸比丘：「若比丘于老病死，向于生厌、离贪、灭尽——是名法次法向。如是于生乃至行，向于生厌、离贪、灭尽——是名如来所施设法次法向。」\n佛说此经已，诸比丘闻佛所说，欢喜奉行。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在舍卫国祇树给孤独园。\n那时，世尊告诉比丘们：「什么叫做法次法向？」\n比丘们说：「世尊是法根、法眼、法依。请说，我们当受奉行。」\n佛告诉比丘们：「若比丘对老病死，趋向生厌、离贪、灭尽——这叫法次法向。同样，对生乃至行，趋向生厌、离贪、灭尽——这就是如来所安立的法次法向。」\n佛说完这部经，比丘们听佛所说，都欢喜奉行。",
+  "notes": "本经 SC 平行表所列平行及 `raw_aligned_data.json` 内之巴利本文、Sujato 英译并用以厘定法义；求那跋陀罗汉本用于定位经文与传统术语。confidence=high：SN12.16 之「随法行」分（practices in line with the teaching）。删卷第十四尾题 paratext。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "high",
+  "prior_review_status": "needs_revision",
+  "similarity_to_source": 0.395,
+  "paragraph_parallel": true
+}

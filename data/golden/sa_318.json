@@ -1,0 +1,32 @@
+{
+  "id": "SA_318",
+  "uid": "sa318",
+  "title": "雜阿含經  卷第十二  因緣相應  （318）  眼是我",
+  "chinese_text": "如是我聞：\n\n一時，佛住舍衛國祇樹給孤獨園。\n\n爾時，世尊告諸比丘：「眼非我，若眼是我者，不應受逼迫苦，應得於眼欲令如是、不令如是，以眼非我故，受逼迫苦，不得於眼欲令如是、不令如是。耳、鼻、舌、身、意亦如是說。」\n\n佛說此經已，諸比丘聞佛所說，歡喜奉行。\n\n如內六入處三經，外六入處三經，亦如是說。",
+  "english_sa_text": "",
+  "parallels": [],
+  "primary_sn_uid": null,
+  "pali_text": "",
+  "english_sn_text": "",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa301-400/sa318_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa301-400/sa318_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛在舍卫国祇树给孤独园。\n尔时，世尊告诸比丘：「眼实非我。设眼是我，则无逼迫之苦，亦应得大自在。以非我故，苦逼于眼，不得自在。」耳、鼻、舌、身、意亦复如是。\n佛说此经已，诸比丘闻佛所说，欢喜奉行。\n（省文）如内六入处说无常、苦、非我三经，外六入处三经，亦如上说。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在舍卫国祇树给孤独园。\n那时，世尊告诉比丘们：「眼实在不是我。假如眼是我，就不会有逼迫之苦，也应当得大自在。正因为非我，苦才逼迫于眼，不得自在。」耳、鼻、舌、身、意也是一样。\n佛说完这部经，比丘们听佛所说，都欢喜奉行。\n（以下是原典的省文指示）如同就内六入处所说无常、苦、非我三经，就外六入处也可各成三经，如上所说。",
+  "notes": "SC 于本经未列可靠巴利平行，故唯以汉本为底，参同相应之巴利定型语厘义；依项目规约「无可靠平行时 confidence 降为 medium/low」，本经作 medium。同型无我论证；末「外六入处三经亦如是说」为省文指示，如实存为末段，不伪作各别全经。confidence=medium。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "medium",
+  "prior_review_status": "needs_revision",
+  "similarity_to_source": 0.323,
+  "paragraph_parallel": true
+}

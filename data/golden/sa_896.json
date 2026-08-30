@@ -1,0 +1,33 @@
+{
+  "id": "SA_896",
+  "uid": "sa896",
+  "title": "雜阿含經  卷第三十四  入界陰相應  （896）  三有漏",
+  "chinese_text": "如是我聞：\n\n一時，佛住舍衛國祇樹給孤獨園。\n\n爾時，世尊告諸比丘：「有三有漏。何等為三？謂欲有漏、有有漏、無明有漏，為斷此三有漏故，當求大師。」\n\n佛說此經已，諸比丘聞佛所說，歡喜奉行。\n\n如求大師，如是乃至求正思惟，亦如是說。",
+  "english_sa_text": "",
+  "parallels": [],
+  "primary_sn_uid": null,
+  "pali_text": "",
+  "english_sn_text": "",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa801-900/sa896_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa801-900/sa896_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛住舍卫国祇树给孤独园。\n尔时世尊告诸比丘：「有三有漏——欲有漏、有有漏、无明有漏。为断此三有漏故，当求大师。」\n如求大师，乃至求正思惟，亦如是说。\n佛说此经已，诸比丘闻佛所说，欢喜奉行。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在舍卫国祇树给孤独园。\n那时世尊告诉比丘们：「有三种有漏——欲有漏、有有漏、无明有漏。为了断这三种有漏，应当求大师。」\n如同求大师，一直到求正思惟，也可以这样说。\n佛说完这部经，比丘们听佛所说，都欢喜奉行。",
+  "notes": "SC 于本经未列可靠巴利平行，故唯以汉本为底，参同相应之巴利定型语厘义；依项目规约「无可靠平行时 confidence 降为 medium/low」。confidence=medium：三有漏定型；「乃至正思惟」交叉指示 SA_895 求师链，gold_reconstructed。",
+  "review_status": "gold_reconstructed",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "medium",
+  "prior_review_status": "needs_revision",
+  "reconstruction_basis": "底本『如求大师，乃至求正思惟』交叉指示 SA_895 求师链；压缩保留",
+  "similarity_to_source": 0.549,
+  "paragraph_parallel": true
+}

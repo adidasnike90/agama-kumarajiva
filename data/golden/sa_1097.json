@@ -1,0 +1,43 @@
+{
+  "id": "SA_1097",
+  "uid": "sa1097",
+  "title": "雜阿含經  卷第四十七  魔相應  （1097）  自應",
+  "chinese_text": "如是我聞：\n\n一時，佛住釋氏石主釋氏聚落。\n\n時，石主釋氏聚落多人疫死。處處人民，若男若女，從四方來受持三歸，其諸病人，若男若女，若大若小，皆因來者自稱名字：「我某甲等，歸佛、歸法、歸比丘僧。」舉村舉邑，皆悉如是。\n\n爾時，世尊勤為聲聞說法。\n\n時，諸信心歸三寶者，斯則皆生人、天道中。\n\n時，魔波旬作是念：「今沙門瞿曇住於釋氏石主釋氏聚落，勤為四眾說法。我今當往，為作留難。」化作年少，往住佛前，而說偈言：\n\n「何為勤說法，　　教化諸人民，\n\n　相違不相違，　　不免於驅馳，\n\n　以有繫縛故，　　而為彼說法？」\n\n爾時，世尊作是念：「惡魔波旬欲作嬈亂。」即說偈言：\n\n「汝夜叉當知，　　眾生群集生，\n\n　諸有智慧者，　　孰能不哀愍？\n\n　以有哀愍故，　　不能不教化，\n\n　哀愍諸眾生，　　法自應如是。」\n\n惡魔波旬作是念：「沙門瞿曇已知我心。」內懷憂慼，即沒不現。",
+  "english_sa_text": "",
+  "parallels": [
+    {
+      "uid": "sn4.14",
+      "acronym": "SN 4.14",
+      "root_lang": "pli",
+      "original_title": "Patirūpasutta",
+      "translated_title": "Suitable",
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    }
+  ],
+  "primary_sn_uid": "sn4.14",
+  "pali_text": "Ekaṁ samayaṁ bhagavā kosalesu viharati ekasālāyaṁ brāhmaṇagāme. Tena kho pana samayena bhagavā mahatiyā gihiparisāya parivuto dhammaṁ deseti. Atha kho mārassa pāpimato etadahosi: “ayaṁ kho samaṇo gotamo mahatiyā gihiparisāya parivuto dhammaṁ deseti. Yannūnāhaṁ yena samaṇo gotamo tenupasaṅkameyyaṁ vicakkhukammāyā”ti. Atha kho māro pāpimā yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṁ gāthāya ajjhabhāsi: “Netaṁ tava patirūpaṁ, yadaññamanusāsasi; Anurodhavirodhesu, mā sajjittho tadācaran”ti. “Hitānukampī sambuddho, yadaññamanusāsati; Anurodhavirodhehi, vippamutto tathāgato”ti. Atha kho māro pāpimā “jānāti maṁ bhagavā, jānāti maṁ sugato”ti dukkhī dummano tatthevantaradhāyīti.",
+  "english_sn_text": "At one time the Buddha was staying in the land of the Kosalans near the brahmin village of Ekasālā. Now, at that time the Buddha was teaching Dhamma, surrounded by a large assembly of laypeople. Then Māra thought, “The ascetic Gotama is teaching Dhamma, surrounded by a large assembly of laypeople. Why don’t I go and pull the wool over their eyes?” Then Māra the Wicked went up to the Buddha and addressed him in verse: “It’s not appropriate for you to instruct others. As you engage in this, don’t get caught up in favoring and opposing.” “The Buddha instructs others out of compassion for their welfare. The Realized One is liberated from favoring and opposing.” Then Māra the Wicked, thinking, “The Buddha knows me! The Holy One knows me!” miserable and sad, vanished right there.",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa1001-1100/sa1097_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa1001-1100/sa1097_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛住释氏石主释氏聚落。\n时石主聚落多人疫死，远近男女来受三归；病人或使人自称名字：「我某甲归佛、归法、归比丘僧。」世尊勤为四众说法，信者多生人天。\n魔化年少说偈：「何必勤说法？顺违皆驰走；有结缚在，云何为人说？」佛知是魔，答言：「众生群聚而生，智者不能不哀愍；以哀愍故，法自应教化。」\n时魔波旬作是念：「沙门已知我心。」内怀忧慼，即没不现。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在释迦族石主聚落。\n那时石主聚落很多人因疫病死去，远近男女前来受三归；病人或者托人代报名字：「我某某归依佛、法、僧。」世尊勤为四众说法，有信心的人多往生人天。\n魔化成年少说偈：「何必辛勤说法？顺与不顺都在奔忙；还有结缚在，怎么能为人说？」佛知道是魔，回答：「众生群聚而生，有智慧的人不能不哀愍；正因为哀愍，法就应当教化。」\n那时魔波旬心里想：「沙门已经知道我的心。」内心忧恼，随即隐没不见。",
+  "notes": "本经 SC 平行表所列平行及 `raw_aligned_data.json` 内之巴利本文、Sujato 英译并用以厘定法义；求那跋陀罗汉本用于定位经文与传统术语。confidence=high：SN4.14 偈义（悲愍教化、离爱憎）为骨；汉有疫死三归叙事为 SA 独有框，存之以定位，法义据巴利「出哀愍而教、已离顺违」。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "high",
+  "prior_review_status": "needs_revision",
+  "similarity_to_source": 0.12,
+  "paragraph_parallel": true
+}

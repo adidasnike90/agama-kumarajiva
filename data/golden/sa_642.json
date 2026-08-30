@@ -1,0 +1,63 @@
+{
+  "id": "SA_642",
+  "uid": "sa642",
+  "title": "雜阿含經  卷第二十七  根力相應  （642）  學",
+  "chinese_text": "如是我聞：\n\n一時，佛住舍衛國祇樹給孤獨園。\n\n爾時，世尊告諸比丘：「有三根——未知當知根、知根、無知根。」爾時，世尊即說偈言：\n\n「覺知學地時，　　隨順直道進，\n\n　精進勤方便，　　善自護其心，\n\n　如自知生盡，　　無礙道已知，\n\n　以知解脫已，　　最後得無知，\n\n　不動意解脫，　　一切有能盡，\n\n　諸根悉具足，　　樂於根寂靜，\n\n　持於最後身，　　降伏眾魔怨。」\n\n佛說此經已，諸比丘聞佛所說，歡喜奉行。",
+  "english_sa_text": "",
+  "parallels": [
+    {
+      "uid": "an3.85",
+      "acronym": "AN 3.85",
+      "root_lang": "pli",
+      "original_title": "Sekkhasutta",
+      "translated_title": null,
+      "type": "full",
+      "resembling": true,
+      "remark": null
+    },
+    {
+      "uid": "sa824",
+      "acronym": "SA 824",
+      "root_lang": "lzh",
+      "original_title": "學",
+      "translated_title": null,
+      "type": "full",
+      "resembling": true,
+      "remark": null
+    },
+    {
+      "uid": "sn48.23",
+      "acronym": "SN 48.23",
+      "root_lang": "pli",
+      "original_title": "Aññindriyasutta",
+      "translated_title": null,
+      "type": "full",
+      "resembling": true,
+      "remark": null
+    }
+  ],
+  "primary_sn_uid": "sn48.23",
+  "pali_text": "“Tīṇimāni, bhikkhave, indriyāni. Katamāni tīṇi? Anaññātaññassāmītindriyaṁ, aññindriyaṁ, aññātāvindriyaṁ— imāni kho, bhikkhave, tīṇi indriyānī”ti. Tatiyaṁ.",
+  "english_sn_text": "“Mendicants, there are these three faculties. What three? The faculty of understanding that enlightenment is imminent. The faculty of enlightenment. The faculty of one who is enlightened. These are the three faculties.”",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa601-700/sa642_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa601-700/sa642_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛住舍卫国祇树给孤独园。\n佛告比丘：「有三根——未知当知根、已知根、具知根。」\n即说偈：「觉知学地时，随顺直道进，精进勤方便，善自护其心。自知生已尽，无碍道已知，以知得解脱，最后得具知。不动意解脱，一切有能尽，诸根悉具足，乐于根寂静，持于最后身，降伏众魔怨。」\n佛说此经已，诸比丘闻佛所说，欢喜奉行。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在舍卫国祇树给孤独园。\n佛告比丘：「有三根——未知当知根、已知根、具知根。」\n就说偈：「觉知学地时，随顺直道进，精进勤方便，善自护其心。自知生已尽，无碍道已知，以知得解脱，最后得具知。不动意解脱，一切有能尽，诸根悉具足，乐于根寂静，持于最后身，降伏众魔怨。」\n佛说完这部经，比丘们听佛所说，都欢喜奉行。",
+  "notes": "本经 SC 平行表所列平行及 `raw_aligned_data.json` 内之巴利本文、Sujato 英译并用以厘定法义；求那跋陀罗汉本用于定位经文与传统术语。confidence=high：primary SN48.23（aññātaññassāmī／aññā／aññātāvī 三根）。据 SN 校正：「无知根」→「具知根」（已究竟知）；偈从汉本罗什化。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "high",
+  "prior_review_status": "needs_revision",
+  "similarity_to_source": 0.358,
+  "paragraph_parallel": true
+}

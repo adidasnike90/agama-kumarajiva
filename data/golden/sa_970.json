@@ -1,0 +1,73 @@
+{
+  "id": "SA_970",
+  "uid": "sa970",
+  "title": "雜阿含經  卷第三十九  雜相應  （970）  舍羅步",
+  "chinese_text": "如是我聞：\n\n一時，佛住王舍城迦蘭陀竹園。\n\n時，王舍城有外道出家名舍羅步，住須摩竭陀池側，於自眾中作如是唱言：「沙門釋子法我悉知，我先已知彼法、律而悉棄捨。」\n\n時，有眾多比丘晨朝著衣持鉢，入王舍城乞食。聞有外道名舍羅步，住王舍城須摩竭陀池側，於自眾中作如是唱：「沙門釋子所有法、律我悉已知，先已知彼法、律，然後棄捨。」聞是語已，乞食畢，還精舍，舉衣鉢，洗足已，往詣佛所，稽首禮足，退坐一面，白佛言：「世尊！我等晨朝著衣持鉢，入王舍城乞食，聞有外道出家名舍羅步，住王舍城須摩竭陀池側，於自眾中作是唱言：『沙門釋子法我已悉知，知彼法、律已，然後棄捨。』善哉！世尊！可自往彼須摩竭陀池側，憐愍彼故！」\n\n爾時，世尊默然而許，於日晡時從禪覺，往到須摩竭陀池側外道舍羅步所。\n\n時，舍羅步外道出家遙見世尊來，即敷床坐，請佛令坐。\n\n佛即就坐，告舍羅步言：「汝實作是語：『沙門釋子所有法、律，我悉已知。知彼法、律已，然後棄捨。』耶？」時，舍羅步默而不答。\n\n佛告舍羅步：「汝今應說，何故默然？汝所知滿足者，我則隨喜；不滿足者，我當令汝滿足。」時，舍羅步猶故默然。如是第二、第三說，彼再三默然住。\n\n時，舍羅步有一梵行弟子白舍羅步言：「師應往詣沙門瞿曇說所知見，今沙門瞿曇自來詣此，何故不說？沙門瞿曇又告師言：『若滿足者，我則隨喜；不滿足者，當令滿足。』何故默然而不記說？」彼舍羅步梵行弟子勸時，亦復默然。\n\n爾時，世尊告舍羅步：「若復有言：『沙門瞿曇非如來、應、等正覺。』我若善諫善問，善諫善問時，彼則遼落說諸外事；或忿恚慢覆，對閡不忍，無由能現；或默然抱愧低頭，密自思省，如今舍羅步。若復作如是言非沙門瞿曇無正法、律者，我若善諫善問，彼亦如汝今日默然而住。若復有言非沙門瞿曇聲聞善向者，我若善諫善問，彼亦乃至如汝今日默然而住。」爾時，世尊於須摩竭陀池側師子吼已，從坐起而去。\n\n爾時，舍羅步梵行弟子語舍羅步言：「譬如有牛，截其兩角，入空牛欄中，跪地大吼；師亦如是，於無沙門瞿曇弟子眾中作師子吼。譬如女人欲作丈夫聲，發聲即作女聲；師亦如是，於非沙門瞿曇弟子眾中作師子吼。譬如野干欲作狐聲，發聲還作野干聲；師亦如是，於非沙門瞿曇弟子眾中欲作師子吼。」\n\n時，舍羅步梵行弟子於舍羅步面前呵責毀呰已，從坐起去。",
+  "english_sa_text": "",
+  "parallels": [
+    {
+      "uid": "an3.64",
+      "acronym": "AN 3.64",
+      "root_lang": "pli",
+      "original_title": "Sarabhasutta",
+      "translated_title": "Sarabha",
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "sa-2.204",
+      "acronym": "SA2 204",
+      "root_lang": "lzh",
+      "original_title": "舍羅步",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "sf132",
+      "acronym": "SF 132",
+      "root_lang": "san",
+      "original_title": "",
+      "translated_title": null,
+      "type": "full",
+      "resembling": true,
+      "remark": null
+    },
+    {
+      "uid": "sf82",
+      "acronym": "SF 82",
+      "root_lang": "san",
+      "original_title": "Śarabha",
+      "translated_title": null,
+      "type": "full",
+      "resembling": true,
+      "remark": null
+    }
+  ],
+  "primary_sn_uid": null,
+  "pali_text": "",
+  "english_sn_text": "",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa901-1000/sa970_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa901-1000/sa970_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛住王舍城迦兰陀竹园。\n时王舍城有外道出家名舍罗步，住须摩竭陀池侧，于自众中唱言：「沙门释子法、律，我悉已知；知已而悉弃捨。」\n众多比丘城中乞食闻已，还白世尊，请往怜愍。世尊默许；日晡从禅起，往彼池侧。舍罗步遥见，敷座请佛。\n佛坐已，问：「汝实作是语耶？」彼默然。「汝今应说。所知若满，我则随喜；不满，我当令满。」再三问，犹默然。\n其梵行弟子劝师记说，师仍默然。\n佛告舍罗步：「若有人言：『沙门瞿昙非如来、应、等正觉』——我善谏善问时，彼则支吾外逸，或忿恚慢覆，或默然抱愧，如今汝者。若言『无正法、律』，若言『声闻不善向』，善问之时，亦皆如汝今日默然。」世尊于池侧作师子吼已，从坐起去。\n弟子当面呵责：「如截角之牛入空栏跪地大吼；如女人欲作丈夫声而仍女声；如野干欲作狮吼而仍野干声——师于无沙门释子弟子处作师子吼，亦复如是。」呵已，从坐起去。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在王舍城迦兰陀竹园。\n那时王舍城有外道出家人名叫舍罗步，住在须摩竭陀池边，在自己徒众中宣称：「沙门释子的法、律，我全都知道；知道以后又全都捨弃了。」\n许多比丘在城里乞食听到后，回来禀告世尊，请佛前去怜愍他。世尊默许；午后从禅定起来，走到池边。舍罗步远远看见，铺座请佛坐。\n佛坐下后问：「你真的说过这话吗？」他沉默。「你现在应当说。若你所知已经圆满，我就随喜；若不圆满，我会让你圆满。」问了三次，仍沉默。\n他的梵行弟子劝老师记说，老师还是沉默。\n佛告诉舍罗步：「若有人说：『沙门瞿昙不是如来、应供、等正觉』——我好好地诘问时，他就顾左右而言他，或忿怒傲慢遮障，或沉默羞愧低头，就像你现在这样。若说『没有正法、律』，若说『声闻弟子方向不正』，好好诘问时，也都会像你今天这样沉默。」世尊在池边作了师子吼后，起身离去。\n弟子当面责备：「像截了角的牛进到空牛栏里跪地大吼；像女人想发男人声却仍是女声；像野干想作狮子吼却仍是野干声——老师在没有沙门释子弟子的地方作师子吼，也是这样。」责备完，从座起身离去。",
+  "notes": "本经 SC 平行表所列平行及 `raw_aligned_data.json` 内之巴利本文、Sujato 英译并用以厘定法义；求那跋陀罗汉本用于定位经文与传统术语。confidence=high：primary AN3.64；三默不应；佛以三谤（非正觉／非法律／声闻不善向）类显；弟子三喻呵师空吼。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "high",
+  "prior_review_status": "needs_revision",
+  "similarity_to_source": 0.11,
+  "paragraph_parallel": true
+}

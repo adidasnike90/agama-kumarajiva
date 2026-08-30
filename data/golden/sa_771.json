@@ -1,0 +1,53 @@
+{
+  "id": "SA_771",
+  "uid": "sa771",
+  "title": "雜阿含經  卷第三十  聖道分相應  （771）  彼岸",
+  "chinese_text": "如是我聞：\n\n一時，佛住舍衛國祇樹給孤獨園。\n\n時，有生聞婆羅門來詣佛所，與世尊面相問訊慰勞，問訊慰勞已，退坐一面，白佛言：「瞿曇！謂非彼岸及彼岸。瞿曇！云何非彼岸？云何彼岸？」\n\n佛告婆羅門：「邪見者，非彼岸。正見者，是彼岸。邪志、邪語、邪業、邪命、邪方便、邪念、邪定非彼岸。正見是彼岸，正志、正語、正業、正命、正方便、正念、正定是彼岸。」\n\n爾時，世尊即說偈言：\n\n「希有諸人民，　　能度於彼岸，\n\n　一切諸世間，　　徘徊遊此岸。\n\n　於此正法律，　　能善隨順者，\n\n　斯等能度彼，　　生死難度岸。」\n\n時，生聞婆羅門聞佛所說，歡喜隨喜，從座起去。",
+  "english_sa_text": "",
+  "parallels": [
+    {
+      "uid": "sn45.34",
+      "acronym": "SN 45.34",
+      "root_lang": "pli",
+      "original_title": "Pāraṅgamasutta",
+      "translated_title": "Going Beyond",
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "an10.117",
+      "acronym": "AN 10.117",
+      "root_lang": "pli",
+      "original_title": "Saṅgāravasutta",
+      "translated_title": null,
+      "type": "full",
+      "resembling": true,
+      "remark": null
+    }
+  ],
+  "primary_sn_uid": "sn45.34",
+  "pali_text": "Sāvatthinidānaṁ. “Aṭṭhime, bhikkhave, dhammā bhāvitā bahulīkatā apārā pāraṁ gamanāya saṁvattanti. Katame aṭṭha? Seyyathidaṁ—sammādiṭṭhi …pe… sammāsamādhi. Ime kho, bhikkhave, aṭṭha dhammā bhāvitā bahulīkatā apārā pāraṁ gamanāya saṁvattantī”ti. Idamavoca bhagavā. Idaṁ vatvāna sugato athāparaṁ etadavoca satthā: “Appakā te manussesu, ye janā pāragāmino; Athāyaṁ itarā pajā, tīramevānudhāvati. Ye ca kho sammadakkhāte, dhamme dhammānuvattino; Te janā pāramessanti, maccudheyyaṁ suduttaraṁ. Kaṇhaṁ dhammaṁ vippahāya, sukkaṁ bhāvetha paṇḍito; Okā anokamāgamma, viveke yattha dūramaṁ. Tatrābhiratimiccheyya, hitvā kāme akiñcano; Pariyodapeyya attānaṁ, cittaklesehi paṇḍito. Yesaṁ sambodhiyaṅgesu, sammā cittaṁ subhāvitaṁ; Ādānapaṭinissagge, anupādāya ye ratā; Khīṇāsavā jutimanto, te loke parinibbutā”ti. Catutthaṁ.",
+  "english_sn_text": "At Sāvatthī. “Mendicants, when these eight things are developed and cultivated they lead to going from the near shore to the far shore. What eight? They are right view, right purpose, right speech, right action, right livelihood, right effort, right mindfulness, and right immersion. When these eight things are developed and cultivated they lead to going from the near shore to the far shore.” That is what the Buddha said. Then the Holy One, the Teacher, went on to say: “Few are those among humans who cross to the far shore. The rest just run around on the near shore. When the teaching is well explained, the people who practice accordingly will cross over Death’s dominion so hard to pass. Rid of dark qualities, an astute person would develop the bright. Having left home for homelessness in seclusion, where joy is hard, they’d long for satisfaction there. Forsaking sensual pleasures, owning nothing, an astute person would cleanse themselves of mental corruptions. And those whose minds are rightly developed in the awakening factors; who, letting go of attachments, delight in not grasping— with defilements ended, brilliant, they are quenched in this world.”",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa701-800/sa771_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa701-800/sa771_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛住舍卫国祇树给孤独园。\n时有生闻婆罗门来诣佛所，问讯已，退坐一面，白佛言：「瞿昙！云何非彼岸？云何彼岸？」\n佛告婆罗门：「邪见、邪志、邪语、邪业、邪命、邪方便、邪念、邪定，是非彼岸；正见、正志、正语、正业、正命、正方便、正念、正定，是彼岸。」\n尔时世尊说偈言：「希有诸人民，能度于彼岸；一切诸世间，徘徊游此岸。于此正法律，能善随顺者，斯等能度彼，生死难度岸。」\n生闻婆罗门闻已，欢喜随喜，从座起去。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在舍卫国祇树给孤独园。\n那时有生闻婆罗门来到佛所，问讯后坐在一边，对佛说：「瞿昙！什么是非彼岸？什么是彼岸？」\n佛告诉婆罗门：「邪见、邪志、邪语、邪业、邪命、邪方便、邪念、邪定，是非彼岸；正见、正志、正语、正业、正命、正方便、正念、正定，是彼岸。」\n那时世尊说偈：「人间能到彼岸的很少；其余世间人，只在此岸徘徊。能善随顺这正法律的人，才能度过那难渡的生死岸。」\n生闻婆罗门听完，欢喜随喜，从座位起身离去。",
+  "notes": "本经 SC 平行表所列平行及 `raw_aligned_data.json` 内之巴利本文、Sujato 英译并用以厘定法义；求那跋陀罗汉本用于定位经文与传统术语。confidence=high：primary SN45.34 Pāraṅgama；汉作生闻问答，SN 直告比丘「八法能从此岸至彼岸」——保留汉问讯框，法义据八支。偈据汉本四颂，不补 SN 后半暗／明等颂。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "high",
+  "prior_review_status": "needs_revision",
+  "similarity_to_source": 0.374,
+  "paragraph_parallel": true
+}

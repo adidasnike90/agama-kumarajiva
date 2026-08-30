@@ -1,0 +1,43 @@
+{
+  "id": "SA_1045",
+  "uid": "sa1045",
+  "title": "雜阿含經  卷第四十四  業報相應  （1045）  隨類",
+  "chinese_text": "如是我聞：\n\n一時，佛住舍衛國祇樹給孤獨園。\n\n爾時，世尊告諸比丘：「有相習近法。諦聽，善思，當為汝說。何等為相習近法？謂殺生者、殺生者習近，盜、婬、妄語、兩舌、惡口、綺語、貪、恚、邪見，各各隨類更相習近。譬如不淨物、不淨物自相和合。如是，殺生、殺生，乃至邪見、邪見自相習近。如是，比丘！不殺生、不殺生相習近，乃至正見、正見更相習近。譬如淨物、淨物自相和合，乳生酪，酪生酥，酥生醍醐，醍醐自相和合。如是，不殺、不殺更相習近，乃至正見、正見更相習近，是名比丘相習近法。」\n\n佛說是經已，諸比丘聞佛所說，歡喜奉行。",
+  "english_sa_text": "",
+  "parallels": [
+    {
+      "uid": "an10.199-210",
+      "acronym": "AN 10.199–210",
+      "root_lang": "pli",
+      "original_title": "Aparapuggalavagga",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    }
+  ],
+  "primary_sn_uid": null,
+  "pali_text": "",
+  "english_sn_text": "",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa1001-1100/sa1045_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa1001-1100/sa1045_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛住舍卫国祇树给孤独园。\n尔时世尊告诸比丘：「有相习近法。谛听。杀生者与杀生者相习近，乃至邪见与邪见相习近——如不净物自相和合。不杀与不杀相习近，乃至正见与正见相习近——如净物和合：乳生酪，酪生酥，酥生醍醐。是名相习近法。」\n佛说此经已，诸比丘闻佛所说，欢喜奉行。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在舍卫国祇树给孤独园。\n那时世尊告诉比丘们：「有彼此习近同类的法。仔细听。杀生的人与杀生的人彼此习近，乃至邪见与邪见彼此习近——如同不净的东西自己和合在一起。不杀的与不杀的彼此习近，乃至正见与正见彼此习近——如同净物和合：乳生酪，酪生酥，酥生醍醐。这叫做相习近法。」\n佛说完这部经，比丘们听佛所说，都欢喜奉行。",
+  "notes": "本经 SC 平行表所列平行及 `raw_aligned_data.json` 内之巴利本文、Sujato 英译并用以厘定法义；求那跋陀罗汉本用于定位经文与传统术语。confidence=high：primary AN10.199–210（类聚习近）；十不善自相习近／十善自相习近；醍醐喻从汉。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "high",
+  "prior_review_status": "needs_revision",
+  "similarity_to_source": 0.225,
+  "paragraph_parallel": true
+}

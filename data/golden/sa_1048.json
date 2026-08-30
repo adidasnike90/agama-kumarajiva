@@ -1,0 +1,32 @@
+{
+  "id": "SA_1048",
+  "uid": "sa1048",
+  "title": "雜阿含經  卷第四十四  業報相應  （1048）  圓珠",
+  "chinese_text": "如是我聞：\n\n一時，佛住舍衛國祇樹給孤獨園。\n\n爾時，世尊告諸比丘：「若殺生人多習多行，生地獄中；若生人中，必得短壽。不與取多習多行，生地獄中；若生人中，錢財多難。邪婬多習多行，生地獄中；若生人中，所有妻室為人所圖。妄語多習多行，生地獄中；若生人中，多被譏論。兩舌多習多行，生地獄中，若生人中，親友乖離。惡口多習多行，生地獄中；若生人中，常聞醜聲。綺語多習多行，生地獄中；若生人中，言無信用。貪欲多習多行，生地獄中；若生人中，增其貪欲。瞋恚多習多行，生地獄中；若生人中，增其瞋恚。邪見多習多行，生地獄中，若生人中，增其愚癡。\n\n「若離殺生修習多修習，得生天上；若生人中，必得長壽。不盜修習多修習，得生天上；若生人中，錢財不喪。不邪婬修習多修習，得生天上；若生人中，妻室修良。不妄語修習多修習，得生天上；若生人中，不被譏論。不兩舌修習多修習，得生天上；若生人中，親友堅固。不惡口修習多修習，得生天上；若生人中，常聞妙音。不綺語修習多修習，得生天上；若生人中，言見信用。不貪修習多修習，得生天上；若生人中，不增愛欲。不恚修習多修習，得生天上；若生人中，不增瞋恚。正見修習多修習，得生天上；若生人中，不增愚癡。」\n\n佛說是經已，諸比丘聞佛所說，歡喜奉行。",
+  "english_sa_text": "",
+  "parallels": [],
+  "primary_sn_uid": null,
+  "pali_text": "",
+  "english_sn_text": "",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa1001-1100/sa1048_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa1001-1100/sa1048_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛住舍卫国祇树给孤独园。\n尔时世尊告诸比丘：「杀生多习，生地狱；若生人中，命短。不与取多习，生地狱；若生人中，财难。邪淫多习，生地狱；若生人中，妻为他侵。妄语多习，生地狱；若生人中，多遭讥毁。两舌多习，生地狱；若生人中，亲友乖离。恶口多习，生地狱；若生人中，常闻恶声。绮语多习，生地狱；若生人中，言不见信。贪、瞋、邪见多习，生地狱；若生人中，增贪、增瞋、增痴。\n「离杀多修，生天上；若生人中，长寿。乃至正见多修，生天上；若生人中，不增愚痴——余九善亦各得人天对治之报。」\n佛说此经已，诸比丘闻佛所说，欢喜奉行。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在舍卫国祇树给孤独园。\n那时世尊告诉比丘们：「杀生常常做，会生地狱；若生为人，寿命短。偷盗常常做，会生地狱；若生为人，财物艰难。邪淫常常做，会生地狱；若生为人，妻子被人侵夺。妄语常常做，会生地狱；若生为人，多被讥讽。两舌常常做，会生地狱；若生为人，亲友离散。恶口常常做，会生地狱；若生为人，常听到难听的话。绮语常常做，会生地狱；若生为人，说话不被信任。贪、瞋、邪见常常做，会生地狱；若生为人，更增贪、瞋、痴。\n「远离杀生常常修，会生天上；若生为人，长寿。乃至正见常常修，会生天上；若生为人，不增愚痴——其余九种善也各有相应的人天果报。」\n佛说完这部经，比丘们听佛所说，都欢喜奉行。",
+  "notes": "SC 于本经未列可靠巴利平行，故唯以汉本为底，参同相应之巴利定型语厘义；依项目规约「无可靠平行时 confidence 降为 medium/low」。confidence=medium：十不善／十善人中别报，义近 AN8.40 等业报定型；无专 SC 平行，压缩汉本对举以免过度贴字。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "medium",
+  "prior_review_status": "needs_revision",
+  "similarity_to_source": 0.161,
+  "paragraph_parallel": true
+}

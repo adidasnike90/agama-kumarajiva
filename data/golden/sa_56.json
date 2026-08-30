@@ -1,0 +1,32 @@
+{
+  "id": "SA_56",
+  "uid": "sa56",
+  "title": "雜阿含經  卷第二  陰相應  （五六）  漏無漏法",
+  "chinese_text": "如是我聞：\n\n一時，佛住波羅㮈國仙人住處鹿野苑中。\n\n爾時，世尊告諸比丘：「我今當說有漏、無漏法。若色有漏、是取，彼色能生愛、恚；如是受、想、行、識，有漏、是取，彼識能生愛、恚，是名有漏法。云何無漏法？諸所有色無漏、非受，彼色若過去、未來、現在，彼色不生愛、恚；如是受、想、行、識，無漏、非受，彼識若過去、未來、現在，不生貪、恚，是名無漏法。」\n\n佛說此經已，諸比丘聞佛所說，歡喜奉行。\n\n二信、二阿難　　壞法、欝低迦\n\n　婆羅及世間　　陰、漏、無漏法",
+  "english_sa_text": "",
+  "parallels": [],
+  "primary_sn_uid": null,
+  "pali_text": "",
+  "english_sn_text": "",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa1-100/sa56_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa1-100/sa56_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时佛在波罗㮈国仙人住处鹿野苑中。\n尔时世尊告诸比丘：我今说有漏法、无漏法。若色有漏、是取，能生爱恚；受、想、行、识亦复如是，是名有漏法。若色无漏、非取，过去、未来、现在皆不生爱恚；受、想、行、识亦复如是，是名无漏法。\n佛说此经已，诸比丘闻佛所说，欢喜奉行。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在波罗㮈国仙人住处鹿野苑中。\n那时，世尊告诉比丘们：我现在说有漏法与无漏法。若色有漏、是取，能生起贪爱与瞋恚；受、想、行、识也是一样，这叫做有漏法。若色无漏、不是取，无论过去、未来、现在都不生爱恚；受、想、行、识也是一样，这叫做无漏法。\n佛说完这部经，比丘们听佛所说，都欢喜奉行。",
+  "notes": "无可靠主平行；汉本有漏＝有取能生爱恚，无漏＝非取不生爱恚。汉「非受」读为非取（与受阴＝取阴同口径）。confidence=medium。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "medium",
+  "prior_review_status": "needs_revision",
+  "revision_reason": "信达雅 v1：据巴利平行重译，去繁转简稿",
+  "similarity_to_source": 0.352
+}

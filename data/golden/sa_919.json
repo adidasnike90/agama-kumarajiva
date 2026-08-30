@@ -1,0 +1,63 @@
+{
+  "id": "SA_919",
+  "uid": "sa919",
+  "title": "雜阿含經  卷第三十六  釋氏相應  （919）  賢乘",
+  "chinese_text": "如是我聞：\n\n一時，佛住王舍城迦蘭陀竹園。\n\n爾時，世尊告諸比丘：「世間有三種良馬。何等為三？謂有馬捷疾具足、非色具足、非形體具足。有馬捷疾具足、色具足、非形體具足。有馬捷疾具足、色具足、形體具足。如是於此法、律有三種善男子。何等為三？有善男子捷疾具足、非色具足、非形體具足，有善男子捷疾具足、色具足、非形體具足，有善男子捷疾具足、色具足、形體具足。\n\n「何等為善男子捷疾具足、非色具足、非形體具足？謂善男子此苦聖諦如實知，此苦集聖諦如實知，此苦滅聖諦如實知，此苦滅道跡聖諦如實知。如是知、如是見已，欲有漏心解脫、有有漏心解脫、無明有漏心解脫：『我生已盡，梵行已立，所作已作，自知不受後有。』是名捷疾具足。云何非色具足？若有問阿毘曇、律，乃至不能為決定解說，是名色不具足。何等非形體具足？謂非名聞大德，乃至不感湯藥、眾具，是名形體不具足，是名善男子捷疾具足、非色具足、非形體具足。\n\n「何等為善男子捷疾具足、色具足、非形體具足？謂善男子此苦聖諦如實知，乃至不受後有，是名捷疾具足。云何色具足？謂若有問阿毘曇、毘尼，乃至能為決定解說，是名色具足。何等為非形體具足？謂非名聞大德，乃至不能感湯藥、眾具，是名善男子捷疾具足、色具足、非形體具足。\n\n「何等為善男子捷疾具足、色具足、形體具足？謂善男子此苦聖諦如實知，乃至不受後有，是名捷疾具足。何等為色具足？謂善男子若有問阿毘曇、毘尼，乃至能為決定解說，是名色具足。何等為形體具足？謂善男子名聞大德，乃至能感湯藥、眾具，是名形體具足，是名善男子捷疾具足、色具足、形體具足。」\n\n佛說此經已，諸比丘聞佛所說，歡喜奉行。",
+  "english_sa_text": "",
+  "parallels": [
+    {
+      "uid": "an3.142",
+      "acronym": "AN 3.142",
+      "root_lang": "pli",
+      "original_title": "Assājānīyasutta",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "sa-2.145",
+      "acronym": "SA2 145",
+      "root_lang": "lzh",
+      "original_title": "賢乘",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "an9.22",
+      "acronym": "AN 9.22",
+      "root_lang": "pli",
+      "original_title": "Assakhaḷuṅkasutta",
+      "translated_title": null,
+      "type": "full",
+      "resembling": true,
+      "remark": null
+    }
+  ],
+  "primary_sn_uid": null,
+  "pali_text": "",
+  "english_sn_text": "",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa901-1000/sa919_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa901-1000/sa919_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛住王舍城迦兰陀竹园。\n尔时世尊告诸比丘：「世间三种良马，捷疾、色、形体具否如上。正法律中善男子亦有三种。\n「捷疾具足、色与形体不具：苦圣谛如实知，苦集、苦灭、苦灭道迹圣谛如实知，三有漏心解脱——『我生已尽，梵行已立，所作已作，自知不受后有。』而不能决定解说阿毗昙、律；又非名闻感供。\n「捷疾与色具而形体不具：如上漏尽；又能解说；而非名闻。\n「三者皆具：漏尽；能解说；又大德名闻感衣食汤药。」\n佛说此经已，诸比丘闻佛所说，欢喜奉行。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在王舍城迦兰陀竹园。\n那时世尊告诉比丘们：「世间三种良马，速度、毛色、体形是否完备如上。正法律里的善男子也有三种。\n「速度完备、毛色与体形不完备：如实知苦圣谛，以及苦集、苦灭、苦灭道迹圣谛，欲漏、有漏、无明漏心解脱——『我生已尽，梵行已立，所作已办，自知不受后有。』却不能决定解说论藏、律；又不是名闻感供。\n「速度与毛色完备而体形不完备：如上漏尽；又能解说；却不是名闻。\n「三者都完备：漏尽；能解说；又是名闻大德感得衣食汤药。」\n佛说完这部经，比丘们听佛所说，都欢喜奉行。",
+  "notes": "本经 SC 平行表所列平行及 `raw_aligned_data.json` 内之巴利本文、Sujato 英译并用以厘定法义；求那跋陀罗汉本用于定位经文与传统术语。confidence=high：parallels AN3.142／AN9.22；三马喻阿罗汉：捷疾=漏尽智；色=能说法；形体=名闻利养。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "high",
+  "prior_review_status": "needs_revision",
+  "similarity_to_source": 0.171,
+  "paragraph_parallel": true
+}

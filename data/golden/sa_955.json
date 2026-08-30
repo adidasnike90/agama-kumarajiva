@@ -1,0 +1,43 @@
+{
+  "id": "SA_955",
+  "uid": "sa955",
+  "title": "雜阿含經  卷第三十七  婆蹉外道相應  （955）  轉輪",
+  "chinese_text": "如是我聞：\n\n一時，佛住舍衛國祇樹給孤獨園。\n\n爾時，世尊告諸比丘：「眾生無始生死，長夜輪轉，不知苦之本際。譬如，比丘！若有士夫轉五節輪，常轉不息；如是眾生轉五趣輪，或墮地獄、畜生、餓鬼及人、天趣，常轉不息。如是無始生死，長夜輪轉，不知苦之本際。是故，比丘！當如是學：『斷除諸有，莫令增長。』」\n\n佛說此經已，諸比丘聞佛所說，歡喜奉行。",
+  "english_sa_text": "",
+  "parallels": [
+    {
+      "uid": "sa-2.349",
+      "acronym": "SA2 349",
+      "root_lang": "lzh",
+      "original_title": "轉輪",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    }
+  ],
+  "primary_sn_uid": null,
+  "pali_text": "",
+  "english_sn_text": "",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa901-1000/sa955_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa901-1000/sa955_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛住舍卫国祇树给孤独园。\n尔时，世尊告诸比丘：「众生无始生死，长夜轮转，苦之本际不可得。譬如士夫转五辐轮，常转不息；如是众生转五趣轮——地狱、畜生、饿鬼、人、天，常转不息。如是无始轮回，不知苦际。是故，比丘！当如是学：『断除诸有，莫令增长。』」\n佛说此经已，诸比丘闻佛所说，欢喜奉行。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在舍卫国祇树给孤独园。\n那时，世尊告诉比丘们：「众生无始以来生死轮转，苦的本际找不到。好比有人转动五辐之轮，常转不停；同样，众生转动五趣之轮——地狱、畜生、饿鬼、人、天，常转不停。如此无始轮回，不知道苦的边际。所以，比丘们！应当这样学：『断除诸有，不要让它增长。』」\n佛说完这部经，比丘们听佛所说，都欢喜奉行。",
+  "notes": "SC 于本经未列可靠巴利平行，故唯以汉本为底，参同相应之巴利定型语厘义；依项目规约「无可靠平行时 confidence 降为 medium/low」。confidence=medium：五趣轮喻属 anamatagga 同科；无唯一巴利主平行，保守据汉。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "medium",
+  "prior_review_status": "needs_revision",
+  "similarity_to_source": 0.389,
+  "paragraph_parallel": true
+}

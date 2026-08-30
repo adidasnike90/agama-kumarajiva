@@ -1,0 +1,44 @@
+{
+  "id": "SA_1047",
+  "uid": "sa1047",
+  "title": "雜阿含經  卷第四十四  業報相應  （1047）  圓珠",
+  "chinese_text": "如是我聞：\n\n一時，佛住舍衛國祇樹給孤獨園。\n\n爾時，世尊告諸比丘：「有惡業因、惡心因、惡見因，如是眾生身壞命終，必墮惡趣泥犁中。譬如圓珠，擲著空中，落地流轉，不一處住。如是，惡業因、惡心因、惡見因，身壞命終，必墮地獄，中無住處。\n\n「云何為惡業？謂殺生，乃至綺語……」如上廣說，「是名惡業。云何惡心？謂貪恚心……」如上廣說，「是名惡心。云何惡見？謂邪顛倒……」如上廣說，「是名惡見。是名惡業因、惡心因、惡見因，身壞命終，必生惡趣泥犁中；善業因、善心因、善見因，身壞命終，必生善趣天上。\n\n「婆羅門！云何為善業？謂離殺生、不樂殺生，乃至不綺語，是名善業。云何善心？謂不貪、不恚，是名心善。云何為見善？謂正見不顛倒，乃至見不受後有，是名見善。是名業善因、心善因、見善因，身壞命終，得生天上。譬如四方摩尼珠，擲著空中，隨墮則安；如是彼三善因，所在受生，隨處則安。」\n\n佛說如是經已，諸比丘聞佛所說，歡喜奉行。",
+  "english_sa_text": "",
+  "parallels": [
+    {
+      "uid": "an3.118",
+      "acronym": "AN 3.118",
+      "root_lang": "pli",
+      "original_title": "Apaṇṇakasutta",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    }
+  ],
+  "primary_sn_uid": null,
+  "pali_text": "",
+  "english_sn_text": "",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa1001-1100/sa1047_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa1001-1100/sa1047_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛住舍卫国祇树给孤独园。\n尔时世尊告诸比丘：「有恶业因、恶心因、恶见因，身坏命终必堕泥犁。譬如圆珠掷空，落地流转，不住一处。恶业谓杀生乃至绮语；恶心谓贪与瞋；恶见谓邪颠倒——具此三因，必堕地狱。\n「有善业因、善心因、善见因，身坏命终必生善趣。善业谓不杀生、不与取、不邪淫、不妄语、不两舌、不恶口、不绮语、无贪、无瞋、正见中身口七支；善心谓无贪无瞋；善见谓正见乃至知不受后有。譬如四方摩尼珠掷空，随堕则安；三善因所生亦尔。」\n佛说此经已，诸比丘闻佛所说，欢喜奉行。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在舍卫国祇树给孤独园。\n那时世尊告诉比丘们：「有恶业因、恶心因、恶见因，身体坏灭命终后一定堕落地狱。就像圆球抛向空中，落地滚动，停不住在一处。恶业是杀生乃至绮语；恶心是贪与瞋；恶见是邪倒的见——具足这三因，一定堕地狱。\n「有善业因、善心因、善见因，身体坏灭命终后一定生到善趣。善业是不杀生、不与取、不邪淫、不妄语、不两舌、不恶口、不绮语、无贪、无瞋、正见里的身口七支；善心是无贪无瞋；善见是正见，乃至知道不受后有。就像四方平整的摩尼珠抛向空中，落下就安住；三善因所受生也是这样。」\n佛说完这部经，比丘们听佛所说，都欢喜奉行。",
+  "notes": "本经 SC 平行表所列平行及 `raw_aligned_data.json` 内之巴利本文、Sujato 英译并用以厘定法义；求那跋陀罗汉本用于定位经文与传统术语。confidence=high：primary AN3.118；恶三因如圆球不安，善三因如方珠安住；汉末误呼「婆罗门」改为告比丘。reconstruction：善恶三因纲（汉「如上广说」）。",
+  "review_status": "gold_reconstructed",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "high",
+  "prior_review_status": "needs_revision",
+  "reconstruction_basis": "「如上广说」→ AN3.118 善恶三因纲",
+  "similarity_to_source": 0.129,
+  "paragraph_parallel": true
+}

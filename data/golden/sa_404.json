@@ -1,0 +1,43 @@
+{
+  "id": "SA_404",
+  "uid": "sa404",
+  "title": "雜阿含經  卷第十六  諦相應  （404）  申恕林",
+  "chinese_text": "如是我聞：\n\n一時，佛在摩竭國人間遊行，王舍城波羅利弗是中間竹林聚落，大王於中作福德舍。爾時，世尊與諸大眾於中止宿。\n\n爾時，世尊告諸比丘：「汝等當行，共至申恕林。」\n\n爾時，世尊與諸大眾到申恕林，坐樹下。\n\n爾時，世尊手把樹葉，告諸比丘：「此手中葉為多耶？大林樹葉為多？」\n\n比丘白佛：「世尊！手中樹葉甚少，彼大林中樹葉無量，百千億萬倍，乃至算數譬類不可為比。」\n\n「如是，諸比丘！我成等正覺，自所見法，為人定說者，如手中樹葉。所以者何？彼法義饒益、法饒益、梵行饒益、明、慧、正覺、向於涅槃。如大林樹葉，如我成等正覺，自知正法，所不說者，亦復如是。所以者何？彼法非義饒益，非法饒益，非梵行饒益、明、慧、正覺、正向涅槃故。是故，諸比丘！於四聖諦未無間等者，當勤方便，起增上欲，學無間等。」\n\n佛說此經已，諸比丘聞佛所說，歡喜奉行。",
+  "english_sa_text": "",
+  "parallels": [
+    {
+      "uid": "sn56.31",
+      "acronym": "SN 56.31",
+      "root_lang": "pli",
+      "original_title": "Sīsapāvanasutta",
+      "translated_title": "The Siṁsapa Grove",
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    }
+  ],
+  "primary_sn_uid": "sn56.31",
+  "pali_text": "Ekaṁ samayaṁ bhagavā kosambiyaṁ viharati sīsapāvane. Atha kho bhagavā parittāni sīsapāpaṇṇāni pāṇinā gahetvā bhikkhū āmantesi: “Taṁ kiṁ maññatha, bhikkhave, katamaṁ nu kho bahutaraṁ— yāni vā mayā parittāni sīsapāpaṇṇāni pāṇinā gahitāni yadidaṁ upari sīsapāvane”ti? “Appamattakāni, bhante, bhagavatā parittāni sīsapāpaṇṇāni pāṇinā gahitāni; atha kho etāneva bahutarāni yadidaṁ upari sīsapāvane”ti. “Evameva kho, bhikkhave, etadeva bahutaraṁ yaṁ vo mayā abhiññāya anakkhātaṁ. Kasmā cetaṁ, bhikkhave, mayā anakkhātaṁ? Na hetaṁ, bhikkhave, atthasaṁhitaṁ nādibrahmacariyakaṁ na nibbidāya na virāgāya na nirodhāya na upasamāya na abhiññāya na sambodhāya na nibbānāya saṁvattati; tasmā taṁ mayā anakkhātaṁ. Kiñca, bhikkhave, mayā akkhātaṁ? ‘Idaṁ dukkhan’ti, bhikkhave, mayā akkhātaṁ, ‘ayaṁ dukkhasamudayo’ti mayā akkhātaṁ, ‘ayaṁ dukkhanirodho’ti mayā akkhātaṁ, ‘ayaṁ dukkhanirodhagāminī paṭipadā’ti mayā akkhātaṁ. Kasmā cetaṁ, bhikkhave, mayā akkhātaṁ? Etañhi, bhikkhave, atthasaṁhitaṁ etaṁ ādibrahmacariyakaṁ etaṁ nibbidāya virāgāya nirodhāya upasamāya abhiññāya sambodhāya nibbānāya saṁvattati; tasmā taṁ mayā akkhātaṁ. Tasmātiha, bhikkhave, ‘idaṁ dukkhan’ti yogo karaṇīyo …pe… ‘ayaṁ dukkhanirodhagāminī paṭipadā’ti yogo karaṇīyo”ti. Paṭhamaṁ.",
+  "english_sn_text": "At one time the Buddha was staying near Kosambī in a rosewood grove. Then the Buddha picked up a few rosewood leaves in his hand and addressed the mendicants: “What do you think, mendicants? Which is more: the few leaves in my hand, or those in the grove above?” “Sir, the few leaves in your hand are a tiny amount. There are far more leaves in the grove above.” “In the same way, there is much more that I have directly known but have not explained to you. What I have explained is a tiny amount. And why haven’t I explained it? Because it’s not beneficial or relevant to the fundamentals of the spiritual life. It doesn’t lead to disillusionment, dispassion, cessation, peace, insight, awakening, and extinguishment. That’s why I haven’t explained it. And what have I explained? I have explained: ‘This is suffering’ … ‘This is the origin of suffering’ … ‘This is the cessation of suffering’ … ‘This is the practice that leads to the cessation of suffering’. And why have I explained this? Because it’s beneficial and relevant to the fundamentals of the spiritual life. It leads to disillusionment, dispassion, cessation, peace, insight, awakening, and extinguishment. That’s why I’ve explained it. That’s why you should practice meditation …”",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa401-500/sa404_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa401-500/sa404_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛在拘舍弥申恕林中。\n尔时，世尊手把申恕树叶，告诸比丘：「于意云何——我手中叶多？林中叶多？」比丘白佛：「手中甚少，林中无量。」\n佛言：「如是，我所证知而未说者甚多；已为汝说者甚少。所以不说——彼非义饶益，非梵行本，不趣厌、离贪、灭、静、证智、正觉、涅槃。」\n「我所已说者何？谓：『此是苦』……『此是苦灭道迹』。所以说——彼义饶益、法饶益、梵行饶益，正智、正觉、正向涅槃，趣厌、离贪、灭、静、证智、正觉、涅槃。」\n「是故比丘于四圣谛未无间等者，当勤方便，起增上欲，精进修学。何等为四？谓苦圣谛、苦集圣谛、苦灭圣谛、苦灭道迹圣谛。」\n佛说此经已，诸比丘闻佛所说，欢喜奉行。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在拘舍弥的申恕林中。\n那时，世尊手里握着几片申恕树叶，告诉比丘们：「你们怎么看——我手里的叶子多，还是林子里的叶子多？」比丘们回答：「手里的很少，林子里的多到无法计量。」\n佛说：「同样，我所亲自证知却没有说给你们的很多；已经说给你们的很少。为什么不说？那些没有义饶益，不是梵行的根本，不导向厌、离贪、灭、静、证智、正觉、涅槃。」\n「我已经说的是什么？就是：『这是苦』……『这是苦灭道迹』。为什么说这些？因为它们有有义饶益、法饶益、梵行饶益，能得正智、正觉，正向涅槃，导向厌、离贪、灭、静、证智、正觉、涅槃。」\n「所以比丘对四圣谛还没有无间等的，应当勤加方便，发起强盛愿欲，精进修学。哪四种？就是苦圣谛、苦集圣谛、苦灭圣谛、苦灭道迹圣谛。」\n佛说完这部经，比丘们听佛所说，都欢喜奉行。",
+  "notes": "本经 SC 平行表所列平行及 `raw_aligned_data.json` 内之巴利本文、Sujato 英译并用以厘定法义；求那跋陀罗汉本用于定位经文与传统术语。confidence=high：primary SN56.31。信-校正：处所据 SN 作拘舍弥申恕林（sīsapāvana），非汉本摩竭福德舍；已说＝四谛，未说＝非义非梵行本。nibbidā／virāga 作『厌／离贪』，不用『厌故不乐』。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "high",
+  "prior_review_status": "needs_revision",
+  "similarity_to_source": 0.145,
+  "paragraph_parallel": true
+}

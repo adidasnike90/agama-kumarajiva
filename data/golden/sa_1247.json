@@ -1,0 +1,43 @@
+{
+  "id": "SA_1247",
+  "uid": "sa1247",
+  "title": "雜阿含經  卷第五十  譬喻相應  （1247）  鑄金者",
+  "chinese_text": "如是我聞：\n\n一時，佛住王舍城迦蘭陀竹園。\n\n爾時，世尊告諸比丘：「應當專心方便，隨時思惟三相。云何為三？隨時思惟止相，隨時思惟舉相，隨時思惟捨相。若比丘一向思惟止相，則於是處其心下劣。若復一向思惟舉相，則於是處掉亂心起，若復一向思惟捨相，則於是處不得正定，盡諸有漏。\n\n「以彼比丘隨時思惟止相，隨時思惟舉相，隨時思惟捨相故，心則正定，盡諸有漏。如巧金師、金師弟子以生金著於爐中增火，隨時扇韛，隨時水灑，隨時俱捨。若一向鼓韛者，即於是處生金焦盡。一向水灑，則於是處，生金堅強。若一向俱捨，則於是處生金不熟，則無所用。是故，巧金師、金師弟子於彼生金隨時鼓韛，隨時水灑，隨時兩捨。如是生金，得等調適，隨事所用。如是，比丘！專心方便，時時思惟，憶念三相，乃至漏盡。」\n\n佛說是經已，諸比丘聞佛所說，歡喜奉行。",
+  "english_sa_text": "",
+  "parallels": [
+    {
+      "uid": "an3.102",
+      "acronym": "AN 3.102",
+      "root_lang": "pli",
+      "original_title": "Nimittasutta",
+      "translated_title": "Themes",
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    }
+  ],
+  "primary_sn_uid": null,
+  "pali_text": "",
+  "english_sn_text": "",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa1201-1300/sa1247_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa1201-1300/sa1247_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛住王舍城迦兰陀竹园。\n佛告诸比丘：「当随时思惟三相：止相、举相、捨相。一向止则心下劣；一向举则掉乱；一向捨则不得正定尽漏。若时止、时举、时捨，心则正定，尽诸有漏。」\n「如巧金师：时鼓韛、时水洒、时俱捨——一向鼓则焦，一向洒则硬，一向捨则不熟。三者随时，金得调适，随事所用。比丘于三相亦复如是。」\n佛说此经已，诸比丘闻佛所说，欢喜奉行。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在王舍城迦兰陀竹园。\n佛告诉比丘们：「应当适时修习三相：止相、举相、捨相。一味只修止，心会沉下；一味只修举，心会掉举；一味只修捨，就不能正定而尽漏。若有时修止、有时修举、有时修捨，心就能正定，尽诸有漏。」\n「如同巧炼金师：有时鼓风、有时洒水、有时只是看顾——一味鼓风会烧焦，一味洒水会变硬，一味不管就不会熟。三者适时配合，金子才调适，可随用途来用。比丘对三相也是这样。」\n佛说完这部经，比丘们听佛所说，都欢喜奉行。",
+  "notes": "本经 SC 平行表所列平行及 `raw_aligned_data.json` 内之巴利本文、Sujato 英译并用以厘定法义；求那跋陀罗汉本用于定位经文与传统术语。confidence=high：primary AN3.102（定／精勤／捨三基础）。汉止／举／捨＝samādhi／paggaṇa／upekkhā 三基；金师喻从 AN。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "high",
+  "prior_review_status": "needs_revision",
+  "similarity_to_source": 0.133,
+  "paragraph_parallel": true
+}

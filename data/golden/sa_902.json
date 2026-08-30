@@ -1,0 +1,83 @@
+{
+  "id": "SA_902",
+  "uid": "sa902",
+  "title": "雜阿含經  卷第三十四  不壞淨相應  （902）  如來第一",
+  "chinese_text": "如是我聞：\n\n一時，佛住王舍城迦蘭陀竹園。\n\n爾時，世尊告諸比丘：「若有眾生，無足、二足、四足、多足，色、無色，想、無想，非想、非非想，於一切如來最第一，乃至聖戒亦如是說。」",
+  "english_sa_text": "",
+  "parallels": [
+    {
+      "uid": "an4.34",
+      "acronym": "AN 4.34",
+      "root_lang": "pli",
+      "original_title": "Aggappasādasutta",
+      "translated_title": "Confidence",
+      "type": "full",
+      "resembling": true,
+      "remark": null
+    },
+    {
+      "uid": "an5.32",
+      "acronym": "AN 5.32",
+      "root_lang": "pli",
+      "original_title": "Cundīsutta",
+      "translated_title": "Cundī",
+      "type": "full",
+      "resembling": true,
+      "remark": null
+    },
+    {
+      "uid": "ea21.1",
+      "acronym": "EA 21.1",
+      "root_lang": "lzh",
+      "original_title": "第一德",
+      "translated_title": "Highest Faith",
+      "type": "full",
+      "resembling": true,
+      "remark": null
+    },
+    {
+      "uid": "iti90",
+      "acronym": "Iti 90",
+      "root_lang": "pli",
+      "original_title": "Aggappasādasutta",
+      "translated_title": "Foremost Faith",
+      "type": "full",
+      "resembling": true,
+      "remark": null
+    },
+    {
+      "uid": "t765.137",
+      "acronym": "T 765.137",
+      "root_lang": "lzh",
+      "original_title": "最勝",
+      "translated_title": null,
+      "type": "full",
+      "resembling": true,
+      "remark": null
+    }
+  ],
+  "primary_sn_uid": null,
+  "pali_text": "",
+  "english_sn_text": "",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa901-1000/sa902_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa901-1000/sa902_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛住王舍城迦兰陀竹园。\n尔时世尊告诸比丘：「若诸众生——无足、二足、四足、多足，有色、无色，有想、无想、非想非非想——于彼如来、应、等正觉最第一。若于佛得不坏净，是信于第一；信于第一者，得第一果。如是于法、于僧、于圣戒得不坏净，亦第一信、得第一果。」\n佛说此经已，诸比丘闻佛所说，欢喜奉行。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在王舍城迦兰陀竹园。\n那时世尊告诉比丘们：「无论哪些众生——没有脚的、两脚的、四脚的、多脚的，有色的、无色的，有想的、无想的、非想非非想的——在他们之中，如来、应、等正觉是最第一。如果对佛成就不坏净，就是信于第一；信于第一的人，得到第一的果报。同样，对法、对僧、对圣戒成就不坏净，也是第一的信、得第一的果。」\n佛说完这部经，比丘们听佛所说，都欢喜奉行。",
+  "notes": "本经 SC 平行表所列平行及 `raw_aligned_data.json` 内之巴利本文、Sujato 英译并用以厘定法义；求那跋陀罗汉本用于定位经文与传统术语。confidence=high：平行 AN4.34／AN5.32／Iti90。汉「乃至圣戒」peyyāla 据 AN 四／五第一信补佛／法／僧／戒不坏净果。本经专举如来第一。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "high",
+  "prior_review_status": "needs_revision",
+  "similarity_to_source": 0.207,
+  "paragraph_parallel": true
+}

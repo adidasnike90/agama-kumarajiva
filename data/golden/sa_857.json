@@ -1,0 +1,32 @@
+{
+  "id": "SA_857",
+  "uid": "sa857",
+  "title": "雜阿含經  卷第三十二  學相應  （857）  難提",
+  "chinese_text": "如是我聞：\n\n一時，佛住舍衛國祇樹給孤獨園。前三月夏安居竟，有眾多比丘集於食堂，為佛縫衣。如來不久作衣竟，當著衣持鉢出精舍，人間遊行。\n\n時，釋氏難提聞眾多比丘集於食堂，為佛縫衣，如來不久作衣竟，著衣持鉢，人間遊行。釋氏難提聞已，來詣佛所，稽首禮足，退坐一面，白佛言：「世尊！我今四體支解，四方易韻，先所聞法，今悉迷忘，聞眾多比丘集於食堂，為世尊縫衣言：『如來不久作衣竟，著衣持鉢，人間遊行。』是故我今心生大苦，何時當復得見世尊及諸知識比丘？」\n\n佛告釋氏難提：「汝見佛、若不見佛，若見知識比丘、若不見，汝當隨時修習五種歡喜之處。何等為五？汝當隨時念如來事：如來、應、等正覺、明行足、善逝、世間解、無上士、調御丈夫、天人師、佛世尊，法事、僧事、自持戒事、自行世事。隨時憶念：『我得己利，我於慳垢眾生所，當多修習離慳垢住，修解脫施、捨施、常熾然施、樂於捨，平等惠施，常懷施心。』如是，釋氏難提！此五支定若住、若行、若坐、若臥，乃至妻子俱，常當繫心此三昧念。」\n\n佛說此經已，釋氏難提聞佛所說，歡喜隨喜，作禮而去。",
+  "english_sa_text": "",
+  "parallels": [],
+  "primary_sn_uid": null,
+  "pali_text": "",
+  "english_sn_text": "",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa801-900/sa857_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa801-900/sa857_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛住舍卫国祇树给孤独园。\n前三月夏安居竟，众多比丘集于食堂，为佛缝衣。作是言：『如来不久作衣竟，当著衣持钵出精舍，人间游行。』\n时释氏难提闻已，来诣佛所，稽首礼足，退坐一面，白佛言：「世尊！我今支节解散，心生大苦，先所闻法今悉迷忘；闻世尊将人间游行，何时当复得见世尊及诸知识比丘？」\n佛告释氏难提：「汝见佛若不见佛，见知识比丘若不见，当随时修习五种欢喜之处。何等为五？念如来事——如来、应、等正觉、明行足、善逝、世间解、无上士、调御丈夫、天人师、佛世尊；念法事、念僧事、念自所持戒、念自行惠施——『我得己利：于悭垢众生中，多修离悭垢住，行解脱施、舍施、常炽然施、乐于舍，平等惠施，常怀施心。』此五支定，若住、若行、若坐、若卧，乃至与妻子俱，常当系心此念。」\n佛说此经已，释氏难提闻佛所说，欢喜随喜，作礼而去。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在舍卫国祇树给孤独园。\n前三月夏安居结束，众多比丘聚集在食堂为佛缝衣。他们说：『如来不久缝衣完毕，将著衣持钵离开精舍，人间游行。』\n当时释氏难提听说后，来到佛所，顶礼足，退坐一面，对佛说：「世尊！我现在肢节像要散开，心生大苦，先前所闻的法如今都迷忘了；听说世尊将人间游行，何时才能再见到世尊和诸位知识比丘？」\n佛告诉释氏难提：「你见佛或不见佛，见知识比丘或不见，都应当随时修习五种欢喜之处。哪五种？念如来事——如来、应、等正觉、明行足、善逝、世间解、无上士、调御丈夫、天人师、佛世尊；念法事、念僧事、念自己所持的戒、念自己所行的惠施——『我得到了自己的利益：在悭垢众生中，多修离悭垢而住，行解脱施、舍施、常炽然施、乐于舍，平等惠施，常怀施心。』这五支定，无论住、行、坐、卧，乃至与妻子在一起，都应当常把心系在此念上。」\n佛说完这部经，释氏难提听佛所说，欢喜随喜，作礼离去。",
+  "notes": "SC 于本经未列可靠巴利平行，故唯以汉本为底，参同相应之巴利定型语厘义；依项目规约「无可靠平行时 confidence 降为 medium/low」。confidence=medium：夏安居竟缝衣、难提忧离；五欢喜处（佛／法／僧／戒／施）近 AN 六随念而缺念天；不臆补第六。「四体支解、四方易韵」→「支节解散、心迷所闻」。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "medium",
+  "prior_review_status": "needs_revision",
+  "similarity_to_source": 0.325,
+  "paragraph_parallel": true
+}

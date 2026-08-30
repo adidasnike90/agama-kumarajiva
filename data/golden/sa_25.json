@@ -1,0 +1,25 @@
+{
+  "id": "SA_25",
+  "uid": "sa25",
+  "title": "雜阿含經  卷第一  陰相應  （二五）  多聞",
+  "chinese_text": "如是我聞：一時，佛住舍衛國、祇樹、給孤獨園。時，有異比丘來詣佛所。為佛作禮，却住一面，白佛言：「如世尊說『多聞』。云何為多聞？」佛告比丘：「善哉，善哉！汝今問我多聞義耶？」比丘白佛：「唯然，世尊！」佛告比丘：「諦聽，善思。當為汝說。比丘，當知，若聞色是生厭、離欲、滅盡、寂靜法，是名多聞。如是，聞受⋯想⋯行⋯識是生厭、離欲、滅盡、寂靜法，是名多聞。比丘，是名如來所說多聞。」時，彼比丘聞佛所說踊躍，歡喜。作禮而去。",
+  "english_sa_text": "Thus I have heard: One time, the Buddha was staying at Anāthapiṇḍada’s Park in Jeta’s Grove of Śrāvastī. It was then that a certain monk came to visit the Buddha. He bowed to the Buddha, withdrew to stand at one side, and said to the Buddha, “The Bhagavān says ‘well versed.’ How is one well versed?” The Buddha said to that monk, “Good, good! Are you asking me now about the meaning of ‘well versed’?” The monk said to the Buddha, “Indeed, Bhagavān.” The Buddha told the monk, “[Listen closely!] Listen closely, and consider it well. I will explain it for you. Monk, you should know that if one learns about becoming disillusioned with form, becoming free of desire for it, completely ceasing it, and the state of peace, this is called being well versed. Thus, if one learns about becoming disillusioned with feeling … conception … volition … awareness, becoming free of desire for it, completely ceasing it, and the state of peace, this is called being well versed. Monk, this is what the Tathāgata says is being well versed.” When that monk heard what the Buddha taught, he celebrated and rejoiced. Then, he bowed and departed.",
+  "parallels": [],
+  "primary_sn_uid": null,
+  "pali_text": "",
+  "english_sn_text": "",
+  "errors": [],
+  "kumarajiva_style_text": "如是我闻：一时佛在舍卫国祇树给孤独园。\n时有异比丘来诣佛所，作礼却住，白佛言：如世尊说「多闻」，云何为多闻？佛告比丘：善哉！谛听，善思，当为汝说。若闻色是生厌、离欲、灭尽、寂静之法，是名多闻。若闻受、想、行、识是生厌、离欲、灭尽、寂静之法，是名多闻。是名如来所说多闻。\n时彼比丘闻法踊跃，作礼而去。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在舍卫国祇树给孤独园。\n那时，有一位比丘来到佛那里，作礼后站在一边，对佛说：世尊所说的「多闻」，怎样才算多闻？佛告诉比丘：很好！仔细听，好好思惟，我为你说。若听说色是能生厌离、离欲、灭尽、寂静的法，这就叫多闻。若听说受、想、行、识是能生厌离、离欲、灭尽、寂静的法，这也叫多闻。这就是如来所说的多闻。\n那位比丘听法踊跃，作礼而去。",
+  "notes": "信：多闻＝闻五蕴为厌、离欲、灭尽、寂静之法，非博学义。无可靠主平行；依汉本雅化，confidence=medium。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "confidence": "medium",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": []
+}

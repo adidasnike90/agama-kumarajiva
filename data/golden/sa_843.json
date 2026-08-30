@@ -1,0 +1,43 @@
+{
+  "id": "SA_843",
+  "uid": "sa843",
+  "title": "雜阿含經  卷第三十二  學相應  （843）  舍利弗",
+  "chinese_text": "如是我聞：\n\n一時，佛住舍衛國祇樹給孤獨園。\n\n爾時，世尊告尊者舍利弗：「所謂流者。何等為流？」\n\n舍利弗白佛言：「世尊所說流者，謂八聖道。」\n\n復問舍利弗：「謂入流分。何等為入流分？」\n\n舍利弗白佛言：「世尊！有四種入流分。何等為四？謂親近善男子、聽正法、內正思惟、法次法向。」\n\n復問舍利弗：「入流者成就幾法？」\n\n舍利弗白佛言：「有四分成就入流者。何等為四？謂於佛不壞淨、於法不壞淨、於僧不壞淨、聖戒成就。」\n\n佛告舍利弗：「如汝所說，流者，謂八聖道。入流分者有四種，謂親近善男子、聽正法、內正思惟、法次法向。入流者成就四法，謂於佛不壞淨、於法不壞淨、於僧不壞淨、聖戒成就。」\n\n佛說此經已，尊者舍利弗聞佛所說，歡喜奉行。",
+  "english_sa_text": "",
+  "parallels": [
+    {
+      "uid": "sn55.5",
+      "acronym": "SN 55.5",
+      "root_lang": "pli",
+      "original_title": "Dutiyasāriputtasutta",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    }
+  ],
+  "primary_sn_uid": "sn55.5",
+  "pali_text": "Atha kho āyasmā sāriputto yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṁ abhivādetvā ekamantaṁ nisīdi. Ekamantaṁ nisinnaṁ kho āyasmantaṁ sāriputtaṁ bhagavā etadavoca: “‘sotāpattiyaṅgaṁ, sotāpattiyaṅgan’ti hidaṁ, sāriputta, vuccati. Katamaṁ nu kho, sāriputta, sotāpattiyaṅgan”ti? “Sappurisasaṁsevo hi, bhante, sotāpattiyaṅgaṁ, saddhammassavanaṁ sotāpattiyaṅgaṁ, yonisomanasikāro sotāpattiyaṅgaṁ, dhammānudhammappaṭipatti sotāpattiyaṅgan”ti. “Sādhu sādhu, sāriputta. Sappurisasaṁsevo hi, sāriputta, sotāpattiyaṅgaṁ, saddhammassavanaṁ sotāpattiyaṅgaṁ, yonisomanasikāro sotāpattiyaṅgaṁ, dhammānudhammappaṭipatti sotāpattiyaṅgaṁ. ‘Soto, soto’ti hidaṁ, sāriputta, vuccati. Katamo nu kho, sāriputta, soto”ti? “Ayameva hi, bhante, ariyo aṭṭhaṅgiko maggo soto, seyyathidaṁ— sammādiṭṭhi, sammāsaṅkappo, sammāvācā, sammākammanto, sammāājīvo, sammāvāyāmo, sammāsati, sammāsamādhī”ti. “Sādhu sādhu, sāriputta. Ayameva hi, sāriputta, ariyo aṭṭhaṅgiko maggo soto, seyyathidaṁ— sammādiṭṭhi …pe… sammāsamādhi. ‘Sotāpanno, sotāpanno’ti hidaṁ, sāriputta, vuccati. Katamo nu kho, sāriputta, sotāpanno”ti? “Yo hi, bhante, iminā ariyena aṭṭhaṅgikena maggena samannāgato ayaṁ vuccati sotāpanno, svāyaṁ āyasmā evaṁnāmo evaṅgotto”ti. “Sādhu sādhu, sāriputta. Yo hi, sāriputta, iminā ariyena aṭṭhaṅgikena maggena samannāgato ayaṁ vuccati sotāpanno, svāyaṁ āyasmā evaṁnāmo evaṅgotto”ti. Pañcamaṁ.",
+  "english_sn_text": "Then Sāriputta went up to the Buddha, bowed, and sat down to one side. The Buddha said to him: “Sāriputta, they speak of a ‘factor for stream-entry’. What is a factor for stream-entry?” “Sir, the factors for stream-entry are associating with true persons, listening to the true teaching, rational application of mind, and practicing in line with the teaching.” “Good, good, Sāriputta! For the factors for stream-entry are associating with true persons, listening to the true teaching, rational application of mind, and practicing in line with the teaching. Sāriputta, they speak of ‘the stream’. What is the stream?” “Sir, the stream is simply this noble eightfold path, that is: right view, right purpose, right speech, right action, right livelihood, right effort, right mindfulness, and right immersion.” “Good, good, Sāriputta! For the stream is simply this noble eightfold path, that is: right view, right purpose, right speech, right action, right livelihood, right effort, right mindfulness, and right immersion. Sāriputta, they speak of ‘a stream-enterer’. What is a stream-enterer?” “Sir, anyone who possesses this noble eightfold path is called a stream-enterer, the venerable of such name and such clan.” “Good, good, Sāriputta! For anyone who possesses this noble eightfold path is called a stream-enterer, the venerable of such name and such clan.”",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa801-900/sa843_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa801-900/sa843_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛住舍卫国祇树给孤独园。\n尔时世尊问尊者舍利弗：「所谓入流分——何等为入流分？」舍利弗白佛：「世尊！入流分有四：亲近善士、听闻正法、如理作意、法次法向。」佛言：「善哉！舍利弗！」\n「所谓流——何等为流？」舍利弗白佛：「世尊！流者，谓八圣道——正见、正志、正语、正业、正命、正精进、正念、正定。」佛言：「善哉！」\n「所谓入流者——何等为入流者？」舍利弗白佛：「世尊！成就此八圣道者，是名入流者——某名某姓之尊者。」佛言：「善哉！如汝所说。」\n佛说此经已，尊者舍利弗闻佛所说，欢喜奉行。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在舍卫国祇树给孤独园。\n那时世尊问尊者舍利弗：「人们说入流分——什么是入流分？」舍利弗回答佛：「世尊！入流分有四种：亲近善士、听闻正法、如理作意、依法次法修行。」佛说：「善哉！舍利弗！」\n「人们说流——什么是流？」舍利弗回答佛：「世尊！流就是八圣道——正见、正志、正语、正业、正命、正精进、正念、正定。」佛说：「善哉！」\n「人们说入流者——什么是入流者？」舍利弗回答佛：「世尊！成就这八圣道的人，叫做入流者——某某名、某某姓的尊者。」佛说：「善哉！正如你所说。」\n佛说完这部经，尊者舍利弗听佛所说，都欢喜奉行。",
+  "notes": "本经 SC 平行表所列平行及 `raw_aligned_data.json` 内之巴利本文、Sujato 英译并用以厘定法义；求那跋陀罗汉本用于定位经文与传统术语。confidence=high：SN55.5 Dutiyasāriputta；据 SN 校正问序：入流分→流→入流者；入流者＝成就八圣道（非汉「四不坏净」）；四不坏净属果德，此处从巴利。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "high",
+  "prior_review_status": "needs_revision",
+  "similarity_to_source": 0.206,
+  "paragraph_parallel": true
+}

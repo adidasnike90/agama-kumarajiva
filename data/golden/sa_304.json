@@ -1,0 +1,193 @@
+{
+  "id": "SA_304",
+  "uid": "sa304",
+  "title": "雜阿含經  卷第十二  因緣相應  （304）  六六",
+  "chinese_text": "如是我聞：\n\n一時，佛住拘留搜調牛聚落。\n\n爾時，世尊告諸比丘：「我今當為汝等說法，初、中、後善，善義善味，純一滿淨，梵行清白。諦聽，善思，有六六法。何等為六六法？謂六內入處、六外入處、六識身、六觸身、六受身、六愛身。\n\n「何等為六內入處？謂眼入處、耳入處、鼻入處、舌入處、身入處、意入處。何等為六外入處，色入處、聲入處、香入處、味入處、觸入處、法入處。云何六識身？謂眼識身、耳識身、鼻識身、舌識身、身識身、意識身。云何六觸身？謂眼觸、耳觸、鼻觸、舌觸、身觸、意觸。云何六受身？謂眼觸生受、耳觸生受、鼻觸生受、舌觸生受、身觸生受、意觸生受。云何六愛身？謂眼觸生愛、耳觸生愛、鼻觸生愛、舌觸生愛、身觸生愛、意觸生愛。\n\n「若有說言眼是我，是則不然。所以者何？眼生滅故，若眼是我者，我應受生死，是故說眼是我者，是則不然。如是若色、若眼識、眼觸、眼觸生受若是我者，是則不然。所以者何？眼觸生受是生滅法，若眼觸生受是我者，我復應受生死，是故說眼觸生受是我者，是則不然，是故眼觸生受非我。如是耳、鼻、舌、身、意觸生受非我。所以者何？意觸生受是生滅法，若是我者，我復應受生死，是故意觸生受是我者，是則不然，是故意觸生受非我。\n\n「如是，比丘！當如實知眼所作、智所作、寂滅所作，開發神通，正向涅槃。云何如實知見眼所作，乃至正向涅槃？如是。比丘！眼非我，若色、眼識、眼觸、眼觸因緣生受，內覺若苦、若樂、不苦不樂，彼亦觀察非我。耳、鼻、舌、身、意亦如是說，是名如實知見眼所作，乃至正向涅槃，是名六六法經。」\n\n佛說此經已，諸比丘聞佛所說，歡喜奉行。",
+  "english_sa_text": "",
+  "parallels": [
+    {
+      "uid": "mn148",
+      "acronym": "MN 148",
+      "root_lang": "pli",
+      "original_title": "Chachakkasutta",
+      "translated_title": "The Six Sets of Six",
+      "type": "full",
+      "resembling": false,
+      "remark": "Akanuma p. 171 lists MA 86 at T i 562a as another parallel. In MA 86 Ānanda asks the Buddha how to instruct a group of young monks. The Buddha responds by discussing the five aggregates, the six senses, and a broad range of other topics. Thus, despite some overlap as regards the exposition of the six senses, MA 86 and MN 148 do not seem to be parallels. "
+    },
+    {
+      "uid": "sht-sutta71",
+      "acronym": "SHT Sutta 71",
+      "root_lang": "san",
+      "original_title": "",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "sn35.60",
+      "acronym": "SN 35.60",
+      "root_lang": "pli",
+      "original_title": "Sabbupādānapariññāsutta",
+      "translated_title": "The Full Understanding of All Clinging",
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "up3.059",
+      "acronym": "Up 3.059",
+      "root_lang": "xct",
+      "original_title": "",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "mn18",
+      "acronym": "MN 18",
+      "root_lang": "pli",
+      "original_title": "Madhupiṇḍikasutta",
+      "translated_title": "The Sweet Morsel",
+      "type": "full",
+      "resembling": true,
+      "remark": null
+    },
+    {
+      "uid": "mn38",
+      "acronym": "MN 38",
+      "root_lang": "pli",
+      "original_title": "Mahātaṇhāsaṅkhayasutta",
+      "translated_title": "The Greater Discourse on the Destruction of Craving",
+      "type": "full",
+      "resembling": true,
+      "remark": null
+    },
+    {
+      "uid": "sa327",
+      "acronym": "SA 327",
+      "root_lang": "lzh",
+      "original_title": "六受身",
+      "translated_title": null,
+      "type": "full",
+      "resembling": true,
+      "remark": null
+    },
+    {
+      "uid": "sa326",
+      "acronym": "SA 326",
+      "root_lang": "lzh",
+      "original_title": "六觸身",
+      "translated_title": null,
+      "type": "full",
+      "resembling": true,
+      "remark": null
+    },
+    {
+      "uid": "sa325",
+      "acronym": "SA 325",
+      "root_lang": "lzh",
+      "original_title": "六識身",
+      "translated_title": null,
+      "type": "full",
+      "resembling": true,
+      "remark": null
+    },
+    {
+      "uid": "sa324",
+      "acronym": "SA 324",
+      "root_lang": "lzh",
+      "original_title": "六外入處",
+      "translated_title": null,
+      "type": "full",
+      "resembling": true,
+      "remark": null
+    },
+    {
+      "uid": "sa323",
+      "acronym": "SA 323",
+      "root_lang": "lzh",
+      "original_title": "六內入處",
+      "translated_title": null,
+      "type": "full",
+      "resembling": true,
+      "remark": null
+    },
+    {
+      "uid": "sa301-400",
+      "acronym": null,
+      "root_lang": "lzh",
+      "original_title": "Saṁyuktāgama 301–400",
+      "translated_title": null,
+      "type": "full",
+      "resembling": true,
+      "remark": null
+    },
+    {
+      "uid": "sa330",
+      "acronym": "SA 330",
+      "root_lang": "lzh",
+      "original_title": "六愛身",
+      "translated_title": null,
+      "type": "full",
+      "resembling": true,
+      "remark": null
+    },
+    {
+      "uid": "sf18",
+      "acronym": "SF 18",
+      "root_lang": "san",
+      "original_title": "Chachakka",
+      "translated_title": null,
+      "type": "full",
+      "resembling": true,
+      "remark": null
+    },
+    {
+      "uid": "kv6.7",
+      "acronym": "Kv 6.7",
+      "root_lang": "pli",
+      "original_title": "Ākāsosanidassanotikathā",
+      "translated_title": "Of Space as visible",
+      "type": "mention",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "mnd11",
+      "acronym": "Mnd 11",
+      "root_lang": "pli",
+      "original_title": "Kalahavivādasuttaniddesa",
+      "translated_title": null,
+      "type": "mention",
+      "resembling": false,
+      "remark": null
+    }
+  ],
+  "primary_sn_uid": "sn35.60",
+  "pali_text": "“Sabbupādānapariññāya vo, bhikkhave, dhammaṁ desessāmi. Taṁ suṇātha. Katamo ca, bhikkhave, sabbupādānapariññāya dhammo? Cakkhuñca paṭicca rūpe ca uppajjati cakkhuviññāṇaṁ. Tiṇṇaṁ saṅgati phasso. Phassapaccayā vedanā. Evaṁ passaṁ, bhikkhave, sutavā ariyasāvako cakkhusmimpi nibbindati, rūpesupi nibbindati, cakkhuviññāṇepi nibbindati, cakkhusamphassepi nibbindati, vedanāyapi nibbindati. Nibbindaṁ virajjati; virāgā vimuccati; vimokkhā ‘pariññātaṁ me upādānan’ti pajānāti. Sotañca paṭicca sadde ca uppajjati … ghānañca paṭicca gandhe ca … jivhañca paṭicca rase ca … kāyañca paṭicca phoṭṭhabbe ca … manañca paṭicca dhamme ca uppajjati manoviññāṇaṁ. Tiṇṇaṁ saṅgati phasso. Phassapaccayā vedanā. Evaṁ passaṁ, bhikkhave, sutavā ariyasāvako manasmimpi nibbindati, dhammesupi nibbindati, manoviññāṇepi nibbindati, manosamphassepi nibbindati, vedanāyapi nibbindati. Nibbindaṁ virajjati; virāgā vimuccati; vimokkhā ‘pariññātaṁ me upādānan’ti pajānāti. Ayaṁ kho, bhikkhave, sabbupādānapariññāya dhammo”ti. Aṭṭhamaṁ.",
+  "english_sn_text": "“Mendicants, I will teach you the principle for the complete understanding of all grasping. Listen … And what is the principle for the complete understanding of all grasping? Eye consciousness arises dependent on the eye and sights. The meeting of the three is contact. Contact is a requirement for feeling. Seeing this, a learned noble disciple grows disillusioned with the eye, sights, eye consciousness, eye contact, and feeling. Being disillusioned, desire fades away. When desire fades away they’re freed. When they are liberated, they understand: ‘I have completely understood grasping.’ Ear consciousness arises dependent on the ear and sounds. … Nose consciousness arises dependent on the nose and smells. … Tongue consciousness arises dependent on the tongue and tastes. … Body consciousness arises dependent on the body and touches. … Mind consciousness arises dependent on the mind and ideas. The meeting of the three is contact. Contact is a requirement for feeling. Seeing this, a learned noble disciple grows disillusioned with the mind, ideas, mind consciousness, mind contact, and feeling. Being disillusioned, desire fades away. When desire fades away they’re freed. When they are liberated, they understand: ‘I have completely understood grasping.’ This is the principle for the complete understanding of all grasping.”",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa301-400/sa304_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa301-400/sa304_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛住拘留搜调牛聚落。\n尔时，世尊告诸比丘：「我今当说法，初、中、后善，善义善味，纯一满净，梵行清白。谛听善思——有六六法。何等六六？六内入处、六外入处、六识身、六触身、六受身、六爱身。」\n「六内入：眼、耳、鼻、舌、身、意入处。六外入：色、声、香、味、触、法入处。六识身、六触身、六受身、六爱身——如名可知。」\n「若有说『眼是我』——不然。所以者何？眼生灭故；若眼是我，我应受生死——不然。若色、眼识、眼触、眼触生受是我——亦不然，以生灭故，应受生死——不然。眼触生受非我。耳、鼻、舌、身、意触生受非我——意触生受生灭，若是我应受生死——非我。」\n「比丘当如实知眼所作、智所作、寂灭所作，开发神通，正向涅槃——如实知见：眼非我；若色、眼识、眼触、眼触因缘生受，内觉若苦、若乐、不苦不乐，彼亦观察非我。耳、鼻、舌、身、意亦如是——名如实知见，乃至正向涅槃。名六六法经。」\n佛说此经已，诸比丘闻佛所说，欢喜奉行。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在拘留搜国调牛聚落。\n佛告诉比丘：「我当说法——有六六法：六内入、六外入、六识身、六触身、六受身、六爱身。」\n「六内入：眼、耳、鼻、舌、身、意。六外入：色、声、香、味、触、法。六识、六触、六受、六爱——如名可知。」\n「若说『眼是我』——不然：眼生灭，若是我应受生死。色、眼识、眼触、眼触生受若是我——亦不然，生灭故应受生死。眼触生受非我。耳、鼻、舌、身、意触生受亦非我。」\n「当如实知：眼非我；色、眼识、眼触、眼触缘生受（苦、乐、不苦不乐）亦非我。耳、鼻、舌、身、意亦同——名如实知见，正向涅槃。名六六法经。」\n佛说完这部经，比丘们听佛所说，都欢喜奉行。",
+  "notes": "本经 SC 平行表所列平行及 `raw_aligned_data.json` 内之巴利本文、Sujato 英译并用以厘定法义；求那跋陀罗汉本用于定位经文与传统术语。confidence=high：SN35.60（Sabba）／MN148 为 `full` 平行，六六法及眼等非我、如实知见正向涅槃，逐段可对。底本卷第十三题及空行属 paratext，不入正文。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "high",
+  "prior_review_status": "needs_revision",
+  "similarity_to_source": 0.305,
+  "paragraph_parallel": true
+}

@@ -1,0 +1,35 @@
+{
+  "id": "SA_818",
+  "uid": "sa818",
+  "title": "雜阿含經  卷第三十一  學相應  （818）  學",
+  "chinese_text": "如是我聞：\n\n一時，佛住舍衛國祇樹給孤獨園。\n\n爾時，世尊告諸比丘：「有比丘增上戒學，非增上意、增上慧學，有增上戒、增上意學，非增上慧學。聖弟子增上慧方便隨順成就住者，增上戒、增上意修習滿足。如是聖弟子增上慧方便隨順成就住者，無上慧壽而活。」\n\n佛說此經已，諸比丘聞佛所說，歡喜奉行。",
+  "english_sa_text": "",
+  "parallels": [],
+  "primary_sn_uid": null,
+  "pali_text": "",
+  "english_sn_text": "",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa801-900/sa818_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa801-900/sa818_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛住舍卫国祇树给孤独园。\n尔时世尊告诸比丘：「或唯增上戒学，未及意、慧；或戒与意学并进，而未及慧。若圣弟子方便随顺，增上慧得成就住，则戒与意自然修满。慧既成就，是名以无上慧命而活。」\n佛说此经已，诸比丘闻佛所说，欢喜奉行。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在舍卫国祇树给孤独园。\n那时世尊告诉比丘们：「有人只修成增上戒学，还不到意学、慧学；有人戒学与意学一起推进，还不到慧学。如果圣弟子方便随顺，增上慧得以成就而住，那么戒与意自然就修满了。慧既成就，这叫做以无上的慧命而活。」\n佛说完这部经，比丘们听佛所说，都欢喜奉行。",
+  "notes": "SC 于本经未列可靠巴利平行，故唯以汉本为底，参同相应之巴利定型语厘义；依项目规约「无可靠平行时 confidence 降为 medium/low」。confidence=medium：三学阶梯——戒可单成，戒定可并成，而慧成就则戒定随满；「无上慧寿」作「无上慧命」。无专 AN 平行。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "medium",
+  "prior_review_status": "needs_revision",
+  "similarity_to_source": 0.249,
+  "paragraph_parallel": true,
+  "quality_gate_reasons": [
+    "lit_mod_gap=0.288>=0.1"
+  ]
+}

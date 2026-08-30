@@ -1,0 +1,32 @@
+{
+  "id": "SA_986",
+  "uid": "sa986",
+  "title": "雜阿含經  卷第四十  雜相應  （986）  二事斷",
+  "chinese_text": "如是我聞：\n\n一時，佛住舍衛國祇樹給孤獨園。\n\n爾時，世尊告諸比丘：「有二事斷難持。何等為二？若俗人處非人處，於衣食、床臥、資生眾具，持彼斷者，是則難行。又，比丘非家出家，斷除貪愛，持彼斷者，亦甚難行。」\n\n爾時，世尊即說偈言：\n\n「世間有二事，　　持斷則難行，\n\n　是真諦所說，　　等正覺所知。\n\n　在家財入出，　　衣食等眾具，\n\n　世間貪愛樂，　　持斷者甚難。\n\n　比丘已離俗，　　信非家出家，\n\n　滅除於貪愛，　　持斷亦難行。」\n\n佛說此經已，諸比丘聞佛所說，歡喜奉行。",
+  "english_sa_text": "",
+  "parallels": [],
+  "primary_sn_uid": null,
+  "pali_text": "",
+  "english_sn_text": "",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa901-1000/sa986_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa901-1000/sa986_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛住舍卫国祇树给孤独园。\n佛告诸比丘：「有二事难持难断：一者在家于衣食床卧资生，持断难行；二者出家断除贪爱，持断亦难。」即说偈：「世间二事断，持之实难行；真谛等正觉，如实而宣说。在家财与欲，衣食众资具，贪爱所缠乐，持断者甚难。比丘信出家，灭除于贪爱，持断亦难行。」\n佛说此经已，诸比丘闻佛所说，欢喜奉行。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在舍卫国祇树给孤独园。\n佛告诉比丘们：「有两件事难持守、难断除：一是在家人在衣食卧具资生上持守断除，很难做到；二是出家人断除贪爱并持守，也很难。」便说偈：「世间这两件事，持守断除实在难；真谛与等正觉，如实这样说。在家的财物欲乐，衣食等资具，被贪爱缠着的乐，要持断很难。比丘信心出家，灭除贪爱，要持断也很难。」\n佛说完这部经，比丘们听佛所说，都欢喜奉行。",
+  "notes": "SC 于本经未列可靠巴利平行，故唯以汉本为底，参同相应之巴利定型语厘义；依项目规约「无可靠平行时 confidence 降为 medium/low」。confidence=medium：无可靠巴利；在家资具难断／出家贪爱难断，依汉。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "medium",
+  "prior_review_status": "needs_revision",
+  "similarity_to_source": 0.203,
+  "paragraph_parallel": true
+}

@@ -1,0 +1,83 @@
+{
+  "id": "SA_583",
+  "uid": "sa583",
+  "title": "雜阿含經  卷第二十五  天相應  （583）  月天子",
+  "chinese_text": "如是我聞：\n\n一時，佛住舍衛國祇樹給孤獨園。\n\n爾時，羅睺羅阿修羅王障月天子。時，諸月天子悉皆恐怖，來詣佛所，稽首佛足，退住一面。說偈歎佛：\n\n「今禮最勝覺，　　能脫一切障，\n\n　我今遭苦惱，　　是故來歸依。\n\n　我等月天子，　　歸依於善逝，\n\n　佛哀愍世間，　　願解阿修羅。」\n\n爾時，世尊說偈答言：\n\n「破壞諸闇冥，　　光明照虛空，\n\n　今毘盧遮那，　　清淨光明顯。\n\n　羅睺避虛空，　　速放飛兔像，\n\n　羅睺阿修羅，　　即捨月而還。\n\n　舉體悉流污，　　戰怖不自安，\n\n　神昬志迷亂，　　猶如重病人。」\n\n時，有阿修羅名曰婆稚，見羅睺羅阿修羅疾捨月還，便說偈言：\n\n「羅睺阿修羅，　　捨月一何速，\n\n　神體悉流污，　　猶如重病人。」\n\n羅睺阿修羅說偈答言：\n\n「瞿曇說呪偈，　　不速捨月者，\n\n　或頭破七分，　　受諸隣死苦。」\n\n婆稚阿修羅復說偈言：\n\n「佛興未曾有，　　安隱於世間，\n\n　說呪偈能令，　　羅睺羅捨月。」\n\n佛說此經已，時月天子聞佛所說，歡喜隨喜，作禮而去。",
+  "english_sa_text": "",
+  "parallels": [
+    {
+      "uid": "d331",
+      "acronym": "D 331",
+      "root_lang": "xct",
+      "original_title": "ཟླ་བའི་མདོ། (Candra-sūtra)",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "d42",
+      "acronym": "D 42",
+      "root_lang": "xct",
+      "original_title": "ཟླ་བའི་མདོ། (Candra-sūtra)",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "sa-2.167",
+      "acronym": "SA2 167",
+      "root_lang": "lzh",
+      "original_title": "月天子",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "sn2.9",
+      "acronym": "SN 2.9",
+      "root_lang": "pli",
+      "original_title": "Candimasutta",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "sf276",
+      "acronym": "SF 276",
+      "root_lang": "san",
+      "original_title": "Candra",
+      "translated_title": null,
+      "type": "full",
+      "resembling": true,
+      "remark": null
+    }
+  ],
+  "primary_sn_uid": "sn2.9",
+  "pali_text": "Sāvatthinidānaṁ. Tena kho pana samayena candimā devaputto rāhunā asurindena gahito hoti. Atha kho candimā devaputto bhagavantaṁ anussaramāno tāyaṁ velāyaṁ imaṁ gāthaṁ abhāsi: “Namo te buddha vīratthu, vippamuttosi sabbadhi; Sambādhapaṭipannosmi, tassa me saraṇaṁ bhavā”ti. Atha kho bhagavā candimaṁ devaputtaṁ ārabbha rāhuṁ asurindaṁ gāthāya ajjhabhāsi: “Tathāgataṁ arahantaṁ, candimā saraṇaṁ gato; Rāhu candaṁ pamuñcassu, buddhā lokānukampakā”ti. Atha kho rāhu asurindo candimaṁ devaputtaṁ muñcitvā taramānarūpo yena vepacitti asurindo tenupasaṅkami; upasaṅkamitvā saṁviggo lomahaṭṭhajāto ekamantaṁ aṭṭhāsi. Ekamantaṁ ṭhitaṁ kho rāhuṁ asurindaṁ vepacitti asurindo gāthāya ajjhabhāsi: “Kiṁ nu santaramānova, rāhu candaṁ pamuñcasi; Saṁviggarūpo āgamma, kiṁ nu bhītova tiṭṭhasī”ti. “Sattadhā me phale muddhā, jīvanto na sukhaṁ labhe; Buddhagāthābhigītomhi, no ce muñceyya candiman”ti.",
+  "english_sn_text": "At Sāvatthī. Now at that time the Moon God had been seized by Rāhu, lord of titans. Then the Moon God, recollecting the Buddha, at that time spoke this verse: “Homage to you, Buddha, hero! You’re free in every way. I’ve wandered into confinement: be my refuge!” Then the Buddha addressed Rāhu in verse concerning the Moon God: “The Moon God has gone for refuge to the Realized One, the perfected one. The Buddhas have compassion for the world— so Rāhu, release the Moon!” Then Rāhu, having released the Moon, rushed to see Vepacitti, lord of titans and stood to one side, shocked and awestruck. Vepacitti addressed him in verse: “Why the rush? Rāhu, you released the Moon and came here looking like you’re in shock: why do you stand there so scared?” “My head would have exploded in seven pieces, I would have found no happiness in life, if, when enchanted by the Buddha’s verse, I had not released the Moon.”",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa501-600/sa583_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa501-600/sa583_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛在舍卫国祇树给孤独园。\n尔时，罗睺罗阿修罗王障月天子。时，诸月天子悉皆恐怖，来诣佛所，稽首佛足，退住一面，说偈叹佛：\n「今礼最胜觉，能脱一切障，我今遭苦恼，是故来归依。我等月天子，归依于善逝，佛哀愍世间，愿解阿修罗。」\n尔时，世尊说偈答言：「破坏诸闇冥，光明照虚空，今毗卢遮那，清净光明显。罗睺避虚空，速放飞兔像，罗睺阿修罗，即舍月而还。举体悉流污，战怖不自安，神昏志迷乱，犹如重病人。」\n时有阿修罗名曰婆稚，见罗睺罗阿修罗疾舍月还，说偈言：「罗睺阿修罗，舍月一何速，神体悉流污，犹如重病人。」\n罗睺阿修罗说偈答言：「瞿昙说咒偈，不速舍月者，或头破七分，受诸邻死苦。」\n婆稚阿修罗复说偈言：「佛兴未曾有，安隐于世间，说咒偈能令，罗睺罗舍月。」\n佛说是经已，时月天子闻佛所说，欢喜随喜，作礼而去。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在舍卫国祇树给孤独园。\n尔时，罗睺罗阿修罗王障月天子。时，诸月天子悉皆恐怖，来诣佛所，稽首佛足，退住一面，说偈叹佛：\n「今礼最胜觉，能脱一切障，我今遭苦恼，是故来归依。我等月天子，归依于善逝，佛哀愍世间，愿解阿修罗。」\n尔时，世尊说偈答言：「破坏诸闇冥，光明照虚空，今毗卢遮那，清净光明显。罗睺避虚空，速放飞兔像，罗睺阿修罗，即舍月而还。举体悉流污，战怖不自安，神昏志迷乱，犹如重病人。」\n时有阿修罗名曰婆稚，见罗睺罗阿修罗疾舍月还，说偈言：「罗睺阿修罗，舍月一何速，神体悉流污，犹如重病人。」\n罗睺阿修罗说偈答言：「瞿昙说咒偈，不速舍月者，或头破七分，受诸邻死苦。」\n婆稚阿修罗复说偈言：「佛兴未曾有，安隐于世间，说咒偈能令，罗睺罗舍月。」\n佛说是经已，时月天子闻佛所说，欢喜随喜，作礼而去。",
+  "notes": "本经 SC 平行表所列平行及 `raw_aligned_data.json` 内之巴利本文、Sujato 英译并用以厘定法义；求那跋陀罗汉本用于定位经文与传统术语。confidence=high：primary SN2.9（月天子被 Rāhu 障；佛咒释月）。据 SN 校正：归依、头破七分喻，从巴利。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "high",
+  "prior_review_status": "needs_revision",
+  "similarity_to_source": 0.306,
+  "paragraph_parallel": true
+}

@@ -1,0 +1,53 @@
+{
+  "id": "SA_1275",
+  "uid": "sa1275",
+  "title": "雜阿含經  卷第五十  雜相應  （1275）  觸",
+  "chinese_text": "如是我聞：\n\n一時，佛住舍衛國祇樹給孤獨園。\n\n時，有天子容色絕妙，於後夜時來詣佛所，稽首佛足，退坐一面。其身光明遍照祇樹給孤獨園。\n\n時，彼天子而說偈言：\n\n「無觸不報觸，　　觸則以觸報，\n\n　以觸報觸故，　　不瞋不招瞋。」\n\n爾時，世尊說偈答言：\n\n「有於不瞋人，　　而加之以瞋，\n\n　清淨之正士，　　離諸煩惱結。\n\n　於彼起惡心，　　惡心還自中，\n\n　如逆風揚塵，　　還自坌其身。」\n\n時，彼天子復說偈言：\n\n「久見婆羅門，　　逮得般涅槃，\n\n　一切怖已過，　　永超世恩愛。」\n\n時，彼天子聞佛所說，歡喜隨喜，稽首佛足，即沒不現。",
+  "english_sa_text": "",
+  "parallels": [
+    {
+      "uid": "sa-2.273",
+      "acronym": "SA2 273",
+      "root_lang": "lzh",
+      "original_title": "觸",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "sn1.22",
+      "acronym": "SN 1.22",
+      "root_lang": "pli",
+      "original_title": "Phusatisutta",
+      "translated_title": "It Touches",
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    }
+  ],
+  "primary_sn_uid": "sn1.22",
+  "pali_text": "“Nāphusantaṁ phusati ca, phusantañca tato phuse; Tasmā phusantaṁ phusati, appaduṭṭhapadosinan”ti. “Yo appaduṭṭhassa narassa dussati, Suddhassa posassa anaṅgaṇassa; Tameva bālaṁ pacceti pāpaṁ, Sukhumo rajo paṭivātaṁva khitto”ti.",
+  "english_sn_text": "“It doesn’t impact one who doesn’t impact others. It impacts one because they impact others. That’s why it impacts one who impacts, who wrongs one who’s done no wrong.” “Whoever wrongs a man who has done no wrong, a pure man who has not a blemish, the evil backfires on the fool, like fine dust thrown upwind.”",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa1201-1300/sa1275_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa1201-1300/sa1275_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛住舍卫国祇树给孤独园。\n后夜分，有天子容色绝妙，来诣佛所，稽首礼足，退坐一面；身诸光明遍照祇树给孤独园。\n天子说偈问：「不侵人者，侵不能及；侵人者，侵乃及之。侵无过者，侵还自受。」\n世尊说偈答：「若于无过、清净无垢之士起瞋加害，恶还自中——如逆风扬尘，还坌己身。」\n天子复说偈：「久见婆罗门，逮得般涅槃，一切怖已过，永超世恩爱。」闻已欢喜，礼足即没。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在舍卫国祇树给孤独园。\n后夜分，有一位天子容色绝妙，来到佛前，顶礼佛足，退坐一面；身上的光明遍照祇树给孤独园。\n天子说偈问：「不侵犯别人的人，侵犯伤不到他；去侵犯别人的，侵犯才会落到自己头上。侵犯没有过错的人，那侵犯还是回到自己身上。」\n世尊说偈答：「若对没有过错、清净无垢的人起瞋加害，恶果还回到自己身上——就像逆风扬尘，尘土还是扑到自己身上。」\n天子又说偈：「久见婆罗门，逮得般涅槃，一切怖惧已过，永超世间恩爱。」听完欢喜随喜，顶礼佛足，随即隐没不见。",
+  "notes": "本经 SC 平行表所列平行及 `raw_aligned_data.json` 内之巴利本文、Sujato 英译并用以厘定法义；求那跋陀罗汉本用于定位经文与传统术语。confidence=high：primary SN1.22。据 SN 校正：汉「无触不报触」语拙，义为不侵者不受侵、侵无过者恶自还；佛答以逆风扬尘喻。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "high",
+  "prior_review_status": "needs_revision",
+  "similarity_to_source": 0.165,
+  "paragraph_parallel": true
+}

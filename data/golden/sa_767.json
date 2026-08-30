@@ -1,0 +1,93 @@
+{
+  "id": "SA_767",
+  "uid": "sa767",
+  "title": "雜阿含經  卷第三十  聖道分相應  （767）  聚",
+  "chinese_text": "如是我聞：\n\n一時，佛住舍衛國祇樹給孤獨園。\n\n爾時，世尊告諸比丘：「說不善聚者，謂五蓋，是為正說。所以者何？純一不善聚者，所謂五蓋。何等為五？謂貪欲蓋，瞋恚、眠睡、掉悔、疑蓋。說善法聚者，所謂八聖道，是名正說。所以者何？純一滿淨善聚者，謂八聖道。何等為八？謂正見、正志、正語、正業、正命、正方便、正念、正定。」\n\n佛說此經已，諸比丘聞佛所說，歡喜奉行。",
+  "english_sa_text": "",
+  "parallels": [
+    {
+      "uid": "an5.52",
+      "acronym": "AN 5.52",
+      "root_lang": "pli",
+      "original_title": "Akusalarāsisutta",
+      "translated_title": "A Heap",
+      "type": "full",
+      "resembling": true,
+      "remark": null
+    },
+    {
+      "uid": "ea32.2",
+      "acronym": "EA 32.2",
+      "root_lang": "lzh",
+      "original_title": "不善",
+      "translated_title": null,
+      "type": "full",
+      "resembling": true,
+      "remark": null
+    },
+    {
+      "uid": "sa611",
+      "acronym": "SA 611",
+      "root_lang": "lzh",
+      "original_title": "善聚",
+      "translated_title": null,
+      "type": "full",
+      "resembling": true,
+      "remark": null
+    },
+    {
+      "uid": "sa725",
+      "acronym": "SA 725",
+      "root_lang": "lzh",
+      "original_title": "不善聚",
+      "translated_title": null,
+      "type": "full",
+      "resembling": true,
+      "remark": null
+    },
+    {
+      "uid": "sn47.45",
+      "acronym": "SN 47.45",
+      "root_lang": "pli",
+      "original_title": "Kusalarāsisutta",
+      "translated_title": "A Heap of the Wholesome",
+      "type": "full",
+      "resembling": true,
+      "remark": null
+    },
+    {
+      "uid": "sn47.5",
+      "acronym": "SN 47.5",
+      "root_lang": "pli",
+      "original_title": "Akusalarāsisutta",
+      "translated_title": "A Heap of the Wholesome",
+      "type": "full",
+      "resembling": true,
+      "remark": null
+    }
+  ],
+  "primary_sn_uid": "sn47.45",
+  "pali_text": "“‘Kusalarāsī’ti, bhikkhave, vadamāno cattāro satipaṭṭhāne sammā vadamāno vadeyya. Kevalo hāyaṁ, bhikkhave, kusalarāsi, yadidaṁ—cattāro satipaṭṭhānā. Katame cattāro? Idha, bhikkhave, bhikkhu kāye kāyānupassī viharati ātāpī sampajāno satimā, vineyya loke abhijjhādomanassaṁ; vedanāsu …pe… citte …pe… dhammesu dhammānupassī viharati ātāpī sampajāno satimā, vineyya loke abhijjhādomanassaṁ. ‘Kusalarāsī’ti, bhikkhave, vadamāno ime cattāro satipaṭṭhāne sammā vadamāno vadeyya. Kevalo hāyaṁ, bhikkhave, kusalarāsi, yadidaṁ—cattāro satipaṭṭhānā”ti. Pañcamaṁ.",
+  "english_sn_text": "“Rightly speaking, mendicants, you’d call these four kinds of mindfulness meditation a ‘heap of the skillful’. For these four kinds of mindfulness meditation are entirely a heap of the skillful. What four? It’s when a mendicant meditates by observing an aspect of the body—keen, aware, and mindful, rid of covetousness and displeasure for the world. They meditate observing an aspect of feelings … mind … principles—keen, aware, and mindful, rid of covetousness and displeasure for the world. Rightly speaking, you’d call these four kinds of mindfulness meditation a ‘heap of the skillful’. For these four kinds of mindfulness meditation are entirely a heap of the skillful.”",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa701-800/sa767_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa701-800/sa767_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛住舍卫国祇树给孤独园。\n佛告比丘：「说不善聚者，谓五盖，是为正说。所以者何？纯一不善聚，所谓五盖——贪欲盖、瞋恚盖、睡眠盖、掉悔盖、疑盖。」\n「说善法聚者，谓八圣道，是为正说。所以者何？纯一满净善聚，谓八圣道——正见、正志、正语、正业、正命、正方便、正念、正定。」\n佛说此经已，诸比丘闻佛所说，欢喜奉行。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在舍卫国祇树给孤独园。\n佛告诉比丘：「说不善聚，就是指五盖，这才是正说。为什么？纯粹的不善聚，就是五盖——贪欲盖、瞋恚盖、昏沉睡眠盖、掉举后悔盖、疑盖。」\n「说善法聚，就是指八圣道，这才是正说。为什么？纯粹圆满清净的善聚，就是八圣道——正见、正志、正语、正业、正命、正方便、正念、正定。」\n佛说完这部经，比丘们听佛所说，都欢喜奉行。",
+  "notes": "本经 SC 平行表所列平行及 `raw_aligned_data.json` 内之巴利本文、Sujato 英译并用以厘定法义；求那跋陀罗汉本用于定位经文与传统术语。confidence=high：不善聚≈AN5.52／SN47.5（五盖）；善聚 SN47.45 作四念处，本经在圣道分以八圣道为善聚（与 SA_725 觉支本、SA_611 念处本对观）。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "high",
+  "prior_review_status": "needs_revision",
+  "similarity_to_source": 0.338,
+  "paragraph_parallel": true
+}

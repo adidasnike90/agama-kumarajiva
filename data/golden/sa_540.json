@@ -1,0 +1,54 @@
+{
+  "id": "SA_540",
+  "uid": "sa540",
+  "title": "雜阿含經  卷第二十二  阿難相應  （540）  所患",
+  "chinese_text": "如是我聞：\n\n一時，佛住舍衛國祇樹給孤獨園。爾時，尊者阿那律在舍衛國松林精舍，身遭病苦。\n\n時，有眾多比丘詣尊者阿那律所，問訊慰勞已，於一面住，語尊者阿那律言：「尊者阿那律！所患增損可安忍不？病勢漸損不轉增耶？」\n\n尊者阿那律言：「我病不安，難可安忍，身諸苦痛，轉增無損。」即說三種譬，如上叉摩經說。\n\n「然我身已遭此苦痛，且當安忍，正念正知。」\n\n諸比丘問尊者阿那律：「心住何所，而能安忍如是大苦，正念正知？」\n\n尊者阿那律語諸比丘言：「住四念處，我於所起身諸苦痛能自安忍，正念正知。何等為四念處？謂內身身觀念處，乃至受、心、法觀念處，是名住於四念處，身諸苦痛能自安忍，正念正知。」\n\n時，諸正士共論議已，歡喜隨喜，各從座起而去。",
+  "english_sa_text": "",
+  "parallels": [
+    {
+      "uid": "sa541",
+      "acronym": "SA 541",
+      "root_lang": "lzh",
+      "original_title": "所患",
+      "translated_title": null,
+      "type": "full",
+      "resembling": true,
+      "remark": null
+    },
+    {
+      "uid": "sn52.10",
+      "acronym": "SN 52.10",
+      "root_lang": "pli",
+      "original_title": "Bāḷhagilānasutta",
+      "translated_title": null,
+      "type": "full",
+      "resembling": true,
+      "remark": null
+    }
+  ],
+  "primary_sn_uid": "sn52.10",
+  "pali_text": "Ekaṁ samayaṁ āyasmā anuruddho sāvatthiyaṁ viharati andhavanasmiṁ ābādhiko dukkhito bāḷhagilāno. Atha kho sambahulā bhikkhū yenāyasmā anuruddho tenupasaṅkamiṁsu; upasaṅkamitvā āyasmantaṁ anuruddhaṁ etadavocuṁ: “Katamenāyasmato anuruddhassa vihārena viharato uppannā sārīrikā dukkhā vedanā cittaṁ na pariyādāya tiṭṭhantī”ti? “Catūsu kho me, āvuso, satipaṭṭhānesu suppatiṭṭhitacittassa viharato uppannā sārīrikā dukkhā vedanā cittaṁ na pariyādāya tiṭṭhanti. Katamesu catūsu? Idhāhaṁ, āvuso, kāye kāyānupassī viharāmi …pe… vedanāsu …pe… citte …pe… dhammesu dhammānupassī viharāmi ātāpī sampajāno satimā, vineyya loke abhijjhādomanassaṁ— imesu kho me, āvuso, catūsu satipaṭṭhānesu suppatiṭṭhitacittassa viharato uppannā sārīrikā dukkhā vedanā cittaṁ na pariyādāya tiṭṭhantī”ti. Dasamaṁ. Rahogatavaggo paṭhamo. Tassuddānaṁ Rahogatena dve vuttā, sutanu kaṇḍakī tayo; Taṇhākkhayasalaḷāgāraṁ, ambapāli ca gilānanti.",
+  "english_sn_text": "At one time Venerable Anuruddha was staying near Sāvatthī in the Dark Forest. And he was sick, suffering, gravely ill. Then several mendicants went up to Venerable Anuruddha, and said to him: “What meditation does Venerable Anuruddha practice so that physical pain doesn’t occupy his mind?” “Reverends, I meditate with my mind firmly established in the four kinds of mindfulness meditation so that physical pain doesn’t occupy my mind. What four? I meditate observing an aspect of the body … feelings … mind … principles—keen, aware, and mindful, rid of covetousness and displeasure for the world. I meditate with my mind firmly established in these four kinds of mindfulness meditation so that physical pain doesn’t occupy my mind.”",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa501-600/sa540_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa501-600/sa540_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛在舍卫国祇树给孤独园。尔时，尊者阿那律在舍卫国松林精舍，身遭病苦。\n有众多比丘诣阿那律所，问讯慰劳已，于一面住，问：「尊者阿那律！所患增损可安忍不？病势渐损不转增耶？」\n阿那律言：「我病不安，难可安忍，身诸苦痛，转增无损。」即说三种譬，如上叉摩经说。「然我身已遭此苦痛，且当安忍，正念正知。」\n诸比丘问：「心住何所，而能安忍如是大苦，正念正知？」阿那律答：「住四念处，我于所起身诸苦痛能自安忍，正念正知。何等为四？谓内身身观念处，乃至外身、内外身，内受、外受、内外受，内心、外心、内外心，内法、外法、内外法，是名住于四念处。」\n时，诸正士共论议已，欢喜随喜，各从座起而去。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在舍卫国祇树给孤独园。那时，阿那律尊者在舍卫国松林精舍，身遭病苦。\n有许多比丘来到阿那律处，问讯慰劳后，在一旁站着，问：「阿那律尊者！所患是增是减，可以安忍吗？病势是渐渐减轻，不是反而加重吗？」\n阿那律说：「我病不安，难以安忍，身上种种苦痛，反而增加没有减轻。」随即说三种譬喻，如上叉摩经所说。「然而我身已遭此苦痛，暂且应当安忍，正念正知。」\n比丘们问：「心住于何处，才能安忍如此大苦，正念正知？」阿那律回答：「安住四念处，我对所起的身诸苦痛能自己安忍，正念正知。哪四种？就是内身身观念处，乃至外身、内外身，内受、外受、内外受，内心、外心、内外心，内法、外法、内外法，这就叫做安住于四念处。」\n当时，诸位正士讨论完毕，欢喜随喜，各自从座位起来离去。",
+  "notes": "本经 SC 平行表所列平行及 `raw_aligned_data.json` 内之巴利本文、Sujato 英译并用以厘定法义；求那跋陀罗汉本用于定位经文与传统术语。confidence=high：resembling SN52.10 Bāḷhagilāna（重病四念处）；gold_reconstructed：『即说三种譬，如上叉摩经说』为交叉指示，底本不回填。",
+  "review_status": "gold_reconstructed",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "high",
+  "prior_review_status": "needs_revision",
+  "reconstruction_basis": "交叉指示：三种譬依叉摩比丘经（SA 病苦问讯系列），底本不回填。",
+  "similarity_to_source": 0.453,
+  "paragraph_parallel": true
+}

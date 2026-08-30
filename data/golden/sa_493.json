@@ -1,0 +1,32 @@
+{
+  "id": "SA_493",
+  "uid": "sa493",
+  "title": "雜阿含經  卷第二十  舍利弗相應  （493）  乘船逆流",
+  "chinese_text": "如是我聞：\n\n一時，佛住王舍城迦蘭陀竹園。\n\n時，尊者舍利弗告諸比丘：「若阿練若比丘或於空地、林中、樹下，當作是學，內自觀察思惟：『心中自覺有欲想不？』若不覺者，當於境界，或於淨相，若愛欲起，違於遠離。譬如士夫用力乘船，逆流而上，身小疲怠，船則倒還，順流而下。如是，比丘！思惟淨想，還生愛欲，違於遠離；是比丘學時，修下方便，不得淳淨，是故還為愛欲所漂，不得法力，心不寂靜，不一其心，於彼淨相隨生愛欲，流注浚輸，違於遠離。當知是比丘不敢自記，於五欲功德離欲解脫。\n\n「若比丘或於空地、林中、樹下，作是思惟：『我內心中為離欲不？』是比丘當於境界，或取淨相，若覺其心於彼遠離，順趣浚注。譬如鳥翮，入火則卷，不可舒展。如是，比丘或取淨相，即順遠離，流注浚輸。比丘！當如是知，於方便行，心不懈怠，得法寂靜，寂止、息、樂，淳淨一心，謂我思惟已，於淨相順於遠離，隨順修道，則能堪任自記，於五欲功德離欲解脫。」\n\n尊者舍利弗說是經已，諸比丘聞其所說，歡喜奉行。",
+  "english_sa_text": "",
+  "parallels": [],
+  "primary_sn_uid": null,
+  "pali_text": "",
+  "english_sn_text": "",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa401-500/sa493_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa401-500/sa493_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛在王舍城迦兰陀竹园。\n舍利弗告诸比丘：「若阿练若于空地、林中、树下，当内自观察：『心中自觉有欲想不？』若不觉，于境界或净相，爱欲便起，违于远离——如人用力乘船逆流，身小疲怠，船则倒还顺流而下。思惟净想还生爱欲、违远离者，修下方便，不得淳净，为爱欲所漂，法力不至，心不安静、不一其心，于净相随生爱欲、流注浚输，违于远离。当知是比丘不敢自记：于五欲功德离欲解脱。」\n「若于空地、林中、树下思惟：『我内心为离欲不？』于境界取净相，若觉其心于彼远离、顺趣浚注——如鸟翼入火则卷，不可舒展。于方便行心不懈怠，得法寂静、息乐、淳净一心，思惟已于净相顺远离、随顺修道，则能堪任自记：于五欲功德离欲解脱。」\n尊者舍利弗说是经已，诸比丘闻其所说，欢喜奉行。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在王舍城迦兰陀竹园。\n舍利弗告诉比丘们：「如果比丘在空地、林中、树下，应当向内观察：『我心里有没有欲想？』如果不觉察，对境界或净相，爱欲就会生起，违背远离——就像人用力划船逆流而上，稍微疲倦，船就倒退回顺流而下。」\n「如果在空地、林中、树下思惟：『我的内心离欲了吗？』对境界取净相，如果觉察其心对彼远离、顺趋浚注——就像鸟翼入火就卷缩，不能舒展。在方便行中心不懈怠，得法寂静、息止、安乐、淳净一心，思惟后对净相顺于远离、随顺修道，就能堪任自己作证：于五欲功德离欲解脱。」\n舍利弗尊者说完这部经，比丘们听其所说，都欢喜奉行。",
+  "notes": "SC 于本经未列可靠巴利平行，故唯以汉本为底，参同相应之巴利定型语厘义；依项目规约「无可靠平行时 confidence 降为 medium/low」，本经作 medium。义据 SN39.18 Nāvā（逆流船／鸟翼入火）；汉本 SC 未列 primary，参 SN 厘义，medium。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "medium",
+  "prior_review_status": "needs_revision",
+  "similarity_to_source": 0.252,
+  "paragraph_parallel": true
+}

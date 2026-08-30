@@ -1,0 +1,38 @@
+{
+  "id": "SA_7",
+  "uid": "sa7",
+  "title": "雜阿含經  卷第一  陰相應  （七）  於色喜樂",
+  "chinese_text": "如是我聞：一時，佛住舍衛國、祇樹、給孤獨園。爾時，世尊告諸比丘：「於色愛喜者，則於苦愛喜。於苦愛喜者，則於苦不得解脫。如是，受⋯想⋯行⋯識愛喜者，則愛喜苦。愛喜苦者，則於苦不得解脫。「諸比丘，於色不愛喜者，則不喜於苦。不喜於苦者，則於苦得解脫。如是，受⋯想⋯行⋯識不愛喜者，則不喜於苦。不喜於苦者，則於苦得解脫。」時，諸比丘聞佛所說，歡喜奉行。無常、及苦、空、非我、正思惟、無知等四種、及於色喜樂。",
+  "english_sa_text": "Thus I have heard: One time, the Buddha was staying at Anāthapiṇḍada’s Park in Jeta’s Grove of Śrāvastī. It was then that the Bhagavān addressed the monks, “When one delights in form, they delight in suffering. When one delights in suffering, they can’t be liberated from suffering. Thus, when one delights in feeling … conception … volition … awareness, they delight in suffering. When one delights in suffering, they can’t be liberated from suffering. “Monks, when someone doesn’t delight in form, they don’t delight in suffering. When someone doesn’t delight in suffering, they can be liberated from suffering. Thus, when someone doesn’t delight in feeling … conception … volition … awareness, they don’t delight in suffering. When someone doesn’t delight in suffering, they can be liberated from suffering.” When the monks heard what the Buddha taught, they rejoiced and approved. Summary Verse [1] Impermanent, [2] painful, [3] empty, And [4] not self; [5] correctly contemplated; [6-9] Four ways of not knowing; And [10] delighting in form.",
+  "parallels": [
+    {
+      "uid": "sn22.29",
+      "acronym": "SN 22.29",
+      "root_lang": "pli",
+      "original_title": "Abhinandanasutta",
+      "translated_title": "Delight",
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    }
+  ],
+  "primary_sn_uid": "sn22.29",
+  "pali_text": "Sāvatthinidānaṁ. “Yo, bhikkhave, rūpaṁ abhinandati, dukkhaṁ so abhinandati. Yo dukkhaṁ abhinandati, ‘aparimutto so dukkhasmā’ti vadāmi. Yo vedanaṁ abhinandati … yo saññaṁ abhinandati … yo saṅkhāre abhinandati … yo viññāṇaṁ abhinandati, dukkhaṁ so abhinandati. Yo dukkhaṁ abhinandati, ‘aparimutto so dukkhasmā’ti vadāmi. Yo ca kho, bhikkhave, rūpaṁ nābhinandati, dukkhaṁ so nābhinandati. Yo dukkhaṁ nābhinandati, ‘parimutto so dukkhasmā’ti vadāmi. Yo vedanaṁ nābhinandati … yo saññaṁ nābhinandati … yo saṅkhāre nābhinandati … yo viññāṇaṁ nābhinandati, dukkhaṁ so nābhinandati. Yo dukkhaṁ nābhinandati, ‘parimutto so dukkhasmā’ti vadāmī”ti. Aṭṭhamaṁ.",
+  "english_sn_text": "At Sāvatthī. “Mendicants, if you take pleasure in form, you take pleasure in suffering. If you take pleasure in suffering, you’re not free from suffering, I say. If you take pleasure in feeling … perception … choices … consciousness, you take pleasure in suffering. If you take pleasure in suffering, you’re not free from suffering, I say. If you don’t take pleasure in form, you don’t take pleasure in suffering. If you don’t take pleasure in suffering, you’re free from suffering, I say. If you don’t take pleasure in feeling … perception … choices … consciousness, you don’t take pleasure in suffering. If you don’t take pleasure in suffering, you’re free from suffering, I say.”",
+  "errors": [],
+  "kumarajiva_style_text": "如是我闻：一时佛在舍卫国祇树给孤独园。\n尔时世尊告诸比丘：于色爱喜者，则于苦爱喜；于苦爱喜者，于苦不得解脱。受、想、行、识爱喜者，亦复如是。于色不爱喜者，则不喜于苦；不喜于苦者，于苦得解脱。受、想、行、识不爱喜者，亦复如是。\n时诸比丘闻佛所说，欢喜奉行。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在舍卫国祇树给孤独园。\n那时，世尊告诉比丘们：对色爱喜的人，就是对苦爱喜；对苦爱喜的人，就不能从苦解脱。对受、想、行、识爱喜的人，也是一样。对色不爱喜的人，就不喜于苦；不喜于苦的人，就能从苦解脱。对受、想、行、识不爱喜的人，也是一样。\n当时，比丘们听佛所说，都欢喜奉行。",
+  "notes": "据 SN 22.29：abhinandati rūpaṁ＝abhinandati dukkhaṁ；不爱喜则解脱于苦。删摄颂；四字节奏收束。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "prior_review_status": "gold",
+  "revision_reason": null,
+  "confidence": "high"
+}

@@ -1,0 +1,45 @@
+{
+  "id": "SA_401",
+  "uid": "sa401",
+  "title": "雜阿含經  卷第十六  諦相應  （401）  百槍",
+  "chinese_text": "如是我聞：\n\n一時，佛住波羅㮈國仙人住處鹿野苑中。\n\n爾時，世尊告諸比丘：「譬如士夫年壽百歲，有人語言：『士夫若欲聞法，當日日三時受苦，晨朝時受百槍苦，日中、晡時亦復如是。於一日中受三百槍苦。如是日日，至於百歲，然後聞法，得無間等，汝寧能不？』\n\n「時，彼士夫為聞法故，悉堪能受。所以者何？人生於世，長夜受苦，有時地獄，有時畜生，有時餓鬼，於三惡道空受眾苦，亦不聞法，是故我今為無間等故，不以終身受三百槍為大苦也。是故，比丘！於四聖諦未得無間等者，當勤方便，起增上欲，學無間等。」\n\n佛說此經已，諸比丘聞佛所說，歡喜奉行。",
+  "english_sa_text": "",
+  "parallels": [
+    {
+      "uid": "sn56.35",
+      "acronym": "SN 56.35",
+      "root_lang": "pli",
+      "original_title": "Sattisatasutta",
+      "translated_title": "A Hundred Spears",
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    }
+  ],
+  "primary_sn_uid": "sn56.35",
+  "pali_text": "“Seyyathāpi, bhikkhave, puriso vassasatāyuko vassasatajīvī. Tamenaṁ evaṁ vadeyya: ‘ehambho purisa, pubbaṇhasamayaṁ taṁ sattisatena hanissanti, majjhanhikasamayaṁ sattisatena hanissanti, sāyanhasamayaṁ sattisatena hanissanti. So kho tvaṁ, ambho purisa, divase divase tīhi tīhi sattisatehi haññamāno vassasatāyuko vassasatajīvī vassasatassa accayena anabhisametāni cattāri ariyasaccāni abhisamessasī’ti. Atthavasikena, bhikkhave, kulaputtena alaṁ upagantuṁ. Taṁ kissa hetu? Anamataggoyaṁ, bhikkhave, saṁsāro; pubbā koṭi nappaññāyati sattippahārānaṁ asippahārānaṁ usuppahārānaṁ pharasuppahārānaṁ. Evañcetaṁ, bhikkhave, assa. Na kho panāhaṁ, bhikkhave, saha dukkhena, saha domanassena catunnaṁ ariyasaccānaṁ abhisamayaṁ vadāmi; api cāhaṁ, bhikkhave, sahāva sukhena, sahāva somanassena catunnaṁ ariyasaccānaṁ abhisamayaṁ vadāmi. Katamesaṁ catunnaṁ? Dukkhassa ariyasaccassa …pe… dukkhanirodhagāminiyā paṭipadāya ariyasaccassa. Tasmātiha, bhikkhave, ‘idaṁ dukkhan’ti yogo karaṇīyo …pe… ‘ayaṁ dukkhanirodhagāminī paṭipadā’ti yogo karaṇīyo”ti. Pañcamaṁ.",
+  "english_sn_text": "“Mendicants, suppose there was a man with a lifespan of a hundred years. And someone might say to him: ‘Come now, my man, they’ll strike you with a hundred spears in the morning, at midday, and in the late afternoon. And you’ll live for a hundred years being struck with three hundred spears every day. But when a hundred years have passed, you will comprehend the four noble truths for the first time.’ For an earnest gentleman this is sufficient reason to submit. Why is that? This transmigration has no known beginning. No first point is found of blows by spears, swords, arrows, and axes. Now this may be so. But the comprehension of the four noble truths doesn’t come with pain or sadness, I say. Rather, the comprehension of the four noble truths comes only with pleasure and happiness, I say. What four? The noble truths of suffering, its origin, its cessation, and the path. That’s why you should practice meditation …”",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa401-500/sa401_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa401-500/sa401_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛在波罗㮈仙人住处鹿野苑中。\n尔时，世尊告诸比丘：「譬如士夫寿百岁。有人语之：『晨朝、日中、晡时各受百枪，日日三百，至于百岁，然后乃得现观四圣谛——汝宁能不？』志求义者，足以堪受。」\n「所以者何？生死轮转无始，枪、剑、箭、斧之苦无有前际。然我说四圣谛现观不与忧苦俱，唯与喜乐俱。」\n「是故比丘于四圣谛未无间等者，当勤方便，起增上欲，精进修学。何等为四？谓苦圣谛、苦集圣谛、苦灭圣谛、苦灭道迹圣谛。」\n佛说此经已，诸比丘闻佛所说，欢喜奉行。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在波罗㮈仙人住处鹿野苑中。\n那时，世尊告诉比丘们：「好比有人寿命一百岁。有人对他说：『早晨、中午、傍晚各受一百枪，天天三百枪，直到满一百岁，然后才能现观四圣谛——你能接受吗？』真正求义的人，也足以接受。」\n「为什么？生死轮转没有起点，枪、剑、箭、斧的打击也找不到前际。可是我并不是说现观四圣谛要带着忧苦；我说现观四圣谛是带着喜乐的。」\n「所以比丘对四圣谛还没有无间等的，应当勤加方便，发起强盛愿欲，精进修学。哪四种？就是苦圣谛、苦集圣谛、苦灭圣谛、苦灭道迹圣谛。」\n佛说完这部经，比丘们听佛所说，都欢喜奉行。",
+  "notes": "本经 SC 平行表所列平行及 `raw_aligned_data.json` 内之巴利本文、Sujato 英译并用以厘定法义；求那跋陀罗汉本用于定位经文与传统术语。confidence=high：primary SN56.35。信-校正：据 SN 补『现观与喜乐俱，不与忧苦俱』；汉『三恶道空受众苦亦不闻法』收束为无始轮回枪斧之喻。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "warn",
+    "issues": [],
+    "warnings": [
+      "mark_not_in_output:空"
+    ],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "high",
+  "prior_review_status": "needs_revision",
+  "similarity_to_source": 0.174,
+  "paragraph_parallel": true
+}

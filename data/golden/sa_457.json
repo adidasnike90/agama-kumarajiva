@@ -1,0 +1,43 @@
+{
+  "id": "SA_457",
+  "uid": "sa457",
+  "title": "雜阿含經  卷第十九  受相應  （457）  說",
+  "chinese_text": "如是我聞：\n\n一時，佛住舍衛國東園鹿子母講堂。\n\n爾時，世尊晡時從禪覺，於講堂陰中敷座，於大眾前坐，說優檀那句，告諸比丘：「緣界故生說，非不界，緣界故生見，非不界，緣界故生想，非不界。緣下界，我說生下說、下見、下想、下思、下欲、下願、下士夫、下所作、下施設、下建立、下部分、下顯示、下受生。如是中。如是勝界，緣勝界，我說彼生勝說、勝見、勝想、勝思、勝願、勝士夫、勝所作、勝施設、勝建立、勝部分、勝顯示、勝受生勝。」\n\n時，有婆迦利比丘在佛後執扇扇佛，白佛言：「世尊！若於三藐三佛陀起非三藐三佛陀見，彼見亦緣界而生耶？」\n\n佛告比丘：「於三藐三佛陀起非三藐三佛陀見，亦緣界而生，非不界。所以者何？凡夫界者，是無明界，如我先說，緣下界生下說、下見，乃至下受生，中勝界生勝說、勝見，乃至勝受生。」\n\n佛說此經已，諸比丘聞佛所說，歡喜奉行。",
+  "english_sa_text": "",
+  "parallels": [
+    {
+      "uid": "sn14.13",
+      "acronym": "SN 14.13",
+      "root_lang": "pli",
+      "original_title": "Giñjakāvasathasutta",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    }
+  ],
+  "primary_sn_uid": "sn14.13",
+  "pali_text": "Ekaṁ samayaṁ bhagavā ñātike viharati giñjakāvasathe. Tatra kho bhagavā bhikkhū āmantesi: “bhikkhavo”ti. “Bhadante”ti te bhikkhū bhagavato paccassosuṁ. Bhagavā etadavoca: “Dhātuṁ, bhikkhave, paṭicca uppajjati saññā, uppajjati diṭṭhi, uppajjati vitakko”ti. Evaṁ vutte, āyasmā kaccāno bhagavantaṁ etadavoca: “yāyaṁ, bhante, diṭṭhi: ‘asammāsambuddhesu sammāsambuddhā’ti, ayaṁ nu kho, bhante, diṭṭhi kiṁ paṭicca paññāyatī”ti? “Mahati kho esā, kaccāna, dhātu yadidaṁ avijjādhātu. Hīnaṁ, kaccāna, dhātuṁ paṭicca uppajjati hīnā saññā, hīnā diṭṭhi, hīno vitakko, hīnā cetanā, hīnā patthanā, hīno paṇidhi, hīno puggalo, hīnā vācā; hīnaṁ ācikkhati deseti paññapeti paṭṭhapeti vivarati vibhajati uttānīkaroti; hīnā tassa upapattīti vadāmi. Majjhimaṁ, kaccāna, dhātuṁ paṭicca uppajjati majjhimā saññā, majjhimā diṭṭhi, majjhimo vitakko, majjhimā cetanā, majjhimā patthanā, majjhimo paṇidhi, majjhimo puggalo, majjhimā vācā; majjhimaṁ ācikkhati deseti paññapeti paṭṭhapeti vivarati vibhajati uttānīkaroti; majjhimā tassa upapattīti vadāmi. Paṇītaṁ, kaccāna, dhātuṁ paṭicca uppajjati paṇītā saññā, paṇītā diṭṭhi, paṇīto vitakko, paṇītā cetanā, paṇītā patthanā, paṇīto paṇidhi, paṇīto puggalo, paṇītā vācā; paṇītaṁ ācikkhati deseti paññapeti paṭṭhapeti vivarati vibhajati uttānīkaroti; paṇītā tassa upapattīti vadāmī”ti. Tatiyaṁ.",
+  "english_sn_text": "At one time the Buddha was staying at Ñātika in the brick house. There the Buddha addressed the mendicants, “Mendicants!” “Venerable sir,” they replied. The Buddha said this: “Mendicants, an element gives rise to a perception, a view, and a thought.” When he said this, Venerable Kaccāna said to the Buddha, “Sir, regarding those who are not fully awakened Buddhas, there is a view that they are in fact fully awakened Buddhas. Due to what does this view appear?” “It’s a mighty thing, Kaccāna, the element of ignorance. An inferior element gives rise to inferior perception, inferior view, inferior thought, inferior intention, inferior aim, inferior wish, an inferior person, and inferior speech. One explains, teaches, asserts, establishes, clarifies, analyzes, and discloses the inferior. I say that their rebirth is inferior. A middling element gives rise to middling perception, middling view, middling thought, middling intention, middling aim, middling wish, a middling person, and middling speech. One explains, teaches, asserts, establishes, clarifies, analyzes, and discloses the middling. I say that their rebirth is middling. A superior element gives rise to superior perception, superior view, superior thought, superior intention, superior aim, superior wish, a superior person, and superior speech. One explains, teaches, asserts, establishes, clarifies, analyzes, and discloses the superior. I say that their rebirth is superior.”",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa401-500/sa457_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa401-500/sa457_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛在舍卫国东园鹿子母讲堂。\n尔时，世尊晡时从禅觉，于讲堂阴中敷座，于大众前坐，说优檀那句，告诸比丘：「缘界故生说，非不界；缘界故生见，非不界；缘界故生想，非不界。缘下界，我说生下说、下见、下想、下思、下欲、下愿、下士夫、下语，乃至下显示、下受生。缘中界，生中说、中见，乃至中受生。缘胜界，生胜说、胜见、胜想、胜思、胜愿、胜士夫、胜语，乃至胜受生。」\n时有婆迦利比丘在佛后执扇扇佛，白佛言：「世尊！若于非等正觉起等正觉见，彼见亦缘界而生耶？」\n佛告比丘：「于非等正觉起等正觉见，亦缘界而生，非不界。所以者何？凡夫界者，是无明界——如我先说：缘下界生下说、下见，乃至下受生；缘中界、胜界，生中说、胜说，乃至胜受生。」\n佛说此经已，诸比丘闻佛所说，欢喜奉行。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在舍卫国东园鹿子母讲堂。\n那时，世尊下午从禅定中出来，在讲堂阴凉处铺座，在大众前坐下，说出优檀那句，告诉比丘们：「缘于界才生起言说，不是没有界；缘于界才生起见，不是没有界；缘于界才生起想，不是没有界。缘于下劣界，我说生起下劣的言说、见、想、思、欲、愿、下劣的人、下劣的语，一直到下劣的显示、下劣的受生。缘于中等界，生起中等的言说、见，一直到中等的受生。缘于殊胜界，生起殊胜的言说、见、想、思、愿、殊胜的人、殊胜的语，一直到殊胜的受生。」\n当时婆迦利比丘在佛身后拿扇子扇佛，对佛说：「世尊！如果对并非等正觉的人生起『这是等正觉』的见，这种见也是缘界而生的吗？」\n佛告诉比丘：「对并非等正觉的人生起等正觉见，也是缘界而生，不是没有界。为什么呢？凡夫界就是无明界——如同我先前所说：缘下界生下说、下见，一直到下受生；缘中界、胜界，生中说、胜说，一直到胜受生。」\n佛说完这部经，比丘们听佛所说，都欢喜奉行。",
+  "notes": "本经 SC 平行表所列平行及 `raw_aligned_data.json` 内之巴利本文、Sujato 英译并用以厘定法义；求那跋陀罗汉本用于定位经文与传统术语。confidence=high：primary SN14.13 Giñjakāvasatha。信-校正：（一）汉『于三藐三佛陀起非三藐三佛陀见』义倒；据 SN 作『于非等正觉起等正觉见』（伪觉见）。（二）补全中界一环（汉仅『如是中』）。（三）无明界＝avijjādhātu。住处留汉东园；问者留汉婆迦利（SN 作 Kaccāna）。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "high",
+  "prior_review_status": "needs_revision",
+  "similarity_to_source": 0.352,
+  "paragraph_parallel": true
+}

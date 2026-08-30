@@ -1,0 +1,43 @@
+{
+  "id": "SA_716",
+  "uid": "sa716",
+  "title": "雜阿含經  卷第二十九  覺支相應  （716）  一法",
+  "chinese_text": "如是我聞：\n\n一時，佛住舍衛國祇樹給孤獨園。\n\n爾時，世尊告諸比丘：「於內法中，我不見一法，未生惡不善法令生，已生惡不善法重生令增廣，未生善法不生，已生則退，所謂不正思惟。諸比丘！不正思惟者，未生貪欲蓋令生，已生者重生令增廣。未生瞋恚、睡眠、掉悔、疑蓋令生，已生者重生令增廣。未生念覺分不生，已生者令退，未生擇法、精進、喜、猗、定、捨覺分令生，已生者重生令增廣。\n\n「我不見一法能令未生惡不善法不生，已生者令斷，未生善法令生，已生者重生令增廣，正思惟。比丘！正思惟者，未生貪欲蓋令不生，已生者令斷，未生瞋恚、睡眠、掉悔、疑蓋令不生，已生者令斷，未生念覺分令生，已生者重生令增廣。未生擇法、精進、喜、猗、定、捨覺分令生，已生者重生令增廣。」\n\n佛說此經已，諸比丘聞佛所說，歡喜奉行。",
+  "english_sa_text": "",
+  "parallels": [
+    {
+      "uid": "sn46.29",
+      "acronym": "SN 46.29",
+      "root_lang": "pli",
+      "original_title": "Ekadhammasutta",
+      "translated_title": "One Thing",
+      "type": "full",
+      "resembling": true,
+      "remark": null
+    }
+  ],
+  "primary_sn_uid": "sn46.29",
+  "pali_text": "“Nāhaṁ, bhikkhave, aññaṁ ekadhammampi samanupassāmi, yo evaṁ bhāvito bahulīkato saṁyojanīyānaṁ dhammānaṁ pahānāya saṁvattati, yathayidaṁ, bhikkhave, satta bojjhaṅgā. Katame satta? Satisambojjhaṅgo …pe… upekkhāsambojjhaṅgo. Kathaṁ bhāvitā ca, bhikkhave, satta bojjhaṅgā kathaṁ bahulīkatā saṁyojanīyānaṁ dhammānaṁ pahānāya saṁvattanti? Idha, bhikkhave, bhikkhu satisambojjhaṅgaṁ bhāveti vivekanissitaṁ …pe… upekkhāsambojjhaṅgaṁ bhāveti vivekanissitaṁ virāganissitaṁ nirodhanissitaṁ vossaggapariṇāmiṁ. Evaṁ bhāvitā kho, bhikkhave, satta bojjhaṅgā evaṁ bahulīkatā saṁyojanīyānaṁ dhammānaṁ pahānāya saṁvattanti. Katame ca, bhikkhave, saṁyojanīyā dhammā? Cakkhu, bhikkhave, saṁyojanīyo dhammo. Etthete uppajjanti saṁyojanavinibandhā ajjhosānā …pe… jivhā saṁyojanīyā dhammā. Etthete uppajjanti saṁyojanavinibandhā ajjhosānā …pe… mano saṁyojanīyo dhammo. Etthete uppajjanti saṁyojanavinibandhā ajjhosānā. Ime vuccanti, bhikkhave, saṁyojanīyā dhammā”ti. Navamaṁ.",
+  "english_sn_text": "“Mendicants, I do not see a single thing that, when it is developed and cultivated like this, leads to giving up the things that tighten the fetters like the seven awakening factors. What seven? The awakening factors of mindfulness, investigation of principles, energy, rapture, tranquility, immersion, and equanimity. And how are the seven awakening factors developed and cultivated so as to lead to giving up the things that tighten the fetters? It’s when a mendicant develops the awakening factors of mindfulness, investigation of principles, energy, rapture, tranquility, immersion, and equanimity, which rely on seclusion, fading away, and cessation, and ripen as letting go. That’s how the seven awakening factors are developed and cultivated so as to lead to giving up the things that tighten the fetters. And what are the things that tighten the fetters? The eye is something that tightens the fetters. This is where these fetters, shackles, and attachments arise. The ear … nose … tongue … body … mind is something that tightens the fetters. This is where these fetters, shackles, and attachments arise. These are called the things that tighten the fetters.”",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa701-800/sa716_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa701-800/sa716_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛住舍卫国祇树给孤独园。\n佛告比丘：「于内法中，我不见一法，能令未生恶不善法生、已生者增广，未生善法不生、已生者退，如不正思惟。」\n「不正思惟者：未生五盖——贪欲、瞋恚、睡眠、掉悔、疑——令生，已生令增；未生七觉支——念觉支、择法觉支、精进觉支、喜觉支、轻安觉支、定觉支、舍觉支——令不生，已生令退。」\n「我不见一法，能令未生恶法不生、已生者断，未生善法生、已生者增广，如正思惟。」\n「正思惟者：未生五盖令不生，已生令断；未生七觉支令生，已生令增。」\n佛说此经已，诸比丘闻佛所说，欢喜奉行。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在舍卫国祇树给孤独园。\n佛告诉比丘：「在内法之中，我看不见有哪一法，能使未生的恶不善法生起、已生的增长，未生的善法不生、已生的退失，像不正思惟这样。」\n「不正思惟：未生的五盖——贪欲、瞋恚、昏沉睡眠、掉举后悔、疑——使它生起，已生的使它增长；未生的七觉支——念觉支、择法觉支、精进觉支、喜觉支、轻安觉支、定觉支、舍觉支——使它不生，已生的使它退失。」\n「我看不见有哪一法，能使未生的恶法不生、已生的断除，未生的善法生起、已生的增长，像正思惟这样。」\n「正思惟：未生的五盖使它不生，已生的使它断除；未生的七觉支使它生起，已生的使它增长。」\n佛说完这部经，比丘们听佛所说，都欢喜奉行。",
+  "notes": "本经 SC 平行表所列平行及 `raw_aligned_data.json` 内之巴利本文、Sujato 英译并用以厘定法义；求那跋陀罗汉本用于定位经文与传统术语。confidence=high：内容合 SN46.49 Ajjhattikaṅga（内支＝yoniso／ayoniso）；SC 表列 resembling SN46.29（断结之法＝七觉支）为另一经旨，本经不从。据理校正：汉「不正思惟」段误写择法等「令生」→改为令不生／令退。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "high",
+  "prior_review_status": "needs_revision",
+  "similarity_to_source": 0.25,
+  "paragraph_parallel": true
+}

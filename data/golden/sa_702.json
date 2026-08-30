@@ -1,0 +1,33 @@
+{
+  "id": "SA_702",
+  "uid": "sa702",
+  "title": "雜阿含經  卷第二十八  根力相應  （702）  如來力",
+  "chinese_text": "如是我聞：\n\n一時，佛住舍衛國祇樹給孤獨園。\n\n爾時，世尊告諸比丘……如上說。差別者：「若有來問如來處非處智力，如如來處非處智力所知所見所覺，成等正覺，為彼記說。如是乃至漏盡智力……」廣說如上。\n\n佛說此經已，諸比丘聞佛所說，歡喜奉行。",
+  "english_sa_text": "",
+  "parallels": [],
+  "primary_sn_uid": null,
+  "pali_text": "",
+  "english_sn_text": "",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa701-800/sa702_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa701-800/sa702_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛住舍卫国祇树给孤独园。\n佛告比丘：「如来有十力。成就此力，如来、应、等正觉得先佛最胜处智，能转梵轮，于大众中作师子吼。」\n「若有来问处非处智力，如来如其所知见觉，成等正觉，为彼记说。问业报智力、禅解脱三昧正受智力、诸根差别智力、种种意解智力、种种界智力、至处道智力、宿命智力、天眼智力、漏尽智力，亦复如是——皆如所知见觉，为彼记说。」\n佛说此经已，诸比丘闻佛所说，欢喜奉行。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在舍卫国祇树给孤独园。\n佛告比丘：「如来有十种力。成就这些力，如来、应、等正觉就得先佛最胜处的智慧，能转梵轮，在大众中作师子吼。」\n「如果有人来问处非处智力，如来就按自己所知所见所觉、成等正觉的内容，为他记说。问业报智力、禅解脱三昧正受智力、诸根差别智力、种种意解智力、种种界智力、至处道智力、宿命智力、天眼智力、漏尽智力，也是一样——都按所知所见所觉，为他记说。」\n佛说完这部经，比丘们听佛所说，都欢喜奉行。",
+  "notes": "本经 SC 平行表所列平行及 `raw_aligned_data.json` 内之巴利本文、Sujato 英译并用以厘定法义；求那跋陀罗汉本用于定位经文与传统术语。confidence=high：AN10.21／SA_687 系答问记说差别。gold_reconstructed：peyyāla「如上说／广说如上」→ 十力问答纲；无专 SN，义从 AN 十力。",
+  "review_status": "gold_reconstructed",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "high",
+  "prior_review_status": "needs_revision",
+  "reconstruction_basis": "如上说／广说如上 → 十力答问记说纲",
+  "similarity_to_source": 0.203,
+  "paragraph_parallel": true
+}

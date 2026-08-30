@@ -1,0 +1,33 @@
+{
+  "id": "SA_626",
+  "uid": "sa626",
+  "title": "雜阿含經  卷第二十六  念處相應  （626）  比丘",
+  "chinese_text": "第二經亦如上說。差別者：「如是，比丘！超越生死。」",
+  "english_sa_text": "",
+  "parallels": [],
+  "primary_sn_uid": null,
+  "pali_text": "",
+  "english_sn_text": "",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa601-700/sa626_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa601-700/sa626_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛住舍卫国祇树给孤独园。\n第二经亦如上说。差别者：「如是，比丘！修四念处，超越生死。」\n佛说此经已，诸比丘闻佛所说，欢喜奉行。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在舍卫国祇树给孤独园。\n第二经也如上说。差别是：「同样，比丘！修四念处，超越生死。」\n佛说完这部经，比丘们听佛所说，都欢喜奉行。",
+  "notes": "SC 于本经未列可靠巴利平行，故唯以汉本为底，参同相应之巴利定型语厘义；依项目规约「无可靠平行时 confidence 降为 medium/low」。底本为交叉指示 peyyāla（「第二经亦如上说」）；gold_reconstructed：据 SA_624／625 框补开经结，保留「超越生死」差别句。confidence=medium。",
+  "review_status": "gold_reconstructed",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "medium",
+  "prior_review_status": "needs_revision",
+  "reconstruction_basis": "cross-ref peyyāla to prior; difference 超越生死",
+  "similarity_to_source": 0.186,
+  "paragraph_parallel": true
+}

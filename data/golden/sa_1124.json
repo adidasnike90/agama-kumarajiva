@@ -1,0 +1,43 @@
+{
+  "id": "SA_1124",
+  "uid": "sa1124",
+  "title": "雜阿含經  卷第四十九  不壞淨相應  （1124）  往生",
+  "chinese_text": "如是我聞：\n\n一時，佛住迦毘羅衛國尼拘律園中。\n\n爾時，世尊告諸比丘：「若聖弟子得於佛不壞淨成就。時，若彼諸天先得於佛不壞淨戒成就因緣往生者，皆大歡喜，歎言：『我以得於佛不壞淨成就因緣故，來生於此善趣天上。彼聖弟子今得於佛不壞淨成就，以是因緣，亦當復來生此善趣天中。』於法、僧不壞淨，聖戒成就亦如是說。」\n\n佛說此經已，諸比丘聞佛所說，歡喜奉行。",
+  "english_sa_text": "",
+  "parallels": [
+    {
+      "uid": "sn55.36",
+      "acronym": "SN 55.36",
+      "root_lang": "pli",
+      "original_title": "Devasabhāgatasutta",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    }
+  ],
+  "primary_sn_uid": "sn55.36",
+  "pali_text": "“Catūhi, bhikkhave, dhammehi samannāgataṁ attamanā devā sabhāgataṁ kathenti. Katamehi catūhi? Idha, bhikkhave, ariyasāvako buddhe aveccappasādena samannāgato hoti— itipi so bhagavā …pe… satthā devamanussānaṁ buddho bhagavāti. Yā tā devatā buddhe aveccappasādena samannāgatā ito cutā tatrūpapannā tāsaṁ evaṁ hoti: ‘yathārūpena kho mayaṁ buddhe aveccappasādena samannāgatā tato cutā idhūpapannā, ariyasāvakopi tathārūpena buddhe aveccappasādena samannāgato ehīti devānaṁ santike’ti. Puna caparaṁ, bhikkhave, ariyasāvako dhamme …pe… saṅghe …pe… ariyakantehi sīlehi samannāgato hoti akhaṇḍehi …pe… samādhisaṁvattanikehi. Yā tā devatā ariyakantehi sīlehi samannāgatā ito cutā tatrūpapannā tāsaṁ evaṁ hoti: ‘yathārūpehi kho mayaṁ ariyakantehi sīlehi samannāgatā tato cutā idhūpapannā, ariyasāvakopi tathārūpehi ariyakantehi sīlehi samannāgato ehīti devānaṁ santike’ti. Imehi kho, bhikkhave, catūhi dhammehi samannāgataṁ attamanā devā sabhāgataṁ kathentī”ti. Chaṭṭhaṁ.",
+  "english_sn_text": "“Mendicants, when someone possesses four things the gods are pleased and speak of what they have in common. What four? Firstly, a noble disciple possesses experiential confidence in the Buddha … There are deities who possess experiential confidence in the Buddha who passed away from here and were reborn there. They think: ‘Possessing such experiential confidence in the Buddha, we passed away from there and were reborn here. That noble disciple possesses the same kind of experiential confidence in the Buddha, so they will come into the presence of the gods.’ Furthermore, a noble disciple possesses experiential confidence in the teaching … the Saṅgha … And they possess the ethical conduct loved by the noble ones … leading to immersion. There are deities who possess the ethical conduct loved by the noble ones who passed away from here and were reborn there. They think: ‘Possessing such ethical conduct loved by the noble ones, we passed away from there and were reborn here. That noble disciple possesses the same kind of ethical conduct loved by the noble ones, so they will come into the presence of the gods.’ When someone possesses four things the gods are pleased and speak of what they have in common.”",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa1101-1200/sa1124_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa1101-1200/sa1124_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛住迦毗罗卫国尼拘律园中。\n尔时世尊告诸比丘：「若圣弟子于佛不坏净成就，先以佛不坏净往生善趣诸天皆大欢喜，叹言：『我以是因缘来生此天；彼圣弟子今亦成就，亦当来生。』于法、僧不坏净及圣戒成就，亦复如是。」\n佛说此经已，诸比丘闻佛所说，欢喜奉行。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在迦毗罗卫国尼拘律园中。\n那时世尊告诉比丘们：「若圣弟子成就对佛的不坏净，那些先前因对佛不坏净而生到善趣的天神都会大欢喜，赞叹说：『我因这因缘来生此天；那位圣弟子现在也成就了，也将来生这里。』对法、对僧的不坏净以及圣戒成就，也是这样。」\n佛说完这部经，比丘们听佛所说，都欢喜奉行。",
+  "notes": "本经 SC 平行表所列平行及 `raw_aligned_data.json` 内之巴利本文、Sujato 英译并用以厘定法义；求那跋陀罗汉本用于定位经文与传统术语。confidence=high：primary SN55.36 Sabhāgata；四不坏净与先往生诸天『同分』欢喜；汉题「往生」。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "high",
+  "prior_review_status": "needs_revision",
+  "similarity_to_source": 0.231,
+  "paragraph_parallel": true
+}

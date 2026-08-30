@@ -1,0 +1,53 @@
+{
+  "id": "SA_943",
+  "uid": "sa943",
+  "title": "雜阿含經  卷第三十七  婆蹉外道相應  （943）  苦惱",
+  "chinese_text": "如是我聞：\n\n一時，佛住舍衛國祇樹給孤獨園。\n\n爾時，世尊告諸比丘：「眾生無始生死，長夜輪轉，不知苦之本際。諸比丘！若見眾生受諸苦惱，當作是念：『我長夜輪轉生死以來，亦曾更受如是之苦，其數無量，當勤方便，斷除諸有，莫令增長。』」\n\n佛說此經已，諸比丘聞佛所說，歡喜奉行。",
+  "english_sa_text": "",
+  "parallels": [
+    {
+      "uid": "sa-2.336",
+      "acronym": "SA2 336",
+      "root_lang": "lzh",
+      "original_title": "苦惱",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "sn15.11",
+      "acronym": "SN 15.11",
+      "root_lang": "pli",
+      "original_title": "Duggatasutta",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    }
+  ],
+  "primary_sn_uid": "sn15.11",
+  "pali_text": "Ekaṁ samayaṁ bhagavā sāvatthiyaṁ viharati. Tatra kho …pe… “Anamataggoyaṁ, bhikkhave, saṁsāro. Pubbā koṭi na paññāyati avijjānīvaraṇānaṁ sattānaṁ taṇhāsaṁyojanānaṁ sandhāvataṁ saṁsarataṁ. Yaṁ, bhikkhave, passeyyātha duggataṁ durūpetaṁ niṭṭhamettha gantabbaṁ: ‘amhehipi evarūpaṁ paccanubhūtaṁ iminā dīghena addhunā’ti. Taṁ kissa hetu …pe… yāvañcidaṁ, bhikkhave, alameva sabbasaṅkhāresu nibbindituṁ alaṁ virajjituṁ alaṁ vimuccitun”ti. Paṭhamaṁ.",
+  "english_sn_text": "At one time the Buddha was staying near Sāvatthī. “Mendicants, this transmigration has no known beginning. No first point is found of sentient beings roaming and transmigrating, shrouded by ignorance and fettered by craving. When you see someone in a sorry state, in distress, you should conclude: ‘In all this long time, we too have undergone the same thing.’ Why is that? This transmigration has no known beginning. … This is quite enough for you to become disillusioned, dispassionate, and freed regarding all conditions.”",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa901-1000/sa943_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa901-1000/sa943_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛住舍卫国祇树给孤独园。\n尔时世尊告诸比丘：「众生无始生死，无明所盖，爱系其颈，长夜轮转，不知苦之本际。若见众生受诸苦恼，当作是念：『我长夜轮转，亦曾更受如是之苦，其数无量。』是故当勤方便：『当勤精进，断除诸有，莫令增长。』」是故于一切行，当生厌离；厌故离贪；离贪故解脱。\n佛说此经已，诸比丘闻佛所说，欢喜奉行。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在舍卫国祇树给孤独园。\n那时世尊告诉比丘们：「众生无始以来生死，被无明覆盖、爱结系住脖子，长夜轮转，不知苦的本际。如果看见众生受种种苦恼，应当这样想：『我长夜轮转，也曾受过这样的苦，次数无量。』所以应当勤加方便：『应当勤加精进，断除诸有，不要让它增长。』」所以对一切行，应当生起厌离；厌离所以离贪；离贪所以解脱。\n佛说完这部经，比丘们听佛所说，都欢喜奉行。",
+  "notes": "本经 SC 平行表所列平行及 `raw_aligned_data.json` 内之巴利本文、Sujato 英译并用以厘定法义；求那跋陀罗汉本用于定位经文与传统术语。confidence=high：primary SN15.11 Duggata；见苦恼众生则念：『我亦曾尔』。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "high",
+  "prior_review_status": "needs_revision",
+  "similarity_to_source": 0.393,
+  "paragraph_parallel": true
+}

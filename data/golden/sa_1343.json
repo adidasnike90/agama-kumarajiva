@@ -1,0 +1,63 @@
+{
+  "id": "SA_1343",
+  "uid": "sa1343",
+  "title": "雜阿含經  卷第五十  林相應  （1343）  眾多比丘",
+  "chinese_text": "如是我聞：\n\n一時，佛住舍衛國祇樹給孤獨園。\n\n時，有眾多比丘在拘薩羅人間，住一林中，言語嬉戲，終日散亂，心不得定，縱諸根門，馳騁六境。\n\n時，彼林中止住天神見是比丘不攝威儀，心不欣悅，而說偈言：\n\n「此先有瞿曇，　　正命弟子眾，\n\n　無常心乞食，　　無常受床臥，\n\n　觀世無常故，　　得究竟苦邊，\n\n　今有難養眾，　　沙門所居止，\n\n　處處求飲食，　　遍遊於他家，\n\n　望財而出家，　　無真沙門欲，\n\n　垂著僧伽梨，　　如老牛曳尾。」\n\n爾時，比丘語天神言：「汝欲厭我耶？」\n\n時，彼天神復說偈言：\n\n「不指其名姓，　　不非稱其人，\n\n　而總向彼眾，　　說其不善者，\n\n　踈漏相現者，　　方便說其過，\n\n　勤修精進者，　　歸依恭敬禮。」\n\n彼諸比丘為天神勸發已，專精思惟，斷諸煩惱，得阿羅漢。",
+  "english_sa_text": "",
+  "parallels": [
+    {
+      "uid": "sa-2.363",
+      "acronym": "SA2 363",
+      "root_lang": "lzh",
+      "original_title": "眾多比丘",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "sn2.25",
+      "acronym": "SN 2.25",
+      "root_lang": "pli",
+      "original_title": "Jantusutta",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "sn9.13",
+      "acronym": "SN 9.13",
+      "root_lang": "pli",
+      "original_title": "Pākatindriyasutta",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    }
+  ],
+  "primary_sn_uid": "sn2.25",
+  "pali_text": "Evaṁ me sutaṁ— ekaṁ samayaṁ sambahulā bhikkhū, kosalesu viharanti himavantapasse araññakuṭikāya uddhatā unnaḷā capalā mukharā vikiṇṇavācā muṭṭhassatino asampajānā asamāhitā vibbhantacittā pākatindriyā. Atha kho jantu devaputto tadahuposathe pannarase yena te bhikkhū tenupasaṅkami; upasaṅkamitvā te bhikkhū gāthāhi ajjhabhāsi: “Sukhajīvino pure āsuṁ, bhikkhū gotamasāvakā; Anicchā piṇḍamesanā, anicchā sayanāsanaṁ; Loke aniccataṁ ñatvā, dukkhassantaṁ akaṁsu te. Dupposaṁ katvā attānaṁ, gāme gāmaṇikā viya; Bhutvā bhutvā nipajjanti, parāgāresu mucchitā. Saṅghassa añjaliṁ katvā, idhekacce vadāmahaṁ; Apaviddhā anāthā te, yathā petā tatheva te. Ye kho pamattā viharanti, te me sandhāya bhāsitaṁ; Ye appamattā viharanti, namo tesaṁ karomahan”ti.",
+  "english_sn_text": "So I have heard. At one time several mendicants were staying in the Kosalan lands, in a wilderness hut on the slopes of the Himalayas. They were haughty, insolent, fickle, scurrilous, loose-tongued, unmindful, lacking situational awareness and immersion, with straying minds and undisciplined faculties. Then on the fifteenth day sabbath the godling Jantu went up to those mendicants and addressed them in verse: “The mendicants used to live happily, as disciples of Gotama. Desireless they sought alms; desireless they used their lodgings. Knowing that the world was impermanent they made an end of suffering. But now they’ve made themselves hard to look after, like chiefs in a village. They eat and eat and then lie down, passed out in the homes of others. Having raised my cupped palms to the Saṅgha, I speak here only about certain people. They’re dregs, with no protector, just like those who have passed away. I’m speaking about those who live negligently. To those who live diligently I pay homage.”",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa1301-1400/sa1343_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa1301-1400/sa1343_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛住舍卫国祇树给孤独园。\n时众多比丘在拘萨罗林中，言语嬉戏，终日散乱，不摄诸根。林中天神不喜，说偈：「昔瞿昙弟子，无常想乞食，无常想坐卧；观世无常故，得究竟苦边。今此难养众，驰求于诸家；披衣如老牛，徒曳尾而行。」\n比丘问：「汝欲厌我耶？」天神曰：「不举名姓，不责一人；总说众中过，令漏者自省；精进修行者，我则归命礼。」\n诸比丘闻已，专精思惟，断诸烦恼，得阿罗汉。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在舍卫国祇树给孤独园。\n那时有许多比丘在拘萨罗的林中，说说笑笑，整天散乱，不收摄根门。林中的天神不高兴，说偈：「从前瞿昙的弟子，以无常想去乞食，以无常想受用床卧；因为观察世间无常，得至于苦的尽头。现在这些难养的人，到处向人家奔走求食；披着袈裟像老牛，只是拖着尾巴走。」\n比丘们问：「你是要厌弃我们吗？」天神说：「我不点名道姓，也不单责某一个人；只是总说大众中的过失，让有漏失的自己反省；对精进修行的人，我仍然归命礼敬。」\n比丘们听了，专精思惟，断除烦恼，证得阿罗汉。",
+  "notes": "本经 SC 平行表所列平行及 `raw_aligned_data.json` 内之巴利本文、Sujato 英译并用以厘定法义；求那跋陀罗汉本用于定位经文与传统术语。confidence=high：primary SN2.25（及 SN9.13 同主题）。汉「垂著僧伽梨，如老牛曳尾」与 SN 散乱比丘之呵责同向；存汉譬。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "high",
+  "prior_review_status": "needs_revision",
+  "similarity_to_source": 0.117,
+  "paragraph_parallel": true
+}

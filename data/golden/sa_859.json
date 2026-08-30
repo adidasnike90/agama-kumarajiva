@@ -1,0 +1,33 @@
+{
+  "id": "SA_859",
+  "uid": "sa859",
+  "title": "雜阿含經  卷第三十二  學相應  （859）  黎師達多",
+  "chinese_text": "如是我聞：\n\n一時，佛住舍衛國祇樹給孤獨園，前三月結夏安居……如前說。差別者：時，有長者名梨師達多及富蘭那兄弟二人，聞眾多比丘集於食堂，為世尊縫衣……如上難提修多羅廣說。\n\n佛說此經已，梨師達多長者及富蘭那聞佛所說，歡喜隨喜，從座起，作禮而去。",
+  "english_sa_text": "",
+  "parallels": [],
+  "primary_sn_uid": null,
+  "pali_text": "",
+  "english_sn_text": "",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa801-900/sa859_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa801-900/sa859_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛住舍卫国祇树给孤独园。\n前三月结夏安居竟，众多比丘集于食堂，为世尊缝衣。时长者梨师达多及富兰那兄弟二人闻已，来诣佛所，稽首礼足，白佛言：「世尊！我等支节解散，心迷先所闻法。世尊将人间游行，何时当复得见世尊及诸知识比丘？」\n佛告梨师达多及富兰那：「若见如来若不见，若见知识比丘若不见，当随时修习六念。当念佛——此如来、应、等正觉、明行足、善逝、世间解、无上士、调御丈夫、天人师、佛世尊；念法——世尊所说正法、律，现法离诸热恼，非时通达，来则可见，智者内证；念僧——世尊弟子善向、正向，四双八辈，戒定慧解脱解脱知见具足，世间无上福田；念戒——不缺、不穿、不杂、不染，自在、智者所赞、无执取、定相应；念施——我得善利，于悭垢众生中离悭垢心而住，常行施、乐施、常舍、平等惠施；念天——有四王天乃至他化自在天，彼诸天以信、戒、施、闻、慧故生彼；我亦有信、戒、施、闻、慧，当生彼天。」\n佛说此经已，梨师达多及富兰那闻佛所说，欢喜随喜，作礼而去。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在舍卫国祇树给孤独园。\n前三月结夏安居结束，众多比丘聚集在食堂为世尊缝衣。当时长者梨师达多及富兰那兄弟二人听说后，来到佛所，顶礼足，对佛说：「世尊！我们肢节像要散开，迷忘先前所闻的法。世尊将人间游行，何时才能再见到世尊和诸位知识比丘？」\n佛告诉梨师达多及富兰那：「无论见不见如来，见不见知识比丘，都应当随时修习六念。应当念佛——此如来、应、等正觉、明行足、善逝、世间解、无上士、调御丈夫、天人师、佛世尊；念法——世尊所说正法、律，在现世离诸热恼，非时也能通达，来则可证，智者内证；念僧——世尊弟子善向、正向，四双八辈，戒定慧解脱解脱知见具足，是世间无上福田；念戒——不缺、不穿、不杂、不染，自在、智者所赞、无执取、与定相应；念施——我得善利，在悭垢众生中离悭垢心而住，常行施、乐施、常舍、平等惠施；念天——有四王天乃至他化自在天，那些天因为信、戒、施、闻、慧而生彼处；我也有信、戒、施、闻、慧，当生彼天。」\n佛说完这部经，梨师达多及富兰那听佛所说，欢喜随喜，作礼离去。",
+  "notes": "SC 于本经未列可靠巴利平行，故唯以汉本为底，参同相应之巴利定型语厘义；依项目规约「无可靠平行时 confidence 降为 medium/low」。confidence=medium：gold_reconstructed——汉「如前说…如上难提修多罗广说」peyyāla；据 SA_858／AN11.13 六念纲，易主名为梨师达多、富兰那。",
+  "review_status": "gold_reconstructed",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "medium",
+  "prior_review_status": "needs_revision",
+  "reconstruction_basis": "黎师达多「如上难提」→ SA_858／AN11.13 六念",
+  "similarity_to_source": 0.095,
+  "paragraph_parallel": true
+}

@@ -1,0 +1,32 @@
+{
+  "id": "SA_1357",
+  "uid": "sa1357",
+  "title": "雜阿含經  卷第五十  林相應  （1357）  瓦師",
+  "chinese_text": "如是我聞：\n\n一時，佛住舍衛國祇樹給孤獨園。\n\n時，有舍利弗弟子，服藥已，尋即食粥。\n\n時，尊者舍利弗到瓦師舍，從乞瓦甌。時，彼瓦師即說偈言：\n\n「云何得名勝？　　而不施一錢。\n\n　云何勝實德？　　於財無所減。」\n\n爾時，舍利弗說偈答言：\n\n「若不食肉者，　　而施彼以肉，\n\n　諸修梵行者，　　施之以女色，\n\n　不坐高床者，　　施以高廣床，\n\n　於彼臨行者，　　施以息止處，\n\n　如是等施與，　　於財不損減，\n\n　是則有名譽，　　而不捨一錢，\n\n　實德名稱流，　　於財無所減。」\n\n時，彼瓦師復說偈言：\n\n「汝今舍利弗，　　所說實為善，\n\n　今施汝百甌，　　非餘亦不得。」\n\n尊者舍利弗說偈答言：\n\n「彼三十三天，　　炎魔兜率陀，\n\n　化樂諸天人，　　及他化自在，\n\n　瓦鉢信以得，　　而汝不生信。」\n\n尊者舍利弗說此偈已，於瓦師舍默然出去。",
+  "english_sa_text": "",
+  "parallels": [],
+  "primary_sn_uid": null,
+  "pali_text": "",
+  "english_sn_text": "",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa1301-1400/sa1357_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa1301-1400/sa1357_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛住舍卫国祇树给孤独园。\n时有舍利弗弟子服药已，寻即食粥。尊者舍利弗到瓦师舍，乞瓦瓯。\n瓦师说偈：「云何得名胜誉，而不施一钱？云何实德增胜，于财无所减？」\n舍利弗说偈答：「若不食肉者，而施彼以肉；诸修梵行者，施之以女色；不坐高床者，施以高广床；于彼临行者，施以息止处——如是等施与，于财不损减；是则有名誉，而不舍一钱；实德名称流，于财无所减。」\n瓦师复说偈：「汝今舍利弗，所说实为善；今施汝百瓯，非余亦不得。」\n舍利弗说偈答：「彼三十三天，焰摩与兜率，化乐诸天人，及他化自在——瓦钵因信得，而汝不生信。」\n尊者舍利弗说此偈已，于瓦师舍默然出去。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在舍卫国祇树给孤独园。\n当时舍利弗的一位弟子服过药，随即吃粥。舍利弗尊者到瓦师家，求一只瓦瓯。\n瓦师说偈：「怎样能得名胜誉，却不施舍一文钱？怎样使实德增胜，而钱财毫无减损？」\n舍利弗说偈答：「若不吃肉的人，却把肉布施给他；修梵行的人，却把女色布施给他；不坐高床的人，却把高广床布施给他；正要上路的人，却把歇息处布施给他——像这样布施，钱财并不减损；这就能有名誉，却不舍一文钱；实德美名流布，钱财毫无减损。」\n瓦师又说偈：「你如今舍利弗，所说的确善妙；现在施你一百只瓯，别人也得不到。」\n舍利弗说偈答：「那三十三天、焰摩与兜率、化乐诸天人，以及他化自在——瓦钵因信心而得，而你却不生信心。」\n舍利弗尊者说完这首偈，在瓦师家默然离去。",
+  "notes": "SC 于本经未列可靠巴利平行，故唯以汉本为底，参林相应／Vanasaṃyutta 定型语及早期教理厘义；依项目规约「无可靠平行时 confidence 降为 medium/low」。求那跋陀罗汉本用于定位经文与传统术语。confidence=medium：无 SC 专经。瓦师问不损财而得誉；舍利弗以「施所不需」之悖施答，终以六欲天因信得钵、诫瓦师不生信。删卷首标记；「炎魔」作「焰摩」。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "medium",
+  "prior_review_status": "needs_revision",
+  "similarity_to_source": 0.312,
+  "paragraph_parallel": true
+}

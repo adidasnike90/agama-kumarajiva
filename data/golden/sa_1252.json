@@ -1,0 +1,43 @@
+{
+  "id": "SA_1252",
+  "uid": "sa1252",
+  "title": "雜阿含經  卷第五十  譬喻相應  （1252）  枕木",
+  "chinese_text": "如是我聞：\n\n一時，佛住鞞舍離國獼猴池側重閣講堂。\n\n爾時，世尊告諸比丘：「諸離車子常枕木枕，手足龜坼，疑畏莫令摩竭陀王阿闍世毘提希子得其間便。是故，常自儆策，不放逸住；以彼不放逸住故，摩竭陀王阿闍世毘提希子不能伺求得其間便。於未來世，不久，諸離車子恣樂無事，手足柔軟，繒纊為枕，四體安臥，日出不起，放逸而住；以放逸住故，摩竭陀王阿闍世毘提希子得其間便。\n\n「如是，比丘精勤方便，堅固堪能，不捨善法，肌膚損瘦，筋連骨立。精勤方便，不捨善法，乃至未得所應得者，不捨精進，常攝其心，不放逸住，以不放逸住故；魔王波旬不得其便。\n\n「當來之世，有諸比丘恣樂無事，手足柔軟，繒纊為枕，四體安臥，日出不起，放逸而住；以放逸住故，惡魔波旬伺得其便。是故，比丘！當如是學：『精勤方便，乃至不得未得，不捨方便。』」\n\n佛說此經已，諸比丘聞佛所說，歡喜奉行。",
+  "english_sa_text": "",
+  "parallels": [
+    {
+      "uid": "sn20.8",
+      "acronym": "SN 20.8",
+      "root_lang": "pli",
+      "original_title": "Kaliṅgarasutta",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    }
+  ],
+  "primary_sn_uid": "sn20.8",
+  "pali_text": "Evaṁ me sutaṁ— ekaṁ samayaṁ bhagavā vesāliyaṁ viharati mahāvane kūṭāgārasālāyaṁ. Tatra kho bhagavā bhikkhū āmantesi: “bhikkhavo”ti. “Bhadante”ti te bhikkhū bhagavato paccassosuṁ. Bhagavā etadavoca: “Kaliṅgarūpadhānā, bhikkhave, etarahi licchavī viharanti appamattā ātāpino upāsanasmiṁ. Tesaṁ rājā māgadho ajātasattu vedehiputto na labhati otāraṁ na labhati ārammaṇaṁ. Bhavissanti, bhikkhave, anāgatamaddhānaṁ licchavī sukhumālā mudutalunahatthapādā te mudukāsu seyyāsu tūlabibbohanāsu yāvasūriyuggamanā seyyaṁ kappissanti. Tesaṁ rājā māgadho ajātasattu vedehiputto lacchati otāraṁ lacchati ārammaṇaṁ. Kaliṅgarūpadhānā, bhikkhave, etarahi bhikkhū viharanti appamattā ātāpino padhānasmiṁ. Tesaṁ māro pāpimā na labhati otāraṁ na labhati ārammaṇaṁ. Bhavissanti, bhikkhave, anāgatamaddhānaṁ bhikkhū sukhumā mudutalunahatthapādā. Te mudukāsu seyyāsu tūlabibbohanāsu yāvasūriyuggamanā seyyaṁ kappissanti. Tesaṁ māro pāpimā lacchati otāraṁ lacchati ārammaṇaṁ. Tasmātiha, bhikkhave, evaṁ sikkhitabbaṁ: ‘kaliṅgarūpadhānā viharissāma appamattā ātāpino padhānasmin’ti. Evañhi vo, bhikkhave, sikkhitabban”ti. Aṭṭhamaṁ.",
+  "english_sn_text": "So I have heard. At one time the Buddha was staying near Vesālī, at the Great Wood, in the hall with the peaked roof. There the Buddha addressed the mendicants, “Mendicants!” “Venerable sir,” they replied. The Buddha said this: “Mendicants, these days the Licchavis live using wood blocks as pillows, and they exercise diligently and keenly. King Ajātasattu of Magadha, son of the princess of Videha, finds no vulnerability, he’s got no opportunity. But in the future the Licchavis will become delicate, with soft and tender hands and feet. They’ll sleep on soft beds with down pillows until the sun comes up. King Ajātasattu of Magadha, son of the princess of Videha, will find a vulnerability and get an opportunity. These days the mendicants live using wood blocks as pillows, and they meditate diligently and keenly. Māra the Wicked finds no vulnerability, he’s got no opportunity. But in the future the mendicants will become delicate, with soft and tender hands and feet. They’ll sleep on soft beds with down pillows until the sun comes up. Māra the Wicked will find a vulnerability and get an opportunity. So you should train like this: ‘We will live using wood blocks as pillows, and we will meditate diligently and keenly.’ That’s how you should train.”",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa1201-1300/sa1252_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa1201-1300/sa1252_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛住毗舍离猕猴池侧重阁讲堂。\n尔时世尊告诸比丘：「今诸离车子以木为枕，精勤不放逸而住；是故摩竭陀王阿阇世毘提希子不得其便。当来之世，离车子手足柔软，繒纊为枕，安卧至日出，放逸而住；以放逸故，王阿阇世乃得其便。\n「如是，今诸比丘以木为枕，于精进事精勤不放逸；魔波旬不得其便。当来比丘手足柔软，繒纊为枕，安卧至日出，放逸而住；魔波旬乃得其便。是故比丘当如是学：『我等以木为枕，精勤不放逸，修习精进。』」\n佛说此经已，诸比丘闻佛所说，欢喜奉行。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在毗舍离猕猴池侧重阁讲堂。\n那时世尊告诉比丘们：「现在离车子们用木头当枕头，精勤不放逸地住；所以摩竭陀王阿阇世——毘提希之子——得不到可乘之机。将来离车子手足柔软，用丝绵当枕头，一直睡到日出，放逸而住；因为放逸，阿阇世王才会得到可乘之机。\n「同样，现在比丘们用木头当枕头，在精进事上精勤不放逸；魔波旬得不到可乘之机。将来比丘手足柔软，用丝绵当枕头，一直睡到日出，放逸而住；魔波旬才会得到可乘之机。所以比丘应当这样学：『我们用木头当枕头，精勤不放逸，修习精进。』」\n佛说完这部经，比丘们听佛所说，都欢喜奉行。",
+  "notes": "本经 SC 平行表所列平行及 `raw_aligned_data.json` 内之巴利本文、Sujato 英译并用以厘定法义；求那跋陀罗汉本用于定位经文与传统术语。confidence=high：primary SN20.8 Kaliṅgarasutta。据 SN 收束：木枕／不放逸→王与魔不得便；未来软枕放逸→得其便；删汉肌肤筋骨冗叙。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "high",
+  "prior_review_status": "needs_revision",
+  "similarity_to_source": 0.18,
+  "paragraph_parallel": true
+}

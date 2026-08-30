@@ -1,0 +1,32 @@
+{
+  "id": "SA_1030",
+  "uid": "sa1030",
+  "title": "雜阿含經  卷第四十三  業報相應  （1030）  給孤獨",
+  "chinese_text": "如是我聞：\n\n一時，佛住舍衛國祇樹給孤獨園。\n\n爾時，給孤獨長者得病，身極苦痛。世尊聞已，晨朝著衣持鉢，入舍衛城乞食，次第乞食至給孤獨長者舍。\n\n長者遙見世尊，馮床欲起。\n\n世尊見已，即告之言：「長者勿起！增其苦患。」世尊即坐，告長者言：「云何？長者，病可忍不？身所苦患，為增、為損？」\n\n長者白佛：「甚苦！世尊！難可堪忍……」乃至說三受，如差摩修多羅廣說，乃至「苦受但增不損。」\n\n佛告長者：「當如是學：『於佛不壞淨，於法、僧不壞淨，聖戒成就。』」\n\n長者白佛：「如世尊說四不壞淨，我有此法，此法中有我。世尊！我今於佛不壞淨，法、僧不壞淨，聖戒成就。」\n\n佛告長者：「善哉！善哉！」即記長者得阿那含果。\n\n長者白佛：「唯願世尊今於此食。」爾時，世尊默而許之。\n\n長者即勅辦種種淨美飲食，供養世尊。世尊食已，為長者種種說法，示、教、照、喜已，從坐起而去。",
+  "english_sa_text": "",
+  "parallels": [],
+  "primary_sn_uid": null,
+  "pali_text": "",
+  "english_sn_text": "",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa1001-1100/sa1030_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa1001-1100/sa1030_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛住舍卫国祇树给孤独园。\n时给孤独长者得病，身极苦痛。世尊晨朝着衣持钵，入城次第乞食，至其舍。\n长者遥见，冯床欲起。佛告：「勿起，增其苦患。」即坐，「云何？苦患可忍不？为增为损？」白言：「甚苦，难可堪忍；苦受但增不损。」\n佛告：「当如是学：于佛不坏净，于法、僧不坏净，圣戒成就。」\n长者白言：「如世尊说四不坏净，我已有之：我于佛、法、僧不坏净，圣戒成就。」\n佛言：「善哉！」即记长者得阿那含果。\n长者请佛食，世尊默许。即办种种净美饮食供养。世尊食已，为说种种法，示教照喜，从坐起去。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在舍卫国祇树给孤独园。\n当时给孤独长者生病，身体极度苦痛。世尊早晨着衣持钵，进城依次乞食，来到他的家。\n长者远远看见，扶着床想起来。佛说：「别起来，免得加重苦痛。」随即坐下，「怎么样？苦痛还能忍受吗？是在加重还是减轻？」答：「很苦，难以忍受；苦受只增不减。」\n佛说：「应当这样学：对佛成就不坏净，对法、僧成就不坏净，成就圣戒。」\n长者说：「正如世尊说的四不坏净，我已经有了：我对佛、法、僧有不坏净，也成就圣戒。」\n佛说：「很好！」随即记别长者得阿那含果。\n长者请佛用餐，世尊默然答应。随即备办种种清净美味饮食供养。世尊吃完，为他种种说法，开示劝勉令欢喜，从座起离去。",
+  "notes": "SC 于本经未列可靠巴利平行，故唯以汉本为底，参同相应之巴利定型语厘义；依项目规约「无可靠平行时 confidence 降为 medium/low」。confidence=medium：无 SC 巴利专经；近给孤独病中问讯系列。四不坏净（佛法人戒）已具，记阿那含——从汉本，不臆改成果位。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "medium",
+  "prior_review_status": "needs_revision",
+  "similarity_to_source": 0.17,
+  "paragraph_parallel": true
+}

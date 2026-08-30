@@ -1,0 +1,43 @@
+{
+  "id": "SA_1058",
+  "uid": "sa1058",
+  "title": "雜阿含經  卷第四十四  業報相應  （1058）  三十法",
+  "chinese_text": "如是我聞：\n\n一時，佛住舍衛國祇樹給孤獨園。\n\n爾時，世尊告諸比丘：「三十法成就者，如鐵鉾鑽水，身壞命終，下生惡趣泥犁中。何等為三十法？謂自手殺生，教人令殺，讚歎殺生，乃至自行邪見，復以邪見教人令行，常復讚歎行邪見者，是名三十法。如鐵鉾鑽水，身壞命終，下生惡趣泥犁中。有三十法成就者，如鐵鉾鑽空，身壞命終，上生天上。何等為三十法？謂自不殺生，教人不殺，常復讚歎不殺功德；乃至自行正見，復以正見教人令行，常復讚歎正見功德，是名三十法成就。如鐵鉾鑽空，身壞命終，上生天上。」\n\n諸比丘聞佛所說，歡喜奉行。",
+  "english_sa_text": "",
+  "parallels": [
+    {
+      "uid": "an10.223",
+      "acronym": "AN 10.223",
+      "root_lang": "pli",
+      "original_title": "~ ",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    }
+  ],
+  "primary_sn_uid": null,
+  "pali_text": "",
+  "english_sn_text": "",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa1001-1100/sa1058_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa1001-1100/sa1058_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛住舍卫国祇树给孤独园。\n尔时世尊告诸比丘：「若成就三十法，如铁矛投水，直沉不浮，身坏命终，下生恶趣泥犁。何等三十？谓自手杀生，教人令杀，赞叹杀生；乃至自行邪见，教人令行，常赞行邪见者——自作、教作、赞叹各十，合为三十。「若成就三十法，如铁矛仰投虚空，轻扬而上，身坏命终，上生天上。何等三十？谓自不杀生，教人不杀，常赞不杀功德；乃至自行正见，教人令行，常赞正见功德。」\n佛说此经已，诸比丘闻佛所说，欢喜奉行。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在舍卫国祇树给孤独园。\n那时世尊告诉比丘们：「若成就三十法，像铁矛投进水里，直沉下去浮不起来，身体坏灭命终后，下生恶趣地狱。哪三十种？就是自己亲手杀生，教人杀，又称赞杀生；乃至自己行邪见，教人行，又常常称赞行邪见的人——自作、教作、赞叹各十，合为三十。「若成就三十法，像铁矛向上投向虚空，轻扬而起，身体坏灭命终后，上生天上。哪三十种？就是自己不杀生，教人不杀，又常常称赞不杀的功德；乃至自己行正见，教人行，又常常称赞正见的功德。」\n佛说完这部经，比丘们听佛所说，都欢喜奉行。",
+  "notes": "本经 SC 平行表所列平行及 `raw_aligned_data.json` 内之巴利本文、Sujato 英译并用以厘定法义；求那跋陀罗汉本用于定位经文与传统术语。confidence=high：primary AN10.223；三十＝自作＋教作＋赞叹。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "high",
+  "prior_review_status": "needs_revision",
+  "similarity_to_source": 0.226,
+  "paragraph_parallel": true
+}

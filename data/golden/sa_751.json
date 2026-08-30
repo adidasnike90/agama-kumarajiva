@@ -1,0 +1,43 @@
+{
+  "id": "SA_751",
+  "uid": "sa751",
+  "title": "雜阿含經  卷第二十九  聖道分相應  （751）  起",
+  "chinese_text": "如是我聞：\n\n一時，佛住舍衛國祇樹給孤獨園。\n\n爾時，世尊告諸比丘：「若在家、若出家而起邪事者，我所不說。所以者何？若在家、出家而起邪事者，則不樂正法。何等為邪事？謂邪見，乃至邪定，若在家、出家而起正事，我所讚歎。所以者何？起正事者，則樂正法，善於正法。何等為正事？謂正見，乃至正定。」\n\n爾時，世尊即說偈言：\n\n「在家及出家，　　而起邪事者，\n\n　彼則終不樂，　　無上之正法，\n\n　在家及出家，　　而起正事者，\n\n　彼則常心樂，　　無上之正法。」\n\n佛說此經已，諸比丘聞佛所說，歡喜奉行。",
+  "english_sa_text": "",
+  "parallels": [
+    {
+      "uid": "sn45.24",
+      "acronym": "SN 45.24",
+      "root_lang": "pli",
+      "original_title": "Dutiyapaṭipadāsutta",
+      "translated_title": "The Way (2)",
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    }
+  ],
+  "primary_sn_uid": "sn45.24",
+  "pali_text": "Sāvatthinidānaṁ. “Gihino vāhaṁ, bhikkhave, pabbajitassa vā micchāpaṭipadaṁ na vaṇṇemi. Gihi vā, bhikkhave, pabbajito vā micchāpaṭipanno micchāpaṭipattādhikaraṇahetu nārādhako hoti ñāyaṁ dhammaṁ kusalaṁ. Katamā ca, bhikkhave, micchāpaṭipadā? Seyyathidaṁ—micchādiṭṭhi …pe… micchāsamādhi. Ayaṁ vuccati, bhikkhave, micchāpaṭipadā. Gihino vāhaṁ, bhikkhave, pabbajitassa vā micchāpaṭipadaṁ na vaṇṇemi. Gihi vā, bhikkhave, pabbajito vā micchāpaṭipanno micchāpaṭipattādhikaraṇahetu nārādhako hoti ñāyaṁ dhammaṁ kusalaṁ. Gihino vāhaṁ, bhikkhave, pabbajitassa vā sammāpaṭipadaṁ vaṇṇemi. Gihi vā, bhikkhave, pabbajito vā sammāpaṭipanno sammāpaṭipattādhikaraṇahetu ārādhako hoti ñāyaṁ dhammaṁ kusalaṁ. Katamā ca, bhikkhave, sammāpaṭipadā? Seyyathidaṁ—sammādiṭṭhi …pe… sammāsamādhi. Ayaṁ vuccati, bhikkhave, sammāpaṭipadā. Gihino vāhaṁ, bhikkhave, pabbajitassa vā sammāpaṭipadaṁ vaṇṇemi. Gihi vā, bhikkhave, pabbajito vā sammāpaṭipanno sammāpaṭipattādhikaraṇahetu ārādhako hoti ñāyaṁ dhammaṁ kusalan”ti. Catutthaṁ.",
+  "english_sn_text": "At Sāvatthī. “Mendicants, I don’t praise wrong practice for laypeople or renunciates. Because of wrong practice, neither laypeople nor renunciates succeed in the system of the skillful teaching. And what’s the wrong practice? It is wrong view, wrong purpose, wrong speech, wrong action, wrong livelihood, wrong effort, wrong mindfulness, and wrong immersion. This is called the wrong practice. I don’t praise wrong practice for lay people or renunciates. Because of wrong practice, neither laypeople nor renunciates succeed in the system of the skillful teaching. I praise right practice for laypeople and renunciates. Because of right practice, both laypeople and renunciates succeed in the system of the skillful teaching. And what’s the right practice? It is right view, right purpose, right speech, right action, right livelihood, right effort, right mindfulness, and right immersion. This is called the right practice. I praise right practice for laypeople and renunciates. Because of right practice, both laypeople and renunciates succeed in the system of the skillful teaching.”",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa701-800/sa751_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa701-800/sa751_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛住舍卫国祇树给孤独园。\n佛告比丘：「在家、出家而行邪道，我所不赞。所以者何？行邪道者，于正法、于善法不得成办。何等邪道？谓邪见、邪志、邪语、邪业、邪命、邪方便、邪念、邪定。」\n「在家、出家而行正道，我所称赞。所以者何？行正道者，于正法、于善法能得成办。何等正道？谓正见、正志、正语、正业、正命、正方便、正念、正定。」\n尔时世尊说偈言：\n「在家与出家，若行于邪道，\n　终不乐正法，无上善法味；\n　在家与出家，若行于正道，\n　常能心乐法，无上正法味。」\n佛说此经已，诸比丘闻佛所说，欢喜奉行。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在舍卫国祇树给孤独园。\n佛告诉比丘：「在家、出家而行邪道，我不赞叹。为什么？行邪道的人，在正法、在善法上不能成办。什么是邪道？就是邪见、邪志、邪语、邪业、邪命、邪方便、邪念、邪定。」\n「在家、出家而行正道，我称赞。为什么？行正道的人，在正法、在善法上能够成办。什么是正道？就是正见、正志、正语、正业、正命、正方便、正念、正定。」\n那时世尊说偈：\n「在家与出家，若行于邪道，\n　终不乐正法，无上善法味；\n　在家与出家，若行于正道，\n　常能心乐法，无上正法味。」\n佛说完这部经，比丘们听佛所说，都欢喜奉行。",
+  "notes": "本经 SC 平行表所列平行及 `raw_aligned_data.json` 内之巴利本文、Sujato 英译并用以厘定法义；求那跋陀罗汉本用于定位经文与传统术语。confidence=high：primary SN45.24 Dutiyapaṭipadā。据 SN 校正：「不乐正法」→「于正法／善法不得成办」（nārādhako…ñāyaṁ dhammaṁ kusalaṁ）；「邪事／正事」→「邪道／正道」（micchā／sammā-paṭipadā）。偈依汉本保留。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "high",
+  "prior_review_status": "needs_revision",
+  "similarity_to_source": 0.19,
+  "paragraph_parallel": true
+}

@@ -1,0 +1,43 @@
+{
+  "id": "SA_753",
+  "uid": "sa753",
+  "title": "雜阿含經  卷第二十九  聖道分相應  （753）  阿黎吒",
+  "chinese_text": "如是我聞：\n\n一時，佛住舍衛國祇樹給孤獨園。\n\n時，有比丘名阿梨瑟吒，詣佛所，稽首佛足，退坐一面，白佛言：「世尊！所謂甘露者。云何名為甘露？」\n\n佛告阿梨瑟吒：「甘露者，界名說，然我為有漏盡者，現說此名。」\n\n阿梨瑟吒比丘白佛言：「世尊！有道有跡，修習多修習，得甘露法不？」\n\n佛告比丘：「有，所謂八聖道分——謂正見乃至正定。」\n\n佛說此經已，諸比丘聞佛所說，歡喜奉行。",
+  "english_sa_text": "",
+  "parallels": [
+    {
+      "uid": "sn45.7",
+      "acronym": "SN 45.7",
+      "root_lang": "pli",
+      "original_title": "Dutiyaaññatarabhikkhusutta",
+      "translated_title": "A Certain Bhikkhu (2)",
+      "type": "full",
+      "resembling": true,
+      "remark": null
+    }
+  ],
+  "primary_sn_uid": "sn45.7",
+  "pali_text": "Sāvatthinidānaṁ. Atha kho aññataro bhikkhu yena bhagavā tenupasaṅkami …pe… ekamantaṁ nisinno kho so bhikkhu bhagavantaṁ etadavoca: “‘Rāgavinayo dosavinayo mohavinayo’ti, bhante, vuccati. Kissa nu kho etaṁ, bhante, adhivacanaṁ: ‘rāgavinayo dosavinayo mohavinayo’”ti? “Nibbānadhātuyā kho etaṁ, bhikkhu, adhivacanaṁ: ‘rāgavinayo dosavinayo mohavinayo’ti. Āsavānaṁ khayo tena vuccatī”ti. Evaṁ vutte, so bhikkhu bhagavantaṁ etadavoca: “‘amataṁ, amatan’ti, bhante, vuccati. Katamaṁ nu kho, bhante, amataṁ, katamo amatagāmimaggo”ti? “Yo kho, bhikkhu, rāgakkhayo dosakkhayo mohakkhayo— idaṁ vuccati amataṁ. Ayameva ariyo aṭṭhaṅgiko maggo amatagāmimaggo, seyyathidaṁ— sammādiṭṭhi …pe… sammāsamādhī”ti. Sattamaṁ.",
+  "english_sn_text": "At Sāvatthī. Then a mendicant went up to the Buddha … and said to him: “Sir, they speak of ‘the removal of greed, hate, and delusion’. What is this a term for?” “Mendicant, the removal of greed, hate, and delusion is a term for an element of extinguishment. It’s used to speak of the ending of defilements.” When he said this, the mendicant said to the Buddha: “Sir, they speak of ‘freedom from death’. What is freedom from death? And what is the path that leads to freedom from death?” “The ending of greed, hate, and delusion. This is called freedom from death. The path that leads to freedom from death is simply this noble eightfold path, that is: right view, right purpose, right speech, right action, right livelihood, right effort, right mindfulness, and right immersion.”",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa701-800/sa753_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa701-800/sa753_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛住舍卫国祇树给孤独园。\n时有比丘名阿梨瑟吒，诣佛所，稽首礼足，退坐一面，白佛言：「世尊！所谓甘露者，云何名甘露？」\n佛告阿梨瑟吒：「甘露者，是涅槃界之名；我为漏尽者说此名——谓贪、瞋、痴永尽。」\n阿梨瑟吒复问：「有道有迹，修习多修习，得此甘露法不？」佛言：「有。谓八圣道——正见、正志、正语、正业、正命、正方便、正念、正定。」\n佛说此经已，诸比丘闻佛所说，欢喜奉行。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在舍卫国祇树给孤独园。\n那时有比丘名叫阿梨瑟吒，来到佛所，叩头礼足，坐在一边，对佛说：「世尊！所谓甘露，为什么叫甘露？」\n佛告诉阿梨瑟吒：「甘露，是涅槃界的名称；我为漏尽的人说这个名字——就是贪、瞋、痴永远尽灭。」\n阿梨瑟吒又问：「有没有道路、有没有途径，多修习就能得到这甘露法？」佛说：「有。就是八圣道——正见、正志、正语、正业、正命、正方便、正念、正定。」\n佛说完这部经，比丘们听佛所说，都欢喜奉行。",
+  "notes": "本经 SC 平行表所列平行及 `raw_aligned_data.json` 内之巴利本文、Sujato 英译并用以厘定法义；求那跋陀罗汉本用于定位经文与传统术语。confidence=high：primary SN45.7（amata／rāga-dosa-moha-vinaya＝nibbānadhātu／āsavānaṃ khaya）。汉「界名说，然我为有漏尽者现说此名」据 SN 点明：甘露＝涅槃界／漏尽之称。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "high",
+  "prior_review_status": "needs_revision",
+  "similarity_to_source": 0.299,
+  "paragraph_parallel": true
+}

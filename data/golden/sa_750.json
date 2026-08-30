@@ -1,0 +1,32 @@
+{
+  "id": "SA_750",
+  "uid": "sa750",
+  "title": "雜阿含經  卷第二十九  聖道分相應  （750）  無明",
+  "chinese_text": "如是我聞：\n\n一時，佛住舍衛國祇樹給孤獨園。\n\n爾時，世尊告諸比丘：「若比丘！諸惡不善法，比丘，一切皆以無明為根本，無明集、無明生、無明起。所以者何？無明者無知，於善、不善法不如實知，有罪、無罪，下法、上法，染污，不染污，分別、不分別，緣起、非緣起不如實知；不如實知故，起於邪見，起於邪見已，能起邪志、邪語、邪業、邪命、邪方便、邪念、邪定。\n\n「若諸善法生，一切皆明為根本，明集、明生、明起。明，於善、不善法如實知者，罪、無罪，親近、不親近，卑法、勝法，穢污、白淨，有分別、無分別，緣起、非緣起悉如實知，如實知者，是則正見。正見者，能起正志、正語、正業、正命、正方便、正念、正定。正定起已，聖弟子得正解脫貪、恚、癡，貪、恚、癡解脫已，是聖弟子得正智見：『我生已盡，梵行已立，所作已作，自知不受後有。』」\n\n佛說此經已，諸比丘聞佛所說，歡喜奉行。",
+  "english_sa_text": "",
+  "parallels": [],
+  "primary_sn_uid": null,
+  "pali_text": "",
+  "english_sn_text": "",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa701-800/sa750_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa701-800/sa750_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛住舍卫国祇树给孤独园。\n佛告比丘：「诸恶不善法，皆以无明为根本——无明集、无明生、无明起。所以者何？无明者，无知：于善、不善，有罪、无罪，下法、上法，染污、不染污，有分别、无分别，缘起、非缘起，不如实知；不如实知故起邪见，邪见起已，能起邪见、邪思惟、邪语、邪业、邪命、邪精进、邪念、邪定。」\n「诸善法生，皆以明为根本——明集、明生、明起。明者，于善、不善，罪、无罪，亲近、不亲近，卑法、胜法，秽污、白净，有分别、无分别，缘起、非缘起，悉如实知；如实知故是正见，正见能起正见、正思惟、正语、正业、正命、正精进、正念、正定。」\n「正定起已，圣弟子正解脱贪、恚、痴；圣弟子心正解脱贪欲、瞋恚、愚癡；得正知見：『我生已尽，梵行已立，所作已作，自知不受后有。』」\n佛说此经已，诸比丘闻佛所说，欢喜奉行。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在舍卫国祇树给孤独园。\n佛告诉比丘：「各种恶不善法，都以无明为根本——由无明集、无明生、无明起。为什么？无明就是无知：对善与不善，有罪与无罪，下法与上法，染污与不染污，有分别与无分别，缘起与非缘起，不能如实知；因为不如实知而起邪见，邪见生起后，就能生起邪见、邪思惟、邪语、邪业、邪命、邪精进、邪念、邪定。」\n「各种善法生起，都以明为根本——由明集、明生、明起。明，就是对善与不善，罪与无罪，该亲近与不该亲近，卑法与胜法，秽污与白净，有分别与无分别，缘起与非缘起，都能如实知；如实知就是正见，正见能生起正见、正思惟、正语、正业、正命、正精进、正念、正定。」\n「正定生起之后，圣弟子正解脱贪、瞋、痴；圣弟子的心正解脱贪欲、瞋恚、愚痴；得正知見：『我生已尽，梵行已立，所作已作，自己知道不再受后有。』」\n佛说完这部经，比丘们听佛所说，都欢喜奉行。",
+  "notes": "SC 于本经未列可靠巴利平行，故唯以汉本为底，参同相应之巴利定型语厘义；依项目规约「无可靠平行时 confidence 降为 medium/low」。confidence=medium：无 SC 专经；广释无明＝不如实知诸法，明＝如实知→正见→八道，与 SA_749／SN45.1 同轨而加分别。罗什风删汉「若比丘」赘呼；正志→正思惟。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "medium",
+  "prior_review_status": "needs_revision",
+  "similarity_to_source": 0.321,
+  "paragraph_parallel": true
+}

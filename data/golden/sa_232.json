@@ -1,0 +1,83 @@
+{
+  "id": "SA_232",
+  "uid": "sa232",
+  "title": "雜阿含經  卷第十  六入處相應  （232）  三彌離提",
+  "chinese_text": "如是我聞：\n\n一時，佛住舍衛國祇樹給孤獨園。\n\n時，有比丘名三彌離提，往詣佛所，稽首佛足，退坐一面，白佛言：「世尊！所謂世間空，云何名為世間空？」\n\n佛告三彌離提：「眼空，常、恒、不變易法空，我所空。所以者何？此性自爾，若色、眼識、眼觸、眼觸因緣生受，若苦、若樂、不苦不樂，彼亦空，常、恒、不變易法空，我所空。所以者何？此性自爾。耳、鼻、舌、身、意亦復如是，是名空世間。」\n\n佛說此經已，三彌離提比丘聞佛所說，歡喜奉行。",
+  "english_sa_text": "",
+  "parallels": [
+    {
+      "uid": "sn35.85",
+      "acronym": "SN 35.85",
+      "root_lang": "pli",
+      "original_title": "Suññatalokasutta",
+      "translated_title": "Empty Is the World",
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "cnd19",
+      "acronym": "Cnd 19",
+      "root_lang": "pli",
+      "original_title": "Mogharājamāṇavapucchāniddesa",
+      "translated_title": null,
+      "type": "mention",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "kv1.1",
+      "acronym": "Kv 1.1",
+      "root_lang": "pli",
+      "original_title": "Puggalakathā",
+      "translated_title": "Of the Existence of a Personal Entity",
+      "type": "mention",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "mnd15",
+      "acronym": "Mnd 15",
+      "root_lang": "pli",
+      "original_title": "Attadaṇḍasuttaniddesa",
+      "translated_title": null,
+      "type": "mention",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "ps2.10",
+      "acronym": "Ps 2.10",
+      "root_lang": "pli",
+      "original_title": "Suññakathā",
+      "translated_title": "Treatise on Voidness",
+      "type": "mention",
+      "resembling": false,
+      "remark": null
+    }
+  ],
+  "primary_sn_uid": "sn35.85",
+  "pali_text": "Atha kho āyasmā ānando …pe… bhagavantaṁ etadavoca: “‘suñño loko, suñño loko’ti, bhante, vuccati. Kittāvatā nu kho, bhante, suñño lokoti vuccatī”ti? “Yasmā ca kho, ānanda, suññaṁ attena vā attaniyena vā tasmā suñño lokoti vuccati. Kiñca, ānanda, suññaṁ attena vā attaniyena vā? Cakkhu kho, ānanda, suññaṁ attena vā attaniyena vā. Rūpā suññā attena vā attaniyena vā, cakkhuviññāṇaṁ suññaṁ attena vā attaniyena vā, cakkhusamphasso suñño attena vā attaniyena vā …pe… yampidaṁ manosamphassapaccayā uppajjati vedayitaṁ sukhaṁ vā dukkhaṁ vā adukkhamasukhaṁ vā tampi suññaṁ attena vā attaniyena vā. Yasmā ca kho, ānanda, suññaṁ attena vā attaniyena vā, tasmā suñño lokoti vuccatī”ti. Dutiyaṁ.",
+  "english_sn_text": "And then Venerable Ānanda … said to the Buddha: “Sir, they say that ‘the world is empty’. What does the saying ‘the world is empty’ refer to?” “Ānanda, they say that ‘the world is empty’ because it’s empty of self or what belongs to self. And what is empty of self or what belongs to self? The eye, sights, eye consciousness, and eye contact are empty of self or what belongs to self. … The pleasant, painful, or neutral feeling that arises dependent on mind contact is also empty of self or what belongs to self. They say that ‘the world is empty’ because it’s empty of self or what belongs to self.”",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa201-300/sa232_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa201-300/sa232_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时佛在舍卫国祇树给孤独园。\n时，有比丘名三弥离提，往诣佛所，稽首佛足，退坐一面，白佛言：世尊！所谓世间空，云何名为世间空？\n佛告三弥离提：眼空——于我与我所空。所以者何？此性自尔。若色、眼识、眼触，及眼触因缘所生受——若苦、若乐、不苦不乐——彼亦空，于我与我所空。所以者何？此性自尔。耳、鼻、舌、身、意亦复如是。是名空世间。\n佛说此经已，三弥离提比丘闻佛所说，欢喜奉行。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在舍卫国祇树给孤独园。\n那时，有一位名叫三弥离提的比丘来到佛前，以头面礼佛足，退到一旁坐下，对佛说：世尊！所谓「世间空」，怎样才叫世间空？\n佛告诉三弥离提：眼是空的——空于「我」与「我所」。为什么呢？其性本来如此。色、眼识、眼触，以及依眼触为缘而生起的感受——无论是苦、是乐、还是不苦不乐——也都是空的，空于「我」与「我所」。为什么呢？其性本来如此。耳、鼻、舌、身、意也是一样。这叫做空世间。（底本此段作「常、恒、不变易法空，我所空」，巴利 SN35.85 唯作 `suññaṃ attena vā attaniyena vā`——空于我、空于我所——今依平行正之。）\n佛说完这部经，三弥离提比丘听佛所说，都欢喜奉行。",
+  "notes": "本经 SC 平行表所列平行及 `raw_aligned_data.json` 内之巴利本文、Sujato 英译并用以厘定法义；求那跋陀罗汉本用于定位经文与传统术语。Anālayo 之 SA 英译（DDJBS 18, 2016）止于 SA 229，本批无其逐经英译。confidence=medium：SN35.85 为 `full` 平行，法义可对，然二本之框式有异——巴利问者为阿难（Ānanda），汉本作三弥离提；巴利释空为 attena vā attaniyena vā（于我、于我所），汉底本作「常、恒、不变易法空，我所空」，语面似合于 nicca／sassata 一类之空而于巴利无所对，今依平行作「于我与我所空」，并于现代栏括注底本语面；「此性自尔」为汉本之释语，存之。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "medium",
+  "prior_review_status": "needs_revision",
+  "similarity_to_source": 0.436,
+  "paragraph_parallel": true
+}

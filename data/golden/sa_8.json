@@ -1,0 +1,78 @@
+{
+  "id": "SA_8",
+  "uid": "sa8",
+  "title": "雜阿含經  卷第一  陰相應  （八）  過去",
+  "chinese_text": "如是我聞：一時，佛住舍衛國、祇樹、給孤獨園。爾時，世尊告諸比丘：「過去、未來色無常，況現在色？聖弟子如是觀者不顧過去色，不欲未來色。於現在色厭，離欲，正向滅盡。「如是，過去、未來受⋯想⋯行⋯識無常，況現在識？聖弟子如是觀者不顧過去識，不欣未來識。於現在識厭，離欲，正向滅盡。」（如「無常」、「苦」、「空」、「非我」亦復如是。）時，諸比丘聞佛所說歡喜，奉行。",
+  "english_sa_text": "Thus I have heard: One time, the Buddha was staying at Anāthapiṇḍada’s Park in Jeta’s Grove of Śrāvastī. It was then that the Bhagavān addressed the monks, “Past and future form are [11] impermanent … [12] painful … [13] empty … [14] not self, so why wouldn’t that be for present form? Noble disciples who observe them in this way don’t look back to past form or wish for future form. Regarding present form, they become disillusioned, free of desire, and headed straight to its cessation. “Thus, past and future feeling … conception … volition … awareness are [11] impermanent … [12] painful … [13] empty … [14] not self, so why wouldn’t that be for present awareness? Noble disciples who observe them in this way don’t look back to past awareness or wish for future awareness. Regarding present awareness, they become disillusioned, free of desire, and headed straight to its cessation.” (Like “impermanent,” “pain,” “emptiness,” and “not self” are taught in the same way.) When the monks heard what the Buddha taught, they rejoiced and approved.",
+  "parallels": [
+    {
+      "uid": "sa79",
+      "acronym": "SA 79",
+      "root_lang": "lzh",
+      "original_title": "略說",
+      "translated_title": "Discourse on a Brief Teaching",
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "sn22.11",
+      "acronym": "SN 22.11",
+      "root_lang": "pli",
+      "original_title": "Kālattayaanattasutta",
+      "translated_title": "Nonself in the Three Times",
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "sn22.10",
+      "acronym": "SN 22.10",
+      "root_lang": "pli",
+      "original_title": "Kālattayadukkhasutta",
+      "translated_title": "Suffering in the Three Times",
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "sn22.9",
+      "acronym": "SN 22.9",
+      "root_lang": "pli",
+      "original_title": "Kālattayaaniccasutta",
+      "translated_title": "Impermanent in the Three Times",
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "up9.001",
+      "acronym": "Up 9.001",
+      "root_lang": "xct",
+      "original_title": "",
+      "translated_title": "Upāyikā 9.001",
+      "type": "full",
+      "resembling": true,
+      "remark": null
+    }
+  ],
+  "primary_sn_uid": "sn22.10",
+  "pali_text": "Sāvatthinidānaṁ. “Rūpaṁ, bhikkhave, dukkhaṁ atītānāgataṁ; ko pana vādo paccuppannassa. Evaṁ passaṁ, bhikkhave, sutavā ariyasāvako atītasmiṁ rūpasmiṁ anapekkho hoti; anāgataṁ rūpaṁ nābhinandati; paccuppannassa rūpassa nibbidāya virāgāya nirodhāya paṭipanno hoti. Vedanā dukkhā … saññā dukkhā … saṅkhārā dukkhā … viññāṇaṁ dukkhaṁ atītānāgataṁ; ko pana vādo paccuppannassa. Evaṁ passaṁ, bhikkhave, sutavā ariyasāvako atītasmiṁ viññāṇasmiṁ anapekkho hoti; anāgataṁ viññāṇaṁ nābhinandati; paccuppannassa viññāṇassa nibbidāya virāgāya nirodhāya paṭipanno hotī”ti. Dasamaṁ.",
+  "english_sn_text": "At Sāvatthī. “Mendicants, form of the past and future is suffering, let alone the present. Seeing this, a learned noble disciple is not concerned with past form, doesn’t look forward to enjoying future form, and they practice for disillusionment, dispassion, and cessation regarding present form. Feeling … Perception … Choices … Consciousness of the past and future is suffering, let alone the present. Seeing this, a learned noble disciple is not concerned with past consciousness, doesn’t look forward to enjoying future consciousness, and they practice for disillusionment, dispassion, and cessation regarding present consciousness.”",
+  "errors": [],
+  "kumarajiva_style_text": "如是我闻：一时佛在舍卫国祇树给孤独园。\n尔时世尊告诸比丘：过去、未来色无常，何况现在色？圣弟子如是观：不顾过去，不欣未来；于现在色厌、离欲，正向灭尽。过去、未来受、想、行、识无常，何况现在？圣弟子如是观：不顾过去，不欣未来；于现在厌、离欲，正向灭尽。如说无常，苦、空、非我，亦复如是。\n时诸比丘闻佛所说，欢喜奉行。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在舍卫国祇树给孤独园。\n那时，世尊告诉比丘们：过去的色、未来的色都是无常的，何况现在的色？圣弟子这样观察：不回顾过去，不欣求未来；对现在的色生厌、离欲，方向对准灭尽。过去、未来的受、想、行、识都是无常的，何况现在？圣弟子这样观察：不回顾过去，不欣求未来；对现在生厌、离欲，方向对准灭尽。如同说无常，苦、空、非我，也是一样。\n当时，比丘们听佛所说，都欢喜奉行。",
+  "notes": "据 SN 22.9–11：过去未来尚无常／苦／无我，何况现在；圣弟子于过去 anapekkha、于未来不欣、于现在修厌离灭。汉「不顾／不欲／正向灭尽」与此相应；括注四印保留。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "prior_review_status": "gold",
+  "revision_reason": null,
+  "confidence": "high"
+}

@@ -1,0 +1,53 @@
+{
+  "id": "SA_483",
+  "uid": "sa483",
+  "title": "雜阿含經  卷第十九  受相應  （483）  無食樂",
+  "chinese_text": "如是我聞：\n\n一時，佛住舍衛國祇樹給孤獨園。\n\n爾時，世尊告諸比丘：「有食念者、有無食念者、有無食無食念者；有食樂者、無食樂者、有無食無食樂者；有食捨者、有無食捨者、有無食無食捨者；有食解脫者、有無食解脫者、有無食無食解脫者。\n\n「云何食念？謂五欲因緣生念。云何無食念？謂比丘離欲、離惡不善法，有覺有觀，離生喜樂，初禪具足住，是名無食念。云何無食無食念？謂比丘有覺有觀息，內淨一心，無覺無觀，定生喜樂，第二禪具足住，是名無食無食念。\n\n「云何有食樂？謂五欲因緣生樂、生喜，是名有食樂。云何無食樂？謂息有覺有觀，內淨一心，無覺無觀，定生喜樂，是名無食樂。云何無食無食樂？謂比丘離喜貪，捨心住正念正知，安樂住彼聖說捨，是名無食無食樂。\n\n「云何有食捨？謂五欲因緣生捨，是名有食捨。云何無食捨？謂彼比丘離喜貪，捨心住正念正知，安樂住彼聖說捨，第三禪具足住，是名無食捨。云何無食無食捨？謂比丘離苦息樂，憂喜先已離，不苦不樂捨，淨念一心，第四禪具足住，是名無食無食捨。\n\n「云何有食解脫？謂色俱行。云何無食解脫？謂無色俱行。云何無食無食解脫？謂彼比丘貪欲不染、解脫，瞋恚、愚癡心不染、解脫，是名無食無食解脫。」\n\n佛說此經已，諸比丘聞佛所說，歡喜奉行。",
+  "english_sa_text": "",
+  "parallels": [
+    {
+      "uid": "sn36.31",
+      "acronym": "SN 36.31",
+      "root_lang": "pli",
+      "original_title": "Nirāmisasutta",
+      "translated_title": "Spiritual",
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "sn36.30",
+      "acronym": "SN 36.30",
+      "root_lang": "pli",
+      "original_title": "Suddhikasutta",
+      "translated_title": "Simple version",
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    }
+  ],
+  "primary_sn_uid": "sn36.30",
+  "pali_text": "“Tisso imā, bhikkhave, vedanā. Katamā tisso? Sukhā vedanā, dukkhā vedanā, adukkhamasukhā vedanā— imā kho, bhikkhave, tisso vedanā”ti. Dasamaṁ.",
+  "english_sn_text": "“Mendicants, there are these three feelings. What three? Pleasant, painful, and neutral feelings. These are the three feelings.”",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa401-500/sa483_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa401-500/sa483_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛在舍卫国祇树给孤独园。\n尔时，世尊告诸比丘：「有食念、无食念、无食无食念；有食乐、无食乐、无食无食乐；有食舍、无食舍、无食无食舍；有食解脱、无食解脱、无食无食解脱。」\n「云何食念？谓五欲因缘生念。云何无食念？谓比丘离欲离恶不善法，有觉有观，离生喜乐，初禅具足住。云何无食无食念？谓有觉有观息，内净一心，无觉无观，定生喜乐，第二禅具足住。」\n「云何有食乐？五欲因缘生乐喜。云何无食乐？第二禅定生喜乐。云何无食无食乐？离喜贪，舍心住正念正知，安乐住彼圣说舍——第三禅具足住。」\n「云何有食舍？五欲因缘生舍。云何无食舍？第三禅圣说舍。 云何无食无食舍？离苦息乐，忧喜先除，不苦不乐舍，第四禅具足住。」\n「云何有食解脱？色俱行。云何无食解脱？无色俱行。云何无食无食解脱？贪欲、瞋恚、愚痴不染、解脱。」\n佛说此经已，诸比丘闻佛所说，欢喜奉行。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在舍卫国祇树给孤独园。\n那时，世尊告诉比丘们：「有食念、无食念、无食无食念；有食乐、无食乐、无食无食乐；有食舍、无食舍、无食无食舍；有食解脱、无食解脱、无食无食解脱。」\n「什么是食念？就是五欲因缘生起的念。什么是无食念？比丘离欲离恶不善法，有觉有观，离生喜乐，初禅具足而住。什么是无食无食念？有觉有观息止，内净一心，无觉无观，定生喜乐，第二禅具足而住。」\n「什么是有食乐？五欲因缘生起乐喜。什么是无食乐？第二禅定生喜乐。什么是无食无食乐？离喜贪，以舍心住于正念正知，安乐而住于圣所说的舍——第三禅具足而住。」\n「什么是有食舍？五欲因缘生舍。什么是无食舍？第三禅圣所说的舍。什么是无食无食舍？离苦息乐，忧喜先除，不苦不乐之舍，第四禅具足而住。」\n「什么是有食解脱？与色俱行。什么是无食解脱？与无色俱行。什么是无食无食解脱？对贪欲、瞋恚、愚痴不染、解脱。」\n佛说完这部经，比丘们听佛所说，都欢喜奉行。",
+  "notes": "本经 SC 平行表所列平行及 `raw_aligned_data.json` 内之巴利本文、Sujato 英译并用以厘定法义；求那跋陀罗汉本用于定位经文与传统术语。confidence=high：义据 SN36.31 Nirāmisā（SC primary SN36.30 过短）。有食／无食／无食无食≈sāmisā／nirāmisā／nirāmisānirāmisā，念／乐／舍／解脱四分，依汉结构润饰。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "high",
+  "prior_review_status": "needs_revision",
+  "similarity_to_source": 0.317,
+  "paragraph_parallel": true
+}

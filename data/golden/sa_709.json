@@ -1,0 +1,43 @@
+{
+  "id": "SA_709",
+  "uid": "sa709",
+  "title": "雜阿含經  卷第二十八  覺支相應  （709）  七覺支",
+  "chinese_text": "如是我聞：\n\n一時，佛住舍衛國祇樹給孤獨園。\n\n「若比丘專一其心，側聽正法，能斷五法，修習七法，令其轉進滿足。何等為斷五法？謂貪欲蓋、瞋恚蓋、睡眠蓋、掉悔蓋、疑蓋，是名五法斷。何等修習七法？謂念覺支、擇法覺支、精進覺支、猗覺支、喜覺支、定覺支、捨覺支，修此七法，轉進滿足。」\n\n佛說此經已，諸比丘聞佛所說，歡喜奉行。",
+  "english_sa_text": "",
+  "parallels": [
+    {
+      "uid": "sn46.38",
+      "acronym": "SN 46.38",
+      "root_lang": "pli",
+      "original_title": "Anīvaraṇasutta",
+      "translated_title": "Without Hindrances",
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    }
+  ],
+  "primary_sn_uid": "sn46.38",
+  "pali_text": "Yasmiṁ, bhikkhave, samaye ariyasāvako aṭṭhiṁ katvā manasi katvā sabbaṁ cetaso samannāharitvā ohitasoto dhammaṁ suṇāti, imassa pañca nīvaraṇā tasmiṁ samaye na honti. Satta bojjhaṅgā tasmiṁ samaye bhāvanāpāripūriṁ gacchanti. Katame pañca nīvaraṇā tasmiṁ samaye na honti? Kāmacchandanīvaraṇaṁ tasmiṁ samaye na hoti, byāpādanīvaraṇaṁ tasmiṁ samaye na hoti, thinamiddhanīvaraṇaṁ tasmiṁ samaye na hoti, uddhaccakukkuccanīvaraṇaṁ tasmiṁ samaye na hoti, vicikicchānīvaraṇaṁ tasmiṁ samaye na hoti. Imassa pañca nīvaraṇā tasmiṁ samaye na honti. Katame satta bojjhaṅgā tasmiṁ samaye bhāvanāpāripūriṁ gacchanti? Satisambojjhaṅgo tasmiṁ samaye bhāvanāpāripūriṁ gacchati …pe… upekkhāsambojjhaṅgo tasmiṁ samaye bhāvanāpāripūriṁ gacchati. Ime satta bojjhaṅgā tasmiṁ samaye bhāvanāpāripūriṁ gacchanti. Yasmiṁ, bhikkhave, samaye ariyasāvako aṭṭhiṁ katvā manasi katvā sabbaṁ cetaso samannāharitvā ohitasoto dhammaṁ suṇāti, imassa pañca nīvaraṇā tasmiṁ samaye na honti. Ime satta bojjhaṅgā tasmiṁ samaye bhāvanāpāripūriṁ gacchantī”ti. Aṭṭhamaṁ.",
+  "english_sn_text": "“Mendicants, sometimes a noble disciple pays attention, applies the mind, concentrates wholeheartedly, and actively listens to the teaching. At such a time the five hindrances are absent, and the seven awakening factors are fully developed. What are the five hindrances that are absent? Sensual desire, ill will, dullness and drowsiness, restlessness and remorse, and doubt. These are the five hindrances that are absent. And what are the seven awakening factors that are fully developed? The awakening factors of mindfulness, investigation of principles, energy, rapture, tranquility, immersion, and equanimity. These are the seven awakening factors that are fully developed. Sometimes a noble disciple pays attention, applies the mind, concentrates wholeheartedly, and actively listens to the teaching. At such a time the five hindrances are absent, and the seven awakening factors are fully developed.”",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa701-800/sa709_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa701-800/sa709_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛住舍卫国祇树给孤独园。\n佛告比丘：「若比丘专一其心，侧耳听法，能断五法，修习七法，令得满足。」\n「何等断五？谓贪欲盖、瞋恚盖、睡眠盖、掉悔盖、疑盖。」\n「何等修七？谓念觉支、择法觉支、精进觉支、喜觉支、猗觉支、定觉支、舍觉支——修此七法，转进满足。」\n佛说此经已，诸比丘闻佛所说，欢喜奉行。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在舍卫国祇树给孤独园。\n佛告比丘：「如果比丘专一其心，侧耳听法，就能断除五种法，修习七种法，使它们满足。」\n「断除哪五种？就是贪欲盖、瞋恚盖、昏沉睡眠盖、掉举后悔盖、疑盖。」\n「修习哪七种？就是念觉支、择法觉支、精进觉支、喜觉支、猗觉支、定觉支、舍觉支——修这七法，展转增进而满足。」\n佛说完这部经，比丘们听佛所说，都欢喜奉行。",
+  "notes": "本经 SC 平行表所列平行及 `raw_aligned_data.json` 内之巴利本文、Sujato 英译并用以厘定法义；求那跋陀罗汉本用于定位经文与传统术语。confidence=high：primary SN46.38 Aparihāniya／听法（圣弟子专心听法时五盖灭、七觉满）。汉缺「尔时告比丘」开场，补佛告；觉支次第据 SN。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "high",
+  "prior_review_status": "needs_revision",
+  "similarity_to_source": 0.303,
+  "paragraph_parallel": true
+}

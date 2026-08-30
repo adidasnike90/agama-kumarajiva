@@ -1,0 +1,43 @@
+{
+  "id": "SA_517",
+  "uid": "sa517",
+  "title": "雜阿含經  卷第二十一  弟子所說相應  （517）  斷人頭",
+  "chinese_text": "如是我聞：\n\n一時，佛住王舍城，乃至我於路中見一大身無頭眾生，兩邊生目，胸前生口，身常流血，諸蟲唼食，痛徹骨髓。乃至佛告諸比丘：「此眾生者，過去世時，於此王舍城好斷人頭，緣斯罪故，已百千歲墮地獄中受無量苦，今得此身，續受斯苦。諸比丘！如大目犍連所見，真實不異，當受持之。」\n\n佛說此經已，諸比丘聞佛所說，歡喜奉行。\n\n如斷人頭，捉頭亦如是。",
+  "english_sa_text": "",
+  "parallels": [
+    {
+      "uid": "sn19.16",
+      "acronym": "SN 19.16",
+      "root_lang": "pli",
+      "original_title": "Asīsakasutta",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    }
+  ],
+  "primary_sn_uid": "sn19.16",
+  "pali_text": "“Idhāhaṁ, āvuso, gijjhakūṭā pabbatā orohanto addasaṁ asīsakaṁ kabandhaṁ vehāsaṁ gacchantaṁ. Tassa ure akkhīni ceva honti mukhañca. Tamenaṁ gijjhāpi kākāpi kulalāpi anupatitvā anupatitvā vitacchenti virājenti. So sudaṁ aṭṭassaraṁ karoti …pe… eso, bhikkhave, satto imasmiṁyeva rājagahe hāriko nāma coraghātako ahosi …pe…. Chaṭṭhaṁ.",
+  "english_sn_text": "“Just now, reverend, as I was descending from Vulture’s Peak Mountain I saw a headless trunk flying through the air. Its eyes and mouth were on its chest. Vultures, crows, and hawks kept chasing it, pecking and clawing as it screamed in pain. …” … “That being used to be an executioner named Taker right here in Rājagaha. …”",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa501-600/sa517_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa501-600/sa517_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛在王舍城迦兰陀竹园。\n尊者大目犍连于路中见一大身众生，无头而身，两眼生胸，口在胸前，身常流血，诸虫唼食，痛彻骨髓，乘虚而行。\n佛告诸比丘：「此众生者，过去于此王舍城为好断人首者，缘斯罪故，堕地狱受无量苦；地狱余报，今得此身，续受其苦。诸比丘！如大目犍连所见，真实不虚，应当受持。。」\n如断人首，捉头者亦如是。\n佛说此经已，诸比丘闻佛所说，欢喜奉行。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在王舍城迦兰陀竹园。\n大目犍连尊者在路中看见一个身躯巨大的众生，没有头只有身，两只眼睛长在胸前，口也在胸前，身体常流血，各种虫来咬食，痛彻骨髓，在空中飞行。\n佛告诉比丘们：「这个众生，过去在此王舍城做喜欢砍人脑袋的人，因为那个罪业的缘故，堕入地狱受无量苦；地狱的剩余果报，现在得到这样的身，继续承受那些苦。诸比丘！如同大目犍连所见的，真实不虚，你们应当受持。。」\n如同砍人首，捉人首的人也是这样。\n佛说完这部经，比丘们听佛所说，都欢喜奉行。",
+  "notes": "本经 SC 平行表所列平行及 `raw_aligned_data.json` 内之巴利本文、Sujato 英译并用以厘定法义；求那跋陀罗汉本用于定位经文与传统术语。confidence=high：primary SN19.16 Asīsaka（无头身）；汉并摄捉头，据汉。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "high",
+  "prior_review_status": "needs_revision",
+  "similarity_to_source": 0.264,
+  "paragraph_parallel": true
+}

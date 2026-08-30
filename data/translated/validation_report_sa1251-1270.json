@@ -1,0 +1,272 @@
+[
+  {
+    "id": "SA_1251",
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": [],
+    "sim": 0.091,
+    "paragraphs": 4,
+    "paragraph_parallel": true,
+    "confidence": "high",
+    "review_status": "gold_reconstructed",
+    "gate_reasons": []
+  },
+  {
+    "id": "SA_1252",
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": [],
+    "sim": 0.18,
+    "paragraphs": 4,
+    "paragraph_parallel": true,
+    "confidence": "high",
+    "review_status": "gold",
+    "gate_reasons": []
+  },
+  {
+    "id": "SA_1253",
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": [],
+    "sim": 0.232,
+    "paragraphs": 3,
+    "paragraph_parallel": true,
+    "confidence": "high",
+    "review_status": "gold",
+    "gate_reasons": []
+  },
+  {
+    "id": "SA_1254",
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": [],
+    "sim": 0.21,
+    "paragraphs": 3,
+    "paragraph_parallel": true,
+    "confidence": "high",
+    "review_status": "gold",
+    "gate_reasons": []
+  },
+  {
+    "id": "SA_1255",
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": [],
+    "sim": 0.235,
+    "paragraphs": 4,
+    "paragraph_parallel": true,
+    "confidence": "high",
+    "review_status": "gold",
+    "gate_reasons": []
+  },
+  {
+    "id": "SA_1256",
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": [],
+    "sim": 0.402,
+    "paragraphs": 4,
+    "paragraph_parallel": true,
+    "confidence": "high",
+    "review_status": "gold_reconstructed",
+    "gate_reasons": [
+      "lit_mod_gap=0.322>=0.1"
+    ]
+  },
+  {
+    "id": "SA_1257",
+    "status": "warn",
+    "issues": [],
+    "warnings": [
+      "mark_not_in_output:空"
+    ],
+    "forbidden_hits": [],
+    "sim": 0.195,
+    "paragraphs": 5,
+    "paragraph_parallel": true,
+    "confidence": "high",
+    "review_status": "gold",
+    "gate_reasons": []
+  },
+  {
+    "id": "SA_1258",
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": [],
+    "sim": 0.115,
+    "paragraphs": 4,
+    "paragraph_parallel": true,
+    "confidence": "high",
+    "review_status": "gold",
+    "gate_reasons": []
+  },
+  {
+    "id": "SA_1259",
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": [],
+    "sim": 0.234,
+    "paragraphs": 4,
+    "paragraph_parallel": true,
+    "confidence": "medium",
+    "review_status": "gold",
+    "gate_reasons": []
+  },
+  {
+    "id": "SA_1260",
+    "status": "warn",
+    "issues": [],
+    "warnings": [
+      "mark_not_in_output:空"
+    ],
+    "forbidden_hits": [],
+    "sim": 0.151,
+    "paragraphs": 4,
+    "paragraph_parallel": true,
+    "confidence": "high",
+    "review_status": "gold",
+    "gate_reasons": []
+  },
+  {
+    "id": "SA_1261",
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": [],
+    "sim": 0.264,
+    "paragraphs": 4,
+    "paragraph_parallel": true,
+    "confidence": "medium",
+    "review_status": "gold",
+    "gate_reasons": []
+  },
+  {
+    "id": "SA_1262",
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": [],
+    "sim": 0.188,
+    "paragraphs": 4,
+    "paragraph_parallel": true,
+    "confidence": "high",
+    "review_status": "gold_reconstructed",
+    "gate_reasons": []
+  },
+  {
+    "id": "SA_1263",
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": [],
+    "sim": 0.312,
+    "paragraphs": 3,
+    "paragraph_parallel": true,
+    "confidence": "medium",
+    "review_status": "gold",
+    "gate_reasons": []
+  },
+  {
+    "id": "SA_1264",
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": [],
+    "sim": 0.268,
+    "paragraphs": 4,
+    "paragraph_parallel": true,
+    "confidence": "medium",
+    "review_status": "gold",
+    "gate_reasons": []
+  },
+  {
+    "id": "SA_1265",
+    "status": "warn",
+    "issues": [],
+    "warnings": [
+      "literary_suspiciously_short"
+    ],
+    "forbidden_hits": [],
+    "sim": 0.075,
+    "paragraphs": 7,
+    "paragraph_parallel": true,
+    "confidence": "high",
+    "review_status": "gold_reconstructed",
+    "gate_reasons": []
+  },
+  {
+    "id": "SA_1266",
+    "status": "warn",
+    "issues": [],
+    "warnings": [
+      "literary_suspiciously_short"
+    ],
+    "forbidden_hits": [],
+    "sim": 0.054,
+    "paragraphs": 6,
+    "paragraph_parallel": true,
+    "confidence": "high",
+    "review_status": "gold",
+    "gate_reasons": []
+  },
+  {
+    "id": "SA_1267",
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": [],
+    "sim": 0.252,
+    "paragraphs": 5,
+    "paragraph_parallel": true,
+    "confidence": "high",
+    "review_status": "gold_reconstructed",
+    "gate_reasons": []
+  },
+  {
+    "id": "SA_1268",
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": [],
+    "sim": 0.266,
+    "paragraphs": 5,
+    "paragraph_parallel": true,
+    "confidence": "high",
+    "review_status": "gold",
+    "gate_reasons": []
+  },
+  {
+    "id": "SA_1269",
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": [],
+    "sim": 0.357,
+    "paragraphs": 6,
+    "paragraph_parallel": true,
+    "confidence": "medium",
+    "review_status": "gold",
+    "gate_reasons": []
+  },
+  {
+    "id": "SA_1270",
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": [],
+    "sim": 0.219,
+    "paragraphs": 5,
+    "paragraph_parallel": true,
+    "confidence": "medium",
+    "review_status": "gold",
+    "gate_reasons": []
+  }
+]

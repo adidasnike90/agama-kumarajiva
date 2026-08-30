@@ -1,0 +1,43 @@
+{
+  "id": "SA_1080",
+  "uid": "sa1080",
+  "title": "雜阿含經  卷第四十五  比丘相應  （1080）  慚愧根",
+  "chinese_text": "如是我聞：\n\n一時，佛住波羅㮈國仙人住處鹿野苑中。\n\n爾時，世尊晨朝著衣持鉢，入波羅㮈城乞食。\n\n時，有異比丘以不住心，其心惑亂，不攝諸根，晨朝著衣持鉢，入波羅㮈城乞食。是比丘遙見世尊，見已，攝持諸根，端視而行。世尊見是比丘攝持諸根，端視而行，見已入城。乞食畢，還精舍，舉衣鉢，洗足已，入室坐禪。晡時從禪覺，入僧中，敷坐具，於大眾前坐，告諸比丘：「我今晨朝著衣持鉢，入波羅㮈城乞食，見有比丘！以不住心、惑亂心，諸根放散，亦持衣鉢入城乞食，彼遙見我，即自斂攝竟，為是誰？」\n\n時，彼比丘從座起，整衣服，到於佛前，偏袒右肩，合掌白佛：「世尊！我於晨朝入城乞食，其心惑亂，不攝諸根行，遙見世尊，即自斂心，攝持諸根。」\n\n佛告比丘：「善哉！善哉！汝見我已，能自斂心，攝持諸根。比丘！是法應當如是。若見比丘，亦應自攝持。若復見比丘尼、優婆塞、優婆夷，亦當如是攝持諸根，當得長夜以義饒益，安隱快樂。」\n\n爾時，眾中復有異比丘說偈歎曰：\n\n「以其心迷亂，　　不專繫念住，\n\n　晨朝持衣鉢，　　入城邑乞食。\n\n　中路見大師，　　威德容儀備，\n\n　欣悅生慚愧，　　即攝持諸根。」\n\n佛說此經已，諸比丘聞佛所說，歡喜奉行。",
+  "english_sa_text": "",
+  "parallels": [
+    {
+      "uid": "sa-2.19",
+      "acronym": "SA2 19",
+      "root_lang": "lzh",
+      "original_title": "慚愧根",
+      "translated_title": "The Buddha sees a distracted monk 1",
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    }
+  ],
+  "primary_sn_uid": null,
+  "pali_text": "",
+  "english_sn_text": "",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa1001-1100/sa1080_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa1001-1100/sa1080_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛住波罗奈国仙人住处鹿野苑中。\n世尊晨朝入波罗奈乞食。有比丘心散乱、不摄诸根亦入城；遥见佛，即敛根端视。佛见已入城。\n食讫还，晡时集僧问：「晨见散乱比丘遥见我即自敛——是谁？」彼起白：「是我。」\n佛赞：「善哉！见我能自摄根。见比丘、比丘尼、优婆塞、优婆夷，亦当如是——长夜得义利安乐。」\n有比丘说偈：「心迷不系念，入城乞食；中路见大师，生惭愧而摄根。」\n佛说此经已，诸比丘闻佛所说，欢喜奉行。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在波罗奈国仙人住处鹿野苑中。\n世尊早晨进入波罗奈城乞食。有位比丘心散乱、不收摄诸根也进城；远远看见佛，立刻收摄诸根、端正地看路前行。佛看见后进了城。\n乞食回来，下午在僧众中问：「早晨看见一位散乱的比丘，远远见到我就自己收敛——是谁？」那人起身说：「是我。」\n佛称赞：「很好！见到我能自己收摄诸根。见到比丘、比丘尼、优婆塞、优婆夷，也应当这样——长久会得到义利与安乐。」\n有比丘说偈赞叹：「心迷乱、不专念，进城乞食；半路遇见大师，生起惭愧而收摄诸根。」\n佛说完这部经，比丘们听佛所说，都欢喜奉行。",
+  "notes": "SC 于本经未列可靠巴利平行，故唯以汉本为底，参同相应之巴利定型语厘义；依项目规约「无可靠平行时 confidence 降为 medium/low」。主题为见师／见四众而生惭愧、摄护根门；与 hirī／ottappa、indriyasaṃvara 相应。无 SC 巴利一对一平行，confidence=medium。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "medium",
+  "prior_review_status": "needs_revision",
+  "similarity_to_source": 0.117,
+  "paragraph_parallel": true
+}

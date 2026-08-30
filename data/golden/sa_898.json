@@ -1,0 +1,32 @@
+{
+  "id": "SA_898",
+  "uid": "sa898",
+  "title": "雜阿含經  卷第三十四  入界陰相應  （898）  眼已斷",
+  "chinese_text": "如是我聞：\n\n一時，佛住王舍城迦蘭陀竹園。\n\n爾時，世尊告諸比丘：「若比丘於眼欲貪斷，欲貪斷者，是名眼已斷，已知斷其根本，如截多羅樹頭，於未來世成不生法。如眼。如是耳、鼻、舌、身、意亦如是說。」\n\n佛說此經已，諸比丘聞佛所說，歡喜奉行。\n\n如內六入處，如是外六入處乃至五陰，亦如是說。",
+  "english_sa_text": "",
+  "parallels": [],
+  "primary_sn_uid": null,
+  "pali_text": "",
+  "english_sn_text": "",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa801-900/sa898_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa801-900/sa898_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛住王舍城迦兰陀竹园。\n尔时世尊告诸比丘：「若比丘于眼欲贪断，是名眼已断——已知、断其根本，如截多罗树头，于未来世成不生法。耳、鼻、舌、身、意，亦复如是。」\n如内六入处，外六入处、六识、六触、六受、六想、六思、六爱、六界、五阴，亦如是说。\n佛说此经已，诸比丘闻佛所说，欢喜奉行。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在王舍城迦兰陀竹园。\n那时世尊告诉比丘们：「如果比丘对眼的欲贪断除了，就叫眼已断——已经了知、断了根本，像截断多罗树头，在未来世成为不再生起的法。耳、鼻、舌、身、意也是这样。」\n如同内六入处，外六入处、六识、六触、六受、六想、六思、六爱、六界、五阴，也是这样说。\n佛说完这部经，比丘们听佛所说，都欢喜奉行。",
+  "notes": "SC 于本经未列可靠巴利平行，故唯以汉本为底，参同相应之巴利定型语厘义；依项目规约「无可靠平行时 confidence 降为 medium/low」。confidence=medium：欲贪断＝「已断」定型；近 SN35 断贪族，无专经不抬高置信。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "medium",
+  "prior_review_status": "needs_revision",
+  "similarity_to_source": 0.376,
+  "paragraph_parallel": true
+}

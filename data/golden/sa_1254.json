@@ -1,0 +1,43 @@
+{
+  "id": "SA_1254",
+  "uid": "sa1254",
+  "title": "雜阿含經  卷第五十  譬喻相應  （1254）  人家",
+  "chinese_text": "如是我聞：\n\n一時，佛住舍衛國祇樹給孤獨園。\n\n爾時，世尊告諸比丘：「譬如人家多女人少男子，當知是家易為盜賊之所劫奪。如是善男子、善女人，不能數數下至如𤛓牛乳頃，於一切眾生修習慈心，當知是人易為諸惡鬼神所欺。\n\n「譬如人家多男子少女人，不為盜賊數數劫奪。如是，善男子數數下至如𤛓牛乳頃，於一切眾生修習慈心，不為諸惡鬼神所欺。是故，諸比丘！常當隨時數數下至如𤛓牛乳頃，修習慈心。」\n\n佛說此經已，諸比丘聞佛所說，歡喜奉行。",
+  "english_sa_text": "",
+  "parallels": [
+    {
+      "uid": "sn20.3",
+      "acronym": "SN 20.3",
+      "root_lang": "pli",
+      "original_title": "Kulasutta",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    }
+  ],
+  "primary_sn_uid": "sn20.3",
+  "pali_text": "Sāvatthiyaṁ viharati. “Seyyathāpi, bhikkhave, yāni kānici kulāni bahutthikāni appapurisāni tāni suppadhaṁsiyāni honti corehi kumbhatthenakehi; evameva kho, bhikkhave, yassa kassaci bhikkhuno mettācetovimutti abhāvitā abahulīkatā so suppadhaṁsiyo hoti amanussehi. Seyyathāpi, bhikkhave, yāni kānici kulāni appitthikāni bahupurisāni tāni duppadhaṁsiyāni honti corehi kumbhatthenakehi; evameva kho, bhikkhave, yassa kassaci bhikkhuno mettācetovimutti bhāvitā bahulīkatā so duppadhaṁsiyo hoti amanussehi. Tasmātiha, bhikkhave, evaṁ sikkhitabbaṁ: ‘mettā no cetovimutti bhāvitā bhavissati bahulīkatā yānīkatā vatthukatā anuṭṭhitā paricitā susamāraddhā’ti. Evañhi vo, bhikkhave, sikkhitabban”ti. Tatiyaṁ.",
+  "english_sn_text": "At Sāvatthī. “Mendicants, those families with many women and few men are easy prey for bandits and grain-jar thieves. In the same way any mendicant who has not developed and cultivated the heart’s release by love is easy prey for non-humans. Those families with few women and many men are hard prey for bandits and grain-jar thieves. In the same way a mendicant who has developed and cultivated the heart’s release by love is hard prey for non-humans. So you should train like this: ‘We will develop the heart’s release by love. We’ll cultivate it, make it our vehicle and our basis, keep it up, consolidate it, and properly implement it.’ That’s how you should train.”",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa1201-1300/sa1254_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa1201-1300/sa1254_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛住舍卫国祇树给孤独园。\n尔时世尊告诸比丘：「譬如人家多女少男，易为盗贼所劫。如是比丘若不修习慈心解脱，易为非人所得其便。譬如人家多男少女，盗贼难劫；如是比丘修习慈心解脱，非人不得其便。当如是学：『乃至挤牛乳顷，于一切众生修习慈心；慈心解脱当修习、多修习，以为车乘、以为所依。』」\n佛说此经已，诸比丘闻佛所说，欢喜奉行。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在舍卫国祇树给孤独园。\n那时世尊告诉比丘们：「好比人家女人多、男人少，容易被盗贼劫夺。同样，比丘若不修习慈心解脱，容易被非人趁虚而入。好比人家男人多、女人少，盗贼难劫；同样，比丘修习慈心解脱，非人就不得其便。应当这样学：『哪怕只挤一下牛乳那么短的时间，也要对一切众生修习慈心；慈心解脱应当修习、多修习，当作车乘、当作所依。』」\n佛说完这部经，比丘们听佛所说，都欢喜奉行。",
+  "notes": "本经 SC 平行表所列平行及 `raw_aligned_data.json` 内之巴利本文、Sujato 英译并用以厘定法义；求那跋陀罗汉本用于定位经文与传统术语。confidence=high：primary SN20.3 Kulasutta。据 SN：主体为比丘慈心解脱 vs 非人（汉「善男子善女人／恶鬼神」收束为比丘／非人）。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "high",
+  "prior_review_status": "needs_revision",
+  "similarity_to_source": 0.21,
+  "paragraph_parallel": true
+}

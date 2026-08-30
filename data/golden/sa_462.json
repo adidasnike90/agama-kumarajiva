@@ -1,0 +1,53 @@
+{
+  "id": "SA_462",
+  "uid": "sa462",
+  "title": "雜阿含經  卷第十九  受相應  （462）  三界",
+  "chinese_text": "如是我聞：\n\n一時，佛住拘睒彌國瞿師羅園。\n\n爾時，瞿師羅長者詣尊者阿難所，稽首禮足，退坐一面，白尊者阿難：「所說種種界。云何名為種種界？」\n\n尊者阿難告瞿師羅長者：「有三界，色界、無色界、滅界，是名三界。」即說偈言：\n\n「若色界眾生，　　及住無色界，\n\n　不識滅界者，　　還復受諸有。\n\n　若斷於色界，　　不住無色界，\n\n　滅界心解脫，　　永離於生死。」\n\n尊者阿難說是經已，瞿師羅長者歡喜隨喜，作禮而去。",
+  "english_sa_text": "",
+  "parallels": [
+    {
+      "uid": "iti5",
+      "acronym": "Iti 5",
+      "root_lang": "pli",
+      "original_title": "Makkhasutta",
+      "translated_title": "Contempt",
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "t765.18",
+      "acronym": "T 765.18",
+      "root_lang": "lzh",
+      "original_title": "覆藏",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    }
+  ],
+  "primary_sn_uid": null,
+  "pali_text": "",
+  "english_sn_text": "",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa401-500/sa462_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa401-500/sa462_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛在拘睒弥国瞿师罗园。\n尔时，瞿师罗长者诣尊者阿难所，稽首礼足，退坐一面，白言：「尊者！所论种种界——云何名种种界？」\n尊者阿难告言：「有三界——色界、无色界、灭界，是名三界。」\n即说偈言：「若色界众生，及住无色界，不识灭界者，还复受诸有。若断于色界，不住无色界，灭界心解脱，永离于生死。」\n尊者阿难说是经已，瞿师罗长者欢喜随喜，作礼而去。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在拘睒弥国瞿师罗园。\n那时，瞿师罗长者来到阿难尊者处，顶礼足，退坐一面，说：「尊者！所说的种种界——什么叫做种种界？」\n阿难尊者告诉他：「有三种界——色界、无色界、灭界，这叫做三界。」\n接着说偈：「若是色界的众生，以及住在无色界的，不认识灭界的人，还会再受诸有。如果断除了色界，也不住在无色界，在灭界中心得解脱，永远离开生死。」\n阿难尊者说完这部经，瞿师罗长者欢喜随喜，作礼离去。",
+  "notes": "SC 于本经未列可靠巴利平行，故唯以汉本为底，参同相应之巴利定型语厘义；依项目规约「无可靠平行时 confidence 降为 medium/low」，本经作 medium。SC 虽列 Iti5，义不相应（contempt），不据改写；色／无色／灭三界依汉保守，medium。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "medium",
+  "prior_review_status": "needs_revision",
+  "similarity_to_source": 0.388,
+  "paragraph_parallel": true
+}

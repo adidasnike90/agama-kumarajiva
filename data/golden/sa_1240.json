@@ -1,0 +1,64 @@
+{
+  "id": "SA_1240",
+  "uid": "sa1240",
+  "title": "雜阿含經  卷第五十  剎利相應  （1240）  福田",
+  "chinese_text": "如是我聞：\n\n一時，佛住舍衛國祇樹給孤獨園。\n\n時，波斯匿王獨靜思惟，作是念：「此有三法，一切世間所不愛念。何等為三？謂老、病、死。如是三法，一切世間所不愛念。若無此三法世間所不愛者，諸佛世尊不出於世，世間亦不知有諸佛如來所覺知法為人廣說。以有此三法世間所不愛念，謂老、病、死故，諸佛如來出興於世，世間知有諸佛如來所覺知法廣宣說者。」波斯匿王作是念已，來詣佛所，稽首佛足，退坐一面。以其所念，廣白世尊。\n\n佛告波斯匿王：「如是，大王！如是，大王！此有三法，世間所不愛念，謂老、病、死，乃至世間知有如來所覺知法為人廣說。」爾時，世尊復說偈言：\n\n「王所乘寶車，　　終歸有朽壞，\n\n　此身亦復然，　　遷移會歸老。\n\n　唯如來正法，　　無有衰老相，\n\n　稟斯正法者，　　永到安隱處。\n\n　但凡鄙衰老，　　醜弊惡形類，\n\n　衰老來踐蹈，　　迷魅愚夫心。\n\n　若人壽百歲，　　常慮死隨至，\n\n　老病競追逐，　　伺便輒加害。」\n\n佛說此經已，波斯匿王聞佛所說，歡喜隨喜，作禮而去。",
+  "english_sa_text": "",
+  "parallels": [
+    {
+      "uid": "ea26.6",
+      "acronym": "EA 26.6",
+      "root_lang": "lzh",
+      "original_title": "老衰法",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "sa-2.67",
+      "acronym": "SA2 67",
+      "root_lang": "lzh",
+      "original_title": "福田",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "sn3.3",
+      "acronym": "SN 3.3",
+      "root_lang": "pli",
+      "original_title": "Jarāmaraṇasutta",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    }
+  ],
+  "primary_sn_uid": "sn3.3",
+  "pali_text": "Sāvatthinidānaṁ. Ekamantaṁ nisinno kho rājā pasenadi kosalo bhagavantaṁ etadavoca: “atthi nu kho, bhante, jātassa aññatra jarāmaraṇā”ti? “Natthi kho, mahārāja, jātassa aññatra jarāmaraṇā. Yepi te, mahārāja, khattiyamahāsālā aḍḍhā mahaddhanā mahābhogā pahūtajātarūparajatā pahūtavittūpakaraṇā pahūtadhanadhaññā, tesampi jātānaṁ natthi aññatra jarāmaraṇā. Yepi te, mahārāja, brāhmaṇamahāsālā …pe… gahapatimahāsālā aḍḍhā mahaddhanā mahābhogā pahūtajātarūparajatā pahūtavittūpakaraṇā pahūtadhanadhaññā, tesampi jātānaṁ natthi aññatra jarāmaraṇā. Yepi te, mahārāja, bhikkhū arahanto khīṇāsavā vusitavanto katakaraṇīyā ohitabhārā anuppattasadatthā parikkhīṇabhavasaṁyojanā sammadaññāvimuttā, tesampāyaṁ kāyo bhedanadhammo nikkhepanadhammo”ti. Idamavoca …pe… “Jīranti ve rājarathā sucittā, Atho sarīrampi jaraṁ upeti; Satañca dhammo na jaraṁ upeti, Santo have sabbhi pavedayantī”ti.",
+  "english_sn_text": "At Sāvatthī. Seated to one side, King Pasenadi said to the Buddha, “Sir, for someone who has been reborn, is there any exemption from old age and death?” “Great king, for someone who has been reborn, there’s no exemption from old age and death. Even for well-to-do aristocrats, brahmins, or householders—rich, affluent, and wealthy, with lots of gold and silver, lots of property and assets, and lots of money and grain—when they’re born, there’s no exemption from old age and death. Even for mendicants who are perfected—who have ended the defilements, completed the spiritual journey, done what had to be done, laid down the burden, achieved their heart’s goal, utterly ended the fetter of continued existence, and are rightly freed through enlightenment—their bodies are liable to break up and be laid to rest.” That is what the Buddha said. … “Fancy chariots of kings wear out, and even this body gets old. But the truth of the good never gets old— so the good proclaim to the good.”",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa1201-1300/sa1240_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa1201-1300/sa1240_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛住舍卫国祇树给孤独园。\n波斯匿王白佛：「有生者，颇有脱老死不？」佛言：「大王！有生则无有脱于老死。胜刹利、婆罗门、长者大姓，多财巨富，生已亦不能免老死。乃至漏尽阿罗汉，所作已办，身亦当坏散。」\n说偈：「王乘宝车，终归朽坏；此身亦然，迁移归老。如来正法，无有衰老；禀斯法者，永到安隐。」\n佛说此经已，波斯匿王闻佛所说，欢喜随喜，作礼而去。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在舍卫国祇树给孤独园。\n波斯匿王问佛：「已经受生的人，还有能免于老死的吗？」佛说：「大王！有生就不能免于老死。胜刹利、婆罗门、长者大姓，即使多财巨富，生了也不能免老死。乃至漏尽的阿罗汉，所作已办，身体也终须坏散。」\n说偈：「王所乘的宝车，终归会朽坏；这个身体也一样，迁变而归于老。如来的正法没有衰老之相；禀受这正法的人，永远到达安隐处。」\n佛说完这部经，波斯匿王听佛所说，欢喜随喜，作礼离去。",
+  "notes": "本经 SC 平行表所列平行及 `raw_aligned_data.json` 内之巴利本文、Sujato 英译并用以厘定法义；求那跋陀罗汉本用于定位经文与传统术语。confidence=high：primary SN3.3 Jarāmaraṇasutta。汉作『老病死世间不爱故佛出兴』与 SN 问答异；据 SN 校正为：有生则无免老死，富族与阿罗汉身亦然（gold_reconstructed）。",
+  "review_status": "gold_reconstructed",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "high",
+  "prior_review_status": "needs_revision",
+  "reconstruction_basis": "汉『老病死故佛出兴』框架与 SN3.3『有生则无免老死』问答异；据巴利改正。",
+  "similarity_to_source": 0.109,
+  "paragraph_parallel": true
+}

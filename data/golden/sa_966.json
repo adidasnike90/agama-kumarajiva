@@ -1,0 +1,63 @@
+{
+  "id": "SA_966",
+  "uid": "sa966",
+  "title": "雜阿含經  卷第三十八  婆蹉外道相應  （966）  分匿",
+  "chinese_text": "如是我聞：\n\n一時，佛住王舍城迦蘭陀竹園。時，有尊者富隣尼住王舍城耆闍崛山中。\n\n時，有眾多外道出家詣尊者富隣尼，共相問訊慰勞已，退坐一面，問尊者富隣尼：「我聞沙門瞿曇作斷滅破壞有教授耶？今問尊者富隣尼，竟為爾不？」\n\n富隣尼語諸外道出家：「我不如是知世尊教語，眾生斷滅壞有，令無所有者，無有是處！我作如是解：『世尊所說有諸眾生，計言有我、我慢、邪慢，世尊為說，令其斷滅。』」\n\n時，諸外道出家聞富隣尼所說，心不喜悅，呵責而去。\n\n爾時，尊者富隣尼，諸外道去已，往詣佛所，稽首禮足，退坐一面。以向諸外道出家所說具白世尊：「世尊！我向答諸外道說，得無謗毀世尊耶？為是法說，如佛所說，如法說，隨順法說，得不為諸論議者所見嫌責耶？」\n\n佛告富隣尼：「如汝所說，不謗如來，不失次第。如我記說，如法法說，隨順法說，不為諸論者之所嫌責。所以者何？富隣尼！先諸眾生我慢、邪慢，邪慢所迫、邪慢集、邪慢不無間等，亂如狗腸，如鐵鉤鏁，亦如亂草，往反驅馳，此世他世、他世此世，驅馳往反，不能遠離。富隣尼！一切眾生於諸邪慢無餘永滅者，彼一切眾生長夜安隱快樂。」\n\n佛說此經已，富隣尼比丘聞佛所說，歡喜奉行。",
+  "english_sa_text": "",
+  "parallels": [
+    {
+      "uid": "an10.83",
+      "acronym": "AN 10.83",
+      "root_lang": "pli",
+      "original_title": "Puṇṇiyasutta",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "an8.82",
+      "acronym": "AN 8.82",
+      "root_lang": "pli",
+      "original_title": "Puṇṇiyasutta",
+      "translated_title": null,
+      "type": "full",
+      "resembling": true,
+      "remark": null
+    },
+    {
+      "uid": "sf134",
+      "acronym": "SF 134",
+      "root_lang": "san",
+      "original_title": "",
+      "translated_title": null,
+      "type": "full",
+      "resembling": true,
+      "remark": null
+    }
+  ],
+  "primary_sn_uid": null,
+  "pali_text": "",
+  "english_sn_text": "",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa901-1000/sa966_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa901-1000/sa966_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛住王舍城迦兰陀竹园。时有尊者富隣尼住耆阇崛山中。\n众多外道出家诣彼，问：「我闻沙门瞿昙作断灭、破坏有之教；竟尔不？」富隣尼曰：「我不如是知。无有世尊教人断灭坏有、令成虚无。我所解：世尊为诸计我、我慢、邪慢者说法，令其断灭。」外道不悦，呵责而去。\n富隣尼往白佛，恐有谤毁。佛言：「如汝所说，不谤如来，如法随顺，不为论者所嫌。所以者何？众生为邪慢所迫，乱如狗肠、如铁钩锁、如乱草，此世他世往返驱驰，不能远离。若于邪慢无余永灭，则长夜安隐快乐。」\n佛说此经已，诸比丘闻佛所说，欢喜奉行。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在王舍城迦兰陀竹园。那时尊者富隣尼住在耆阇崛山中。\n许多外道出家人来到他那里，问：「我们听说沙门瞿昙教导断灭、破坏『有』；是这样吗？」富隣尼说：「我不是这样理解的。世尊绝没有教人断灭坏有、变成虚无。我所理解的是：世尊为那些执我、我慢、邪慢的人说法，让他们把这些断灭。」外道听了不高兴，呵责后离去。\n富隣尼去见佛，担心是否谤毁。佛说：「像你这样说，没有谤毁如来，是如法随顺的，不会被论议者嫌责。为什么？众生被邪慢逼迫，乱得像狗肠、像铁钩锁、像乱草，在此世他世来回奔驰，不能远离。若对邪慢无余永灭，就能长夜安隐快乐。」\n佛说完这部经，比丘们听佛所说，都欢喜奉行。",
+  "notes": "本经 SC 平行表所列平行及 `raw_aligned_data.json` 内之巴利本文、Sujato 英译并用以厘定法义；求那跋陀罗汉本用于定位经文与传统术语。confidence=high：primary AN10.83（及 AN8.82 近）；非断灭论，乃断我慢／邪慢；狗肠铁锁乱草喻长夜驱驰。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "high",
+  "prior_review_status": "needs_revision",
+  "similarity_to_source": 0.148,
+  "paragraph_parallel": true
+}

@@ -1,0 +1,32 @@
+{
+  "id": "SA_529",
+  "uid": "sa529",
+  "title": "雜阿含經  卷第二十一  弟子所說相應  （529）  盜取二餅",
+  "chinese_text": "如是我聞：\n\n一時，佛住舍衛國。乃至尊者大目犍連言：「我於路中見是大身眾生，有雙鐵輪在兩脇下，熾然旋轉，還燒其身，乘虛而行，啼哭號呼。」乃至佛告諸比丘：「此眾生者，過去世時，於此舍衛國迦葉佛法中出家作沙彌，持石蜜餅供養眾僧，盜取二餅著於掖下，緣斯罪故，已地獄中受無量苦，地獄餘罪，今得此身，續受斯苦。諸比丘！如大目犍連所見，真實不異，當受持之。」\n\n佛說此經已，諸比丘聞佛所說，歡喜奉行。",
+  "english_sa_text": "",
+  "parallels": [],
+  "primary_sn_uid": null,
+  "pali_text": "",
+  "english_sn_text": "",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa501-600/sa529_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa501-600/sa529_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛住舍卫国。\n尊者大目犍连言：「我于路中见一大身众生，有双铁轮在两胁下，炽然旋转，还烧其身，啼哭号呼，乘虚而行，啼哭号呼。」\n佛告诸比丘：「此众生者，过去于此舍卫国为迦叶佛法中出家沙弥，持石蜜饼供僧，盗取二饼藏于掖下，缘斯罪故，堕地狱受无量苦；地狱余报，今得此身，续受其苦。诸比丘！如大目犍连所见，真实不虚，应当受持。。」\n佛说此经已，诸比丘闻佛所说，欢喜奉行。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在舍卫国。\n大目犍连尊者说：「我在路中看见一个身躯巨大的众生，有两个铁轮在两边胁下，猛烈旋转，反过来烧它的身体，啼哭号呼，在空中飞行，啼哭号呼。」\n佛告诉比丘们：「这个众生，过去在此舍卫国做在迦叶佛时代出家做沙弥，拿石蜜饼供养众僧，偷取两个饼藏在腋下，因为那个罪业的缘故，堕入地狱受无量苦；地狱的剩余果报，现在得到这样的身，继续承受那些苦。诸比丘！如同大目犍连所见的，真实不虚，你们应当受持。。」\n佛说完这部经，比丘们听佛所说，都欢喜奉行。",
+  "notes": "SC 于本经未列可靠巴利平行，故唯以汉本为底，参同相应之巴利定型语厘义；依项目规约「无可靠平行时 confidence 降为 medium/low」，本经作 medium。SC 未列专经；汉盗二饼、胁下铁轮，保守依汉，confidence 作 low。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "low",
+  "prior_review_status": "needs_revision",
+  "similarity_to_source": 0.275,
+  "paragraph_parallel": true
+}

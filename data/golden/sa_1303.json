@@ -1,0 +1,54 @@
+{
+  "id": "SA_1303",
+  "uid": "sa1303",
+  "title": "雜阿含經  卷第五十  雜相應  （1303）  月自在",
+  "chinese_text": "如是我聞：\n\n一時，佛住舍衛國祇樹給孤獨園。\n\n時，有月自在天子，容色絕妙，於後夜時來詣佛所，稽首佛足，退坐一面。身諸光明遍照祇樹給孤獨園。\n\n時，彼月自在天子而說偈言：\n\n「彼當至究竟，　　如蚊依從草，\n\n　若得正繫念，　　一心善正受。」\n\n爾時，世尊說偈答言：\n\n「彼當到彼岸，　　如魚決其網，\n\n　禪定具足住，　　心常致喜樂。」\n\n時，彼月自在天子聞佛所說，歡喜隨喜，稽首佛足，即沒不現。",
+  "english_sa_text": "",
+  "parallels": [
+    {
+      "uid": "sa-2.302",
+      "acronym": "SA2 302",
+      "root_lang": "lzh",
+      "original_title": "月自在",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "sn2.11",
+      "acronym": "SN 2.11",
+      "root_lang": "pli",
+      "original_title": "Candimasasutta",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    }
+  ],
+  "primary_sn_uid": "sn2.11",
+  "pali_text": "Sāvatthinidānaṁ. Atha kho candimaso devaputto abhikkantāya rattiyā abhikkantavaṇṇo kevalakappaṁ jetavanaṁ obhāsetvā yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṁ abhivādetvā ekamantaṁ aṭṭhāsi. Ekamantaṁ ṭhito kho candimaso devaputto bhagavato santike imaṁ gāthaṁ abhāsi: “Te hi sotthiṁ gamissanti, kacchevāmakase magā; Jhānāni upasampajja, ekodi nipakā satā”ti. “Te hi pāraṁ gamissanti, chetvā jālaṁva ambujo; Jhānāni upasampajja, appamattā raṇañjahā”ti.",
+  "english_sn_text": "At Sāvatthī. Then, late at night, the glorious godling Candimasa, lighting up the entire Jeta’s Grove, went up to the Buddha, bowed, stood to one side, and spoke this verse in the Buddha’s presence: “Like deer in a mosquito-free marsh, they will reach a safe place having entered the absorptions, unified, alert, and mindful.” “Like fish when the net is cut, they will reach the far shore having entered the absorptions, diligent, with strife discarded.”",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa1301-1400/sa1303_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa1301-1400/sa1303_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛住舍卫国祇树给孤独园。\n后夜分，有月自在天子容色绝妙，来诣佛所，稽首礼足，退坐一面；身诸光明遍照祇树给孤独园。\n月自在天子说偈：「彼当至究竟，如鹿依无蚊之草泽；若得正系念，一心善正受。」\n世尊说偈答：「彼当到彼岸，如鱼决其网；禅定具足住，不放逸、舍战诤，心常致喜乐。」\n月自在天子闻已欢喜，礼足即没。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在舍卫国祇树给孤独园。\n后夜分，有月自在天子容色绝妙，来到佛前，顶礼佛足，退坐一面；身上的光明遍照祇树给孤独园。\n月自在天子说偈：「他们将到达安稳处，如同鹿依止没有蚊子的草泽；若得正念系念，一心善入正受。」\n世尊说偈答：「他们将到彼岸，如同鱼挣破了网；具足安住禅定，不放逸、舍离战诤，心里常得喜乐。」\n月自在天子听完欢喜随喜，顶礼佛足，随即隐没不见。",
+  "notes": "本经 SC 平行表所列平行及 `raw_aligned_data.json` 内之巴利本文、Sujato 英译并用以厘定法义；求那跋陀罗汉本用于定位经文与传统术语。confidence=high：primary SN2.11（Candimasa）。据 SN：天子以无蚊泽中鹿喻禅定正念；佛以破网之鱼喻到彼岸，并强调不放逸、舍战诤（appamattā raṇañjahā）。汉「如蚊依从草」据 SN 校正为鹿依无蚊草泽。",
+  "review_status": "gold_reconstructed",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "high",
+  "prior_review_status": "needs_revision",
+  "reconstruction_basis": "汉「如蚊依从草」据 SN2.11 校正为鹿依无蚊草泽；佛答补不放逸、舍战诤。",
+  "similarity_to_source": 0.292,
+  "paragraph_parallel": true
+}

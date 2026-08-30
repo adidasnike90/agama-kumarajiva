@@ -1,0 +1,57 @@
+{
+  "id": "SA_596",
+  "uid": "sa596",
+  "title": "雜阿含經  卷第二十五  天相應  （596）  常驚",
+  "chinese_text": "如是我聞：\n\n一時，佛住舍衛國祇樹給孤獨園。\n\n時，有一天子，容色絕妙，於後夜時來詣佛所，稽首佛足，退坐一面。身諸光明遍照祇樹給孤獨園。\n\n時，彼天子說偈問佛：\n\n「此世多恐怖，　　眾生常惱亂，\n\n　已起者亦苦，　　未起亦當苦，\n\n　頗有離恐處，　　唯願慧眼說。」\n\n爾時，世尊說偈答言：\n\n「無有異苦行，　　無異伏諸根，\n\n　無異一切捨，　　而得見解脫。」\n\n時，彼天子復說偈言：\n\n「久見婆羅門，　　逮得般涅槃，\n\n　一切怖已過，　　永超世恩愛。」\n\n時，彼天子聞佛所說，歡喜隨喜，稽首佛足，即沒不現。",
+  "english_sa_text": "",
+  "parallels": [
+    {
+      "uid": "sa-2.181",
+      "acronym": "SA2 181",
+      "root_lang": "lzh",
+      "original_title": "常驚",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "sn2.17",
+      "acronym": "SN 2.17",
+      "root_lang": "pli",
+      "original_title": "Subrahmasutta",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    }
+  ],
+  "primary_sn_uid": "sn2.17",
+  "pali_text": "Ekamantaṁ ṭhito kho subrahmā devaputto bhagavantaṁ gāthāya ajjhabhāsi: “Niccaṁ utrastamidaṁ cittaṁ, niccaṁ ubbiggamidaṁ mano; Anuppannesu kicchesu, atho uppatitesu ca; Sace atthi anutrastaṁ, taṁ me akkhāhi pucchito”ti. “Nāññatra bojjhā tapasā, nāññatrindriyasaṁvarā; Nāññatra sabbanissaggā, sotthiṁ passāmi pāṇinan”ti. Idamavoca …pe… tatthevantaradhāyīti.",
+  "english_sn_text": "Standing to one side, the godling Subrahmā addressed the Buddha in verse: “This mind is always anxious, this mind is always stressed about stresses that haven’t arisen and those that have. If there is a state free of anxiety, please answer my question.” “Not without understanding and fervor, not without restraining the sense faculties, not without letting go of everything, do I see safety for living creatures.” That is what the Buddha said. … The godling vanished right there.",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa501-600/sa596_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa501-600/sa596_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛住舍卫国祇树给孤独园。\n后夜分，有天子来诣佛所，容色绝妙，稽首礼足，退坐一面；身诸光明遍照祇园。\n天子说偈问：「此世多恐怖，众生常恼乱，已起者亦苦，未起亦当苦，颇有离恐处，唯愿慧眼说。」\n世尊说偈答：「无有异苦行，无异伏诸根，无异一切舍，而得见解脱。」\n天子说偈：「久见婆罗门，逮得般涅槃，一切怖已过，永超世恩爱。」闻已欢喜，礼足即没。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在舍卫国祇树给孤独园。\n后夜分，有一位天子，容色绝妙，来到佛前，顶礼佛足，退坐一面；身上的光明遍照祇树给孤独园。\n天子说偈问：「此世多恐怖，众生常恼乱，已起者亦苦，未起亦当苦，颇有离恐处，唯愿慧眼说。」\n世尊说偈答：「无有异苦行，无异伏诸根，无异一切舍，而得见解脱。」\n天子又说偈：「久见婆罗门，逮得般涅槃，一切怖已过，永超世恩爱。」听完欢喜随喜，顶礼佛足，随即隐没不见。",
+  "notes": "本经 SC 平行表所列平行及 `raw_aligned_data.json` 内之巴利本文、Sujato 英译并用以厘定法义；求那跋陀罗汉本用于定位经文与传统术语。confidence=high：primary SN2.17（Subrahmā，无别道见安隐）。据 SN 校正：慧／摄根／一切舍三句；汉题「常惊」≈ utrasta。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "high",
+  "prior_review_status": "needs_revision",
+  "similarity_to_source": 0.316,
+  "paragraph_parallel": true,
+  "quality_gate_reasons": [
+    "sim_lit=0.524>=0.5",
+    "lit_mod_gap=0.297>=0.1"
+  ]
+}

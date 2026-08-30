@@ -1,0 +1,63 @@
+{
+  "id": "SA_949",
+  "uid": "sa949",
+  "title": "雜阿含經  卷第三十七  婆蹉外道相應  （949）  山",
+  "chinese_text": "如是我聞：\n\n一時，佛住舍衛國祇樹給孤獨園。\n\n爾時，世尊告諸比丘：「眾生無始生死，長夜輪轉，不知苦之本際。」\n\n時，有異比丘從坐起，整衣服，為佛作禮，右膝著地，合掌白佛：「世尊！劫長久如？」\n\n佛告比丘：「我能為汝說，汝難得知。」\n\n比丘白佛：「可說譬不？」\n\n佛言：「可說。比丘！如大石山，不斷不壞，方一由旬，若有士夫以迦尸劫貝百年一拂，拂之不已，石山遂盡，劫猶不竟。比丘！如是長久之劫，百千萬億劫受諸苦惱，乃至諸比丘！當如是學：『斷除諸有，莫令增長。』」\n\n佛說此經已，諸比丘聞佛所說，歡喜奉行。",
+  "english_sa_text": "",
+  "parallels": [
+    {
+      "uid": "ea52.4",
+      "acronym": "EA 52.4",
+      "root_lang": "lzh",
+      "original_title": "",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "sa-2.342",
+      "acronym": "SA2 342",
+      "root_lang": "lzh",
+      "original_title": "山",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "sn15.5",
+      "acronym": "SN 15.5",
+      "root_lang": "pli",
+      "original_title": "Pabbatasutta",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    }
+  ],
+  "primary_sn_uid": "sn15.5",
+  "pali_text": "Sāvatthiyaṁ viharati …pe… ārāme …pe…. Atha kho aññataro bhikkhu yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṁ abhivādetvā ekamantaṁ nisīdi. Ekamantaṁ nisinno kho so bhikkhu bhagavantaṁ etadavoca: “kīvadīgho nu kho, bhante, kappo”ti? “Dīgho kho, bhikkhu, kappo. So na sukaro saṅkhātuṁ ettakāni vassāni iti vā, ettakāni vassasatāni iti vā, ettakāni vassasahassāni iti vā, ettakāni vassasatasahassāni iti vā”ti. “Sakkā pana, bhante, upamaṁ kātun”ti? “Sakkā, bhikkhū”ti bhagavā avoca. “Seyyathāpi, bhikkhu, mahāselo pabbato yojanaṁ āyāmena yojanaṁ vitthārena yojanaṁ ubbedhena acchinno asusiro ekagghano. Tamenaṁ puriso vassasatassa vassasatassa accayena kāsikena vatthena sakiṁ sakiṁ parimajjeyya. Khippataraṁ kho so, bhikkhu, mahāselo pabbato iminā upakkamena parikkhayaṁ pariyādānaṁ gaccheyya, na tveva kappo. Evaṁ dīgho, bhikkhu, kappo. Evaṁ dīghānaṁ kho, bhikkhu, kappānaṁ neko kappo saṁsito, nekaṁ kappasataṁ saṁsitaṁ, nekaṁ kappasahassaṁ saṁsitaṁ, nekaṁ kappasatasahassaṁ saṁsitaṁ. Taṁ kissa hetu? Anamataggoyaṁ, bhikkhu, saṁsāro. Pubbā koṭi …pe… yāvañcidaṁ, bhikkhu, alameva sabbasaṅkhāresu nibbindituṁ, alaṁ virajjituṁ, alaṁ vimuccitun”ti. Pañcamaṁ.",
+  "english_sn_text": "At Sāvatthī. Then a mendicant went up to the Buddha, bowed, sat down to one side, and asked him, “Sir, how long is an eon?” “Mendicant, an eon is long. It’s not easy to calculate how many years, how many hundreds or thousands or hundreds of thousands of years it lasts.” “But sir, is it possible to give a simile?” “It’s possible,” said the Buddha. “Suppose there was a big rocky mountain, a league long, a league wide, and a league high, with no cracks or holes, one solid mass. And as each century passed someone would stroke it once with a fine cloth from Kāsi. By this means the big rocky mountain would be worn away before the eon comes to an end. That’s how long an eon is. And we’ve transmigrated through many such eons, many hundreds, many thousands, many hundreds of thousands. Why is that? This transmigration has no known beginning. … This is quite enough for you to become disillusioned, dispassionate, and freed regarding all conditions.”",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa901-1000/sa949_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa901-1000/sa949_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛住舍卫国祇树给孤独园。\n尔时世尊告诸比丘：「众生无始生死，无明所盖，爱系其颈，长夜轮转，不知苦之本际。」时有异比丘问：「劫长久如？」佛言：「我能说，汝难知。」「可说譬不？」「可说。如大石山，方一由旬，无缺无孔，坚固一体；有人百年以迦尸细布一拂，拂之不已，山尽而劫犹不竟。如是长劫，受诸苦恼无量。是故当如是学：『当勤精进，断除诸有，莫令增长。』」\n佛说此经已，诸比丘闻佛所说，欢喜奉行。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在舍卫国祇树给孤独园。\n那时世尊告诉比丘们：「众生无始以来生死，被无明覆盖、爱结系住脖子，长夜轮转，不知苦的本际。」当时有一位比丘问：「一劫有多久？」佛说：「我能说，你很难了知。」「可以打个比方吗？」「可以。好比一座大石山，长宽高各一由旬，没有缺口、没有孔洞，坚固成一块；有人每一百年用迦尸国的细布拂拭一次，不停地拂，山磨尽了，劫还没有结束。这样长的劫里，所受苦恼无量。所以应当这样学：『应当勤加精进，断除诸有，不要让它增长。』」\n佛说完这部经，比丘们听佛所说，都欢喜奉行。",
+  "notes": "本经 SC 平行表所列平行及 `raw_aligned_data.json` 内之巴利本文、Sujato 英译并用以厘定法义；求那跋陀罗汉本用于定位经文与传统术语。confidence=high：primary SN15.5 Pabbata；大石山＋迦尸细布百年一拂；劫犹不尽。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "high",
+  "prior_review_status": "needs_revision",
+  "similarity_to_source": 0.25,
+  "paragraph_parallel": true
+}

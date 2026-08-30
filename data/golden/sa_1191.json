@@ -1,0 +1,54 @@
+{
+  "id": "SA_1191",
+  "uid": "sa1191",
+  "title": "雜阿含經  卷第五十  梵天相應  （1191）  空閑處",
+  "chinese_text": "如是我聞：\n\n一時，佛在拘薩羅人間遊行，住止空閑無聚落處，與比丘眾夜宿其中。爾時，世尊為諸比丘說隨順阿練若法。\n\n時，娑婆世界主梵天王作是念：「今者世尊在拘薩羅人間遊行，住一空閑無聚落處，與諸大眾止宿空野。爾時，世尊為諸大眾說隨順空法，我今當往隨順讚嘆！」\n\n譬如力士屈伸臂頃，於梵天沒，住於佛前，稽首佛足，退坐一面，而說偈言：\n\n「習近邊林座，　　斷除諸煩惱；\n\n　若不樂空閑，　　入眾自攝護。\n\n　自調伏其心，　　家家行乞食，\n\n　攝持於諸根，　　專精繫心念；\n\n　然後習空閑，　　阿練若床座，\n\n　遠離諸恐怖，　　無畏安隱住。\n\n　若彼諸兇險，　　惡蛇眾毒害，\n\n　黑雲大闇冥；　　震雷曜電光，\n\n　離諸煩惱故，　　晝夜安隱住。\n\n　如我所聞法，　　乃至不究竟，\n\n　獨一修梵行，　　不畏千死魔，\n\n　若修於覺道，　　不畏於萬數。\n\n　一切須陀洹，　　或得斯陀含，\n\n　及阿那含者，　　其數亦無量，\n\n　不能定其數，　　恐怖於妄說。」\n\n時，娑婆世界主梵天王聞佛所說，歡喜隨喜已，為佛作禮，即沒不現。",
+  "english_sa_text": "",
+  "parallels": [
+    {
+      "uid": "sa-2.104",
+      "acronym": "SA2 104",
+      "root_lang": "lzh",
+      "original_title": "空閑處",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "sn6.13",
+      "acronym": "SN 6.13",
+      "root_lang": "pli",
+      "original_title": "Andhakavindasutta",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    }
+  ],
+  "primary_sn_uid": "sn6.13",
+  "pali_text": "Ekaṁ samayaṁ bhagavā māgadhesu viharati andhakavinde. Tena kho pana samayena bhagavā rattandhakāratimisāyaṁ abbhokāse nisinno hoti, devo ca ekamekaṁ phusāyati. Atha kho brahmā sahampati abhikkantāya rattiyā abhikkantavaṇṇo kevalakappaṁ andhakavindaṁ obhāsetvā yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṁ abhivādetvā ekamantaṁ aṭṭhāsi. Ekamantaṁ ṭhito kho brahmā sahampati bhagavato santike imā gāthāyo abhāsi: “Sevetha pantāni senāsanāni, Careyya saṁyojanavippamokkhā; Sace ratiṁ nādhigaccheyya tattha, Saṅghe vase rakkhitatto satīmā. Kulākulaṁ piṇḍikāya caranto, Indriyagutto nipako satimā; Sevetha pantāni senāsanāni, Bhayā pamutto abhaye vimutto. Yattha bheravā sarīsapā, Vijju sañcarati thanayati devo; Andhakāratimisāya rattiyā, Nisīdi tattha bhikkhu vigatalomahaṁso. Idañhi jātu me diṭṭhaṁ, nayidaṁ itihītihaṁ; Ekasmiṁ brahmacariyasmiṁ, sahassaṁ maccuhāyinaṁ. Bhiyyo pañcasatā sekkhā, dasā ca dasadhā dasa; Sabbe sotasamāpannā, atiracchānagāmino. Athāyaṁ itarā pajā, puññabhāgāti me mano; Saṅkhātuṁ nopi sakkomi, musāvādassa ottapan”ti.",
+  "english_sn_text": "At one time the Buddha was staying in the land of the Magadhans at Andhakavinda. Now at that time the Buddha was meditating in the open during the dark of night, while a gentle rain drizzled down. Then, late at night, the glorious divinity Sahampati, lighting up the entirety of Andhakavinda, went up to the Buddha, bowed, stood to one side, and recited these verses in the Buddha’s presence: “One should frequent secluded lodgings, and practice to be released from fetters. If you don’t find enjoyment there, live in the Saṅgha, self-protected and mindful. Walking for alms from family to family, with senses guarded, alert and mindful. One should frequent secluded lodgings, free of fear, freed in the fearless. Where dreadful reptiles slither, where the lightning flashes and the heavens thunder in the dark of the night; there meditates a mendicant, free of goosebumps. For this is ever seen by me, it isn’t just the testament of hearsay. Within a single spiritual dispensation there are a thousand conquerors of Death. And of trainees, more than five hundred, and ten times ten tens, are all stream-enterers, freed from rebirth in the animal realm. And as for the rest of folk who I think have shared in merit— I couldn’t even number them, for fear of speaking falsely.”",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa1101-1200/sa1191_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa1101-1200/sa1191_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛住摩揭陀安陀迦频陀。时世尊于闇夜露地而坐，天微雨。娑婆主梵天沙婆钵底夜已深，放光照遍安陀迦频陀，来诣佛所，稽首一面立，说偈：\n「当习近空闲边林床座，为求解脱诸结缚；若于彼处不得乐，当住僧中自护念。家家行乞护诸根，警觉正念而乞食；当习近空闲床座，离怖于无畏中解脱。恶蛇出没、电光雷震，闇夜之中；比丘坐彼，身毛不竖。此我亲见，非传闻说：于一梵行中，有千人已胜死魔；学人五百有余，又十十之十，皆须陀洹，不趣畜生。其余有分于福者，我不能数，恐成妄说。」\n梵天说已，欢喜随喜，即没不现。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在摩揭陀的安陀迦频陀。那时佛在黑夜里露地而坐，天正下着细雨。娑婆世界主梵天沙婆钵底夜已深，放出光明照遍安陀迦频陀，来到佛前，顶礼后站在一边，说偈：\n「应当常去空闲偏僻的住处，为了从结缚中解脱；若在那里找不到喜乐，就住在僧团中自我守护、保持正念。挨家挨户乞食，守护诸根，警觉而正念；应当常去空闲住处，脱离怖畏，在无畏中得解脱。恶蛇出没、电闪雷鸣的黑夜里；比丘坐在那里，毫毛也不竖起。这是我亲眼所见，不是道听途说：在同一份梵行之中，就有上千人征服了死神；学人五百有余，再加上十个十个的十，都是须陀洹，不再堕畜生。其余分有福德的人，我无法计数，怕说错了。」\n梵天说完，欢喜随喜，随即隐没不见。",
+  "notes": "本经 SC 平行表所列平行及 `raw_aligned_data.json` 内之巴利本文、Sujato 英译并用以厘定法义；求那跋陀罗汉本用于定位经文与传统术语。confidence=high：primary SN6.13 Andhakavindasutta。据 SN 校正：住处摩揭陀安陀迦频陀（汉作拘萨罗空闲）；夜雨露地；偈「僧中自护」「千人胜死」「须陀洹数」从巴利；删汉「乃至不究竟」等赘。",
+  "review_status": "gold_reconstructed",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "high",
+  "prior_review_status": "needs_revision",
+  "reconstruction_basis": "汉拘萨罗空闲→SN6.13 摩揭陀安陀迦频陀＋夜雨露地偈序。",
+  "similarity_to_source": 0.027,
+  "paragraph_parallel": true
+}

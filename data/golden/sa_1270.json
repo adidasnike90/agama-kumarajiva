@@ -1,0 +1,43 @@
+{
+  "id": "SA_1270",
+  "uid": "sa1270",
+  "title": "雜阿含經  卷第五十  雜相應  （1270）  拘迦尼",
+  "chinese_text": "如是我聞：\n\n一時，佛住王舍城山谷精舍。\n\n時，有拘迦尼，是光明天女，容色絕妙，於後夜時來詣佛所，稽首佛足，身諸光明遍照山谷。\n\n時，拘迦尼天女而說偈言：\n\n「其心不為惡，　　及身口世間，\n\n　五欲悉虛空，　　正智正繫念。\n\n　不習近眾苦，　　非義和合者。」\n\n佛告天女：「如是，如是。\n\n「其心不為惡，　　及身口世間，\n\n　五欲悉虛空，　　正智正繫念。\n\n　不習近眾苦，　　非義和合者。」\n\n時，拘迦那娑天女聞佛所說，歡喜隨喜，稽首佛足，即沒不現。\n\n爾時，世尊夜過晨朝，入於僧中，敷尼師壇，於大眾前坐，告諸比丘：「昨日夜後，有拘迦那天女，容色絕妙，來詣我所，稽首我足，退坐一面而說偈言：\n\n「其心不為惡，　　及身口世間，\n\n　五欲悉虛空，　　正智正繫念，\n\n　不習近眾苦，　　非義和合者。」\n\n我即答言：「如是，天女！如是，天女！\n\n「其心不為惡，　　及身口世間，\n\n　五欲悉虛空，　　正智正繫念。\n\n　不習近眾苦，　　非義和合者。\n\n「說是語時，拘迦尼天女聞我所說，歡喜隨喜，稽首我足，即沒不現。」\n\n佛說此經已，諸比丘聞佛所說，歡喜奉行。",
+  "english_sa_text": "",
+  "parallels": [
+    {
+      "uid": "sa-2.269",
+      "acronym": "SA2 269",
+      "root_lang": "lzh",
+      "original_title": "拘迦尼",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    }
+  ],
+  "primary_sn_uid": null,
+  "pali_text": "",
+  "english_sn_text": "",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa1201-1300/sa1270_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa1201-1300/sa1270_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛住王舍城山谷精舍。\n时有拘迦尼光明天女，容色绝妙，于后夜来诣佛所，稽首佛足；身诸光明遍照山谷。即说偈言：「心不作诸恶，身口亦复然；五欲观如空，正智善系念。不习近众苦，不与非义合。」\n佛言：「如是，如是。」即述其偈而印可之。天女闻已，欢喜随喜，稽首佛足，即没不现。\n夜过晨朝，佛入僧中，告诸比丘，具说昨夜天女来偈及己所印可。\n佛说此经已，诸比丘闻佛所说，欢喜奉行。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在王舍城山谷精舍。\n那时有位拘迦尼光明天女，容色绝妙，后夜来到佛前，稽首佛足；身上的光明照遍山谷。她说偈道：「心不作恶，身口也不作恶；五欲看作空虚，正智而善系念。不亲近招来众苦的事，不与无益的事和合。」\n佛说：「正是这样。」便复述她的偈，表示印可。天女听完，欢喜随喜，稽首佛足，随即隐没不见。\n夜过清晨，佛进入僧众中，告诉比丘们，把昨夜天女来偈和自己所印可的事都说了。\n佛说完这部经，比丘们听佛所说，都欢喜奉行。",
+  "notes": "SC 于本经未列可靠巴利平行，故唯以汉本为底，参同相应之巴利定型语厘义；依项目规约「无可靠平行时 confidence 降为 medium/low」。confidence=medium：SC 仅 SA2 平行，无可靠巴利；依汉本雅化：心口身不作恶、五欲如空、正智系念。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "medium",
+  "prior_review_status": "needs_revision",
+  "similarity_to_source": 0.219,
+  "paragraph_parallel": true
+}

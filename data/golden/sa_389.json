@@ -1,0 +1,43 @@
+{
+  "id": "SA_389",
+  "uid": "sa389",
+  "title": "雜阿含經  卷第十六  諦相應  （389）  大醫王",
+  "chinese_text": "如是我聞：\n\n一時，佛住波羅㮈國仙人住處鹿野苑中。\n\n爾時，世尊告諸比丘：「有四法成就，名曰大醫王者，所應王之具、王之分。何等為四？一者善知病，二者善知病源，三者善知病對治，四者善知治病已，當來更不動發。云何名良醫善知病？謂良醫善知如是如是種種病，是名良醫善知病。云何良醫善知病源？謂良醫善知此病因風起、癖陰起、涎唾起、眾冷起、因現事起、時節起，是名良醫善知病源。云何良醫善知病對治？謂良醫善知種種病，應塗藥、應吐、應下、應灌鼻、應熏、應取汗。如是比種種對治，是名良醫善知對治。云何良醫善知治病已，於未來世永不動發？謂良醫善治種種病，令究竟除，於未來世永不復起，是名良醫善知治病，更不動發。\n\n「如來、應、等正覺為大醫王，成就四德，療眾生病，亦復如是。云何為四？謂如來知此是苦聖諦如實知、此是苦集聖諦如實知、此是苦滅聖諦如實知、此是苦滅道跡聖諦如實知。諸比丘！彼世間良醫於生根本對治不如實知，老、病、死、憂、悲、惱、苦根本對治不如實知，如來、應、等正覺為大醫王，於生根本知對治如實知，於老、病、死、憂、悲、惱、苦根本對治如實知，是故如來、應、等正覺名大醫王。」\n\n佛說此經已，諸比丘聞佛所說，歡喜奉行。",
+  "english_sa_text": "",
+  "parallels": [
+    {
+      "uid": "t219",
+      "acronym": "T 219",
+      "root_lang": "lzh",
+      "original_title": "醫喻",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    }
+  ],
+  "primary_sn_uid": null,
+  "pali_text": "",
+  "english_sn_text": "",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa301-400/sa389_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa301-400/sa389_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛在波罗㮈仙人住处鹿野苑中。\n尔时，世尊告诸比丘：「成就四法，名曰大医王，具王者之所应、王者之分。何等为四？一、善知病；二、善知病源；三、善知对治；四、善知治已，当来更不动发。」\n「云何善知病？谓如实知如是种种病。云何善知病源？谓知因风、痰阴、涎唾、众冷，及现事、时节等而起。云何善知对治？谓应涂、应吐、应下、应灌鼻、应熏、应取汗——如是比。云何治已当来不动？谓究竟除愈，未来永不起。」\n「如來、应、等正觉为大医王，成就四德，疗众生病，亦复如是——如实知苦圣谛、苦集圣谛、苦灭圣谛、苦灭道迹圣谛。」\n「世间良医于生、老、病、死、忧、悲、恼、苦之根本对治不如实知；如來于生根本及老、病、死、忧、悲、恼、苦根本对治皆如实知——是故名为大医王。」\n佛说此经已，诸比丘闻佛所说，欢喜奉行。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在波罗㮈仙人住处鹿野苑中。\n那时，世尊告诉比丘们：「成就四种法，就叫大医王，具备为王者所应有的资格与职分。哪四种？一、善于了知病；二、善于了知病的根源；三、善于了知对治；四、善于了知治好以后，将来不会再发作。」\n「什么叫善于了知病？就是如实知道各种病。什么叫善于了知病源？知道因风、痰、涎唾、众冷，以及眼前的事、时节等而起。什么叫善于对治？该涂的涂、该吐的吐、该下的下、该灌鼻、该熏、该发汗——这一类。什么叫治好后将来不动发？就是彻底治好，未来永远不再起。」\n「如来、应供、等正觉是大医王，成就这四种德，治疗众生的病，也是这样——如实知道苦圣谛、苦集圣谛、苦灭圣谛、苦灭道迹圣谛。」\n「世间的良医对生、老、病、死、忧、悲、恼、苦的根本对治不能如实了知；如来对生的根本，以及对老、病、死、忧、悲、恼、苦的根本对治都能如实了知——所以名叫大医王。」\n佛说完这部经，比丘们听佛所说，都欢喜奉行。",
+  "notes": "SC 未列巴利平行，唯有汉译 T219《医喻》等；四谛配四医德为早期譬喻，非法身／如来藏医王义。confidence=medium。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "medium",
+  "prior_review_status": "needs_revision",
+  "similarity_to_source": 0.241,
+  "paragraph_parallel": true
+}

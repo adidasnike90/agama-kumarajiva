@@ -1,0 +1,74 @@
+{
+  "id": "SA_804",
+  "uid": "sa804",
+  "title": "雜阿含經  卷第三十  安那般那念相應  （804）  斷覺想",
+  "chinese_text": "如是我聞：\n\n一時，佛住舍衛國祇樹給孤獨園。\n\n爾時，世尊告諸比丘：「當修安那般那念。安那般那念修習多修習者，斷諸覺想。云何安那般那念修習多修習斷諸覺想？若比丘依止聚落、城邑住……」如上廣說，乃至「於出息滅善學，是名安那般那念修習多修習斷諸覺想。」\n\n佛說此經已，諸比丘聞佛所說，歡喜奉行。\n\n如斷覺想，如是不動搖，得大果大福利，如是得甘露、究竟甘露，得二果、四果、七果，一一經亦如上說。",
+  "english_sa_text": "",
+  "parallels": [
+    {
+      "uid": "sn54.5",
+      "acronym": "SN 54.5",
+      "root_lang": "pli",
+      "original_title": "Dutiyaphalasutta",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "sn54.4",
+      "acronym": "SN 54.4",
+      "root_lang": "pli",
+      "original_title": "Paṭhamaphalasutta",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "sn54.3",
+      "acronym": "SN 54.3",
+      "root_lang": "pli",
+      "original_title": "Suddhikasutta",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "sn54.2",
+      "acronym": "SN 54.2",
+      "root_lang": "pli",
+      "original_title": "Bojjhaṅgasutta",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    }
+  ],
+  "primary_sn_uid": "sn54.2",
+  "pali_text": "“Ānāpānassati, bhikkhave, bhāvitā bahulīkatā mahapphalā hoti mahānisaṁsā. Kathaṁ bhāvitā ca, bhikkhave, ānāpānassati kathaṁ bahulīkatā mahapphalā hoti mahānisaṁsā? Idha, bhikkhave, bhikkhu ānāpānassatisahagataṁ satisambojjhaṅgaṁ bhāveti vivekanissitaṁ virāganissitaṁ nirodhanissitaṁ vossaggapariṇāmiṁ, ānāpānassatisahagataṁ dhammavicayasambojjhaṅgaṁ bhāveti …pe… ānāpānassatisahagataṁ upekkhāsambojjhaṅgaṁ bhāveti vivekanissitaṁ virāganissitaṁ nirodhanissitaṁ vossaggapariṇāmiṁ. Evaṁ bhāvitā kho, bhikkhave, ānāpānassati evaṁ bahulīkatā mahapphalā hoti mahānisaṁsā”ti. Dutiyaṁ.",
+  "english_sn_text": "“Mendicants, when mindfulness of breathing is developed and cultivated it’s very fruitful and beneficial. And how is mindfulness of breathing developed and cultivated to be very fruitful and beneficial? It’s when a mendicant develops mindfulness of breathing together with the awakening factors of mindfulness, investigation of principles, energy, rapture, tranquility, immersion, and equanimity, which rely on seclusion, fading away, and cessation, and ripen as letting go. Mindfulness of breathing, when developed and cultivated in this way, is very fruitful and beneficial.”",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa801-900/sa804_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa801-900/sa804_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛住舍卫国祇树给孤独园。\n尔时世尊告诸比丘：「当修安那般那念。安那般那念修习多修习者，能断诸觉想。云何修习多修习能断诸觉想？若比丘依止聚落、城邑，晨朝著衣持钵入村乞食，善护其身，守诸根门，善系心住。乞食已还，举衣钵、洗足已，入林中闲房树下，或空露地，端身正坐，系念在前。断世贪爱，离欲清净；瞋恚、昏沉睡眠、掉举后悔、疑皆断，度诸疑惑，于善法心得决定。远离五盖——于心令慧力羸、为障碍分、不趣涅槃者。正念而入息，正念而出息。入息长，如实知『入息长』；出息长，如实知『出息长』。入息短，如实知『入息短』；出息短，如实知『出息短』。学『觉知一切身而入息』，学『觉知一切身而出息』；学『止息身行而入息』，学『止息身行而出息』。学『觉知喜而入息』，学『觉知喜而出息』；学『觉知乐而入息』，学『觉知乐而出息』；学『觉知心行而入息』，学『觉知心行而出息』；学『止息心行而入息』，学『止息心行而出息』。学『觉知心而入息』，学『觉知心而出息』；学『悦心而入息』，学『悦心而出息』；学『定心而入息』，学『定心而出息』；学『解脱心而入息』，学『解脱心而出息』。学『观察无常而入息』，学『观察无常而出息』；学『观察离贪而入息』，学『观察离贪而出息』；学『观察灭而入息』，学『观察灭而出息』；学『观察舍遣而入息』，学『观察舍遣而出息』。是名安那般那念修习多修习，能断诸觉想。」\n佛说此经已，诸比丘闻佛所说，欢喜奉行。\n如断觉想，如是心不倾动，得大果大福利，得甘露、究竟甘露，得二果、四果、七果——一一经亦如上十六行说。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在舍卫国祇树给孤独园。\n那时世尊告诉比丘们：「应当修习入出息念。入出息念修习多多修习，就能断除各种觉想。怎样修习多多修习就能断除各种觉想？如果比丘依止聚落、城邑，清晨著衣持钵入村乞食，善护自身，守住根门，善系其心。乞食回来，收衣钵、洗足后，入林中闲房树下，或空露地，端身正坐，把念安住在前。断除世间贪爱，离欲清净；瞋恚、昏沉睡眠、掉举后悔、疑都断除，度过疑惑，于善法心得决定。远离五盖——那些使心中慧力衰弱、成障碍分、不趋向涅槃的。正念地入息，正念地出息。入息长，如实知道『入息长』；出息长，如实知道『出息长』。入息短，如实知道『入息短』；出息短，如实知道『出息短』。学着『觉知整个身体而入息』，学着『觉知整个身体而出息』；学着『让身行止息而入息』，学着『让身行止息而出息』。学着『觉知喜而入息』，学着『觉知喜而出息』；学着『觉知乐而入息』，学着『觉知乐而出息』；学着『觉知心行而入息』，学着『觉知心行而出息』；学着『让心行止息而入息』，学着『让心行止息而出息』。学着『觉知心而入息』，学着『觉知心而出息』；学着『使心喜悦而入息』，学着『使心喜悦而出息』；学着『使心入定而入息』，学着『使心入定而出息』；学着『使心解脱而入息』，学着『使心解脱而出息』。学着『观察无常而入息』，学着『观察无常而出息』；学着『观察离贪而入息』，学着『观察离贪而出息』；学着『观察灭而入息』，学着『观察灭而出息』；学着『观察舍遣而入息』，学着『观察舍遣而出息』。这叫做入出息念修习多多修习，能断除各种觉想。」\n佛说完这部经，比丘们听佛所说，都欢喜奉行。\n如同断除觉想，心不倾动、得大果大福利、得甘露与究竟甘露、得二果、四果、七果——每一部经也都按上面的十六行来说明。",
+  "notes": "本经 SC 平行表所列平行及 `raw_aligned_data.json` 内之巴利本文、Sujato 英译并用以厘定法义；求那跋陀罗汉本用于定位经文与传统术语。confidence=high：primary SN54.2；觉想≈vitakka（寻）。末段果利异名 peyyāla，据 SN54.3–5 等纲补。reconstruction：果利异名段。",
+  "review_status": "gold_reconstructed",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "high",
+  "prior_review_status": "needs_revision",
+  "reconstruction_basis": "断觉想末：不动／大果／甘露／二四五七果 peyyāla",
+  "similarity_to_source": 0.229,
+  "paragraph_parallel": true
+}

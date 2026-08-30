@@ -1,0 +1,28 @@
+{
+  "id": "SA_35",
+  "uid": "sa35",
+  "title": "雜阿含經  卷第二  陰相應  （三五）  三正士",
+  "chinese_text": "如是我聞：一時，佛住支提，竹園精舍。爾時，有三正士出家未久。所謂尊者阿㝹律陀，尊者難提，尊者金毘羅。爾時，世尊知彼心中所念，而爲教誡：「比丘，此心，此意，此識。當思惟此。莫思惟此。斷此欲、斷此色，身作證具足住。比丘，寧有色若常、不變、易正住，不？」比丘白佛：「不也，世尊。」佛告比丘：「善哉，善哉。色是無常、變易之法。厭，離欲，滅，寂，沒。如是，色從本以來一切無常、苦、變易法。如是知已，縁彼色生諸漏害、熾然、憂惱。皆悉斷滅。斷滅已，無所著。無所著已，安樂住安樂住已，得般涅槃。受、想、行、識亦復如是。」佛説此經時，三正士不起諸漏，心得解脱。佛説此經已，諸比丘聞佛所説歡喜，奉行。",
+  "english_sa_text": "Thus have I heard: One time, the Buddha was staying at the Bamboo Park Monastery in Cedi. At the time, there were three upright gentlemen who had left home not long before. They were Venerable Aniruddha, Venerable Nandika, and Venerable Kimbila. Knowing what they were thinking in their minds, the Bhagavān then instructed them: “Monks, this is mind, this is reasoning, this is consciousness. This should be contemplated. Don’t contemplate that. Stopping this desire and stopping this form, a person fully abides in realization. Monks, could there be form that’s permanent, unchanging, and a correct abode?” The monks said to the Buddha, “No, Bhagavān.” The Buddha told the monks, “Good, good! Form is impermanent and liable to change. Tiring of and parting with desire [for form], it ceases, become tranquil, and disappears. Thus, since the distant past, all forms have been impermanent, painful, and liable to change. Known in this way, the conditioning of those forms produces the contaminants, which are harmful, burning, and grievous. Destroy them all. Once they are destroyed, there’s no attachment. Once there’s no attachment, you’ll live in well-being. Once you live in well-being, you’ll attain parinirvāṇa. Feelings, perceptions, volitions, and consciousness are likewise.” When the Buddha spoke this sūtra, the contaminants didn’t arise in those three upright gentlemen, and their minds were liberated. After the Buddha spoke this sūtra, the monks who heard what the Buddha taught rejoiced and approved.",
+  "parallels": [],
+  "primary_sn_uid": null,
+  "pali_text": "",
+  "english_sn_text": "",
+  "errors": [],
+  "kumarajiva_style_text": "如是我闻：一时佛在支提竹园精舍。\n尔时有三正士出家未久：尊者阿那律陀、尊者难提、尊者金毗罗。世尊知彼心中所念，而为教诫：比丘，此心、此意、此识——当思惟此，莫思惟此；断此欲、断此色，身作证具足住。比丘，宁有色若常、不变易、正住不？比丘白佛：不也，世尊。佛告比丘：善哉，善哉！色是无常、变易之法。厌、离欲、灭、寂、没。如是，色从本以来一切无常、苦、变易法。如是知已，缘彼色生诸漏害、炽然、忧恼，皆悉断灭；断灭已无所著；无所著已安乐住；安乐住已，得般涅槃。受、想、行、识亦复如是。\n佛说此经时，三正士不起诸漏，心得解脱。诸比丘闻佛所说，欢喜奉行。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在支提竹园精舍。\n那时有三位正士出家不久：尊者阿那律陀、尊者难提、尊者金毗罗。世尊知道他们心中所念，便加以教诫：比丘们，对于这心、这意、这识——应当这样思惟，不应当那样思惟；断除这样的欲、断除这样的色，亲自作证而具足安住。比丘们，难道有色是常住、不变易、安住不动的吗？比丘们答：没有，世尊。佛说：很好，很好！色是无常、变易之法。应当厌离、离欲、灭尽、寂静、消没。就是这样，色从本以来一切都是无常、苦、变易之法。这样知道以后，缘于色而生起的诸漏之害、炽然、忧恼，就全都断灭；断灭了就无所著；无所著就安乐住；安乐住了，便得般涅槃。受、想、行、识也是一样。\n佛说这部经时，三位正士不起诸漏，心得解脱。比丘们听佛所说，都欢喜奉行。",
+  "notes": "信：三正士（阿那律／难提／金毗罗）；「此心此意此识」与「当思惟此／莫思惟此」保留。「阿㝹律陀」规范作常见「阿那律陀」。无 SC 主平行。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "confidence": "high",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "prior_review_status": "gold",
+  "revision_reason": "信标准已纠正为对巴利/梵本之义；旧稿偏忠于求那跋陀罗字句，待按平行重做罗什风",
+  "similarity_to_source": 0.405
+}

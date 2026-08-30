@@ -1,0 +1,74 @@
+{
+  "id": "SA_1043",
+  "uid": "sa1043",
+  "title": "雜阿含經  卷第四十四  業報相應  （1043）  鞞聞摩",
+  "chinese_text": "如是我聞：\n\n一時，佛在拘薩羅國人間遊行，住鞞羅磨聚落北身恕林中。\n\n時，鞞羅磨聚落中，婆羅門長者聞世尊住鞞羅磨聚落身恕林中，聞已，乘白馬車，多將翼從，持金斗、傘蓋、金澡瓶，出鞞羅磨聚落，詣身恕林。至道口，下車步進，入於園門，至世尊前，面相問訊慰勞已，退坐一面，白佛言：「瞿曇！何因、何緣有人命終生地獄中，乃至生天？……」如上修多羅廣說。\n\n時，鞞羅磨婆羅門聞佛所說，歡喜隨喜，從坐起而去。",
+  "english_sa_text": "",
+  "parallels": [
+    {
+      "uid": "mn41",
+      "acronym": "MN 41",
+      "root_lang": "pli",
+      "original_title": "Sāleyyakasutta",
+      "translated_title": "The Brahmins of Sālā",
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "mn42",
+      "acronym": "MN 42",
+      "root_lang": "pli",
+      "original_title": "Verañjakasutta",
+      "translated_title": "Discourse to the People of Verañjā",
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "sa1042",
+      "acronym": "SA 1042",
+      "root_lang": "lzh",
+      "original_title": "鞞聞摩",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "an2.1-10",
+      "acronym": "AN 2.1–10",
+      "root_lang": "pli",
+      "original_title": "Kammakaraṇavagga",
+      "translated_title": "",
+      "type": "full",
+      "resembling": true,
+      "remark": null
+    }
+  ],
+  "primary_sn_uid": null,
+  "pali_text": "",
+  "english_sn_text": "",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa1001-1100/sa1043_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa1001-1100/sa1043_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛在拘萨罗国人间游行，住鞞罗磨聚落北身恕林中。\n时鞞罗磨聚落婆罗门、长者乘白马车，持金斗伞盖澡瓶，出村诣林；至道口下车步入，问讯退坐。\n白言：「瞿昙！何因命终生地狱，乃至生天？」佛即为说：行杀生、不与取、邪淫、妄语、两舌、恶口、绮语、贪、瞋、邪见生地狱；行不杀生、不与取、不邪淫、不妄语、不两舌、不恶口、不绮语、无贪、无瞋、正见生天上，及大姓、诸天、禅定、梵世、沙门果所愿皆得——如上鞞闻摩经广说。\n闻已欢喜随喜，从坐起去。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛在拘萨罗国人间游行，住在鞞罗磨聚落北身恕林中。\n当时鞞罗磨聚落的婆罗门和长者乘坐白马车，带着金斗、伞盖、澡瓶，出村到林中；到路口下车步行进入，问讯后退坐。\n问道：「瞿昙！什么因缘命终生地狱，乃至生天？」佛就为他们说：做杀生、不与取、邪淫、妄语、两舌、恶口、绮语、贪、瞋、邪见生地狱；做不杀生、不与取、不邪淫、不妄语、不两舌、不恶口、不绮语、无贪、无瞋、正见生天上，以及大家族、诸天、禅定、梵世、沙门果等所愿都能得到——如同前面鞞闻摩经中广说。\n听完欢喜随喜，起身离去。",
+  "notes": "本经 SC 平行表所列平行及 `raw_aligned_data.json` 内之巴利本文、Sujato 英译并用以厘定法义；求那跋陀罗汉本用于定位经文与传统术语。confidence=high：gold_reconstructed——汉「如上修多罗广说」；人物迎佛仪式异于 SA_1042，法义同 MN41／42。reconstruction：十业生趣纲。",
+  "review_status": "gold_reconstructed",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "high",
+  "prior_review_status": "needs_revision",
+  "reconstruction_basis": "「如上广说」→ SA_1042／MN41 十业生趣纲",
+  "similarity_to_source": 0.094,
+  "paragraph_parallel": true
+}

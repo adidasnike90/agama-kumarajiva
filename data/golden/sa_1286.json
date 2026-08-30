@@ -1,0 +1,55 @@
+{
+  "id": "SA_1286",
+  "uid": "sa1286",
+  "title": "雜阿含經  卷第五十  雜相應  （1286）  種別",
+  "chinese_text": "如是我聞：\n\n一時，佛住舍衛國祇樹給孤獨園。\n\n時，有天子容色絕妙，於後夜時來詣佛所，稽首佛足，退坐一面。其身光明遍照祇樹給孤獨園。\n\n時，彼天子說偈問佛：\n\n「若人行放逸，　　愚癡離惡慧，\n\n　禪思不放逸，　　疾得盡諸漏。」\n\n爾時，世尊說偈答言：\n\n「非世間眾事，　　是則之為欲，\n\n　心法馳覺想，　　是名士夫欲。\n\n　世間種種事，　　常在於世間，\n\n　智慧修禪思，　　愛欲永潛伏。\n\n　信為士夫伴，　　不信則不度，\n\n　信增其名稱，　　命終得生天。\n\n　於身虛空想，　　名色不堅固，\n\n　不著名色者，　　遠離於積聚。\n\n　觀此真實義，　　如解脫哀愍，\n\n　由斯智慧故，　　世稱歎供養。\n\n　能斷眾雜相，　　超絕生死流，\n\n　超度諸流已，　　是名為比丘。」\n\n時，彼天子復說偈言：\n\n「久見婆羅門，　　逮得般涅槃，\n\n　一切怖已過，　　永超世恩愛。」\n\n於是，天子聞佛所說，歡喜隨喜，稽首佛足，即沒不現。",
+  "english_sa_text": "",
+  "parallels": [
+    {
+      "uid": "sa-2.284",
+      "acronym": "SA2 284",
+      "root_lang": "lzh",
+      "original_title": "種別",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "sn1.36",
+      "acronym": "SN 1.36",
+      "root_lang": "pli",
+      "original_title": "Saddhāsutta",
+      "translated_title": "Faith",
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    }
+  ],
+  "primary_sn_uid": "sn1.36",
+  "pali_text": "Ekaṁ samayaṁ bhagavā sāvatthiyaṁ viharati jetavane anāthapiṇḍikassa ārāme. Atha kho sambahulā satullapakāyikā devatāyo abhikkantāya rattiyā abhikkantavaṇṇā kevalakappaṁ jetavanaṁ obhāsetvā yena bhagavā tenupasaṅkamiṁsu; upasaṅkamitvā bhagavantaṁ abhivādetvā ekamantaṁ aṭṭhaṁsu. Ekamantaṁ ṭhitā kho ekā devatā bhagavato santike imaṁ gāthaṁ abhāsi: “Saddhā dutiyā purisassa hoti, No ce assaddhiyaṁ avatiṭṭhati; Yaso ca kittī ca tatvassa hoti, Saggañca so gacchati sarīraṁ vihāyā”ti. Atha kho aparā devatā bhagavato santike imā gāthāyo abhāsi: “Kodhaṁ jahe vippajaheyya mānaṁ, Saṁyojanaṁ sabbamatikkameyya; Taṁ nāmarūpasmimasajjamānaṁ, Akiñcanaṁ nānupatanti saṅgā”ti. “Pamādamanuyuñjanti, bālā dummedhino janā; Appamādañca medhāvī, dhanaṁ seṭṭhaṁva rakkhati. Mā pamādamanuyuñjetha, mā kāmarati santhavaṁ; Appamatto hi jhāyanto, pappoti paramaṁ sukhan”ti.",
+  "english_sn_text": "At one time the Buddha was staying near Sāvatthī in Jeta’s Grove, Anāthapiṇḍika’s monastery. Then, late at night, several glorious deities of the host of a hundred felicities, lighting up the entire Jeta’s Grove, went up to the Buddha, bowed, and stood to one side. Standing to one side, one deity spoke this verse in the Buddha’s presence: “Faith is a person’s partner. If faithlessness doesn’t linger, fame and renown are theirs, and when they discard this corpse they go to heaven.” Then another deity recited these verses in the Buddha’s presence: “Give up anger, get rid of conceit, and get past all the fetters. Chains don’t torment one who has nothing, not clinging to name and form.” “Fools and simpletons devote themselves to negligence. But the wise protect diligence as their best treasure. Don’t devote yourself to negligence, or delight in erotic intimacy. For if you’re diligent and practice absorption, you’ll attain ultimate happiness.”",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa1201-1300/sa1286_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa1201-1300/sa1286_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛住舍卫国祇树给孤独园。\n后夜分，有天子容色绝妙，来诣佛所，稽首礼足，退坐一面；身诸光明遍照祇树给孤独园。\n天子说偈：「愚耽放逸；智护不放逸，如护最上财。勿乐放逸、勿耽欲乐；不放逸而静虑，疾尽诸漏。」\n佛答：「世间众事非即是欲；心驰觉想，乃名士夫欲。信为良伴，不信则不度；舍瞋离慢、超诸结缚；不著名色，远离积聚；能断杂相，超生死流——是名比丘。」\n天子复说偈：「久见婆罗门，逮得般涅槃，一切怖已过，永超世恩爱。」闻已欢喜，礼足即没。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在舍卫国祇树给孤独园。\n后夜分，有一位天子容色绝妙，来到佛前，顶礼佛足，退坐一面；身上的光明遍照祇树给孤独园。\n天子说偈：「愚人耽于放逸；智者防护不放逸，如同守护最上的财宝。不要乐于放逸、不要耽于欲乐；不放逸而静虑，很快就能尽诸漏。」\n佛答：「世间种种事物本身不是欲；心驰骋于觉想，才叫做人的欲。信是好伴侣，不信就不能度；舍瞋离慢、超越结缚；不著名色，远离积聚；能断除杂相，超出生死流——这才叫做比丘。」\n天子又说偈：「久见婆罗门，逮得般涅槃，一切怖惧已过，永超世间恩爱。」听完欢喜随喜，顶礼佛足，随即隐没不见。",
+  "notes": "本经 SC 平行表所列平行及 `raw_aligned_data.json` 内之巴利本文、Sujato 英译并用以厘定法义；求那跋陀罗汉本用于定位经文与传统术语。confidence=high：primary SN1.36（Nānātitthiyā／Satullapakāyikā 类）。据 SN：不放逸为宝；欲在心不在事；信为伴；不著名色。汉单天子框，巴利多天子迭颂；压缩从汉，义从 SN。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "warn",
+    "issues": [],
+    "warnings": [
+      "mark_not_in_output:空"
+    ],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "high",
+  "prior_review_status": "needs_revision",
+  "similarity_to_source": 0.151,
+  "paragraph_parallel": true
+}

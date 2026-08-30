@@ -1,0 +1,76 @@
+{
+  "id": "SA_26",
+  "uid": "sa26",
+  "title": "雜阿含經  卷第一  陰相應  （二六）  善說法",
+  "chinese_text": "如是我聞：一時，佛住舍衛國、祇樹、給孤獨園。爾時，有異比丘來詣佛所。頭面禮足，却住一面，白佛言：「如世尊所說『法師』。云何名為法師？」佛告比丘：「善哉，善哉！汝今欲知如來所說法師義耶？」比丘白佛：「唯然，世尊。」佛告比丘：「諦聽，善思。當為汝說。」佛告比丘：「若於色說是生厭、離欲、滅盡、寂靜法者，是名法師。若於受⋯想⋯行⋯識說是生厭、離欲、滅盡、寂靜法者，是名法師。是名如來所說法師。」時，彼比丘聞佛所說踊躍，歡喜。作禮而去。",
+  "english_sa_text": "Thus I have heard: One time, the Buddha was staying at Anāthapiṇḍada’s Park in Jeta’s Grove of Śrāvastī. It was then that a certain monk came to visit the Buddha. He bowed to the Buddha, withdrew to stand at one side, and said to the Buddha, “The Bhagavān says ‘Dharma teacher.’ What is a Dharma teacher?” The Buddha asked that monk, “Good, good! Do you want now to know about the meaning of what the Tathāgata says is a ‘Dharma teacher’?” That monk said to the Buddha, “Indeed, Bhagavān.” The Buddha told the monk, “[Listen closely!] Listen closely, and consider it well. I will explain it for you.” The Buddha told the monk, “If someone teaches about becoming disillusioned with form, becoming free of desire for it, completely ceasing it, and the state of peace, they are called a Dharma teacher. If they teach about becoming disillusioned with feeling … conception … volition … awareness, becoming free of desire for it, completely ceasing it, and the state of peace, they are called a Dharma teacher. This is what the Tathāgata calls a Dharma teacher.” When that monk heard what the Buddha taught, he celebrated and rejoiced. He then bowed and departed.",
+  "parallels": [
+    {
+      "uid": "sn22.116",
+      "acronym": "SN 22.116",
+      "root_lang": "pli",
+      "original_title": "Dutiyadhammakathikasutta",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "sn22.115",
+      "acronym": "SN 22.115",
+      "root_lang": "pli",
+      "original_title": "Dhammakathikasutta",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "sa29",
+      "acronym": "SA 29",
+      "root_lang": "lzh",
+      "original_title": "三密離提",
+      "translated_title": "Discourse on Samiddhi Asking How to Speak as a Dharma Teacher",
+      "type": "full",
+      "resembling": true,
+      "remark": null
+    },
+    {
+      "uid": "sa28",
+      "acronym": "SA 28",
+      "root_lang": "lzh",
+      "original_title": "見法涅槃",
+      "translated_title": "Discourse on Nirvāṇa",
+      "type": "full",
+      "resembling": true,
+      "remark": null
+    },
+    {
+      "uid": "sa1-100",
+      "acronym": null,
+      "root_lang": "lzh",
+      "original_title": "Saṁyuktāgama 1–100",
+      "translated_title": null,
+      "type": "full",
+      "resembling": true,
+      "remark": null
+    }
+  ],
+  "primary_sn_uid": "sn22.115",
+  "pali_text": "Sāvatthinidānaṁ. Ekamantaṁ nisinno kho so bhikkhu bhagavantaṁ etadavoca: “‘dhammakathiko, dhammakathiko’ti, bhante, vuccati; kittāvatā nu kho, bhante, dhammakathiko hotī”ti? “Rūpassa ce, bhikkhu, nibbidāya virāgāya nirodhāya dhammaṁ deseti ‘dhammakathiko bhikkhū’ti alaṁvacanāya. Rūpassa ce, bhikkhu, nibbidāya virāgāya nirodhāya paṭipanno hoti, ‘dhammānudhammappaṭipanno bhikkhū’ti alaṁvacanāya. Rūpassa ce, bhikkhu, nibbidā virāgā nirodhā anupādāvimutto hoti, ‘diṭṭhadhammanibbānappatto bhikkhū’ti alaṁvacanāya. Vedanāya ce, bhikkhu …pe… saññāya ce, bhikkhu … saṅkhārānañce, bhikkhu … viññāṇassa ce, bhikkhu, nibbidāya virāgāya nirodhāya dhammaṁ deseti, ‘dhammakathiko bhikkhū’ti alaṁvacanāya. Viññāṇassa ce, bhikkhu, nibbidāya virāgāya nirodhāya paṭipanno hoti, ‘dhammānudhammappaṭipanno bhikkhū’ti alaṁvacanāya. Viññāṇassa ce, bhikkhu, nibbidā virāgā nirodhā anupādāvimutto hoti, ‘diṭṭhadhammanibbānappatto bhikkhū’ti alaṁvacanāyā”ti. Tatiyaṁ.",
+  "english_sn_text": "At Sāvatthī. Seated to one side, that mendicant said to the Buddha: “Sir, they speak of a ‘Dhamma speaker’. How is a Dhamma speaker defined?” “Mendicant, if a mendicant teaches Dhamma for disillusionment, dispassion, and cessation regarding form, they’re qualified to be called ‘a mendicant who speaks on Dhamma’. If they practice for disillusionment, dispassion, and cessation regarding form, they’re qualified to be called ‘a mendicant who practices in line with the teaching’. If they’re freed by not grasping by disillusionment, dispassion, and cessation regarding form, they’re qualified to be called ‘a mendicant who has attained extinguishment in this very life’. If a mendicant teaches Dhamma for disillusionment with feeling … perception … choices … consciousness, for its fading away and cessation, they’re qualified to be called ‘a mendicant who speaks on Dhamma’. If they practice for disillusionment, dispassion, and cessation regarding consciousness, they’re qualified to be called ‘a mendicant who practices in line with the teaching’. If they’re freed by not grasping by disillusionment, dispassion, and cessation regarding consciousness, they’re qualified to be called ‘a mendicant who has attained extinguishment in this very life’.”",
+  "errors": [],
+  "kumarajiva_style_text": "如是我闻：一时佛在舍卫国祇树给孤独园。\n尔时有异比丘来诣佛所，头面礼足，却住一面，白佛言：如世尊说「法师」，云何名为法师？佛告比丘：善哉！谛听，善思，当为汝说。若于色说生厌、离欲、灭尽、寂静之法，是名法师。若于受、想、行、识说生厌、离欲、灭尽、寂静之法，是名法师。是名如来所说法师。\n时彼比丘闻法踊跃，作礼而去。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在舍卫国祇树给孤独园。\n那时，有一位比丘来到佛那里，头面礼足，站在一边，对佛说：世尊所说的「法师」，怎样才叫法师？佛告诉比丘：很好！仔细听，好好思惟，我为你说。若能就色宣说生厌、离欲、灭尽、寂静之法，这就叫法师。若能就受、想、行、识宣说生厌、离欲、灭尽、寂静之法，这也叫法师。这就是如来所说的法师。\n那位比丘听法踊跃，作礼而去。",
+  "notes": "据 SN22.115：dhammakathika＝能为五蕴说厌、离欲、灭尽者。汉本兼列「寂静」，予保留；SN 同经尚有「法次法向／见法涅槃」两支，此经单问法师。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "confidence": "high",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": []
+}

@@ -1,0 +1,45 @@
+{
+  "id": "SA_933",
+  "uid": "sa933",
+  "title": "雜阿含經  卷第三十六  釋氏相應  （933）  十二",
+  "chinese_text": "如是我聞：\n\n一時，佛住迦毘羅衛國尼拘律園中。時，有眾多比丘集於食堂為世尊縫衣。\n\n時，釋氏摩訶男聞諸比丘集於食堂為世尊縫衣，世尊不久安居訖，作衣竟，持衣鉢，人間遊行。聞已，詣佛所，稽首禮足，退坐一面，白佛言：「世尊！我今四體不攝，迷於四方，先所聞法，今悉忘失，以聞眾多比丘集於食堂為世尊縫衣，乃至人間遊行，我作是念：『何時當復得見世尊及諸知識比丘？』」\n\n佛告摩訶男：「汝見如來、不見如來，見諸比丘、不見諸比丘，且汝常當勤修六法。何等為六？正信為本，戒、施、聞、空、慧以為根本，非不智慧，是故。摩訶男！依此六法已，於上增修六隨念，念如來事，乃至念天。如是十二種念成就，彼聖弟子諸惡退減不增長，消滅不起，離塵垢，不增塵垢，捨離不取；不取故不著，以不取著故，緣自涅槃：『我生已盡，梵行已立，所作已作，自知不受後有。』」\n\n佛說此經已，釋氏摩訶男聞佛所說，歡喜隨喜，從坐起，作禮而去。",
+  "english_sa_text": "",
+  "parallels": [
+    {
+      "uid": "an11.12",
+      "acronym": "AN 11.12",
+      "root_lang": "pli",
+      "original_title": "Dutiyamahānāmasutta",
+      "translated_title": "To Mahanama (2)",
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    }
+  ],
+  "primary_sn_uid": null,
+  "pali_text": "",
+  "english_sn_text": "",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa901-1000/sa933_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa901-1000/sa933_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛住迦毗罗卫国尼拘律园中。\n时众多比丘集食堂为世尊缝衣。摩诃男闻已，来白佛言：「我四体不摄，先所闻法今悉忘失。何时复得见世尊及诸知识比丘？」\n佛告摩诃男：「见与不见，常当依五法，增修六随念。信、精进、念、定、慧为根本；于上修念佛乃至念天。如是十一法成就，行住坐卧、作务居家，皆应修习。彼圣弟子诸恶减退不增长，离尘不取；不取故不著，缘自涅槃：『我生已尽，梵行已立，所作已作，自知不受后有。』」\n摩诃男欢喜随喜，作礼而去。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在迦毗罗卫国尼拘律园中。\n当时许多比丘聚集在食堂为世尊缝衣。摩诃男听说后来对佛说：「我四肢不听使唤，以前听过的法现在都忘了。什么时候才能再见到世尊和知识比丘？」\n佛告诉摩诃男：「无论见不见，都应当常常依五种法，再增修六种随念。以信、精进、念、定、慧为根本；在上面再修念佛直到念天。这样十一法成就以后，行走、站立、坐着、躺着、做事、在家，都应当修习。那样的圣弟子，种种恶会减退不增长，离尘垢、不执取；不取所以不著，自己缘于涅槃：『我生已尽，梵行已立，所作已作，自知不受后有。』」\n摩诃男欢喜随喜，行礼离去。",
+  "notes": "本经 SC 平行表所列平行及 `raw_aligned_data.json` 内之巴利本文、Sujato 英译并用以厘定法义；求那跋陀罗汉本用于定位经文与传统术语。confidence=high：primary AN11.12；据巴利：五德＋六念（汉「空」及「十二」框压缩／校正）；行住坐卧皆修从 AN；收束涅槃句从汉。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "warn",
+    "issues": [],
+    "warnings": [
+      "mark_not_in_output:空"
+    ],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "high",
+  "prior_review_status": "needs_revision",
+  "similarity_to_source": 0.173,
+  "paragraph_parallel": true
+}

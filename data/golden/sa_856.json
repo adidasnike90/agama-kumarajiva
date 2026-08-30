@@ -1,0 +1,44 @@
+{
+  "id": "SA_856",
+  "uid": "sa856",
+  "title": "雜阿含經  卷第三十二  學相應  （856）  難提",
+  "chinese_text": "如是我聞：\n\n一時，佛住舍衛國祇樹給孤獨園。\n\n時，有釋氏難提來詣佛所，稽首佛足，退坐一面，白佛言：「世尊！若聖弟子於四不壞淨一切時不成就者，是聖弟子為是放逸？為不放逸？」\n\n佛告釋氏難提：「若於四不壞淨一切時不成就者，我說是等為外凡夫數。釋氏難提！若聖弟子放逸、不放逸，今當說……」廣說如上。\n\n佛說此經已，釋氏難提聞佛所說，歡喜隨喜，從座起，作禮而去。",
+  "english_sa_text": "",
+  "parallels": [
+    {
+      "uid": "sn55.47",
+      "acronym": "SN 55.47",
+      "root_lang": "pli",
+      "original_title": "Nandiyasutta",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    }
+  ],
+  "primary_sn_uid": "sn55.47",
+  "pali_text": "Kapilavatthunidānaṁ. Ekamantaṁ nisinnaṁ kho nandiyaṁ sakkaṁ bhagavā etadavoca: “catūhi kho, nandiya, dhammehi samannāgato ariyasāvako sotāpanno hoti avinipātadhammo niyato sambodhiparāyaṇo. Katamehi catūhi? Idha, nandiya, ariyasāvako buddhe aveccappasādena samannāgato hoti— itipi so bhagavā …pe… satthā devamanussānaṁ buddho bhagavāti. Dhamme …pe… saṅghe …pe… ariyakantehi sīlehi samannāgato hoti akhaṇḍehi …pe… samādhisaṁvattanikehi. Imehi kho, nandiya, catūhi dhammehi samannāgato ariyasāvako sotāpanno hoti avinipātadhammo niyato sambodhiparāyaṇo”ti. Sattamaṁ.",
+  "english_sn_text": "At Kapilavatthu. Seated to one side, the Buddha said to Nandiya the Sakyan: “Nandiya, a noble disciple who has four things is a stream-enterer, not liable to be reborn in the underworld, assured, destined for awakening. What four? It’s when a noble disciple has experiential confidence in the Buddha … the teaching … the Saṅgha … And they have the ethical conduct loved by the noble ones … leading to immersion. A noble disciple who has these four things is a stream-enterer, not liable to be reborn in the underworld, assured, destined for awakening.”",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa801-900/sa856_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa801-900/sa856_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛住舍卫国祇树给孤独园。\n时有释氏难提来诣佛所，稽首佛足，退坐一面，白佛言：「世尊！若圣弟子于四不坏净一切时不成就者，为放逸？为不放逸？」\n佛告释氏难提：「若于四不坏净一切时不成就者，我说是等为外凡夫数。云何放逸、不放逸，如前难提经广说——而不上求，不于空闲林中、树下、露地，昼夜禅思，精勤修习胜妙出离；心不起随喜，随喜不生则欢喜不生，欢喜不生则身不猗息，身不猗息则苦觉生，苦觉生则心不得定——是名圣弟子放逸。及其心不起知足想，于空闲林中、树下、露地，昼夜禅思，精勤方便，能起胜妙出离随喜；随喜已生欢喜，欢喜已身猗息，身猗息已觉受乐，觉受乐已心则定——心定者，是名圣弟子不放逸。法、僧、圣戒亦如是。」\n佛说此经已，释氏难提闻佛所说，欢喜随喜，作礼而去。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在舍卫国祇树给孤独园。\n当时有释氏难提来到佛所，顶礼佛足，退坐一面，对佛说：「世尊！如果圣弟子在四不坏净上一切时都不成就，算放逸？还是不放逸？」\n佛告诉释氏难提：「如果在四不坏净上一切时都不成就，我说这些人属于外凡夫之数。怎样放逸、不放逸，如同前面难提经详细说过的——却不再向上求，不在空闲林中、树下、露地昼夜禅思，精勤修习胜妙出离；心不起随喜，没有随喜就没有欢喜，没有欢喜则身不得轻安，身不轻安则生起苦受，苦受生起则心不得定——这叫做圣弟子放逸。以及其心不起知足之想，在空闲林中、树下、露地昼夜禅思，精勤方便，能起胜妙出离的随喜；随喜之后生欢喜，欢喜之后身得轻安，身轻安后觉受乐，觉受乐后心便得定——心定的，叫做圣弟子不放逸。对法、僧、圣戒也是一样。」\n佛说完这部经，释氏难提听佛所说，欢喜随喜，作礼离去。",
+  "notes": "本经 SC 平行表所列平行及 `raw_aligned_data.json` 内之巴利本文、Sujato 英译并用以厘定法义；求那跋陀罗汉本用于定位经文与传统术语。confidence=medium：gold_reconstructed——汉「广说如上」peyyāla；据 SA_855／SN55.40 放逸纲补。SC 另标 SN55.47（四支即须陀洹），与汉问放逸结构不合，故以汉叙事＋SN55.40 义为准。",
+  "review_status": "gold_reconstructed",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "medium",
+  "prior_review_status": "needs_revision",
+  "reconstruction_basis": "难提「广说如上」→ SA_855／SN55.40 放逸连锁",
+  "similarity_to_source": 0.239,
+  "paragraph_parallel": true
+}

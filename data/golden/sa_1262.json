@@ -1,0 +1,44 @@
+{
+  "id": "SA_1262",
+  "uid": "sa1262",
+  "title": "雜阿含經  卷第五十  譬喻相應  （1262）  野狐",
+  "chinese_text": "如是我聞：\n\n一時，佛住王舍城迦蘭陀竹園。爾時，世尊於後夜時聞野狐鳴。\n\n爾時，世尊夜過天明，於大眾前敷座而坐，告諸比丘：「汝等後夜時聞野狐鳴不？」\n\n諸比丘白佛：「如是，世尊！」\n\n佛告諸比丘：「有一愚癡人作如是念：『令我受身得如是形類，作如是聲。』此愚癡人欲求如是像類處所受生，何足不得？是故，比丘！汝等但當精勤方便，求斷諸有，莫作方便，增長諸有，當如是學。」\n\n佛說此經已，諸比丘聞佛所說，歡喜奉行。",
+  "english_sa_text": "",
+  "parallels": [
+    {
+      "uid": "sn20.11",
+      "acronym": "SN 20.11",
+      "root_lang": "pli",
+      "original_title": "Siṅgālasutta",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    }
+  ],
+  "primary_sn_uid": "sn20.11",
+  "pali_text": "Sāvatthiyaṁ viharati. “Assuttha no tumhe, bhikkhave, rattiyā paccūsasamayaṁ jarasiṅgālassa vassamānassā”ti? “Evaṁ, bhante”. “Eso kho, bhikkhave, jarasiṅgālo ukkaṇḍakena nāma rogajātena phuṭṭho. So yena yena icchati tena tena gacchati; yattha yattha icchati tattha tattha tiṭṭhati; yattha yattha icchati tattha tattha nisīdati; yattha yattha icchati tattha tattha nipajjati; sītakopi naṁ vāto upavāyati. Sādhu khvassa, bhikkhave, yaṁ idhekacco sakyaputtiyapaṭiñño evarūpampi attabhāvapaṭilābhaṁ paṭisaṁvediyetha. Tasmātiha, bhikkhave, evaṁ sikkhitabbaṁ: ‘appamattā viharissāmā’ti. Evañhi vo, bhikkhave, sikkhitabban”ti. Ekādasamaṁ.",
+  "english_sn_text": "At Sāvatthī. “Mendicants, did you hear an old jackal howling at the crack of dawn?” “Yes, sir.” “That old jackal has the disease called mange. Yet it still goes where it wants, stands where it wants, sits where it wants, and lies down where it wants. And the cool breeze still blows on it. A certain person here who claims to follow the Sakyan would be lucky to experience even such an incarnation. So you should train like this: ‘We will stay diligent.’ That’s how you should train.”",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa1201-1300/sa1262_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa1201-1300/sa1262_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛住王舍城迦兰陀竹园。尔时世尊后夜闻野狐鸣。\n夜过天明，于众前坐，告诸比丘：「汝等后夜闻野狐鸣不？」白佛：「如是，世尊！」\n「彼老野狐为疥疮所苦，然所欲往则往，所欲住则住，寒风亦吹其身。若有自称释子者，能得如是身类，犹为幸事。是故当如是学：『我等当不放逸而住。』」\n佛说此经已，诸比丘闻佛所说，欢喜奉行。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在王舍城迦兰陀竹园。那时世尊后夜听见野狐叫。\n夜过天亮，在大众前坐下，告诉比丘们：「你们后夜听见野狐叫了吗？」回答：「听见了，世尊！」\n「那只老野狐正受疥疮之苦，可它仍能想去就去、想住就住，寒风也还吹在它身上。若有人自称是释子，能得到这样的身类，都还算幸运。所以应当这样学：『我们应当不放逸而住。』」\n佛说完这部经，比丘们听佛所说，都欢喜奉行。",
+  "notes": "本经 SC 平行表所列平行及 `raw_aligned_data.json` 内之巴利本文、Sujato 英译并用以厘定法义；求那跋陀罗汉本用于定位经文与传统术语。confidence=high：primary SN20.11 Siṅgālasutta。据 SN 校正：疥狐虽苦犹得自在；自称释子得此身犹幸——汉「愚人欲求如是形类」义相反，不从。",
+  "review_status": "gold_reconstructed",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "high",
+  "prior_review_status": "needs_revision",
+  "reconstruction_basis": "汉「欲求野狐形类」与 SN20.11 相反 → 据巴利改正为得此身犹幸",
+  "similarity_to_source": 0.188,
+  "paragraph_parallel": true
+}

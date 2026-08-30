@@ -1,0 +1,43 @@
+{
+  "id": "SA_1161",
+  "uid": "sa1161",
+  "title": "雜阿含經  卷第五十  婆羅門相應  （1161）  火",
+  "chinese_text": "如是我聞：\n\n一時，佛住舍衛國祇樹給孤獨園。\n\n爾時，有異婆羅門來詣佛所，與世尊面相問訊慰勞已，退坐一面。而說偈言：\n\n「云何為尸羅？　　云何正威儀？\n\n　云何為功德？　　云何名為業？\n\n　成就何等法，　　羅漢婆羅門？」\n\n爾時，世尊說偈答言：\n\n「宿命憶念智，　　見生天惡趣，\n\n　得諸受生盡，　　牟尼明決定。\n\n　知心善解脫，　　解脫一切貪，\n\n　具足於三明，　　三明婆羅門。」\n\n佛說此經已，異婆羅門聞佛所說，歡喜隨喜，從座起而去。",
+  "english_sa_text": "",
+  "parallels": [
+    {
+      "uid": "sa-2.84",
+      "acronym": "SA2 84",
+      "root_lang": "lzh",
+      "original_title": "火",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    }
+  ],
+  "primary_sn_uid": null,
+  "pali_text": "",
+  "english_sn_text": "",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa1101-1200/sa1161_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa1101-1200/sa1161_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛住舍卫国祇树给孤独园。\n有异婆罗门来诣，问讯已，说偈：「云何为尸罗？云何正威仪？云何为功德？云何名业？成就何法，名阿罗汉婆罗门？」\n世尊答偈：「宿命忆念智，见生天恶趣，得诸受生尽，牟尼明决定。知心善解脱，解脱一切贪，具足于三明，是三明婆罗门。」\n异婆罗门闻已，欢喜随喜，从座起而去。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在舍卫国祇树给孤独园。\n有位婆罗门前来，问讯后说偈：「什么是尸罗？什么是正威仪？什么是功德？什么叫业？成就什么法，才叫阿罗汉婆罗门？」\n佛答偈：「有宿命智，能见生天与恶趣，受生已尽，牟尼之明决定。知心善解脱，解脱一切贪，具足三明，才是三明婆罗门。」\n那位婆罗门听完，欢喜随喜，起身离去。",
+  "notes": "SC 于本经未列可靠巴利平行，故唯以汉本为底，参同相应之巴利定型语厘义；依项目规约「无可靠平行时 confidence 降为 medium/low」。confidence=medium：无 SC 巴利；三明偈与 SN 婆罗门相应定型相近，仍以汉本为底，不臆断 primary。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "medium",
+  "prior_review_status": "needs_revision",
+  "similarity_to_source": 0.241,
+  "paragraph_parallel": true
+}

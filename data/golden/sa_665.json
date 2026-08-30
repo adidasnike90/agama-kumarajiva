@@ -1,0 +1,33 @@
+{
+  "id": "SA_665",
+  "uid": "sa665",
+  "title": "雜阿含經  卷第二十七  根力相應  （665）  三力",
+  "chinese_text": "如是我聞：\n\n一時，佛住舍衛國祇樹給孤獨園。\n\n爾時，世尊告諸比丘：「有三力，謂信力、精進力、慧力。如是，比丘！當作是學：『我當成就信力、精進力、慧力。』」\n\n佛說此經已，諸比丘聞佛所說，歡喜奉行。\n\n如精進力，念力、定力，亦如是說。",
+  "english_sa_text": "",
+  "parallels": [],
+  "primary_sn_uid": null,
+  "pali_text": "",
+  "english_sn_text": "",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa601-700/sa665_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa601-700/sa665_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛住舍卫国祇树给孤独园。\n佛告比丘：「当学三力：信、精进、慧——我当具足。」\n「若以念代精进，或以定代精进，配成三力，所学亦尔。」\n佛说此经已，诸比丘闻佛所说，欢喜奉行。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在舍卫国祇树给孤独园。\n佛告比丘：「应当修学三力：信、精进、慧——我应当具足。」\n「如果用念代替精进，或用定代替精进，配成三力，所学也是这样。」\n佛说完这部经，比丘们听佛所说，都欢喜奉行。",
+  "notes": "SC 于本经未列可靠巴利平行，故唯以汉本为底，参同相应之巴利定型语厘义；依项目规约「无可靠平行时 confidence 降为 medium/low」。confidence=medium：SA_664 学句变体；peyyāla 压缩。gold_reconstructed：底本「如精进力，念力、定力亦如是说」交叉指示。",
+  "review_status": "gold_reconstructed",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "medium",
+  "prior_review_status": "needs_revision",
+  "reconstruction_basis": "peyyāla 念力定力亦如是说 → learn-formula variants",
+  "similarity_to_source": 0.224,
+  "paragraph_parallel": true
+}

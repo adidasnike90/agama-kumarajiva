@@ -1,0 +1,76 @@
+{
+  "id": "SA_890",
+  "uid": "sa890",
+  "title": "雜阿含經  卷第三十四  修證相應  （890）  無為法",
+  "chinese_text": "如是我聞：\n\n一時，佛住舍衛國祇樹給孤獨園。\n\n爾時，世尊告諸比丘：「當為汝說無為法，及無為道跡。諦聽，善思。云何無為法？謂貪欲永盡，瞋恚、愚癡永盡，一切煩惱永盡，是無為法。云何為無為道跡？謂八聖道分，正見、正智、正語、正業、正命、正方便、正念、正定，是名無為道跡。」\n\n佛說此經已，諸比丘聞佛所說，歡喜奉行。\n\n如無為，如是難見、不動、不屈、不死、無漏、覆蔭、洲渚、濟渡、依止、擁護、不流轉、離熾焰、離燒然、流通、清涼、微妙、安隱、無病、無所有、涅槃，亦如是說。",
+  "english_sa_text": "",
+  "parallels": [
+    {
+      "uid": "sn43.14-43",
+      "acronym": "SN 43.14–43",
+      "root_lang": "pli",
+      "original_title": "Anāsavādisutta",
+      "translated_title": "The Taintless, Etc.",
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "sn43.13",
+      "acronym": "SN 43.13",
+      "root_lang": "pli",
+      "original_title": "Anatasutta",
+      "translated_title": "The Uninclined",
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "sn43.12",
+      "acronym": "SN 43.12",
+      "root_lang": "pli",
+      "original_title": "Asaṅkhatasutta",
+      "translated_title": "The Unconditioned",
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "sn43.11",
+      "acronym": "SN 43.11",
+      "root_lang": "pli",
+      "original_title": "Maggaṅgasutta",
+      "translated_title": "The Eightfold Path",
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    }
+  ],
+  "primary_sn_uid": "sn43.11",
+  "pali_text": "“Katamo ca, bhikkhave, asaṅkhatagāmimaggo? Ariyo aṭṭhaṅgiko maggo. Ayaṁ vuccati, bhikkhave, asaṅkhatagāmimaggo. Iti kho, bhikkhave, desitaṁ vo mayā asaṅkhataṁ, desito asaṅkhatagāmimaggo. Yaṁ, bhikkhave, satthārā karaṇīyaṁ sāvakānaṁ hitesinā anukampakena anukampaṁ upādāya kataṁ vo taṁ mayā. Etāni, bhikkhave, rukkhamūlāni, etāni suññāgārāni. Jhāyatha, bhikkhave, mā pamādattha; mā pacchā vippaṭisārino ahuvattha. Ayaṁ vo amhākaṁ anusāsanī”ti. Ekādasamaṁ. Asaṅkhatasaṁyuttassa paṭhamo vaggo. Tassuddānaṁ Kāyo samatho savitakko, suññato satipaṭṭhānā; Sammappadhānā iddhipādā, indriyabalabojjhaṅgā; Maggena ekādasamaṁ, Tassuddānaṁ pavuccati.",
+  "english_sn_text": "“And what is the path that leads to the unconditioned? The noble eightfold path. This is called the path that leads to the unconditioned. So, mendicants, I’ve taught you the unconditioned and the path that leads to the unconditioned. Out of sympathy, I’ve done what a teacher should do who wants what’s best for their disciples. Here are these roots of trees, and here are these empty huts. Practice absorption, mendicants! Don’t be negligent! Don’t regret it later! This is my instruction to you.”",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa801-900/sa890_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa801-900/sa890_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛住舍卫国祇树给孤独园。\n尔时世尊告诸比丘：「我今说无为，及趣无为之道。谛听，善思念之。何等无为？谓贪瞋痴永尽，诸烦恼永尽，是名无为。何等无为道迹？谓八支圣道——正见、正志、正语、正业、正命、正精进、正念、正定，是名趣无为之道。」\n佛说此经已，诸比丘闻佛所说，欢喜奉行。\n如说无为，难见、不动、不屈、不死、无漏、覆荫、洲渚、济渡、依止、拥护、不流转、离炽然、离烧燃、流通、清凉、微妙、安隐、无病、无所有、涅槃，皆亦如是。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在舍卫国祇树给孤独园。\n那时世尊告诉比丘们：「我现在说无为，以及趣向无为的道路。仔细听，好好思惟。什么是无为？就是贪瞋痴永尽，诸烦恼永尽，叫做无为。什么是无为道迹？就是八支圣道——正见、正志、正语、正业、正命、正精进、正念、正定，叫做趣向无为的道路。」\n佛说完这部经，比丘们听佛所说，都欢喜奉行。\n如同说无为，难见、不动、不屈、不死、无漏、覆荫、洲渚、济渡、依止、拥护、不流转、离炽然、离烧燃、流通、清凉、微妙、安隐、无病、无所有、涅槃，也都是这样。",
+  "notes": "本经 SC 平行表所列平行及 `raw_aligned_data.json` 内之巴利本文、Sujato 英译并用以厘定法义；求那跋陀罗汉本用于定位经文与传统术语。confidence=high：primary SN43.11；无为＝asaṅkhata（贪瞋痴等永尽）；道迹＝八支圣道；汉「正智」据道支校正为「正志」；末异名 peyyāla（难见…涅槃）从 SN43 系列。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "high",
+  "prior_review_status": "needs_revision",
+  "similarity_to_source": 0.281,
+  "paragraph_parallel": true,
+  "quality_gate_reasons": [
+    "lit_mod_gap=0.211>=0.1"
+  ]
+}

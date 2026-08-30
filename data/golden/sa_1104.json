@@ -1,0 +1,63 @@
+{
+  "id": "SA_1104",
+  "uid": "sa1104",
+  "title": "雜阿含經  卷第四十八  帝釋相應  （1104）  帝釋",
+  "chinese_text": "如是我聞：\n\n一時，佛住王舍城迦蘭陀竹園。\n\n爾時，世尊告諸比丘：「若能受持七種受者，以是因緣得生天帝釋處。謂天帝釋本為人時，供養父母，及家諸尊長，和顏軟語，不惡口，不兩舌，常真實言；於慳悋世間，雖在居家而不慳惜，行解脫施，勤施，常樂行施，施會供養，等施一切。」爾時，世尊即說偈言：\n\n「供養於父母，　　及家之尊長，\n\n　柔和恭遜辭，　　離麁言兩舌。\n\n　調伏慳悋心，　　常修真實語，\n\n　彼三十三天，　　見行七法者。\n\n　咸各作是言，　　當來生此天。」\n\n佛說此經已，諸比丘聞佛所說，歡喜奉行。",
+  "english_sa_text": "",
+  "parallels": [
+    {
+      "uid": "sa-3.21",
+      "acronym": "SA3 21",
+      "root_lang": "lzh",
+      "original_title": "帝釋",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "sa-2.33",
+      "acronym": "SA2 33",
+      "root_lang": "lzh",
+      "original_title": "帝釋",
+      "translated_title": "Seven Practices",
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "sn11.11",
+      "acronym": "SN 11.11",
+      "root_lang": "pli",
+      "original_title": "Vatapadasutta",
+      "translated_title": "Vows",
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    }
+  ],
+  "primary_sn_uid": "sn11.11",
+  "pali_text": "Sāvatthiyaṁ. “Sakkassa, bhikkhave, devānamindassa pubbe manussabhūtassa satta vatapadāni samattāni samādinnāni ahesuṁ, yesaṁ samādinnattā sakko sakkattaṁ ajjhagā. Katamāni satta vatapadāni? Yāvajīvaṁ mātāpettibharo assaṁ, yāvajīvaṁ kule jeṭṭhāpacāyī assaṁ, yāvajīvaṁ saṇhavāco assaṁ, yāvajīvaṁ apisuṇavāco assaṁ, yāvajīvaṁ vigatamalamaccherena cetasā agāraṁ ajjhāvaseyyaṁ muttacāgo payatapāṇi vossaggarato yācayogo dānasaṁvibhāgarato, yāvajīvaṁ saccavāco assaṁ, yāvajīvaṁ akkodhano assaṁ—sacepi me kodho uppajjeyya, khippameva naṁ paṭivineyyanti. Sakkassa, bhikkhave, devānamindassa pubbe manussabhūtassa imāni satta vatapadāni samattāni samādinnāni ahesuṁ, yesaṁ samādinnattā sakko sakkattaṁ ajjhagāti. Mātāpettibharaṁ jantuṁ, kule jeṭṭhāpacāyinaṁ; Saṇhaṁ sakhilasambhāsaṁ, pesuṇeyyappahāyinaṁ. Maccheravinaye yuttaṁ, saccaṁ kodhābhibhuṁ naraṁ; Taṁ ve devā tāvatiṁsā, āhu sappuriso itī”ti.",
+  "english_sn_text": "At Sāvatthī. “Mendicants, in a former life, when Sakka was a human being, he undertook seven vows. And it was because of undertaking these that he achieved the status of Sakka. What seven? As long as I live, may I support my parents. As long as I live, may I honor the elders in the family. As long as I live, may I speak gently. As long as I live, may I not backbite. As long as I live, may I live at home with heart rid of the stain of stinginess, freely generous, open-handed, loving to let go, committed to charity, loving to give and to share. As long as I live, may I speak the truth. As long as I live, may I be free of anger, or should anger arise, may I quickly get rid of it. In a former life, when Sakka was a human being, he undertook seven vows. And it was because of undertaking these that he achieved the status of Sakka. A child who respects their parents, and honors the elders in the family, whose speech is gentle and courteous, and has given up backbiting; who’s committed to getting rid of stinginess, is truthful, and has mastered anger: the gods of the thirty-three declare them to be a true person.”",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa1101-1200/sa1104_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa1101-1200/sa1104_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛住王舍城迦兰陀竹园。\n佛告诸比丘：「若人受持七种受，以此因缘得生帝释处。谓本为人时受持七种受：一者供养父母；二者恭敬家中尊长；三者言语柔和；四者不两舌；五者于悭吝世间行解脱施，常乐惠施；六者常说真实；七者不瞋，设起瞋恚，速能除灭。」\n尔时世尊说偈言：「供养于父母，及家之尊长，柔和恭逊辞，离粗言两舌。调伏悭吝心，常修真实语，于瞋能速除，三十三诸天，见行此七法，咸言当生此。」\n佛说此经已，诸比丘闻佛所说，欢喜奉行。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在王舍城迦兰陀竹园。\n佛告诉比丘们：「如果有人受持七种誓愿，凭这因缘能生到帝释那里。就是他从前做人时受持七种誓愿：一、供养父母；二、恭敬家中尊长；三、说话柔和；四、不两舌；五、在悭吝的世间里行解脱施，常乐布施；六、常说真实；七、不瞋，即使生起瞋恚，也能很快除掉。」\n那时世尊说偈：「供养父母，恭敬家中尊长，言语柔和谦逊，远离粗言两舌。调伏悭吝心，常说真实语，对瞋恚能很快除掉——三十三天见有人行这七法，都会说：此人当来生此天。」\n佛说完这部经，比丘们听佛所说，都欢喜奉行。",
+  "notes": "本经 SC 平行表所列平行及 `raw_aligned_data.json` 内之巴利本文、Sujato 英译并用以厘定法义；求那跋陀罗汉本用于定位经文与传统术语。confidence=high：SN11.11；据巴利补第七『不瞋／速除瞋』（汉本漏略或并入他项）。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "high",
+  "prior_review_status": "needs_revision",
+  "similarity_to_source": 0.157,
+  "paragraph_parallel": true
+}

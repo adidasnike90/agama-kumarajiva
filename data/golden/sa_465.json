@@ -1,0 +1,43 @@
+{
+  "id": "SA_465",
+  "uid": "sa465",
+  "title": "雜阿含經  卷第十九  受相應  （465）  著使",
+  "chinese_text": "如是我聞：\n\n一時，佛住王舍城迦蘭陀竹園。\n\n爾時，尊者羅睺羅詣世尊所，稽首禮足，退坐一面，白佛言：「世尊！云何知、云何見我此識身及外境界一切相，得無有我、我所見、我慢繫著使？」\n\n佛告羅睺羅：「諦聽，善思，當為汝說。羅睺羅！若比丘於所有地界，若過去、若未來、若現在，若內、若外，若麁、若細，若好、若醜，若遠、若近，彼一切非我、不異我、不相在如實知，水界、火界、風界、空界、識界亦復如是。\n\n「羅睺羅！比丘如是知、如是見，於我此識身及外境界一切相，無有我、我所見、我慢繫著使。羅睺羅！若比丘於此識身及外境界一切相，無有我、我所見、我慢繫著使，是名斷愛縛諸結、斷諸愛，正慢無間等，究竟苦邊。」\n\n佛說此經已，尊者羅睺羅聞佛所說，歡喜奉行。",
+  "english_sa_text": "",
+  "parallels": [
+    {
+      "uid": "an4.177",
+      "acronym": "AN 4.177",
+      "root_lang": "pli",
+      "original_title": "Rāhulasutta",
+      "translated_title": null,
+      "type": "full",
+      "resembling": true,
+      "remark": null
+    }
+  ],
+  "primary_sn_uid": null,
+  "pali_text": "",
+  "english_sn_text": "",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa401-500/sa465_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa401-500/sa465_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛在王舍城迦兰陀竹园。\n尔时，尊者罗睺罗诣世尊所，稽首礼足，退坐一面，白佛言：「世尊！云何知、云何见，于此识身及外境界一切相，得无有我、我所见、我慢系着使？」\n佛告罗睺罗：「谛听，善思，当为汝说。若比丘于所有地界——若过去、未来、现在，若内、若外，若粗、若细，若好、若丑，若远、若近——彼一切非我、不异我、不相在，如实知；水界、火界、风界、空界、识界亦复如是。比丘如是知、如是见，于此识身及外境界一切相，无有我、我所见、我慢系着使——是名断爱缚诸结、断诸爱，正慢无间等，究竟苦边。」\n佛说此经已，尊者罗睺罗闻佛所说，欢喜奉行。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在王舍城迦兰陀竹园。\n那时，罗睺罗尊者来到世尊处，顶礼佛足，退坐一面，对佛说：「世尊！怎样知、怎样见，对于这个有识之身以及外境界的一切相，才能没有我、我所见、我慢系着使？」\n佛告诉罗睺罗：「仔细听，好好思惟，我为你说。如果比丘对于所有地界——无论过去、未来、现在，内、外，粗、细，好、丑，远、近——那一切都不是我、不异于我、不相在，如实了知；水界、火界、风界、空界、识界也是这样。比丘这样知、这样见，对于这个有识之身以及外境界的一切相，没有我、我所见、我慢系着使——这叫做断除爱缚诸结、断除诸爱，正确了知慢而无间等，究竟苦边。」\n佛说完这部经，罗睺罗尊者听佛所说，欢喜奉行。",
+  "notes": "SC 于本经未列可靠巴利平行，故唯以汉本为底，参同相应之巴利定型语厘义；依项目规约「无可靠平行时 confidence 降为 medium/low」，本经作 medium。SC 列 AN4.177 为 resembling，非全平行；六界非我定型依汉＋早期教理，medium。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "medium",
+  "prior_review_status": "needs_revision",
+  "similarity_to_source": 0.384,
+  "paragraph_parallel": true
+}

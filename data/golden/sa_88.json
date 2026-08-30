@@ -1,0 +1,51 @@
+{
+  "id": "SA_88",
+  "uid": "sa88",
+  "title": "雜阿含經  卷第四  陰相應  （八八）  鬱多羅",
+  "chinese_text": "如是我聞：\n\n一時，佛住舍衛國祇樹給孤獨園。\n\n時，有年少婆羅門名欝多羅，來詣佛所，與世尊面相問訊慰勞已，退坐一面，白佛言：「世尊！我常如法行乞，持用供養父母，令得樂離苦。世尊！我作如是，為多福不？」\n\n佛告欝多羅：「實有多福。所以者何？若有如法乞求，供養父母，令其安樂，除苦惱者，實有大福。」爾時，世尊即說偈言：\n\n「如汝於父母，　　恭敬修供養，\n\n　現世名稱流，　　命終生天上。」\n\n佛說此經已，年少欝多羅歡喜隨喜，作禮而去。",
+  "english_sa_text": "",
+  "parallels": [
+    {
+      "uid": "sa-2.88",
+      "acronym": "SA2 88",
+      "root_lang": "lzh",
+      "original_title": "鬱多羅",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "sn7.19",
+      "acronym": "SN 7.19",
+      "root_lang": "pli",
+      "original_title": "Mātuposakasutta",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    }
+  ],
+  "primary_sn_uid": "sn7.19",
+  "pali_text": "Sāvatthinidānaṁ. Atha kho mātuposako brāhmaṇo yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavatā saddhiṁ sammodi. Sammodanīyaṁ kathaṁ sāraṇīyaṁ vītisāretvā ekamantaṁ nisīdi. Ekamantaṁ nisinno kho mātuposako brāhmaṇo bhagavantaṁ etadavoca: “ahañhi, bho gotama, dhammena bhikkhaṁ pariyesāmi, dhammena bhikkhaṁ pariyesitvā mātāpitaro posemi. Kaccāhaṁ, bho gotama, evaṅkārī kiccakārī homī”ti? “Taggha tvaṁ, brāhmaṇa, evaṅkārī kiccakārī hosi. Yo kho, brāhmaṇa, dhammena bhikkhaṁ pariyesati, dhammena bhikkhaṁ pariyesitvā mātāpitaro poseti, bahuṁ so puññaṁ pasavatīti. Yo mātaraṁ pitaraṁ vā, macco dhammena posati; Tāya naṁ pāricariyāya, mātāpitūsu paṇḍitā; Idheva naṁ pasaṁsanti, pecca sagge pamodatī”ti. Evaṁ vutte, mātuposako brāhmaṇo bhagavantaṁ etadavoca: “abhikkantaṁ, bho gotama, abhikkantaṁ, bho gotama …pe… upāsakaṁ maṁ bhavaṁ gotamo dhāretu ajjatagge pāṇupetaṁ saraṇaṁ gatan”ti.",
+  "english_sn_text": "At Sāvatthī. Then a brahmin who provided for his mother went up to the Buddha, and exchanged greetings with him. When the greetings and polite conversation were over, he sat down to one side and said to the Buddha, “Worthy Gotama, I seek alms by legitimate means, which I use to provide for my mother and father. In doing so, am I doing my duty?” “Indeed, brahmin, in so doing you are doing your duty. Whoever seeks alms by legitimate means, and uses them to provide for their mother and father brims with much merit. A mortal provides for their mother and father by legitimate means; because they serve their parents like this, they’re praised in this life by the astute, and they depart to rejoice in heaven.” When he said this, the brahmin who provided for his mother said to the Buddha, “Excellent, worthy Gotama! Excellent! … From this day forth, may the worthy Gotama remember me as a lay follower who has gone for refuge for life.”",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa1-100/sa88_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa1-100/sa88_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时佛在舍卫国祇树给孤独园。\n时有年少婆罗门名郁多罗，来诣佛所，与世尊问讯慰劳已，退坐一面，白佛言：世尊，我常如法乞求，以所得供养父母，令得安乐、离于众苦。我作如是，为多福不？\n佛告郁多罗：实有多福。所以者何？若人如法乞求，奉养父母，令其安乐，除其苦恼，是得大福。尔时世尊即说偈言：\n如汝于父母，恭敬修供养；现世名称流，命终生天上。\n佛说此经已，年少郁多罗欢喜随喜，作礼而去。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在舍卫国祇树给孤独园。\n那时，有位名叫郁多罗的年轻婆罗门来见佛，彼此问候慰劳后，退坐一旁，问道：世尊，我一向用正当的方式乞求财食，拿来供养父母，让他们过得安乐、免于种种苦。我这样做，功德多吗？\n佛告诉郁多罗：确实功德很多。为什么？若人以正当方式取得财食，用来奉养父母，让父母安乐、解除他们的苦恼，这就有大福。那时，世尊便说偈说：\n像你这样恭敬供养父母的人，今生就有好名声流传，命终之后生到天上。\n佛说完这部经，年轻的郁多罗欢喜随喜，礼拜后离去。",
+  "notes": "据 SN7.19（Mātuposaka）：如法乞求以养父母者「bahuṁ puññaṁ pasavati」（生多福），今世为智者所赞、命终生天，与汉译偈全合。汉本作礼而去，巴利本作归依为优婆塞，属结尾异传，存汉本。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "high",
+  "similarity_to_source": 0.316
+}

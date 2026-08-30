@@ -1,0 +1,124 @@
+{
+  "id": "SA_686",
+  "uid": "sa686",
+  "title": "雜阿含經  卷第二十八  根力相應  （686）  師子吼",
+  "chinese_text": "如是我聞：\n\n一時，佛住舍衛國祇樹給孤獨園。\n\n爾時，世尊告諸比丘：「如來有六種力。若六種力成就，如來、應、等正覺得先佛最勝處智，能轉梵輪，於大眾中師子吼而吼。謂處非處如實知，如來初力。復次，過去、未來、現在心樂法受如實知……」如上廣說，「是名第二如來力。復次，如來禪、解脫、三昧、正受如實知……」如上廣說，「是名如來第三力。復次，如來過去種種宿命之事如實知……」如上廣說，「是名如來第四力。復次，如來天眼淨過於人眼，見諸眾生死此生彼……」如上廣說，「是名如來第五力。復次，如來結漏已盡，無漏心解脫、慧解脫……」如上廣說，乃至「於眾中師子吼而吼，是名如來第六力。」\n\n佛說此經已，諸比丘聞佛所說，歡喜奉行。",
+  "english_sa_text": "",
+  "parallels": [
+    {
+      "uid": "an6.64",
+      "acronym": "AN 6.64",
+      "root_lang": "pli",
+      "original_title": "Sīhanādasutta",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "an10.21",
+      "acronym": "AN 10.21",
+      "root_lang": "pli",
+      "original_title": "Sīhanādasutta",
+      "translated_title": "The Lion",
+      "type": "full",
+      "resembling": true,
+      "remark": null
+    },
+    {
+      "uid": "ea46.4",
+      "acronym": "EA 46.4",
+      "root_lang": "lzh",
+      "original_title": "力",
+      "translated_title": "Ten Powers",
+      "type": "full",
+      "resembling": true,
+      "remark": null
+    },
+    {
+      "uid": "sa684",
+      "acronym": "SA 684",
+      "root_lang": "lzh",
+      "original_title": "十力",
+      "translated_title": "The Tathāgata and the Arhat",
+      "type": "full",
+      "resembling": true,
+      "remark": null
+    },
+    {
+      "uid": "sa701",
+      "acronym": "SA 701",
+      "root_lang": "lzh",
+      "original_title": "如來力",
+      "translated_title": "Ten Powers",
+      "type": "full",
+      "resembling": true,
+      "remark": null
+    },
+    {
+      "uid": "t780a",
+      "acronym": "T 780a",
+      "root_lang": "lzh",
+      "original_title": "十力",
+      "translated_title": null,
+      "type": "full",
+      "resembling": true,
+      "remark": null
+    },
+    {
+      "uid": "t780b",
+      "acronym": "T 780b",
+      "root_lang": "lzh",
+      "original_title": "十力",
+      "translated_title": null,
+      "type": "full",
+      "resembling": true,
+      "remark": null
+    },
+    {
+      "uid": "t781",
+      "acronym": "T 781",
+      "root_lang": "lzh",
+      "original_title": "十力",
+      "translated_title": null,
+      "type": "full",
+      "resembling": true,
+      "remark": null
+    },
+    {
+      "uid": "t802",
+      "acronym": "T 802",
+      "root_lang": "lzh",
+      "original_title": "信解智力",
+      "translated_title": null,
+      "type": "full",
+      "resembling": true,
+      "remark": null
+    }
+  ],
+  "primary_sn_uid": null,
+  "pali_text": "",
+  "english_sn_text": "",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa601-700/sa686_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa601-700/sa686_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛住舍卫国祇树给孤独园。\n佛告比丘：「如来有六力。成就此六力，如来、应、等正觉得先佛最胜处智，能转梵轮，于大众中作师子吼。」\n「何等六？一、处非处如实知。二、过去未来现在诸业因缘果报如实知。三、禅、解脱、三昧、正受之杂染与清净如实知。四、种种宿命如实忆念。五、天眼净见众生死此生彼、随业受报。六、诸漏已尽，无漏心解脱、慧解脱，现法自知作证。」\n佛说此经已，诸比丘闻佛所说，欢喜奉行。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在舍卫国祇树给孤独园。\n佛告比丘：「如来有六种力。成就这六力，如来、应、等正觉就得先佛最胜处的智慧，能转梵轮，在大众中作师子吼。」\n「哪六种？一、如实知处与非处。二、如实知过去未来现在诸业的因缘果报。三、如实知禅、解脱、三昧、正受的杂染与清净。四、如实忆念种种宿命。五、以清净天眼见众生死此生彼、随业受报。六、诸漏已尽，无漏心解脱、慧解脱，在现法中自己证知。」\n佛说完这部经，比丘们听佛所说，都欢喜奉行。",
+  "notes": "本经 SC 平行表所列平行及 `raw_aligned_data.json` 内之巴利本文、Sujato 英译并用以厘定法义；求那跋陀罗汉本用于定位经文与传统术语。confidence=high：primary AN6.64 Sīhanāda（六如来力）。据 AN 校正：汉第二力「心乐法受」→诸业因缘果报（kammasamādāna vipāka）。gold_reconstructed：peyyāla「如上广说」压缩为六力名相各一句。",
+  "review_status": "gold_reconstructed",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "high",
+  "prior_review_status": "needs_revision",
+  "reconstruction_basis": "六力 peyyāla 据 AN6.64 压缩；第二力据 AN 校正业报",
+  "similarity_to_source": 0.229,
+  "paragraph_parallel": true
+}

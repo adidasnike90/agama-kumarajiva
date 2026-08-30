@@ -1,0 +1,19 @@
+@import "tailwindcss";
+
+:root {
+  color-scheme: dark;
+  font-family: "Noto Serif SC", "Source Han Serif SC", "Songti SC", serif;
+}
+
+html,
+body {
+  margin: 0;
+  height: 100%;
+  overflow: hidden;
+  background: #1a1510;
+  color: #f3e6d0;
+}
+
+#root {
+  height: 100%;
+}

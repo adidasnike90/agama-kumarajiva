@@ -1,0 +1,35 @@
+{
+  "id": "SA_479",
+  "uid": "sa479",
+  "title": "雜阿含經  卷第十九  受相應  （479）  如實知",
+  "chinese_text": "如是我聞：\n\n一時，佛住王舍城迦蘭陀竹園。\n\n爾時，世尊告諸比丘：「若我於諸受不如實知，受集、受滅、受集道跡、受滅道跡、受味、受患、受離不如實知，我於諸天世間、魔、梵、沙門、婆羅門、天、人眾中，不得解脫、出離、脫諸顛倒，亦非阿耨多羅三藐三菩提。以我於諸受、受集、受滅、受集道跡、受滅道跡、受味、受患、受離如實知故，於諸天世間、魔、梵、沙門、婆羅門、天、人眾中，為脫、為出、為脫諸顛倒，得阿耨多羅三藐三菩提。」\n\n佛說此經已，諸比丘聞佛所說，歡喜奉行。",
+  "english_sa_text": "",
+  "parallels": [],
+  "primary_sn_uid": null,
+  "pali_text": "",
+  "english_sn_text": "",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa401-500/sa479_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa401-500/sa479_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛在王舍城迦兰陀竹园。\n尔时，世尊告诸比丘：「我若于受及受集、受灭、集道、灭道、味、患、离不能如实知，于天人魔梵及沙门婆罗门天人间，不得解脱出颠倒，亦非无上正遍知。以于此等如实知故，乃得解脱出颠倒，证无上正遍知。」\n佛说此经已，诸比丘闻佛所说，欢喜奉行。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在王舍城迦兰陀竹园。\n那时，世尊告诉比丘们：「如果我对诸受不能如实了知——受的集、受的灭、受的集道迹、受的灭道迹、受的味、受的患、受的离不能如实了知——我在诸天世间、魔、梵、沙门、婆罗门、天、人众中，就不能解脱、出离、脱离诸颠倒，也不能证得阿耨多罗三藐三菩提。因为我对诸受以及受的集、受的灭、受的集道迹、受的灭道迹、受的味、受的患、受的离能如实了知，所以在诸天世间、魔、梵、沙门、婆罗门、天、人众中，才能解脱、出离、脱离诸颠倒，证得阿耨多罗三藐三菩提。」\n佛说完这部经，比丘们听佛所说，都欢喜奉行。",
+  "notes": "SC 于本经未列可靠巴利平行，故唯以汉本为底，参同相应之巴利定型语厘义；依项目规约「无可靠平行时 confidence 降为 medium/low」，本经作 medium。佛自述于受七事如实知乃得菩提；保守依汉，medium。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "medium",
+  "prior_review_status": "needs_revision",
+  "similarity_to_source": 0.199,
+  "paragraph_parallel": true,
+  "quality_gate_reasons": [
+    "lit_mod_gap=0.358>=0.1"
+  ]
+}

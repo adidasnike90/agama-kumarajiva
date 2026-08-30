@@ -1,0 +1,44 @@
+{
+  "id": "SA_412",
+  "uid": "sa412",
+  "title": "雜阿含經  卷第十七  界相應  （412）  爭",
+  "chinese_text": "如是我聞：\n\n一時，佛住王舍城迦蘭陀竹園。\n\n時，有眾多比丘集於食堂，作如是說：「我知法、律，汝等不知我所說成就，我等所說與理合；汝等所說不成就，不與理合，應前說者，則在後說；應後說者，則在前說，而共諍論言。我論是汝等不如，能答者當答。」\n\n爾時，世尊於禪定中，以天耳聞諸比丘諍論之聲……如是廣說，乃至「於四聖諦無間等者，當勤起方便，起增上欲，學無間等。」\n\n佛說是經已，諸比丘聞佛所說，歡喜奉行。",
+  "english_sa_text": "",
+  "parallels": [
+    {
+      "uid": "sn56.9",
+      "acronym": "SN 56.9",
+      "root_lang": "pli",
+      "original_title": "Viggāhikakathāsutta",
+      "translated_title": "Disputatious Talk",
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    }
+  ],
+  "primary_sn_uid": "sn56.9",
+  "pali_text": "“Mā, bhikkhave, viggāhikakathaṁ katheyyātha: ‘na tvaṁ imaṁ dhammavinayaṁ ājānāsi, ahaṁ imaṁ dhammavinayaṁ ājānāmi. Kiṁ tvaṁ imaṁ dhammavinayaṁ ājānissasi. Micchāpaṭipanno tvamasi, ahamasmi sammāpaṭipanno. Sahitaṁ me, asahitaṁ te. Purevacanīyaṁ pacchā avaca, pacchāvacanīyaṁ pure avaca. Adhiciṇṇaṁ te viparāvattaṁ. Āropito te vādo, cara vādappamokkhāya. Niggahitosi, nibbeṭhehi vā sace pahosī’ti. Taṁ kissa hetu? Nesā, bhikkhave, kathā atthasaṁhitā nādibrahmacariyakā na nibbidāya na virāgāya na nirodhāya na upasamāya na abhiññāya na sambodhāya na nibbānāya saṁvattati. Kathentā ca kho tumhe, bhikkhave, ‘idaṁ dukkhan’ti katheyyātha, ‘ayaṁ dukkhasamudayo’ti katheyyātha, ‘ayaṁ dukkhanirodho’ti katheyyātha, ‘ayaṁ dukkhanirodhagāminī paṭipadā’ti katheyyātha …pe… yogo karaṇīyo”ti. Navamaṁ.",
+  "english_sn_text": "“Mendicants, don’t get into arguments, such as: ‘You don’t understand this teaching and training. I understand this teaching and training. What, you understand this teaching and training? You’re practicing wrong. I’m practicing right. I stay on topic, you don’t. You said last what you should have said first. You said first what you should have said last. What you’ve thought so much about has been disproved. Your doctrine is refuted. Go on, save your doctrine! You’re trapped; get yourself out of this—if you can!’ Why is that? Because those discussions aren’t beneficial or relevant to the fundamentals of the spiritual life. They don’t lead to disillusionment, dispassion, cessation, peace, insight, awakening, and extinguishment. When you discuss, you should discuss: ‘This is suffering’ … ‘This is the origin of suffering’ … ‘This is the cessation of suffering’ … ‘This is the practice that leads to the cessation of suffering’. … That’s why you should practice meditation …”",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa401-500/sa412_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa401-500/sa412_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛在王舍城迦兰陀竹园。\n时有众多比丘集于食堂，共相诤论：「我知法、律，汝等不知；我所说成就、与理合，汝等不成就、不与理合；应先说者后说，应后说者先说——我胜汝劣，能答者当答。」\n世尊以天耳闻已，往诣食堂，问已，比丘具白。佛言：「莫作如是诤论。所以者何？如此论非义饶益，非法饶益，非梵行饶益，非智、非觉，不向涅槃。应当论说：『此苦圣谛、此苦集圣谛、此苦灭圣谛、此苦灭道迹圣谛。』所以者何？此四圣谛义饶益、法饶益、梵行饶益，正智、正觉、正向涅槃。」\n「是故比丘于四圣谛未无间等者，当勤方便，起增上欲，精进修学。何等为四？谓苦圣谛、苦集圣谛、苦灭圣谛、苦灭道迹圣谛。」\n佛说此经已，诸比丘闻佛所说，欢喜奉行。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在王舍城迦兰陀竹园。\n当时有许多比丘聚集在食堂里，互相诤论：「我懂法、律，你们不懂；我说的成立、合乎道理，你们的不成立、不合道理；该先说的你们后说，该后说的你们先说——我胜你们劣，谁能答就答。」\n世尊用天耳听见以后，来到食堂，询问之后，比丘们都禀告了。佛说：「不要作这样的诤论。为什么？这样的议论没有义饶益，没有法饶益，没有梵行饶益，不是正智、正觉，不向涅槃。应当讨论：『这是苦圣谛、这是苦集圣谛、这是苦灭圣谛、这是苦灭道迹圣谛。』为什么？这四圣谛有义饶益、法饶益、梵行饶益，能得正智、正觉，正向涅槃。」\n「所以比丘对四圣谛还没有无间等的，应当勤加方便，发起强盛愿欲，精进修学。哪四种？就是苦圣谛、苦集圣谛、苦灭圣谛、苦灭道迹圣谛。」\n佛说完这部经，比丘们听佛所说，都欢喜奉行。",
+  "notes": "本经 SC 平行表所列平行及 `raw_aligned_data.json` 内之巴利本文、Sujato 英译并用以厘定法义；求那跋陀罗汉本用于定位经文与传统术语。底本『如是广说，乃至……学无间等』为交叉指示；依 SA_411／SN56.9 框式重建：斥 viggāhikakathā，代以四谛论，补 URGE。confidence=high（平行可靠；文面重建）。",
+  "review_status": "gold_reconstructed",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "high",
+  "prior_review_status": "needs_revision",
+  "reconstruction_basis": "底本『如是广说，乃至……学无间等』为交叉指示；依 SA_411／SN56.9 食堂斥诤论框 + 四谛论／URGE 重建",
+  "similarity_to_source": 0.181,
+  "paragraph_parallel": true
+}

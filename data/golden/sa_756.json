@@ -1,0 +1,33 @@
+{
+  "id": "SA_756",
+  "uid": "sa756",
+  "title": "雜阿含經  卷第二十九  聖道分相應  （756）  畏",
+  "chinese_text": "如上三經。如是佛問諸比丘三經亦如是說。",
+  "english_sa_text": "",
+  "parallels": [],
+  "primary_sn_uid": null,
+  "pali_text": "",
+  "english_sn_text": "",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa701-800/sa756_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa701-800/sa756_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛住舍卫国祇树给孤独园。\n佛告比丘：「凡夫所谓无母子畏——兵乱、大火、洪水——实是有母子畏，或可重逢。我所说真无母子畏，谓老、病、死：母子不能代受。断此诸畏，有道有迹，谓八圣道——正见、正志、正语、正业、正命、正方便、正念、正定。」\n佛说此经已，诸比丘闻佛所说，欢喜奉行。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在舍卫国祇树给孤独园。\n佛告诉比丘：「凡夫所说的无母子畏——兵乱、大火、洪水——其实是有母子畏，或许还能重逢。我所说真正的无母子畏，是老、病、死：母子不能互相代受。要断这些畏，有道路、有途径，就是八圣道——正见、正志、正语、正业、正命、正方便、正念、正定。」\n佛说完这部经，比丘们听佛所说，都欢喜奉行。",
+  "notes": "本经 SC 平行表所列平行及 `raw_aligned_data.json` 内之巴利本文、Sujato 英译并用以厘定法义；求那跋陀罗汉本用于定位经文与传统术语。confidence=medium：gold_reconstructed——底本仅「如上三经…」peyyāla；题名「畏」，据 SA_758／AN3.62 母子畏纲略说。",
+  "review_status": "gold_reconstructed",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "medium",
+  "prior_review_status": "needs_revision",
+  "reconstruction_basis": "peyyāla「如上三经」＋题「畏」→ SA_758／AN3.62 母子畏纲",
+  "similarity_to_source": 0.006,
+  "paragraph_parallel": true
+}

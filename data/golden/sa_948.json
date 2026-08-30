@@ -1,0 +1,63 @@
+{
+  "id": "SA_948",
+  "uid": "sa948",
+  "title": "雜阿含經  卷第三十七  婆蹉外道相應  （948）  城",
+  "chinese_text": "如是我聞：\n\n一時，佛住舍衛國祇樹給孤獨園。\n\n爾時，世尊告諸比丘：「眾生於無始生死長夜輪轉，不知苦之本際。」\n\n時，有異比丘從坐起，整衣服，偏袒右肩，為佛作禮，右膝著地，合掌白佛：「世尊！劫長久如？」\n\n佛告比丘：「我能為汝說，而汝難知。」\n\n比丘白佛：「可說譬不？」\n\n佛言：「可說，比丘！譬如鐵城，方一由旬，高下亦爾，滿中芥子，有人百年取一芥子，盡其芥子，劫猶不竟。如是，比丘！其劫者，如是長久。如是長劫，百千萬億大苦相續，白骨成丘，膿血成流，地獄、畜生、餓鬼惡趣。是名，比丘！無始生死，長夜輪轉，不知苦之本際。是故，比丘！當如是學：『斷除諸有，莫令增長。』」\n\n佛說此經已，諸比丘聞佛所說，歡喜奉行。",
+  "english_sa_text": "",
+  "parallels": [
+    {
+      "uid": "ea52.3",
+      "acronym": "EA 52.3",
+      "root_lang": "lzh",
+      "original_title": "",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "sa-2.341",
+      "acronym": "SA2 341",
+      "root_lang": "lzh",
+      "original_title": "城",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "sn15.6",
+      "acronym": "SN 15.6",
+      "root_lang": "pli",
+      "original_title": "Sāsapasutta",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    }
+  ],
+  "primary_sn_uid": "sn15.6",
+  "pali_text": "Sāvatthiyaṁ viharati. Atha kho aññataro bhikkhu yena bhagavā …pe… ekamantaṁ nisinno kho so bhikkhu bhagavantaṁ etadavoca: “kīvadīgho nu kho, bhante, kappo”ti? “Dīgho kho, bhikkhu, kappo. So na sukaro saṅkhātuṁ ettakāni vassāni iti vā …pe… ettakāni vassasatasahassāni iti vā”ti. “Sakkā pana, bhante, upamaṁ kātun”ti? “Sakkā, bhikkhū”ti bhagavā avoca. “Seyyathāpi, bhikkhu, āyasaṁ nagaraṁ yojanaṁ āyāmena yojanaṁ vitthārena yojanaṁ ubbedhena, puṇṇaṁ sāsapānaṁ guḷikābaddhaṁ. Tato puriso vassasatassa vassasatassa accayena ekamekaṁ sāsapaṁ uddhareyya. Khippataraṁ kho so, bhikkhu, mahāsāsaparāsi iminā upakkamena parikkhayaṁ pariyādānaṁ gaccheyya, na tveva kappo. Evaṁ dīgho kho, bhikkhu, kappo. Evaṁ dīghānaṁ kho, bhikkhu, kappānaṁ neko kappo saṁsito, nekaṁ kappasataṁ saṁsitaṁ, nekaṁ kappasahassaṁ saṁsitaṁ, nekaṁ kappasatasahassaṁ saṁsitaṁ. Taṁ kissa hetu? Anamataggoyaṁ, bhikkhu, saṁsāro …pe… alaṁ vimuccitun”ti. Chaṭṭhaṁ.",
+  "english_sn_text": "At Sāvatthī. Then a mendicant went up to the Buddha … and asked him, “Sir, how long is an eon?” “Mendicant, an eon is long. It’s not easy to calculate how many years, how many hundreds or thousands or hundreds of thousands of years it lasts.” “But sir, is it possible to give a simile?” “It’s possible,” said the Buddha. “Suppose there was an iron citadel, a league long, a league wide, and a league high, full of mustard seeds pressed into balls. And as each century passed someone would remove a single mustard seed. By this means the big heap of mustard seeds would be used up before the eon comes to an end. That’s how long an eon is. And we’ve transmigrated through many such eons, many hundreds, many thousands, many hundreds of thousands. Why is that? This transmigration has no known beginning. … This is quite enough for you to become disillusioned, dispassionate, and freed regarding all conditions.”",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa901-1000/sa948_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa901-1000/sa948_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛住舍卫国祇树给孤独园。\n尔时世尊告诸比丘：「众生无始生死，无明所盖，爱系其颈，长夜轮转，不知苦之本际。」时有异比丘问：「劫长久如？」佛言：「我能说，汝难知。」「可说譬不？」「可说。譬如铁城，方一由旬，高亦尔，满中芥子；有人百年取一芥子，芥子尽而劫犹不竟。如是长劫，百千万亿苦相续，白骨成丘，脓血成流，三恶趣满。是故当如是学：『当勤精进，断除诸有，莫令增长。』」\n佛说此经已，诸比丘闻佛所说，欢喜奉行。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在舍卫国祇树给孤独园。\n那时世尊告诉比丘们：「众生无始以来生死，被无明覆盖、爱结系住脖子，长夜轮转，不知苦的本际。」当时有一位比丘问：「一劫有多久？」佛说：「我能说，你很难了知。」「可以打个比方吗？」「可以。好比一座铁城，长宽高各一由旬，里面装满芥子；有人每一百年取出一粒芥子，芥子取尽了，劫还没有结束。这样长的劫里，百千万亿的苦连续不断，白骨成丘，脓血成流，三恶趣充满。所以应当这样学：『应当勤加精进，断除诸有，不要让它增长。』」\n佛说完这部经，比丘们听佛所说，都欢喜奉行。",
+  "notes": "本经 SC 平行表所列平行及 `raw_aligned_data.json` 内之巴利本文、Sujato 英译并用以厘定法义；求那跋陀罗汉本用于定位经文与传统术语。confidence=high：primary SN15.6 Sāsapa；铁城满芥、百年一粒；劫犹不尽。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "high",
+  "prior_review_status": "needs_revision",
+  "similarity_to_source": 0.24,
+  "paragraph_parallel": true
+}

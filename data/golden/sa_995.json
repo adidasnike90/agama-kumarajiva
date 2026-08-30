@@ -1,0 +1,63 @@
+{
+  "id": "SA_995",
+  "uid": "sa995",
+  "title": "雜阿含經  卷第四十一  諸天相應  （995）  阿練",
+  "chinese_text": "如是我聞：\n\n一時，佛住舍衛國祇樹給孤獨園。\n\n時，有一天子，容色絕妙，於後夜時來詣佛所，稽首佛足，退坐一面。身諸光明遍照祇樹給孤獨園。\n\n時，彼天子而說偈問佛：\n\n「阿練若比丘，　　住於空閑處，\n\n　寂靜修梵行，　　於一坐而食，\n\n　以何因緣故，　　顏色特鮮明。」\n\n爾時，世尊說偈答言：\n\n「於過去無憂，　　未來不欣樂，\n\n　現在隨所得，　　正智繫念持，\n\n　飯食繫念故，　　顏色常鮮澤，\n\n　未來心馳想，　　過去追憂悔，\n\n　愚癡火自煎，　　如雹斷生草。」\n\n時，彼天子復說偈言：\n\n「久見婆羅門，　　逮得般涅槃，\n\n　一切怖已過，　　永超世恩愛。」\n\n時，彼天子聞佛所說，歡喜隨喜，稽首佛足，即沒不現。",
+  "english_sa_text": "",
+  "parallels": [
+    {
+      "uid": "sa-2.132",
+      "acronym": "SA2 132",
+      "root_lang": "lzh",
+      "original_title": "阿練",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "sn1.10",
+      "acronym": "SN 1.10",
+      "root_lang": "pli",
+      "original_title": "Araññasutta",
+      "translated_title": "Forest",
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "sf17",
+      "acronym": "SF 17",
+      "root_lang": "san",
+      "original_title": "",
+      "translated_title": null,
+      "type": "full",
+      "resembling": true,
+      "remark": null
+    }
+  ],
+  "primary_sn_uid": "sn1.10",
+  "pali_text": "Sāvatthinidānaṁ. Ekamantaṁ ṭhitā kho sā devatā bhagavantaṁ gāthāya ajjhabhāsi: “Araññe viharantānaṁ, santānaṁ brahmacārinaṁ; Ekabhattaṁ bhuñjamānānaṁ, kena vaṇṇo pasīdatī”ti. “Atītaṁ nānusocanti, nappajappanti nāgataṁ; Paccuppannena yāpenti, tena vaṇṇo pasīdati. Anāgatappajappāya, atītassānusocanā; Etena bālā sussanti, naḷova harito luto”ti. Naḷavaggo paṭhamo. Tassuddānaṁ Oghaṁ nimokkhaṁ upaneyyaṁ, Accenti katichindi ca; Jāgaraṁ appaṭividitā, Susammuṭṭhā mānakāminā; Araññe dasamo vutto, Vaggo tena pavuccati.",
+  "english_sn_text": "At Sāvatthī. Standing to one side, that deity addressed the Buddha in verse: “Living in the wilderness, peaceful spiritual practitioners eat just one meal a day: so why is their complexion so clear?” “They don’t grieve for the past, nor do they pray for the future; they feed on whatever comes that day, that’s why their complexion’s so clear. Because they pray for the future, and grieve for the past, fools wither away, like a green reed mowed down.”",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa901-1000/sa995_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa901-1000/sa995_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛住舍卫国祇树给孤独园。\n后夜分，有天子来诣佛所，容色绝妙，稽首礼足，退坐一面；身诸光明遍照祇园。\n天子说偈问：「阿练若比丘，住空闲寂静，修梵行一食，何故颜色鲜？」\n世尊说偈答：「过去不追忧，未来不欣求，现在随所得，正念持而食；以是颜色鲜。驰想未来、追悔过去，愚火自煎，如雹断青草。」\n天子说偈：「久见婆罗门，逮得般涅槃，一切怖已过，永超世恩爱。」闻已欢喜，礼足即没。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在舍卫国祇树给孤独园。\n后夜分，有一位天子，容色绝妙，来到佛前，顶礼佛足，退坐一面；身上的光明遍照祇树给孤独园。\n天子说偈问：「阿练若比丘住空闲处，寂静修梵行，一日一食，为什么脸色还那么鲜明？」\n世尊说偈答：「他们不为过去忧悔，不为未来企求，只依当日所得，正念而食；所以脸色鲜明。若驰想未来、追悔过去，愚痴之火自煎，如冰雹打断青草。」\n天子又说偈：「久见婆罗门，逮得般涅槃，一切怖已过，永超世恩爱。」听完欢喜随喜，顶礼佛足，随即隐没不见。",
+  "notes": "本经 SC 平行表所列平行及 `raw_aligned_data.json` 内之巴利本文、Sujato 英译并用以厘定法义；求那跋陀罗汉本用于定位经文与传统术语。confidence=high：primary SN1.10 Arañña。据 SN：不忧过去、不求未来、依现得而活，故颜色鲜；愚者反是如折芦。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "high",
+  "prior_review_status": "needs_revision",
+  "similarity_to_source": 0.186,
+  "paragraph_parallel": true
+}

@@ -1,0 +1,154 @@
+{
+  "id": "SA_1192",
+  "uid": "sa1192",
+  "title": "雜阿含經  卷第五十  梵天相應  （1192）  集會",
+  "chinese_text": "如是我聞：\n\n一時，佛住迦毘羅衛迦毘羅衛林中，與五百比丘俱，皆是羅漢，諸漏已盡，所作已作，離諸重擔，逮得己利，盡諸有結，正智心善解脫。爾時，世尊為諸大眾說涅槃相應法。\n\n時，有十方世界大眾威力諸天皆悉來會，供養世尊及比丘僧。復有諸梵天王住於梵世，作是念：「今日佛住迦毘羅衛國……」如上廣說，乃至「供養世尊及諸大眾，我今當往各各讚歎！」\n\n作是念已，譬如力士屈伸臂頃，從梵天沒，住於佛前。第一梵天即說偈言：\n\n「於此大林中，　　大眾普雲集，\n\n　十方諸天眾，　　皆悉來恭敬，\n\n　故我遠來禮，　　最勝難伏僧。」\n\n第二梵天復說偈言：\n\n「是諸比丘僧，　　真實心精進，\n\n　於此大林中，　　攝諸根求度。」\n\n第三梵天次說偈言：\n\n「善方便消融，　　恩愛深利刺；\n\n　堅固不傾動，　　如因陀羅幢。\n\n　度深塹水流，　　清淨不求欲，\n\n　善度之導師，　　諸調伏大龍。」\n\n第四梵天次說偈言：\n\n「歸依於佛者，　　終不墮惡趣；\n\n　能斷人中身，　　得天身受樂。」\n\n各說偈已，四梵天身即沒不現。",
+  "english_sa_text": "",
+  "parallels": [
+    {
+      "uid": "dn20",
+      "acronym": "DN 20",
+      "root_lang": "pli",
+      "original_title": "Mahāsamayasutta",
+      "translated_title": "The Discourse on the Great Convention",
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "sa-2.105",
+      "acronym": "SA2 105",
+      "root_lang": "lzh",
+      "original_title": "集會",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "sn1.37",
+      "acronym": "SN 1.37",
+      "root_lang": "pli",
+      "original_title": "Samayasutta",
+      "translated_title": "Concourse",
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "d34",
+      "acronym": "D 34",
+      "root_lang": "xct",
+      "original_title": "འདུས་པ་ཆེན་པོའི་མདོ། (Mahāsamaya-sūtra)",
+      "translated_title": null,
+      "type": "full",
+      "resembling": true,
+      "remark": null
+    },
+    {
+      "uid": "da19",
+      "acronym": "DA 19",
+      "root_lang": "lzh",
+      "original_title": "大會",
+      "translated_title": "The Great Congregation",
+      "type": "full",
+      "resembling": true,
+      "remark": null
+    },
+    {
+      "uid": "sf108",
+      "acronym": "SF 108",
+      "root_lang": "san",
+      "original_title": "",
+      "translated_title": null,
+      "type": "full",
+      "resembling": true,
+      "remark": null
+    },
+    {
+      "uid": "sf140",
+      "acronym": "SF 140",
+      "root_lang": "san",
+      "original_title": "Mahāsamāja",
+      "translated_title": null,
+      "type": "full",
+      "resembling": true,
+      "remark": null
+    },
+    {
+      "uid": "sf242",
+      "acronym": "SF 242",
+      "root_lang": "san",
+      "original_title": "Mahāsamāja",
+      "translated_title": null,
+      "type": "full",
+      "resembling": true,
+      "remark": null
+    },
+    {
+      "uid": "sf282",
+      "acronym": "SF 282",
+      "root_lang": "san",
+      "original_title": "Mahāsamāja",
+      "translated_title": null,
+      "type": "full",
+      "resembling": true,
+      "remark": null
+    },
+    {
+      "uid": "sf55",
+      "acronym": "SF 55",
+      "root_lang": "san",
+      "original_title": "",
+      "translated_title": null,
+      "type": "full",
+      "resembling": true,
+      "remark": null
+    },
+    {
+      "uid": "sht-sutta8",
+      "acronym": "SHT Sutta 8",
+      "root_lang": "san",
+      "original_title": "",
+      "translated_title": null,
+      "type": "full",
+      "resembling": true,
+      "remark": null
+    },
+    {
+      "uid": "t19",
+      "acronym": "T 19",
+      "root_lang": "lzh",
+      "original_title": "大三摩惹",
+      "translated_title": null,
+      "type": "full",
+      "resembling": true,
+      "remark": null
+    }
+  ],
+  "primary_sn_uid": "sn1.37",
+  "pali_text": "Evaṁ me sutaṁ— ekaṁ samayaṁ bhagavā sakkesu viharati kapilavatthusmiṁ mahāvane mahatā bhikkhusaṅghena saddhiṁ pañcamattehi bhikkhusatehi sabbeheva arahantehi; dasahi ca lokadhātūhi devatā yebhuyyena sannipatitā honti bhagavantaṁ dassanāya bhikkhusaṅghañca. Atha kho catunnaṁ suddhāvāsakāyikānaṁ devatānaṁ etadahosi: “ayaṁ kho bhagavā sakkesu viharati kapilavatthusmiṁ mahāvane mahatā bhikkhusaṅghena saddhiṁ pañcamattehi bhikkhusatehi sabbeheva arahantehi; dasahi ca lokadhātūhi devatā yebhuyyena sannipatitā honti bhagavantaṁ dassanāya bhikkhusaṅghañca. Yannūna mayampi yena bhagavā tenupasaṅkameyyāma; upasaṅkamitvā bhagavato santike paccekaṁ gāthaṁ bhāseyyāmā”ti. Atha kho tā devatā—seyyathāpi nāma balavā puriso samiñjitaṁ vā bāhaṁ pasāreyya pasāritaṁ vā bāhaṁ samiñjeyya; evameva—suddhāvāsesu devesu antarahitā bhagavato purato pāturahesuṁ. Atha kho tā devatā bhagavantaṁ abhivādetvā ekamantaṁ aṭṭhaṁsu. Ekamantaṁ ṭhitā kho ekā devatā bhagavato santike imaṁ gāthaṁ abhāsi: “Mahāsamayo pavanasmiṁ, Devakāyā samāgatā; Āgatamha imaṁ dhammasamayaṁ, Dakkhitāye aparājitasaṅghan”ti. Atha kho aparā devatā bhagavato santike imaṁ gāthaṁ abhāsi: “Tatra bhikkhavo samādahaṁsu, Cittamattano ujukaṁ akaṁsu; Sārathīva nettāni gahetvā, Indriyāni rakkhanti paṇḍitā”ti. Atha kho aparā devatā bhagavato santike imaṁ gāthaṁ abhāsi: “Chetvā khīlaṁ chetvā palighaṁ, Indakhīlaṁ ūhacca manejā; Te caranti suddhā vimalā, Cakkhumatā sudantā susunāgā”ti. Atha kho aparā devatā bhagavato santike imaṁ gāthaṁ abhāsi: “Ye keci buddhaṁ saraṇaṁ gatāse, Na te gamissanti apāyabhūmiṁ; Pahāya mānusaṁ dehaṁ, Devakāyaṁ paripūressantī”ti.",
+  "english_sn_text": "So I have heard. At one time the Buddha was staying in the land of the Sakyans, in the Great Wood near Kapilavatthu, together with a large Saṅgha of five hundred mendicants, all of whom were perfected ones. And most of the deities from ten solar systems had gathered to see the Buddha and the Saṅgha of mendicants. Then four deities of the pure abodes, aware of what was happening, thought: “Why don’t we go to the Buddha and each recite a verse in his presence?” Then, as easily as a strong person would extend or contract their arm, they vanished from the Pure Abodes and reappeared in front of the Buddha. They bowed to the Buddha and stood to one side. Standing to one side, one deity spoke this verse in the Buddha’s presence: “There’s a great congregation in the woods, where heavenly hosts have assembled. We’ve come to this righteous congregation to see the invincible Saṅgha!” Then another deity spoke this verse in the Buddha’s presence: “The mendicants there are immersed in samādhi, they’ve straightened their own minds. Like a charioteer holding the reins, the astute ones protect their senses.” Then another deity spoke this verse in the Buddha’s presence: “They snapped the post and snapped the cross-bar, unstirred, they tore out Indra’s pillar. They live pure and immaculate, the young giants tamed by the Clear-eyed One.” Then another deity spoke this verse in the Buddha’s presence: “Anyone who has gone to the Buddha for refuge won’t go to a plane of loss. After giving up this human body, they swell the heavenly host.”",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa1101-1200/sa1192_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa1101-1200/sa1192_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛住释氏迦毘罗卫大林中，与五百比丘俱，皆是阿罗汉。十方世界诸天大多来集，欲见世尊及比丘僧。\n时有四净居天作是念：「佛在大林与五百罗汉俱，十方诸天来集。我等亦可各说一偈赞之。」譬如力士屈伸臂顷，从净居没，现于佛前，稽首一面立。\n第一说偈：「大林中大集会，天众皆来集；我等来此法会，瞻礼难胜之僧。」\n第二说偈：「诸比丘心专定，自心正直已；如善御执缰，智者守护诸根。」\n第三说偈：「已断桩与门闩，拔因陀罗柱而不动；清净无垢而游行，明眼所调之大龙。」\n第四说偈：「归依佛者，终不堕恶趣；舍此人身后，当满诸天众。」\n四天说已，即没不现。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在释迦族迦毘罗卫的大森林里，和五百比丘在一起，都是阿罗汉。十方世界的多数天神都来集会，想见世尊和比丘僧。\n当时有四位净居天这样想：「佛在大森林里和五百罗汉在一起，十方诸天来集会。我们也可以每人说一首偈来赞叹。」就像力士一伸一屈手臂那样快，他们从净居天隐没，出现在佛前，顶礼后站在一边。\n第一位说偈：「大森林里有大集会，天众都来了；我们来到这法会，瞻仰那不可战胜的僧团。」\n第二位说偈：「比丘们心专一入定，已经把自己的心调直；像善御者握住缰绳，有智慧的人守护诸根。」\n第三位说偈：「已经砍断木桩和门闩，拔掉因陀罗柱而不动摇；清净无垢地游行，是明眼者所调伏的大龙。」\n第四位说偈：「归依佛的人，终不会堕入恶趣；舍弃这人身之后，将充实天众。」\n四位天神说完，随即隐没不见。",
+  "notes": "本经 SC 平行表所列平行及 `raw_aligned_data.json` 内之巴利本文、Sujato 英译并用以厘定法义；求那跋陀罗汉本用于定位经文与传统术语。confidence=high：primary SN1.37 Samayasutta（亦近 DN20 Mahāsamaya 首分）。据 SN：说偈者为净居天（suddhāvāsa），非汉「四梵天王」；第二偈「执缰护根」、第三「桩／闩／因陀罗柱」从巴利校正汉「消融恩爱刺」。",
+  "review_status": "gold_reconstructed",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "high",
+  "prior_review_status": "needs_revision",
+  "reconstruction_basis": "汉「四梵天」→SN1.37 四净居天；偈据巴利护根／桩闩校正。",
+  "similarity_to_source": 0.081,
+  "paragraph_parallel": true
+}

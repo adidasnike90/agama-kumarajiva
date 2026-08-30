@@ -1,0 +1,53 @@
+{
+  "id": "SA_1255",
+  "uid": "sa1255",
+  "title": "雜阿含經  卷第五十  譬喻相應  （1255）  七手劍",
+  "chinese_text": "如是我聞：\n\n一時，佛住舍衛國祇樹給孤獨園。\n\n爾時，世尊告諸比丘：「譬如有人有匕手劍，其刃廣利。有健士夫言：『我能以手以拳椎打汝劍，令其摧碎。』諸比丘！彼健士夫當能以手以拳椎打彼劍，令摧碎不？」\n\n比丘白佛：「不能。世尊！彼匕手劍其刃廣利，非彼士夫能以手以拳椎打碎折，正足自困。\n\n「如是，比丘！若沙門、婆羅門下至如𤛓牛乳頃，於一切眾生修習慈心，若有諸惡鬼神欲往伺求其短，不能得其間便，正可反自傷耳。是故，諸比丘！當如是學：『數數下至如𤛓牛乳頃，修習慈心。』」\n\n佛說此經已，諸比丘聞佛所說，歡喜奉行。",
+  "english_sa_text": "",
+  "parallels": [
+    {
+      "uid": "sn20.5",
+      "acronym": "SN 20.5",
+      "root_lang": "pli",
+      "original_title": "Sattisutta",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "sf75",
+      "acronym": "SF 75",
+      "root_lang": "san",
+      "original_title": "Śakti",
+      "translated_title": null,
+      "type": "full",
+      "resembling": true,
+      "remark": null
+    }
+  ],
+  "primary_sn_uid": "sn20.5",
+  "pali_text": "Sāvatthiyaṁ viharati. “Seyyathāpi, bhikkhave, satti tiṇhaphalā. Atha puriso āgaccheyya: ‘ahaṁ imaṁ sattiṁ tiṇhaphalaṁ pāṇinā vā muṭṭhinā vā paṭileṇissāmi paṭikoṭṭissāmi paṭivaṭṭessāmī’ti. Taṁ kiṁ maññatha, bhikkhave, bhabbo nu kho so puriso amuṁ sattiṁ tiṇhaphalaṁ pāṇinā vā muṭṭhinā vā paṭileṇetuṁ paṭikoṭṭetuṁ paṭivaṭṭetun”ti? “No hetaṁ, bhante”. “Taṁ kissa hetu”? “Asu hi, bhante, satti tiṇhaphalā na sukarā pāṇinā vā muṭṭhinā vā paṭileṇetuṁ paṭikoṭṭetuṁ paṭivaṭṭetuṁ. Yāvadeva ca pana so puriso kilamathassa vighātassa bhāgī assā”ti. “Evameva kho, bhikkhave, yassa kassaci bhikkhuno mettācetovimutti bhāvitā bahulīkatā yānīkatā vatthukatā anuṭṭhitā paricitā susamāraddhā, tassa ce amanusso cittaṁ khipitabbaṁ maññeyya; atha kho sveva amanusso kilamathassa vighātassa bhāgī assa. Tasmātiha, bhikkhave, evaṁ sikkhitabbaṁ: ‘mettā no cetovimutti bhāvitā bhavissati bahulīkatā yānīkatā vatthukatā anuṭṭhitā paricitā susamāraddhā’ti. Evañhi vo, bhikkhave, sikkhitabban”ti. Pañcamaṁ.",
+  "english_sn_text": "At Sāvatthī. “Mendicants, suppose there was a sharp-pointed spear. And a man came along and thought, ‘With my hand or fist I’ll fold this sharp spear over, crumple it, and bend it back!’ What do you think, mendicants? Is that man capable of doing so?” “No, sir. Why not? Because it’s not easy to fold that sharp spear over, crumple it, and bend it back with the hand or fist. That man will eventually get weary and frustrated.” “In the same way, suppose a mendicant has developed the heart’s release by love, has cultivated it, made it a vehicle and a basis, kept it up, consolidated it, and properly implemented it. Should any non-human think to overthrow their mind, they’ll eventually get weary and frustrated. So you should train like this: ‘We will develop the heart’s release by love. We’ll cultivate it, make it our vehicle and our basis, keep it up, consolidate it, and properly implement it.’ That’s how you should train.”",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa1201-1300/sa1255_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa1201-1300/sa1255_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛住舍卫国祇树给孤独园。\n尔时世尊告诸比丘：「譬如利矛，锋刃广利。有人言：『我能以手以拳折屈此矛。』于意云何？彼人能折屈不？」比丘白佛：「不能。世尊！彼矛锋利，非手拳所能折；适足自困。」\n「如是，比丘！若修习慈心解脱，多修习，以为车乘、所依；有非人欲坏其心，终不能得，适自疲苦。当如是学：『乃至挤牛乳顷，于一切众生修习慈心；慈心解脱当修习、多修习，以为车乘、以为所依。』」\n佛说此经已，诸比丘闻佛所说，欢喜奉行。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在舍卫国祇树给孤独园。\n那时世尊告诉比丘们：「好比一支锋利的矛。有人说：『我能用手用拳把它折弯。』你们怎么想？那人折得了吗？」比丘回答：「折不了。世尊！那矛太利，不是手拳折得了的；只会自找苦吃。」\n「同样，比丘！若修习慈心解脱，多修习，当作车乘、所依；有非人想扰乱他的心，终究做不到，只会自己疲苦。应当这样学：『哪怕只挤一下牛乳那么短的时间，也要对一切众生修习慈心；慈心解脱应当修习、多修习，当作车乘、当作所依。』」\n佛说完这部经，比丘们听佛所说，都欢喜奉行。",
+  "notes": "本经 SC 平行表所列平行及 `raw_aligned_data.json` 内之巴利本文、Sujato 英译并用以厘定法义；求那跋陀罗汉本用于定位经文与传统术语。confidence=high：primary SN20.5 Sattisutta。satti tiṇhaphalā→利矛（汉「七手剑／匕手剑」据义改）；非人欲坏心→自取疲苦。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "high",
+  "prior_review_status": "needs_revision",
+  "similarity_to_source": 0.235,
+  "paragraph_parallel": true
+}

@@ -1,0 +1,32 @@
+{
+  "id": "SA_247",
+  "uid": "sa247",
+  "title": "雜阿含經  卷第十  六入處相應  （247）  魔",
+  "chinese_text": "如是我聞：\n\n一時，佛住王舍城耆闍崛山。\n\n爾時，世尊告諸比丘：「若沙門、婆羅門眼習近於色，則隨魔所自在，乃至不得解脫魔繫。耳、鼻、舌、身、意亦復如是。\n\n「若沙門、婆羅門眼不習近於色，不隨魔，自在，乃至得解脫魔繫。耳、鼻、舌、身、意亦復如是。」\n\n佛說此經已，諸比丘聞佛所說，歡喜奉行。\n\n如習近，如是繫著、如是味、如是鄰聚，若使受持繫著，我所求欲，淳濃不捨，亦如上說。",
+  "english_sa_text": "",
+  "parallels": [],
+  "primary_sn_uid": null,
+  "pali_text": "",
+  "english_sn_text": "",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa201-300/sa247_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa201-300/sa247_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时佛在王舍城耆阇崛山。\n尔时世尊告诸比丘：若沙门、婆罗门眼习近于色，则随魔所自在，乃至不得解脱魔系。耳、鼻、舌、身、意亦复如是。\n若沙门、婆罗门眼不习近于色，不随魔，自在，乃至得解脱魔系。耳、鼻、舌、身、意亦复如是。\n佛说此经已，诸比丘闻佛所说，欢喜奉行。\n（省文）如习近，如是系著、如是味、如是邻聚，若使受持系著，我所求欲，淳浓不舍，亦如上说。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在王舍城耆阇崛山。\n那时，世尊告诉比丘们：若有沙门、婆罗门对眼习近于色（惯于亲近色境），就随魔而不得自在，乃至不得解脱魔系。耳、鼻、舌、身、意也是一样。\n若有沙门、婆罗门对眼不习近于色，就不随魔，得自在，乃至得解脱魔系。耳、鼻、舌、身、意也是一样。\n佛说完这部经，比丘们听佛所说，都欢喜奉行。\n（以下是原典的省文指示）如同这部「习近」经，同样还有「系著」「味」「邻聚」「若使」「受持系著」「我所求欲」「淳浓不舍」等，各按同一格式成经。",
+  "notes": "本经 SC 平行表所列平行及 `raw_aligned_data.json` 内之巴利本文、Sujato 英译并用以厘定法义；求那跋陀罗汉本用于定位经文与传统术语。Anālayo 之 SA 英译（DDJBS 18, 2016）止于 SA 229，本批无其逐经英译。SC 于本经未列任何平行（`parallels` 空、巴利本文阙），故唯以汉本为底，参六入處相應之巴利定型语厘义；依项目规约「无可靠平行时 confidence 降为 medium/low」，本经作 medium。「习近」＝ sāratā（味着、亲近），与 SA_243 之「味」同类。末段省文指示七（或更多）经之衍展系列，如实存为末段，不伪作各别全经。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "medium",
+  "prior_review_status": "needs_revision",
+  "similarity_to_source": 0.37,
+  "paragraph_parallel": true
+}

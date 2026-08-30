@@ -1,0 +1,63 @@
+{
+  "id": "SA_220",
+  "uid": "sa220",
+  "title": "雜阿含經  卷第九  六入處相應  （220）  趣",
+  "chinese_text": "如是我聞：\n\n一時，佛住舍衛國祇樹給孤獨園。\n\n爾時，世尊告諸比丘：「有似趣涅槃道跡。云何為似趣涅槃道跡？觀察眼非我，若色、眼識、眼觸因緣生受，若內覺若苦、若樂、不苦不樂，彼亦觀察無常。耳、鼻、舌、身、意亦復如是，是名似趣涅槃道跡。」\n\n佛說此經已，諸比丘聞佛所說，歡喜奉行。",
+  "english_sa_text": "Saṁyuktāgama\n\n220. [Second Discourse on the Path to Nirvāṇa]\n\nThus have I heard. At one time the Buddha was staying at Sāvatthī in Jeta’s Grove, Anāthapiṇḍika’s Park.\n\nAt that time the Blessed One said to the monks: “There is a path leading to Nirvāṇa. What is the path leading to Nirvāṇa? Contemplate the eye as not-self. Contemplate also forms, eye-consciousness, and feeling arisen in dependence on eye-contact that is experienced within, be it painful, pleasant, or neutral, as being not-self.\n\n“The ear … the nose … the tongue … the body … the mind is also like that. This is called the path leading to Nirvāṇa.”\n\nWhen the Buddha had spoken this discourse, hearing what the Buddha had said the monks were delighted and received it respectfully.\n\nTranslated by Bhikkhu Anālayo. Originally published in \"On the Six Sense-spheres (1) ―A Translation of Saṁyukta-āgama Discourses 188 to 229 (Fascicle 8)\", Dharma Drum Journal of Buddhist Studies, 2016, vol. 18 pp. 1–61.\n\nPrepared for SuttaCentral by Ayya Vimala.",
+  "parallels": [
+    {
+      "uid": "sn35.150",
+      "acronym": "SN 35.150",
+      "root_lang": "pli",
+      "original_title": "Nibbānasappāyapaṭipadāsutta",
+      "translated_title": "Suitable for Attaining Nibbāna (4)",
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "sn35.149",
+      "acronym": "SN 35.149",
+      "root_lang": "pli",
+      "original_title": "Anattanibbānasappāyasutta",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "sn35.148",
+      "acronym": "SN 35.148",
+      "root_lang": "pli",
+      "original_title": "Dukkhanibbānasappāyasutta",
+      "translated_title": "Suitable for Attaining Nibbāna (2–3)",
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    }
+  ],
+  "primary_sn_uid": "sn35.148",
+  "pali_text": "“Nibbānasappāyaṁ vo, bhikkhave, paṭipadaṁ desessāmi. Taṁ suṇātha …pe… katamā ca sā, bhikkhave, nibbānasappāyā paṭipadā? Idha, bhikkhave, cakkhuṁ dukkhanti passati, rūpā dukkhāti passati, cakkhuviññāṇaṁ dukkhanti passati, cakkhusamphasso dukkhoti passati, yampidaṁ cakkhusamphassapaccayā uppajjati vedayitaṁ sukhaṁ vā dukkhaṁ vā adukkhamasukhaṁ vā tampi dukkhanti passati …pe… jivhā dukkhāti passati …pe… mano dukkhoti passati, dhammā dukkhāti passati, manoviññāṇaṁ dukkhanti passati, manosamphasso dukkhoti passati, yampidaṁ manosamphassapaccayā uppajjati vedayitaṁ sukhaṁ vā dukkhaṁ vā adukkhamasukhaṁ vā tampi dukkhanti passati. Ayaṁ kho sā, bhikkhave, nibbānasappāyā paṭipadā”ti. Tatiyaṁ.",
+  "english_sn_text": "“Mendicants, I will teach you a practice that’s conducive to extinguishment. Listen … And what is that practice that’s conducive to extinguishment? It’s when a mendicant sees that the eye, sights, eye consciousness, and eye contact are suffering. And they see that the painful, pleasant, or neutral feeling that arises dependent on eye contact is also suffering. They see that the ear … nose … tongue … body … mind, ideas, mind-consciousness, and mind contact are suffering. And they see that the painful, pleasant, or neutral feeling that arises dependent on mind contact is also suffering. This is that practice that’s conducive to extinguishment.”",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa201-300/sa220_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa201-300/sa220_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时佛在舍卫国祇树给孤独园。\n尔时世尊告诸比丘：有顺趣涅槃之道。云何顺趣涅槃之道？谓观察眼非我；色、眼识，及眼触因缘所生受——内所觉受，若苦、若乐、不苦不乐——彼亦观察非我。耳、鼻、舌、身、意亦复如是。是名顺趣涅槃之道。\n佛说此经已，诸比丘闻佛所说，欢喜奉行。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在舍卫国祇树给孤独园。\n那时，世尊告诉比丘们：有顺趣涅槃之道。什么是顺趣涅槃之道呢？就是观察眼非我；色、眼识，以及依眼触为缘而生起的感受——内心所领受的，无论是苦、是乐、还是不苦不乐——也都观察它非我。耳、鼻、舌、身、意也是一样。这叫做顺趣涅槃之道。（底本此段末句作「彼亦观察无常」，与首句「观察眼非我」不一贯，今依巴利平行正作「非我」，见 notes。）\n佛说完这部经，比丘们听佛所说，都欢喜奉行。",
+  "notes": "本经 SC 平行表所列平行及 `raw_aligned_data.json` 内之巴利本文、Sujato 英译，与 Anālayo 之 SA 英译（DDJBS 18, 2016, Fascicle 8）并用以厘定法义；求那跋陀罗汉本用于定位经文与传统术语。confidence=high：SC 所列 SN35.148／35.149／35.150 为 `full`、非 resembling 之平行，其中 SN35.149（Anattanibbānasappāya）与本经「观非我」之式逐支相符。信-校正二事：（一）「似趣涅槃道跡」之「似」义不可通：巴利与前经同作 `nibbānasappāyā paṭipadā`，无「似」之对；或为「顺」之讹，或译者以「似」译 sappāya（随顺、相应）之义，Anālayo 径读作 a path leading to Nirvāṇa。今作「顺趣涅槃之道」以合前经，并于此志底本语面。（二）底本首句作「觀察眼非我」而末句作「彼亦觀察無常」，前后不一贯；巴利 SN35.149 通篇作 anattā，Anālayo 亦读末句为 not-self；今正作「彼亦观察非我」，并于现代栏括注底本语面（同 SA_202 之例）。「内觉」＝ vedayita，及汉本唯出四支之量，皆同前经（SA_219）之注。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "high",
+  "prior_review_status": "needs_revision",
+  "similarity_to_source": 0.321,
+  "paragraph_parallel": true
+}

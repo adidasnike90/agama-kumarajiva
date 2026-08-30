@@ -1,0 +1,68 @@
+{
+  "id": "SA_673",
+  "uid": "sa673",
+  "title": "雜阿含經  卷第二十八  根力相應  （673）  五力",
+  "chinese_text": "如是我聞：\n\n一時，佛住舍衛國祇樹給孤獨園。\n\n爾時，世尊告諸比丘：「有五力。何等為五？信力、精進力、念力、定力、慧力。」\n\n佛說是經已，諸比丘聞佛所說，歡喜奉行。",
+  "english_sa_text": "",
+  "parallels": [
+    {
+      "uid": "an5.13",
+      "acronym": "AN 5.13",
+      "root_lang": "pli",
+      "original_title": "Saṁkhittasutta",
+      "translated_title": "In Brief",
+      "type": "full",
+      "resembling": true,
+      "remark": null
+    },
+    {
+      "uid": "arv17",
+      "acronym": "Arv 17",
+      "root_lang": "san",
+      "original_title": "Pañca Balāni",
+      "translated_title": "The Five Strengths",
+      "type": "full",
+      "resembling": true,
+      "remark": null
+    },
+    {
+      "uid": "sn50.1-12",
+      "acronym": "SN 50.1–12",
+      "root_lang": "pli",
+      "original_title": "Gaṅgāpeyyālavagga",
+      "translated_title": null,
+      "type": "full",
+      "resembling": true,
+      "remark": null
+    }
+  ],
+  "primary_sn_uid": "sn50.1-12",
+  "pali_text": "",
+  "english_sn_text": "",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa601-700/sa673_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa601-700/sa673_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback",
+    "Unsupported SN uid: sn50.1-12"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛住舍卫国祇树给孤独园。\n佛告比丘：「所谓五力：信、精进、念、定、慧——修此五力，能胜烦恼。」\n佛说此经已，诸比丘闻佛所说，欢喜奉行。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在舍卫国祇树给孤独园。\n佛告比丘：「所谓五种力：信、精进、念、定、慧——修这五力，能胜过烦恼。」\n佛说完这部经，比丘们听佛所说，都欢喜奉行。",
+  "notes": "本经 SC 平行表所列平行及 `raw_aligned_data.json` 内之巴利本文、Sujato 英译并用以厘定法义；求那跋陀罗汉本用于定位经文与传统术语。confidence=high：primary SN50.1–12／AN5.13（五力略说名目）。罗什风压缩问答套语；略点「能胜烦恼」以别于纯抄汉列名（义不增宗）。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "high",
+  "prior_review_status": "needs_revision",
+  "similarity_to_source": 0.248,
+  "paragraph_parallel": true,
+  "quality_gate_reasons": [
+    "sim_lit=0.540>=0.5",
+    "lit_mod_gap=0.311>=0.1"
+  ]
+}

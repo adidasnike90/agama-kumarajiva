@@ -1,0 +1,73 @@
+{
+  "id": "SA_1186",
+  "uid": "sa1186",
+  "title": "雜阿含經  卷第五十  梵天相應  （1186）  髻髮",
+  "chinese_text": "如是我聞：\n\n一時，佛住迦毘羅衛國尼拘律園中。\n\n時，有縈髻羅豆婆遮婆羅門，本俗人時，為佛善知識，來詣佛所，面相問訊慰勞已，退坐一面。而說偈言：\n\n「外身縈髻者，　　是但名縈髻；\n\n　內心縈髻者，　　是結縛眾生。\n\n　今請問瞿曇，　　云何解縈髻？」\n\n爾時，世尊說偈答言：\n\n「受持於淨戒，　　內心修正覺，\n\n　專精勤方便，　　是則解縈髻。」\n\n時，縈髻婆羅門聞佛所說，歡喜隨喜，從座起而去。",
+  "english_sa_text": "",
+  "parallels": [
+    {
+      "uid": "sa-2.100",
+      "acronym": "SA2 100",
+      "root_lang": "lzh",
+      "original_title": "髻髮",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "sn7.6",
+      "acronym": "SN 7.6",
+      "root_lang": "pli",
+      "original_title": "Jaṭāsutta",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "t1670b2.10",
+      "acronym": "T 1670b 2.10",
+      "root_lang": "lzh",
+      "original_title": "2.10 The Thirty-Seven Factors of Enlightenment",
+      "translated_title": "The Thirty-Seven Factors of Enlightenment",
+      "type": "mention",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "t1670b2.10",
+      "acronym": "T 1670b 2.10",
+      "root_lang": "lzh",
+      "original_title": "2.10 The Thirty-Seven Factors of Enlightenment",
+      "translated_title": "The Thirty-Seven Factors of Enlightenment",
+      "type": "mention",
+      "resembling": false,
+      "remark": null
+    }
+  ],
+  "primary_sn_uid": "sn7.6",
+  "pali_text": "Sāvatthinidānaṁ. Atha kho jaṭābhāradvājo brāhmaṇo yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavatā saddhiṁ sammodi. Sammodanīyaṁ kathaṁ sāraṇīyaṁ vītisāretvā ekamantaṁ nisīdi. Ekamantaṁ nisinno kho jaṭābhāradvājo brāhmaṇo bhagavantaṁ gāthāya ajjhabhāsi: “Antojaṭā bahijaṭā, Jaṭāya jaṭitā pajā; Taṁ taṁ gotama pucchāmi, Ko imaṁ vijaṭaye jaṭan”ti. “Sīle patiṭṭhāya naro sapañño, Cittaṁ paññañca bhāvayaṁ; Ātāpī nipako bhikkhu, So imaṁ vijaṭaye jaṭaṁ. Yesaṁ rāgo ca doso ca, avijjā ca virājitā; Khīṇāsavā arahanto, tesaṁ vijaṭitā jaṭā. Yattha nāmañca rūpañca, asesaṁ uparujjhati; Paṭighaṁ rūpasaññā ca, etthesā chijjate jaṭā”ti. Evaṁ vutte, jaṭābhāradvājo bhagavantaṁ etadavoca: “abhikkantaṁ, bho gotama …pe… aññataro ca panāyasmā bhāradvājo arahataṁ ahosī”ti.",
+  "english_sn_text": "At Sāvatthī. Then the brahmin Bhāradvāja of the Matted Hair went up to the Buddha, and exchanged greetings with him. When the greetings and polite conversation were over, he sat down to one side, and addressed the Buddha in verse: “Tangled within, tangled without: these people are tangled in tangles. I ask you this, Gotama: who can untangle this tangle?” “A wise person grounded in ethics, developing the mind and wisdom, a keen and alert mendicant— they can untangle this tangle. Those in whom greed, hate, and ignorance have faded away; the perfected ones with defilements ended— they have untangled the tangle. Where name and form cease with no residue left behind; as well as impingement and perception of form: it’s here this tangle is cut.” When he had spoken, Bhāradvāja of the Matted Hair said to the Buddha, “Excellent, worthy Gotama! …” … And Venerable Bhāradvāja became one of the perfected.",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa1101-1200/sa1186_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa1101-1200/sa1186_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛住迦毘罗卫国尼拘律园中。\n萦髻婆罗豆婆遮来诣佛所，本俗时为善知识，说偈：「外身萦髻者，是但名萦髻；内心萦髻者，是结缚众生。请问瞿昙，云何解萦髻？」\n佛答：「受持净戒，内心修正觉，专精勤方便，是则解萦髻。」\n闻佛所说，欢喜随喜，从座起而去。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在迦毘罗卫国尼拘律园。\n萦髻的婆罗豆婆遮来见佛——在俗时曾是佛的好友——说偈：「外面盘发髻的，只是名叫萦髻；内心纠缠的，才是绑住众生的结。请问瞿昙，怎样解开这萦髻？」\n佛答：「受持清净戒，内心修习正觉，专精勤勉，就能解开萦髻。」\n听佛所说，欢喜随喜，从座起身离去。",
+  "notes": "本经 SC 平行表所列平行及 `raw_aligned_data.json` 内之巴利本文、Sujato 英译并用以厘定法义；求那跋陀罗汉本用于定位经文与传统术语。confidence=high：primary SN7.6（前半答：戒＋心＋慧勤勉解结）。汉本此经取戒定慧解结一偈；次经 SA_1187 取名色灭尽断结一偈——同出 SN7.6 而分篇。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "high",
+  "prior_review_status": "needs_revision",
+  "similarity_to_source": 0.193,
+  "paragraph_parallel": true
+}

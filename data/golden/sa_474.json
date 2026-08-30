@@ -1,0 +1,113 @@
+{
+  "id": "SA_474",
+  "uid": "sa474",
+  "title": "雜阿含經  卷第十九  受相應  （474）  止息",
+  "chinese_text": "如是我聞：\n\n一時，佛住王舍城迦蘭陀竹園。\n\n爾時，尊者阿難獨一靜處禪思，念言：「世尊說三受——樂受、苦受、不苦不樂受，又復說諸所有受悉皆是苦，此有何義？」作是念已，從禪起，詣世尊所，稽首禮足，退住一面，白佛言：「世尊！我獨一靜處禪思，念言：『如世尊說三受——樂受、苦受、不苦不樂受，又說一切諸受悉皆是苦，此有何義？』」\n\n佛告阿難：「我以一切行無常故，一切行變易法故，說諸所有受悉皆是苦。又復，阿難！我以諸行漸次寂滅故說，以諸行漸次止息故說，一切諸受悉皆是苦。」\n\n阿難白佛言：「云何？世尊！以諸受漸次寂滅故說？」\n\n佛告阿難：「初禪正受時，言語寂滅，第二禪正受時，覺觀寂滅，第三禪正受時，喜心寂滅，第四禪正受時，出入息寂滅；空入處正受時，色想寂滅，識入處正受時，空入處想寂滅，無所有入處正受時，識入處想寂滅，非想非非想入處正受時，無所有入處想寂滅，想受滅正受時，想受寂滅，是名漸次諸行寂滅。」\n\n阿難白佛言：「世尊！云何漸次諸行止息？」\n\n佛告阿難：「初禪正受時，言語止息，二禪正受時，覺觀止息，三禪正受時，喜心止息，四禪正受時，出入息止息；空入處正受時，色想止息，識入處正受時，空入處想止息，無所有入處正受時，識入處想止息，非想非非想入處正受時，無所有入處想止息，想受滅正受時，想受止息，是名漸次諸行止息。」\n\n阿難白佛：「世尊！是名漸次諸行止息。」\n\n佛告阿難：「復有勝止息、奇特止息、上止息、無上止息。如是止息，於餘止息無過上者。」\n\n阿難白佛：「何等為勝止息、奇特止息、上止息、無上止息，諸餘止息無過上者？」\n\n佛告阿難：「於貪欲心不樂、解脫，恚、癡心不樂、解脫，是名勝止息、奇特止息、上止息、無上止息，諸餘止息無過上者。」\n\n佛說此經已，尊者阿難聞佛所說，歡喜奉行。",
+  "english_sa_text": "",
+  "parallels": [
+    {
+      "uid": "sa473",
+      "acronym": "SA 473",
+      "root_lang": "lzh",
+      "original_title": "禪",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "sn36.11",
+      "acronym": "SN 36.11",
+      "root_lang": "pli",
+      "original_title": "Rahogatasutta",
+      "translated_title": "Alone",
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "sn36.1",
+      "acronym": "SN 36.1",
+      "root_lang": "pli",
+      "original_title": "Samādhisutta",
+      "translated_title": "Concentration",
+      "type": "full",
+      "resembling": true,
+      "remark": null
+    },
+    {
+      "uid": "sn36.15",
+      "acronym": "SN 36.15",
+      "root_lang": "pli",
+      "original_title": "Paṭhamaānandasutta",
+      "translated_title": "Ānanda (1)",
+      "type": "full",
+      "resembling": true,
+      "remark": null
+    },
+    {
+      "uid": "sn36.16",
+      "acronym": "SN 36.16",
+      "root_lang": "pli",
+      "original_title": "Dutiyaānandasutta",
+      "translated_title": "Ānanda (2)",
+      "type": "full",
+      "resembling": true,
+      "remark": null
+    },
+    {
+      "uid": "sn36.17",
+      "acronym": "SN 36.17",
+      "root_lang": "pli",
+      "original_title": "Paṭhamasambahulasutta",
+      "translated_title": "A Number of Bhikkhus",
+      "type": "full",
+      "resembling": true,
+      "remark": null
+    },
+    {
+      "uid": "sn36.18",
+      "acronym": "SN 36.18",
+      "root_lang": "pli",
+      "original_title": "Dutiyasambahulasutta",
+      "translated_title": null,
+      "type": "full",
+      "resembling": true,
+      "remark": null
+    },
+    {
+      "uid": "kv2.5",
+      "acronym": "Kv 2.5",
+      "root_lang": "pli",
+      "original_title": "Vacībhedakathā",
+      "translated_title": "Of Articulate Utterance During Ecstasy",
+      "type": "mention",
+      "resembling": false,
+      "remark": null
+    }
+  ],
+  "primary_sn_uid": "sn36.11",
+  "pali_text": "Atha kho aññataro bhikkhu yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṁ abhivādetvā ekamantaṁ nisīdi. Ekamantaṁ nisinno kho so bhikkhu bhagavantaṁ etadavoca: “idha mayhaṁ, bhante, rahogatassa paṭisallīnassa evaṁ cetaso parivitakko udapādi— tisso vedanā vuttā bhagavatā. Sukhā vedanā, dukkhā vedanā, adukkhamasukhā vedanā— imā tisso vedanā vuttā bhagavatā. Vuttaṁ kho panetaṁ bhagavatā: ‘yaṁ kiñci vedayitaṁ taṁ dukkhasmin’ti. Kiṁ nu kho etaṁ bhagavatā sandhāya bhāsitaṁ: ‘yaṁ kiñci vedayitaṁ taṁ dukkhasmin’”ti? “Sādhu sādhu, bhikkhu. Tisso imā, bhikkhu, vedanā vuttā mayā. Sukhā vedanā, dukkhā vedanā, adukkhamasukhā vedanā— imā tisso vedanā vuttā mayā. Vuttaṁ kho panetaṁ, bhikkhu, mayā: ‘yaṁ kiñci vedayitaṁ, taṁ dukkhasmin’ti. Taṁ kho panetaṁ, bhikkhu, mayā saṅkhārānaṁyeva aniccataṁ sandhāya bhāsitaṁ: ‘yaṁ kiñci vedayitaṁ taṁ dukkhasmin’ti. Taṁ kho panetaṁ, bhikkhu, mayā saṅkhārānaṁyeva khayadhammataṁ …pe… vayadhammataṁ …pe… virāgadhammataṁ …pe… nirodhadhammataṁ …pe… vipariṇāmadhammataṁ sandhāya bhāsitaṁ: ‘yaṁ kiñci vedayitaṁ taṁ dukkhasmin’ti. Atha kho pana, bhikkhu, mayā anupubbasaṅkhārānaṁ nirodho akkhāto. Paṭhamaṁ jhānaṁ samāpannassa vācā niruddhā hoti. Dutiyaṁ jhānaṁ samāpannassa vitakkavicārā niruddhā honti. Tatiyaṁ jhānaṁ samāpannassa pīti niruddhā hoti. Catutthaṁ jhānaṁ samāpannassa assāsapassāsā niruddhā honti. Ākāsānañcāyatanaṁ samāpannassa rūpasaññā niruddhā hoti. Viññāṇañcāyatanaṁ samāpannassa ākāsānañcāyatanasaññā niruddhā hoti. Ākiñcaññāyatanaṁ samāpannassa viññāṇañcāyatanasaññā niruddhā hoti. Nevasaññānāsaññāyatanaṁ samāpannassa ākiñcaññāyatanasaññā niruddhā hoti. Saññāvedayitanirodhaṁ samāpannassa saññā ca vedanā ca niruddhā honti. Khīṇāsavassa bhikkhuno rāgo niruddho hoti, doso niruddho hoti, moho niruddho hoti. Atha kho, bhikkhu, mayā anupubbasaṅkhārānaṁ vūpasamo akkhāto. Paṭhamaṁ jhānaṁ samāpannassa vācā vūpasantā hoti. Dutiyaṁ jhānaṁ samāpannassa vitakkavicārā vūpasantā honti …pe… saññāvedayitanirodhaṁ samāpannassa saññā ca vedanā ca vūpasantā honti. Khīṇāsavassa bhikkhuno rāgo vūpasanto hoti, doso vūpasanto hoti, moho vūpasanto hoti. Chayimā, bhikkhu, passaddhiyo. Paṭhamaṁ jhānaṁ samāpannassa vācā paṭippassaddhā hoti. Dutiyaṁ jhānaṁ samāpannassa vitakkavicārā paṭippassaddhā honti. Tatiyaṁ jhānaṁ samāpannassa pīti paṭippassaddhā hoti. Catutthaṁ jhānaṁ samāpannassa assāsapassāsā paṭippassaddhā honti. Saññāvedayitanirodhaṁ samāpannassa saññā ca vedanā ca paṭippassaddhā honti. Khīṇāsavassa bhikkhuno rāgo paṭippassaddho hoti, doso paṭippassaddho hoti, moho paṭippassaddho hotī”ti. Paṭhamaṁ.",
+  "english_sn_text": "Then a mendicant went up to the Buddha, bowed, sat down to one side, and said to him: “Just now, sir, as I was in private retreat this thought came to mind. The Buddha has spoken of three feelings. Pleasant, painful, and neutral feeling. These are the three feelings the Buddha has spoken of. But the Buddha has also said: ‘Suffering includes whatever is felt.’ What was the Buddha referring to when he said this?” “Good, good, mendicant! I have spoken of these three feelings. Pleasant, painful, and neutral feeling. These are the three feelings I have spoken of. But I have also said: ‘Suffering includes whatever is felt.’ When I said this I was referring to the impermanence of conditions, to the fact that conditions are liable to end, vanish, fade away, cease, and perish. But I have also explained the progressive cessation of activities. For someone who has attained the first absorption, speech has ceased. For someone who has attained the second absorption, the placing of the mind and keeping it connected have ceased. For someone who has attained the third absorption, rapture has ceased. For someone who has attained the fourth absorption, breathing has ceased. For someone who has attained the dimension of infinite space, the perception of form has ceased. For someone who has attained the dimension of infinite consciousness, the perception of the dimension of infinite space has ceased. For someone who has attained the dimension of nothingness, the perception of the dimension of infinite consciousness has ceased. For someone who has attained the dimension of neither perception nor non-perception, the perception of the dimension of nothingness has ceased. For someone who has attained the cessation of perception and feeling, perception and feeling have ceased. For a mendicant who has ended the defilements, greed, hate, and delusion have ceased. And I have also explained the progressive settling of activities. For someone who has attained the first absorption, speech has stilled. For someone who has attained the second absorption, the placing of the mind and keeping it connected have stilled. … For someone who has attained the cessation of perception and feeling, perception and feeling have stilled. For a mendicant who has ended the defilements, greed, hate, and delusion have stilled. There are these six levels of tranquility. For someone who has attained the first absorption, speech has been tranquilized. For someone who has attained the second absorption, the placing of the mind and keeping it connected have been tranquilized. For someone who has attained the third absorption, rapture has been tranquilized. For someone who has attained the fourth absorption, breathing has been tranquilized. For someone who has attained the cessation of perception and feeling, perception and feeling have been tranquilized. For a mendicant who has ended the defilements, greed, hate, and delusion have been tranquilized.”",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa401-500/sa474_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa401-500/sa474_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛在王舍城迦兰陀竹园。\n尔时，尊者阿难独一静处禅思，念言：「世尊说三受，又说一切诸受悉皆是苦，此有何义？」从禅起，诣世尊所，稽首礼足，退住一面，白佛言：「世尊！我独一静处禅思，作是念——此有何义？」\n佛告阿难：「我以一切行无常故、一切行变易法故，说诸所有受悉皆是苦。又复，阿难！我以诸行渐次寂灭故说、渐次止息故说。」\n阿难白佛：「云何渐次诸行寂灭？」\n佛告阿难：「初禅正受时，言语寂灭；第二禅正受时，觉观寂灭；第三禅正受时，喜心寂灭；第四禅正受时，出入息寂灭；空入处正受时，色想寂灭；识入处正受时，空入处想寂灭；无所有入处正受时，识入处想寂灭；非想非非想入处正受时，无所有入处想寂灭；想受灭正受时，想受寂灭；漏尽阿罗汉，贪欲、瞋恚、愚痴寂灭——是名渐次诸行寂灭。」\n阿难白佛：「云何渐次诸行止息？」\n佛告阿难：「初禅正受时，言语止息；第二禅正受时，觉观止息；第三禅正受时，喜心止息；第四禅正受时，出入息止息；空入处正受时，色想止息；识入处正受时，空入处想止息；无所有入处正受时，识入处想止息；非想非非想入处正受时，无所有入处想止息；想受灭正受时，想受止息；漏尽阿罗汉，贪欲、瞋恚、愚痴止息——是名渐次诸行止息。」\n阿难白佛：「是名渐次诸行止息。」\n佛告阿难：「有六种轻安。初禅正受时，言语轻安；第二禅正受时，觉观轻安；第三禅正受时，喜心轻安；第四禅正受时，出入息轻安；想受灭正受时，想受轻安；漏尽阿罗汉，贪欲、瞋恚、愚痴轻安。」\n佛说此经已，尊者阿难闻佛所说，欢喜奉行。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在王舍城迦兰陀竹园。\n那时，阿难尊者独自在静处禅思，心想：「世尊说三受，又说一切诸受皆是苦，这是什么意思？」从禅定起来，到世尊处，顶礼退坐，对佛说：「世尊！我独自禅思，作此念——这是什么意思？」\n佛告诉阿难：「因为一切行无常、一切行是变易法，我说一切所领受的皆是苦。再者，阿难！我以诸行渐次寂灭、渐次止息而说。」\n阿难对佛说：「怎样叫渐次诸行寂灭？」\n佛告诉阿难：「初禅正受时，言语寂灭；第二禅正受时，觉观寂灭；第三禅正受时，喜心寂灭；第四禅正受时，出入息寂灭；空入处正受时，色想寂灭；识入处正受时，空入处想寂灭；无所有入处正受时，识入处想寂灭；非想非非想入处正受时，无所有入处想寂灭；想受灭正受时，想受寂灭；漏尽的阿罗汉，贪欲、瞋恚、愚痴寂灭——这叫做渐次诸行寂灭。」\n阿难对佛说：「怎样叫渐次诸行止息？」\n佛告诉阿难：「初禅正受时，言语止息；第二禅正受时，觉观止息；第三禅正受时，喜心止息；第四禅正受时，出入息止息；空入处正受时，色想止息；识入处正受时，空入处想止息；无所有入处正受时，识入处想止息；非想非非想入处正受时，无所有入处想止息；想受灭正受时，想受止息；漏尽的阿罗汉，贪欲、瞋恚、愚痴止息——这叫做渐次诸行止息。」\n阿难对佛说：「这就叫做渐次诸行止息。」\n佛告诉阿难：「有六种轻安。初禅正受时，言语轻安；第二禅正受时，觉观轻安；第三禅正受时，喜心轻安；第四禅正受时，出入息轻安；想受灭正受时，想受轻安；漏尽的阿罗汉，贪欲、瞋恚、愚痴轻安。」\n佛说完这部经，阿难尊者听佛所说，欢喜奉行。",
+  "notes": "本经 SC 平行表所列平行及 `raw_aligned_data.json` 内之巴利本文、Sujato 英译并用以厘定法义；求那跋陀罗汉本用于定位经文与传统术语。confidence=high：SN36.15–16 Ānanda（及 SN36.11 阿难平行）。据 SN 校正：（一）删汉『胜止息／心不乐解脱』段；（二）补六轻安（passaddhi），非汉『胜止息』；（三）寂灭／止息链含漏尽阿罗汉贪嗔痴，据 SN nirodha／vūpasama。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "high",
+  "prior_review_status": "needs_revision",
+  "similarity_to_source": 0.331,
+  "paragraph_parallel": true
+}

@@ -1,0 +1,53 @@
+{
+  "id": "SA_657",
+  "uid": "sa657",
+  "title": "雜阿含經  卷第二十七  根力相應  （657）  堂閣",
+  "chinese_text": "如是我聞：\n\n一時，佛住舍衛國祇樹給孤獨園。\n\n爾時，世尊告諸比丘：「有五根。何等為五？信根、精進根、念根、定根、慧根。若聖弟子成就信根者，作如是學。聖弟子無始生死，無明所著，愛所繫，眾生長夜生死，往來流馳，不知本際，有因故有生死，因永盡者，則無生死，無明大闇聚障礙，誰般涅槃？唯苦滅、苦息、清涼、沒。如信根，如是精進根、念根、定根、慧根亦如是說。此五根，慧為首，慧所攝持。譬如堂閣，棟為首，棟所攝持。」\n\n佛說此經已，諸比丘聞佛所說，歡喜奉行。",
+  "english_sa_text": "",
+  "parallels": [
+    {
+      "uid": "sa654",
+      "acronym": "SA 654",
+      "root_lang": "lzh",
+      "original_title": "堂閣",
+      "translated_title": null,
+      "type": "full",
+      "resembling": true,
+      "remark": null
+    },
+    {
+      "uid": "sn48.52",
+      "acronym": "SN 48.52",
+      "root_lang": "pli",
+      "original_title": "Mallikasutta",
+      "translated_title": null,
+      "type": "full",
+      "resembling": true,
+      "remark": null
+    }
+  ],
+  "primary_sn_uid": "sn48.52",
+  "pali_text": "Evaṁ me sutaṁ— ekaṁ samayaṁ bhagavā mallesu viharati uruvelakappaṁ nāma mallānaṁ nigamo. Tatra kho bhagavā bhikkhū āmantesi: “yāvakīvañca, bhikkhave, ariyasāvakassa ariyañāṇaṁ na uppannaṁ hoti neva tāva catunnaṁ indriyānaṁ saṇṭhiti hoti, neva tāva catunnaṁ indriyānaṁ avaṭṭhiti hoti. Yato ca kho, bhikkhave, ariyasāvakassa ariyañāṇaṁ uppannaṁ hoti, atha catunnaṁ indriyānaṁ saṇṭhiti hoti, atha catunnaṁ indriyānaṁ avaṭṭhiti hoti. Seyyathāpi, bhikkhave, yāvakīvañca kūṭāgārassa kūṭaṁ na ussitaṁ hoti, neva tāva gopānasīnaṁ saṇṭhiti hoti, neva tāva gopānasīnaṁ avaṭṭhiti hoti. Yato ca kho, bhikkhave, kūṭāgārassa kūṭaṁ ussitaṁ hoti, atha gopānasīnaṁ saṇṭhiti hoti, atha gopānasīnaṁ avaṭṭhiti hoti. Evameva kho, bhikkhave, yāvakīvañca ariyasāvakassa ariyañāṇaṁ na uppannaṁ hoti, neva tāva catunnaṁ indriyānaṁ saṇṭhiti hoti, neva tāva catunnaṁ indriyānaṁ avaṭṭhiti hoti. Yato ca kho, bhikkhave, ariyasāvakassa ariyañāṇaṁ uppannaṁ hoti, atha catunnaṁ indriyānaṁ …pe… avaṭṭhiti hoti. Katamesaṁ catunnaṁ? Saddhindriyassa, vīriyindriyassa, satindriyassa, samādhindriyassa. Paññavato, bhikkhave, ariyasāvakassa tadanvayā saddhā saṇṭhāti, tadanvayaṁ vīriyaṁ saṇṭhāti, tadanvayā sati saṇṭhāti, tadanvayo samādhi saṇṭhātī”ti. Dutiyaṁ.",
+  "english_sn_text": "So I have heard. At one time the Buddha was staying in the land of the Mallas, near the Mallian town named Uruvelakappa. There the Buddha addressed the mendicants: “Mendicants, as long as noble knowledge hasn’t arisen for a noble disciple the four faculties are not stable and fixed. But when noble knowledge has arisen for a noble disciple the four faculties become stable and fixed. It’s just like in a bungalow. As long as the roof peak is not lifted into place, the rafters are not stable or fixed. But when the roof peak is lifted into place, the rafters become stable and fixed. In the same way, as long as noble knowledge hasn’t arisen for a noble disciple the four faculties are not stable and fixed. But when noble knowledge has arisen for a noble disciple the four faculties become stable and fixed. What four? The faculties of faith, energy, mindfulness, and immersion. When a noble disciple has wisdom, the faith, energy, mindfulness, and immersion that follow along with that become stabilized.”",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa601-700/sa657_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa601-700/sa657_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛住舍卫国祇树给孤独园。\n佛告比丘：「有五根——信、精进、念、定、慧。若圣弟子成就信根，当作是观：众生无始生死，无明所覆，爱结所系，长夜往来，不知本际；有因故有生死，因永尽则无生死。」\n「无明大暗聚为障——谁般涅槃？唯苦灭、苦息、清凉、永没。」\n「如信根，精进、念、定、慧根亦如是说。此五根，慧为首，慧所摄持；譬如堂阁，栋为首，栋所摄持。」\n佛说此经已，诸比丘闻佛所说，欢喜奉行。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在舍卫国祇树给孤独园。\n佛告比丘：「有五根——信、精进、念、定、慧。若圣弟子成就信根，应当这样观察：众生无始以来生死，被无明覆盖、爱结系缚，长夜往来，不知本际；有因才有生死，因永远尽了就没有生死。」\n「无明这大黑暗聚是障碍——谁在般涅槃？只有苦灭、苦息、清凉、永没。」\n「如同信根，精进、念、定、慧根也是这样说。这五根以慧为首、为慧所摄持；好比堂阁以栋为首、为栋所摄持。」\n佛说完这部经，比丘们听佛所说，都欢喜奉行。",
+  "notes": "本经 SC 平行表所列平行及 `raw_aligned_data.json` 内之巴利本文、Sujato 英译并用以厘定法义；求那跋陀罗汉本用于定位经文与传统术语。confidence=medium：resembling SN48.52／SN48.50 末（无始生死＋涅槃唯苦灭）。汉「谁般涅槃」从 SN anamataggo／sabbasaṅkhārasamatho 义压缩；堂阁喻同系。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "medium",
+  "prior_review_status": "needs_revision",
+  "similarity_to_source": 0.301,
+  "paragraph_parallel": true
+}

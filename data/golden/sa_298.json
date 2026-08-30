@@ -1,0 +1,123 @@
+{
+  "id": "SA_298",
+  "uid": "sa298",
+  "title": "雜阿含經  卷第十二  因緣相應  （298）  法說義說",
+  "chinese_text": "如是我聞：\n\n一時，佛住拘留搜調牛聚落。\n\n爾時，世尊告諸比丘：「我今當說緣起法法說、義說。諦聽，善思，當為汝說。\n\n「云何緣起法法說？謂此有故彼有，此起故彼起，謂緣無明行，乃至純大苦聚集，是名緣起法法說。\n\n「云何義說？謂緣無明行者。彼云何無明？若不知前際、不知後際、不知前後際，不知於內、不知於外、不知內外，不知業、不知報、不知業報，不知佛、不知法、不知僧，不知苦、不知集、不知滅、不知道，不知因、不知因所起法，不知善不善、有罪無罪、習不習、若劣若勝、染污清淨，分別緣起，皆悉不知；於六觸入處，不如實覺知，於彼彼不知、不見、無無間等、癡闇、無明、大冥，是名無明。\n\n「緣無明行者，云何為行？行有三種——身行、口行、意行。緣行識者，云何為識？謂六識身——眼識身、耳識身、鼻識身、舌識身、身識身、意識身。緣識名色者，云何名？謂四無色陰——受陰、想陰、行陰、識陰。云何色？謂四大、四大所造色，是名為色。此色及前所說名，是為名色。緣名色六入處者，云何為六入處？謂六內入處——眼入處、耳入處、鼻入處、舌入處、身入處、意入處。緣六入處觸者，云何為觸？謂六觸身——眼觸身、耳觸身、鼻觸身、舌觸身、身觸身、意觸身。緣觸受者，云何為受？謂三受——苦受、樂受、不苦不樂受。緣受愛者，彼云何為愛？謂三愛——欲愛、色愛、無色愛。緣愛取者，云何為取？四取——欲取、見取、戒取、我取。緣取有者，云何為有？三有——欲有、色有、無色有。緣有生者，云何為生？若彼彼眾生，彼彼身種類一生，超越和合出生，得陰、得界、得入處、得命根，是名為生。緣生老死者，云何為老？若髮白露頂，皮緩根熟，支弱背僂，垂頭呻吟，短氣前輸，柱杖而行，身體黧黑，四體班駮，闇鈍垂熟，造行艱難羸劣，是名為老。云何為死？彼彼眾生，彼彼種類沒、遷移、身壞、壽盡、火離、命滅，捨陰時到，是名為死。此死及前說老，是名老死。是名緣起義說。」\n\n佛說此經已，諸比丘聞佛所說，歡喜奉行。",
+  "english_sa_text": "",
+  "parallels": [
+    {
+      "uid": "sn12.2",
+      "acronym": "SN 12.2",
+      "root_lang": "pli",
+      "original_title": "Vibhaṅgasutta",
+      "translated_title": "Analysis of Dependent Origination",
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "sn12.1",
+      "acronym": "SN 12.1",
+      "root_lang": "pli",
+      "original_title": "Paṭiccasamuppādasutta",
+      "translated_title": "Dependent Origination",
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "t124",
+      "acronym": "T 124",
+      "root_lang": "lzh",
+      "original_title": "緣起",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "arv5",
+      "acronym": "Arv 5",
+      "root_lang": "san",
+      "original_title": "Dvā-Daśāṅga-Pratītya-Samutpādaḥ",
+      "translated_title": "The Twelve Factors of Conditional Origination",
+      "type": "full",
+      "resembling": true,
+      "remark": null
+    },
+    {
+      "uid": "d211",
+      "acronym": "D 211",
+      "root_lang": "xct",
+      "original_title": "རྟེན་ཅིང་འབྲེལ་བར་འབྱུང་བ་དང་པོ་དང་རྣམ་པར་དབྱེ་བ་བསྟན་པ་ཞེས་བྱ་བའི་མདོ།  (Pratītya-samutpād-ādi-vibhaṅga-nirdeśa)",
+      "translated_title": null,
+      "type": "full",
+      "resembling": true,
+      "remark": null
+    },
+    {
+      "uid": "ea49.5",
+      "acronym": "EA 49.5",
+      "root_lang": "lzh",
+      "original_title": "",
+      "translated_title": null,
+      "type": "full",
+      "resembling": true,
+      "remark": null
+    },
+    {
+      "uid": "sf165",
+      "acronym": "SF 165",
+      "root_lang": "san",
+      "original_title": "Ādi",
+      "translated_title": null,
+      "type": "full",
+      "resembling": true,
+      "remark": null
+    },
+    {
+      "uid": "sf238",
+      "acronym": "SF 238",
+      "root_lang": "san",
+      "original_title": "Pratītyasamutpādādivibhaṅganirdeśa",
+      "translated_title": "The Discourse giving the Explanation and Analysis of Conditional Origination from the Beginning",
+      "type": "full",
+      "resembling": true,
+      "remark": null
+    },
+    {
+      "uid": "sf256",
+      "acronym": "SF 256",
+      "root_lang": "san",
+      "original_title": "",
+      "translated_title": null,
+      "type": "full",
+      "resembling": true,
+      "remark": null
+    }
+  ],
+  "primary_sn_uid": "sn12.1",
+  "pali_text": "Evaṁ me sutaṁ— ekaṁ samayaṁ bhagavā sāvatthiyaṁ viharati jetavane anāthapiṇḍikassa ārāme. Tatra kho bhagavā bhikkhū āmantesi: “bhikkhavo”ti. “Bhadante”ti te bhikkhū bhagavato paccassosuṁ. Bhagavā etadavoca: “paṭiccasamuppādaṁ vo, bhikkhave, desessāmi. Taṁ suṇātha, sādhukaṁ manasi karotha, bhāsissāmī”ti. “Evaṁ, bhante”ti kho te bhikkhū bhagavato paccassosuṁ. Bhagavā etadavoca: “Katamo ca, bhikkhave, paṭiccasamuppādo? Avijjāpaccayā, bhikkhave, saṅkhārā; saṅkhārapaccayā viññāṇaṁ; viññāṇapaccayā nāmarūpaṁ; nāmarūpapaccayā saḷāyatanaṁ; saḷāyatanapaccayā phasso; phassapaccayā vedanā; vedanāpaccayā taṇhā; taṇhāpaccayā upādānaṁ; upādānapaccayā bhavo; bhavapaccayā jāti; jātipaccayā jarāmaraṇaṁ sokaparidevadukkhadomanassupāyāsā sambhavanti. Evametassa kevalassa dukkhakkhandhassa samudayo hoti. Ayaṁ vuccati, bhikkhave, paṭiccasamuppādo. Avijjāya tveva asesavirāganirodhā saṅkhāranirodho; saṅkhāranirodhā viññāṇanirodho; viññāṇanirodhā nāmarūpanirodho; nāmarūpanirodhā saḷāyatananirodho; saḷāyatananirodhā phassanirodho; phassanirodhā vedanānirodho; vedanānirodhā taṇhānirodho; taṇhānirodhā upādānanirodho; upādānanirodhā bhavanirodho; bhavanirodhā jātinirodho; jātinirodhā jarāmaraṇaṁ sokaparidevadukkhadomanassupāyāsā nirujjhanti. Evametassa kevalassa dukkhakkhandhassa nirodho hotī”ti. Idamavoca bhagavā. Attamanā te bhikkhū bhagavato bhāsitaṁ abhinandunti. Paṭhamaṁ.",
+  "english_sn_text": "So I have heard. At one time the Buddha was staying near Sāvatthī in Jeta’s Grove, Anāthapiṇḍika’s monastery. There the Buddha addressed the mendicants, “Mendicants!” “Venerable sir,” they replied. The Buddha said this: “Mendicants, I will teach you dependent origination. Listen and apply your mind well, I will speak.” “Yes, sir,” they replied. The Buddha said this: “And what is dependent origination? Ignorance is a requirement for choices. Choices are a requirement for consciousness. Consciousness is a requirement for name and form. Name and form are requirements for the six sense fields. The six sense fields are requirements for contact. Contact is a requirement for feeling. Feeling is a requirement for craving. Craving is a requirement for grasping. Grasping is a requirement for continued existence. Continued existence is a requirement for rebirth. Rebirth is a requirement for old age and death, sorrow, lamentation, pain, sadness, and distress to come to be. That is how this entire mass of suffering originates. This is called dependent origination. When ignorance fades away and ceases no residue left behind, choices cease. When choices cease, consciousness ceases. When consciousness ceases, name and form cease. When name and form cease, the six sense fields cease. When the six sense fields cease, contact ceases. When contact ceases, feeling ceases. When feeling ceases, craving ceases. When craving ceases, grasping ceases. When grasping ceases, continued existence ceases. When continued existence ceases, rebirth ceases. When rebirth ceases, old age and death, sorrow, lamentation, pain, sadness, and distress cease. That is how this entire mass of suffering ceases.” That is what the Buddha said. Satisfied, the mendicants approved what the Buddha said.",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa201-300/sa298_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa201-300/sa298_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛住拘留搜调牛聚落。\n尔时，世尊告诸比丘：「我今当说缘起法之法说、义说。谛听善思。」\n「云何缘起法之法说？此有故彼有，此起故彼起——缘无明行，缘行识，缘识名色，缘名色六入处，缘六入处触，缘触受，缘受爱，缘爱取，缘取有，缘有生，缘生老、死、忧、悲、恼、苦。如是如是纯大苦聚集。名缘起法之法说。」\n「云何义说？缘无明行者——云何无明？若不知前际、后际、前后际，不知内外、业、报、业报，不知佛、法、僧，不知苦、集、灭、道，不知因、因所起法，不知善不善、有罪无罪、染污清净，于六触入不如实觉知——于彼不知、不见、无现观、痴暗、无明、大冥，名无明。」\n「缘无明行——云何行？行有三种：身行、口行、意行。缘行识——云何识？六识身：眼、耳、鼻、舌、身、意识身。缘识名色——名：四无色阴（受、想、行、识）；色：四大及四大所造色。缘名色六入处——六内入：眼、耳、鼻、舌、身、意入处。缘六入处触——六触身。缘触受——三受：苦、乐、不苦不乐受。缘受爱——三爱：欲爱、色爱、无色爱。缘爱取——四取：欲取、见取、戒取、我取。缘取有——三有：欲有、色有、无色有。」\n「缘有生——云何生？彼彼众生、彼彼身种类一生，超越和合出生，得阴、得界、得入处、得命根，名生。缘生老死——云何老？发白顶秃，皮缓根熟，身弱背偻，柱杖而行，诸根衰熟，是名老。云何死？彼彼众生没、迁移、身坏、寿尽、命灭、舍阴时到，名死。此老死，名缘起义说。」\n佛说此经已，诸比丘闻佛所说，欢喜奉行。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在拘留搜国调牛聚落。\n佛告诉比丘：「我今当说缘起之法说、义说。谛听。」\n「怎样是法说？此有故彼有——无明为缘故有行，行为缘故有识，识为缘故有名色，名色为缘故有六入处，六入处为缘故有触，触为缘故有受，受为缘故有爱，爱为缘故有取，取为缘故有有，有为缘故有生，生为缘故有老、病、死、忧、悲、恼、苦——这样纯大苦聚集。名缘起法说。」\n「怎样是义说？缘无明——什么是无明？不知前后际、内外、业报、三宝、四谛、因果、善恶染净，于六触入不如实觉——不知不见、无现观、痴暗无明，名无明。」\n「缘无明有行——行有三种：身、口、意行。缘行有识——六识身。缘识有名色——名：四无色阴；色：四大及所造色。缘名色有六入——六内入。缘六入有触——六触身。缘触有受——苦、乐、不苦不乐。缘受有爱——欲爱、色爱、无色爱。缘爱有取——欲、见、戒、我四取。缘取有有——欲、色、无色三有。」\n「缘有有生——生：和合出生，得阴界入处命根。缘生有老死——老：发白背偻诸根衰；死：没、身坏、寿尽、舍阴。此名缘起义说。」\n佛说完这部经，比丘们听佛所说，都欢喜奉行。",
+  "notes": "本经 SC 平行表所列平行及 `raw_aligned_data.json` 内之巴利本文、Sujato 英译并用以厘定法义；求那跋陀罗汉本用于定位经文与传统术语。confidence=high：SN12.1–2（Paṭiccasamuppāda／Vibhaṅga）为 `full` 平行，法说／义说及支分定义（无明乃至老死），逐段可对。「无间等」→「现观」（abhisamaya）。卷首「杂阿含经卷第十二」为 paratext，不入正文；SA_304 卷第十三题同。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "high",
+  "prior_review_status": "needs_revision",
+  "similarity_to_source": 0.226,
+  "paragraph_parallel": true
+}

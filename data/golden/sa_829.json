@@ -1,0 +1,53 @@
+{
+  "id": "SA_829",
+  "uid": "sa829",
+  "title": "雜阿含經  卷第三十一  學相應  （829）  跋耆師",
+  "chinese_text": "如是我聞：\n\n一時，佛住跋耆聚落，尊者跋耆子侍佛左右。\n\n爾時，尊者跋耆子詣佛所，稽首禮足，退住一面，白佛言：「世尊！佛說過二百五十戒，令族姓子隨次半月來說波羅提木叉修多羅，令諸族姓子隨欲而學。然今，世尊！我不堪能隨學而學。」\n\n佛告跋耆子：「汝堪能隨時學三學不？」\n\n跋耆子白佛言：「堪能，世尊！」\n\n佛告跋耆子：「汝當隨時增上戒學、增上意學、增上慧學。隨時精勤增上戒學、增上意學、增上慧學已，不久當得盡諸有漏，無漏心解脫、慧解脫，現法自知作證：『我生已盡，梵行已立，所作已作，自知不受後有。』」\n\n爾時，尊者跋耆子聞佛所說，歡喜隨喜，作禮而去。\n\n爾時，尊者跋耆子受佛教誡、教授已，獨一靜處，專精思惟……如上說，乃至心善解脫，得阿羅漢。",
+  "english_sa_text": "",
+  "parallels": [
+    {
+      "uid": "an3.84",
+      "acronym": "AN 3.84",
+      "root_lang": "pli",
+      "original_title": "Vajjiputtasutta",
+      "translated_title": "The Vajjian Monk",
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "sf134",
+      "acronym": "SF 134",
+      "root_lang": "san",
+      "original_title": "",
+      "translated_title": null,
+      "type": "full",
+      "resembling": true,
+      "remark": null
+    }
+  ],
+  "primary_sn_uid": null,
+  "pali_text": "",
+  "english_sn_text": "",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa801-900/sa829_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa801-900/sa829_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛住跋耆聚落，尊者跋耆子侍佛左右。\n尔时尊者跋耆子诣佛所，稽首礼足，退住一面，白佛言：「世尊！佛说过二百五十戒，令族姓子每于半月说波罗提木叉而学。然今我不堪能一一随学。」\n佛告跋耆子：「汝堪能随时学三学不——增上戒学、增上意学、增上慧学？」白言：「堪能，世尊！」\n佛告跋耆子：「汝当随时精勤修此三学。精勤修已，不久当得尽诸有漏，无漏心解脱、慧解脱，现法自知作证：『我生已尽，梵行已立，所作已作，自知不受后有。』」\n尊者跋耆子闻已，欢喜随喜，作礼而去。受教已，独一静处，专精思惟，不放逸住，乃至心善解脱，成阿罗汉。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在跋耆聚落，尊者跋耆子侍奉在佛左右。\n那时尊者跋耆子来到佛所，叩头礼足，站在一边，对佛说：「世尊！佛说过学处超过二百五十条，让族姓子每到半月宣说波罗提木叉来修学。可是现在我不能一一随学。」\n佛告诉跋耆子：「你能不能按时修学三学——增上戒学、增上意学、增上慧学？」回答：「能，世尊！」\n佛告诉跋耆子：「你应当按时精勤修习这三学。精勤修习之后，不久当得尽诸有漏，得无漏的心解脱、慧解脱，在现法自己了知、作证：『我生已尽，梵行已立，所作已作，自知不受后有。』」\n尊者跋耆子听完，欢喜随喜，作礼离去。受教之后，独自在静处专精思惟，不放逸而住，一直到心善解脱，成阿罗汉。",
+  "notes": "本经 SC 平行表所列平行及 `raw_aligned_data.json` 内之巴利本文、Sujato 英译并用以厘定法义；求那跋陀罗汉本用于定位经文与传统术语。confidence=high：primary AN3.84 Vajjiputta；汉「跋耆聚落」／AN 毗舍离大林——地名从汉；法义从 AN：不能持百五十余学处→能持三学→漏尽。「如上说」证果套语已补全。不收卷末题署。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "high",
+  "prior_review_status": "needs_revision",
+  "similarity_to_source": 0.328,
+  "paragraph_parallel": true
+}

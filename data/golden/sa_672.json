@@ -1,0 +1,44 @@
+{
+  "id": "SA_672",
+  "uid": "sa672",
+  "title": "雜阿含經  卷第二十七  根力相應  （672）  四力",
+  "chinese_text": "如是我聞：\n\n一時，佛住舍衛國祇樹給孤獨園。\n\n爾時，世尊告諸比丘：「有四力——覺力、精進力、無罪力、攝力。何等為覺力？謂慧、大慧、深慧、難勝慧，是名覺力。何等為精進力？若於不善法不善數、黑黑數、有罪有罪數、不應親近不應親近數，離此諸法已，若諸餘善善數、白白數、無罪無罪數、應親近應親近數，如此等修習，增上精勤、欲、方便、堪能，正念正知而學，是名精進力。無罪力、攝力如上修多羅說。」\n\n佛說此經已，諸比丘聞佛所說，歡喜奉行。",
+  "english_sa_text": "",
+  "parallels": [
+    {
+      "uid": "an4.153",
+      "acronym": "AN 4.153",
+      "root_lang": "pli",
+      "original_title": "Paññābalasutta",
+      "translated_title": null,
+      "type": "full",
+      "resembling": true,
+      "remark": null
+    }
+  ],
+  "primary_sn_uid": null,
+  "pali_text": "",
+  "english_sn_text": "",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa601-700/sa672_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa601-700/sa672_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛住舍卫国祇树给孤独园。\n佛告比丘：「有四力——觉力、精进力、无罪力、摄力。」\n「何等觉力？谓慧、大慧、深慧、难胜慧；于善不善、有罪无罪、宜习不宜习、黑白、缘起非缘起如实知，是名觉力。」\n「何等精进力？谓四正断——已生恶不善法令断，未生恶法令不生，未生善法令生，已生善法令住不忘、修习增广——生欲、精进、摄心、增上，正念正知而学，是名精进力。」\n「何等无罪力？谓身、口、意无罪，是名无罪力。」\n「何等摄力？谓四摄事——布施、爱语、利行、同事，是名摄力。」\n佛说此经已，诸比丘闻佛所说，欢喜奉行。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在舍卫国祇树给孤独园。\n佛告比丘：「有四种力——觉力、精进力、无罪力、摄力。」\n「什么是觉力？就是慧、大慧、深慧、难胜慧；对善与不善、有罪与无罪、应习与不应习、黑白、缘起与非缘起都能如实知，叫做觉力。」\n「什么是精进力？就是四正断——已生的恶不善法要断除，未生的恶法使不生，未生的善法使生起，已生的善法使安住不忘、修习增长——生起欲乐、精进、摄心、增上，正念正知而学，叫做精进力。」\n「什么是无罪力？身、口、意都无罪过，叫做无罪力。」\n「什么是摄力？四摄事——布施、爱语、利行、同事，叫做摄力。」\n佛说完这部经，比丘们听佛所说，都欢喜奉行。",
+  "notes": "本经 SC 平行表所列平行及 `raw_aligned_data.json` 内之巴利本文、Sujato 英译并用以厘定法义；求那跋陀罗汉本用于定位经文与传统术语。confidence=high：resembling AN4.153；分别与 SA_667 同系。gold_reconstructed：汉「无罪力、摄力如上修多罗」→据 SA_667／AN 补足；精进力「四正断如前」→四正断定型。",
+  "review_status": "gold_reconstructed",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "high",
+  "prior_review_status": "needs_revision",
+  "reconstruction_basis": "无罪力／摄力／四正断 据 SA_667＋AN4.153 补足",
+  "similarity_to_source": 0.198,
+  "paragraph_parallel": true
+}

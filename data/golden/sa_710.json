@@ -1,0 +1,32 @@
+{
+  "id": "SA_710",
+  "uid": "sa710",
+  "title": "雜阿含經  卷第二十八  覺支相應  （710）  聽法",
+  "chinese_text": "如是我聞：\n\n一時，佛住舍衛國祇樹給孤獨園。\n\n爾時，世尊告諸比丘：「聖弟子清淨信心，專精聽法者，能斷五法，修習七法，令其滿足。何等為五？謂貪欲蓋，瞋恚、睡眠、掉悔、疑，此蓋則斷。何等七法？謂念覺支，擇法、精進、猗、喜、定、捨覺支。此七法修習滿足，淨信者，謂心解脫；智者，謂慧解脫；貪欲染心者，不得不樂；無明染心者，慧不清淨。是故，比丘！離貪欲者心解脫，離無明者慧解脫。若彼比丘離貪欲，心解脫，得身作證；離無明，慧解脫，是名比丘斷愛縛結，慢無間等，究竟苦邊。」\n\n佛說此經已，諸比丘聞佛所說，歡喜奉行。",
+  "english_sa_text": "",
+  "parallels": [],
+  "primary_sn_uid": null,
+  "pali_text": "",
+  "english_sn_text": "",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa701-800/sa710_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa701-800/sa710_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛住舍卫国祇树给孤独园。\n佛告比丘：「圣弟子以清净信心专精听法，能断五法，修习七法，令得满足。」\n「何等五？谓贪欲盖、瞋恚盖、睡眠盖、掉悔盖、疑盖，此则断。」\n「何等七？谓念觉支、择法觉支、精进觉支、喜觉支、猗觉支、定觉支、舍觉支——修令满足。」\n「净信者得心解脱，具智者得慧解脱。贪欲染心者不得厌离，无明染心者慧不清净。是故离贪者心解脱，离无明者慧解脱。若比丘离贪得心解脱、身作证，离无明得慧解脱——是名断爱缚结，慢无间等，究竟苦边。」\n佛说此经已，诸比丘闻佛所说，欢喜奉行。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在舍卫国祇树给孤独园。\n佛告比丘：「圣弟子以清净信心专心听法，就能断除五种法，修习七种法，使它们满足。」\n「哪五种？就是贪欲盖、瞋恚盖、昏沉睡眠盖、掉举后悔盖、疑盖，这些就会断除。」\n「哪七种？就是念觉支、择法觉支、精进觉支、喜觉支、猗觉支、定觉支、舍觉支——修习使它们满足。」\n「有净信的人得心解脱，具智慧的人得慧解脱。被贪欲染污的心得不到厌离，被无明染污的心智慧不清净。所以离贪的人心解脱，离无明的人慧解脱。如果比丘离贪而得心解脱、以身作证，离无明而得慧解脱——这就叫做断除爱的系缚与慢等无间，究竟到达苦的尽头。」\n佛说完这部经，比丘们听佛所说，都欢喜奉行。",
+  "notes": "SC 于本经未列可靠巴利平行，故唯以汉本为底，参同相应之巴利定型语厘义；依项目规约「无可靠平行时 confidence 降为 medium/low」。confidence=medium：无 SC 专经；近 SN46.38／SA_709，而结以心解脱／慧解脱与断爱缚究竟苦边。据项目规约：汉「不得不乐」→作「不得厌离」，结句用「离贪／离无明」（厌故离贪），不取「厌故不乐」。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "medium",
+  "prior_review_status": "needs_revision",
+  "similarity_to_source": 0.169,
+  "paragraph_parallel": true
+}

@@ -1,0 +1,93 @@
+{
+  "id": "SA_1269",
+  "uid": "sa1269",
+  "title": "雜阿含經  卷第五十  雜相應  （1269）  流",
+  "chinese_text": "如是我聞：\n\n一時，佛住舍衛國祇樹給孤獨園。\n\n時，有一天子，容色絕妙，於後夜時來詣佛所，稽首佛足，身諸光明遍照祇樹給孤獨園。\n\n時，彼天子說偈問佛：\n\n「誰度於諸流？　　晝夜勤精進，\n\n　不攀亦不住，　　何染而不著？」\n\n爾時，世尊說偈答言：\n\n「一切戒具足，　　智慧善正受，\n\n　內思惟繫念，　　度難度諸流。\n\n　不樂於欲想，　　超越於色結，\n\n　不繫亦不住，　　於染亦不著。」\n\n時，彼天子復說偈言：\n\n「久見婆羅門，　　逮得般涅槃，\n\n　一切怖已過，　　永超世恩愛。」\n\n時，彼天子聞佛所說，歡喜隨喜，稽首佛足，即沒不現。",
+  "english_sa_text": "",
+  "parallels": [
+    {
+      "uid": "sa-2.178",
+      "acronym": "SA2 178",
+      "root_lang": "lzh",
+      "original_title": "流",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "sa-2.315",
+      "acronym": "SA2 315",
+      "root_lang": "lzh",
+      "original_title": "栴檀",
+      "translated_title": null,
+      "type": "full",
+      "resembling": true,
+      "remark": null
+    },
+    {
+      "uid": "sa1316",
+      "acronym": "SA 1316",
+      "root_lang": "lzh",
+      "original_title": "栴檀",
+      "translated_title": null,
+      "type": "full",
+      "resembling": true,
+      "remark": null
+    },
+    {
+      "uid": "sag",
+      "acronym": "Sag",
+      "root_lang": "san",
+      "original_title": "Śarīrārthagāthā",
+      "translated_title": null,
+      "type": "full",
+      "resembling": true,
+      "remark": null
+    },
+    {
+      "uid": "sn2.15",
+      "acronym": "SN 2.15",
+      "root_lang": "pli",
+      "original_title": "Candanasutta",
+      "translated_title": null,
+      "type": "full",
+      "resembling": true,
+      "remark": null
+    },
+    {
+      "uid": "snp1.9",
+      "acronym": "Snp 1.9",
+      "root_lang": "pli",
+      "original_title": "Hemavatasutta",
+      "translated_title": "The Buddha teaches Sātāgira and Hemavata the Yakkhas",
+      "type": "full",
+      "resembling": true,
+      "remark": null
+    }
+  ],
+  "primary_sn_uid": "sn2.15",
+  "pali_text": "Ekamantaṁ ṭhito kho candano devaputto bhagavantaṁ gāthāya ajjhabhāsi: “Kathaṁsu tarati oghaṁ, rattindivamatandito; Appatiṭṭhe anālambe, ko gambhīre na sīdatī”ti. “Sabbadā sīlasampanno, Paññavā susamāhito; Āraddhavīriyo pahitatto, Oghaṁ tarati duttaraṁ. Virato kāmasaññāya, rūpasaṁyojanātigo; Nandīrāgaparikkhīṇo, so gambhīre na sīdatī”ti.",
+  "english_sn_text": "Standing to one side, the godling Candana addressed the Buddha in verse: “Who here crosses the flood, tireless all day and night? Who, not standing and unsupported, does not sink in the deep?” “Someone who is always endowed with ethics, wise and serene, energetic and resolute, crosses the flood so hard to cross. Someone who desists from sensual perception, has moved past the fetter of form, and has finished with relishing and greed does not sink in the deep.”",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa1201-1300/sa1269_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa1201-1300/sa1269_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛住舍卫国祇树给孤独园。\n时有一天子，容色绝妙，于后夜来诣佛所，稽首佛足，退坐一面；身诸光明遍照祇树给孤独园。\n天子说偈问：「谁度于诸流，昼夜勤精进？不攀亦不住，何染而不著？」\n世尊说偈答：「一切戒具足，智慧善正受，精勤心决定，度难度诸流。不乐于欲想，超越于色结，爱贪已永尽，深渊而不沈。」\n天子说偈：「久见婆罗门，逮得般涅槃；一切怖已过，永超世恩爱。」\n时彼天子闻佛所说，欢喜随喜，稽首佛足，即没不现。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在舍卫国祇树给孤独园。\n那时有一位天子，容色绝妙，后夜来到佛前，稽首佛足，退坐一面；身上的光明照遍祇树给孤独园。\n天子用偈问：「谁能度过诸流，昼夜精勤不懈？不攀缘也不住立，怎样染著却不沾？」\n世尊用偈答：「始终持戒具足，有智慧又善入定，精勤而心决定，能度过难度的诸流。远离欲想，超越色结，爱贪已经永尽，在深渊里也不下沉。」\n天子说偈：「久见婆罗门，逮得般涅槃；一切怖已过，永超世恩爱。」\n那时天子听佛所说，欢喜随喜，稽首佛足，随即隐没不见。",
+  "notes": "本经 SC 平行表所列平行及 `raw_aligned_data.json` 内之巴利本文、Sujato 英译并用以厘定法义；求那跋陀罗汉本用于定位经文与传统术语。confidence=medium：SC resembling SN2.15 Candanasutta（偈近）；据平行：戒／慧／定／精进度流；离欲想、超色结、爱贪尽则不沈深渊。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "medium",
+  "prior_review_status": "needs_revision",
+  "similarity_to_source": 0.357,
+  "paragraph_parallel": true
+}

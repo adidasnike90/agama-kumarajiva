@@ -1,0 +1,63 @@
+{
+  "id": "SA_1156",
+  "uid": "sa1156",
+  "title": "雜阿含經  卷第五十  婆羅門相應  （1156）  無害",
+  "chinese_text": "如是我聞：\n\n一時，佛住舍衛國祇樹給孤獨園。世尊晨朝著衣持鉢，入舍衛城乞食。\n\n時，有不害婆羅門來詣佛所，白佛言：「世尊！我名不害，為稱實不？」\n\n佛告婆羅門：「如是稱實者，若身不害，若口不害，若心不害，則為稱實。」爾時，世尊即說偈言：\n\n「若心不殺害，　　口意亦俱然，\n\n　是則為離害，　　不恐怖眾生。」\n\n佛說此經已，不害婆羅門聞佛所說，歡喜隨喜，復道而去。",
+  "english_sa_text": "",
+  "parallels": [
+    {
+      "uid": "sa-3.26",
+      "acronym": "SA3 26",
+      "root_lang": "lzh",
+      "original_title": "無害",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "sa-2.79",
+      "acronym": "SA2 79",
+      "root_lang": "lzh",
+      "original_title": "無害",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "sn7.5",
+      "acronym": "SN 7.5",
+      "root_lang": "pli",
+      "original_title": "Ahiṁsakasutta",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    }
+  ],
+  "primary_sn_uid": "sn7.5",
+  "pali_text": "Sāvatthinidānaṁ. Atha kho ahiṁsakabhāradvājo brāhmaṇo yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavatā saddhiṁ sammodi. Sammodanīyaṁ kathaṁ sāraṇīyaṁ vītisāretvā ekamantaṁ nisīdi. Ekamantaṁ nisinno kho ahiṁsakabhāradvājo brāhmaṇo bhagavantaṁ etadavoca: “ahiṁsakāhaṁ, bho gotama, ahiṁsakāhaṁ, bho gotamā”ti. “Yathā nāmaṁ tathā cassa, siyā kho tvaṁ ahiṁsako; Yo ca kāyena vācāya, manasā ca na hiṁsati; Sa ve ahiṁsako hoti, yo paraṁ na vihiṁsatī”ti. Evaṁ vutte, ahiṁsakabhāradvājo brāhmaṇo bhagavantaṁ etadavoca: “abhikkantaṁ, bho gotama …pe… abbhaññāsi. Aññataro ca panāyasmā ahiṁsakabhāradvājo arahataṁ ahosīti.",
+  "english_sn_text": "At Sāvatthī. Then the brahmin Bhāradvāja the Harmless went up to the Buddha, and exchanged greetings with him. When the greetings and polite conversation were over, he sat down to one side and said, “I am Harmless, worthy Gotama, I am Harmless!” “If you were really like your name, then you’d be Harmless. But a truly harmless person does no harm by way of body, speech, or mind; they don’t harm anyone else.” When he had spoken, the brahmin Bhāradvāja the Harmless said to the Buddha, “Excellent, worthy Gotama! …” … And Venerable Bhāradvāja the Harmless became one of the perfected.",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa1101-1200/sa1156_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa1101-1200/sa1156_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛住舍卫国祇树给孤独园。\n世尊晨朝著衣持钵，入舍卫城乞食。时不害婆罗门来诣，白言：「世尊！我名不害，为称实不？」\n佛告：「若身不害、口不害、意不害，乃为称实。」即说偈：「若心不杀害，口意亦如是，是名真离害，不恐怖众生。」\n不害婆罗门闻已，欢喜随喜，复道而去。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在舍卫国祇树给孤独园。\n佛清晨披衣持钵进城乞食。不害婆罗门前来问：「世尊！我名叫不害，这个名字名副其实吗？」\n佛说：「若身不害、口不害、意不害，才真正配得上这个名字。」并说偈：「若心不杀害，口与意也一样，这才是真正离害，不让众生恐惧。」\n不害婆罗门听完，欢喜随喜，沿原路回去。",
+  "notes": "本经 SC 平行表所列平行及 `raw_aligned_data.json` 内之巴利本文、Sujato 英译并用以厘定法义；求那跋陀罗汉本用于定位经文与传统术语。confidence=high：primary SN7.5 Ahiṁsakasutta。据 SN：名不害者，须身口意皆不害。汉义与巴利合。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "high",
+  "prior_review_status": "needs_revision",
+  "similarity_to_source": 0.288,
+  "paragraph_parallel": true
+}

@@ -1,0 +1,44 @@
+{
+  "id": "SA_1061",
+  "uid": "sa1061",
+  "title": "雜阿含經  卷第四十四  業報相應  （1061）  非律聖律",
+  "chinese_text": "如是我聞：\n\n一時，佛住舍衛國祇樹給孤獨園。\n\n爾時，世尊告諸比丘：「有非律，有正律。諦聽，善思，當為汝說。何等為非律？謂殺生，乃至邪見，是名非律。何等為正律？謂不殺，乃至正見，是名正律。」\n\n佛說此經已，諸比丘聞佛所說，歡喜奉行。\n\n如非律、正律。如是非聖及聖，不善及善，非親近、親近，非善哉、善哉，黑法、白法，非義、正義，卑法、勝法，有罪法、無罪法，棄法、不棄法，一一經如上說。",
+  "english_sa_text": "",
+  "parallels": [
+    {
+      "uid": "an10.198",
+      "acronym": "AN 10.198",
+      "root_lang": "pli",
+      "original_title": "Sacchikātabbasutta",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    }
+  ],
+  "primary_sn_uid": null,
+  "pali_text": "",
+  "english_sn_text": "",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa1001-1100/sa1061_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa1001-1100/sa1061_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛住舍卫国祇树给孤独园。\n尔时世尊告诸比丘：「有非律，有正律。谛听。何等非律？谓杀生、不与取、邪淫、妄语、两舌、恶口、绮语、贪、瞋、邪见。何等正律？谓不杀生、不与取、不邪淫、不妄语、不两舌、不恶口、不绮语、无贪、无瞋、正见。」\n如非律、正律——非圣与圣、不善与善、非亲近与亲近、非善哉与善哉、黑法与白法、非义与正义、卑法与胜法、有罪与无罪、弃法与不弃法——一一经皆如上说，以十不善、十善分判。\n佛说此经已，诸比丘闻佛所说，欢喜奉行。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在舍卫国祇树给孤独园。\n那时世尊告诉比丘们：「有非律，有正律。仔细听。什么是非律？就是杀生、不与取、邪淫、妄语、两舌、恶口、绮语、贪、瞋、邪见。什么是正律？就是不杀生、不与取、不邪淫、不妄语、不两舌、不恶口、不绮语、无贪、无瞋、正见。」\n像非律与正律这样——非圣与圣、不善与善、不该亲近与该亲近、不善哉与善哉、黑法与白法、非义与正义、卑下法与殊胜法、有罪与无罪、应弃与不应弃——每一经都如上所说，都以十不善、十善来分判。\n佛说完这部经，比丘们听佛所说，都欢喜奉行。",
+  "notes": "本经 SC 平行表所列平行及 `raw_aligned_data.json` 内之巴利本文、Sujato 英译并用以厘定法义；求那跋陀罗汉本用于定位经文与传统术语。confidence=medium：SC 标 AN10.198；汉 peeyāla 系列对举，据十业道补纲。reconstruction：非法对举 peeyāla 纲。",
+  "review_status": "gold_reconstructed",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "medium",
+  "prior_review_status": "needs_revision",
+  "reconstruction_basis": "非法对举 peeyāla → 十不善／十善系列纲",
+  "similarity_to_source": 0.175,
+  "paragraph_parallel": true
+}

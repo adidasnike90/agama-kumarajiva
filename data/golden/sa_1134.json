@@ -1,0 +1,54 @@
+{
+  "id": "SA_1134",
+  "uid": "sa1134",
+  "title": "雜阿含經  卷第五十  不壞淨相應  （1134）  潤澤",
+  "chinese_text": "如是我聞：\n\n一時，佛住舍衛國祇樹給孤獨園。\n\n爾時，世尊告諸比丘……如上說。差別者：「如是四種福德潤澤、善法潤澤、安樂食，彼聖弟子功德果報不可稱量，得爾所福、爾所果報；然彼多福墮大功德積聚數，如前五河譬經說，乃至說偈。」\n\n佛說此經已，諸比丘聞佛所說，歡喜奉行。",
+  "english_sa_text": "",
+  "parallels": [
+    {
+      "uid": "sa840",
+      "acronym": "SA 840",
+      "root_lang": "lzh",
+      "original_title": "戒",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "sn55.32",
+      "acronym": "SN 55.32",
+      "root_lang": "pli",
+      "original_title": "Dutiyapuññābhisandasutta",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    }
+  ],
+  "primary_sn_uid": "sn55.32",
+  "pali_text": "“Cattārome, bhikkhave, puññābhisandā kusalābhisandā sukhassāhārā. Katame cattāro? Idha, bhikkhave, ariyasāvako buddhe aveccappasādena samannāgato hoti— itipi so bhagavā …pe… satthā devamanussānaṁ buddho bhagavāti. Ayaṁ paṭhamo puññābhisando kusalābhisando sukhassāhāro. Puna caparaṁ, bhikkhave, ariyasāvako dhamme …pe… saṅghe …pe…. Puna caparaṁ, bhikkhave, ariyasāvako vigatamalamaccherena cetasā agāraṁ ajjhāvasati muttacāgo payatapāṇi vossaggarato yācayogo dānasaṁvibhāgarato. Ayaṁ catuttho puññābhisando kusalābhisando sukhassāhāro. Ime kho, bhikkhave, cattāro puññābhisandā kusalābhisandā sukhassāhārā”ti. Dutiyaṁ.",
+  "english_sn_text": "“Mendicants, there are these four kinds of overflowing merit, overflowing goodness that nurture happiness. What four? It’s when a noble disciple has experiential confidence in the Buddha … the teaching … the Saṅgha … Furthermore, a noble disciple lives at home with heart rid of the stain of stinginess, freely generous, open-handed, loving to let go, committed to charity, loving to give and to share. This is the fourth kind of overflowing merit, overflowing goodness that nurtures happiness. These are the four kinds of overflowing merit, overflowing goodness that nurture happiness.”",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa1101-1200/sa1134_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa1101-1200/sa1134_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛住舍卫国祇树给孤独园。\n尔时世尊告诸比丘：「有四种福德润泽、善法润泽，为安乐之食。何等为四？谓于佛不坏净、于法不坏净、于僧不坏净；复次，圣弟子离悭垢心，在家而住，舒手惠施，常乐捨与，均等布施。圣弟子成就此四，其福不可称量——不得言尔所福、尔所福聚；唯说为无量、不可计，是大福聚。譬如恒河、耶摩那、阿夷罗婆提、萨罗由、摩诃——五河合流之处，水不可量，不得言百瓶、千瓶、百千瓶；唯说为大水聚。圣弟子四润泽亦复如是。」\n尔时世尊说偈言：「众流归巨海，汪洋不可量；能施衣食座，福流归智者；如河输海水，功德亦复然。」\n佛说此经已，诸比丘闻佛所说，欢喜奉行。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在舍卫国祇树给孤独园。\n那时世尊告诉比丘们：「有四种福德润泽、善法润泽，是安乐的资粮。哪四种？就是对佛、法、僧不坏净；再者，圣弟子心离悭垢，住在家中，舒手布施，常乐捨与，均等分享。圣弟子成就这四种，他的福德不可称量——不能说有这么多福、这么大福聚；只能说是无量、不可计算的大福聚。好比恒河、耶摩那、阿夷罗婆提、萨罗由、摩诃——五条大河合流的地方，水不可量，不能说有一百瓶、一千瓶、百千瓶；只能说是大水聚。圣弟子的四种润泽也是这样。」\n那时世尊说偈道：「众流归入巨海，汪洋不可测量；能布施衣食座席，福流归于智者；如同河水输送入海，功德也是这样。」\n佛说完这部经，比丘们听佛所说，都欢喜奉行。",
+  "notes": "本经 SC 平行表所列平行及 `raw_aligned_data.json` 内之巴利本文、Sujato 英译并用以厘定法义；求那跋陀罗汉本用于定位经文与传统术语。confidence=high：义同 SN55.42 Dutiyaabhisanda（四润泽＋五河不可量）；SC 表标 sn55.32，汉「五河譬」据 SN55.42 补纲；gold_reconstructed：peyyāla「如上说／五河譬经」据平行展开。",
+  "review_status": "gold_reconstructed",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "high",
+  "prior_review_status": "needs_revision",
+  "reconstruction_basis": "「如上说／五河譬经」peyyāla → SN55.42 四润泽＋五河不可量＋偈",
+  "similarity_to_source": 0.129,
+  "paragraph_parallel": true
+}

@@ -1,0 +1,54 @@
+{
+  "id": "SA_1318",
+  "uid": "sa1318",
+  "title": "雜阿含經  卷第五十  雜相應  （1318）  迦葉",
+  "chinese_text": "如是我聞：\n\n一時，佛住舍衛國祇樹給孤獨園。\n\n時，有迦葉天子，容色絕妙，於後夜時來詣佛所，稽首佛足，退坐一面。其身光明遍照祇樹給孤獨園。\n\n時，彼迦葉天子白佛言：「世尊！我今當說比丘及比丘所說。」\n\n佛告迦葉天子：「隨所樂說！」\n\n時，彼迦葉天子而說偈言：\n\n「比丘守正念，　　其心善解脫，\n\n　晝夜常勤求，　　逮得離塵垢。\n\n　曉了知世間，　　於塵離塵垢，\n\n　比丘無憂患，　　心無所染著。\n\n「世尊！是名比丘，是名比丘所說。」\n\n佛告迦葉：「如是，如是，如汝所說。」\n\n迦葉天子聞佛所說，歡喜隨喜，稽首佛足，即沒不現。",
+  "english_sa_text": "",
+  "parallels": [
+    {
+      "uid": "sa-2.317",
+      "acronym": "SA2 317",
+      "root_lang": "lzh",
+      "original_title": "迦葉",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "sn2.2",
+      "acronym": "SN 2.2",
+      "root_lang": "pli",
+      "original_title": "Dutiyakassapasutta",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    }
+  ],
+  "primary_sn_uid": "sn2.2",
+  "pali_text": "Sāvatthinidānaṁ. Ekamantaṁ ṭhito kho kassapo devaputto bhagavato santike imaṁ gāthaṁ abhāsi: “Bhikkhu siyā jhāyī vimuttacitto, Ākaṅkhe ce hadayassānupattiṁ; Lokassa ñatvā udayabbayañca, Sucetaso anissito tadānisaṁso”ti.",
+  "english_sn_text": "At Sāvatthī. Standing to one side, the godling Kassapa spoke this verse in the Buddha’s presence: “If a mendicant is a meditator, freed in mind, and if they desire the heart’s fulfillment— having known the arising and passing of the world, good-hearted, independent, that is their reward.”",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa1301-1400/sa1318_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa1301-1400/sa1318_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛住舍卫国祇树给孤独园。\n后夜分，迦叶天子容色绝妙，来诣佛所，稽首礼足，退坐一面；身诸光明遍照祇园。\n天子说偈：「比丘若禅思、心解脱，欲求心愿成满——已知世间生灭，善心无依著，是则其果报。」\n世尊印可。天子闻已，欢喜礼足，即没不现。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在舍卫国祇树给孤独园。\n后夜分，名叫迦叶的天子容色绝妙，来到佛前，顶礼佛足，退坐一面；身上光明遍照祇园。\n天子说偈：「比丘若禅思、心已解脱，又想让心愿圆满——已经了知世间的生灭，内心善好、无所依著，那就是他的果报。」\n世尊表示印可。天子听完，欢喜顶礼，随即隐没不见。",
+  "notes": "本经 SC 平行表所列平行及 `raw_aligned_data.json` 内之巴利本文、Sujato 英译并用以厘定法义；求那跋陀罗汉本用于定位经文与传统术语。confidence=high：primary SN2.2 Dutiyakassapasutta。汉偈近前经扩写；据 SN 校正：jhāyī vimuttacitta、hadayassānupatti、lokassa udayabbaya、sucetaso anissito。gold_reconstructed。",
+  "review_status": "gold_reconstructed",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "high",
+  "prior_review_status": "needs_revision",
+  "reconstruction_basis": "汉偈扩写与 SN2.2 异，据巴利禅思心解脱／知世间生灭／善心无依改写。",
+  "similarity_to_source": 0.115,
+  "paragraph_parallel": true
+}

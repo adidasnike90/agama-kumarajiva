@@ -1,0 +1,46 @@
+{
+  "id": "SA_591",
+  "uid": "sa591",
+  "title": "雜阿含經  卷第二十五  天相應  （591）  輸波羅",
+  "chinese_text": "如是我聞：\n\n一時，佛住舍衛國祇樹給孤獨園。\n\n爾時，世尊告諸比丘：「過去世時，海洲上優婆塞至他優婆塞舍會坐，極毀呰欲，言：『此欲者，虛妄不實，欺誑之法，猶如幻化，誑於嬰兒。』還自己舍，恣於五欲，是優婆塞舍有天神止住。時，彼天神作是念：『是優婆塞不勝不類，於餘優婆塞舍會坐眾中極毀呰欲，言：「如是欲者，虛偽不實，欺誑之法，如誑嬰兒。」還己舍已，自恣五欲，我今寧可發令覺悟。』而說偈言：\n\n「『於大聚會中，　　毀呰欲無常，\n\n　　自沒於愛欲，　　如牛溺深泥。\n\n　　我觀彼會中，　　諸優婆塞等，\n\n　　多聞明解法，　　奉持於淨戒。\n\n　　汝見彼樂法，　　而說欲無常，\n\n　　如何自恣欲，　　不斷於貪愛，\n\n　　何故樂世間，　　畜妻子眷屬。』\n\n「時，彼天神如是如是開覺彼優婆塞已。如是如是彼優婆塞覺悟已，剃除鬚髮，著袈裟衣，正信非家，出家學道，精勤修習，盡諸有漏，得阿羅漢。」\n\n佛說此經已，諸比丘聞佛所說，歡喜奉行。",
+  "english_sa_text": "",
+  "parallels": [
+    {
+      "uid": "sa-2.185",
+      "acronym": "SA2 185",
+      "root_lang": "lzh",
+      "original_title": "輸波羅",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    }
+  ],
+  "primary_sn_uid": null,
+  "pali_text": "",
+  "english_sn_text": "",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa501-600/sa591_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa501-600/sa591_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛住舍卫国祇树给孤独园。\n佛告比丘：「昔有海洲优婆塞，赴他舍会，极毁欲言：『欲虚妄不实，如幻化诳婴。』归家却恣五欲。」\n其舍有天神，念言：『此人不类——会中毁欲，回家自恣；当令觉悟。』说偈：「于大聚会中，毁呰欲无常，自没于爱欲，如牛溺深泥。我观彼会中，诸优婆塞等，多闻明解法，奉持于净戒。汝见彼乐法，而说欲无常，如何自恣欲，不断于贪爱，何故乐世间，畜妻子眷属。」\n天神开觉已，彼优婆塞剃发著袈裟，出家精勤，漏尽得阿罗汉。」\n佛说此经已，诸比丘闻佛所说，欢喜奉行。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在舍卫国祇树给孤独园。\n佛告比丘：「昔有海洲优婆塞，赴他舍会，极毁欲言：『欲虚妄不实，如幻化诳婴。』归家却恣五欲。」\n其舍有天神，念言：「此人不类——会中毁欲，回家自恣；当令觉悟。」说偈：「于大聚会中，毁呰欲无常，自没于爱欲，如牛溺深泥。我观彼会中，诸优婆塞等，多闻明解法，奉持于净戒。汝见彼乐法，而说欲无常，如何自恣欲，不断于贪爱，何故乐世间，畜妻子眷属。」\n天神开觉已，彼优婆塞剃发著袈裟，出家精勤，漏尽得阿罗汉。」\n佛说完这部经，比丘们听佛所说，都欢喜奉行。",
+  "notes": "SC 于本经未列可靠巴利平行，故唯以汉本为底，参同相应之巴利定型语厘义；依项目规约「无可靠平行时 confidence 降为 medium/low」。confidence=medium：parallel sa-2.185，无巴利专经；天神诫毁欲而自恣者，从汉本。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "medium",
+  "prior_review_status": "needs_revision",
+  "similarity_to_source": 0.241,
+  "paragraph_parallel": true,
+  "quality_gate_reasons": [
+    "lit_mod_gap=0.310>=0.1"
+  ]
+}

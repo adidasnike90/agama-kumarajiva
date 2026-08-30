@@ -1,0 +1,41 @@
+{
+  "id": "SA_100",
+  "uid": "sa100",
+  "title": "雜阿含經  卷第四  陰相應  （一〇〇）  佛陀",
+  "chinese_text": "如是我聞：\n\n一時，佛住舍衛國祇樹給孤獨園。\n\n時，有異婆羅門來詣佛所，面前問訊，相慰勞已，退坐一面，白佛言：「瞿曇！所謂佛者，云何為佛？為是父母制名？為是婆羅門制名？」時，婆羅門即說偈言：\n\n「佛者是世間，　　超渡之勝名，\n\n　為是父母制，　　名之為佛耶？」\n\n爾時，世尊說偈答言：\n\n「佛見過去世，　　如是見未來，\n\n　亦見現在世，　　一切行起滅。\n\n　明智所了知，　　所應修已修，\n\n　應斷悉已斷，　　是故名為佛。\n\n　歷劫求選擇，　　純苦無暫樂，\n\n　生者悉磨滅，　　遠離息塵垢，\n\n　拔諸使刺本，　　等覺故名佛。」\n\n佛說偈已，彼婆羅門聞佛所說，歡喜隨喜，從座起去。",
+  "english_sa_text": "",
+  "parallels": [
+    {
+      "uid": "sa-2.266",
+      "acronym": "SA2 266",
+      "root_lang": "lzh",
+      "original_title": "佛陀",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    }
+  ],
+  "primary_sn_uid": null,
+  "pali_text": "",
+  "english_sn_text": "",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa1-100/sa100_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa1-100/sa100_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时佛在舍卫国祇树给孤独园。\n时有一婆罗门来诣佛所，面前问讯，相慰劳已，退坐一面，白佛言：瞿昙，所谓佛者，云何为佛？为是父母制名？为是婆罗门制名？时婆罗门即说偈言：\n佛者是世间，超渡之胜名；为是父母制，名之为佛耶？\n尔时世尊说偈答言：\n佛见过去世，亦见于未来，及见现在世，一切行起灭。明智悉了知，应修者已修，应断者已断，是故名为佛。历劫遍观察，纯苦无暂乐，有生皆磨灭；远离息尘垢，拔诸使刺本，等觉故名佛。\n佛说偈已，彼婆罗门闻佛所说，欢喜随喜，从座起去。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在舍卫国祇树给孤独园。\n当时有位婆罗门来见佛，当面问候、彼此慰劳后退坐一旁，问道：瞿昙，所谓「佛」，什么叫做佛？这是父母给起的名字，还是婆罗门给起的名字？接着他说偈问道：\n「佛」是世间超越、度脱者的尊号；这是父母所立，才叫做佛的吗？\n那时，世尊以偈回答：\n佛看见过去世，也看见未来世，还看见现在世，看见一切行的生起与消灭。以明智完全了知，该修的已经修了，该断的已经断了，所以叫做佛。历经长劫遍加观察，纯是苦而无片刻真乐，凡有生者终归磨灭；远离而止息了尘垢，把烦恼这些刺连根拔起，因为正觉，所以名为佛。\n佛说完偈，那位婆罗门听佛所说，欢喜随喜，起座离去。",
+  "notes": "「佛」非父母、婆罗门所立之名，乃由三世行之起灭如实见、应修已修、应断已断而得名——此与 AN4.36（Doṇa）「buddhosmi」之答同一取向，亦见下经 SA_101。「使」＝anusaya（随眠烦恼），「刺」＝salla，故作「拔诸使刺本」。SC 仅列 SA2 266 为平行，无巴利底本可逐句校。confidence=medium。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "medium",
+  "similarity_to_source": 0.353
+}

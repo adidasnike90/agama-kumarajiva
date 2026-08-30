@@ -1,0 +1,56 @@
+{
+  "id": "SA_598",
+  "uid": "sa598",
+  "title": "雜阿含經  卷第二十五  天相應  （598）  睡眠",
+  "chinese_text": "如是我聞：\n\n一時，佛住舍衛國祇樹給孤獨園。\n\n時，有一天子，容色絕妙，於後夜時來詣佛所，稽首佛足，退坐一面。身諸光明遍照祇樹給孤獨園。\n\n時，彼天子而說偈言：\n\n「沈沒於睡眠，　　欠呿不欣樂，\n\n　飽食心憒閙，　　懈怠不精勤，\n\n　斯十覆眾生，　　聖道不顯現。」\n\n爾時，世尊說偈答言：\n\n「心沒於睡眠，　　欠呿不欣樂，\n\n　飽食心憒閙，　　懈怠不精勤，\n\n　精勤修習者，　　能開發聖道。」\n\n時，彼天子復說偈言：\n\n「久見婆羅門，　　逮得般涅槃，\n\n　一切怖已過，　　永超世恩愛。」\n\n時，彼天子聞佛所說，歡喜隨喜，稽首佛足，即沒不現。",
+  "english_sa_text": "",
+  "parallels": [
+    {
+      "uid": "sa-2.175",
+      "acronym": "SA2 175",
+      "root_lang": "lzh",
+      "original_title": "睡眠",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "sn1.16",
+      "acronym": "SN 1.16",
+      "root_lang": "pli",
+      "original_title": "Niddātandīsutta",
+      "translated_title": "Drowsiness and Lethargy",
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    }
+  ],
+  "primary_sn_uid": "sn1.16",
+  "pali_text": "“Niddā tandī vijambhitā, Aratī bhattasammado; Etena nappakāsati, Ariyamaggo idha pāṇinan”ti. “Niddaṁ tandiṁ vijambhitaṁ, Aratiṁ bhattasammadaṁ; Vīriyena naṁ paṇāmetvā, Ariyamaggo visujjhatī”ti.",
+  "english_sn_text": "“Sleepiness, sloth, and yawning, discontent, and grogginess after eating: because of this the noble path doesn’t shine for creatures here.” “Sleepiness, sloth, and yawning, discontent, and grogginess after eating: when this is energetically fended off, the noble path is purified.”",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa501-600/sa598_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa501-600/sa598_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛住舍卫国祇树给孤独园。\n后夜分，有天子来诣佛所，容色绝妙，稽首礼足，退坐一面；身诸光明遍照祇园。\n天子说偈问：「沉没于睡眠，欠呿不欣乐，饱食心憒闹，懈怠不精勤，斯十覆众生，圣道不显现。」\n世尊说偈答：「心没于睡眠，欠呿不欣乐，饱食心憒闹，懈怠不精勤，精勤修习者，能开发圣道。」\n天子说偈：「久见婆罗门，逮得般涅槃，一切怖已过，永超世恩爱。」闻已欢喜，礼足即没。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在舍卫国祇树给孤独园。\n后夜分，有一位天子，容色绝妙，来到佛前，顶礼佛足，退坐一面；身上的光明遍照祇树给孤独园。\n天子说偈问：「沉没于睡眠，欠呿不欣乐，饱食心憒闹，懈怠不精勤，斯十覆众生，圣道不显现。」\n世尊说偈答：「心没于睡眠，欠呿不欣乐，饱食心憒闹，懈怠不精勤，精勤修习者，能开发圣道。」\n天子又说偈：「久见婆罗门，逮得般涅槃，一切怖已过，永超世恩爱。」听完欢喜随喜，顶礼佛足，随即隐没不见。",
+  "notes": "本经 SC 平行表所列平行及 `raw_aligned_data.json` 内之巴利本文、Sujato 英译并用以厘定法义；求那跋陀罗汉本用于定位经文与传统术语。confidence=high：primary SN1.16（睡眠等五盖障圣道）。据 SN 校正：汉本「十覆」→ 五盖；以精勤开圣道。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "high",
+  "prior_review_status": "needs_revision",
+  "similarity_to_source": 0.278,
+  "paragraph_parallel": true,
+  "quality_gate_reasons": [
+    "lit_mod_gap=0.245>=0.1"
+  ]
+}

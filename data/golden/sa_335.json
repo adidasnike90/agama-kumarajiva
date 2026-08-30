@@ -1,0 +1,32 @@
+{
+  "id": "SA_335",
+  "uid": "sa335",
+  "title": "雜阿含經  卷第十三  因緣相應  （335）  第一義空",
+  "chinese_text": "如是我聞：\n\n一時，佛住拘留搜調牛聚落。\n\n爾時，世尊告諸比丘：「我今當為汝等說法，初、中、後善，善義善味，純一滿淨，梵行清白，所謂第一義空經。諦聽，善思，當為汝說。\n\n「云何為第一義空經？諸比丘！眼生時無有來處，滅時無有去處。如是眼不實而生，生已盡滅，有業報而無作者，此陰滅已，異陰相續，除俗數法。耳、鼻、舌、身、意亦如是說，除俗數法。俗數法者，謂此有故彼有，此起故彼起，如無明緣行，行緣識……」廣說乃至「純大苦聚集起。又復，此無故彼無，此滅故彼滅，無明滅故行滅，行滅故識滅……」如是廣說，乃至「純大苦聚滅。比丘！是名第一義空法經。」\n\n佛說此經已，諸比丘聞佛所說，歡喜奉行。",
+  "english_sa_text": "",
+  "parallels": [],
+  "primary_sn_uid": null,
+  "pali_text": "",
+  "english_sn_text": "",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa301-400/sa335_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa301-400/sa335_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛住拘留搜调牛聚落。\n尔时，世尊告诸比丘：「我今说法，初、中、后善，善义善味，纯一满净，梵行清白——所谓第一义空经。谛听善思。」\n「云何第一义空？眼生时无来处，灭时无去处；不实而生，生已尽灭。有业报而无作者——此阴灭已，异阴相续，唯除世俗假名之法。耳、鼻、舌、身、意亦复如是。，亦唯除世俗假名。」\n「世俗假名者：此有故彼有，此起故彼起——缘无明行，缘行识，缘识名色，缘名色六入处，缘六入处触，缘触受，缘受爱，缘爱取，缘取有，缘有生，缘生老死忧悲恼苦——如是纯大苦聚集。此无故彼无，此灭故彼灭——无明灭则行灭，行灭则识灭，乃至生灭则老死忧悲恼苦灭——如是纯大苦聚灭。比丘！是名第一义空法经。」\n佛说此经已，诸比丘闻佛所说，欢喜奉行。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在拘留搜调牛聚落。\n那时，世尊告诉比丘们：「我现在说法，初、中、后都善，义味具足，纯一清净，梵行清白——叫做第一义空经。仔细听，好好想。」\n「什么是第一义空？眼生起时没有来处，灭去时没有去处；它并非实有而生，生了就灭尽。有业报而没有作者——这一阴灭了，另一阴相续，只除开世俗假名的说法。耳、鼻、舌、身、意也是一样。，也同样只除开世俗假名。」\n「世俗假名就是：此有故彼有，此起故彼起——无明缘行，行缘识，识缘名色，名色缘六入处，六入处缘触，触缘受，受缘爱，爱缘取，取缘有，有缘生，生缘老死忧悲恼苦——这样纯大苦聚集。此无故彼无，此灭故彼灭——无明灭则行灭，行灭则识灭，乃至生灭则老死忧悲恼苦灭——这样纯大苦聚灭。比丘们！这叫做第一义空法经。」\n佛说完这部经，比丘们听佛所说，都欢喜奉行。",
+  "notes": "SC 于本经未列可靠巴利平行，故唯以汉本为底，参同相应之巴利定型语厘义；依项目规约「无可靠平行时 confidence 降为 medium/low」，本经作 medium。题「第一义空」取早期 suññatā 义：无来去、无作者、唯业报相续与缘起假名；非如来藏／佛性义。与 SA_297 大空法经同系「空＝缘起离作者」。「俗数法」改为「世俗假名之法」。confidence=medium。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "medium",
+  "prior_review_status": "needs_revision",
+  "similarity_to_source": 0.295,
+  "paragraph_parallel": true
+}

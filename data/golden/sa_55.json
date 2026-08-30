@@ -1,0 +1,43 @@
+{
+  "id": "SA_55",
+  "uid": "sa55",
+  "title": "雜阿含經  卷第二  陰相應  （五五）  陰",
+  "chinese_text": "如是我聞：\n\n一時，佛在波羅㮈國仙人住處鹿野苑中。\n\n爾時，世尊告諸比丘：「我今當說陰及受陰。云何為陰？若所有諸色，若過去、若未來、若現在，若內，若外，若麤、若細，若好、若醜，若遠、若近，彼一切總說色陰。隨諸所有受、想、行、識亦復如是。彼一切總說受、想、行、識陰，是名為陰。云何為受陰？若色是有漏、是取，若彼色過去、未來、現在，生貪欲、瞋恚、愚癡及餘種種上煩惱心法；受、想、行、識亦復如是，是名受陰。」\n\n佛說此經已，諸比丘聞佛所說，歡喜奉行。",
+  "english_sa_text": "",
+  "parallels": [
+    {
+      "uid": "sn22.48",
+      "acronym": "SN 22.48",
+      "root_lang": "pli",
+      "original_title": "Khandhasutta",
+      "translated_title": "Aggregates",
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    }
+  ],
+  "primary_sn_uid": "sn22.48",
+  "pali_text": "Sāvatthinidānaṁ. “Pañca, bhikkhave, khandhe desessāmi, pañcupādānakkhandhe ca. Taṁ suṇātha. Katame ca, bhikkhave, pañcakkhandhā? Yaṁ kiñci, bhikkhave, rūpaṁ atītānāgatapaccuppannaṁ ajjhattaṁ vā bahiddhā vā oḷārikaṁ vā sukhumaṁ vā hīnaṁ vā paṇītaṁ vā yaṁ dūre santike vā, ayaṁ vuccati rūpakkhandho. Yā kāci vedanā …pe… yā kāci saññā … ye keci saṅkhārā atītānāgatapaccuppannā ajjhattaṁ vā bahiddhā vā oḷārikā vā sukhumā vā …pe… ayaṁ vuccati saṅkhārakkhandho. Yaṁ kiñci viññāṇaṁ atītānāgatapaccuppannaṁ ajjhattaṁ vā bahiddhā vā oḷārikaṁ vā sukhumaṁ vā hīnaṁ vā paṇītaṁ vā yaṁ dūre santike vā, ayaṁ vuccati viññāṇakkhandho. Ime vuccanti, bhikkhave, pañcakkhandhā. Katame ca, bhikkhave, pañcupādānakkhandhā? Yaṁ kiñci, bhikkhave, rūpaṁ atītānāgatapaccuppannaṁ …pe… yaṁ dūre santike vā sāsavaṁ upādāniyaṁ, ayaṁ vuccati rūpupādānakkhandho. Yā kāci vedanā …pe… yā dūre santike vā sāsavā upādāniyā, ayaṁ vuccati vedanupādānakkhandho. Yā kāci saññā …pe… yā dūre santike vā sāsavā upādāniyā, ayaṁ vuccati saññupādānakkhandho. Ye keci saṅkhārā …pe… sāsavā upādāniyā, ayaṁ vuccati saṅkhārupādānakkhandho. Yaṁ kiñci viññāṇaṁ atītānāgatapaccuppannaṁ …pe… yaṁ dūre santike vā sāsavaṁ upādāniyaṁ, ayaṁ vuccati viññāṇupādānakkhandho. Ime vuccanti, bhikkhave, pañcupādānakkhandhā”ti. Chaṭṭhaṁ.",
+  "english_sn_text": "At Sāvatthī. “Mendicants, I will teach you the five aggregates and the five grasping aggregates. Listen … And what are the five aggregates? Any kind of form at all—past, future, or present; internal or external; solid or subtle; inferior or superior; far or near: this is called the aggregate of form. Any kind of feeling at all … Any kind of perception at all … Any kind of choices at all … Any kind of consciousness at all—past, future, or present; internal or external; solid or subtle; inferior or superior; far or near: this is called the aggregate of consciousness. These are called the five aggregates. And what are the five grasping aggregates? Any kind of form at all—past, future, or present; internal or external; solid or subtle; inferior or superior; far or near, which is accompanied by defilements and fuels grasping: this is called the grasping aggregate of form. Any kind of feeling at all … Any kind of perception at all … Any kind of choices at all … Any kind of consciousness at all—past, future, or present; internal or external; solid or subtle; inferior or superior; far or near, which is accompanied by defilements and fuels grasping: this is called the grasping aggregate of consciousness. These are called the five grasping aggregates.”",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa1-100/sa55_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa1-100/sa55_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时佛在波罗㮈国仙人住处鹿野苑中。\n尔时世尊告诸比丘：我今说阴及受阴。云何为阴？若所有色，若过去、未来、现在，若内、若外，若粗、若细，若好、若丑，若远、若近，总说为色阴；受、想、行、识亦复如是，是名为阴。云何为受阴？若色有漏、是取，于过去、未来、现在色生贪欲、瞋恚、愚痴及余上烦恼；受、想、行、识亦复如是，是名受阴。\n佛说此经已，诸比丘闻佛所说，欢喜奉行。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在波罗㮈国仙人住处鹿野苑中。\n那时，世尊告诉比丘们：我现在说「阴」和「受阴」。什么是阴？凡所有色——过去、未来、现在，内、外，粗、细，好、丑，远、近——总称为色阴；受、想、行、识也是一样，这叫做阴。什么是受阴？若色有漏、是取，并在过去、未来、现在的色上生起贪欲、瞋恚、愚痴及其他强烈烦恼；受、想、行、识也是一样，这叫做受阴。\n佛说完这部经，比丘们听佛所说，都欢喜奉行。",
+  "notes": "据 SN22.48：khandha vs upādānakkhandha（阴／受阴＝取蕴）。汉「受阴」此处＝取阴，非受蕴之受。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "high",
+  "prior_review_status": "needs_revision",
+  "revision_reason": "信达雅 v1：据巴利平行重译，去繁转简稿",
+  "similarity_to_source": 0.361
+}

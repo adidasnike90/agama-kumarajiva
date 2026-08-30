@@ -1,0 +1,63 @@
+{
+  "id": "SA_1086",
+  "uid": "sa1086",
+  "title": "雜阿含經  卷第四十七  魔相應  （1086）  波旬",
+  "chinese_text": "如是我聞：\n\n一時，佛住王舍城迦蘭陀竹園。\n\n爾時，世尊夜起經行，至於後夜，洗足入室，斂身正坐，專心繫念。\n\n時，魔波旬作是念：「今沙門瞿曇於王舍城迦蘭陀竹園，夜起經行，於後夜時，洗足入室，正身端坐，繫念禪思。我今當往，為作嬈亂。」即化作年少，住於佛前，而說偈言：\n\n「我心於空中，　　執長繩羂下，\n\n　政欲縛沙門，　　不令汝得脫。」\n\n爾時，世尊作是念：「惡魔波旬欲作嬈亂。」即說偈言：\n\n「我說於世間，　　五欲意第六，\n\n　於彼永已離，　　一切苦已斷。\n\n　我已離彼欲，　　心意識亦滅，\n\n　波旬我知汝，　　速於此滅去。」\n\n時，魔波旬作是念：「沙門已知我心。」慚愧憂慼，即沒不現。",
+  "english_sa_text": "",
+  "parallels": [
+    {
+      "uid": "sa-2.25",
+      "acronym": "SA2 25",
+      "root_lang": "lzh",
+      "original_title": "波旬",
+      "translated_title": "Māra disturbs the Buddha in meditation",
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "sn4.15",
+      "acronym": "SN 4.15",
+      "root_lang": "pli",
+      "original_title": "Mānasasutta",
+      "translated_title": "Mental",
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "san-lo-mvu106",
+      "acronym": "San Lo Mvu 106",
+      "root_lang": "san",
+      "original_title": "The Temptation by Māra",
+      "translated_title": null,
+      "type": "full",
+      "resembling": true,
+      "remark": null
+    }
+  ],
+  "primary_sn_uid": "sn4.15",
+  "pali_text": "Evaṁ me sutaṁ— ekaṁ samayaṁ bhagavā sāvatthiyaṁ viharati jetavane anāthapiṇḍikassa ārāme. Atha kho māro pāpimā yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṁ gāthāya ajjhabhāsi: “Antalikkhacaro pāso, yvāyaṁ carati mānaso; Tena taṁ bādhayissāmi, na me samaṇa mokkhasī”ti. “Rūpā saddā rasā gandhā, Phoṭṭhabbā ca manoramā; Ettha me vigato chando, Nihato tvamasi antakā”ti. Atha kho māro pāpimā “jānāti maṁ bhagavā, jānāti maṁ sugato”ti dukkhī dummano tatthevantaradhāyīti.",
+  "english_sn_text": "So I have heard. At one time the Buddha was staying near Sāvatthī in Jeta’s Grove, Anāthapiṇḍika’s monastery. Then Māra the Wicked went up to the Buddha and addressed him in verse: “There’s a mental snare wandering in midair. I’ll bind you with it— you won’t escape me, ascetic!” “Sights, sounds, tastes, smells, and touches so delightful: desire for these is gone from me. You’re beaten, terminator!” Then Māra the Wicked, thinking, “The Buddha knows me! The Holy One knows me!” miserable and sad, vanished right there.",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa1001-1100/sa1086_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa1001-1100/sa1086_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛住王舍城迦兰陀竹园。\n世尊夜经行，后夜洗足入室，端坐系念。\n魔说偈：「我执长绳于空欲缚沙门，不令得脱。」\n佛答：「世间五欲，意为第六；我于彼永离，苦已断。欲与心意识亦灭；波旬，我知汝，灭去！」\n魔波旬念：「沙门已知我心。」忧惭即没。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在王舍城迦兰陀竹园。\n世尊夜里经行，到后夜洗脚进房，端身正坐，专心系念。\n魔说偈：「我在空中抛下长绳，想绑住沙门，不让你逃脱。」\n佛答：「世间的五欲，再加上意为第六；我对这些已经永离，苦也断尽。欲与心、意、识都已灭；波旬，我认得你，走开！」\n魔波旬心想：「沙门已经知道我的心。」忧愁惭愧，随即隐没不见。",
+  "notes": "本经 SC 平行表所列平行及 `raw_aligned_data.json` 内之巴利本文、Sujato 英译并用以厘定法义；求那跋陀罗汉本用于定位经文与传统术语。据 SN4.15 Manasa：魔欲意缚；佛于五欲＋意已离。汉「政欲缚」读作「正欲缚」。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "high",
+  "prior_review_status": "needs_revision",
+  "similarity_to_source": 0.109,
+  "paragraph_parallel": true
+}

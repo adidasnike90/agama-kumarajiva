@@ -1,0 +1,53 @@
+{
+  "id": "SA_825",
+  "uid": "sa825",
+  "title": "雜阿含經  卷第三十一  學相應  （825）  學",
+  "chinese_text": "如是我聞：\n\n一時，佛住舍衛國祇樹給孤獨園。\n\n爾時，世尊告諸比丘：「學戒多福利，住智慧為上，解脫堅固，念為增上。若比丘學戒福利，智慧為上，解脫堅固，念增上已，令三學滿足。何等為三？謂增上戒學、增上意學、增上慧學。」\n\n爾時，世尊即說偈言：\n\n「學戒隨福利，　　專思三昧禪，\n\n　智慧為最上，　　現生之最後，\n\n　牟尼持後邊，　　降魔度彼岸。」\n\n佛說此經已，諸比丘聞佛所說，歡喜奉行。",
+  "english_sa_text": "",
+  "parallels": [
+    {
+      "uid": "iti46",
+      "acronym": "Iti 46",
+      "root_lang": "pli",
+      "original_title": "Sikkhānisaṁsasutta",
+      "translated_title": "The Benefits of the Training",
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "t765.91",
+      "acronym": "T 765.91",
+      "root_lang": "lzh",
+      "original_title": "學",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    }
+  ],
+  "primary_sn_uid": null,
+  "pali_text": "",
+  "english_sn_text": "",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa801-900/sa825_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa801-900/sa825_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛住舍卫国祇树给孤独园。\n尔时世尊告诸比丘：「学戒多福利，智慧为上，解脱坚固，念为增上。若比丘如是住，则令增上戒学、增上意学、增上慧学满足。」\n尔时世尊即说偈言：「学戒随福利，专思三昧禅；智慧为最上，现生之最后；牟尼持后边，降魔度彼岸。」\n佛说此经已，诸比丘闻佛所说，欢喜奉行。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在舍卫国祇树给孤独园。\n那时世尊告诉比丘们：「以学戒为福利，以智慧为上首，以解脱为坚固核心，以念为增上。如果比丘这样安住，就能使增上戒学、增上意学、增上慧学满足。」\n那时世尊便说偈：「学戒随顺福利，专心思惟于禅定；智慧最为上首，就在现生的最后；牟尼持最后边身，降魔而度彼岸。」\n佛说完这部经，比丘们听佛所说，都欢喜奉行。",
+  "notes": "本经 SC 平行表所列平行及 `raw_aligned_data.json` 内之巴利本文、Sujato 英译并用以厘定法义；求那跋陀罗汉本用于定位经文与传统术语。confidence=high：primary Iti46 Sikkhānisaṁsa；sippa／training-as-benefit、wisdom-as-overseer、freedom-as-core、mindfulness-as-ruler；汉「念为增上」＝sati Ādhipateyya。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "high",
+  "prior_review_status": "needs_revision",
+  "similarity_to_source": 0.376,
+  "paragraph_parallel": true
+}

@@ -1,0 +1,43 @@
+{
+  "id": "SA_871",
+  "uid": "sa871",
+  "title": "雜阿含經  卷第三十二  天相應  （871）  風雲天",
+  "chinese_text": "如是我聞：\n\n一時，佛住舍衛國祇樹給孤獨園。\n\n爾時，世尊告諸比丘：「有風雲天作是念：『我今欲以神力遊戲。』如是念時，風雲則起。如風雲天，如是焰電天、雷震天、雨天、晴天、寒天、熱天亦如是說。」\n\n佛說此經已，諸比丘聞佛所說，歡喜奉行。\n\n說如是，異比丘問佛、佛問諸比丘亦如是說。",
+  "english_sa_text": "",
+  "parallels": [
+    {
+      "uid": "sn32.1",
+      "acronym": "SN 32.1",
+      "root_lang": "pli",
+      "original_title": "Suddhikasutta",
+      "translated_title": null,
+      "type": "full",
+      "resembling": true,
+      "remark": null
+    }
+  ],
+  "primary_sn_uid": "sn32.1",
+  "pali_text": "Sāvatthinidānaṁ. “Valāhakakāyike vo, bhikkhave, deve desessāmi. Taṁ suṇātha. Katame ca, bhikkhave, valāhakakāyikā devā? Santi, bhikkhave, sītavalāhakā devā; santi uṇhavalāhakā devā; santi abbhavalāhakā devā; santi vātavalāhakā devā; santi vassavalāhakā devā— ime vuccanti, bhikkhave, ‘valāhakakāyikā devā’”ti. Paṭhamaṁ.",
+  "english_sn_text": "At Sāvatthī. “Mendicants, I will teach you about the gods of the thundercloud host. Listen … And what are the gods of the thundercloud host? There are gods of the cool thunderclouds, warm thunderclouds, stormy thunderclouds, windy thunderclouds, and rainy thunderclouds. These are called gods of the thundercloud host.”",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa801-900/sa871_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa801-900/sa871_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛住舍卫国祇树给孤独园。\n尔时世尊告诸比丘：「有风云天作是念：『我今欲以神通游戏。』如是念时，风云则起。如风云天，焰电天、雷震天、雨天、晴天、寒天、热天，亦复如是。」\n佛说此经已，诸比丘闻佛所说，欢喜奉行。\n如是说已，若异比丘问佛、佛问诸比丘，亦如是说。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在舍卫国祇树给孤独园。\n那时世尊告诉比丘们：「有风云天这样想：『我现在要以神通游戏。』这样一想，风云就生起。如同风云天，焰电天、雷震天、雨天、晴天、寒天、热天，也是这样。」\n佛说完这部经，比丘们听佛所说，都欢喜奉行。\n这样说完，如果有别的比丘问佛、或佛问比丘们，也是这样说。",
+  "notes": "本经 SC 平行表所列平行及 `raw_aligned_data.json` 内之巴利本文、Sujato 英译并用以厘定法义；求那跋陀罗汉本用于定位经文与传统术语。confidence=medium：SC 标 SN32.1 resembling——巴利列寒／热／云／风／雨等云天众名，汉本则述诸天欲以神通游戏而感起风云等；叙事从汉，类属从 SN 云天相应。神力→神通。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "medium",
+  "prior_review_status": "needs_revision",
+  "similarity_to_source": 0.376,
+  "paragraph_parallel": true
+}

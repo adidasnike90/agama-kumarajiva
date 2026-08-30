@@ -1,0 +1,73 @@
+{
+  "id": "SA_879",
+  "uid": "sa879",
+  "title": "雜阿含經  卷第三十三  修證相應  （879）  四正斷",
+  "chinese_text": "如是我聞：\n\n一時，佛住舍衛國祇樹給孤獨園。\n\n爾時，世尊告諸比丘：「有四正斷。何等為四？一者斷斷，二者律儀斷，三者隨護斷，四者修斷。云何斷斷？若比丘已起惡不善法斷，生欲、方便、精勤、攝受；未起惡不善法不起，生欲、方便、精勤、攝受；未生善法令起、生欲、方便、精勤、攝受；已生善法增益修習，生欲、方便、精勤、攝受，是名斷斷。云何律儀斷？若比丘善護眼根，隱密、調伏、進向；如是耳、鼻、舌、身、意根善護、隱密、調伏、進向，是名律儀斷。云何隨護斷？若比丘於彼彼真實三昧相善守護持，所謂青瘀相、脹相、膿相、壞相、食不盡相，修習守護，不令退沒，是名隨護斷。云何修斷？若比丘修四念處等，是名修斷。」\n\n爾時，世尊即說偈言：\n\n「斷斷律儀斷，　　隨護修習斷，\n\n　此四種正斷，　　正覺之所說，\n\n　比丘勤方便，　　得盡於諸漏。」\n\n佛說此經已，諸比丘聞佛所說，歡喜奉行。\n\n如四念處，如是四正斷、四如意足、五根、五力、七覺支、八道支、四道、四法句、正觀修習，亦如是說。",
+  "english_sa_text": "",
+  "parallels": [
+    {
+      "uid": "an4.14",
+      "acronym": "AN 4.14",
+      "root_lang": "pli",
+      "original_title": "Saṁvarasutta",
+      "translated_title": "Restraint",
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "ea-2.11",
+      "acronym": "EA2 11",
+      "root_lang": "lzh",
+      "original_title": "四正斷",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "sht-sutta47",
+      "acronym": "SHT Sutta 47",
+      "root_lang": "san",
+      "original_title": "",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "gf10",
+      "acronym": "GF 10",
+      "root_lang": "pgd",
+      "original_title": "",
+      "translated_title": null,
+      "type": "full",
+      "resembling": true,
+      "remark": null
+    }
+  ],
+  "primary_sn_uid": null,
+  "pali_text": "",
+  "english_sn_text": "",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa801-900/sa879_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa801-900/sa879_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛住舍卫国祇树给孤独园。\n尔时世尊告诸比丘：「有四正断。何等为四？断断、律仪断、随护断、修断。云何断断？若比丘已起恶不善法断，生欲、精进、发勤、策心、持心；未起恶不善法不起，生欲、精进、发勤、策心、持心；未生善法令生，生欲、精进、发勤、策心、持心；已生善法令住不忘、修习增广，生欲、精进、发勤、策心、持心，是名断断。云何律仪断？若比丘善护眼根，密护、调伏、向于防护；耳、鼻、舌、身、意根亦复如是，是名律仪断。云何随护断？若比丘于真实三昧之相善守护持——所谓青瘀、膨胀、脓烂、坏烂、啖残等相，修习守护，不令退失，是名随护断。云何修断？若比丘修四念处，是名修断。」\n尔时世尊说偈言：\n「断断律仪断，随护与修断，\n　此四正断法，正觉之所说；\n　比丘勤方便，得尽于诸漏。」\n佛说此经已，诸比丘闻佛所说，欢喜奉行。\n如四念处，四正断、四如意足、五根、五力、七觉支、八圣道分、四道、四法句、正观修习，亦如是说。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在舍卫国祇树给孤独园。\n那时世尊告诉比丘们：「有四正断。哪四种？断断、律仪断、随护断、修断。什么是断断？如果比丘已生起的恶不善法要断除，生起欲乐、精进、发动、策心、持心；尚未生起的恶不善法使它不生，生起欲乐、精进、发动、策心、持心；尚未生起的善法使它生起，生起欲乐、精进、发动、策心、持心；已生起的善法使它安住不忘、修习增长，生起欲乐、精进、发动、策心、持心，叫做断断。什么是律仪断？如果比丘善护眼根，密护、调伏、致力于防护；耳、鼻、舌、身、意根也是这样，叫做律仪断。什么是随护断？如果比丘对真实三昧的所缘相善加守护——也就是青瘀、膨胀、脓烂、坏烂、啖残等相，修习守护，不让退失，叫做随护断。什么是修断？如果比丘修四念处，叫做修断。」\n那时世尊说偈：\n「断断律仪断，随护与修断，\n　此四正断法，正觉之所说；\n　比丘勤方便，得尽于诸漏。」\n佛说完这部经，比丘们听佛所说，都欢喜奉行。\n如同四念处，四正断、四如意足、五根、五力、七觉支、八圣道分、四道、四法句、正观修习，也是这样说。",
+  "notes": "本经 SC 平行表所列平行及 `raw_aligned_data.json` 内之巴利本文、Sujato 英译并用以厘定法义；求那跋陀罗汉本用于定位经文与传统术语。confidence=high：平行 AN4.14；四名异门：断断＝总摄四正勤；律仪＝护根；随护＝护不净相等三昧相；修＝修四念处等。汉「食不尽相」→啖残相；末道品 peyyāla 从汉。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "high",
+  "prior_review_status": "needs_revision",
+  "similarity_to_source": 0.344,
+  "paragraph_parallel": true
+}

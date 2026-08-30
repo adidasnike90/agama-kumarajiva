@@ -1,0 +1,76 @@
+{
+  "id": "SA_588",
+  "uid": "sa588",
+  "title": "雜阿含經  卷第二十五  天相應  （588）  四轉輪",
+  "chinese_text": "如是我聞：\n\n一時，佛住舍衛國祇樹給孤獨園。\n\n時，有一天子，容色絕妙，於後夜時來詣佛所，稽首佛足，身諸光明遍照祇樹給孤獨園。\n\n時，彼天子說偈問佛：\n\n「有四轉九門，　　充滿貪欲住，\n\n　深溺烏泥中，　　大象云何出？」\n\n爾時，世尊說偈答言：\n\n「斷愛喜長縻，　　貪欲等諸惡，\n\n　拔愛欲根本，　　正向於彼處。」\n\n時，彼天子復說偈言：\n\n「久見婆羅門，　　逮得般涅槃，\n\n　一切怖已過，　　永超世恩愛。」\n\n時，彼天子聞佛所說，歡喜隨喜，稽首佛足，即沒不現。",
+  "english_sa_text": "",
+  "parallels": [
+    {
+      "uid": "sa-2.172",
+      "acronym": "SA2 172",
+      "root_lang": "lzh",
+      "original_title": "四轉輪",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "sn1.29",
+      "acronym": "SN 1.29",
+      "root_lang": "pli",
+      "original_title": "Catucakkasutta",
+      "translated_title": "Four Wheels",
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "sn2.28",
+      "acronym": "SN 2.28",
+      "root_lang": "pli",
+      "original_title": "Nandivisālasutta",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "pe5",
+      "acronym": "Pe 5",
+      "root_lang": "pli",
+      "original_title": "Hāravibhaṅgapañcamabhūmi",
+      "translated_title": "V. 16 Modes of Conveying in Separate Treatment",
+      "type": "mention",
+      "resembling": false,
+      "remark": null
+    }
+  ],
+  "primary_sn_uid": "sn1.29",
+  "pali_text": "“Catucakkaṁ navadvāraṁ, puṇṇaṁ lobhena saṁyutaṁ; Paṅkajātaṁ mahāvīra, kathaṁ yātrā bhavissatī”ti. “Chetvā naddhiṁ varattañca, icchā lobhañca pāpakaṁ; Samūlaṁ taṇhamabbuyha, evaṁ yātrā bhavissatī”ti.",
+  "english_sn_text": "“Four are its wheels, and nine its doors; it’s stuffed full, bound with greed, and born from a bog. Great hero, how will I keep going?” “Having cut the strap and harness— the wicked desire and greed— and having plucked out craving, root and all: that’s how you will keep going.”",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa501-600/sa588_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa501-600/sa588_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛在舍卫国祇树给孤独园。时，有一天子容色绝妙，于后夜时来诣佛所，稽首佛足，身诸光明遍照祇树给孤独园。\n时，彼天子说偈白佛：「有四转九门，充满贪欲住，深溺乌泥中，大象云何出？」\n尔时，世尊说偈答言：「断爱喜长縻，贪欲等诸恶，拔爱欲根本，正向于彼处。」\n时，彼天子复说偈言：「久见婆罗门，逮得般涅槃，一切怖已过，永超世恩爱。」\n时，彼天子闻佛所说，欢喜随喜，稽首佛足，即没不现。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在舍卫国祇树给孤独园。当时，有一位天子容色绝妙，在后夜来到佛处，顶礼佛足，身放光明遍照祇树给孤独园。\n天子说偈问佛：「有四转九门，充满贪欲住，深溺乌泥中，大象云何出？」\n世尊说偈答：「断爱喜长縻，贪欲等诸恶，拔爱欲根本，正向于彼处。」\n天子又说偈：「久见婆罗门，逮得般涅槃，一切怖惧已过，永超世间恩爱。」\n当时，那位天子听佛所说，欢喜随喜，顶礼佛足，随即消失。",
+  "notes": "本经 SC 平行表所列平行及 `raw_aligned_data.json` 内之巴利本文、Sujato 英译并用以厘定法义；求那跋陀罗汉本用于定位经文与传统术语。confidence=high：primary SN1.29（四转九门／断爱喜縻）。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "high",
+  "prior_review_status": "needs_revision",
+  "similarity_to_source": 0.468,
+  "paragraph_parallel": true,
+  "quality_gate_reasons": [
+    "lit_mod_gap=0.248>=0.1"
+  ]
+}

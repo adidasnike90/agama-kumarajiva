@@ -1,0 +1,32 @@
+{
+  "id": "SA_544",
+  "uid": "sa544",
+  "title": "雜阿含經  卷第二十二  阿難相應  （544）  何故出家",
+  "chinese_text": "如是我聞：\n\n一時，佛住舍衛國祇樹給孤獨園。時，尊者阿那律在舍衛國松林精舍。\n\n時，有眾多外道出家詣尊者阿那律所，共相問訊慰勞已，於一面坐。語尊者阿那律：「尊者何故於沙門瞿曇法中出家？」\n\n尊者阿那律言：「為修習故。」\n\n復問：「何所修習？」\n\n答言：「謂修諸根、修諸力、修諸覺分、修諸念處，汝欲聞何等修？」\n\n復問：「根、力、覺分，我不知其名字，況復問義，然我欲聞念處。」\n\n尊者阿那律言：「諦聽，善思，當為汝說。若比丘內身身觀念處，乃至法法觀念處。」\n\n時，眾多外道出家聞尊者阿那律所說，歡喜隨喜，各從座起而去。",
+  "english_sa_text": "",
+  "parallels": [],
+  "primary_sn_uid": null,
+  "pali_text": "",
+  "english_sn_text": "",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa501-600/sa544_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa501-600/sa544_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛在舍卫国祇树给孤独园。时，尊者阿那律在舍卫国松林精舍。\n有众多外道出家诣阿那律所，共相问讯慰劳已，于一面坐，问：「尊者何故于沙门瞿昙法中出家？」\n阿那律言：「为修习故。」\n复问：「何所修习？」答：「谓修诸根、修诸力、修诸觉分、修诸念处，汝欲闻何等修？」\n复问：「根、力、觉分，我不知其名字，况复问义，然我欲闻念处。」\n阿那律言：「谛听，善思，当为汝说。若比丘内身身观念处，乃至外身、内外身，内受、外受、内外受，内心、外心、内外心，内法、外法、内外法。」\n众多外道出家闻阿那律所说，欢喜随喜，各从座起而去。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在舍卫国祇树给孤独园。当时，阿那律尊者在舍卫国松林精舍。\n有许多外道出家人来到阿那律处，互相问讯慰劳后，在一旁坐下，问：「尊者为什么在沙门瞿昙的法中出家？」\n阿那律说：「为了修习。」\n又问：「修习什么？」他回答：「就是修习诸根、诸力、诸觉分、诸念处，你想听哪一种修习？」\n又问：「根、力、觉分，我不知道名字，何况问义，然而我想听念处。」\n阿那律说：「仔细听，好好思惟，我当为你说。若有比丘内身身观念处，乃至外身、内外身，内受、外受、内外受，内心、外心、内外心，内法、外法、内外法。」\n许多外道出家人听阿那律所说，欢喜随喜，各自从座位起来离去。",
+  "notes": "SC 于本经未列可靠巴利平行，故唯以汉本为底，参同相应之巴利定型语厘义；依项目规约「无可靠平行时 confidence 降为 medium/low」，本经作 medium。confidence=medium：汉本外道问出家因及念处 peyyāla，从汉；末段『乃至法法观念处』为定型省文，如实存。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "medium",
+  "prior_review_status": "needs_revision",
+  "similarity_to_source": 0.395,
+  "paragraph_parallel": true
+}

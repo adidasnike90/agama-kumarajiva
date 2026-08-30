@@ -1,0 +1,43 @@
+{
+  "id": "SA_224",
+  "uid": "sa224",
+  "title": "雜阿含經  卷第九  六入處相應  （224）  斷",
+  "chinese_text": "如是我聞：\n\n一時，佛住舍衛國祇樹給孤獨園。\n\n爾時，世尊告諸比丘：「一切欲法應當斷。云何一切欲法應當斷？謂眼是一切欲法應當斷，若色、眼識、眼觸、眼觸因緣生受，內覺若苦、若樂、不苦不樂，彼一切欲法應當斷。耳、鼻、舌、身、意亦復如是。」\n\n佛說此經已，諸比丘聞佛所說，歡喜奉行。",
+  "english_sa_text": "Saṁyuktāgama\n\n224. [First Discourse on Abandoning]\n\nThus have I heard. At one time the Buddha was staying at Sāvatthī in Jeta’s Grove, Anāthapiṇḍika’s Park.\n\nAt that time the Blessed One said to the monks: “All things [related to] desire should be abandoned. What are all things [related to] desire that should be abandoned? That is, the eye is [one of] all the things [related to] desire that should be abandoned. Forms, eye-consciousness, eye-contact, and feeling arisen in dependence on eye-contact and experienced within, be it painful, pleasant, or neutral, all these things [related to] desire should be abandoned.\n\n“The ear … the nose … the tongue … the body … the mind is also like that.”\n\nWhen the Buddha had spoken this discourse, hearing what the Buddha had said the monks were delighted and received it respectfully.\n\nTranslated by Bhikkhu Anālayo. Originally published in \"On the Six Sense-spheres (1) ―A Translation of Saṁyukta-āgama Discourses 188 to 229 (Fascicle 8)\", Dharma Drum Journal of Buddhist Studies, 2016, vol. 18 pp. 1–61.\n\nPrepared for SuttaCentral by Ayya Vimala.",
+  "parallels": [
+    {
+      "uid": "sn35.24",
+      "acronym": "SN 35.24",
+      "root_lang": "pli",
+      "original_title": "Pahānasutta",
+      "translated_title": "Abandonment (1)",
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    }
+  ],
+  "primary_sn_uid": "sn35.24",
+  "pali_text": "“Sabbappahānāya vo, bhikkhave, dhammaṁ desessāmi. Taṁ suṇātha. Katamo ca, bhikkhave, sabbappahānāya dhammo? Cakkhuṁ, bhikkhave, pahātabbaṁ, rūpā pahātabbā, cakkhuviññāṇaṁ pahātabbaṁ, cakkhusamphasso pahātabbo, yampidaṁ cakkhusamphassapaccayā uppajjati vedayitaṁ sukhaṁ vā dukkhaṁ vā adukkhamasukhaṁ vā tampi pahātabbaṁ …pe… jivhā pahātabbā, rasā pahātabbā, jivhāviññāṇaṁ pahātabbaṁ, jivhāsamphasso pahātabbo, yampidaṁ jivhāsamphassapaccayā uppajjati vedayitaṁ sukhaṁ vā dukkhaṁ vā adukkhamasukhaṁ vā tampi pahātabbaṁ. Kāyo pahātabbo … mano pahātabbo, dhammā pahātabbā, manoviññāṇaṁ pahātabbaṁ, manosamphasso pahātabbo, yampidaṁ manosamphassapaccayā uppajjati vedayitaṁ sukhaṁ vā dukkhaṁ vā adukkhamasukhaṁ vā tampi pahātabbaṁ. Ayaṁ kho, bhikkhave, sabbappahānāya dhammo”ti. Dutiyaṁ.",
+  "english_sn_text": "“Mendicants, I will teach you the principle for giving up the all. Listen … And what is the principle for giving up the all? The eye should be given up. Sights should be given up. Eye consciousness should be given up. Eye contact should be given up. The painful, pleasant, or neutral feeling that arises dependent on eye contact should also be given up. The ear … nose … tongue … body … mind should be given up. Ideas should be given up. Mind consciousness should be given up. Mind contact should be given up. The painful, pleasant, or neutral feeling that arises dependent on mind contact should be given up. This is the principle for giving up the all.”",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa201-300/sa224_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa201-300/sa224_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时佛在舍卫国祇树给孤独园。\n尔时世尊告诸比丘：一切欲法应当断。云何一切欲法应当断？谓眼是欲法，应当断；色、眼识、眼触，及眼触因缘所生受——内所觉受，若苦、若乐、不苦不乐——彼一切欲法应当断。耳、鼻、舌、身、意亦复如是。\n佛说此经已，诸比丘闻佛所说，欢喜奉行。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在舍卫国祇树给孤独园。\n那时，世尊告诉比丘们：一切与欲相关的法都应当断除。什么是一切应当断除的欲法？就是：眼是欲法，应当断除；色、眼识、眼触，以及依眼触为缘而生起的感受——内心所领受的，无论是苦、是乐、还是不苦不乐——这些欲法都应当断除。耳、鼻、舌、身、意也是一样。\n佛说完这部经，比丘们听佛所说，都欢喜奉行。",
+  "notes": "本经 SC 平行表所列平行及 `raw_aligned_data.json` 内之巴利本文、Sujato 英译，与 Anālayo 之 SA 英译（DDJBS 18, 2016, Fascicle 8）并用以厘定法义；求那跋陀罗汉本用于定位经文与传统术语。confidence=high：SN35.24（Pahāna）为 `full`、非 resembling 之平行，眼、色、眼识、眼触、触缘生受五支皆 `pahātabba`（应当断），巴利逐支可对。信-校正：底本开首作「一切欲法应当断」，巴利作 `sabbappahānāya … dhammaṁ`（为断「一切」而说法），所断者为 sabba（一切：六处及所生法），不言 kāma／chanda；Anālayo 读汉本为 all things [related to] desire。汉本加「欲」字与巴利之 sabba 不同，而所断之列与巴利全同，故存汉本「欲法」之语面而于此志异，不据巴利删「欲」——「欲法」可读作「所应断之欲贪所系法」，与六入处相应之通义不相违。「内觉」同 SA_222。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "high",
+  "prior_review_status": "needs_revision",
+  "similarity_to_source": 0.419,
+  "paragraph_parallel": true
+}

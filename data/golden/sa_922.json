@@ -1,0 +1,53 @@
+{
+  "id": "SA_922",
+  "uid": "sa922",
+  "title": "雜阿含經  卷第三十六  釋氏相應  （922）  鞭影",
+  "chinese_text": "如是我聞：\n\n一時，佛住王舍城迦蘭陀竹園。\n\n爾時，世尊告諸比丘：「世有四種良馬，有良馬駕以平乘，顧其鞭影馳駃，善能觀察御者形勢，遲速左右，隨御者心。是名，比丘！世間良馬第一之德。復次，比丘！世間良馬不能顧影而自驚察，然以鞭杖觸其毛尾則能驚速察御者心，遲速左右，是名世間第二良馬。復次，比丘！若世間良馬不能顧影，及觸皮毛能隨人心，而以鞭杖小侵皮肉則能驚察，隨御者心，遲速左右。是名，比丘！第三良馬。復次，比丘！世間良馬不能顧其鞭影，及觸皮毛，小侵膚肉，乃以鐵錐刺身，徹膚傷骨，然後方驚，牽車著路，隨御者心，遲速左右，是名世間第四良馬。\n\n「如是於正法、律有四種善男子。何等為四？謂善男子聞他聚落有男子、女人疾病困苦，乃至死，聞已，能生恐怖，依正思惟，如彼良馬顧影則調，是名第一善男子於正法、律能自調伏。復次，善男子不能聞他聚落若男、若女老、病、死苦，能生怖畏，依正思惟；見他聚落若男、若女老、病、死苦，則生怖畏，依正思惟，如彼良馬觸其毛尾，能速調伏，隨御者心，是名第二善男子於正法、律能自調伏。復次，善男子不能聞、見他聚落中男子、女人老、病、死苦，生怖畏心，依正思惟，然見聚落、城邑有善知識及所親近老、病、死苦，則生怖畏，依正思惟，如彼良馬，觸其膚肉，然後調伏，隨御者心，是名善男子於聖法、律而自調伏。復次，善男子不能聞、見他聚落中男子、女人及所親近老、病、死苦，生怖畏心，依正思惟；然於自身老、病、死苦能生厭怖，依正思惟，如彼良馬侵肌徹骨，然後乃調，隨御者心，是名第四善男子於聖法、律能自調伏。」\n\n佛說此經已，諸比丘聞佛所說，歡喜奉行。",
+  "english_sa_text": "",
+  "parallels": [
+    {
+      "uid": "an4.113",
+      "acronym": "AN 4.113",
+      "root_lang": "pli",
+      "original_title": "Patodasutta",
+      "translated_title": "The Goad-stick",
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "sa-2.148",
+      "acronym": "SA2 148",
+      "root_lang": "lzh",
+      "original_title": "鞭影",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    }
+  ],
+  "primary_sn_uid": null,
+  "pali_text": "",
+  "english_sn_text": "",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa901-1000/sa922_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa901-1000/sa922_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛住王舍城迦兰陀竹园。\n尔时世尊告诸比丘：「世有四种良马：一者顾鞭影即驰，善察御者心意；二者触毛尾乃惊而随；三者小侵皮肉乃调；四者铁锥彻骨，然后牵车著路。「正法律中善男子亦有四：闻他方男女老病死，即生怖畏，依正思惟而自调——如顾影；不能闻而能见他方苦，乃生怖畏正思惟——如触毛尾；见所知识亲旧老病死，乃调——如侵皮肉；自身老病死现前，乃生厌怖正思惟——如彻骨。」\n佛说此经已，诸比丘闻佛所说，欢喜奉行。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在王舍城迦兰陀竹园。\n那时世尊告诉比丘们：「世上有四种良马：第一种看见鞭影就跑，善于观察御者的心意；第二种鞭子碰到毛尾才惊觉而跟随；第三种稍微伤到皮肉才调顺；第四种用铁锥刺到骨，然后才拉车上路。「正法律里的善男子也有四种：听说别处男女老病死，就生怖畏，依正思惟自我调伏——像顾鞭影；不能一听说就警觉，但见到别处的苦才生怖畏正思惟——像触毛尾；见到相识亲旧老病死才调伏——像伤皮肉；自己的老病死摆在眼前，才生厌离怖畏而正思惟——像刺到骨。」\n佛说完这部经，比丘们听佛所说，都欢喜奉行。",
+  "notes": "本经 SC 平行表所列平行及 `raw_aligned_data.json` 内之巴利本文、Sujato 英译并用以厘定法义；求那跋陀罗汉本用于定位经文与传统术语。confidence=high：primary AN4.113；四马对四士夫：闻他、见他、见亲、见己而起厌怖。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "high",
+  "prior_review_status": "needs_revision",
+  "similarity_to_source": 0.104,
+  "paragraph_parallel": true
+}

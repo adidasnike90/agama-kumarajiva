@@ -1,0 +1,63 @@
+{
+  "id": "SA_832",
+  "uid": "sa832",
+  "title": "雜阿含經  卷第三十一  學相應  （832）  三學",
+  "chinese_text": "如是我聞：\n\n一時，佛住舍衛國祇樹給孤獨園。\n\n爾時，世尊告諸比丘：「有三學。何等為三？謂增上戒學、增上意學、增上慧學。何等為增上戒學？若比丘住於戒波羅提木叉，具足威儀行處，見微細罪則生怖畏，受持學戒，是名增上戒學。何等為增上意學？若比丘離諸惡不善法，有覺有觀，離生喜樂，初禪具足住，乃至第四禪具足住，是名增上意學。何等為增上慧學？若比丘此苦聖諦如實知，此苦集聖諦、此苦滅聖諦、此苦滅道跡聖諦如實知，是名增上慧學。」\n\n佛說此經已，諸比丘聞佛所說，歡喜奉行。\n\n三學餘經，如前念處說。\n\n如禪，如是無量、無色。如四聖諦，如是四念處、四正斷、四如意足、五根、五力、七覺分、八聖道、四道、四法句、止觀修習，亦如是說。",
+  "english_sa_text": "",
+  "parallels": [
+    {
+      "uid": "an3.89",
+      "acronym": "AN 3.89",
+      "root_lang": "pli",
+      "original_title": "Paṭhamasikkhattayasutta",
+      "translated_title": "Trainings (1)",
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "sa817",
+      "acronym": "SA 817",
+      "root_lang": "lzh",
+      "original_title": "學",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "sf135",
+      "acronym": "SF 135",
+      "root_lang": "san",
+      "original_title": "",
+      "translated_title": null,
+      "type": "full",
+      "resembling": true,
+      "remark": null
+    }
+  ],
+  "primary_sn_uid": null,
+  "pali_text": "",
+  "english_sn_text": "",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa801-900/sa832_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa801-900/sa832_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛住舍卫国祇树给孤独园。\n尔时世尊告诸比丘：「有三学。何等为三？谓增上戒学、增上心学、增上慧学。何等增上戒学？比丘住戒，护波罗提木叉律仪，威仪具足，见微细罪生怖畏，受持学处——是名增上戒学。何等增上心学？比丘离欲、离不善法，有觉有观，离生喜乐，初禅具足住，乃至第四禅具足住——是名增上心学。何等增上慧学？比丘如实知苦圣谛、苦集、苦灭、苦灭道迹圣谛——是名增上慧学。」\n三学余门，如念处说：如禅，无量、无色亦尔；如四谛，四念处、四正断、四神足、五根、五力、七觉支、八圣道、止观修习，亦复如是。\n佛说此经已，诸比丘闻佛所说，欢喜奉行。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在舍卫国祇树给孤独园。\n那时世尊告诉比丘们：「有三学。哪三种？就是增上戒学、增上心学、增上慧学。什么是增上戒学？比丘住戒，护持波罗提木叉律仪，威仪具足，见微细罪就生怖畏，受持学处——这叫增上戒学。什么是增上心学？比丘离欲、离不善法，有觉有观，离生喜乐，具足安住初禅，一直到具足安住第四禅——这叫增上心学。什么是增上慧学？比丘如实知道苦圣谛、苦集、苦灭、苦灭道迹圣谛——这叫增上慧学。」\n三学其余门类，如同念处所说：如同禅，无量、无色也一样；如同四谛，四念处、四正断、四神足、五根、五力、七觉支、八圣道、止观修习，也是这样说。\n佛说完这部经，比丘们听佛所说，都欢喜奉行。",
+  "notes": "本经 SC 平行表所列平行及 `raw_aligned_data.json` 内之巴利本文、Sujato 英译并用以厘定法义；求那跋陀罗汉本用于定位经文与传统术语。confidence=high：AN3.89 Paṭhamasikkhattaya（三学）；据巴利 adhicitta→增上心学（汉「增上意学」同义改称）；卷末 peyyāla 纲目压缩保留，不回填全文。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "high",
+  "prior_review_status": "needs_revision",
+  "similarity_to_source": 0.264,
+  "paragraph_parallel": true
+}

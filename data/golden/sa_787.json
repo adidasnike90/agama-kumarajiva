@@ -1,0 +1,63 @@
+{
+  "id": "SA_787",
+  "uid": "sa787",
+  "title": "雜阿含經  卷第三十  聖道分相應  （787）  向邪",
+  "chinese_text": "如是我聞：\n\n一時，佛住舍衛國祇樹給孤獨園。\n\n爾時，世尊告諸比丘：「向邪者違於法，不樂於法，向正者樂於法，不違於法。何等為向邪者違於法，不樂於法？謂邪見人身業如所見，口業如所見，若思、若欲、若願、若為，彼皆隨順，一切得不愛果，不念、不可意果。所以者何？以見惡故，謂邪見。邪見者，起邪志、邪語、邪業、邪命、邪方便、邪念、邪定，是向邪者違於法，不樂於法。\n\n「何等為向正者樂於法，不違於法？謂正見人若身業隨所見，若口業、若思、若欲、若願、若為，悉皆隨順，得可愛、可念、可意果。所以者何？以見正故？謂正見。正見者，能起正志、正語、正業、正命、正方便、正念、正定，是名向正者樂於法，不違於法。」\n\n佛說是經已，諸比丘聞佛所說，歡喜奉行。",
+  "english_sa_text": "",
+  "parallels": [
+    {
+      "uid": "an1.306-315",
+      "acronym": "AN 1.306–315",
+      "root_lang": "pli",
+      "original_title": "Dutiyavagga",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "an10.104",
+      "acronym": "AN 10.104",
+      "root_lang": "pli",
+      "original_title": "Bījasutta",
+      "translated_title": "The Seed",
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "kv14.8",
+      "acronym": "Kv 14.8",
+      "root_lang": "pli",
+      "original_title": "Abyākatakathā",
+      "translated_title": "Of the Unmoral and the Unrevealed",
+      "type": "mention",
+      "resembling": false,
+      "remark": null
+    }
+  ],
+  "primary_sn_uid": null,
+  "pali_text": "",
+  "english_sn_text": "",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa701-800/sa787_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa701-800/sa787_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛住舍卫国祇树给孤独园。\n尔时世尊告诸比丘：「向邪者违于法、不乐于法；向正者乐于法、不违于法。」\n「何等向邪？谓邪见人，身口业随其所见，若思、若欲、若愿、若为，皆随顺之，得不爱、不可意果。所以者何？见恶故。邪见起已，邪志乃至邪定随之。是名向邪者违于法、不乐于法。」\n「何等向正？谓正见人，身口业随其所见，若思、若欲、若愿、若为，皆随顺之，得可爱、可意果。所以者何？见正故。正见起已，正志乃至正定随之。是名向正者乐于法、不违于法。」\n佛说此经已，诸比丘闻佛所说，欢喜奉行。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在舍卫国祇树给孤独园。\n那时世尊告诉诸比丘：「趋向邪的人违背法、不乐于法；趋向正的人乐于法、不违背法。」\n「怎样是向邪？就是邪见的人，身业口业都随他的见，思、欲、愿、造作也都随顺，得到不可爱、不可意的果报。为什么？因为见是恶的。邪见一生起，邪志乃至邪定就跟着来。这叫向邪者违背法、不乐于法。」\n「怎样是向正？就是正见的人，身业口业都随他的见，思、欲、愿、造作也都随顺，得到可爱、可意的果报。为什么？因为见是正的。正见一生起，正志乃至正定就跟着来。这叫向正者乐于法、不违背法。」\n佛说完这部经，比丘们听佛所说，都欢喜奉行。",
+  "notes": "本经 SC 平行表所列平行及 `raw_aligned_data.json` 内之巴利本文、Sujato 英译并用以厘定法义；求那跋陀罗汉本用于定位经文与传统术语。confidence=high：AN1.306–315／AN10.104（见为导首，业随见转）；汉「以见恶故／以见正故」句读据义校正；压缩八支枚举。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "high",
+  "prior_review_status": "needs_revision",
+  "similarity_to_source": 0.253,
+  "paragraph_parallel": true
+}

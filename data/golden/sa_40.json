@@ -1,0 +1,43 @@
+{
+  "id": "SA_40",
+  "uid": "sa40",
+  "title": "雜阿含經  卷第二  陰相應  （四〇）  封滯",
+  "chinese_text": "如是我聞：\n\n一時，佛住舍衛國祇樹給孤獨園。\n\n爾時，世尊告諸比丘：「封滯者不解脫，不封滯則解脫。云何封滯不解脫？比丘！攀緣四取陰識住。云何為四？色封滯識住，受、想、行封滯識住，乃至非境界故，是名封滯，故不解脫。云何不封滯則解脫？於色界離貪，受、想、行、識離貪，乃至清淨真實，是則不封滯則解脫。」\n\n佛說此經已，諸比丘聞佛所說，歡喜奉行。",
+  "english_sa_text": "",
+  "parallels": [
+    {
+      "uid": "sn22.53",
+      "acronym": "SN 22.53",
+      "root_lang": "pli",
+      "original_title": "Upayasutta",
+      "translated_title": "Engagement",
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    }
+  ],
+  "primary_sn_uid": "sn22.53",
+  "pali_text": "Sāvatthinidānaṁ. “Upayo, bhikkhave, avimutto, anupayo vimutto. Rūpupayaṁ vā, bhikkhave, viññāṇaṁ tiṭṭhamānaṁ tiṭṭheyya, rūpārammaṇaṁ rūpappatiṭṭhaṁ nandūpasecanaṁ vuddhiṁ virūḷhiṁ vepullaṁ āpajjeyya. Vedanupayaṁ vā …pe… saññupayaṁ vā …pe… saṅkhārupayaṁ vā, bhikkhave, viññāṇaṁ tiṭṭhamānaṁ tiṭṭheyya, saṅkhārārammaṇaṁ saṅkhārappatiṭṭhaṁ nandūpasecanaṁ vuddhiṁ virūḷhiṁ vepullaṁ āpajjeyya. Yo, bhikkhave, evaṁ vadeyya: ‘ahamaññatra rūpā aññatra vedanāya aññatra saññāya aññatra saṅkhārehi viññāṇassa āgatiṁ vā gatiṁ vā cutiṁ vā upapattiṁ vā vuddhiṁ vā virūḷhiṁ vā vepullaṁ vā paññāpessāmī’ti, netaṁ ṭhānaṁ vijjati. Rūpadhātuyā ce, bhikkhave, bhikkhuno rāgo pahīno hoti. Rāgassa pahānā vocchijjatārammaṇaṁ patiṭṭhā viññāṇassa na hoti. Vedanādhātuyā ce, bhikkhave … saññādhātuyā ce, bhikkhave … saṅkhāradhātuyā ce, bhikkhave … viññāṇadhātuyā ce, bhikkhave, bhikkhuno rāgo pahīno hoti. Rāgassa pahānā vocchijjatārammaṇaṁ patiṭṭhā viññāṇassa na hoti. Tadappatiṭṭhitaṁ viññāṇaṁ avirūḷhaṁ anabhisaṅkhacca vimuttaṁ. Vimuttattā ṭhitaṁ. Ṭhitattā santusitaṁ. Santusitattā na paritassati. Aparitassaṁ paccattaññeva parinibbāyati. ‘Khīṇā jāti, vusitaṁ brahmacariyaṁ, kataṁ karaṇīyaṁ, nāparaṁ itthattāyā’ti pajānātī”ti. Paṭhamaṁ.",
+  "english_sn_text": "At Sāvatthī. “Mendicants, if you get involved, you’re not free. If you’re not involved, you’re free. Should consciousness involved with form, supported by form, established on form continue to remain, with a sprinkling of relishing it would grow, increase, and mature. Or should consciousness involved with feeling remain … Or should consciousness involved with perception remain … Or should consciousness involved with choices, supported by choices, established on choices continue to remain, with a sprinkling of relishing it would grow, increase, and mature. Mendicants, suppose you say: ‘Apart from form, feeling, perception, and choices, I will describe the coming and going of consciousness, its passing away and reappearing, its growth, increase, and maturity.’ That is not possible. If a mendicant has given up greed for the form element, the support is cut off, and there is no establishment of consciousness. If a mendicant has given up greed for the feeling element … perception element … choices element … consciousness element, the support is cut off, and there is no establishment of consciousness. Since that consciousness does not become established and does not grow, not making choices, it is freed. Being free, it’s stable. Being stable, it’s content. Being content, they’re not anxious. Not being anxious, they personally become extinguished. They understand: ‘Rebirth is ended, the spiritual journey has been completed, what had to be done has been done, there is nothing further for this place.’”",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa1-100/sa40_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa1-100/sa40_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "（底本略写，多处「乃至」指向前经 SA_39。）\n【依 SA_39「种子」经例，义当作：】\n如是我闻：一时佛在舍卫国祇树给孤独园。\n尔时世尊告诸比丘：封滞者不解脱，不封滞则解脱。云何封滞不解脱？比丘，攀缘四取阴，识住。云何为四？色封滞，识住；受、想、行封滞，识住。【乃至如 SA_39：若离色受想行而言识有来去住生者，但有言数，问已不知，增益生痴，以非境界故。】是名封滞，故不解脱。云何不封滞则解脱？于色界离贪；受、想、行、识离贪。【乃至如 SA_39：离贪已封滞断、攀缘断，识无住处，不复生长；不作行、知足、解脱，自觉涅槃：我生已尽，梵行已立，所作已作，自知不受后有；识无所至趣，唯见法，欲入涅槃、寂灭、清凉、清净、真实。】是则不封滞，则解脱。\n佛说此经已，诸比丘闻佛所说，欢喜奉行。",
+  "modern_psychology_text": "（底本是略写，多处用「乃至」指向前一部「种子」经。）\n【按照 SA_39 的义理骨架，意思应是：】\n我是这样听说的：有一次，佛住在舍卫国祇树给孤独园。\n那时，世尊告诉比丘们：有封滞就不解脱，没有封滞就解脱。怎样是有封滞而不解脱？比丘们，攀缘四种取阴，识便安住。哪四种？色有封滞，识便住；受、想、行有封滞，识便住。【乃至如同 SA_39：若离开色受想行却说识还有来去住生，只是空话，问起来也不知道，只会增加愚痴，因为那不是境界所及。】这就叫做封滞，所以不解脱。怎样是没有封滞就解脱？于色界离贪；于受、想、行、识离贪。【乃至如同 SA_39：离贪之后封滞断、攀缘断，识无住处，不再生长；不造作诸行、知足、解脱，自己证知涅槃：我生已尽，梵行已立，所作已作，自知不受后有；识无所去处，只见于法，趋向涅槃、寂灭、清凉、清净、真实。】这就是不封滞，便解脱。\n佛说完这部经，比丘们听佛所说，都欢喜奉行。",
+  "notes": "信：大正略写「乃至非境界故」「乃至清净真实」，明示指向 SA_39。【】内为依前经所作**明示补叙**，非底本逐字；review_status=gold_reconstructed，confidence=medium。据 SN22.53。据 SN22.53。",
+  "review_status": "gold_reconstructed",
+  "translator": "cursor-agent",
+  "confidence": "medium",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "prior_review_status": "gold_reconstructed",
+  "revision_reason": "信标准已纠正为对巴利/梵本之义；旧稿偏忠于求那跋陀罗字句，待按平行重做罗什风",
+  "similarity_to_source": 0.184
+}

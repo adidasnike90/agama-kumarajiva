@@ -1,0 +1,53 @@
+{
+  "id": "SA_1337",
+  "uid": "sa1337",
+  "title": "雜阿含經  卷第五十  林相應  （1337）  誦習",
+  "chinese_text": "如是我聞：\n\n一時，佛住舍衛國祇樹給孤獨園。\n\n時，有比丘在拘薩羅人間，林中止住，勤誦經、勤講說；精勤思惟，得阿羅漢果證已，不復精勤誦說。\n\n時，有天神，止彼林中者，而說偈言：\n\n「比丘汝先時，　　晝夜勤誦習，\n\n　常為諸比丘，　　共論決定義。\n\n　汝今於法句，　　寂然無所說，\n\n　不與諸比丘，　　共論決定義。」\n\n時，彼比丘說偈答言：\n\n「本未應離欲，　　心常樂法句，\n\n　既離欲相應，　　誦說事已畢。\n\n　先知道已備，　　用聞見道為，\n\n　世間諸聞見，　　無知悉放捨。」\n\n時，彼天神聞比丘所說，歡喜隨喜，即沒不現。",
+  "english_sa_text": "",
+  "parallels": [
+    {
+      "uid": "sa-2.357",
+      "acronym": "SA2 357",
+      "root_lang": "lzh",
+      "original_title": "誦習",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "sn9.10",
+      "acronym": "SN 9.10",
+      "root_lang": "pli",
+      "original_title": "Sajjhāyasutta",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    }
+  ],
+  "primary_sn_uid": "sn9.10",
+  "pali_text": "Ekaṁ samayaṁ aññataro bhikkhu kosalesu viharati aññatarasmiṁ vanasaṇḍe. Tena kho pana samayena so bhikkhu yaṁ sudaṁ pubbe ativelaṁ sajjhāyabahulo viharati so aparena samayena appossukko tuṇhībhūto saṅkasāyati. Atha kho yā tasmiṁ vanasaṇḍe adhivatthā devatā tassa bhikkhuno dhammaṁ asuṇantī yena so bhikkhu tenupasaṅkami; upasaṅkamitvā taṁ bhikkhuṁ gāthāya ajjhabhāsi: “Kasmā tuvaṁ dhammapadāni bhikkhu, Nādhīyasi bhikkhuhi saṁvasanto; Sutvāna dhammaṁ labhatippasādaṁ, Diṭṭheva dhamme labhatippasaṁsan”ti. “Ahu pure dhammapadesu chando, Yāva virāgena samāgamimha; Yato virāgena samāgamimha, Yaṁ kiñci diṭṭhaṁva sutaṁ mutaṁ vā; Aññāya nikkhepanamāhu santo”ti.",
+  "english_sn_text": "At one time one of the mendicants was staying in the land of the Kosalans in a certain forest grove. Now at that time that mendicant had previously been spending too much time rehearsing. But some time later they adhered to passivity and silence. Not hearing the teaching, the deity haunting that forest approached that mendicant, and addressed them in verse: “Mendicant, why don’t you recite passages of the teaching, living together with other mendicants? Hearing the teaching, one garners confidence; and in this very life, one garners praise.” “I used to be zealous for passages of the teaching, until I encountered dispassion. When I encountered dispassion, whatever was seen, heard, and thought, this, good people say, is the laying down by complete understanding.”",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa1301-1400/sa1337_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa1301-1400/sa1337_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛住舍卫国祇树给孤独园。\n时有比丘在拘萨罗林中，先勤诵经、讲说；精勤思惟，得阿罗汉已，不复勤于诵说。\n林中天神说偈：「比丘汝先时，昼夜勤诵习，常与诸比丘，共论决定义；今于诸法句，寂然无所说。」\n比丘说偈答：「本未离欲时，心乐于法句；既与离欲会，诵说事已毕。所见所闻思，已知而放舍——圣说为尽舍。」\n天神闻已，欢喜随喜，即没不现。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在舍卫国祇树给孤独园。\n那时有一位比丘在拘萨罗的林中，原先勤于诵经、讲说；精勤思惟，证得阿罗汉之后，不再勤于诵说。\n林中的天神说偈：「比丘，你从前昼夜勤诵，常和比丘们一起讨论决定的法义；现在对于法句，却沉默什么也不说。」\n比丘用偈回答：「我还没有离欲的时候，心里喜爱法句；一旦与离欲相应，诵说的事便已完毕。凡所见、所闻、所思，已经了知而放下——圣者说这叫做尽舍。」\n天神听了，欢喜随喜，随即隐没不见。",
+  "notes": "本经 SC 平行表所列平行及 `raw_aligned_data.json` 内之巴利本文、Sujato 英译并用以厘定法义；求那跋陀罗汉本用于定位经文与传统术语。confidence=high：primary SN9.10。信-校正：结句据巴利 yaṁ kiñci diṭṭhaṁva sutaṁ mutaṁ vā; aññāya nikkhepanamāhu santo作「所见所闻思，已知而放舍」；汉「无知悉放捨」易误读，据 SN 校正。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "high",
+  "prior_review_status": "needs_revision",
+  "similarity_to_source": 0.167,
+  "paragraph_parallel": true
+}

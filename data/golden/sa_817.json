@@ -1,0 +1,63 @@
+{
+  "id": "SA_817",
+  "uid": "sa817",
+  "title": "雜阿含經  卷第三十一  學相應  （817）  學",
+  "chinese_text": "如是我聞：\n\n一時，佛住舍衛國祇樹給孤獨園。\n\n爾時，世尊告諸比丘：「亦復有三學。何等為三？謂增上戒學、增上意學、增上慧學。何等為增上戒學？若比丘住於戒波羅提木叉律儀，威儀行處具足，見微細罪則生怖畏，受持學戒。何等為增上意學？若比丘離欲、惡不善法，乃至第四禪具足住。何等為增上慧學？是比丘此苦聖諦如實知，集、滅、道聖諦如實知，是名增上慧學。」\n\n爾時，世尊即說偈，如上所說。\n\n佛說此經已，諸比丘聞佛所說，歡喜奉行。",
+  "english_sa_text": "",
+  "parallels": [
+    {
+      "uid": "an3.89",
+      "acronym": "AN 3.89",
+      "root_lang": "pli",
+      "original_title": "Paṭhamasikkhattayasutta",
+      "translated_title": "Trainings (1)",
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "sa832",
+      "acronym": "SA 832",
+      "root_lang": "lzh",
+      "original_title": "三學",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "sf135",
+      "acronym": "SF 135",
+      "root_lang": "san",
+      "original_title": "",
+      "translated_title": null,
+      "type": "full",
+      "resembling": true,
+      "remark": null
+    }
+  ],
+  "primary_sn_uid": null,
+  "pali_text": "",
+  "english_sn_text": "",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa801-900/sa817_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa801-900/sa817_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛住舍卫国祇树给孤独园。\n尔时世尊告诸比丘：「亦有三学。何等为三？谓增上戒学、增上意学、增上慧学。何等为增上戒学？若比丘住于戒，波罗提木叉律仪成就，威仪行处具足，见微细罪则生怖畏，受持学处——是名增上戒学。何等为增上意学？若比丘离欲、恶不善法，乃至第四禅具足住——是名增上意学。何等为增上慧学？若比丘苦圣谛如实知，集、灭、道圣谛如实知——是名增上慧学。」\n尔时世尊即说偈，如上所说。\n佛说此经已，诸比丘闻佛所说，欢喜奉行。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在舍卫国祇树给孤独园。\n那时世尊告诉比丘们：「也有三学。哪三学？就是增上戒学、增上意学、增上慧学。什么是增上戒学？如果比丘安住于戒，波罗提木叉律仪成就，威仪行处具足，见到微细的罪就生怖畏，受持学处——这叫做增上戒学。什么是增上意学？如果比丘远离欲、恶不善法，一直到第四禅具足而住——这叫做增上意学。什么是增上慧学？如果比丘对苦圣谛如实了知，对集、灭、道圣谛如实了知——这叫做增上慧学。」\n那时世尊便说偈，如同上面所说。\n佛说完这部经，比丘们听佛所说，都欢喜奉行。",
+  "notes": "本经 SC 平行表所列平行及 `raw_aligned_data.json` 内之巴利本文、Sujato 英译并用以厘定法义；求那跋陀罗汉本用于定位经文与传统术语。confidence=high：primary AN3.89；戒＝prātimokṣa 律仪；意＝四禅；慧＝四谛如实知（AN 作漏尽解脱者见次经；本经从汉／AN3.89 四谛）。末「如上说」指 SA_816 偈。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "high",
+  "prior_review_status": "needs_revision",
+  "similarity_to_source": 0.386,
+  "paragraph_parallel": true
+}

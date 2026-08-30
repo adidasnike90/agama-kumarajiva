@@ -1,0 +1,53 @@
+{
+  "id": "SA_1208",
+  "uid": "sa1208",
+  "title": "雜阿含經  卷第五十  比丘尼相應  （1208）  揭伽他",
+  "chinese_text": "如是我聞：\n\n一時，佛住瞻婆國揭伽池側。\n\n爾時，世尊月十五日布薩時，於大眾前坐。月初出時。時，有尊者婆耆舍於大眾中，作是念：「我今欲於佛前歎月譬偈。」作是念已，即從坐起，整衣服，為佛作禮，合掌白佛言：「世尊！欲有所說。善逝！欲有所說。」\n\n佛告婆耆舍：「欲說者便說！」\n\n時，尊者婆耆舍即於佛前而說偈言：\n\n「如月停虛空，　　明淨無雲翳，\n\n　光炎明暉曜，　　普照於十方。\n\n　如來亦如是，　　慧光照世間，\n\n　功德善名稱，　　周遍滿十方。」\n\n尊者婆耆舍說是偈時，諸比丘聞其所說，皆大歡喜。",
+  "english_sa_text": "",
+  "parallels": [
+    {
+      "uid": "sa-2.224",
+      "acronym": "SA2 224",
+      "root_lang": "lzh",
+      "original_title": "揭伽他",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "sn8.11",
+      "acronym": "SN 8.11",
+      "root_lang": "pli",
+      "original_title": "Gaggarāsutta",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    }
+  ],
+  "primary_sn_uid": "sn8.11",
+  "pali_text": "Ekaṁ samayaṁ bhagavā campāyaṁ viharati gaggarāya pokkharaṇiyā tīre mahatā bhikkhusaṅghena saddhiṁ pañcamattehi bhikkhusatehi sattahi ca upāsakasatehi sattahi ca upāsikāsatehi anekehi ca devatāsahassehi. Tyāssudaṁ bhagavā atirocati vaṇṇena ceva yasasā ca. Atha kho āyasmato vaṅgīsassa etadahosi: “ayaṁ kho bhagavā campāyaṁ viharati gaggarāya pokkharaṇiyā tīre mahatā bhikkhusaṅghena saddhiṁ pañcamattehi bhikkhusatehi sattahi ca upāsakasatehi sattahi ca upāsikāsatehi anekehi ca devatāsahassehi. Tyāssudaṁ bhagavā atirocati vaṇṇena ceva yasasā ca. Yannūnāhaṁ bhagavantaṁ sammukhā sāruppāya gāthāya abhitthaveyyan”ti. Atha kho āyasmā vaṅgīso uṭṭhāyāsanā ekaṁsaṁ uttarāsaṅgaṁ karitvā yena bhagavā tenañjaliṁ paṇāmetvā bhagavantaṁ etadavoca: “paṭibhāti maṁ, bhagavā, paṭibhāti maṁ, sugatā”ti. “Paṭibhātu taṁ, vaṅgīsā”ti bhagavā avoca. Atha kho āyasmā vaṅgīso bhagavantaṁ sammukhā sāruppāya gāthāya abhitthavi: “Cando yathā vigatavalāhake nabhe, Virocati vigatamalova bhāṇumā; Evampi aṅgīrasa tvaṁ mahāmuni, Atirocasi yasasā sabbalokan”ti.",
+  "english_sn_text": "At one time the Buddha was staying near Campā on the banks of the Gaggarā Lotus Pond, together with a large Saṅgha of five hundred mendicants, seven hundred male and seven hundred female lay followers, and many thousands of deities. But the Buddha outshone them all in beauty and glory. Then Venerable Vaṅgīsa thought, “The Buddha is staying near Campā on the banks of the Gaggarā Lotus Pond, together with a large Saṅgha of five hundred mendicants, seven hundred male and seven hundred female lay followers, and many thousands of deities. And he outshines them all in beauty and glory. Why don’t I extoll him in his presence with fitting verses?” Then Venerable Vaṅgīsa rose from his seat, arranged his robe over one shoulder, raised his cupped palms toward the Buddha, and said, “I feel inspired to speak, Blessed One! I feel inspired to speak, Holy One!” “Then speak as you feel inspired,” said the Buddha. Then Vaṅgīsa extolled the Buddha in his presence with fitting verses: “Like the moon on a cloudless night, like the shining immaculate sun, so too Aṅgīrasa, O great sage, your glory outshines the entire world.”",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa1201-1300/sa1208_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa1201-1300/sa1208_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛住瞻婆国揭伽池侧。\n时世尊与大众俱，色声名称皆最胜。尊者婆耆舍念：「当于佛前以月譬赞之。」即从座起，偏袒合掌白言：「世尊！欲有所说。善逝！欲有所说。」佛言：「欲说者便说。」\n即说偈：「如月停虚空，离云翳而净照；如是央耆罗大牟尼，名称光耀遍世间。」\n诸比丘闻已，皆大欢喜。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在瞻婆国揭伽池边。\n那时世尊和大众在一起，容色与名称都最为殊胜。尊者婆耆舍心想：「应当在佛前用月亮的比喻来赞叹。」就从座位起来，偏袒右肩合掌说：「世尊！我想说几句。善逝！我想说几句。」佛说：「想说就说吧。」\n便说偈：「如同月亮停在虚空，离开云翳而洁净照耀；像这样，央耆罗大牟尼，您的名称光耀遍及整个世间。」\n比丘们听了，都大为欢喜。",
+  "notes": "本经 SC 平行表所列平行及 `raw_aligned_data.json` 内之巴利本文、Sujato 英译并用以厘定法义；求那跋陀罗汉本用于定位经文与传统术语。confidence=high：primary SN8.11 Gaggarāsutta。据 SN：佛于大众中色声最胜；婆耆舍月／日无垢喻赞 Aṅgīrasa；汉「十五布萨月初」略从 SN。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "high",
+  "prior_review_status": "needs_revision",
+  "similarity_to_source": 0.147,
+  "paragraph_parallel": true
+}

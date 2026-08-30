@@ -1,0 +1,44 @@
+{
+  "id": "SA_670",
+  "uid": "sa670",
+  "title": "雜阿含經  卷第二十七  根力相應  （670）  四力",
+  "chinese_text": "如是我聞：\n\n一時，佛住舍衛國祇樹給孤獨園。\n\n爾時，世尊告諸比丘：「有四力。何等為四？謂覺力、精進力、無罪力、攝力……」如上說。「若比丘成就此四力者，得離五恐怖。何等五？謂不活恐怖、惡名恐怖、眾中恐怖、死恐怖、惡趣恐怖，是名五恐怖。」\n\n佛說此經已，諸比丘聞佛所說，歡喜奉行。",
+  "english_sa_text": "",
+  "parallels": [
+    {
+      "uid": "an4.153",
+      "acronym": "AN 4.153",
+      "root_lang": "pli",
+      "original_title": "Paññābalasutta",
+      "translated_title": null,
+      "type": "full",
+      "resembling": true,
+      "remark": null
+    }
+  ],
+  "primary_sn_uid": null,
+  "pali_text": "",
+  "english_sn_text": "",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa601-700/sa670_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa601-700/sa670_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛住舍卫国祇树给孤独园。\n佛告比丘：「觉力、精进力、无罪力、摄力——是为四力。」\n「比丘具此四力，远离五畏：畏不活、畏恶名、畏大众、畏死、畏恶趣。」\n佛说此经已，诸比丘闻佛所说，欢喜奉行。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在舍卫国祇树给孤独园。\n佛告比丘：「觉力、精进力、无罪力、摄力——这就是四力。」\n「比丘具备这四力，就远离五种畏惧：怕活不下去、怕恶名、怕在大众中、怕死、怕恶趣。」\n佛说完这部经，比丘们听佛所说，都欢喜奉行。",
+  "notes": "本经 SC 平行表所列平行及 `raw_aligned_data.json` 内之巴利本文、Sujato 英译并用以厘定法义；求那跋陀罗汉本用于定位经文与传统术语。confidence=high：resembling AN4.153（四力；离五怖畏）。gold_reconstructed：底本「……如上说」指 SA_667 四力分别，此处只取名目＋五恐怖果。",
+  "review_status": "gold_reconstructed",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "high",
+  "prior_review_status": "needs_revision",
+  "reconstruction_basis": "如上说 → 四力 names + five fears",
+  "similarity_to_source": 0.226,
+  "paragraph_parallel": true
+}

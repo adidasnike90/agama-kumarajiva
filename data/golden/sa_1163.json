@@ -1,0 +1,34 @@
+{
+  "id": "SA_1163",
+  "uid": "sa1163",
+  "title": "雜阿含經  卷第五十  婆羅門相應  （1163）  人生",
+  "chinese_text": "如是我聞：\n\n一時，佛住舍衛國祇樹給孤獨園……如上說。差別者，唯說異偈言：\n\n「老死之所壞，　　身及所受滅，\n\n　唯有惠施福，　　為隨己資糧。\n\n　依於善攝護，　　及修禪功德，\n\n　隨力而行施，　　錢財及飲食。\n\n　於群則眠覺，　　非為空自活。」\n\n佛說此經已，彼婆羅門聞佛所說，歡喜隨喜，作禮而去。",
+  "english_sa_text": "",
+  "parallels": [],
+  "primary_sn_uid": null,
+  "pali_text": "",
+  "english_sn_text": "",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa1101-1200/sa1163_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa1101-1200/sa1163_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛住舍卫国祇树给孤独园。\n……如上说。差别者，世尊为婆罗门说异偈：\n「老死坏身受，唯施福随身；善护与修禅，随力施财食。于众能觉眠，不唐尔自活。」\n彼婆罗门闻已，欢喜随喜，作礼而去。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在舍卫国祇树给孤独园。\n……如前经所说。不同的是，佛为婆罗门说了另一首偈：\n「老死毁坏身体与所受，只有布施的福会随身；善加守护并修禅，随力施财物饮食。在人群中能清醒如觉，便不白白活这一生。」\n那位婆罗门听完，欢喜随喜，作礼离去。",
+  "notes": "SC 于本经未列可靠巴利平行，故唯以汉本为底，参同相应之巴利定型语厘义；依项目规约「无可靠平行时 confidence 降为 medium/low」。confidence=low：peyyāla「如上说」而异偈，无可靠巴利；据汉偈：施福随身、护戒修禅、不空自活。不补造前情。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "warn",
+    "issues": [],
+    "warnings": [
+      "mark_not_in_output:空"
+    ],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "low",
+  "prior_review_status": "needs_revision",
+  "similarity_to_source": 0.149,
+  "paragraph_parallel": true
+}

@@ -1,0 +1,43 @@
+{
+  "id": "SA_424",
+  "uid": "sa424",
+  "title": "雜阿含經  卷第十七  界相應  （424）  千明",
+  "chinese_text": "如是我聞：\n\n一時，佛住王舍城迦蘭陀竹園。\n\n爾時，世尊告諸比丘：「如日遊行，照諸世界，乃至千日千月，照千世界、千須彌山、千弗婆提、千閻浮提、千拘耶尼、千欝單越、千四天王、千三十三天、千炎魔天、千兜率天、千化樂天、千他化自在天、千梵天，是名小千世界。此千世界，中間闇冥，日月光照，有大德力，而彼不見，其有眾生，生彼中者，不見自身分。」\n\n時，有異比丘從座起，整衣服，為佛作禮，合掌白佛言：「世尊！如世尊說，是大闇冥，復更有餘大闇冥處過於此耶？」\n\n佛告比丘：「有大闇冥過於此者，謂沙門、婆羅門於苦聖諦不如實知，乃至墮於生、老、病、死、憂、悲、惱、苦大闇冥中，是名比丘有大闇冥過於世界中間闇冥。是故，比丘！於四聖諦未無間等者，當勤方便，起增上欲，學無間等。」\n\n佛說此經已，時諸比丘聞佛所說，歡喜奉行。",
+  "english_sa_text": "",
+  "parallels": [
+    {
+      "uid": "an3.80",
+      "acronym": "AN 3.80",
+      "root_lang": "pli",
+      "original_title": "Cūḷanikāsutta",
+      "translated_title": null,
+      "type": "full",
+      "resembling": true,
+      "remark": null
+    }
+  ],
+  "primary_sn_uid": null,
+  "pali_text": "",
+  "english_sn_text": "",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa401-500/sa424_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa401-500/sa424_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛在王舍城迦兰陀竹园。\n尔时，世尊告诸比丘：「如日游行照诸世界——乃至千日千月，照千世界、千须弥、千四天下、千四王天乃至千梵天，是名小千世界。此小千世界中间有大闇冥：日月威光所不能照，生彼中者不见自身分。」\n时有异比丘白佛：「更有大闇过此者不？」\n佛言：「有。谓沙门、婆罗门于四圣谛不如实知，堕生、老、病、死、忧、悲、恼、苦大闇冥中——此闇过于世界中间。是故当于四圣谛勤修无间等。」\n佛说此经已，诸比丘闻佛所说，欢喜奉行。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在王舍城迦兰陀竹园。\n那时，世尊告诉比丘们：「就像太阳游行照耀诸世界——乃至有千日千月，照耀千世界、千座须弥、千个四天下、千个四王天乃至千个梵天，这叫做小千世界。这小千世界的中间有大黑暗：日月的威光也照不到，生在那里的众生看不见自己的肢体。」\n当时有一位比丘对佛说：「还有比这更大的黑暗吗？」\n佛说：「有。就是沙门、婆罗门对四圣谛不能如实了知，堕入生、老、病、死、忧、悲、恼、苦的大黑暗中——这黑暗超过世界中间的黑暗。所以应当对四圣谛勤修无间等。」\n佛说完这部经，比丘们听佛所说，都欢喜奉行。",
+  "notes": "SC 于本经未列可靠巴利平行，故唯以汉本为底，参同相应之巴利定型语厘义；依项目规约「无可靠平行时 confidence 降为 medium/low」，本经作 medium。SC 仅列 resembling AN 3.80（小千世界名数）；谛＋闇冥喻同 SA_423／SN56.46 族。小千世界名数依汉本收束，不另增 AN 叙事。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "medium",
+  "prior_review_status": "needs_revision",
+  "similarity_to_source": 0.218,
+  "paragraph_parallel": true
+}

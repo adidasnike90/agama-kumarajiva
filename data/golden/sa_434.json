@@ -1,0 +1,32 @@
+{
+  "id": "SA_434",
+  "uid": "sa434",
+  "title": "雜阿含經  卷第十七  界相應  （434）  黠慧",
+  "chinese_text": "如是我聞：\n\n一時，佛住王舍城迦蘭陀竹園。\n\n爾時，世尊告諸比丘：「何等為黠慧？為此苦聖諦如實知，此苦集聖諦、苦滅聖諦、苦滅道跡聖諦如實知、為不知耶？」\n\n諸比丘白佛：「如我解世尊所說，於四聖諦如實知者，此為黠慧。」\n\n佛告比丘：「善哉！善哉！於苦聖諦、苦集聖諦、苦滅聖諦、苦滅道跡聖諦如實知者，是則黠慧。是故，諸比丘！於四聖諦未無間等者，當勤方便，起增上欲，學無間等。」\n\n佛說是經已，諸比丘聞佛所說，歡喜奉行。",
+  "english_sa_text": "",
+  "parallels": [],
+  "primary_sn_uid": null,
+  "pali_text": "",
+  "english_sn_text": "",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa401-500/sa434_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa401-500/sa434_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛在王舍城迦兰陀竹园。\n尔时，世尊告诸比丘：「何等为黠慧？于苦圣谛、苦集圣谛、苦灭圣谛、苦灭道迹圣谛如实知——是黠慧耶？为非耶？」诸比丘白佛：「如我解世尊所说，于四圣谛如实知者，是为黠慧。」佛言：「善哉！于四圣谛如实知者，是则黠慧。是故当于四圣谛勤修无间等。」\n佛说此经已，诸比丘闻佛所说，欢喜奉行。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在王舍城迦兰陀竹园。\n那时，世尊告诉比丘们：「什么叫做黠慧？对苦圣谛、苦集圣谛、苦灭圣谛、苦灭道迹圣谛如实了知——这是黠慧，还是不是？」比丘们禀告佛：「按我们理解世尊所说，对四圣谛如实了知的，就是黠慧。」佛说：「好！对四圣谛如实了知的，就是黠慧。所以应当对四圣谛勤修无间等。」\n佛说完这部经，比丘们听佛所说，都欢喜奉行。",
+  "notes": "SC 于本经未列可靠巴利平行，故唯以汉本为底，参同相应之巴利定型语厘义；依项目规约「无可靠平行时 confidence 降为 medium/low」，本经作 medium。黠慧＝于四圣谛如实知；问答框依汉本，删『为不知耶』赘问。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "medium",
+  "prior_review_status": "needs_revision",
+  "similarity_to_source": 0.311,
+  "paragraph_parallel": true
+}

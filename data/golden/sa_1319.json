@@ -1,0 +1,54 @@
+{
+  "id": "SA_1319",
+  "uid": "sa1319",
+  "title": "雜阿含經  卷第五十  夜叉相應  （1319）  崛摩",
+  "chinese_text": "如是我聞：\n\n一時，佛在摩竭提國人間遊行，日暮與五百比丘於屈摩夜叉鬼住處宿。時，屈摩夜叉鬼來詣佛所，稽首佛足，退住一面。\n\n時，屈摩夜叉鬼白佛言：「世尊！今請世尊與諸大眾於此夜宿。」\n\n爾時，世尊默然受請。\n\n是時，屈摩夜叉鬼知世尊默然受請已，化作五百重閣房舍，臥床、坐床、踞床，俱襵褥枕，各五百具，悉皆化成。化作五百燈明，無諸烟炎。悉化現已，往詣佛所，稽首佛足，勸請世尊令入其舍，令諸比丘次受房舍及諸臥具。周遍受已，還至佛所，稽首佛足，退坐一面。而說偈言：\n\n「賢德有正念，　　賢德常正念，\n\n　正念安隱眠，　　此世及他世。\n\n　賢德有正念，　　賢德常正念，\n\n　正念安隱眠，　　其心常寂止。\n\n　賢德有正念，　　賢德常正念，\n\n　正念安隱眠，　　捨降伏他軍。\n\n　賢德有正念，　　賢德常正念，\n\n　不殺不教殺，　　不伏不教伏。\n\n　慈心於一切，　　心不懷怨結。」\n\n爾時，世尊告屈摩夜叉鬼：「如是，如是，如汝所說。」\n\n時，屈摩夜叉鬼聞佛所說，歡喜隨喜，稽首佛足，還自所住處。",
+  "english_sa_text": "",
+  "parallels": [
+    {
+      "uid": "sa-2.318",
+      "acronym": "SA2 318",
+      "root_lang": "lzh",
+      "original_title": "崛摩",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "sn10.4",
+      "acronym": "SN 10.4",
+      "root_lang": "pli",
+      "original_title": "Maṇibhaddasutta",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    }
+  ],
+  "primary_sn_uid": "sn10.4",
+  "pali_text": "Ekaṁ samayaṁ bhagavā magadhesu viharati maṇimālike cetiye maṇibhaddassa yakkhassa bhavane. Atha kho maṇibhaddo yakkho yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavato santike imaṁ gāthaṁ abhāsi: “Satīmato sadā bhaddaṁ, satimā sukhamedhati; Satīmato suve seyyo, verā ca parimuccatī”ti. “Satīmato sadā bhaddaṁ, satimā sukhamedhati; Satīmato suve seyyo, verā na parimuccati. Yassa sabbamahorattaṁ, ahiṁsāya rato mano; Mettaṁso sabbabhūtesu, veraṁ tassa na kenacī”ti.",
+  "english_sn_text": "At one time the Buddha was staying in the land of the Magadhans at the Maṇimālika Shrine, the haunt of the native spirit Maṇibhadda. Then the native spirit Maṇibhadda went up to the Buddha, and spoke this verse in the Buddha’s presence: “It’s always auspicious for the mindful; the mindful prosper in happiness. Each new day is better for the mindful, and they are freed from enmity.” “It’s always auspicious for the mindful; the mindful prosper in happiness. Each new day is better for the mindful, but they’re not freed from enmity. But someone whose mind delights in harmlessness, all day and all night, with love for all living creatures— they have no enmity for anyone.”",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa1301-1400/sa1319_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa1301-1400/sa1319_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛在摩竭提国人间游行，日暮与五百比丘止屈摩夜叉住处。屈摩夜叉请佛及众宿，世尊默然受请。夜叉化作五百重阁、床褥、灯明，延请入舍。\n夜叉说偈：「有正念者常吉祥，有正念者安乐增；正念者日日转胜，解脱于怨憎。」\n佛告夜叉：「有正念者常吉祥，有正念者安乐增；正念者日日转胜，然未免于怨憎。若昼夜乐于不害，慈心及一切有情，则于一切无所怨。」\n夜叉欢喜随喜，礼足还住。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛在摩竭提国一带游行，傍晚与五百比丘住在屈摩夜叉的住处。屈摩夜叉请佛和大众过夜，世尊默然接受。夜叉化出五百座重阁、床褥和灯火，请来入舍。\n夜叉说偈：「有正念的人总是吉祥，有正念的人安乐增长；正念的人一天比一天更好，能解脱怨憎。」\n佛告诉夜叉：「有正念的人总是吉祥，有正念的人安乐增长；正念的人一天比一天更好，却还不能免于怨憎。若昼夜都乐于不伤害，对一切有情怀着慈心，那就对任何人都没有怨恨。」\n夜叉欢喜随喜，顶礼后回到自己的住处。",
+  "notes": "本经 SC 平行表所列平行及 `raw_aligned_data.json` 内之巴利本文、Sujato 英译并用以厘定法义；求那跋陀罗汉本用于定位经文与传统术语。confidence=high：primary SN10.4 Maṇibhaddasutta。汉供宿化阁为 SA 叙事，压缩保留；偈据 SN 校正：satimā 吉祥≠已免 vera；须 ahiṃsā＋metta 于一切有情，乃 veraṁ na kenaci。gold_reconstructed（偈义）。",
+  "review_status": "gold_reconstructed",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "high",
+  "prior_review_status": "needs_revision",
+  "reconstruction_basis": "汉正念安眠偈缺「未免怨憎」之驳，据 SN10.4 补正念≠免怨、须不害＋慈。",
+  "similarity_to_source": 0.079,
+  "paragraph_parallel": true
+}

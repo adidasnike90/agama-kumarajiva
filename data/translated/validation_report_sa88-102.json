@@ -1,0 +1,143 @@
+[
+  {
+    "id": "SA_88",
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": [],
+    "sim": 0.316,
+    "confidence": "high"
+  },
+  {
+    "id": "SA_89",
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": [],
+    "sim": 0.233,
+    "confidence": "high"
+  },
+  {
+    "id": "SA_90",
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": [],
+    "sim": 0.243,
+    "confidence": "medium"
+  },
+  {
+    "id": "SA_91",
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": [],
+    "sim": 0.28,
+    "confidence": "high"
+  },
+  {
+    "id": "SA_92",
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": [],
+    "sim": 0.272,
+    "confidence": "high"
+  },
+  {
+    "id": "SA_93",
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": [],
+    "sim": 0.256,
+    "confidence": "high"
+  },
+  {
+    "id": "SA_94",
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": [],
+    "suppressed_false_positives": [
+      "missing_aggregate:想"
+    ],
+    "sim": 0.327,
+    "confidence": "medium"
+  },
+  {
+    "id": "SA_95",
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": [],
+    "suppressed_false_positives": [
+      "missing_aggregate:想"
+    ],
+    "sim": 0.292,
+    "confidence": "high"
+  },
+  {
+    "id": "SA_96",
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": [],
+    "sim": 0.309,
+    "confidence": "high"
+  },
+  {
+    "id": "SA_97",
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": [],
+    "sim": 0.297,
+    "confidence": "high"
+  },
+  {
+    "id": "SA_98",
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": [],
+    "sim": 0.328,
+    "confidence": "high"
+  },
+  {
+    "id": "SA_99",
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": [],
+    "sim": 0.31,
+    "confidence": "high"
+  },
+  {
+    "id": "SA_100",
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": [],
+    "sim": 0.353,
+    "confidence": "medium"
+  },
+  {
+    "id": "SA_101",
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": [],
+    "sim": 0.278,
+    "confidence": "high"
+  },
+  {
+    "id": "SA_102",
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": [],
+    "sim": 0.306,
+    "confidence": "high"
+  }
+]

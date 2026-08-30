@@ -1,0 +1,43 @@
+{
+  "id": "SA_1012",
+  "uid": "sa1012",
+  "title": "雜阿含經  卷第四十三  諸天相應  （1012）  無明",
+  "chinese_text": "如是我聞：\n\n一時，佛住舍衛國祇樹給孤獨園。\n\n時，有一天子，容色絕妙，於後夜時來詣佛所，稽首佛足，退坐一面。身諸光明遍照祇樹給孤獨園。\n\n時，彼天子說偈問佛：\n\n「誰隱彼世間，　　誰繫於世間，\n\n　誰憶於眾生，　　誰建眾生幢？」\n\n爾時，世尊說偈答言：\n\n「無明覆世間，　　愛結縛眾生，\n\n　隱覆憶眾生，　　我慢眾生幢。」\n\n時，彼天子即復說偈而問佛言：\n\n「誰無有覆蓋，　　誰復無愛結，\n\n　誰即出隱覆，　　誰不建慢幢？」\n\n爾時，世尊說偈答言：\n\n「如來等正覺，　　正智心解脫，\n\n　不為無明覆，　　亦無愛結繫，\n\n　超出於隱覆，　　摧滅我慢幢。」\n\n時，彼天子復說偈言：\n\n「久見婆羅門，　　逮得般涅槃，\n\n　一切怖已過，　　永超世恩愛。」\n\n時，彼天子聞佛所說，歡喜隨喜，稽首佛足，即沒不現。",
+  "english_sa_text": "",
+  "parallels": [
+    {
+      "uid": "sa-2.239",
+      "acronym": "SA2 239",
+      "root_lang": "lzh",
+      "original_title": "無明",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    }
+  ],
+  "primary_sn_uid": null,
+  "pali_text": "",
+  "english_sn_text": "",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa1001-1100/sa1012_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa1001-1100/sa1012_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛住舍卫国祇树给孤独园。\n后夜分，有天子来诣佛所，容色绝妙，稽首礼足，退坐一面；身诸光明遍照祇园。\n天子说偈问：「谁隐覆世间？谁系缚世间？谁忆念众生？谁建众生幢？」\n世尊说偈答：「无明覆世间，爱结缚众生，隐覆忆众生，我慢为生幢。」\n天子复问：「谁无有覆盖？谁复无爱结？谁出离隐覆？谁不建慢幢？」\n世尊说偈答：「如来等正觉，正智心解脱，不为无明覆，亦无爱结系，超出诸隐覆，摧灭我慢幢。」\n天子说偈：「久见婆罗门，逮得般涅槃，一切怖已过，永超世恩爱。」闻已欢喜，礼足即没。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在舍卫国祇树给孤独园。\n后夜分，有一位天子，容色绝妙，来到佛前，顶礼佛足，退坐一面；身上的光明遍照祇树给孤独园。\n天子说偈问：「谁把世间隐覆？谁系缚世间？谁忆持众生？谁竖起众生的幢？」\n世尊说偈答：「无明覆盖世间，爱结系缚众生，隐覆令众生被忆持，我慢是众生幢。」\n天子又问：「谁没有覆盖？谁没有爱结？谁出离隐覆？谁不竖我慢幢？」\n世尊说偈答：「如来等正觉，以正智心得解脱，不被无明覆，也不被爱结系，超出一切隐覆，摧灭我慢幢。」\n天子又说偈：「久见婆罗门，逮得般涅槃，一切怖已过，永超世恩爱。」听完欢喜随喜，顶礼佛足，随即隐没不见。",
+  "notes": "SC 于本经未列可靠巴利平行，故唯以汉本为底，参同相应之巴利定型语厘义；依项目规约「无可靠平行时 confidence 降为 medium/low」。confidence=medium：parallel sa-2.239，无巴利专经；无明覆／爱结／我慢幢，从汉本。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "medium",
+  "prior_review_status": "needs_revision",
+  "similarity_to_source": 0.242,
+  "paragraph_parallel": true
+}

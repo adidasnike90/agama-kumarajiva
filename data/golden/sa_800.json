@@ -1,0 +1,74 @@
+{
+  "id": "SA_800",
+  "uid": "sa800",
+  "title": "雜阿含經  卷第三十  安那般那念相應  （800）  婆羅門",
+  "chinese_text": "如是婆羅門法、婆羅門、婆羅門義、婆羅門果。\n\n梵行法、梵行者、梵行義、梵行果亦如上說。",
+  "english_sa_text": "",
+  "parallels": [
+    {
+      "uid": "sn45.40",
+      "acronym": "SN 45.40",
+      "root_lang": "pli",
+      "original_title": "Dutiyabrahmacariyasutta",
+      "translated_title": "The Holy Life (2)",
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "sn45.39",
+      "acronym": "SN 45.39",
+      "root_lang": "pli",
+      "original_title": "Paṭhamabrahmacariyasutta",
+      "translated_title": "The Holy Life (1)",
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "sn45.38",
+      "acronym": "SN 45.38",
+      "root_lang": "pli",
+      "original_title": "Dutiyabrahmaññasutta",
+      "translated_title": "Brahminhood (2)",
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "sn45.37",
+      "acronym": "SN 45.37",
+      "root_lang": "pli",
+      "original_title": "Paṭhamabrahmaññasutta",
+      "translated_title": "Brahminhood (1)",
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    }
+  ],
+  "primary_sn_uid": "sn45.37",
+  "pali_text": "Sāvatthinidānaṁ. “Brahmaññañca vo, bhikkhave, desessāmi, brahmaññaphalāni ca. Taṁ suṇātha. Katamañca kho, bhikkhave, brahmaññaṁ? Ayameva ariyo aṭṭhaṅgiko maggo, seyyathidaṁ— sammādiṭṭhi …pe… sammāsamādhi. Idaṁ vuccati, bhikkhave, brahmaññaṁ. Katamāni ca, bhikkhave, brahmaññaphalāni? Sotāpattiphalaṁ, sakadāgāmiphalaṁ, anāgāmiphalaṁ, arahattaphalaṁ— imāni vuccanti, bhikkhave, brahmaññaphalānī”ti. Sattamaṁ.",
+  "english_sn_text": "At Sāvatthī. “Mendicants, I will teach you life as a brahmin and the fruits of life as a brahmin. Listen … And what is life as a brahmin? It is simply this noble eightfold path, that is: right view, right purpose, right speech, right action, right livelihood, right effort, right mindfulness, and right immersion. This is called life as a brahmin. And what are the fruits of life as a brahmin? The fruits of stream-entry, once-return, non-return, and perfection. These are called the fruits of life as a brahmin.”",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa701-800/sa800_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa701-800/sa800_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛住舍卫国祇树给孤独园。\n尔时世尊告诸比丘：「如说沙门法、沙门、沙门义、沙门果，如是婆罗门法、婆罗门、婆罗门义、婆罗门果亦如是说。何等为婆罗门法？谓八圣道——正见、正志、正语、正业、正命、正精进、正念、正定。何等为婆罗门？谓成就此法者。何等为婆罗门义？谓贪欲永尽，瞋恚、愚痴永尽，一切烦恼永尽。何等为婆罗门果？谓须陀洹果、斯陀含果、阿那含果、阿罗汉果。梵行法、梵行者、梵行义、梵行果，亦如上说。」\n佛说此经已，诸比丘闻佛所说，欢喜奉行。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在舍卫国祇树给孤独园。\n那时世尊告诉比丘们：「如同所说的沙门法、沙门、沙门义、沙门果，婆罗门法、婆罗门、婆罗门义、婆罗门果也这样说。什么是婆罗门法？就是八圣道——正见、正志、正语、正业、正命、正精进、正念、正定。什么是婆罗门？就是成就此法的人。什么是婆罗门义？就是贪欲永尽，瞋恚、愚痴永尽，一切烦恼永尽。什么是婆罗门果？就是须陀洹果、斯陀含果、阿那含果、阿罗汉果。梵行法、梵行者、梵行义、梵行果，也如上所说。」\n佛说完这部经，比丘们听佛所说，都欢喜奉行。",
+  "notes": "本经 SC 平行表所列平行及 `raw_aligned_data.json` 内之巴利本文、Sujato 英译并用以厘定法义；求那跋陀罗汉本用于定位经文与传统术语。confidence=high：primary SN45.37–40 Brahmañña／Brahmacariya 系列；汉仅交叉指示，据 SN／前沙门诸经补纲。reconstruction。",
+  "review_status": "gold_reconstructed",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "high",
+  "prior_review_status": "needs_revision",
+  "reconstruction_basis": "婆罗门／梵行交叉指示 → SN45.37–40 全纲",
+  "similarity_to_source": 0.093,
+  "paragraph_parallel": true
+}

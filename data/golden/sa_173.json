@@ -1,0 +1,32 @@
+{
+  "id": "SA_173",
+  "uid": "sa173",
+  "title": "雜阿含經  卷第八  斷知相應  （173）  無常法當斷",
+  "chinese_text": "如是我聞：\n\n一時，佛住舍衛國祇樹給孤獨園。\n\n爾時，世尊告諸比丘：「若過去無常法當斷，斷彼法已，以義饒益，長夜安樂。云何過去無常法？過去色是無常法，過去欲是無常法，彼法當斷。斷彼法已，以義饒益，長夜安樂。受、想、行、識亦復如是。」\n\n佛說此經已，諸比丘聞佛所說，歡喜奉行。\n\n如是未來、現在、過去現在、未來現在、過去未來、過去未來現在。",
+  "english_sa_text": "Saṁyuktāgama\n\n173. [Second Discourse on Eradicating Impermanent Things]\n\nThus have I heard. At one time the Buddha was staying at Sāvatthī in Jeta's Grove, Anāthapiṇḍika's Park.\n\nAt that time the Blessed One said to the monks: “You should eradicate impermanent things of the past. Having eradicated those things will be for your benefit and welfare, for your peace and happiness for a long time. What are impermanent things of the past? Past bodily form is an impermanent thing, past desire [for it] is an impermanent thing. You should eradicate those things. Having eradicated those things will be for your benefit and welfare, for your peace and happiness for a long time. Feeling … perception … formations … consciousness is also like this.”\n\nWhen the Buddha had spoken this discourse, hearing what the Buddha had said the monks were delighted and received it respectfully.\n\nIn the same way [discourses should be recited] on future … present … past and present … future and present … past and future … past, future, and present [things should be abandoned].\n\nTranslated by Bhikkhu Anālayo. Originally published in ‘On Views and Penetrative Knowledge – A Translation of Saṁyukta-āgama Discourses 139 to 187 (Fascicle 7)’, Dharma Drum Journal of Buddhist Studies, 2015, vol. 17 pp. 43–100.\n\nPrepared for SuttaCentral by Seniya Ariyakumara and Ayya Vimala.",
+  "parallels": [],
+  "primary_sn_uid": null,
+  "pali_text": "",
+  "english_sn_text": "",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa101-200/sa173_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa101-200/sa173_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时佛在舍卫国祇树给孤独园。\n尔时世尊告诸比丘：过去无常之法，一切当断。断彼法已，则得义利，长夜安乐。云何过去无常法？过去色是无常法，于过去色之欲亦是无常法，是法当断；断彼法已，则得义利，长夜安乐。受、想、行、识亦复如是。\n佛说此经已，诸比丘闻佛所说，欢喜奉行。\n（省文）如「过去」，如是未来、现在、过去现在、未来现在、过去未来、过去未来现在，一一如上说，各成一经。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在舍卫国祇树给孤独园。\n那时，世尊告诉比丘们：凡属过去而无常的法，都应当断除。断除了它，便得到真实的利益，长久安乐。什么是过去而无常的法？过去的色是无常之法，对过去之色所起的欲也是无常之法，这些都应当断除；断除了它，便得到真实的利益，长久安乐。受、想、行、识也是一样。\n佛说完这部经，比丘们听佛所说，都欢喜奉行。\n（以下是原典的省文指示）把「过去」依次换成未来、现在、过去与现在、未来与现在、过去与未来、过去未来现在，各按同一格式成一部经。",
+  "notes": "SuttaCentral 平行表于断知相应（SA 172–187）未列任何巴利平行，故不托 SN 某经；今以汉本为底，参 Anālayo 英译（DDJBS 17, 2015）及道品巴利定型语厘定法义。confidence=medium。「过去欲是无常法」之「欲」，Anālayo 读作 past desire [for it]，即缘过去色所起之欲（chanda／rāga），非另立一「欲」法；今译作「于过去色之欲」以显其所缘，并因此可知前经（SA_172）「无常法当断」之所断实在欲贪。汉本末段列世相仅七项而缺「过去未来」之一序，今依三世八经通例补足语序，不增法义。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "medium",
+  "prior_review_status": "needs_revision",
+  "similarity_to_source": 0.305,
+  "paragraph_parallel": true
+}

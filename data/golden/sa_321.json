@@ -1,0 +1,32 @@
+{
+  "id": "SA_321",
+  "uid": "sa321",
+  "title": "雜阿含經  卷第十三  因緣相應  （321）  生聞一切法",
+  "chinese_text": "如是我聞：\n\n一時，佛住舍衛國祇樹給孤獨園。\n\n時，有生聞婆羅門往詣佛所，共相問訊已，退坐一面，白佛言：「沙門瞿曇！所謂一切法，云何為一切法？」\n\n佛告婆羅門：「眼及色、眼識、眼觸、眼觸因緣生受，若苦、若樂、不苦不樂。耳、鼻、舌、身、意法、意識、意觸、意觸因緣生受，若苦、若樂、不苦不樂，是名為一切法。若復有言此非一切法，沙門瞿曇所說一切法，我今捨，更立一切法者，此但有言數，問已不知，增其癡惑。所以者何？非其境界故。」\n\n佛說此經已，生聞婆羅門聞佛說已，歡喜隨喜，從坐起去。\n\n如生聞婆羅門所問三經，有異比丘所問三經、尊者阿難所問三經、世尊法眼法根法依三經，亦如上說。",
+  "english_sa_text": "",
+  "parallels": [],
+  "primary_sn_uid": null,
+  "pali_text": "",
+  "english_sn_text": "",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa301-400/sa321_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa301-400/sa321_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛在舍卫国祇树给孤独园。\n时，有生闻婆罗门往诣佛所，问讯已，退坐一面，白佛言：「沙门瞿昙！所谓一切法——云何为一切法？」\n佛告婆罗门：「眼及色、眼识、眼触，及眼触因缘生受——若苦、若乐、不苦不乐；耳、鼻、舌、身、意，法、意识、意触，及意触因缘生受——若苦、若乐、不苦不乐：是名一切法。若复有言：『此非一切法；沙门瞿昙所说，我今捨之，别立一切法』——彼唯有言说，问已不知，徒增疑惑。所以者何？非其境界故。」\n生闻婆罗门闻佛所说，欢喜随喜，从座起去。\n（省文）如生闻婆罗门所问三经，有异比丘所问三经、尊者阿难所问三经、及世尊自说法眼法根法依三经，亦如上说。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在舍卫国祇树给孤独园。\n那时，有生闻婆罗门来见佛，问候后退坐一面，问：「沙门瞿昙！所谓『一切法』——怎样叫一切法？」\n佛告诉婆罗门：「眼及色、眼识、眼触，以及依眼触为缘所生的受——苦、乐、不苦不乐；耳、鼻、舌、身、意，以及法、意识、意触，乃至依意触为缘所生的受——苦、乐、不苦不乐：这叫做一切法。若有人说：『这不是一切法；沙门瞿昙所说，我今捨掉，另立一切法』——他只有空话，问了也不知，徒增疑惑。为什么？因为那不是他的境界。」\n生闻婆罗门听佛所说，欢喜随喜，从座而起离去。\n（以下是原典的省文指示）如同生闻婆罗门所问这三经，异比丘所问三经、阿难尊者所问三经、以及世尊自说法眼法根法依三经，也可如上所说。",
+  "notes": "SC 于本经未列可靠巴利平行，故唯以汉本为底，参同相应之巴利定型语厘义；依项目规约「无可靠平行时 confidence 降为 medium/low」，本经作 medium。『一切法』扩及识、触、触缘生受；拒立余说同 SA_319 定型。末段异问者／自说三经为省文指示，如实存，不伪作各别全经。confidence=medium。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "medium",
+  "prior_review_status": "needs_revision",
+  "similarity_to_source": 0.287,
+  "paragraph_parallel": true
+}

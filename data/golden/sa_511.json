@@ -1,0 +1,253 @@
+{
+  "id": "SA_511",
+  "uid": "sa511",
+  "title": "雜阿含經  卷第二十一  弟子所說相應  （511）  屠羊第子",
+  "chinese_text": "如是我聞：\n\n一時，佛住王舍城，乃至尊者大目犍連於路中見一大身眾生，舉體無皮，形如脯腊，乘虛而行。乃至佛告諸比丘：「此眾生者，過去世時，於此王舍城為屠羊弟子，屠羊罪故，已百千歲墮地獄中受無量苦，今得此身，續受斯罪。諸比丘！如大目犍連所見，真實無異，當受持之。」\n\n佛說此經已，諸比丘聞佛所說，歡喜奉行。",
+  "english_sa_text": "",
+  "parallels": [
+    {
+      "uid": "pli-tv-bu-vb-pj4",
+      "acronym": "Bu Pj 4",
+      "root_lang": "pli",
+      "original_title": "Uttarimanussadhamma",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "sn19.11",
+      "acronym": "SN 19.11",
+      "root_lang": "pli",
+      "original_title": "Sasīsakasutta",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "sn19.1",
+      "acronym": "SN 19.1",
+      "root_lang": "pli",
+      "original_title": "Aṭṭhisutta",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "sn19.2",
+      "acronym": "SN 19.2",
+      "root_lang": "pli",
+      "original_title": "Pesisutta",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "sn19.3",
+      "acronym": "SN 19.3",
+      "root_lang": "pli",
+      "original_title": "Piṇḍasutta",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "sn19.4",
+      "acronym": "SN 19.4",
+      "root_lang": "pli",
+      "original_title": "Nicchavisutta",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "sn19.5",
+      "acronym": "SN 19.5",
+      "root_lang": "pli",
+      "original_title": "Asilomasutta",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "sn19.6",
+      "acronym": "SN 19.6",
+      "root_lang": "pli",
+      "original_title": "Sattisutta",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "sn19.7",
+      "acronym": "SN 19.7",
+      "root_lang": "pli",
+      "original_title": "Usulomasutta",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "sn19.8",
+      "acronym": "SN 19.8",
+      "root_lang": "pli",
+      "original_title": "Sūcilomasutta",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "sn19.9",
+      "acronym": "SN 19.9",
+      "root_lang": "pli",
+      "original_title": "Dutiyasūcilomasutta",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "sn19.10",
+      "acronym": "SN 19.10",
+      "root_lang": "pli",
+      "original_title": "Kumbhaṇḍasutta",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "sn19.12",
+      "acronym": "SN 19.12",
+      "root_lang": "pli",
+      "original_title": "Gūthakhādasutta",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "sn19.13",
+      "acronym": "SN 19.13",
+      "root_lang": "pli",
+      "original_title": "Nicchavitthisutta",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "sn19.14",
+      "acronym": "SN 19.14",
+      "root_lang": "pli",
+      "original_title": "Maṅgulitthisutta",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "sn19.15",
+      "acronym": "SN 19.15",
+      "root_lang": "pli",
+      "original_title": "Okilinīsutta",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "sn19.16",
+      "acronym": "SN 19.16",
+      "root_lang": "pli",
+      "original_title": "Asīsakasutta",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "sn19.17",
+      "acronym": "SN 19.17",
+      "root_lang": "pli",
+      "original_title": "Pāpabhikkhusutta",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "sn19.18",
+      "acronym": "SN 19.18",
+      "root_lang": "pli",
+      "original_title": "Pāpabhikkhunīsutta",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "sn19.19",
+      "acronym": "SN 19.19",
+      "root_lang": "pli",
+      "original_title": "Pāpasikkhamānasutta",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "sn19.20",
+      "acronym": "SN 19.20",
+      "root_lang": "pli",
+      "original_title": "Pāpasāmaṇerasutta",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "sn19.21",
+      "acronym": "SN 19.21",
+      "root_lang": "pli",
+      "original_title": "Pāpasāmaṇerīsutta",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    }
+  ],
+  "primary_sn_uid": "sn19.1",
+  "pali_text": "Evaṁ me sutaṁ— ekaṁ samayaṁ bhagavā rājagahe viharati veḷuvane kalandakanivāpe. Tena kho pana samayena āyasmā ca lakkhaṇo āyasmā ca mahāmoggallāno gijjhakūṭe pabbate viharanti. Atha kho āyasmā mahāmoggallāno pubbaṇhasamayaṁ nivāsetvā pattacīvaramādāya yenāyasmā lakkhaṇo tenupasaṅkami; upasaṅkamitvā āyasmantaṁ lakkhaṇaṁ etadavoca: “āyāmāvuso lakkhaṇa, rājagahaṁ piṇḍāya pavisissāmā”ti. “Evamāvuso”ti kho āyasmā lakkhaṇo āyasmato mahāmoggallānassa paccassosi. Atha kho āyasmā mahāmoggallāno gijjhakūṭā pabbatā orohanto aññatarasmiṁ padese sitaṁ pātvākāsi. Atha kho āyasmā lakkhaṇo āyasmantaṁ mahāmoggallānaṁ etadavoca: “ko nu kho, āvuso moggallāna, hetu ko paccayo sitassa pātukammāyā”ti? “Akālo kho, āvuso lakkhaṇa, etassa pañhassa. Bhagavato maṁ santike etaṁ pañhaṁ pucchā”ti. Atha kho āyasmā ca lakkhaṇo āyasmā ca mahāmoggallāno rājagahe piṇḍāya caritvā pacchābhattaṁ piṇḍapātapaṭikkantā yena bhagavā tenupasaṅkamiṁsu; upasaṅkamitvā bhagavantaṁ abhivādetvā ekamantaṁ nisīdiṁsu. Ekamantaṁ nisinno kho āyasmā lakkhaṇo āyasmantaṁ mahāmoggallānaṁ etadavoca: “idhāyasmā mahāmoggallāno gijjhakūṭā pabbatā orohanto aññatarasmiṁ padese sitaṁ pātvākāsi. Ko nu kho, āvuso moggallāna, hetu ko paccayo sitassa pātukammāyā”ti? “Idhāhaṁ, āvuso, gijjhakūṭā pabbatā orohanto addasaṁ aṭṭhikasaṅkhalikaṁ vehāsaṁ gacchantiṁ. Tamenaṁ gijjhāpi kākāpi kulalāpi anupatitvā anupatitvā phāsuḷantarikāhi vitudenti vitacchenti virājenti. Sā sudaṁ aṭṭassaraṁ karoti. Tassa mayhaṁ, āvuso, etadahosi: ‘acchariyaṁ vata bho, abbhutaṁ vata bho. Evarūpopi nāma satto bhavissati. Evarūpopi nāma yakkho bhavissati. Evarūpopi nāma attabhāvapaṭilābho bhavissatī’”ti. Atha kho bhagavā bhikkhū āmantesi: “cakkhubhūtā vata, bhikkhave, sāvakā viharanti; ñāṇabhūtā vata, bhikkhave, sāvakā viharanti, yatra hi nāma sāvako evarūpaṁ ñassati vā dakkhati vā sakkhiṁ vā karissati. Pubbeva me so, bhikkhave, satto diṭṭho ahosi, api cāhaṁ na byākāsiṁ. Ahañcetaṁ byākareyyaṁ, pare ca me na saddaheyyuṁ. Ye me na saddaheyyuṁ, tesaṁ taṁ assa dīgharattaṁ ahitāya dukkhāya. Eso, bhikkhave, satto imasmiṁyeva rājagahe goghātako ahosi. So tassa kammassa vipākena bahūni vassāni bahūni vassasatāni bahūni vassasahassāni bahūni vassasatasahassāni niraye paccitvā tasseva kammassa vipākāvasesena evarūpaṁ attabhāvapaṭilābhaṁ paṭisaṁvedayatī”ti. (Sabbesaṁ suttantānaṁ eseva peyyālo.) Paṭhamaṁ.",
+  "english_sn_text": "So I have heard. At one time the Buddha was staying near Rājagaha in the Bamboo Grove, the squirrels’ feeding ground. Now at that time Venerable Mark and Venerable Mahāmoggallāna were staying on the Vulture’s Peak Mountain. Then Mahāmoggallāna robed up in the morning and, taking his bowl and robe, went to Mark and said to him, “Come, Reverend Mark, let’s enter Rājagaha for alms.” “Yes, reverend,” Mark replied. As Mahāmoggallāna was descending from Vulture’s Peak Mountain he smiled at a certain spot. So Mark said to Mahāmoggallāna, “What is the cause, Reverend Moggallāna, what is the reason you smiled?” “Reverend Mark, it’s the wrong time for this question. Ask me when we’re in the Buddha’s presence.” Then Mark and Mahāmoggallāna wandered for alms in Rājagaha. After the meal, on their return from almsround, they went to the Buddha, bowed, and sat down to one side. Mark said to Mahāmoggallāna: “Just now, as Mahāmoggallāna was descending from Vulture’s Peak Mountain he smiled at a certain spot. What is the cause, Reverend Moggallāna, what is the reason you smiled?” “Just now, reverend, as I was descending from Vulture’s Peak Mountain I saw a skeleton flying through the air. Vultures, crows, and hawks kept chasing it, pecking, clawing, and stabbing it in the ribs as it screeched in pain. It occurred to me: ‘Oh lord, how incredible, how amazing! That there can be such a sentient being, such a spirit, such an incarnation!’” Then the Buddha said to the mendicants: “Mendicants, there are disciples who live full of vision and knowledge, since a disciple knows, sees, and witnesses such a thing. Formerly, I too saw that being, but I did not speak of it. For if I had spoken of it others would not have believed me, which would be for their lasting harm and suffering. That being used to be a cattle butcher right here in Rājagaha. As a result of that deed he burned in hell for many years, many hundreds, many thousands, many hundreds of thousands of years. Now he experiences the residual result of that deed in such an incarnation.” (Tell all these discourses in full like this.)",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa501-600/sa511_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa501-600/sa511_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛在王舍城迦兰陀竹园。\n尊者大目犍连于路中见一大身众生，举体无皮，形如脯腊，乘虚而行。\n佛告诸比丘：「此众生者，过去于此王舍城为屠羊弟子，缘斯罪故，堕地狱受无量苦；地狱余报，今得此身，续受其苦。诸比丘！如大目犍连所见，真实不虚，应当受持。。」\n佛说此经已，诸比丘闻佛所说，欢喜奉行。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在王舍城迦兰陀竹园。\n大目犍连尊者在路中看见一个身躯巨大的众生，全身没有皮，形状像干肉，在空中飞行。\n佛告诉比丘们：「这个众生，过去在此王舍城做屠羊的徒弟，因为那个罪业的缘故，堕入地狱受无量苦；地狱的剩余果报，现在得到这样的身，继续承受那些苦。诸比丘！如同大目犍连所见的，真实不虚，你们应当受持。。」\n佛说完这部经，比丘们听佛所说，都欢喜奉行。",
+  "notes": "本经 SC 平行表所列平行及 `raw_aligned_data.json` 内之巴利本文、Sujato 英译并用以厘定法义；求那跋陀罗汉本用于定位经文与传统术语。confidence=high：primary SN19.4 Nicchavi（剥皮／无皮身）。汉作屠羊弟子，巴利 orabbhiko 为屠羊；保留汉职业，删广本标题。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "high",
+  "prior_review_status": "needs_revision",
+  "similarity_to_source": 0.341,
+  "paragraph_parallel": true
+}

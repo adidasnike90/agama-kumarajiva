@@ -1,0 +1,183 @@
+{
+  "id": "SA_450",
+  "uid": "sa450",
+  "title": "雜阿含經  卷第十八  界相應  （450）  少聞等",
+  "chinese_text": "如是我聞：\n\n一時，佛住舍衛國祇樹給孤獨園。\n\n爾時，世尊告諸比丘：「眾生常與界俱，與界和合。不信時與不信界俱，犯戒時與犯戒界俱，無慚無愧時與無慚無愧界俱；信心時與信界俱，持戒時與持戒界俱，慚愧心時與慚愧界俱。是故，諸比丘！當善分別種種諸界。」\n\n佛說是經已，諸比丘聞佛所說，歡喜奉行。\n\n如信、不信。如是精進、不精進，失念、不失念，正受、不正受，多聞、少聞，慳者、施者，惡慧、善慧，難養、易養，難滿、易滿，多欲、少欲，知足、不知足，攝受、不攝受界俱，如上經。如是廣說。",
+  "english_sa_text": "",
+  "parallels": [
+    {
+      "uid": "sn14.17",
+      "acronym": "SN 14.17",
+      "root_lang": "pli",
+      "original_title": "Assaddhasaṁsandanasutta",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "sn14.18",
+      "acronym": "SN 14.18",
+      "root_lang": "pli",
+      "original_title": "Assaddhamūlakasutta",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "sn14.19",
+      "acronym": "SN 14.19",
+      "root_lang": "pli",
+      "original_title": "Ahirikamūlakasutta",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "sn14.20",
+      "acronym": "SN 14.20",
+      "root_lang": "pli",
+      "original_title": "Anottappamūlakasutta",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "sn14.21",
+      "acronym": "SN 14.21",
+      "root_lang": "pli",
+      "original_title": "Appassutamūlakasutta",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "sn14.22",
+      "acronym": "SN 14.22",
+      "root_lang": "pli",
+      "original_title": "Kusītamūlakasutta",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "sn14.23",
+      "acronym": "SN 14.23",
+      "root_lang": "pli",
+      "original_title": "Asamāhitasutta",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "sn14.24",
+      "acronym": "SN 14.24",
+      "root_lang": "pli",
+      "original_title": "Dussīlasutta",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "sa-3.20",
+      "acronym": "SA3 20",
+      "root_lang": "lzh",
+      "original_title": "少聞等",
+      "translated_title": null,
+      "type": "full",
+      "resembling": true,
+      "remark": null
+    },
+    {
+      "uid": "sn14.25",
+      "acronym": "SN 14.25",
+      "root_lang": "pli",
+      "original_title": "Pañcasikkhāpadasutta",
+      "translated_title": null,
+      "type": "full",
+      "resembling": true,
+      "remark": null
+    },
+    {
+      "uid": "sn14.26",
+      "acronym": "SN 14.26",
+      "root_lang": "pli",
+      "original_title": "Sattakammapathasutta",
+      "translated_title": null,
+      "type": "full",
+      "resembling": true,
+      "remark": null
+    },
+    {
+      "uid": "sn14.27",
+      "acronym": "SN 14.27",
+      "root_lang": "pli",
+      "original_title": "Dasakammapathasutta",
+      "translated_title": null,
+      "type": "full",
+      "resembling": true,
+      "remark": null
+    },
+    {
+      "uid": "sn14.28",
+      "acronym": "SN 14.28",
+      "root_lang": "pli",
+      "original_title": "Aṭṭhaṅgikasutta",
+      "translated_title": null,
+      "type": "full",
+      "resembling": true,
+      "remark": null
+    },
+    {
+      "uid": "sn14.29",
+      "acronym": "SN 14.29",
+      "root_lang": "pli",
+      "original_title": "Dasaṅgasutta",
+      "translated_title": null,
+      "type": "full",
+      "resembling": true,
+      "remark": null
+    },
+    {
+      "uid": "t111",
+      "acronym": "T 111",
+      "root_lang": "lzh",
+      "original_title": "佛說相應相可",
+      "translated_title": null,
+      "type": "full",
+      "resembling": true,
+      "remark": null
+    }
+  ],
+  "primary_sn_uid": "sn14.17",
+  "pali_text": "Sāvatthiyaṁ viharati. “Dhātusova, bhikkhave, sattā saṁsandanti samenti. Assaddhā assaddhehi saddhiṁ saṁsandanti samenti; ahirikā ahirikehi saddhiṁ saṁsandanti samenti; anottappino anottappīhi saddhiṁ saṁsandanti samenti; appassutā appassutehi saddhiṁ saṁsandanti samenti; kusītā kusītehi saddhiṁ saṁsandanti samenti; muṭṭhassatino muṭṭhassatīhi saddhiṁ saṁsandanti samenti; duppaññā duppaññehi saddhiṁ saṁsandanti samenti. Atītampi kho, bhikkhave, addhānaṁ dhātusova sattā saṁsandiṁsu samiṁsu. Assaddhā assaddhehi saddhiṁ saṁsandiṁsu samiṁsu; ahirikā ahirikehi saddhiṁ saṁsandiṁsu samiṁsu; anottappino anottappīhi saddhiṁ saṁsandiṁsu samiṁsu; appassutā appassutehi saddhiṁ saṁsandiṁsu samiṁsu; kusītā kusītehi saddhiṁ saṁsandiṁsu samiṁsu; muṭṭhassatino muṭṭhassatīhi saddhiṁ saṁsandiṁsu samiṁsu; duppaññā duppaññehi saddhiṁ saṁsandiṁsu samiṁsu. Anāgatampi kho, bhikkhave, addhānaṁ dhātusova sattā saṁsandissanti samessanti. Assaddhā assaddhehi saddhiṁ saṁsandissanti samessanti; ahirikā ahirikehi saddhiṁ saṁsandissanti samessanti; anottappino anottappīhi saddhiṁ …pe… appassutā appassutehi saddhiṁ …pe… kusītā kusītehi saddhiṁ …pe… muṭṭhassatino muṭṭhassatīhi saddhiṁ …pe… duppaññā duppaññehi saddhiṁ saṁsandissanti samessanti. Etarahipi kho, bhikkhave, paccuppannaṁ addhānaṁ dhātusova sattā saṁsandanti samenti. Assaddhā assaddhehi saddhiṁ saṁsandanti samenti; ahirikā ahirikehi saddhiṁ …pe… anottappino anottappīhi saddhiṁ …pe… appassutā appassutehi saddhiṁ …pe… kusītā kusītehi saddhiṁ …pe… muṭṭhassatino muṭṭhassatīhi saddhiṁ saṁsandanti samenti; duppaññā duppaññehi saddhiṁ saṁsandanti samenti. Dhātusova, bhikkhave, sattā saṁsandanti samenti. Saddhā saddhehi saddhiṁ saṁsandanti samenti; hirimanā hirimanehi saddhiṁ saṁsandanti samenti; ottappino ottappīhi saddhiṁ saṁsandanti samenti; bahussutā bahussutehi saddhiṁ saṁsandanti samenti; āraddhavīriyā āraddhavīriyehi saddhiṁ saṁsandanti samenti; upaṭṭhitassatino upaṭṭhitassatīhi saddhiṁ saṁsandanti samenti; paññavanto paññavantehi saddhiṁ saṁsandanti samenti. Atītampi kho, bhikkhave, addhānaṁ …pe… anāgatampi kho, bhikkhave …pe… etarahipi kho, bhikkhave, paccuppannaṁ addhānaṁ dhātusova sattā saṁsandanti samenti. Saddhā saddhehi saddhiṁ …pe… paññavanto paññavantehi saddhiṁ saṁsandanti samentī”ti. Sattamaṁ.",
+  "english_sn_text": "At Sāvatthī. “Mendicants, sentient beings join together and converge because of an element: the faithless with the faithless, the unconscientious with the unconscientious, the imprudent with the imprudent, the unlearned with the unlearned, the lazy with the lazy, the unmindful with the unmindful, and the witless with the witless. In the past, too, sentient beings came together and converged because of an element. … In the future, too, sentient beings will join together and converge because of an element. … At present, too, sentient beings join together and converge because of an element. … Sentient beings join together and converge because of an element: the faithful with the faithful, the conscientious with the conscientious, the prudent with the prudent, the learned with the learned, the energetic with the energetic, the mindful with the mindful, and the wise with the wise. In the past … In the future … At present, too, sentient beings join together and converge because of an element. …”",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa401-500/sa450_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa401-500/sa450_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛在舍卫国祇树给孤独园。\n尔时，世尊告诸比丘：「众生依界而会、依界而合——不信与不信界俱，犯戒与犯戒界俱，无惭无愧与无惭无愧界俱；有信与信界俱，持戒与持戒界俱，有惭有愧与惭愧界俱。如是精进与懈怠、正念与失念、正定与不正定、多闻与少闻、能施与悭吝、善慧与恶慧、易养与难养、少欲与多欲、知足与不知足、摄受与不摄受——皆各与其界俱。是故诸比丘当善分别种种诸界。」\n佛说此经已，诸比丘闻佛所说，欢喜奉行。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在舍卫国祇树给孤独园。\n那时，世尊告诉比丘们：「众生依界而聚会、依界而相合——不信的与不信界在一起，犯戒的与犯戒界在一起，无惭无愧的与无惭无愧界在一起；有信心的与信界在一起，持戒的与持戒界在一起，有惭有愧的与惭愧界在一起。同样，精进与懈怠、正念与失念、正定与不正定、多闻与少闻、能布施与悭吝、善慧与恶慧、容易供养与难以供养、少欲与多欲、知足与不知足、摄受与不摄受——都各自与相应的界在一起。所以比丘们应当好好分别种种诸界。」\n佛说完这部经，比丘们听佛所说，都欢喜奉行。",
+  "notes": "本经 SC 平行表所列平行及 `raw_aligned_data.json` 内之巴利本文、Sujato 英译并用以厘定法义；求那跋陀罗汉本用于定位经文与传统术语。confidence=high：primary SN14.17 Assaddhasaṁsandana（并 14.18–24 族）。信：不信／无惭／无愧／少闻／懈怠／失念／恶慧各与其类；汉末『如上经。如是广说』诸对——据 SN 族补精进、念、定、闻、施、慧等，并留汉易养／少欲／知足／摄受。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "high",
+  "prior_review_status": "needs_revision",
+  "similarity_to_source": 0.213,
+  "paragraph_parallel": true
+}

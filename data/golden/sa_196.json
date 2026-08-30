@@ -1,0 +1,64 @@
+{
+  "id": "SA_196",
+  "uid": "sa196",
+  "title": "雜阿含經  卷第九  六入處相應  （196）  無常",
+  "chinese_text": "如是我聞：\n\n一時，佛住舍衛國祇樹給孤獨園。\n\n爾時，世尊告諸比丘：「一切無常。云何一切？謂眼無常，若色、眼識、眼觸、眼觸因緣生受，若苦、若樂、不苦不樂，彼亦無常。如是耳、鼻、舌、身、意，若法、意識、意觸、意觸因緣生受，若苦、若樂、不苦不樂，彼亦無常。多聞聖弟子如是觀者，於眼解脫，若色、眼識、眼觸、眼觸因緣生受，若苦、若樂、不苦不樂，彼亦解脫。如是耳、鼻、舌、身、意、法，意識、意觸、意觸因緣生受，若苦、若樂、不苦不樂，彼亦解脫，我說彼生、老、病、死、憂、悲、惱、苦。」\n\n佛說此經已，諸比丘聞佛所說，歡喜奉行。\n\n如說一切無常，如是一切苦、一切空、一切非我、一切虛業法、一切破壞法、一切生法、一切老法、一切病法、一切死法、一切愁憂法、一切煩惱法、一切集法、一切滅法、一切知法、一切識法、一切斷法、一切覺法、一切作證、一切魔、一切魔勢、一切魔器、一切然、一切熾然、一切燒，皆如上二經廣說。",
+  "english_sa_text": "Saṁyuktāgama\n\n196. [Second Discourse on Impermanence]\n\nThus have I heard. At one time the Buddha was staying at Sāvatthī in Jeta’s Grove, Anāthapiṇḍika’s Park.\n\nAt that time the Blessed One said to the monks: “All is impermanent. What is all [that is impermanent]? That is, the eye is impermanent, forms, eye-consciousness, eye-contact, and feeling arisen in dependence on eye-contact, be it painful, pleasant, or neutral, that is also impermanent.\n\n“In the same way the ear … the nose … the tongue … the body … the mind … mental objects … mind-consciousness, mind-contact, and feeling arisen in dependence on mind-contact, be it painful, pleasant, or neutral, that is also impermanent.\n\n“A learned noble disciple who contemplates like this is liberated from the eye, and is also liberated from forms, eye-consciousness, eye-contact, and feeling arisen in dependence on eye-contact, be it painful, pleasant, or neutral.\n\n“In the same way he is also liberated from the ear … the nose … the tongue … the body … the mind … mental objects … mind-consciousness, mind-contact, and feeling arisen in dependence on mind-contact, be it painful, pleasant, or neutral.\n\n“I say that he is liberated from birth, old age, disease, death, worry, sorrow, vexation, and pain.”\n\nWhen the Buddha had spoken this discourse, hearing what the Buddha had said the monks were delighted and received it respectfully.\n\nAs has been said for all is impermanent, in the same way for all is dukkha … all is empty … all is not-self … all is of the nature of void activity … all is subject to destruction … all is subject to birth … all is subject to old age … all is subject to disease … all is subject to death … all is subject to worry … all is subject to affliction … all is subject to arising … all is subject to cessation … all is of the nature to be understood … all is of the nature to be known … all is of the nature to be abandoned … all is of the nature to be awakened to … all is to be realized … all is [the domain] of Māra … all is within Māra’s power … all is Māra’s tool … all is burning … all is ablaze … all is on fire, for all of these, each discourse is to be recited in full as above.\n\nTranslated by Bhikkhu Anālayo. Originally published in \"On the Six Sense-spheres (1) ―A Translation of Saṁyukta-āgama Discourses 188 to 229 (Fascicle 8)\", Dharma Drum Journal of Buddhist Studies, 2016, vol. 18 pp. 1–61.\n\nPrepared for SuttaCentral by Ayya Vimala.",
+  "parallels": [
+    {
+      "uid": "sn35.52",
+      "acronym": "SN 35.52",
+      "root_lang": "pli",
+      "original_title": "Upassaṭṭhasutta",
+      "translated_title": "Impermanent, Etc.",
+      "type": "full",
+      "resembling": true,
+      "remark": null
+    },
+    {
+      "uid": "sn35.43-51",
+      "acronym": "SN 35.43–51",
+      "root_lang": "pli",
+      "original_title": "Aniccādisuttanavaka",
+      "translated_title": "Impermanent, Etc.",
+      "type": "full",
+      "resembling": true,
+      "remark": null
+    },
+    {
+      "uid": "sn35.33-42",
+      "acronym": "SN 35.33–42",
+      "root_lang": "pli",
+      "original_title": "Jātidhammāsutta",
+      "translated_title": "",
+      "type": "full",
+      "resembling": true,
+      "remark": null
+    }
+  ],
+  "primary_sn_uid": "sn35.33-42",
+  "pali_text": "",
+  "english_sn_text": "",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa101-200/sa196_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa101-200/sa196_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback",
+    "Unsupported SN uid: sn35.33-42"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时佛在舍卫国祇树给孤独园。\n尔时世尊告诸比丘：一切无常。云何一切无常？谓眼无常；色、眼识、眼触，及眼触因缘所生受——若苦、若乐、不苦不乐——彼亦无常。耳、鼻、舌、身、意，声、香、味、触、法，乃至意触因缘所生受，亦复如是。\n多闻圣弟子如是观者，于眼解脱，于色、眼识、眼触及眼触因缘所生受解脱；于耳、鼻、舌、身、意，法、意识、意触，乃至意触因缘所生受，亦皆解脱。我说彼解脱于生、老、病、死、忧、悲、恼、苦。\n佛说此经已，诸比丘闻佛所说，欢喜奉行。\n（省文）如说「一切无常」，如是「一切苦」、「一切空」、「一切非我」，「一切虚业法」、「一切破坏法」，「一切生法」、「一切老法」、「一切病法」、「一切死法」、「一切愁忧法」、「一切烦恼法」，「一切集法」、「一切灭法」，「一切知法」、「一切识法」、「一切断法」、「一切觉法」、「一切作证」，「一切魔」、「一切魔势」、「一切魔器」，「一切然」、「一切炽然」、「一切烧」，皆如上二经广说。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在舍卫国祇树给孤独园。\n那时，世尊告诉比丘们：一切都是无常的。哪些是「一切」呢？就是说：眼是无常的；色（所见之境）、眼识、眼触，以及依眼触为缘而生起的感受——无论是苦、是乐、还是不苦不乐——也都是无常的。耳、鼻、舌、身、意，以及声、香、味、触、法，乃至依意触为缘而生起的感受，也都是一样。\n多闻圣弟子这样观察的人，从眼得解脱，从色、眼识、眼触以及依眼触为缘所生的感受得解脱；从耳、鼻、舌、身、意，法、意识、意触，乃至依意触为缘所生的感受，同样都得解脱。我说这样的人已解脱于生、老、病、死、忧、悲、恼、苦。\n佛说完这部经，比丘们听佛所说，都欢喜奉行。\n（以下是原典的省文指示）如同上面说「一切无常」，把「无常」依次换成以下诸门，都照前二经（SA_195、SA_196）详说而各成一经；今按义类分列：一、三法印之余——一切苦、一切空、一切非我；二、坏灭之名——一切虚业法、一切破坏法（palokadhamma，会溃散之法）；三、生老病死忧恼——一切生法、老法、病法、死法、愁忧法、烦恼法（jāti／jarā／byādhi／maraṇa／soka／saṅkilesika-dhamma，即巴利 SN35.33–42 之六门）；四、缘起生灭——一切集法、一切灭法（samudaya／nirodha-dhamma）；五、所应作——一切知法（应证知）、一切识法（应遍知）、一切断法（应断舍）、一切觉法、一切作证（应现证）；六、魔所摄——一切魔、一切魔势、一切魔器；七、烧然——一切然、一切炽然、一切烧（即次经 SA_197「一切烧然」之义）。",
+  "notes": "本经 SC 平行表所列巴利平行及 `raw_aligned_data.json` 内之巴利本文、Sujato 英译，与 Anālayo 之 SA 英译（DDJBS 18, 2016, Fascicle 8）并用以厘定法义；求那跋陀罗汉本用于定位经文与传统术语。confidence=high：SC 所列 SN35.43–51（`sabbaṁ aniccaṁ` 下开眼、色、眼识、眼触、触缘生受五支）与本经正文逐支相符，SN35.33–42 及 SN35.52 复与本经末段之诸门相应，resembling 之标仅因彼系为一组同式经、难定一一之对，非疑法义。信-校正：底本末句「我说彼生、老、病、死、忧、悲、恼、苦」语义倒错，文脉所须为「解脱」而非「有」；Anālayo 读作 I say that he is liberated from birth, old age, disease, death…，当是汉本脱「解脱于」三字，今补之。本经与前经（SA_195）之别：前经作「生厌→离贪→解脱→自知」之全链，本经省中间二支而直言「解脱」，并以「解脱于生老病死忧悲恼苦」结，故末段自称「如上二经广说」。末段二十四门，文言栏存底本语面全列，现代栏按义类分组并出可考之巴利名；「虚业法」一名义未详（Anālayo: of the nature of void activity），巴利未得确对，故不强解。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "high",
+  "prior_review_status": "needs_revision",
+  "similarity_to_source": 0.408,
+  "paragraph_parallel": true
+}

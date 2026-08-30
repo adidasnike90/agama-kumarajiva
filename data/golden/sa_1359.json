@@ -1,0 +1,32 @@
+{
+  "id": "SA_1359",
+  "uid": "sa1359",
+  "title": "雜阿含經  卷第五十  林相應  （1359）  劫貝",
+  "chinese_text": "如是我聞：\n\n一時，佛住舍衛國祇樹給孤獨園。\n\n時，有異比丘在拘薩羅人間，住一林中。\n\n時，彼比丘作如是思惟：「若得好劫貝，長七肘，廣二肘，作衣已，樂修善法。」\n\n時，有天神，依彼林者，作是念：「此非比丘法，住於林中，作是思惟，悕望好衣。」\n\n時，天神化作全身骨鏁，於彼比丘前舞，而說偈言：\n\n「比丘思劫貝，　　七肘廣六尺，\n\n　晝則如是想，　　知夜何所思？」\n\n時，彼比丘即生恐怖，其身戰悚，而說偈言：\n\n「止止不須㲲，　　今著糞掃衣，\n\n　晝見骨鏁舞，　　知夜復何見？」\n\n時，彼比丘心驚怖已，即正思惟，專精修習，斷諸煩惱，得阿羅漢。",
+  "english_sa_text": "",
+  "parallels": [],
+  "primary_sn_uid": null,
+  "pali_text": "",
+  "english_sn_text": "",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa1301-1400/sa1359_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa1301-1400/sa1359_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛住舍卫国祇树给孤独园。\n时有异比丘在拘萨罗人间，住一林中。彼作是念：「若得好劫贝，长七肘、广二肘，作衣已，乐修善法。」\n依林天神念：「此非比丘法——住林中而希求好衣。」即化作全身骨锁，于比丘前舞，说偈：「比丘思劫贝，七肘广六尺；昼则如是想，知夜何所思？」\n比丘生怖，身战悚，说偈：「止止不须㲲，今著粪扫衣；昼见骨锁舞，知夜复何见？」\n彼心惊怖已，即正思惟，专精修习，断诸烦恼，得阿罗汉。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在舍卫国祇树给孤独园。\n当时有一位比丘在拘萨罗人间，住在一片林中。他心想：「若能得到好的劫贝布，长七肘、宽二肘，做成衣服以后，就乐修善法。」\n住在林中的天神心想：「这不是比丘法——住在林中却希求好衣。」便化作一具全身骨锁，在比丘面前舞蹈，说偈：「比丘想着劫贝布，七肘长、六尺宽；白天这样想，知道夜里又想什么？」\n比丘心生恐怖，身体战栗，说偈：「罢了罢了，不必要细㲲，如今穿着粪扫衣；白天已见骨锁舞，知道夜里还会见什么？」\n他心惊怖之后，便正思惟、专精修习，断尽烦恼，证得阿罗汉。",
+  "notes": "SC 于本经未列可靠巴利平行，故唯以汉本为底，参林相应／Vanasaṃyutta 定型语及早期教理厘义；依项目规约「无可靠平行时 confidence 降为 medium/low」。求那跋陀罗汉本用于定位经文与传统术语。confidence=medium：无 SC 专经。近林相应诫好衣／头陀义。劫贝＝棉布；骨鏁＝骨锁（骨架连环）；「㲲」＝细毛布，存字。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "medium",
+  "prior_review_status": "needs_revision",
+  "similarity_to_source": 0.242,
+  "paragraph_parallel": true
+}

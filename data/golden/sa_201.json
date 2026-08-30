@@ -1,0 +1,103 @@
+{
+  "id": "SA_201",
+  "uid": "sa201",
+  "title": "雜阿含經  卷第九  六入處相應  （201）  比丘盡一切結",
+  "chinese_text": "如是我聞：\n\n一時，佛住舍衛國祇樹給孤獨園。\n\n時，有異比丘來詣佛所，稽首佛足，退住一面，白佛言：「世尊！云何知、云何見，次第疾得漏盡？」\n\n爾時，世尊告彼比丘：「當正觀無常。何等法無常？謂眼無常，若色、眼識、眼觸、眼觸因緣生受，若苦、若樂、不苦不樂，當觀無常。耳、鼻、舌、身、意當觀無常。若法、意識、意觸、意觸因緣生受，若苦、若樂、不苦不樂，彼亦無常。比丘！如是知、如是見，次第盡有漏。」\n\n時，彼比丘聞佛所說，歡喜作禮而去。\n\n如是，比丘所說經。若差別者：「云何知、云何見，次第盡一切結，斷一切縛、斷一切使、斷一切上煩惱、斷一切結、斷諸流、斷諸軛、斷諸取、斷諸觸、斷諸蓋、斷諸纏、斷諸垢、斷諸愛、斷諸意、斷邪見生正見、斷無明生明。比丘！如是觀眼無常，乃至如是知、如是見，次第無明斷，明生。」\n\n時，彼比丘聞佛所說歡喜，歡喜已，作禮而去。",
+  "english_sa_text": "Saṁyuktāgama\n\n201. [Discourse to a Monk]\n\nThus have I heard. At one time the Buddha was staying at Sāvatthī in Jeta’s Grove, Anāthapiṇḍika’s Park.\n\nThen a certain monk approached the Buddha, paid respect with his head at the Buddha’s feet, withdrew to stand to one side, and said to the Buddha: “Blessed One, knowing what, seeing what, does one step by step reach the quick destruction of the influxes?”\n\nThen the Blessed One said to that monk: “One should rightly contemplate impermanence. What kind of things are impermanent? That is, one should contemplate the eye as impermanent, forms, eye-consciousness, eye-contact, and feeling arisen in dependence on eye-contact, be it painful, pleasant, or neutral, [that is also] impermanent.\n\n“One should contemplate the ear … the nose … the tongue … the body … the mind as impermanent … mental objects … mind-consciousness, mind-contact, and feeling arisen in dependence on mind-contact, be it painful, pleasant, or neutral, that is also impermanent. Monk, knowing like this, seeing like this, one step by step reaches the destruction of the influxes.”\n\nThen, hearing what the Buddha had said that monk was delighted. He paid respect and left.\n\nIn the same way, as the discourse spoken to the monk, [other discourses are to be recited] with this difference: “knowing what, seeing what … does one step by step reach the destruction of all fetters … does one abandon all bondages … does one abandon all underlying tendencies … does one abandon all higher afflictions … does one abandon all fetters … does one abandon all flows … does one abandon all yokes … does one abandon all clinging … does one abandon all contacts … does one abandon all hindrances … does one abandon all entanglements … does one abandon all blemishes … does one abandon all craving … does one abandon all [wrong] intentions … does one abandon wrong view and give rise to right view … does one abandon ignorance and give rise to knowledge?”\n\n“Monk, in this way contemplate the eye as impermanent … up to … knowing like this, seeing like this, one step by step abandons ignorance and gives rise to knowledge.”\n\nThen, hearing what the Buddha had said, that monk was delighted. Being delighted, he paid respect and left.\n\nTranslated by Bhikkhu Anālayo. Originally published in \"On the Six Sense-spheres (1) ―A Translation of Saṁyukta-āgama Discourses 188 to 229 (Fascicle 8)\", Dharma Drum Journal of Buddhist Studies, 2016, vol. 18 pp. 1–61.\n\nPrepared for SuttaCentral by Ayya Vimala.",
+  "parallels": [
+    {
+      "uid": "sn35.59",
+      "acronym": "SN 35.59",
+      "root_lang": "pli",
+      "original_title": "Anusayasamugghātasutta",
+      "translated_title": null,
+      "type": "full",
+      "resembling": true,
+      "remark": null
+    },
+    {
+      "uid": "sn35.58",
+      "acronym": "SN 35.58",
+      "root_lang": "pli",
+      "original_title": "Anusayapahānasutta",
+      "translated_title": null,
+      "type": "full",
+      "resembling": true,
+      "remark": null
+    },
+    {
+      "uid": "sn35.57",
+      "acronym": "SN 35.57",
+      "root_lang": "pli",
+      "original_title": "Āsavasamugghātasutta",
+      "translated_title": null,
+      "type": "full",
+      "resembling": true,
+      "remark": null
+    },
+    {
+      "uid": "sn35.56",
+      "acronym": "SN 35.56",
+      "root_lang": "pli",
+      "original_title": "Āsavapahānasutta",
+      "translated_title": "Abandoning the Taints, Etc.",
+      "type": "full",
+      "resembling": true,
+      "remark": null
+    },
+    {
+      "uid": "sn35.55",
+      "acronym": "SN 35.55",
+      "root_lang": "pli",
+      "original_title": "Saṁyojanasamugghātasutta",
+      "translated_title": "Uprooting the Fetters",
+      "type": "full",
+      "resembling": true,
+      "remark": null
+    },
+    {
+      "uid": "sn35.54",
+      "acronym": "SN 35.54",
+      "root_lang": "pli",
+      "original_title": "Saṁyojanappahānasutta",
+      "translated_title": "Abandoning the Fetters",
+      "type": "full",
+      "resembling": true,
+      "remark": null
+    },
+    {
+      "uid": "sn35.53",
+      "acronym": "SN 35.53",
+      "root_lang": "pli",
+      "original_title": "Avijjāpahānasutta",
+      "translated_title": "Abandoning Ignorance",
+      "type": "full",
+      "resembling": true,
+      "remark": null
+    }
+  ],
+  "primary_sn_uid": "sn35.53",
+  "pali_text": "Sāvatthinidānaṁ. Atha kho aññataro bhikkhu yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṁ abhivādetvā ekamantaṁ nisīdi. Ekamantaṁ nisinno kho so bhikkhu bhagavantaṁ etadavoca: “kathaṁ nu kho, bhante, jānato kathaṁ passato avijjā pahīyati, vijjā uppajjatī”ti? “Cakkhuṁ kho, bhikkhu, aniccato jānato passato avijjā pahīyati, vijjā uppajjati. Rūpe aniccato jānato passato avijjā pahīyati, vijjā uppajjati. Cakkhuviññāṇaṁ … cakkhusamphassaṁ … yampidaṁ cakkhusamphassapaccayā uppajjati vedayitaṁ sukhaṁ vā dukkhaṁ vā adukkhamasukhaṁ vā tampi aniccato jānato passato avijjā pahīyati, vijjā uppajjati. Sotaṁ … ghānaṁ … jivhaṁ … kāyaṁ … manaṁ aniccato jānato passato avijjā pahīyati, vijjā uppajjati. Dhamme … manoviññāṇaṁ … manosamphassaṁ … yampidaṁ manosamphassapaccayā uppajjati vedayitaṁ sukhaṁ vā dukkhaṁ vā adukkhamasukhaṁ vā tampi aniccato jānato passato avijjā pahīyati, vijjā uppajjati. Evaṁ kho, bhikkhu, jānato evaṁ passato avijjā pahīyati, vijjā uppajjatī”ti. Paṭhamaṁ.",
+  "english_sn_text": "At Sāvatthī. Then a mendicant went up to the Buddha, bowed, sat down to one side, and said to him: “Sir, how does one know and see so as to give up ignorance and give rise to knowledge?” “Mendicant, knowing and seeing the eye, sights, eye consciousness, and eye contact as impermanent, ignorance is given up and knowledge arises. And also knowing and seeing the pleasant, painful, or neutral feeling that arises dependent on eye contact as impermanent, ignorance is given up and knowledge arises. Knowing and seeing the ear … nose … tongue … body … Knowing and seeing the mind, ideas, mind consciousness, and mind contact as impermanent, ignorance is given up and knowledge arises. And also knowing and seeing the pleasant, painful, or neutral feeling that arises dependent on mind contact as impermanent, ignorance is given up and knowledge arises. That’s how to know and see so as to give up ignorance and give rise to knowledge.”",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa201-300/sa201_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa201-300/sa201_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时佛在舍卫国祇树给孤独园。\n时有异比丘来诣佛所，稽首佛足，退住一面，白佛言：世尊！云何知、云何见，次第疾得漏尽？\n尔时世尊告彼比丘：当正观无常。何等法无常？谓眼无常；色、眼识、眼触，及眼触因缘所生受——若苦、若乐、不苦不乐——彼亦无常。耳、鼻、舌、身、意，法、意识、意触，乃至意触因缘所生受，亦复如是。比丘！如是知、如是见，则次第尽诸有漏。\n时彼比丘闻佛所说，欢喜作礼而去。\n（省文）如为此比丘所说经，若差别者，谓：云何知、云何见，次第尽一切结，断一切缚、一切随眠、一切上烦恼、一切结、一切流、一切轭、一切取、一切触、一切盖、一切缠、一切垢、一切爱、一切意，断邪见而生正见，断无明而生明？比丘！如是观眼无常，乃至如是知、如是见，则次第无明断而明生。\n时彼比丘闻佛所说，欢喜作礼而去。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在舍卫国祇树给孤独园。\n那时，有一位比丘来到佛前，以头面礼佛足，退到一旁站立，对佛说：世尊！该怎样知、怎样见，才能渐次而迅速地灭尽诸漏？\n那时，世尊告诉那位比丘：应当如实观见无常。哪些法是无常的呢？就是说：眼是无常的；色（所见之境）、眼识、眼触，以及依眼触为缘而生起的感受——无论是苦、是乐、还是不苦不乐——也都是无常的。耳、鼻、舌、身、意，以及法、意识、意触，乃至依意触为缘而生起的感受，也都是一样。比丘！这样知、这样见，便渐次灭尽一切有漏。\n那时，那位比丘听佛所说，心生欢喜，礼佛而去。\n（以下是原典的省文指示）如同上面为这位比丘所说的经，其余各经只换所断之法，各成一经：怎样知、怎样见，才能渐次灭尽一切结，断除一切缚、一切随眠、一切上烦恼、一切结、一切流、一切轭、一切取、一切触、一切盖、一切缠、一切垢、一切爱、一切意，断邪见而生正见，断无明而生明？答皆同上：这样观眼无常，乃至这样知、这样见，便渐次断无明而生明。所列诸门之可考者：结（saṁyojana）、缚（bandhana）、随眠（anusaya）、上烦恼（upakkilesa，随烦恼）、流（āsava，即漏）、轭（yoga）、取（upādāna）、盖（nīvaraṇa，障盖）、缠（gantha，结缚）、垢（mala）、爱（taṇhā）；巴利 SN35.53–59 正为「无明、结、漏、随眠」四门各出断（pahāna）、拔（samugghāta）二式之一组，与此省文之列相摄。\n那时，那位比丘听佛所说，心生欢喜；欢喜之后，礼佛而去。",
+  "notes": "本经 SC 平行表所列平行及 `raw_aligned_data.json` 内之巴利本文、Sujato 英译，与 Anālayo 之 SA 英译（DDJBS 18, 2016, Fascicle 8）并用以厘定法义；求那跋陀罗汉本用于定位经文与传统术语。confidence=high：SC 所列 SN35.53（Avijjāpahāna）等七经之巴利本文逐句覆盖本经正文（`cakkhuṁ aniccato jānato passato avijjā pahīyati, vijjā uppajjati`）；其标 `resembling` 之故在于 SN35.53–59 本为一组语面几同之经（无明、结、漏、随眠各出「断」「拔」二式），难定一一之对，非疑法义——正与本经末段之省文列相应，故不因该标降级（沿 SA_188／189／196 之例）。信-校正二事：（一）底本正文之六六列作「謂眼無常，若色、眼識、眼觸、眼觸因緣生受」，语面以「若」字平列而因果不明；巴利于眼、色、眼识、眼触及触缘生受五支各出「如实知见其无常则无明断、明生」一句，今作「谓眼无常；色、眼识、眼触，及眼触因缘所生受……彼亦无常」以明所观之五支，不增其量。（二）末段「斷一切使」之「使」＝ anusaya（随眠）非「驱役」，沿用本项目 SA_103／116／142／198 之例，作「一切随眠」；「上烦恼」＝ upakkilesa（随烦恼），「诸流」＝ āsava／ogha（漏、流），「诸轭」＝ yoga，「诸盖」＝ nīvaraṇa，「诸缠」＝ gantha，于现代栏出其巴利名。「断诸意」一门巴利未得确对（Anālayo: all [wrong] intentions），不强解。末段为省文之摄记（一门一经），如实存为末段，不伪作各别全经。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "high",
+  "prior_review_status": "needs_revision",
+  "similarity_to_source": 0.323,
+  "paragraph_parallel": true
+}

@@ -1,0 +1,32 @@
+{
+  "id": "SA_496",
+  "uid": "sa496",
+  "title": "雜阿含經  卷第二十  舍利弗相應  （496）  靜",
+  "chinese_text": "如是我聞：\n\n一時，佛住舍衛國祇樹給孤獨園。\n\n爾時，舍利弗告諸比丘：「若諸比丘諍起相言，有犯罪比丘、舉罪比丘。彼若不依正思惟自省察者，當知彼比丘長夜強梁，諍訟轉增，共相違反，結恨彌深，於所起之罪，不能以正法、律止令休息。若比丘有此已起諍訟，若犯罪比丘、若舉罪比丘！俱依正思惟自省察尅責，當知彼比丘不長夜強梁，共相違反，結恨轉增，於所起之罪，能以法、律止令休息。\n\n「云何比丘正思惟自省察？比丘應如是思惟：『我不是、不類、不應作罪，令彼見我；若我不為此罪，彼則不見，以彼見我罪，不喜嫌責，故舉之耳。餘比丘聞者，亦當嫌責，是故長夜諍訟，強梁轉增，諍訟相言，於所起之罪，不能以正法、律止令休息，我今自知，如己輸稅。』是名比丘於所起罪能自觀察。\n\n「云何舉罪比丘能自省察？舉罪比丘應如是念：『彼長老比丘作不類罪，令我見之，若彼不作此不類罪者，我則不見。我見其罪，不喜故舉，餘比丘見，亦當不喜故舉之，長夜諍訟，轉增不息，不能以正法、律止所起罪，令其休息。我從今日，當自去之，如己輸稅。』如是舉罪比丘善能依正思惟，內自觀察。\n\n「是故，諸比丘有罪及舉罪者，當依正思惟，而自觀察，不令長夜強梁增長。諸比丘！得不諍訟，所起之諍，能以法、律止令休息。」\n\n尊者舍利弗說是經已，諸比丘聞已，歡喜奉行。",
+  "english_sa_text": "",
+  "parallels": [],
+  "primary_sn_uid": null,
+  "pali_text": "",
+  "english_sn_text": "",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa401-500/sa496_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa401-500/sa496_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛在舍卫国祇树给孤独园。\n舍利弗告诸比丘：「若诸比丘诤起相言，有犯罪比丘、举罪比丘。彼若不依正思惟自省察，当知长夜强梁，诤讼转增，共相违反，结恨弥深，于所起罪不能以正法、律止令休息。若有已起诤讼，犯罪、举罪比丘俱依正思惟自省察，当知不长夜强梁，能以法、律止所起罪令休息。」\n「云何正思惟自省察？应念：『我非、不类、不应作罪令彼见我；若我不作，彼则不见；以彼见我罪故举，余闻亦当嫌责，长夜诤讼，不能以正法止息——我今自知，如己输税。』\n举罪者亦应念：『彼作不类罪令我见，我见不喜故举；余见亦不喜故举，长夜诤讼不能以法止息——我从今日当自去之，如己输税。』\n「是故有罪及举罪者，当依正思惟内自观察，得不诤讼，所起之诤能以法、律止令休息。」\n尊者舍利弗说是经已，诸比丘闻其所说，欢喜奉行。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在舍卫国祇树给孤独园。\n舍利弗告诉比丘们：「如果比丘们争论起来互相指责，有犯罪的比丘、举罪的比丘。他们如果不依正思惟向内省察，应当知道会长夜强横，诤讼越来越多，互相违背，结恨更深，对所起的罪不能以正法、律止令休息。」\n「怎样正思惟自省察？应当想：『我不该作这种罪让人看见；如果我不作，他就看不见；因为他看见我的罪才举发，别人听见也会指责，长夜诤讼不能以正法止息——我现在自己知道，就像缴了税。』\n举罪的人也应想：『他作了不该作的罪让我看见，我看见不喜欢才举发——从今天起我自己承担，就像缴了税。』\n「所以有罪的人和举罪的人都应当依正思惟内自观察，能不诤讼，所起的诤能以法、律止令休息。」\n舍利弗尊者说完这部经，比丘们听其所说，都欢喜奉行。",
+  "notes": "SC 于本经未列可靠巴利平行，故唯以汉本为底，参同相应之巴利定型语厘义；依项目规约「无可靠平行时 confidence 降为 medium/low」，本经作 medium。义据 SN39.21 Viggāhita（诤讼自省）；标题『静』即止息诤讼，medium。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "medium",
+  "prior_review_status": "needs_revision",
+  "similarity_to_source": 0.231,
+  "paragraph_parallel": true
+}

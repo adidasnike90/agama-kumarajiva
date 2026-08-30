@@ -1,0 +1,53 @@
+{
+  "id": "SA_1087",
+  "uid": "sa1087",
+  "title": "雜阿含經  卷第四十七  魔相應  （1087）  睡眠",
+  "chinese_text": "如是我聞：\n\n一時，佛住王舍城迦蘭陀竹園。\n\n爾時，世尊夜起經行，至後夜時，洗足入室，右脇臥息，繫念明相，正念正智，作起覺想。\n\n時，魔波旬作是念：「今沙門瞿曇住王舍城迦蘭陀竹園，乃至作起覺想。我今當往，為作留難。」即化作年少，往住佛前，而說偈言：\n\n「何眠何故眠？　　已滅何復眠？\n\n　空舍何以眠，　　得出復何眠？」\n\n爾時，世尊作是念：「惡魔波旬欲作嬈亂。」即說偈言：\n\n「愛網故染著，　　無愛誰持去，\n\n　一切有餘盡，　　唯佛得安眠，\n\n　汝惡魔波旬，　　於此何所說。」\n\n時，魔波旬作是念：「沙門瞿曇已知我心。」慚愧憂慼，即沒不現。",
+  "english_sa_text": "",
+  "parallels": [
+    {
+      "uid": "sa-2.26",
+      "acronym": "SA2 26",
+      "root_lang": "lzh",
+      "original_title": "睡眠",
+      "translated_title": "Māra disturbs the Buddha’s rest",
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "sn4.7",
+      "acronym": "SN 4.7",
+      "root_lang": "pli",
+      "original_title": "Supatisutta",
+      "translated_title": "Sleep",
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    }
+  ],
+  "primary_sn_uid": "sn4.7",
+  "pali_text": "Ekaṁ samayaṁ bhagavā rājagahe viharati veḷuvane kalandakanivāpe. Atha kho bhagavā bahudevarattiṁ abbhokāse caṅkamitvā rattiyā paccūsasamayaṁ pāde pakkhāletvā vihāraṁ pavisitvā dakkhiṇena passena sīhaseyyaṁ kappesi pāde pādaṁ accādhāya sato sampajāno uṭṭhānasaññaṁ manasi karitvā. Atha kho māro pāpimā yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṁ gāthāya ajjhabhāsi: “Kiṁ soppasi kiṁ nu soppasi, Kimidaṁ soppasi dubbhago viya; Suññamagāranti soppasi, Kimidaṁ soppasi sūriye uggate”ti. “Yassa jālinī visattikā, Taṇhā natthi kuhiñci netave; Sabbūpadhiparikkhayā buddho, Soppati kiṁ tavettha mārā”ti. Atha kho māro pāpimā …pe… tatthevantaradhāyīti.",
+  "english_sn_text": "At one time the Buddha was staying near Rājagaha in the Bamboo Grove, the squirrels’ feeding ground. He spent much of the night walking mindfully in the open. At the crack of dawn he washed his feet and entered his dwelling. He laid down in the lion’s posture—on the right side, placing one foot on top of the other—mindful and aware, and focused on the time of getting up. Then Māra the Wicked went up to the Buddha and addressed him in verse: “What, you’re asleep? Really, you’re asleep? You sleep like a loser—what’s up with that? You sleep, thinking that the hut is empty. You sleep when the sun has come up—what’s up with that?” “For them there is no craving— the weaver, the clinger—to track them anywhere. With the ending of all attachments the awakened Buddha sleeps. What’s that got to do with you, Māra?” Then Māra … vanished right there.",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa1001-1100/sa1087_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa1001-1100/sa1087_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛住王舍城迦兰陀竹园。\n世尊夜经行，后夜右胁而卧，系念明相，作起觉想。\n魔讥偈：「何眠？已灭何眠？空舍何眠？日出何眠？」\n佛答：「有爱网则染；无爱谁能牵？一切取尽，佛得安眠。波旬何说？」\n魔波旬念：「沙门已知我心。」忧惭即没。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在王舍城迦兰陀竹园。\n世尊夜里经行，到后夜右侧卧休息，系念着黎明之相，保持正念正知，作「应当起」之想。\n魔讥讽说偈：「怎么还睡？已经寂灭了为什么睡？空屋里为什么睡？太阳都出来了为什么睡？」\n佛答：「有爱的罗网才会染着；没有爱，谁还能牵走他？一切取着尽了，佛才能安然睡眠。波旬，你还说什么？」\n魔波旬心想：「沙门已经知道我的心。」忧愁惭愧，随即隐没不见。",
+  "notes": "本经 SC 平行表所列平行及 `raw_aligned_data.json` 内之巴利本文、Sujato 英译并用以厘定法义；求那跋陀罗汉本用于定位经文与传统术语。据 SN4.7 Supati：无爱无取故佛得安眠；与汉「爱网／有余尽」相应。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "high",
+  "prior_review_status": "needs_revision",
+  "similarity_to_source": 0.132,
+  "paragraph_parallel": true
+}

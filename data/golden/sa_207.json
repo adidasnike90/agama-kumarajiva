@@ -1,0 +1,54 @@
+{
+  "id": "SA_207",
+  "uid": "sa207",
+  "title": "雜阿含經  卷第九  六入處相應  （207）  耆婆菴羅園",
+  "chinese_text": "如是我聞：\n\n一時，佛住毘舍離耆婆拘摩羅藥師菴羅園。\n\n爾時，世尊告諸比丘：「當修無量三摩提，精勤繫念。所以者何？修無量三摩提，精勤繫念已，則如實顯現。於何如實顯現？於眼如實顯現……」如是廣說，乃至「此諸法無常、有為，此如實顯現。」\n\n佛說此經已，諸比丘聞佛所說，歡喜奉行。",
+  "english_sa_text": "Saṁyuktāgama\n\n207. [Second Discourse at Jīvaka’s Mango Grove]\n\nThus have I heard. At one time the Buddha was staying at Vesālī in Jīvaka’s Mango Grove.\n\nAt that time the Blessed One said to the monks: “You should cultivate boundless concentration, energetically and with collected mindfulness. Why is that? Having cultivated boundless concentration, energetically and with collected mindfulness, [things] then manifest as they really are. What manifests as it really is? The eye manifests it really is … to be spoken in full up to … All these things, being impermanent and conditioned, manifest as they really are.”\n\nWhen the Buddha had spoken this discourse, hearing what the Buddha had said the monks were delighted and received it respectfully.\n\nTranslated by Bhikkhu Anālayo. Originally published in \"On the Six Sense-spheres (1) ―A Translation of Saṁyukta-āgama Discourses 188 to 229 (Fascicle 8)\", Dharma Drum Journal of Buddhist Studies, 2016, vol. 18 pp. 1–61.\n\nPrepared for SuttaCentral by Ayya Vimala.",
+  "parallels": [
+    {
+      "uid": "sn35.160",
+      "acronym": "SN 35.160",
+      "root_lang": "pli",
+      "original_title": "Jīvakambavanasamādhisutta",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "sn35.99",
+      "acronym": "SN 35.99",
+      "root_lang": "pli",
+      "original_title": "Samādhisutta",
+      "translated_title": "Concentration",
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    }
+  ],
+  "primary_sn_uid": "sn35.160",
+  "pali_text": "Ekaṁ samayaṁ bhagavā rājagahe viharati jīvakambavane. Tatra kho bhagavā bhikkhū āmantesi: “bhikkhavo”ti …pe… “samādhiṁ, bhikkhave, bhāvetha. Samāhitassa, bhikkhave, bhikkhuno yathābhūtaṁ okkhāyati. Kiñca yathābhūtaṁ okkhāyati? Cakkhuṁ aniccanti yathābhūtaṁ okkhāyati, rūpā aniccāti yathābhūtaṁ okkhāyati, cakkhuviññāṇaṁ aniccanti yathābhūtaṁ okkhāyati, cakkhusamphasso aniccoti yathābhūtaṁ okkhāyati, yampidaṁ cakkhusamphassapaccayā uppajjati vedayitaṁ sukhaṁ vā dukkhaṁ vā adukkhamasukhaṁ vā tampi aniccanti yathābhūtaṁ okkhāyati …pe… jivhā aniccāti yathābhūtaṁ okkhāyati …pe… mano aniccoti yathābhūtaṁ okkhāyati, dhammā aniccāti yathābhūtaṁ okkhāyati …pe… yampidaṁ manosamphassapaccayā uppajjati vedayitaṁ sukhaṁ vā dukkhaṁ vā adukkhamasukhaṁ vā tampi aniccanti yathābhūtaṁ okkhāyati. Samādhiṁ, bhikkhave, bhāvetha. Samāhitassa, bhikkhave, bhikkhuno yathābhūtaṁ okkhāyatī”ti. Pañcamaṁ.",
+  "english_sn_text": "At one time the Buddha was staying near Rājagaha in Jīvaka’s Mango Grove. There the Buddha addressed the mendicants: “Mendicants, develop immersion. For a mendicant with immersion, things become truly clear. And what becomes truly clear? It becomes truly clear that the eye, sights, eye consciousness, and eye contact are impermanent. And it also becomes truly clear that the painful, pleasant, or neutral feeling that arises dependent on eye contact is impermanent. It becomes truly clear that the ear … nose … tongue … body … mind, ideas, mind consciousness, and mind contact are impermanent. And it also becomes truly clear that the painful, pleasant, or neutral feeling that arises dependent on mind contact is impermanent. Mendicants, develop immersion. For a mendicant with immersion, things become truly clear.”",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa201-300/sa207_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa201-300/sa207_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时佛在毗舍离耆婆庵罗园。\n尔时世尊告诸比丘：当修无量三昧，精勤系念。何以故？修无量三昧、精勤系念已，则如实显现。何所如实显现？谓眼如实显现为无常；色、眼识、眼触，及眼触因缘所生受——若苦、若乐、不苦不乐——亦如实显现为无常。耳、鼻、舌、身、意，法、意识、意触，乃至意触因缘所生受，亦复如是。（底本此处唯作「如是广说，乃至」，今依所指之前经及巴利平行补出纲要，不演全文。）此诸法无常、有为，如是如实显现。\n佛说此经已，诸比丘闻佛所说，欢喜奉行。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在毗舍离耆婆（拘摩罗药师，王医耆婆）的庵罗（芒果）园。\n那时，世尊告诉比丘们：应当修习无量三昧，精勤地系念不散。为什么呢？因为修习无量三昧、精勤系念之后，诸法便如实显现。如实显现什么呢？就是说：眼如实显现为无常；色、眼识、眼触，以及依眼触为缘而生起的感受——无论是苦、是乐、还是不苦不乐——也都如实显现为无常。耳、鼻、舌、身、意，法、意识、意触，乃至依意触为缘所生的感受，也都是一样。（原典此处只写「如是广说，乃至」，这里依它所指的前一经 SA_206 与巴利平行SN35.99／35.160 补出纲要，不代拟全文。）这些法都是无常的、有为造作的，就这样如实显现。\n佛说完这部经，比丘们听佛所说，都欢喜奉行。",
+  "notes": "本经 SC 平行表所列平行及 `raw_aligned_data.json` 内之巴利本文、Sujato 英译，与 Anālayo 之 SA 英译（DDJBS 18, 2016, Fascicle 8）并用以厘定法义；求那跋陀罗汉本用于定位经文与传统术语。review_status=gold_reconstructed，confidence=medium：底本法说之核心仅作「於眼如實顯現……」如是廣說，乃至「此諸法無常、有為」，为交叉指示而非全文；今依其所指之前经（SA_206）及 SC 所列 SN35.99／35.160（Samādhi）之巴利本文（`samādhiṁ bhāvetha… cakkhuṁ aniccanti yathābhūtaṁ okkhāyati` 下开眼、色、眼识、眼触、触缘生受五支）补出纲要，不演全文、不补造情节，并于文言栏以括注标明补出之界。所补之量逐支有巴利可据，且所指者即前经，故不同 SA_200 之作 low，而作 medium。信-校正三事：（一）「三摩提」为 samādhi 之音译，今作「三昧」以合罗什惯语；巴利唯作 `samādhiṁ bhāvetha`（当修三昧），「无量」一语无所对（Anālayo: boundless concentration），或为 appamāṇa 之译或涉他经而衍，存之而志异。（二）「如实显现」＝ okkhāyati（明现、显了）；与前经之 pajānāti（如实知）异，见 SA_206 之注。（三）巴利此经设于王舍城耆婆庵罗园（`rājagahe… jīvakambavane`），汉本作毘舍离耆婆庵罗园，地名之异存汉本而志之。",
+  "review_status": "gold_reconstructed",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "medium",
+  "prior_review_status": "needs_revision",
+  "reconstruction_basis": "底本法说核心仅作「於眼如實顯現……」如是廣說，乃至「此諸法無常、有為」，依所指之前经 SA_206 及巴利平行 SN35.99／35.160 补出纲要，不演全文",
+  "similarity_to_source": 0.167,
+  "paragraph_parallel": true
+}

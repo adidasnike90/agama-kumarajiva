@@ -1,0 +1,57 @@
+{
+  "id": "SA_602",
+  "uid": "sa602",
+  "title": "雜阿含經  卷第二十五  天相應  （602）  伊尼延",
+  "chinese_text": "如是我聞：\n\n一時，佛住在舍衛國祇樹給孤獨園。\n\n時，有天子容色絕妙，於後夜時來詣佛所，稽首佛足，身諸光明遍照祇樹給孤獨園。\n\n時，彼天子說偈問佛：\n\n「伊尼耶鹿𨄔，　　仙人中之尊，\n\n　少食不嗜味，　　禪思樂山林，\n\n　我今敬稽首，　　而問於瞿曇，\n\n　云何出離苦？　　云何苦解脫？\n\n　我今問解脫，　　於何而滅盡？」\n\n爾時，世尊說偈答言：\n\n「世間五欲德，　　心法說第六，\n\n　於彼欲無欲，　　解脫一切苦，\n\n　如是於苦出，　　如是苦解脫，\n\n　汝所問解脫，　　於彼而滅盡。」\n\n時，彼天子復說偈言：\n\n「久見婆羅門，　　逮得般涅槃，\n\n　一切怖已過，　　永超世恩愛。」\n\n時，彼天子聞佛所說，歡喜隨喜，稽首佛足，即沒不現。",
+  "english_sa_text": "",
+  "parallels": [
+    {
+      "uid": "sa-2.177",
+      "acronym": "SA2 177",
+      "root_lang": "lzh",
+      "original_title": "伊尼延",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "sn1.30",
+      "acronym": "SN 1.30",
+      "root_lang": "pli",
+      "original_title": "Eṇijaṅghasutta",
+      "translated_title": "Antelope Calves",
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    }
+  ],
+  "primary_sn_uid": "sn1.30",
+  "pali_text": "“Eṇijaṅghaṁ kisaṁ vīraṁ, appāhāraṁ alolupaṁ; Sīhaṁvekacaraṁ nāgaṁ, kāmesu anapekkhinaṁ; Upasaṅkamma pucchāma, kathaṁ dukkhā pamuccatī”ti. “Pañca kāmaguṇā loke, manochaṭṭhā paveditā; Ettha chandaṁ virājetvā, evaṁ dukkhā pamuccatī”ti. Sattivaggo tatiyo. Tassuddānaṁ Sattiyā phusati ceva, jaṭā manonivāraṇā; Arahantena pajjoto, sarā mahaddhanena ca; Catucakkena navamaṁ, eṇijaṅghena te dasāti.",
+  "english_sn_text": "“O hero so lean, with antelope calves, not greedy, eating little, a giant, wandering alone like a lion, you’re not concerned for sensual pleasures. We’ve come to ask a question: How is one released from all suffering?” “The world has five kinds of sensual stimulation, and the mind is said to be the sixth. When you’ve discarded desire for these, you’re released from all suffering.”",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa601-700/sa602_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa601-700/sa602_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛住舍卫国祇树给孤独园。\n后夜分，有天子来诣佛所，容色绝妙，稽首礼足，退坐一面；身诸光明遍照祇园。\n天子说偈问：「伊尼耶鹿𨄔，仙人中之尊，少食不嗜味，禅思乐山林，我今敬稽首，而问于瞿昙，云何出离苦？云何苦解脱？我今问解脱，于何而灭尽？」\n世尊说偈答：「世间五欲德，心法说第六，于彼欲无欲，解脱一切苦，如是于苦出，如是苦解脱，汝所问解脱，于彼而灭尽。」\n天子说偈：「久见婆罗门，逮得般涅槃，一切怖已过，永超世恩爱。」闻已欢喜，礼足即没。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在舍卫国祇树给孤独园。\n后夜分，有一位天子，容色绝妙，来到佛前，顶礼佛足，退坐一面；身上的光明遍照祇树给孤独园。\n天子说偈问：「伊尼耶鹿𨄔，仙人中之尊，少食不嗜味，禅思乐山林，我今敬稽首，而问于瞿昙，云何出离苦？云何苦解脱？我今问解脱，于何而灭尽？」\n世尊说偈答：「世间五欲德，心法说第六，于彼欲无欲，解脱一切苦，如是于苦出，如是苦解脱，汝所问解脱，于彼而灭尽。」\n天子又说偈：「久见婆罗门，逮得般涅槃，一切怖已过，永超世恩爱。」听完欢喜随喜，顶礼佛足，随即隐没不见。",
+  "notes": "本经 SC 平行表所列平行及 `raw_aligned_data.json` 内之巴利本文、Sujato 英译并用以厘定法义；求那跋陀罗汉本用于定位经文与传统术语。confidence=high：primary SN1.30（Eṇijaṅgha，五欲／意第六）。据 SN 校正：鹿𨄔仙人问苦出；五欲及心为第六。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "high",
+  "prior_review_status": "needs_revision",
+  "similarity_to_source": 0.373,
+  "paragraph_parallel": true,
+  "quality_gate_reasons": [
+    "sim_lit=0.508>=0.5",
+    "lit_mod_gap=0.264>=0.1"
+  ]
+}

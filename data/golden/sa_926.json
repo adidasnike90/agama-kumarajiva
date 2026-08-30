@@ -1,0 +1,53 @@
+{
+  "id": "SA_926",
+  "uid": "sa926",
+  "title": "雜阿含經  卷第三十六  釋氏相應  （926）  迦旃延",
+  "chinese_text": "如是我聞：\n\n一時，佛住那梨聚落深谷精舍。\n\n爾時，世尊告詵陀迦旃延：「當修真實禪，莫習強良禪，如強良馬，繫槽櫪上，彼馬不念：『我所應作、所不應作。』但念穀草。如是，丈夫於貪欲纏多所修習故，彼以貪欲心思惟，於出離道不如實知，心常馳騁，隨貪欲纏而求正受；瞋恚、睡眠、掉悔、疑多修習故，於出離道不如實知，以疑蓋心思惟，以求正受。\n\n「詵陀！若真生馬繫槽櫪上，不念水草，但作是念：『駕乘之事。』如是，丈夫不念貪欲纏，住於出離如實知，不以貪欲纏而求正受，亦不瞋恚、睡眠、掉悔、疑纏，多住於出離；瞋恚、睡眠、掉悔、疑纏如實知，不以疑纏而求正受。\n\n「如是，詵陀！比丘如是禪者，不依地修禪，不依水、火、風、空、識、無所有、非想非非想而修禪。不依此世、不依他世，非日、月，非見、聞、覺、識，非得非求，非隨覺，非隨觀而修禪。\n\n「詵陀！比丘如是修禪者，諸天主、伊濕波羅、波闍波提恭敬合掌，稽首作禮而說偈言：\n\n「『南無大士夫，　　南無士之上，\n\n　　以我不能知，　　依何而禪定？』」\n\n爾時，有尊者跋迦利住於佛後，執扇扇佛。時，跋迦利白佛言：「世尊！若比丘云何入禪，而不依地、水、火、風，乃至覺觀，而修禪定？云何比丘禪，諸天主、伊濕波羅、波闍波提合掌恭敬，稽首作禮而說偈言：\n\n「『南無大士夫，　　南無士之上，\n\n　　以我不能知，　　依何而禪定？』」\n\n佛告跋迦利：「比丘於地想能伏地想，於水、火、風想、無量空入處想、識入處想、無所有入處、非想非非想入處想。此世他世，日、月、見、聞、覺、識，若得若求，若覺若觀，悉伏彼想。跋迦利！比丘如是禪者，不依地、水、火、風，乃至不依覺、觀而修禪。跋迦利！比丘如是禪者，諸天主、伊濕波羅、波闍波提恭敬合掌，稽首作禮而說偈言：\n\n「『南無大士夫，　　南無士之上，\n\n　　以我不能知，　　何所依而禪？』」\n\n佛說此經時，詵陀迦旃延比丘遠塵離垢，得法眼淨。跋迦利比丘不起諸漏，心得解脫。\n\n佛說此經已，跋迦利比丘聞佛所說，歡喜奉行。",
+  "english_sa_text": "",
+  "parallels": [
+    {
+      "uid": "an11.9",
+      "acronym": "AN 11.9",
+      "root_lang": "pli",
+      "original_title": "Saddhasutta",
+      "translated_title": "To Sandha",
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "sa-2.151",
+      "acronym": "SA2 151",
+      "root_lang": "lzh",
+      "original_title": "迦旃延",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    }
+  ],
+  "primary_sn_uid": null,
+  "pali_text": "",
+  "english_sn_text": "",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa901-1000/sa926_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa901-1000/sa926_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛住那梨聚落深谷精舍。\n世尊告诜陀迦旃延：「当修真实禅，莫习强梁禅。如恶马系槽，唯念水草，不念所应作；丈夫多住贪欲等盖，于出离道不如实知，以盖心思惟而求正受——是名强梁禅。\n「如良马系槽，不念水草，但念驾乘；丈夫不随五盖，于出离如实知，不以盖心求正受——是名真实禅。\n「修如是禅者，不依地水火风，不依空识无所有非想非非想，不依此世他世，非日月，非见闻觉识，非得非求，非随觉随观。\n诸天主、自在天、生主合掌作礼而说偈：『南无大士夫，南无士之上；以我不能知，依何而禅定？』」\n尊者跋迦利执扇侍后，问云何入如是禅。佛告：「于地想能伏地想，乃至水火风、四无色想，此世他世、日月见闻觉识、得求觉观，悉伏彼想——如是修禅，不依地等乃至觉观。」\n说此经时，诜陀迦旃延远尘离垢得法眼净；跋迦利不起诸漏，心得解脱。跋迦利闻已，欢喜奉行。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在那梨聚落深谷精舍。\n世尊告诉诜陀迦旃延：「应当修真实的禅，不要修强梁的禅。就像劣马拴在槽边，只想着水草，不想该做什么；人若多住在贪欲等盖里，对出离之道不如实知，用盖的心去求正受——这叫强梁禅。\n「就像良马拴在槽边，不想水草，只想驾乘的事；人若不随五盖转，对出离如实知，不用盖的心求正受——这叫真实禅。\n「这样修禅的人，不依地水火风，不依空、识、无所有、非想非非想，不依此世他世，不是日月，不是见闻觉识，不是有所得、有所求，不是随觉随观。\n诸天主、自在天、生主合掌行礼说偈：『南无大士夫，南无士之上；以我不能知，依何而禅定？』」\n尊者跋迦利在后面持扇侍候，问怎样进入这样的禅。佛说：「对地想能够降伏地想，一直到水火风、四无色想，此世他世、日月见闻觉识、得与求、觉与观，都能降伏那些想——这样修禅，就不依地等乃至觉观。」\n说这部经时，诜陀迦旃延远离尘垢得到法眼清净；跋迦利诸漏不再生起，心得解脱。跋迦利听完，欢喜奉行。",
+  "notes": "本经 SC 平行表所列平行及 `raw_aligned_data.json` 内之巴利本文、Sujato 英译并用以厘定法义；求那跋陀罗汉本用于定位经文与传统术语。confidence=high：primary AN11.9；真实禅／强梁禅（汉『强良』）；不依十八界等而修——伏想非依如来藏；『伊湿波罗／波阇波提』作自在天／生主。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "high",
+  "prior_review_status": "needs_revision",
+  "similarity_to_source": 0.168,
+  "paragraph_parallel": true
+}

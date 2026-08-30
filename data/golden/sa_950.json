@@ -1,0 +1,53 @@
+{
+  "id": "SA_950",
+  "uid": "sa950",
+  "title": "雜阿含經  卷第三十七  婆蹉外道相應  （950）  過去",
+  "chinese_text": "如是我聞：\n\n一時，佛住舍衛國祇樹給孤獨園。\n\n爾時，世尊告諸比丘：「眾生無始生死，長夜輪轉，不知苦之本際。」\n\n時，有異比丘從坐起，整衣服，為佛作禮，右膝著地，合掌白佛：「世尊！過去有幾劫？」\n\n佛告比丘：「我悉能說，汝知甚難。」\n\n比丘白佛：「可說譬不？」\n\n佛言：「可說。譬如，比丘！有士夫壽命百歲，晨朝憶念三百千劫，日中憶念三百千劫，日暮憶念三百千劫。如是日日憶念劫數，百年命終，不能憶念劫數邊際。比丘當知，過去劫數無量如是，過去無量劫數，長夜受苦，積骨成山，髓血成流，乃至地獄、畜生、餓鬼惡趣。如是，比丘！無始生死，長夜輪轉，不知苦之本際。是故，比丘！當如是學：『斷除諸有，莫令增長。』」\n\n佛說此經已，諸比丘聞佛所說，歡喜奉行。",
+  "english_sa_text": "",
+  "parallels": [
+    {
+      "uid": "sa-2.343",
+      "acronym": "SA2 343",
+      "root_lang": "lzh",
+      "original_title": "過去",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "sn15.7",
+      "acronym": "SN 15.7",
+      "root_lang": "pli",
+      "original_title": "Sāvakasutta",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    }
+  ],
+  "primary_sn_uid": "sn15.7",
+  "pali_text": "Sāvatthiyaṁ viharati. Atha kho sambahulā bhikkhū yena bhagavā …pe… ekamantaṁ nisinnā kho te bhikkhū bhagavantaṁ etadavocuṁ: “kīvabahukā nu kho, bhante, kappā abbhatītā atikkantā”ti? “Bahukā kho, bhikkhave, kappā abbhatītā atikkantā. Te na sukarā saṅkhātuṁ: ‘ettakā kappā iti vā, ettakāni kappasatāni iti vā, ettakāni kappasahassāni iti vā, ettakāni kappasatasahassāni iti vā’”ti. “Sakkā pana, bhante, upamaṁ kātun”ti? “Sakkā, bhikkhave”ti bhagavā avoca. “Idhassu, bhikkhave, cattāro sāvakā vassasatāyukā vassasatajīvino. Te divase divase kappasatasahassaṁ kappasatasahassaṁ anussareyyuṁ. Ananussaritāva, bhikkhave, tehi kappā assu, atha kho te cattāro sāvakā vassasatāyukā vassasatajīvino vassasatassa accayena kālaṁ kareyyuṁ. Evaṁ bahukā kho, bhikkhave, kappā abbhatītā atikkantā. Te na sukarā saṅkhātuṁ: ‘ettakā kappā iti vā, ettakāni kappasatāni iti vā, ettakāni kappasahassāni iti vā, ettakāni kappasatasahassāni iti vā’ti. Taṁ kissa hetu? Anamataggoyaṁ, bhikkhave, saṁsāro …pe… alaṁ vimuccitun”ti. Sattamaṁ.",
+  "english_sn_text": "At Sāvatthī. Then several mendicants went up to the Buddha … and asked him, “Sir, how many eons have passed?” “Mendicants, many eons have passed. It’s not easy to calculate how many eons have passed, how many hundreds or thousands or hundreds of thousands of eons.” “But sir, is it possible to give a simile?” “It’s possible,” said the Buddha. “Suppose there were four disciples with a lifespan of a hundred years. And each day they would each recollect a hundred thousand eons. Those four disciples would pass away after a hundred years and there would still be eons that they haven’t recollected. That’s how many eons have passed. It’s not easy to calculate how many eons have passed, how many hundreds or thousands or hundreds of thousands of eons. Why is that? This transmigration has no known beginning. … This is quite enough for you to become disillusioned, dispassionate, and freed regarding all conditions.”",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa901-1000/sa950_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa901-1000/sa950_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛住舍卫国祇树给孤独园。\n尔时世尊告诸比丘：「众生无始生死，无明所盖，爱系其颈，长夜轮转，不知苦之本际。」时有异比丘问：「过去有几劫？」佛言：「甚多难知。」「可说譬不？」「可说。譬如有四弟子，寿命百岁；日日各忆念十万劫。如是百年命终，所忆犹不尽过去劫数边际。过去无量劫中，长夜受苦，积骨成山，髓血成流，及堕三恶趣。是故当如是学：『当勤精进，断除诸有，莫令增长。』」\n佛说此经已，诸比丘闻佛所说，欢喜奉行。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在舍卫国祇树给孤独园。\n那时世尊告诉比丘们：「众生无始以来生死，被无明覆盖、爱结系住脖子，长夜轮转，不知苦的本际。」当时有一位比丘问：「过去有多少劫？」佛说：「非常多，很难了知。」「可以打个比方吗？」「可以。好比有四位弟子，寿命一百岁；每天各自忆念十万劫。这样到百年命终，所忆念的还不能穷尽过去劫数的边际。在过去无量劫中，长夜受苦，积骨成山，髓血成流，以及堕三恶趣。所以应当这样学：『应当勤加精进，断除诸有，不要让它增长。』」\n佛说完这部经，比丘们听佛所说，都欢喜奉行。",
+  "notes": "本经 SC 平行表所列平行及 `raw_aligned_data.json` 内之巴利本文、Sujato 英译并用以厘定法义；求那跋陀罗汉本用于定位经文与传统术语。confidence=high：primary SN15.7；据巴利四弟子日日各忆十万劫（汉「一人晨午暮各三十万」校正）。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "high",
+  "prior_review_status": "needs_revision",
+  "similarity_to_source": 0.21,
+  "paragraph_parallel": true
+}

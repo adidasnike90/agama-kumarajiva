@@ -1,0 +1,53 @@
+{
+  "id": "SA_845",
+  "uid": "sa845",
+  "title": "雜阿含經  卷第三十二  學相應  （845）  恐怖",
+  "chinese_text": "如是我聞：\n\n一時，佛住舍衛國祇樹給孤獨園。\n\n爾時，世尊告諸比丘：「若比丘於五恐怖怨對休息，三事決定，不生疑惑，如實知見賢聖正道，彼聖弟子能自記說：『地獄、畜生、餓鬼惡趣已盡，得須陀洹，不墮惡趣法，決定正向三菩提，七有天人往生，究竟苦邊。』\n\n「何等為五恐怖怨對休息？若殺生因緣罪怨對恐怖生，若離殺生者，彼殺生罪怨對因緣生恐怖休息。若偷盜、邪婬、妄語、飲酒罪怨對因緣生恐怖；彼若離偷盜、邪婬、妄語、飲酒罪怨對者，因緣恐怖休息，是名罪怨對因緣生五恐怖休息。\n\n「何等為三事決定，不生疑惑？謂於佛決定離於疑惑，於法、僧決定離疑惑，是名三法決定離疑惑。\n\n「何等名為聖道如實知見？謂此苦聖諦如實知，此苦集聖諦、此苦滅聖諦、此苦滅道跡聖諦如實知，是名聖道如實知見。\n\n「若於此五恐怖罪怨對休息、於三法決定離疑惑、於聖意如實知見，是聖弟子能自記說：『我地獄盡，畜生、餓鬼惡趣盡，得須陀洹，不墮惡趣法，決定正趣三菩提，七有天人往生，究竟苦邊。』」\n\n佛說此經已，諸比丘聞佛所說，歡喜奉行。",
+  "english_sa_text": "",
+  "parallels": [
+    {
+      "uid": "an9.28",
+      "acronym": "AN 9.28",
+      "root_lang": "pli",
+      "original_title": "Dutiyaverasutta",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "sn55.29",
+      "acronym": "SN 55.29",
+      "root_lang": "pli",
+      "original_title": "Dutiyabhayaverūpasantasutta",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    }
+  ],
+  "primary_sn_uid": "sn55.29",
+  "pali_text": "Sāvatthinidānaṁ …pe… “yato kho, bhikkhave, ariyasāvakassa imāni pañca bhayāni verāni vūpasantāni honti, imehi catūhi sotāpattiyaṅgehi samannāgato hoti, ayañcassa ariyo ñāyo paññāya sudiṭṭho hoti suppaṭividdho; so ākaṅkhamāno attanāva attānaṁ byākareyya: ‘khīṇanirayomhi khīṇatiracchānayoni khīṇapettivisayo khīṇāpāyaduggativinipāto; sotāpannohamasmi avinipātadhammo niyato sambodhiparāyaṇo’”ti. Navamaṁ.",
+  "english_sn_text": "At Sāvatthī. … “Mendicants, when a noble disciple has quelled five fears and enmities, possesses the four factors of stream-entry, and has clearly seen and penetrated the noble system with wisdom, they may, if they wish, declare of themselves: ‘I’ve finished with rebirth in hell, the animal realm, and the ghost realm. I’ve finished with all places of loss, bad places, the underworld. I am a stream-enterer! I’m not liable to be reborn in the underworld, and am assured, destined for awakening.’”",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa801-900/sa845_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa801-900/sa845_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛住舍卫国祇树给孤独园。\n尔时世尊告诸比丘：「圣弟子五恐怖怨对已息，成就四入流分，于圣理以慧善见善透——若欲自记，则能自记：『地狱、畜生、饿鬼恶趣已尽，得须陀洹，不堕恶趣，决定正向正觉，极七有天人往来，究竟苦边。』\n何等五恐怖怨对息？杀生因缘生怖怨；离杀生则息。不与取、邪淫、妄语、饮酒因缘生怖怨；离则息——是名五恐怖怨对息。\n何等四入流分？谓于佛不坏净、于法不坏净、于僧不坏净、圣戒成就。\n何等圣理如实证知？谓苦圣谛、苦集、苦灭、苦灭道迹如实知——是名于圣理如实证知。」\n佛说此经已，诸比丘闻佛所说，欢喜奉行。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在舍卫国祇树给孤独园。\n那时世尊告诉比丘们：「圣弟子五种恐怖怨对已经平息，成就四入流分，对圣理以智慧善见、善透——如果想自己记说，就能自己记说：『地狱、畜生、饿鬼恶趣已尽，得须陀洹，不堕恶趣，决定正向正觉，最多七次天人往来，究竟苦边。』\n哪五种恐怖怨对平息？因杀生而生怖畏怨对；离杀生就平息。因不与取、邪淫、妄语、饮酒而生怖畏怨对；远离就平息——这叫五种恐怖怨对平息。\n哪四种入流分？就是于佛不坏净、于法不坏净、于僧不坏净、以及圣戒成就。\n什么是对圣理如实证知？就是苦圣谛、苦集、苦灭、苦灭道迹如实知道——这叫对圣理如实证知。」\n佛说完这部经，比丘们听佛所说，都欢喜奉行。",
+  "notes": "本经 SC 平行表所列平行及 `raw_aligned_data.json` 内之巴利本文、Sujato 英译并用以厘定法义；求那跋陀罗汉本用于定位经文与传统术语。confidence=high：SN55.29／AN9.28；据 SN：汉「三事决定」→四入流分（补圣戒）；ariyo ñāyo 汉作四谛，保留（SN55.28 或作缘起，本经从汉四谛门）。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "high",
+  "prior_review_status": "needs_revision",
+  "similarity_to_source": 0.124,
+  "paragraph_parallel": true
+}

@@ -1,0 +1,93 @@
+{
+  "id": "SA_311",
+  "uid": "sa311",
+  "title": "雜阿含經  卷第十二  因緣相應  （311）  富樓那",
+  "chinese_text": "如是我聞：\n\n一時，佛住舍衛國祇樹給孤獨園。\n\n爾時，尊者富樓那來詣佛所，稽首禮足，退住一面，白佛言：「善哉！世尊！為我說法，我坐獨一靜處，專精思惟，不放逸住，乃至自知不受後有。」\n\n佛告富樓那：「善哉！善哉！能問如來如是之義。諦聽，善思，當為汝說。若有比丘！眼見可愛、可樂、可念、可意，長養欲之色；見已欣悅、讚歎、繫著，欣悅、讚歎、繫著已歡喜，歡喜已樂著，樂著已貪愛，貪愛已阨礙。歡喜、樂著、貪愛、阨礙故，去涅槃遠。耳、鼻、舌、身、意亦如是說。\n\n「富樓那！若比丘，眼見可愛、樂、可念、可意，長養欲之色；見已不欣悅、不讚歎、不繫著，不欣悅、不讚歎、不繫著故不歡喜，不歡喜故不深樂，不深樂故不貪愛，不貪愛故不阨礙。不歡喜、不深樂、不貪愛、不阨礙故，漸近涅槃。耳、鼻、舌、身、意亦如是說。」\n\n佛告富樓那：「我已略說法教，汝欲何所住？」\n\n富樓那白佛言：「世尊！我已蒙世尊略說教誡，我欲於西方輸盧那人間遊行。」\n\n佛告富樓那：「西方輸盧那人兇惡、輕躁、弊暴、好罵。富樓那！汝若聞彼兇惡、輕躁、弊暴、好罵、毀辱者，當如之何？」\n\n富樓那白佛言：「世尊！若彼西方輸盧那國人，面前兇惡、訶罵、毀辱者。我作是念：『彼西方輸盧那人賢善智慧，雖於我前兇惡、弊暴、罵、毀辱我，猶尚不以手、石而見打擲。』」\n\n佛告富樓那：「彼西方輸盧那人但兇惡、輕躁、弊暴、罵辱，於汝則可脫，復當以手、石打擲者，當如之何？」\n\n富樓那白佛言：「世尊！西方輸盧那人脫以手、石加於我者，我當念言：『輸盧那人賢善智慧，雖以手、石加我，而不用刀杖。』」\n\n佛告富樓那：「若當彼人脫以刀杖而加汝者，復當云何？」\n\n富樓那白佛言：「世尊！若當彼人脫以刀杖，而加我者，當作是念：『彼輸盧那人賢善智慧，雖以刀杖而加於我，而不見殺。』」\n\n佛告富樓那：「假使彼人脫殺汝者，當如之何？」\n\n富樓那白佛言：「世尊！若西方輸盧那人脫殺我者，當作是念：『有諸世尊弟子，當厭患身，或以刀自殺，或服毒藥，或以繩自繫，或投深坑；彼西方輸盧那人賢善智慧，於我朽敗之身，以少作方便，便得解脫。』」\n\n佛言：「善哉！富樓那！汝善學忍辱，汝今堪能於輸盧那人間住止，汝今宜去度於未度，安於未安，未涅槃者令得涅槃。」\n\n爾時，富樓那聞佛所說，歡喜隨喜，作禮而去。\n\n爾時，尊者富樓那夜過晨朝，著衣持鉢，入舍衛城乞食，食已還出，付囑臥具，持衣鉢去，至西方輸盧那人間遊行。到已，夏安居，為五百優婆塞說法，建立五百僧伽藍，繩床、臥褥、供養眾具悉皆備足。三月過已，具足三明，即於彼處入無餘涅槃。",
+  "english_sa_text": "",
+  "parallels": [
+    {
+      "uid": "d1",
+      "acronym": "Other Tibetan 1",
+      "root_lang": "xct",
+      "original_title": "འདུལ་བ་གཞི།  (Vinaya-vastu)",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "divy2",
+      "acronym": "Divy 2",
+      "root_lang": "san",
+      "original_title": "Pūrṇāvadānam",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "mn145",
+      "acronym": "MN 145",
+      "root_lang": "pli",
+      "original_title": "Puṇṇovādasutta",
+      "translated_title": "Advice to Puṇṇa",
+      "type": "full",
+      "resembling": false,
+      "remark": "Akanuma p. 171 lists SA 215 at T ii 54b as a further parallel. However, SA 215 corresponds to only the first section of MN 145. We follow Yin Shun 1983 vol. i pp. 263–264 in identifying SA 215 as rather a parallel to SN 35.70, which it matches closely though disagreeing over the bhikkhu’s name: Punna in SA 215, Upavana in SN 35.70.  "
+    },
+    {
+      "uid": "sn35.88",
+      "acronym": "SN 35.88",
+      "root_lang": "pli",
+      "original_title": "Puṇṇasutta",
+      "translated_title": "Puṇṇa",
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "t108",
+      "acronym": "T 108",
+      "root_lang": "lzh",
+      "original_title": "佛說滿願子",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "t1448.3",
+      "acronym": "T 1448.3",
+      "root_lang": "lzh",
+      "original_title": "根本說一切有部毘奈耶: 藥事",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    }
+  ],
+  "primary_sn_uid": "sn35.88",
+  "pali_text": "Atha kho āyasmā puṇṇo yena bhagavā tenupasaṅkami; upasaṅkamitvā …pe… ekamantaṁ nisinno kho āyasmā puṇṇo bhagavantaṁ etadavoca: “sādhu me, bhante, bhagavā saṅkhittena dhammaṁ desetu, yamahaṁ bhagavato dhammaṁ sutvā eko vūpakaṭṭho appamatto ātāpī pahitatto vihareyyan”ti. “Santi kho, puṇṇa, cakkhuviññeyyā rūpā iṭṭhā kantā manāpā piyarūpā kāmūpasaṁhitā rajanīyā. Tañce bhikkhu abhinandati abhivadati ajjhosāya tiṭṭhati. Tassa taṁ abhinandato abhivadato ajjhosāya tiṭṭhato uppajjati nandī. ‘Nandisamudayā dukkhasamudayo, puṇṇā’ti vadāmi …pe… santi kho, puṇṇa, jivhāviññeyyā rasā …pe… santi kho, puṇṇa, manoviññeyyā dhammā iṭṭhā kantā manāpā piyarūpā kāmūpasaṁhitā rajanīyā. Tañce bhikkhu abhinandati abhivadati ajjhosāya tiṭṭhati. Tassa taṁ abhinandato abhivadato ajjhosāya tiṭṭhato uppajjati nandī. ‘Nandisamudayā dukkhasamudayo, puṇṇā’ti vadāmi. Santi kho, puṇṇa, cakkhuviññeyyā rūpā iṭṭhā kantā manāpā piyarūpā kāmūpasaṁhitā rajanīyā. Tañce bhikkhu nābhinandati nābhivadati nājjhosāya tiṭṭhati, tassa taṁ anabhinandato anabhivadato anajjhosāya tiṭṭhato nirujjhati nandī. ‘Nandinirodhā dukkhanirodho, puṇṇā’ti vadāmi …pe… santi kho, puṇṇa, manoviññeyyā dhammā iṭṭhā kantā manāpā piyarūpā kāmūpasaṁhitā rajanīyā. Tañce bhikkhu nābhinandati nābhivadati nājjhosāya tiṭṭhati, tassa taṁ anabhinandato anabhivadato anajjhosāya tiṭṭhato nirujjhati nandī. ‘Nandinirodhā dukkhanirodho, puṇṇā’ti vadāmi. Iminā tvaṁ, puṇṇa, mayā saṅkhittena ovādena ovadito katamasmiṁ janapade viharissasī”ti? “Atthi, bhante, sunāparanto nāma janapado, tatthāhaṁ viharissāmī”ti. “Caṇḍā kho, puṇṇa, sunāparantakā manussā; pharusā kho, puṇṇa, sunāparantakā manussā. Sace taṁ, puṇṇa, sunāparantakā manussā akkosissanti paribhāsissanti, tatra te, puṇṇa, kinti bhavissatī”ti? “Sace maṁ, bhante, sunāparantakā manussā akkosissanti paribhāsissanti, tatra me evaṁ bhavissati: ‘bhaddakā vatime sunāparantakā manussā, subhaddakā vatime sunāparantakā manussā, yaṁ me nayime pāṇinā pahāraṁ dentī’ti. Evamettha, bhagavā, bhavissati; evamettha, sugata, bhavissatī”ti. “Sace pana te, puṇṇa, sunāparantakā manussā pāṇinā pahāraṁ dassanti, tatra pana te, puṇṇa, kinti bhavissatī”ti? “Sace me, bhante, sunāparantakā manussā pāṇinā pahāraṁ dassanti, tatra me evaṁ bhavissati: ‘bhaddakā vatime sunāparantakā manussā, subhaddakā vatime sunāparantakā manussā, yaṁ me nayime leḍḍunā pahāraṁ dentī’ti. Evamettha, bhagavā, bhavissati; evamettha, sugata, bhavissatī”ti. “Sace pana te, puṇṇa, sunāparantakā manussā leḍḍunā pahāraṁ dassanti, tatra pana te, puṇṇa, kinti bhavissatī”ti? “Sace me, bhante, sunāparantakā manussā leḍḍunā pahāraṁ dassanti, tatra me evaṁ bhavissati: ‘bhaddakā vatime sunāparantakā manussā, subhaddakā vatime sunāparantakā manussā, yaṁ me nayime daṇḍena pahāraṁ dentī’ti. Evamettha, bhagavā, bhavissati; evamettha, sugata, bhavissatī”ti. “Sace pana puṇṇa, sunāparantakā manussā daṇḍena pahāraṁ dassanti, tatra pana te, puṇṇa, kinti bhavissatī”ti? “Sace me, bhante, sunāparantakā manussā daṇḍena pahāraṁ dassanti, tatra me evaṁ bhavissati: ‘bhaddakā vatime sunāparantakā manussā, subhaddakā vatime sunāparantakā manussā, yaṁ me nayime satthena pahāraṁ dentī’ti. Evamettha, bhagavā, bhavissati; evamettha, sugata, bhavissatī”ti. “Sace pana te, puṇṇa, sunāparantakā manussā satthena pahāraṁ dassanti, tatra pana te, puṇṇa, kinti bhavissatī”ti? “Sace me, bhante, sunāparantakā manussā satthena pahāraṁ dassanti, tatra me evaṁ bhavissati: ‘bhaddakā vatime sunāparantakā manussā, subhaddakā vatime sunāparantakā manussā, yaṁ maṁ nayime tiṇhena satthena jīvitā voropentī’ti. Evamettha, bhagavā, bhavissati; evamettha, sugata, bhavissatī”ti. “Sace pana taṁ, puṇṇa, sunāparantakā manussā tiṇhena satthena jīvitā voropessanti, tatra pana te, puṇṇa, kinti bhavissatī”ti? “Sace maṁ, bhante, sunāparantakā manussā tiṇhena satthena jīvitā voropessanti, tatra me evaṁ bhavissati: ‘santi kho tassa bhagavato sāvakā kāyena ca jīvitena ca aṭṭīyamānā harāyamānā jigucchamānā satthahārakaṁ pariyesanti, taṁ me idaṁ apariyiṭṭhaññeva satthahārakaṁ laddhan’ti. Evamettha, bhagavā, bhavissati; evamettha, sugata, bhavissatī”ti. “Sādhu sādhu, puṇṇa. Sakkhissasi kho tvaṁ, puṇṇa, iminā damūpasamena samannāgato sunāparantasmiṁ janapade vatthuṁ. Yassadāni tvaṁ, puṇṇa, kālaṁ maññasī”ti. Atha kho āyasmā puṇṇo bhagavato vacanaṁ abhinanditvā anumoditvā uṭṭhāyāsanā bhagavantaṁ abhivādetvā padakkhiṇaṁ katvā senāsanaṁ saṁsāmetvā pattacīvaramādāya yena sunāparanto janapado tena cārikaṁ pakkāmi. Anupubbena cārikaṁ caramāno yena sunāparanto janapado tadavasari. Tatra sudaṁ āyasmā puṇṇo sunāparantasmiṁ janapade viharati. Atha kho āyasmā puṇṇo tenevantaravassena pañcamattāni upāsakasatāni paṭivedesi. Tenevantaravassena pañcamattāni upāsikāsatāni paṭivedesi. Tenevantaravassena tisso vijjā sacchākāsi. Tenevantaravassena parinibbāyi. Atha kho sambahulā bhikkhū yena bhagavā tenupasaṅkamiṁsu …pe… ekamantaṁ nisinnā kho te bhikkhū bhagavantaṁ etadavocuṁ: “yo so, bhante, puṇṇo nāma kulaputto bhagavatā saṅkhittena ovādena ovadito, so kālaṅkato. Tassa kā gati ko abhisamparāyo”ti? “Paṇḍito, bhikkhave, puṇṇo kulaputto, paccapādi dhammassānudhammaṁ, na ca maṁ dhammādhikaraṇaṁ vihesesi. Parinibbuto, bhikkhave, puṇṇo kulaputto”ti. Pañcamaṁ.",
+  "english_sn_text": "And then Venerable Puṇṇa went up to the Buddha, bowed, sat down to one side, and said to him: “Sir, may the Buddha please teach me Dhamma in brief. When I’ve heard it, I’ll live alone, withdrawn, diligent, keen, and resolute.” “Puṇṇa, there are sights known by the eye, which are likable, desirable, agreeable, pleasant, sensual, and arousing. If a mendicant approves, welcomes, and keeps clinging to them, this gives rise to relishing. Relishing is the origin of suffering, I say. There are sounds … smells … tastes … touches … There are ideas known by the mind, which are likable, desirable, agreeable, pleasant, sensual, and arousing. If a mendicant approves, welcomes, and keeps clinging to them, this gives rise to relishing. Relishing is the origin of suffering, I say. There are sights known by the eye, which are likable, desirable, agreeable, pleasant, sensual, and arousing. If a mendicant doesn’t approve, welcome, and keep clinging to them, relishing ceases. When relishing ceases, suffering ceases, I say. … There are ideas known by the mind, which are likable, desirable, agreeable, pleasant, sensual, and arousing. If a mendicant doesn’t approve, welcome, and keep clinging to them, relishing ceases. When relishing ceases, suffering ceases, I say. Puṇṇa, now that I’ve given you this brief advice, what country will you live in?” “Sir, there’s a country named Sunāparanta; I will live there.” “The people of Sunāparanta are wild and rough, Puṇṇa. If they abuse and insult you, what will you think of them?” “If they abuse and insult me, I will think: ‘These people of Sunāparanta are gracious, truly gracious, since they don’t hit me with their fists.’ That’s what I’ll think, Blessed One. That’s what I’ll think, Holy One.” “But if they do hit you with their fists, what will you think of them then?” “If they hit me with their fists, I’ll think: ‘These people of Sunāparanta are gracious, truly gracious, since they don’t throw stones at me.’ That’s what I’ll think, Blessed One. That’s what I’ll think, Holy One.” “But if they do throw stones at you, what will you think of them then?” “If they throw stones at me, I’ll think: ‘These people of Sunāparanta are gracious, truly gracious, since they don’t beat me with a club.’ That’s what I’ll think, Blessed One. That’s what I’ll think, Holy One.” “But if they do beat you with a club, what will you think of them then?” “If they beat me with a club, I’ll think: ‘These people of Sunāparanta are gracious, truly gracious, since they don’t stab me with a knife.’ That’s what I’ll think, Blessed One. That’s what I’ll think, Holy One.” “But if they do stab you with a knife, what will you think of them then?” “If they stab me with a knife, I’ll think: ‘These people of Sunāparanta are gracious, truly gracious, since they don’t take my life with a sharp knife.’ That’s what I’ll think, Blessed One. That’s what I’ll think, Holy One.” “But if they do take your life with a sharp knife, what will you think of them then?” “If they take my life with a sharp knife, I’ll think: ‘There are disciples of the Buddha who looked for a suicide weapon because they were horrified, repelled, and disgusted with the body and with life. And I have found this without looking!’ That’s what I’ll think, Blessed One. That’s what I’ll think, Holy One.” “Good, good Puṇṇa! Having such self-control and peacefulness, you will be quite capable of living in Sunāparanta. Now, Puṇṇa, go at your convenience.” And then Puṇṇa welcomed and agreed with the Buddha’s words. He got up from his seat, bowed and respectfully circled the Buddha, keeping him on his right. Then he set his lodgings in order and, taking his bowl and robe, set out for Sunāparanta. Traveling stage by stage, he arrived at Sunāparanta, and stayed there. Within that rainy season he confirmed around five hundred male and five hundred female lay followers. And within that same rainy season he realized the three knowledges. And within that same rainy season he became fully extinguished. Then several mendicants went up to the Buddha … and asked him, “Sir, the gentleman named Puṇṇa, who was advised in brief by the Buddha, has passed away. Where has he been reborn in his next life?” “Mendicants, Puṇṇa was astute. He practiced in line with the teaching, and did not trouble me about the teachings. Puṇṇa has become completely quenched.”",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa301-400/sa311_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa301-400/sa311_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛在舍卫国祇树给孤独园。\n尔时，尊者富楼那来诣佛所，稽首礼足，退住一面，白佛言：「善哉！世尊！愿为我略说法要。我闻法已，当独一静处，专精思惟，不放逸住，乃至自知不受后有。」\n佛告富楼那：「善哉！谛听，当为汝说。眼所知色，可爱、可乐、可意、长养欲；若比丘于彼欣悦、称叹、染著而住，则生耽喜。我说：耽喜集故，苦集。耳声、鼻香、舌味、身触、意法，亦复如是——欣悦、称叹、染著，则生耽喜；耽喜集故，苦集。」\n「若于眼所知色，不欣悦、不称叹、不染著，则耽喜息；耽喜息故，苦息。耳、鼻、舌、身、意亦复如是。富楼那！我已略说教诫，汝欲止何处？」\n富楼那白佛：「世尊！我欲往西方输卢那人间游行。」\n佛告富楼那：「输卢那人凶恶轻躁、粗暴好骂。汝若闻彼毁辱，当如之何？」答言：「当作是念：『彼人贤善有智——虽骂辱我，犹不以拳石打掷。』」\n「若以拳石打掷，当如之何？」「当作是念：『犹不以刀杖加我。』」\n「若以刀杖加汝，当如之何？」「当作是念：『犹不见杀。』」\n「假使杀汝，当如之何？」「当作是念：『有诸世尊弟子，厌患此身，求自害之具；今彼人以少方便，令我朽败之身得脱——彼实贤善有智。』」\n佛言：「善哉！富楼那！汝善修忍，堪于输卢那人间止住。宜往度未度、安未安，未得涅槃者令得涅槃。」\n富楼那闻法欢喜，作礼而去。晨朝著衣持钵，入舍卫城乞食；食已还，付嘱卧具，持衣钵往输卢那。夏安居中，为五百优婆塞说法，立五百僧伽蓝，衣卧供具悉备。三月过已，具足三明，于彼处入无余涅槃。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在舍卫国祇树给孤独园。\n那时，富楼那尊者来见佛，稽首礼足，退住一面，对佛说：「善哉！世尊！愿为我略说法要。我听法后，要独自静处，专精思惟，不放逸而住，直到自知不受后有。」\n佛告诉富楼那：「善哉！谛听，当为你说。眼所知的色，可爱、可乐、可意、长养欲；若比丘对它们欣悦、称叹、染著而住，就会生起耽喜。我说：耽喜集，苦就集。耳声、鼻香、舌味、身触、意法也是一样——欣悦、称叹、染著，则生耽喜；耽喜集故，苦集。」\n「若对眼所知色不欣悦、不称叹、不染著，则耽喜息；耽喜息故，苦息。耳、鼻、舌、身、意也是一样。富楼那！我已略说教诫，你想住在哪里？」\n富楼那白佛：「世尊！我想去西方输卢那人间游行。」\n佛说：「输卢那人凶恶轻躁、粗暴好骂。你若听他们毁辱，当怎么办？」答：「当作念：『这些人贤善有智——虽骂辱我，还不用拳石打我。』」\n「若用拳石打你呢？」「当作念：『还没用刀杖加我。』」\n「若用刀杖加你呢？」「当作念：『还不至于杀我。』」\n「假使杀你呢？」「当作念：『有世尊弟子厌患此身，另求自害之具；今这些人用很少的方便，就让我这朽败之身得脱——他们实在贤善有智。』」\n佛说：「善哉！富楼那！你善修忍辱，堪能住在输卢那人间。宜去度未度、安未安，未得涅槃者令得涅槃。」\n富楼那闻法欢喜，礼佛而去。晨朝著衣持钵，入舍卫城乞食；食已回来，付嘱卧具，持衣钵往输卢那。夏安居中为五百优婆塞说法，建立五百僧伽蓝，衣卧供具都备齐。三月过后，具足三明，就在那里入无余涅槃。",
+  "notes": "本经 SC 平行表所列平行及 `raw_aligned_data.json` 内之巴利本文、Sujato 英译并用以厘定法义；求那跋陀罗汉本用于定位经文与传统术语。confidence=high：SN35.88（Puṇṇa）／MN145 为 `full` 平行。信-校正：底本「欢喜→乐着→贪爱→阨碍→去涅槃远」链，巴利作 abhinandati/abhivadati/ajjhosāya → nandī → dukkhasamudaya（耽喜集故苦集）；今据 Pāli／Sujato 作「耽喜集故，苦集／耽喜息故，苦息」。输卢那忍辱递进问答及安居度众、三明入灭，汉巴同构。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "high",
+  "prior_review_status": "needs_revision",
+  "similarity_to_source": 0.144,
+  "paragraph_parallel": true
+}

@@ -1,0 +1,33 @@
+{
+  "id": "SA_555",
+  "uid": "sa555",
+  "title": "雜阿含經  卷第二十三  大迦旃延相應  （555）  訶梨",
+  "chinese_text": "如是我聞：\n\n一時，佛住舍衛國祇樹給孤獨園。爾時，尊者摩訶迦旃延於釋氏訶梨聚落住。\n\n時，有八城長者名曰陀施，身遭病苦。尊者摩訶迦旃延聞陀施長者身遭苦患，晨朝著衣持鉢，入八城乞食，次到陀施長者舍，如訶梨長者經廣說。",
+  "english_sa_text": "",
+  "parallels": [],
+  "primary_sn_uid": null,
+  "pali_text": "",
+  "english_sn_text": "",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa501-600/sa555_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa501-600/sa555_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛住舍卫国祇树给孤独园。尔时，尊者摩诃迦旃延住释氏诃梨聚落。\n有八城长者陀施，身遭重病。迦旃延闻已，晨朝著衣持钵入城乞食，次至其舍——问讯、三譬、四不坏净、六念、自记阿那含等，悉如诃梨长者经所说。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在舍卫国祇树给孤独园。那时，摩诃迦旃延尊者住在释氏诃梨聚落。\n当时，有一位八城的长者名叫陀施，身遭病苦。迦旃延听说陀施长者身遭苦患，早晨著衣持钵，入八城乞食，依次到陀施长者舍，如同诃梨长者经广说。",
+  "notes": "SC 于本经未列可靠巴利平行，故唯以汉本为底，参同相应之巴利定型语厘义；依项目规约「无可靠平行时 confidence 降为 medium/low」。底本为交叉指示，指向 SA554 诃梨长者病访；gold_reconstructed 保留指示句。confidence=low。",
+  "review_status": "gold_reconstructed",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "low",
+  "prior_review_status": "needs_revision",
+  "reconstruction_basis": "cross-reference to SA_554 (诃梨长者病访 peyyāla)",
+  "similarity_to_source": 0.218,
+  "paragraph_parallel": true
+}

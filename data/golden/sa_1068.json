@@ -1,0 +1,53 @@
+{
+  "id": "SA_1068",
+  "uid": "sa1068",
+  "title": "雜阿含經  卷第四十五  比丘相應  （1068）  窒師",
+  "chinese_text": "如是我聞：\n\n一時，佛在舍衛國祇樹給孤獨園。\n\n爾時，尊者低沙自念，我是世尊姑子兄弟故，不修恭敬，無所顧錄，亦不畏懼，不堪諫止。\n\n時，有眾多比丘往詣佛所，稽首佛足，退坐一面，白佛言：「世尊！尊者低沙自念是世尊姑子兄弟故，不修恭敬，無所顧錄，亦不畏懼，不堪諫止。」\n\n爾時，世尊告一比丘：「汝往詣低沙比丘所，語言：『低沙！大師語汝！』」\n\n時，彼比丘受世尊教，往語低沙比丘言：「世尊語汝！」\n\n低沙比丘即詣佛所，稽首佛足，退住一面。\n\n佛告低沙：「汝實作是念：『我是世尊姑子兄弟，不修恭敬，無所顧錄，亦不畏懼，不堪忍諫。』不？」\n\n低沙白佛：「實爾。世尊！」\n\n佛告低沙：「汝不應爾！汝應念言：『我是世尊姑子兄弟故，應修恭敬畏懼，堪忍諫止。』」爾時，世尊即說偈言：\n\n「善哉汝低沙，　　離瞋恚為善，\n\n　莫生瞋恚心，　　瞋恚者非善。\n\n　若能離瞋慢，　　修行軟下心，\n\n　然後於我所，　　修行於梵行。」\n\n佛說此經已，低沙比丘聞佛所說，歡喜隨喜，作禮而去。",
+  "english_sa_text": "",
+  "parallels": [
+    {
+      "uid": "sa-2.7",
+      "acronym": "SA2 7",
+      "root_lang": "lzh",
+      "original_title": "窒師",
+      "translated_title": "Tissa is reproached",
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "sn21.9",
+      "acronym": "SN 21.9",
+      "root_lang": "pli",
+      "original_title": "Tissasutta",
+      "translated_title": "Tissa",
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    }
+  ],
+  "primary_sn_uid": "sn21.9",
+  "pali_text": "Sāvatthiyaṁ viharati. Atha kho āyasmā tisso bhagavato pitucchāputto yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṁ abhivādetvā ekamantaṁ nisīdi dukkhī dummano assūni pavattayamāno. Atha kho bhagavā āyasmantaṁ tissaṁ etadavoca: “kiṁ nu kho tvaṁ, tissa, ekamantaṁ nisinno dukkhī dummano assūni pavattayamāno”ti? “Tathā hi pana maṁ, bhante, bhikkhū samantā vācāyasannitodakena sañjambharimakaṁsū”ti. “Tathāhi pana tvaṁ, tissa, vattā no ca vacanakkhamo; na kho te taṁ, tissa, patirūpaṁ kulaputtassa saddhā agārasmā anagāriyaṁ pabbajitassa, yaṁ tvaṁ vattā no ca vacanakkhamo. Etaṁ kho te, tissa, patirūpaṁ kulaputtassa saddhā agārasmā anagāriyaṁ pabbajitassa: ‘yaṁ tvaṁ vattā ca assa vacanakkhamo cā’”ti. Idamavoca bhagavā. Idaṁ vatvāna sugato athāparaṁ etadavoca satthā: “Kiṁ nu kujjhasi mā kujjhi, Akkodho tissa te varaṁ; Kodhamānamakkhavinayatthañhi, Tissa brahmacariyaṁ vussatī”ti. Navamaṁ.",
+  "english_sn_text": "At Sāvatthī. Then Venerable Tissa—the Buddha’s cousin on his father’s side—went to the Buddha, bowed, and sat down to one side. He was miserable and sad, with tears flowing. Then the Buddha said to him: “Tissa, why are you sitting there so miserable and sad, with tears flowing?” “Sir, it’s because the mendicants beset me on all sides with sneering and jeering.” “That’s because you admonish others, but don’t accept admonition yourself. As a gentleman who has gone forth out of faith from the lay life to homelessness, it’s not appropriate for you to admonish others without accepting admonition yourself. It’s appropriate for you to admonish others and accept admonition yourself.” That is what the Buddha said. Then the Holy One, the Teacher, went on to say: “Why are you angry? Don’t be angry! It’s better to not be angry, Tissa. For this spiritual life is lived in order to remove anger, conceit, and denigration.”",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa1001-1100/sa1068_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa1001-1100/sa1068_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛住舍卫国祇树给孤独园。\n尔时尊者低沙自念：「我是世尊姑子兄弟」，故不修恭敬，无所顾录，亦不畏惧，不堪谏止。众多比丘白佛。世尊召之。低沙来，稽首退住。\n佛问：「汝实作是念，不修恭敬、不堪忍谏不？」答言：「实尔。」佛告低沙：「汝不应尔。当念：我是世尊姑子兄弟，应修恭敬畏惧，堪忍谏止。」即说偈言：「善哉汝低沙，离瞋恚为善；莫生瞋恚心，瞋恚者非善。若能离瞋慢，修行柔软心；然后于我所，修行于梵行。」\n低沙比丘闻已，欢喜随喜，作礼而去。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在舍卫国祇树给孤独园。\n那时尊者低沙自己想：「我是世尊姑姑家的兄弟」，因此不修恭敬，无所顾忌，也不畏惧，受不了劝谏。许多比丘禀告佛。世尊召他来。低沙来了，顶礼后站在一旁。\n佛问：「你真的这样想，不修恭敬、受不了劝谏吗？」答：「确实如此。」佛告诉低沙：「你不应当这样。应当想：我是世尊姑姑家的兄弟，更应修恭敬畏惧，能受劝谏。」接着说偈：「很好啊低沙，离瞋才是善；不要生瞋心，有瞋就不是善。若能离瞋与慢，修柔软心；然后在我这里，才能修习梵行。」\n低沙比丘听完，欢喜随喜，作礼离去。",
+  "notes": "本经 SC 平行表所列平行及 `raw_aligned_data.json` 内之巴利本文、Sujato 英译并用以厘定法义；求那跋陀罗汉本用于定位经文与传统术语。confidence=high：primary SN21.9；汉重「恃亲不恭、不堪谏」；巴利兼「怒责他人反被讥」——以汉叙事为主，偈据巴利／汉合写：离瞋慢、柔软心、堪谏。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "high",
+  "prior_review_status": "needs_revision",
+  "similarity_to_source": 0.292,
+  "paragraph_parallel": true
+}

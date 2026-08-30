@@ -1,0 +1,113 @@
+{
+  "id": "SA_366",
+  "uid": "sa366",
+  "title": "雜阿含經  卷第十五  因緣相應  （366）  毗婆尸等",
+  "chinese_text": "如是我聞：\n\n一時，佛住舍衛國祇樹給孤獨園。\n\n爾時，世尊告諸比丘：「毘婆尸佛未成正覺時，獨一靜處，專精禪思，作如是念：『一切世間皆入生死，自生自熟，自滅自沒，而彼眾生於老死之上出世間道不如實知。』即自觀察：『何緣有此老死？』如是正思惟觀察，得如實無間等起知：『有生故有此老死，緣生故有老死。』復正思惟：『何緣故有此生？』尋復正思惟，無間等起知：『緣有故有生。』尋復正思惟：『何緣故有有？』尋復正思惟，如實無間等起知：『有取故有有。』尋復正思惟：『何緣故有取？』尋復正思惟，如實無間等起觀察：『取法味著顧念，緣觸愛所增長。』當知緣愛取，緣取有，緣有生，緣生老、病、死、憂、悲、惱、苦，如是純大苦聚集。譬如緣油炷而然燈，彼時時增油治炷，彼燈常明，熾然不息……」如前來歎譬、城譬廣說。\n\n佛說是經已，諸比丘聞佛所說，歡喜奉行。\n\n如毘婆尸佛，如是尸棄佛、毘濕波浮佛、迦羅迦孫提佛、迦那迦牟尼佛、迦葉佛，皆如是說。",
+  "english_sa_text": "",
+  "parallels": [
+    {
+      "uid": "sn12.9",
+      "acronym": "SN 12.9",
+      "root_lang": "pli",
+      "original_title": "Kassapasutta",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "sn12.8",
+      "acronym": "SN 12.8",
+      "root_lang": "pli",
+      "original_title": "Koṇāgamanasutta",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "sn12.7",
+      "acronym": "SN 12.7",
+      "root_lang": "pli",
+      "original_title": "Kakusandhasutta",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "sn12.6",
+      "acronym": "SN 12.6",
+      "root_lang": "pli",
+      "original_title": "Vessabhūsutta",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "sn12.5",
+      "acronym": "SN 12.5",
+      "root_lang": "pli",
+      "original_title": "Sikhīsutta",
+      "translated_title": "Sikhī",
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "sn12.4",
+      "acronym": "SN 12.4",
+      "root_lang": "pli",
+      "original_title": "Vipassīsutta",
+      "translated_title": "Vipassī",
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "sf254",
+      "acronym": "SF 254",
+      "root_lang": "san",
+      "original_title": "",
+      "translated_title": null,
+      "type": "full",
+      "resembling": true,
+      "remark": null
+    },
+    {
+      "uid": "sf255",
+      "acronym": "SF 255",
+      "root_lang": "san",
+      "original_title": "",
+      "translated_title": null,
+      "type": "full",
+      "resembling": true,
+      "remark": null
+    }
+  ],
+  "primary_sn_uid": "sn12.4",
+  "pali_text": "Sāvatthiyaṁ viharati …pe… “vipassissa, bhikkhave, bhagavato arahato sammāsambuddhassa pubbeva sambodhā anabhisambuddhassa bodhisattasseva sato etadahosi: ‘kicchaṁ vatāyaṁ loko āpanno jāyati ca jīyati ca mīyati ca cavati ca upapajjati ca. Atha ca panimassa dukkhassa nissaraṇaṁ nappajānāti jarāmaraṇassa. Kudāssu nāma imassa dukkhassa nissaraṇaṁ paññāyissati jarāmaraṇassā’ti? Atha kho, bhikkhave, vipassissa bodhisattassa etadahosi: ‘kimhi nu kho sati jarāmaraṇaṁ hoti, kiṁpaccayā jarāmaraṇan’ti? Atha kho, bhikkhave, vipassissa bodhisattassa yoniso manasikārā ahu paññāya abhisamayo: ‘jātiyā kho sati jarāmaraṇaṁ hoti, jātipaccayā jarāmaraṇan’ti. Atha kho, bhikkhave, vipassissa bodhisattassa etadahosi: ‘kimhi nu kho sati jāti hoti, kiṁpaccayā jātī’ti? Atha kho, bhikkhave, vipassissa bodhisattassa yoniso manasikārā ahu paññāya abhisamayo: ‘bhave kho sati jāti hoti, bhavapaccayā jātī’ti. Atha kho, bhikkhave, vipassissa bodhisattassa etadahosi: ‘kimhi nu kho sati bhavo hoti, kiṁpaccayā bhavo’ti? Atha kho, bhikkhave, vipassissa bodhisattassa yoniso manasikārā ahu paññāya abhisamayo: ‘upādāne kho sati bhavo hoti, upādānapaccayā bhavo’ti. Atha kho, bhikkhave, vipassissa bodhisattassa etadahosi: ‘kimhi nu kho sati upādānaṁ hoti, kiṁpaccayā upādānan’ti? Atha kho, bhikkhave, vipassissa bodhisattassa yoniso manasikārā ahu paññāya abhisamayo: ‘taṇhāya kho sati upādānaṁ hoti, taṇhāpaccayā upādānan’ti. Atha kho, bhikkhave, vipassissa bodhisattassa etadahosi: ‘kimhi nu kho sati taṇhā hoti, kiṁpaccayā taṇhā’ti? Atha kho, bhikkhave, vipassissa bodhisattassa yoniso manasikārā ahu paññāya abhisamayo: ‘vedanāya kho sati taṇhā hoti, vedanāpaccayā taṇhā’ti. Atha kho, bhikkhave, vipassissa bodhisattassa etadahosi: ‘kimhi nu kho sati vedanā hoti, kiṁpaccayā vedanā’ti? Atha kho, bhikkhave, vipassissa bodhisattassa yoniso manasikārā ahu paññāya abhisamayo: ‘phasse kho sati vedanā hoti, phassapaccayā vedanā’ti. Atha kho, bhikkhave, vipassissa bodhisattassa etadahosi: ‘kimhi nu kho sati phasso hoti, kiṁpaccayā phasso’ti? Atha kho, bhikkhave, vipassissa bodhisattassa yoniso manasikārā ahu paññāya abhisamayo: ‘saḷāyatane kho sati phasso hoti, saḷāyatanapaccayā phasso’ti. Atha kho, bhikkhave, vipassissa bodhisattassa etadahosi: ‘kimhi nu kho sati saḷāyatanaṁ hoti, kiṁpaccayā saḷāyatanan’ti? Atha kho, bhikkhave, vipassissa bodhisattassa yoniso manasikārā ahu paññāya abhisamayo: ‘nāmarūpe kho sati saḷāyatanaṁ hoti, nāmarūpapaccayā saḷāyatanan’ti. Atha kho, bhikkhave, vipassissa bodhisattassa etadahosi: ‘kimhi nu kho sati nāmarūpaṁ hoti, kiṁpaccayā nāmarūpan’ti? Atha kho, bhikkhave, vipassissa bodhisattassa yoniso manasikārā ahu paññāya abhisamayo: ‘viññāṇe kho sati nāmarūpaṁ hoti, viññāṇapaccayā nāmarūpan’ti. Atha kho, bhikkhave, vipassissa bodhisattassa etadahosi: ‘kimhi nu kho sati viññāṇaṁ hoti, kiṁpaccayā viññāṇan’ti? Atha kho, bhikkhave, vipassissa bodhisattassa yoniso manasikārā ahu paññāya abhisamayo: ‘saṅkhāresu kho sati viññāṇaṁ hoti, saṅkhārapaccayā viññāṇan’ti. Atha kho, bhikkhave, vipassissa bodhisattassa etadahosi: ‘kimhi nu kho sati saṅkhārā honti, kiṁpaccayā saṅkhārā’ti? Atha kho, bhikkhave, vipassissa bodhisattassa yoniso manasikārā ahu paññāya abhisamayo: ‘avijjāya kho sati saṅkhārā honti, avijjāpaccayā saṅkhārā’ti. Iti hidaṁ avijjāpaccayā saṅkhārā; saṅkhārapaccayā viññāṇaṁ …pe… evametassa kevalassa dukkhakkhandhassa samudayo hoti. ‘Samudayo, samudayo’ti kho, bhikkhave, vipassissa bodhisattassa pubbe ananussutesu dhammesu cakkhuṁ udapādi, ñāṇaṁ udapādi, paññā udapādi, vijjā udapādi, āloko udapādi. Atha kho, bhikkhave, vipassissa bodhisattassa etadahosi: ‘kimhi nu kho asati jarāmaraṇaṁ na hoti, kissa nirodhā jarāmaraṇanirodho’ti? Atha kho, bhikkhave, vipassissa bodhisattassa yoniso manasikārā ahu paññāya abhisamayo: ‘jātiyā kho asati jarāmaraṇaṁ na hoti, jātinirodhā jarāmaraṇanirodho’ti. Atha kho, bhikkhave, vipassissa bodhisattassa etadahosi: ‘kimhi nu kho asati jāti na hoti, kissa nirodhā jātinirodho’ti? Atha kho, bhikkhave, vipassissa bodhisattassa yoniso manasikārā ahu paññāya abhisamayo: ‘bhave kho asati jāti na hoti, bhavanirodhā jātinirodho’ti. Atha kho, bhikkhave, vipassissa bodhisattassa etadahosi: ‘kimhi nu kho asati bhavo na hoti, kissa nirodhā bhavanirodho’ti? Atha kho, bhikkhave, vipassissa bodhisattassa yoniso manasikārā ahu paññāya abhisamayo: ‘upādāne kho asati bhavo na hoti, upādānanirodhā bhavanirodho’ti. Atha kho, bhikkhave, vipassissa bodhisattassa etadahosi: ‘kimhi nu kho asati upādānaṁ na hoti, kissa nirodhā upādānanirodho’ti? Atha kho, bhikkhave, vipassissa bodhisattassa yoniso manasikārā ahu paññāya abhisamayo: ‘taṇhāya kho asati upādānaṁ na hoti, taṇhānirodhā upādānanirodho’ti. Atha kho, bhikkhave, vipassissa bodhisattassa etadahosi: ‘kimhi nu kho asati taṇhā na hoti, kissa nirodhā taṇhānirodho’ti? Atha kho, bhikkhave, vipassissa bodhisattassa yoniso manasikārā ahu paññāya abhisamayo: ‘vedanāya kho asati taṇhā na hoti, vedanānirodhā taṇhānirodho’ti. Atha kho, bhikkhave, vipassissa bodhisattassa etadahosi: ‘kimhi nu kho asati vedanā na hoti, kissa nirodhā vedanānirodho’ti? Atha kho, bhikkhave, vipassissa bodhisattassa yoniso manasikārā ahu paññāya abhisamayo: ‘phasse kho asati vedanā na hoti, phassanirodhā vedanānirodho’ti. Atha kho, bhikkhave, vipassissa bodhisattassa etadahosi: ‘kimhi nu kho asati phasso na hoti, kissa nirodhā phassanirodho’ti? Atha kho, bhikkhave, vipassissa bodhisattassa yoniso manasikārā ahu paññāya abhisamayo: ‘saḷāyatane kho asati phasso na hoti, saḷāyatananirodhā phassanirodho’ti. Atha kho, bhikkhave, vipassissa bodhisattassa etadahosi: ‘kimhi nu kho asati saḷāyatanaṁ na hoti, kissa nirodhā saḷāyatananirodho’ti? Atha kho, bhikkhave, vipassissa bodhisattassa yoniso manasikārā ahu paññāya abhisamayo: ‘nāmarūpe kho asati saḷāyatanaṁ na hoti, nāmarūpanirodhā saḷāyatananirodho’ti. Atha kho, bhikkhave, vipassissa bodhisattassa etadahosi: ‘kimhi nu kho asati nāmarūpaṁ na hoti, kissa nirodhā nāmarūpanirodho’ti? Atha kho, bhikkhave, vipassissa bodhisattassa yoniso manasikārā ahu paññāya abhisamayo: ‘viññāṇe kho asati nāmarūpaṁ na hoti, viññāṇanirodhā nāmarūpanirodho’ti. Atha kho, bhikkhave, vipassissa bodhisattassa etadahosi: ‘kimhi nu kho asati viññāṇaṁ na hoti, kissa nirodhā viññāṇanirodho’ti? Atha kho, bhikkhave, vipassissa bodhisattassa yoniso manasikārā ahu paññāya abhisamayo: ‘saṅkhāresu kho asati viññāṇaṁ na hoti, saṅkhāranirodhā viññāṇanirodho’ti. Atha kho, bhikkhave, vipassissa bodhisattassa etadahosi: ‘kimhi nu kho asati saṅkhārā na honti, kissa nirodhā saṅkhāranirodho’ti? Atha kho, bhikkhave, vipassissa bodhisattassa yoniso manasikārā ahu paññāya abhisamayo: ‘avijjāya kho asati saṅkhārā na honti, avijjānirodhā saṅkhāranirodho’ti. Iti hidaṁ avijjānirodhā saṅkhāranirodho; saṅkhāranirodhā viññāṇanirodho …pe… evametassa kevalassa dukkhakkhandhassa nirodho hotīti. ‘Nirodho, nirodho’ti kho, bhikkhave, vipassissa bodhisattassa pubbe ananussutesu dhammesu cakkhuṁ udapādi, ñāṇaṁ udapādi, paññā udapādi, vijjā udapādi, āloko udapādī”ti. Catutthaṁ. (Sattannampi buddhānaṁ evaṁ vitthāretabbo.)",
+  "english_sn_text": "At Sāvatthī. “Mendicants, Vipassī the Blessed One, the perfected one, the fully awakened Buddha had this thought before his awakening, when he was still unawakened but intent on awakening: ‘Alas, this world has fallen into trouble. It’s born, grows old, dies, passes away, and is reborn, yet it doesn’t understand how to escape from this suffering, from old age and death. Oh, when will an escape be found from this suffering, from old age and death?’ Then Vipassī, the one intent on awakening, thought: ‘When what exists is there old age and death? What is a requirement for old age and death?’ Then, through rational application of mind, Vipassī penetrated with wisdom: ‘When rebirth exists there’s old age and death. Rebirth is a requirement for old age and death.’ Then Vipassī thought: ‘When what exists is there rebirth? What is a requirement for rebirth?’ Then, through rational application of mind, Vipassī penetrated with wisdom: ‘When continued existence exists there’s rebirth. Continued existence is a requirement for rebirth.’ Then Vipassī thought: ‘When what exists is there continued existence? What is a requirement for continued existence?’ Then, through rational application of mind, Vipassī penetrated with wisdom: ‘When grasping exists there’s continued existence. Grasping is a requirement for continued existence.’ Then Vipassī thought: ‘When what exists is there grasping? What is a requirement for grasping?’ Then, through rational application of mind, Vipassī penetrated with wisdom: ‘When craving exists there’s grasping. Craving is a requirement for grasping.’ Then Vipassī thought: ‘When what exists is there craving? What is a requirement for craving?’ Then, through rational application of mind, Vipassī penetrated with wisdom: ‘When feeling exists there’s craving. Feeling is a requirement for craving.’ Then Vipassī thought: ‘When what exists is there feeling? What is a requirement for feeling?’ Then, through rational application of mind, Vipassī penetrated with wisdom: ‘When contact exists there’s feeling. Contact is a requirement for feeling.’ Then Vipassī thought: ‘When what exists is there contact? What is a requirement for contact?’ Then, through rational application of mind, Vipassī penetrated with wisdom: ‘When the six sense fields exist there’s contact. The six sense fields are requirements for contact.’ Then Vipassī thought: ‘When what exists are there the six sense fields? What is a requirement for the six sense fields?’ Then, through rational application of mind, Vipassī penetrated with wisdom: ‘When name and form exist there are the six sense fields. Name and form are requirements for the six sense fields.’ Then Vipassī thought: ‘When what exists are there name and form? What is a requirement for name and form?’ Then, through rational application of mind, Vipassī penetrated with wisdom: ‘When consciousness exists there are name and form. Consciousness is a requirement for name and form.’ Then Vipassī thought: ‘When what exists is there consciousness? What is a requirement for consciousness?’ Then, through rational application of mind, Vipassī penetrated with wisdom: ‘When choices exist there’s consciousness. Choices are a requirement for consciousness.’ Then Vipassī thought: ‘When what exists are there choices? What is a requirement for choices?’ Then, through rational application of mind, Vipassī penetrated with wisdom: ‘When ignorance exists there are choices. Ignorance is a requirement for choices.’ And so, ignorance is a requirement for choices. Choices are a requirement for consciousness. … That is how this entire mass of suffering originates. ‘Origination, origination.’ While Vipassī was intent on awakening, such was the vision, knowledge, wisdom, realization, and light that arose in him regarding teachings not learned before from another. Then Vipassī thought: ‘When what doesn’t exist is there no old age and death? When what ceases do old age and death cease?’ Then, through rational application of mind, Vipassī penetrated with wisdom: ‘When rebirth doesn’t exist there’s no old age and death. When rebirth ceases, old age and death cease.’ Then Vipassī thought: ‘When what doesn’t exist is there no rebirth? When what ceases does rebirth cease?’ Then, through rational application of mind, Vipassī penetrated with wisdom: ‘When continued existence doesn’t exist there’s no rebirth. When continued existence ceases, rebirth ceases.’ Then Vipassī thought: ‘When what doesn’t exist is there no continued existence? When what ceases does continued existence cease?’ Then, through rational application of mind, Vipassī penetrated with wisdom: ‘When grasping doesn’t exist there’s no continued existence. When grasping ceases, continued existence ceases.’ Then Vipassī thought: ‘When what doesn’t exist is there no grasping? When what ceases does grasping cease?’ Then, through rational application of mind, Vipassī penetrated with wisdom: ‘When craving doesn’t exist there’s no grasping. When craving ceases, grasping ceases.’ Then Vipassī thought: ‘When what doesn’t exist is there no craving? When what ceases does craving cease?’ Then, through rational application of mind, Vipassī penetrated with wisdom: ‘When feeling doesn’t exist there’s no craving. When feeling ceases, craving ceases.’ Then Vipassī thought: ‘When what doesn’t exist is there no feeling? When what ceases does feeling cease?’ Then, through rational application of mind, Vipassī penetrated with wisdom: ‘When contact doesn’t exist there’s no feeling. When contact ceases, feeling ceases.’ Then Vipassī thought: ‘When what doesn’t exist is there no contact? When what ceases does contact cease?’ Then, through rational application of mind, Vipassī penetrated with wisdom: ‘When the six sense fields don’t exist there’s no contact. When the six sense fields cease, contact ceases.’ Then Vipassī thought: ‘When what doesn’t exist are there no six sense fields? When what ceases do the six sense fields cease?’ Then, through rational application of mind, Vipassī penetrated with wisdom: ‘When name and form don’t exist there are no six sense fields. When name and form cease, the six sense fields cease.’ Then Vipassī thought: ‘When what doesn’t exist are there no name and form? When what ceases do name and form cease?’ Then, through rational application of mind, Vipassī penetrated with wisdom: ‘When consciousness doesn’t exist there are no name and form. When consciousness ceases, name and form cease.’ Then Vipassī thought: ‘When what doesn’t exist is there no consciousness? When what ceases does consciousness cease?’ Then, through rational application of mind, Vipassī penetrated with wisdom: ‘When choices don’t exist there’s no consciousness. When choices cease, consciousness ceases.’ Then Vipassī thought: ‘When what doesn’t exist are there no choices? When what ceases do choices cease?’ Then, through rational application of mind, Vipassī penetrated with wisdom: ‘When ignorance doesn’t exist there are no choices. When ignorance ceases, choices cease.’ And so, when ignorance ceases, choices cease. When choices cease, consciousness ceases. … That is how this entire mass of suffering ceases. ‘Cessation, cessation.’ Such was the vision, knowledge, wisdom, realization, and light that arose in Vipassī, the one intent on awakening, regarding teachings not learned before from another.” (Tell in full for each of the seven Buddhas.)",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa301-400/sa366_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa301-400/sa366_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛在舍卫国祇树给孤独园。\n尔时，世尊告诸比丘：「毗婆尸佛未成正觉时，独一静处，专精思惟，作是念：『世间入于生死，生已熟坏，灭已复没，而于老死出要不如实知。』」\n「即正思惟：『何缘有老死？』得如实智：『有生故有老死，缘生故有老死。』复观：『何缘有生？』知：『缘有故有生。』『何缘有有？』知：『缘取故有有。』『何缘有取？』观见：味著顾念，触爱所增——当知缘爱有取。」\n「缘爱取，缘取有，缘有生，缘生老病死忧悲恼苦——如是纯大苦聚集。灯油炷增则灯常明——广说如前；城譬亦如是。」\n「如毗婆尸佛，尸弃、毗湿波浮、迦罗迦孙提、迦那迦牟尼、迦叶佛，皆如是说。」\n佛说此经已，诸比丘闻佛所说，欢喜奉行。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在舍卫国祇树给孤独园。\n那时，世尊告诉比丘们：「毗婆尸佛还没有成正觉时，独自在静处专心思维，心想：『世间陷入生死，生了就成熟败坏，灭了又沉没，却对出离老死的道路不能如实了知。』」\n「于是正确思维：『什么条件才有老死？』得到如实智：『有生所以有老死，生是老死的缘。』再观：『什么缘才有生？』知道：『有为缘所以有生。』『什么缘才有有？』知道：『取为缘所以有有。』『什么缘才有取？』看见：味著顾念，由触与爱所增长——应当知道爱为缘而有取。」\n「缘爱有取，缘取有有，缘有有生，缘生有老病死忧悲恼苦——这样纯大苦聚集。如同灯加油添炷就一直亮——广说如同从前；城的譬喻也一样。」\n「如同毗婆尸佛，尸弃、毗湿波浮、迦罗迦孙提、迦那迦牟尼、迦叶佛，都是这样说。」\n佛说完这部经，比丘们听佛所说，都欢喜奉行。",
+  "notes": "本经 SC 平行表所列平行及 `raw_aligned_data.json` 内之巴利本文、Sujato 英译并用以厘定法义；求那跋陀罗汉本用于定位经文与传统术语。confidence=high：primary SN12.4（Vipassī）；并 SN12.5–9。未觉前逆观缘起；灯譬／城譬及余佛作 peyyāla 省文，如实存。「无间等」改为「如实智」（yathābhūtañāṇa），避译腔。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "high",
+  "prior_review_status": "needs_revision",
+  "similarity_to_source": 0.184,
+  "paragraph_parallel": true
+}

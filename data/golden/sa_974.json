@@ -1,0 +1,43 @@
+{
+  "id": "SA_974",
+  "uid": "sa974",
+  "title": "雜阿含經  卷第三十九  雜相應  （974）  補縷低迦",
+  "chinese_text": "如是我聞：\n\n一時，佛住舍衛國祇樹給孤獨園。\n\n爾時，尊者舍利弗詣佛所，稽首佛足，退坐一面。\n\n爾時，世尊為尊者舍利弗種種說法，示、教、照、喜；示、教、照、喜已，默然住。\n\n時，尊者舍利弗聞佛所說，歡喜隨喜已，稽首禮足而去。\n\n時，有外道出家補縷低迦隨路而來，問尊者舍利弗：「從何所來？」\n\n舍利弗答言：「火種！我從我世尊所，聽大師說教授法來。」\n\n補縷低迦問尊者舍利弗：「今猶不離乳，從師聞說教授法耶？」\n\n舍利弗答言：「火種！我不離乳，於大師所，聞說教授法。」\n\n補縷低迦語尊者舍利弗言：「我久已離乳，捨師所說教授法。」\n\n舍利弗言：「汝法是惡說法、律，惡覺，非為出離、非正覺道，壞法、非可讚歎法、非可依止法，又彼師者，非等正覺，是故汝等疾疾捨乳，離師教法。譬如乳牛，麁惡狂騷，又少乳汁，彼犢飲乳，疾疾捨去；如是惡說法、律，惡覺，非出離、非正覺道，壞法、非可讚歎法、非可依止法。又彼師者，非等正覺，是故速捨師教授法。我所有法是正法、律，是善覺，是出離正覺道，不壞、可讚歎、可依止。又彼大師是等正覺，是故久飲其乳，聽受大師說教授法。譬如乳牛，不麁狂騷，又多乳汁，彼犢飲時，久而不厭。我法如是，是正法、律，乃至久聽說教授法。」\n\n時，補縷低迦語舍利弗：「汝等快得善利，於正法、律，乃至久聽說教授法。」\n\n時，補屢低迦外道出家聞舍利弗所說，歡喜隨喜，從道而去。",
+  "english_sa_text": "",
+  "parallels": [
+    {
+      "uid": "sa-2.208",
+      "acronym": "SA2 208",
+      "root_lang": "lzh",
+      "original_title": "補縷低迦",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    }
+  ],
+  "primary_sn_uid": null,
+  "pali_text": "",
+  "english_sn_text": "",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa901-1000/sa974_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa901-1000/sa974_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛住舍卫国祇树给孤独园。\n舍利弗诣佛，闻法示教照喜已，礼足而去。途遇外道出家补缕低迦。问：「从何来？」答：「火种！从世尊所听大师教授来。」\n彼曰：「犹不离乳，从师闻教耶？」舍利弗：「我不离乳，于大师所闻教。」彼曰：「我久已离乳，舍师教法。」\n舍利弗言：「汝法恶说恶律、恶觉，非出离、非正觉道，坏法不可赞、不可依；师非等正觉，故汝疾舍乳、离师教。如恶牛少乳狂躁，犊饮即弃；我法正法律、善觉、出离正觉道，可赞可依，大师是等正觉，故久饮其乳。如善牛多乳驯良，犊久饮不厌。」\n补缕低迦叹：「汝等快得善利。」欢喜随喜而去。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在舍卫国祇树给孤独园。\n舍利弗来见佛，听法得示教照喜后礼足离去，路上遇到外道出家补缕低迦。问：「从哪里来？」答：「火种！我从世尊那里听大师的教授来。」\n对方说：「还没断奶，还要从师父听教吗？」舍利弗：「我没有断奶，仍在大师那里听教。」对方说：「我早就断奶了，放下师父的教法。」\n舍利弗说：「你的法是恶说法、恶律、恶觉，不是出离、不是正觉之道，是坏法，不可赞叹、不可依止；师父也不是等正觉，所以你们很快就断奶、离开师教。好比恶牛少乳又狂躁，牛犊喝两口就弃开；我的法是正法律、善觉、出离的正觉道，可赞可依，大师是等正觉，所以久久饮他的乳。好比好牛多乳又驯良，牛犊久饮也不厌。」\n补缕低迦赞叹：「你们真得到善利。」欢喜随喜后离去。",
+  "notes": "SC 于本经未列可靠巴利平行，故唯以汉本为底，参同相应之巴利定型语厘义；依项目规约「无可靠平行时 confidence 降为 medium/low」。confidence=medium：无可靠巴利；乳喻（恶法速舍／正法久闻）依汉压缩冗复。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "medium",
+  "prior_review_status": "needs_revision",
+  "similarity_to_source": 0.124,
+  "paragraph_parallel": true
+}

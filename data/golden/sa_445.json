@@ -1,0 +1,43 @@
+{
+  "id": "SA_445",
+  "uid": "sa445",
+  "title": "雜阿含經  卷第十八  界相應  （445）  鄙心",
+  "chinese_text": "如是我聞：\n\n一時，佛住舍衛國祇樹給孤獨園。\n\n爾時，世尊告諸比丘：「眾生常與界俱，與界和合。云何眾生常與界俱？謂眾生行不善心時與不善界俱？善心時與善界俱，勝心時與勝界俱，鄙心時與鄙界俱。是故，諸比丘！當作是學，善種種界。」\n\n佛說是經已，諸比丘聞佛所說，歡喜奉行。",
+  "english_sa_text": "",
+  "parallels": [
+    {
+      "uid": "sn14.14",
+      "acronym": "SN 14.14",
+      "root_lang": "pli",
+      "original_title": "Hīnādhimuttikasutta",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    }
+  ],
+  "primary_sn_uid": "sn14.14",
+  "pali_text": "Sāvatthiyaṁ viharati. “Dhātusova, bhikkhave, sattā saṁsandanti samenti. Hīnādhimuttikā hīnādhimuttikehi saddhiṁ saṁsandanti samenti; kalyāṇādhimuttikā kalyāṇādhimuttikehi saddhiṁ saṁsandanti samenti. Atītampi kho, bhikkhave, addhānaṁ dhātusova sattā saṁsandiṁsu samiṁsu. Hīnādhimuttikā hīnādhimuttikehi saddhiṁ saṁsandiṁsu samiṁsu; kalyāṇādhimuttikā kalyāṇādhimuttikehi saddhiṁ saṁsandiṁsu samiṁsu. Anāgatampi kho, bhikkhave, addhānaṁ dhātusova sattā saṁsandissanti samessanti. Hīnādhimuttikā hīnādhimuttikehi saddhiṁ saṁsandissanti samessanti; kalyāṇādhimuttikā kalyāṇādhimuttikehi saddhiṁ saṁsandissanti samessanti. Etarahipi kho, bhikkhave, paccuppannaṁ addhānaṁ dhātusova sattā saṁsandanti samenti. Hīnādhimuttikā hīnādhimuttikehi saddhiṁ saṁsandanti samenti; kalyāṇādhimuttikā kalyāṇādhimuttikehi saddhiṁ saṁsandanti samentī”ti. Catutthaṁ.",
+  "english_sn_text": "At Sāvatthī. “Mendicants, sentient beings join together and converge because of an element. Those who have inferior convictions join together and converge with those who have inferior convictions. Those who have good convictions join together and converge with those who have good convictions. In the past, too, sentient beings came together and converged because of an element. … In the future, too, sentient beings will join together and converge because of an element. … At present, too, sentient beings join together and converge because of an element. Those who have inferior convictions join together and converge with those who have inferior convictions. Those who have good convictions join together and converge with those who have good convictions.”",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa401-500/sa445_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa401-500/sa445_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛在舍卫国祇树给孤独园。\n尔时，世尊告诸比丘：「众生依界而会、依界而合。行不善心时与不善界俱，善心时与善界俱；胜心时与胜界俱，鄙心时与鄙界俱。是故诸比丘当善学种种界。」\n佛说此经已，诸比丘闻佛所说，欢喜奉行。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在舍卫国祇树给孤独园。\n那时，世尊告诉比丘们：「众生依界而聚会、依界而相合。起不善心时就与不善界在一起，起善心时就与善界在一起；起殊胜心时就与殊胜界在一起，起卑劣心时就与卑劣界在一起。所以比丘们应当好好修学种种界。」\n佛说完这部经，比丘们听佛所说，都欢喜奉行。",
+  "notes": "本经 SC 平行表所列平行及 `raw_aligned_data.json` 内之巴利本文、Sujato 英译并用以厘定法义；求那跋陀罗汉本用于定位经文与传统术语。confidence=high：primary SN14.14 Hīnādhimuttika。信：dhātuso sattā saṁsandanti samenti；鄙／胜≈hīna／kalyāṇa adhimutti；汉『不善／善』并留。Sujato 过未今三时，汉略——义已足，不增演。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "high",
+  "prior_review_status": "needs_revision",
+  "similarity_to_source": 0.381,
+  "paragraph_parallel": true
+}

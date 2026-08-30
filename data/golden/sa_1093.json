@@ -1,0 +1,53 @@
+{
+  "id": "SA_1093",
+  "uid": "sa1093",
+  "title": "雜阿含經  卷第四十七  魔相應  （1093）  好惡",
+  "chinese_text": "如是我聞：\n\n一時，佛住欝鞞羅處尼連禪河側大菩提樹下，初成佛道。\n\n天魔波旬作是念：「此沙門瞿曇在欝鞞羅住處尼連禪河側菩提樹下，初成佛道。我今當往，為作留難。」即自變身，作百種淨、不淨色，詣佛所。\n\n佛遙見波旬百種淨、不淨色，作是念：「惡魔波旬作百種淨、不淨色，欲作嬈亂。」即說偈言：\n\n「長夜生死中，　　作淨不淨色，\n\n　汝何為作此，　　不度苦彼岸。\n\n　若諸身口意，　　不作留難者，\n\n　魔所不能教，　　不隨魔自在。\n\n　如是知惡魔，　　於是自滅去。」\n\n時，魔波旬作是念：「沙門瞿曇已知我心。」內懷憂慼，即沒不現。",
+  "english_sa_text": "",
+  "parallels": [
+    {
+      "uid": "sa-2.32",
+      "acronym": "SA2 32",
+      "root_lang": "lzh",
+      "original_title": "好惡",
+      "translated_title": "Māra changes into beautiful and ugly people",
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "sn4.3",
+      "acronym": "SN 4.3",
+      "root_lang": "pli",
+      "original_title": "Subhasutta",
+      "translated_title": "Beautiful",
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    }
+  ],
+  "primary_sn_uid": "sn4.3",
+  "pali_text": "Evaṁ me sutaṁ— ekaṁ samayaṁ bhagavā uruvelāyaṁ viharati najjā nerañjarāya tīre ajapālanigrodhamūle paṭhamābhisambuddho. Tena kho pana samayena bhagavā rattandhakāratimisāyaṁ abbhokāse nisinno hoti, devo ca ekamekaṁ phusāyati. Atha kho māro pāpimā, bhagavato bhayaṁ chambhitattaṁ lomahaṁsaṁ uppādetukāmo, yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavato avidūre uccāvacā vaṇṇanibhā upadaṁseti, subhā ceva asubhā ca. Atha kho bhagavā “māro ayaṁ pāpimā” iti viditvā māraṁ pāpimantaṁ gāthāhi ajjhabhāsi: “Saṁsaraṁ dīghamaddhānaṁ, vaṇṇaṁ katvā subhāsubhaṁ; Alaṁ te tena pāpima, nihato tvamasi antaka. Ye ca kāyena vācāya, manasā ca susaṁvutā; Na te māravasānugā, na te mārassa baddhagū”ti. Atha kho māro …pe… tatthevantaradhāyīti.",
+  "english_sn_text": "So I have heard. At one time, when he was first awakened, the Buddha was staying in Uruvelā at the root of the goatherd’s banyan tree on the bank of the Nerañjarā River. Now at that time the Buddha was meditating in the open during the dark of night, while a gentle rain drizzled down. Then Māra the Wicked, wanting to make the Buddha feel fear, terror, and goosebumps, approached him, and while not far away, displayed a rainbow of bright colors, both beautiful and ugly. Then the Buddha, knowing that this was Māra the Wicked, replied to him in verse: “Transmigrating for such a long time, you’ve made forms beautiful and ugly. Enough of this, Wicked One! You’re beaten, terminator. Those who are well restrained in body, speech, and mind don’t fall under Māra’s sway, nor are they your footmen.” Then Māra … vanished right there.",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa1001-1100/sa1093_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa1001-1100/sa1093_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛住郁鞞罗聚落尼连禅河侧菩提树下，初成正觉。\n魔波旬欲令生怖，现百种净、不净色。佛知是魔，说偈：「长夜生死苦中，造作净秽色；止矣波旬！汝已堕负处。身口意善护，不随魔自在，亦不作魔使。」\n时魔波旬作是念：「沙门已知我心。」内怀忧慼，即没不现。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在郁鞞罗聚落尼连禅河侧菩提树下，刚成正觉不久。\n魔波旬想让佛生起怖畏，现出百种净色与不净色。佛知道是魔，说偈：「长夜流转生死苦中，造作美丑之色；够了，波旬！你已经失败。身口意防护好的人，不落在魔的掌控里，也不做你的走卒。」\n那时魔波旬心里想：「沙门已经知道我的心。」内心忧恼，随即隐没不见。",
+  "notes": "本经 SC 平行表所列平行及 `raw_aligned_data.json` 内之巴利本文、Sujato 英译并用以厘定法义；求那跋陀罗汉本用于定位经文与传统术语。confidence=high：SN4.3；据巴利补「已堕负处／非魔使」义；汉「不度苦彼岸」并入败北义。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "high",
+  "prior_review_status": "needs_revision",
+  "similarity_to_source": 0.094,
+  "paragraph_parallel": true
+}

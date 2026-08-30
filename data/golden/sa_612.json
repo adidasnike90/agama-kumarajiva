@@ -1,0 +1,63 @@
+{
+  "id": "SA_612",
+  "uid": "sa612",
+  "title": "雜阿含經  卷第二十六  念處相應  （612）  弓",
+  "chinese_text": "如是我聞：\n\n一時，佛住舍衛國祇樹給孤獨園。\n\n爾時，世尊告諸比丘：「如人執持四種強弓，大力方便射多羅樹影，疾過無閡。如是如來四種聲聞，增上方便，利根智慧，盡百年壽，於如來所百年說法教授，唯除食息、𥙷寫、睡眠，中間常說、常聽；智慧明利，於如來所說，盡底受持，無諸障閡，於如來所不加再問。如來說法無有終極，聽法盡壽，百歲命終，如來說法猶不能盡。當知如來所說無量無邊，名、句、味身亦復無量，無有終極，所謂四念處。何等為四？謂身念處，受、心、法念處。」\n\n佛說此經已，諸比丘聞佛所說，歡喜奉行。\n\n一切四念處經，皆以此總句，所謂「是故，比丘！於四念處修習，起增上欲，精勤方便，正念正智，應當學。」",
+  "english_sa_text": "",
+  "parallels": [
+    {
+      "uid": "mn12",
+      "acronym": "MN 12",
+      "root_lang": "pli",
+      "original_title": "Mahāsīhanādasutta",
+      "translated_title": "The Greater Discourse on the Lion’s Roar",
+      "type": "full",
+      "resembling": true,
+      "remark": null
+    },
+    {
+      "uid": "sht-sutta36",
+      "acronym": "SHT Sutta 36",
+      "root_lang": "san",
+      "original_title": "",
+      "translated_title": null,
+      "type": "full",
+      "resembling": true,
+      "remark": null
+    },
+    {
+      "uid": "t757",
+      "acronym": "T 757",
+      "root_lang": "lzh",
+      "original_title": "身毛喜豎",
+      "translated_title": null,
+      "type": "full",
+      "resembling": true,
+      "remark": null
+    }
+  ],
+  "primary_sn_uid": null,
+  "pali_text": "",
+  "english_sn_text": "",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa601-700/sa612_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa601-700/sa612_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛住舍卫国祇树给孤独园。\n佛告比丘：「如人持四强弓，迅射多罗树影，疾过无阂。如是如来四种声闻，利根增上，尽百年寿，除食息书写睡眠，常说常听，尽底受持，不加再问——听法尽寿，如来说法犹不尽。当知如来名句味身无量无边，所谓四念处：身、受、心、法。」\n「是故比丘！于四念处修习，起增上欲，精勤方便，正念正知，应当学。」\n佛说此经已，诸比丘闻佛所说，欢喜奉行。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在舍卫国祇树给孤独园。\n佛告诉比丘：「好比有人拿着四张强弓，迅速射过多罗树影，快得没有障碍。同样，如来的四种声闻，利根又精进，尽百年寿命，除去吃饭、休息、书写、睡眠，常说常听，彻底受持，不再追问——听法到寿命尽，如来的法还是说不完。应当知道，如来的名、句、味身无量无边，说的就是四念处：身、受、心、法。」\n「所以比丘们！应当于四念处修习，起增上欲，精勤方便，正念正知，应当学。」\n佛说完这部经，比丘们听佛所说，都欢喜奉行。",
+  "notes": "SC 于本经未列可靠巴利平行，故唯以汉本为底，参同相应之巴利定型语厘义；依项目规约「无可靠平行时 confidence 降为 medium/low」。SC 仅列 MN12／T757 等 resembling（师子吼中「说法不尽」类譬），无 SN47 专经。confidence=medium：义从汉本四声闻百年听法不尽＋四念处总句；罗什风压缩。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "medium",
+  "prior_review_status": "needs_revision",
+  "similarity_to_source": 0.226,
+  "paragraph_parallel": true
+}

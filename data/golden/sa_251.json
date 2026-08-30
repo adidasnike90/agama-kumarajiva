@@ -1,0 +1,53 @@
+{
+  "id": "SA_251",
+  "uid": "sa251",
+  "title": "雜阿含經  卷第十  六入處相應  （251）  拘絺羅",
+  "chinese_text": "如是我聞：\n\n一時，佛住王舍城迦蘭陀竹園。\n\n爾時，尊者舍利弗、尊者摩訶拘絺羅俱在耆闍崛山中。\n\n尊者摩訶拘絺羅晡時從禪覺，詣尊者舍利弗所，共相問訊已，退坐一面，語尊者舍利弗：「欲有所問，寧有閑暇見答已不？」\n\n舍利弗言：「隨仁所問，知者當答。」\n\n尊者摩訶拘絺羅問尊者舍利弗言：「謂無明者。云何為無明？」\n\n尊者舍利弗言：「所謂無知，無知者是為無明。云何無知？謂眼無常不如實知，是名無知，眼生滅法不如實知，是名無知。耳、鼻、舌、身、意亦復如是。如是，尊者摩訶拘絺羅！於此六觸入處如實不知、不見、不無間等、愚闇、無明、大冥，是名無明。」\n\n尊者摩訶拘絺羅又問尊者舍利弗：「所謂明者。云何為明？」\n\n舍利弗言：「所謂為知，知者是明，為何所知？謂眼無常、眼無常如實知，眼生滅法、眼生滅法如實知。耳、鼻、舌、身、意亦復如是。尊者摩訶拘絺羅！於此六觸入處如實知、見、明、覺、悟、慧、無間等，是名為明。」\n\n時，二正士各聞所說，展轉隨喜，各還其所。",
+  "english_sa_text": "",
+  "parallels": [
+    {
+      "uid": "an4.175",
+      "acronym": "AN 4.175",
+      "root_lang": "pli",
+      "original_title": "Upavāṇasutta",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "ma211",
+      "acronym": "MA 211",
+      "root_lang": "lzh",
+      "original_title": "大拘絺羅",
+      "translated_title": null,
+      "type": "full",
+      "resembling": true,
+      "remark": null
+    }
+  ],
+  "primary_sn_uid": null,
+  "pali_text": "",
+  "english_sn_text": "",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa201-300/sa251_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa201-300/sa251_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛在王舍城迦兰陀竹园。\n尔时，尊者舍利弗、尊者摩诃拘絺罗俱在耆阇崛山。摩诃拘絺罗晡时从禅起，诣舍利弗所，共相问讯，退坐一面，语舍利弗：「欲有所问，宁有闲暇见答否？」\n舍利弗言：「随仁所问，知者当答。」\n摩诃拘絺罗问舍利弗：「所谓无明，云何是无明？」\n舍利弗言：「所谓无知，无知者是为无明。云何无知？谓眼无常不能如实知，是名无知；眼生灭法不能如实知，是名无知。耳、鼻、舌、身、意亦复如是。摩诃拘絺罗！于此六触入处如实不知、不见、无现观、愚、暗、无明、大冥，是名无明。」\n摩诃拘絺罗又问：「所谓明者，云何是明？」\n舍利弗言：「所谓为知，知者是明。何所知？谓眼无常、眼无常如实知；眼生灭法、眼生灭法如实知。耳、鼻、舌、身、意亦复如是。摩诃拘絺罗！于此六触入处如实知、见、明、觉、悟、慧、现观，是名为明。」\n时，二正士各闻所说，展转随喜，各还本处。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在王舍城迦兰陀竹园。\n那时，舍利弗尊者与大拘絺罗尊者都在耆阇崛山。大拘絺罗尊者在下午从禅定中起来，前往舍利弗处，互相问讯，退坐一旁，对舍利弗说：「我有问题想问，你有闲暇回答吗？」\n舍利弗说：「随你问什么，知道的便答。」\n大拘絺罗问舍利弗：「所谓无明，什么是无明？」\n舍利弗说：「所谓无知——不知，就是无明。怎样叫不知呢？眼是无常的，却不能如实了知，这叫做不知；眼是生灭之法，却不能如实了知，这也叫做不知。耳、鼻、舌、身、意也是一样。大拘絺罗！对这六触入处不能如实了知、不能如实看见、没有现观、愚昧、昏暗、无明、大暗——这叫做无明。」\n大拘絺罗又问：「所谓明，什么是明？」\n舍利弗说：「所谓能知——能知，就是明。能知什么呢？眼是无常的，能如实了知眼无常；眼是生灭之法，能如实了知眼生灭法。耳、鼻、舌、身、意也是一样。大拘絺罗！对这六触入处能如实了知、看见、明了、觉悟、开悟、具慧、现观——这叫做明。」\n两位正士听了彼此所说，互相随喜，各自回去。",
+  "notes": "本经 SC 平行表所列平行及 `raw_aligned_data.json` 内之巴利本文、Sujato 英译并用以厘定法义；求那跋陀罗汉本用于定位经文与传统术语。confidence=high：SC 列 AN4.175／MA211（大拘絺罗问舍利弗无明／明）；本经以六触入处（非次经 SA_256 之五受阴）说 avijjā／vijjā，与 MA211 之框架相符。信-校正：（一）「不无间等」双重否定，当作「无现观」：＝ abhisamaya（现观），沿 SA_256–259 之例。（二）「眼生灭法」＝ udayabbaya（生起、灭没之法），与「眼无常」并列，非泛指一切生灭。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "high",
+  "prior_review_status": "needs_revision",
+  "similarity_to_source": 0.359,
+  "paragraph_parallel": true
+}

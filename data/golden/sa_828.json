@@ -1,0 +1,53 @@
+{
+  "id": "SA_828",
+  "uid": "sa828",
+  "title": "雜阿含經  卷第三十一  學相應  （828）  驢",
+  "chinese_text": "如是我聞：\n\n一時，佛住舍衛國祇樹給孤獨園。\n\n爾時，世尊告諸比丘：「譬如驢隨群牛而行，而作是念：『我作牛聲。』然其彼形亦不似牛，色亦不似牛，聲出不似，隨大群牛，謂己是牛，而作牛鳴，而去牛實遠。如是，有一愚癡男子違律犯戒，隨逐大眾，言：『我是比丘。我是比丘。』而不學習勝欲增上戒學、增上意學、增上慧學，隨逐大眾，自言：『我是比丘。我是比丘。』其實去比丘大遠。」\n\n爾時，世尊即說偈言：\n\n「同蹄無角獸，　　四足具聲口，\n\n　隨逐大群牛，　　常以為等侶。\n\n　形亦非牛類，　　不能作牛聲，\n\n　如是愚癡人，　　不隨繫心念。\n\n　於善逝教誡，　　無欲勤方便，\n\n　懈怠心輕慢，　　不獲無上道。\n\n　如驢在群牛，　　去牛常自遠，\n\n　彼雖隨大眾，　　內行常自乖。」\n\n佛說此經已，諸比丘聞佛所說，歡喜奉行。",
+  "english_sa_text": "",
+  "parallels": [
+    {
+      "uid": "an3.82",
+      "acronym": "AN 3.82",
+      "root_lang": "pli",
+      "original_title": "Gadrabhasutta",
+      "translated_title": "The Donkey",
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "ea16.4",
+      "acronym": "EA 16.4",
+      "root_lang": "lzh",
+      "original_title": "驢",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    }
+  ],
+  "primary_sn_uid": null,
+  "pali_text": "",
+  "english_sn_text": "",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa801-900/sa828_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa801-900/sa828_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛住舍卫国祇树给孤独园。\n尔时世尊告诸比丘：「譬如驴随群牛而行，作是念：『我亦作牛声。』然形不似牛，色不似牛，声亦不似；虽随大群，自谓是牛，而去牛实远。如是有愚痴男子违律犯戒，随逐大众，言：『我是比丘！我是比丘！』而不学习增上戒学、增上意学、增上慧学；虽随大众，其实去比丘大远。」\n尔时世尊即说偈言：「同蹄无角兽，四足具声口；随逐大群牛，常自以为侣。形亦非牛类，不能作牛声；如是愚痴人，不随系心念。于善逝教诫，不欲勤方便；懈怠心轻慢，不获无上道。如驴在群牛，去牛常自远；彼虽随大众，内行常自乖。」\n佛说此经已，诸比丘闻佛所说，欢喜奉行。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在舍卫国祇树给孤独园。\n那时世尊告诉比丘们：「好比驴跟着牛群走，心想：『我也能叫出牛的声音。』可是形状不像牛，颜色不像牛，声音也不像；虽然跟着大群，自以为是牛，其实离牛很远。同样，有愚痴的人违律犯戒，跟随着大众，说：『我是比丘！我是比丘！』却不学习增上戒学、增上意学、增上慧学；虽然跟着大众，其实离比丘很远。」\n那时世尊便说偈：「同是蹄类却无角，四足有口能发声；跟着大群牛行走，常常自以为同伴。形状也不是牛类，不能真正作牛声；这样的愚痴人，不能随顺系念。对于善逝的教诫，不肯勤求方便；懈怠而心轻慢，不能获得无上道。如同驴在牛群中，离牛常常很远；他虽然跟随大众，内在的行持却常常乖离。」\n佛说完这部经，比丘们听佛所说，都欢喜奉行。",
+  "notes": "本经 SC 平行表所列平行及 `raw_aligned_data.json` 内之巴利本文、Sujato 英译并用以厘定法义；求那跋陀罗汉本用于定位经文与传统术语。confidence=high：primary AN3.82 Gadrabha；「胜欲增上」据 AN 作对三增上学之欲乐／热心（sikkhāsamādāna）；今作「学习增上…学」。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "high",
+  "prior_review_status": "needs_revision",
+  "similarity_to_source": 0.321,
+  "paragraph_parallel": true
+}

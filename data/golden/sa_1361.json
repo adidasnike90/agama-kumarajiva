@@ -1,0 +1,32 @@
+{
+  "id": "SA_1361",
+  "uid": "sa1361",
+  "title": "雜阿含經  卷第五十  林相應  （1361）  彈琴",
+  "chinese_text": "如是我聞：\n\n一時，佛住舍衛國祇樹給孤獨園。\n\n時，有異比丘在拘薩羅人間，住於河側一林樹間。\n\n時，有丈夫與婦相隨，度河住於岸邊，彈琴嬉戲，而說偈言：\n\n「愛念而放逸，　　逍遙青樹間，\n\n　流水流且清，　　琴聲極和美，\n\n　春氣調適遊，　　快樂何是過。」\n\n時，彼比丘作是念：「彼士夫尚能說偈，我豈不能說偈答之？\n\n「受持清淨戒，　　愛念等正覺，\n\n　沐浴三解脫，　　善以極清涼，\n\n　人道具莊嚴，　　快樂豈過是。」\n\n時，彼比丘說此偈已，即默然而住。",
+  "english_sa_text": "",
+  "parallels": [],
+  "primary_sn_uid": null,
+  "pali_text": "",
+  "english_sn_text": "",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa1301-1400/sa1361_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa1301-1400/sa1361_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛住舍卫国祇树给孤独园。\n时有异比丘在拘萨罗人间，住于河侧一林树间。\n有丈夫与妇相随，度河住岸边，弹琴嬉戏，说偈：「爱念而放逸，逍遥青树间；流水清且流，琴声极和美；春气调适游，快乐何可过。」\n比丘念：「彼士夫尚能说偈，我岂不能答？」即说偈：「受持清净戒，爱念等正觉；沐浴三解脱，善以极清凉；人道具庄严，快乐岂过是。」\n比丘说此偈已，即默然而住。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在舍卫国祇树给孤独园。\n当时有一位比丘在拘萨罗人间，住在河边一片林树之间。\n有一对夫妻一起过河，停在岸边弹琴嬉戏，说偈：「相爱而放逸，逍遥在青树间；流水清澈流淌，琴声极其和美；春气宜人游玩，快乐哪能超过。」\n比丘心想：「那男子都能说偈，我难道不能答？」便说偈：「受持清净戒，敬爱等正觉；沐浴于三解脱，善得极清凉；人道具备庄严，快乐岂能超过。」\n比丘说完这首偈，便默然而住。",
+  "notes": "SC 于本经未列可靠巴利平行，故唯以汉本为底，参林相应／Vanasaṃyutta 定型语及早期教理厘义；依项目规约「无可靠平行时 confidence 降为 medium/low」。求那跋陀罗汉本用于定位经文与传统术语。confidence=medium：无 SC 专经。夫妇放逸琴乐 vs 比丘戒／念佛／三解脱门。底本答偈引号残缺，今补全；「三解脱」＝空、无相、无愿。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "medium",
+  "prior_review_status": "needs_revision",
+  "similarity_to_source": 0.23,
+  "paragraph_parallel": true
+}

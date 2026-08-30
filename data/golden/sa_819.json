@@ -1,0 +1,43 @@
+{
+  "id": "SA_819",
+  "uid": "sa819",
+  "title": "雜阿含經  卷第三十一  學相應  （819）  學",
+  "chinese_text": "如是我聞：\n\n一時，佛住舍衛國祇樹給孤獨園。\n\n爾時，世尊告諸比丘：「過二百五十戒，隨次半月來說波羅提木叉修多羅，令彼自求學者而學，說三學，能攝諸戒。何等為三？謂增上戒學、增上意學、增上慧學。」\n\n佛說此經已，諸比丘聞佛所說，歡喜奉行。",
+  "english_sa_text": "",
+  "parallels": [
+    {
+      "uid": "an3.88",
+      "acronym": "AN 3.88",
+      "root_lang": "pli",
+      "original_title": "Tatiyasikkhāsutta",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    }
+  ],
+  "primary_sn_uid": null,
+  "pali_text": "",
+  "english_sn_text": "",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa801-900/sa819_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa801-900/sa819_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛住舍卫国祇树给孤独园。\n尔时世尊告诸比丘：「过二百五十学处，每于半月说波罗提木叉，令自求学者而学；然此一切，皆为三学所摄。何等为三？谓增上戒学、增上意学、增上慧学。」\n佛说此经已，诸比丘闻佛所说，欢喜奉行。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在舍卫国祇树给孤独园。\n那时世尊告诉比丘们：「学处超过二百五十条，每到半月宣说波罗提木叉，让自愿修学的人来学；然而这一切，都被三学所含摄。哪三学？就是增上戒学、增上意学、增上慧学。」\n佛说完这部经，比丘们听佛所说，都欢喜奉行。",
+  "notes": "本经 SC 平行表所列平行及 `raw_aligned_data.json` 内之巴利本文、Sujato 英译并用以厘定法义；求那跋陀罗汉本用于定位经文与传统术语。confidence=high：AN3.86–88 开首同型（半月诵戒、三学摄一切学处）；汉「二百五十」从部派戒数，巴利常作「百五十余」。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "high",
+  "prior_review_status": "needs_revision",
+  "similarity_to_source": 0.287,
+  "paragraph_parallel": true
+}

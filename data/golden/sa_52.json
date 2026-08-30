@@ -1,0 +1,34 @@
+{
+  "id": "SA_52",
+  "uid": "sa52",
+  "title": "雜阿含經  卷第二  陰相應  （五二）  鬱低迦",
+  "chinese_text": "鬱低迦修多羅，如增一阿含經四法中說。",
+  "english_sa_text": "",
+  "parallels": [],
+  "primary_sn_uid": null,
+  "pali_text": "",
+  "english_sn_text": "",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa1-100/sa52_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa1-100/sa52_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "郁低迦修多罗，如《增一阿含》四法中说。",
+  "modern_psychology_text": "《郁低迦经》的内容，如同《增一阿含》「四法」那一类经中所说。（本经在杂阿含中仅作交叉引用，不另出全文。）",
+  "notes": "底本仅「鬱低迦修多羅，如增一阿含經四法中說」；无 SC 主平行。不作臆造全文。gold_reconstructed，confidence=low。",
+  "review_status": "gold_reconstructed",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "warn",
+    "issues": [],
+    "warnings": [
+      "literary_suspiciously_short"
+    ],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "low",
+  "prior_review_status": "needs_revision",
+  "revision_reason": "信达雅 v1：据巴利平行重译，去繁转简稿",
+  "similarity_to_source": 0.269
+}

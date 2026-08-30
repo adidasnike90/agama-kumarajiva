@@ -1,0 +1,84 @@
+{
+  "id": "SA_904",
+  "uid": "sa904",
+  "title": "雜阿含經  卷第三十四  不壞淨相應  （904）  聲聞第一",
+  "chinese_text": "如是我聞：\n\n一時，佛住王舍城迦蘭陀竹園。\n\n爾時，世尊告諸比丘：「若諸世間眾生，彼一切皆依於地而得建立；如是一切諸眾，如來聲聞眾最為第一……」如是廣說，乃至「聖戒。」\n\n佛說此經已，諸比丘聞佛所說，歡喜奉行。",
+  "english_sa_text": "",
+  "parallels": [
+    {
+      "uid": "an4.34",
+      "acronym": "AN 4.34",
+      "root_lang": "pli",
+      "original_title": "Aggappasādasutta",
+      "translated_title": "Confidence",
+      "type": "full",
+      "resembling": true,
+      "remark": null
+    },
+    {
+      "uid": "an5.32",
+      "acronym": "AN 5.32",
+      "root_lang": "pli",
+      "original_title": "Cundīsutta",
+      "translated_title": "Cundī",
+      "type": "full",
+      "resembling": true,
+      "remark": null
+    },
+    {
+      "uid": "ea21.1",
+      "acronym": "EA 21.1",
+      "root_lang": "lzh",
+      "original_title": "第一德",
+      "translated_title": "Highest Faith",
+      "type": "full",
+      "resembling": true,
+      "remark": null
+    },
+    {
+      "uid": "iti90",
+      "acronym": "Iti 90",
+      "root_lang": "pli",
+      "original_title": "Aggappasādasutta",
+      "translated_title": "Foremost Faith",
+      "type": "full",
+      "resembling": true,
+      "remark": null
+    },
+    {
+      "uid": "t765.137",
+      "acronym": "T 765.137",
+      "root_lang": "lzh",
+      "original_title": "最勝",
+      "translated_title": null,
+      "type": "full",
+      "resembling": true,
+      "remark": null
+    }
+  ],
+  "primary_sn_uid": null,
+  "pali_text": "",
+  "english_sn_text": "",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa901-1000/sa904_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa901-1000/sa904_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛住王舍城迦兰陀竹园。\n尔时世尊告诸比丘：「若诸世间众会，如来声闻众最第一——所谓四双八士，应请、应待、应供、应合掌，世间无上福田。若于僧得不坏净，是信于第一；信于第一者，得第一果。于佛、法、圣戒亦如是说。」\n佛说此经已，诸比丘闻佛所说，欢喜奉行。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在王舍城迦兰陀竹园。\n那时世尊告诉比丘们：「在世间各种众会之中，如来的声闻众是最第一——也就是四双八辈，应请、应待、应供、应合掌，是世间无上福田。如果对僧成就不坏净，就是信于第一；信于第一的人，得到第一的果报。对佛、法、圣戒也可以这样说。」\n佛说完这部经，比丘们听佛所说，都欢喜奉行。",
+  "notes": "本经 SC 平行表所列平行及 `raw_aligned_data.json` 内之巴利本文、Sujato 英译并用以厘定法义；求那跋陀罗汉本用于定位经文与传统术语。confidence=high：AN4.34 第四分 sāvakasaṅgha。汉「如是广说乃至圣戒」删省，据 AN 补僧德及不坏净果。gold_reconstructed。",
+  "review_status": "gold_reconstructed",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "high",
+  "prior_review_status": "needs_revision",
+  "reconstruction_basis": "汉『如是广说乃至圣戒』删省；据 AN4.34 sāvakasaṅgha／不坏净果重建",
+  "similarity_to_source": 0.201,
+  "paragraph_parallel": true
+}

@@ -1,0 +1,43 @@
+{
+  "id": "SA_468",
+  "uid": "sa468",
+  "title": "雜阿含經  卷第十九  受相應  （468）  三受",
+  "chinese_text": "如是我聞：\n\n一時，佛住王舍城迦蘭陀竹園。\n\n爾時，尊者羅睺羅往詣佛所，稽首佛足，退坐一面，白佛言：「世尊！云何知、云何見我此識身及外境界一切相，得無有我、我所見、我慢繫著使？」\n\n佛告羅睺羅：「有三受——苦受、樂受、不苦不樂受。觀於樂受，為斷樂受貪使故，於我所修梵行；斷苦受瞋恚使故，於我所修梵行；斷不苦不樂受癡使故，於我所修梵行。\n\n「羅睺羅！若比丘樂受貪使已斷、已知，苦受恚使已斷、已知，不苦不樂受癡使已斷、已知者，是名比丘斷除愛欲縛、去諸結，慢無間等，究竟苦邊。」\n\n爾時，世尊即說偈言：\n\n「樂受所受時，　　則不知樂受，\n\n　貪使之所使，　　不見出要道。\n\n　苦受所受時，　　則不知苦受，\n\n　瞋恚使所使，　　不見出要道。\n\n　不苦不樂受，　　正覺之所說，\n\n　不善觀察者，　　終不度彼岸。\n\n　比丘勤精進，　　正知不動轉，\n\n　如此一切受，　　慧者能覺知。\n\n　覺知諸受者，　　現法盡諸漏，\n\n　明智者命終，　　不墮於眾數。\n\n　眾數既已斷，　　永處般涅槃。」\n\n佛說此經已，尊者羅睺羅聞佛所說，歡喜奉行。",
+  "english_sa_text": "",
+  "parallels": [
+    {
+      "uid": "sn36.3",
+      "acronym": "SN 36.3",
+      "root_lang": "pli",
+      "original_title": "Pahānasutta",
+      "translated_title": "Abandonment",
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    }
+  ],
+  "primary_sn_uid": "sn36.3",
+  "pali_text": "“Tisso imā, bhikkhave, vedanā. Katamā tisso? Sukhā vedanā, dukkhā vedanā, adukkhamasukhā vedanā. Sukhāya, bhikkhave, vedanāya rāgānusayo pahātabbo, dukkhāya vedanāya paṭighānusayo pahātabbo, adukkhamasukhāya vedanāya avijjānusayo pahātabbo. Yato kho, bhikkhave, bhikkhuno sukhāya vedanāya rāgānusayo pahīno hoti, dukkhāya vedanāya paṭighānusayo pahīno hoti, adukkhamasukhāya vedanāya avijjānusayo pahīno hoti, ayaṁ vuccati, bhikkhave, ‘bhikkhu niranusayo sammaddaso acchecchi taṇhaṁ, vivattayi saṁyojanaṁ, sammā mānābhisamayā antamakāsi dukkhassā’ti. Sukhaṁ vedayamānassa, vedanaṁ appajānato; So rāgānusayo hoti, anissaraṇadassino. Dukkhaṁ vedayamānassa, vedanaṁ appajānato; Paṭighānusayo hoti, anissaraṇadassino. Adukkhamasukhaṁ santaṁ, bhūripaññena desitaṁ; Tañcāpi abhinandati, neva dukkhā pamuccati. Yato ca bhikkhu ātāpī, sampajaññaṁ na riñcati; Tato so vedanā sabbā, parijānāti paṇḍito. So vedanā pariññāya, diṭṭhe dhamme anāsavo; Kāyassa bhedā dhammaṭṭho, saṅkhyaṁ nopeti vedagū”ti. Tatiyaṁ.",
+  "english_sn_text": "“Mendicants, there are these three feelings. What three? Pleasant, painful, and neutral feeling. The underlying tendency to greed should be given up when it comes to pleasant feeling. The underlying tendency to aversion should be given up when it comes to painful feeling. The underlying tendency to ignorance should be given up when it comes to neutral feeling. When a mendicant has given up these underlying tendencies, they’re called a mendicant without underlying tendencies, who sees rightly, has cut off craving, cast off the fetters, and by rightly comprehending conceit has made an end of suffering. When you feel pleasure without understanding feeling, the underlying tendency to greed is there, if you don’t see the escape. When you feel pain without understanding feeling, the underlying tendency to aversion is there, if you don’t see the escape. As for that peaceful, neutral feeling: he of vast wisdom has taught that if you relish it, you’re still not released from suffering. But when a mendicant is keen, not neglecting situational awareness, that astute person understands all feelings. Completely understanding feelings, they’re without defilements in this very life. That knowledge master is firm in principle; when their body breaks up, they can’t be reckoned.”",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa401-500/sa468_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa401-500/sa468_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛在王舍城迦兰陀竹园。\n尔时，尊者罗睺罗诣世尊所，稽首礼足，退坐一面，白佛言：「世尊！云何知、云何见，于此识身及外境界一切相，得无有我、我所见、我慢系着使？」\n佛告罗睺罗：「有三受——苦受、乐受、不苦不乐受。于乐受当断贪使，于苦受当断瞋恚使，于不苦不乐受当断痴使——是故于我所修梵行。若比丘于乐受贪使已断、已知，于苦受恚使已断、已知，于不苦不乐受痴使已断、已知——是名断除爱欲缚、去诸结，正慢无间等，究竟苦边。」\n尔时世尊即说偈言：「乐受所受时，若不了知受，贪使之所使，不见出要道。苦受所受时，若不了知受，瞋恚使所使，不见出要道。不苦不乐受，正觉之所说——不善观察者，终不度彼岸。比丘勤精进，正知不动转，于此一切受，慧者能了知。了知诸受故，现法尽诸漏；明智者命终，不堕于众数。」\n佛说此经已，尊者罗睺罗闻佛所说，欢喜奉行。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在王舍城迦兰陀竹园。\n那时，罗睺罗尊者来到世尊处，顶礼佛足，退坐一面，对佛说：「世尊！怎样知、怎样见，对于这个有识之身以及外境界的一切相，才能没有我、我所见、我慢系着使？」\n佛告诉罗睺罗：「有三种受——苦受、乐受、不苦不乐受。对于乐受应当断除贪使，对于苦受应当断除瞋恚使，对于不苦不乐受应当断除痴使——所以在我这里修梵行。如果比丘对乐受的贪使已经断除、已经了知，对苦受的恚使已经断除、已经了知，对不苦不乐受的痴使已经断除、已经了知——这叫做断除爱欲缚、除去诸结，正确了知慢而无间等，究竟苦边。」\n那时世尊就说偈：「领受乐受时，如果不了知受，就被贪使所使，看不见出要之道。领受苦受时，如果不了知受，就被瞋恚使所使，看不见出要之道。不苦不乐受，是正觉所说——不善观察的人，终究不能度到彼岸。比丘勤奋精进，正知而不动转，对于这一切受，有智慧的人能够了知。了知诸受的缘故，现世尽诸漏；明智的人命终，不落入各种名数。」\n佛说完这部经，罗睺罗尊者听佛所说，欢喜奉行。",
+  "notes": "本经 SC 平行表所列平行及 `raw_aligned_data.json` 内之巴利本文、Sujato 英译并用以厘定法义；求那跋陀罗汉本用于定位经文与传统术语。confidence=high：primary SN36.3 Pahāna。贪／瞋／痴使＝rāga／paṭigha／avijjā anusaya；『正慢无间等』≈sammā māna-abhisamea；删汉末『永处般涅槃』衍句以就 SN 偈。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "high",
+  "prior_review_status": "needs_revision",
+  "similarity_to_source": 0.352,
+  "paragraph_parallel": true
+}

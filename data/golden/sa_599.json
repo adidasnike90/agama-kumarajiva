@@ -1,0 +1,66 @@
+{
+  "id": "SA_599",
+  "uid": "sa599",
+  "title": "雜阿含經  卷第二十五  天相應  （599）  髻髮",
+  "chinese_text": "如是我聞：\n\n一時，佛住舍衛國祇樹給孤獨園。\n\n時，有一天子，容色絕妙，於後夜時來詣佛所，稽首佛足，退坐一面。身諸光明遍照祇樹給孤獨園。\n\n時，彼天子而說偈言：\n\n　　「外纏結非纏，　　內纏纏眾生，\n\n　今問於瞿曇，　　誰於纏離纏？」\n\n爾時，世尊說偈答言：\n\n「智者建立戒，　　內心修智慧，\n\n　比丘勤修習，　　於纏能解纏。」\n\n時，彼天子復說偈言：\n\n「久見婆羅門，　　逮得般涅槃，\n\n　一切怖已過，　　永超世恩愛。」\n\n時，彼天子聞佛所說，歡喜隨喜，稽首佛足，即沒不現。",
+  "english_sa_text": "",
+  "parallels": [
+    {
+      "uid": "sa-2.173",
+      "acronym": "SA2 173",
+      "root_lang": "lzh",
+      "original_title": "髻髮",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "sn1.23",
+      "acronym": "SN 1.23",
+      "root_lang": "pli",
+      "original_title": "Jaṭāsutta",
+      "translated_title": "Tangle",
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "sn7.6",
+      "acronym": "SN 7.6",
+      "root_lang": "pli",
+      "original_title": "Jaṭāsutta",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    }
+  ],
+  "primary_sn_uid": "sn1.23",
+  "pali_text": "“Antojaṭā bahijaṭā, Jaṭāya jaṭitā pajā; Taṁ taṁ gotama pucchāmi, Ko imaṁ vijaṭaye jaṭan”ti. “Sīle patiṭṭhāya naro sapañño, Cittaṁ paññañca bhāvayaṁ; Ātāpī nipako bhikkhu, So imaṁ vijaṭaye jaṭaṁ. Yesaṁ rāgo ca doso ca, avijjā ca virājitā; Khīṇāsavā arahanto, tesaṁ vijaṭitā jaṭā. Yattha nāmañca rūpañca, asesaṁ uparujjhati; Paṭighaṁ rūpasaññā ca, etthesā chijjate jaṭā”ti.",
+  "english_sn_text": "“Tangled within, tangled without: these people are tangled in tangles. I ask you this, Gotama: who can untangle this tangle?” “A wise person grounded in ethics, developing the mind and wisdom, a keen and alert mendicant— they can untangle this tangle. Those in whom greed, hate, and ignorance have faded away; the perfected ones with defilements ended— they have untangled the tangle. And where name and form cease with no residue left behind; and impingement and perception of form: it’s here this tangle is cut.”",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa501-600/sa599_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa501-600/sa599_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛住舍卫国祇树给孤独园。\n后夜分，有天子来诣佛所，容色绝妙，稽首礼足，退坐一面；身诸光明遍照祇园。\n天子说偈问：「外缠结非缠，内缠缠众生，今问于瞿昙，谁于缠离缠？」\n世尊说偈答：「智者建立戒，内心修智慧，比丘勤修习，于缠能解缠。」\n天子说偈：「久见婆罗门，逮得般涅槃，一切怖已过，永超世恩爱。」闻已欢喜，礼足即没。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在舍卫国祇树给孤独园。\n后夜分，有一位天子，容色绝妙，来到佛前，顶礼佛足，退坐一面；身上的光明遍照祇树给孤独园。\n天子说偈问：「外缠不是缠，内缠缠众生，今问瞿昙：谁能于缠中解缠？」\n世尊说偈答：「智者建立戒，内心修智慧，比丘勤修习，于缠能解缠。」\n天子又说偈：「久见婆罗门，逮得般涅槃，一切怖已过，永超世恩爱。」听完欢喜随喜，顶礼佛足，随即隐没不见。",
+  "notes": "本经 SC 平行表所列平行及 `raw_aligned_data.json` 内之巴利本文、Sujato 英译并用以厘定法义；求那跋陀罗汉本用于定位经文与传统术语。confidence=high：primary SN1.23（Jaṭā 缠）。汉本略去 SN 贪恚痴尽、名色无余段，不增补，仅志其异。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "high",
+  "prior_review_status": "needs_revision",
+  "similarity_to_source": 0.232,
+  "paragraph_parallel": true,
+  "quality_gate_reasons": [
+    "lit_mod_gap=0.188>=0.1"
+  ]
+}

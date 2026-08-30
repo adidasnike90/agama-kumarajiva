@@ -1,0 +1,73 @@
+{
+  "id": "SA_1315",
+  "uid": "sa1315",
+  "title": "雜阿含經  卷第五十  雜相應  （1315）  栴檀",
+  "chinese_text": "如是我聞：\n\n一時，佛住舍衛國祇樹給孤獨園。\n\n時，有栴檀天子，容色絕妙，於後夜時來詣佛所，稽首佛足，退坐一面。其身光明遍照祇樹給孤獨園。\n\n時，彼栴檀天子說偈問佛：\n\n「聞瞿曇大智，　　無障礙知見，\n\n　何所住何學，　　不遭他世惡？」\n\n爾時，世尊說偈答曰：\n\n「攝持身口意，　　不造三惡法，\n\n　處在於居家，　　廣集於群賓。\n\n　信惠財法施，　　以法立一切，\n\n　住彼學彼法，　　則無他世畏。」\n\n佛說是經已，栴檀天子聞佛所說，歡喜隨喜，稽首佛足，即沒不現。",
+  "english_sa_text": "",
+  "parallels": [
+    {
+      "uid": "ja458",
+      "acronym": "Ja 458",
+      "root_lang": "pli",
+      "original_title": "Udayajātaka",
+      "translated_title": "Udaya Jātaka",
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "sa-2.314",
+      "acronym": "SA2 314",
+      "root_lang": "lzh",
+      "original_title": "栴檀",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "sn1.75",
+      "acronym": "SN 1.75",
+      "root_lang": "pli",
+      "original_title": "Bhītāsutta",
+      "translated_title": "Afraid",
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "ne37",
+      "acronym": "Ne 37",
+      "root_lang": "pli",
+      "original_title": "Sāsanapaṭṭhāna",
+      "translated_title": "Chapter iv The Pattern Of The Dispensation",
+      "type": "mention",
+      "resembling": false,
+      "remark": null
+    }
+  ],
+  "primary_sn_uid": "sn1.75",
+  "pali_text": "“Kiṁsūdha bhītā janatā anekā, Maggo canekāyatanappavutto; Pucchāmi taṁ gotama bhūripañña, Kismiṁ ṭhito paralokaṁ na bhāye”ti. “Vācaṁ manañca paṇidhāya sammā, Kāyena pāpāni akubbamāno; Bahvannapānaṁ gharamāvasanto, Saddho mudū saṁvibhāgī vadaññū; Etesu dhammesu ṭhito catūsu, Dhamme ṭhito paralokaṁ na bhāye”ti.",
+  "english_sn_text": "“Why are so many people here afraid, when the path has been taught with so many dimensions? I ask you, Gotama, whose wisdom is vast: Standing on what need one not fear the next world?” “When speech and mind are directed right, and you don’t do anything bad with the body while dwelling at home with plenty of food and drink. Faithful, gentle, charitable, and bountiful: one who stands on these four principles, who stands on the teaching need not fear the next world.”",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa1301-1400/sa1315_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa1301-1400/sa1315_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛住舍卫国祇树给孤独园。\n后夜分，栴檀天子容色绝妙，来诣佛所，稽首礼足，退坐一面；身诸光明遍照祇园。\n天子说偈问：「瞿昙大智无碍！众人多怖，道亦多门；住何法、学何法，不惧他世？」\n世尊说偈答：「正摄口与意，身不作诸恶；居家丰饮食，而能信、柔和、好施、知分与。住此四法，住于法者，则不惧他世。」\n时彼天子闻佛所说，欢喜随喜，稽首佛足，即没不现。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在舍卫国祇树给孤独园。\n后夜分，名叫栴檀的天子容色绝妙，来到佛前，顶礼佛足，退坐一面；身上光明遍照祇园。\n天子说偈问：「瞿昙大智无碍！这里许多人害怕，道路也有许多门径；安住什么、修学什么，才不怕来世？」\n世尊说偈答：「口与意安放得正，身不作恶；虽在家丰足饮食，却有信、柔和、好布施、知分与人。安住这四法、安住于法的人，就不怕来世。」\n那时天子听佛所说，欢喜随喜，顶礼佛足，随即隐没不见。",
+  "notes": "本经 SC 平行表所列平行及 `raw_aligned_data.json` 内之巴利本文、Sujato 英译并用以厘定法义；求那跋陀罗汉本用于定位经文与传统术语。confidence=high：primary SN1.75 Bhītāsutta。据 SN 四法：vācaṁ manañca paṇidhāya sammā、身不作恶、saddho mudū saṁvibhāgī vadaññū；汉「广集群宾／财法施」收束为信、柔、施、知分与。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "high",
+  "prior_review_status": "needs_revision",
+  "similarity_to_source": 0.149,
+  "paragraph_parallel": true
+}

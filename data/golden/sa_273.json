@@ -1,0 +1,55 @@
+{
+  "id": "SA_273",
+  "uid": "sa273",
+  "title": "雜阿含經  卷第十一  六入處相應  （273）  手聲喻",
+  "chinese_text": "如是我聞：\n\n一時，佛住舍衛國祇樹給孤獨園。\n\n時，有異比丘獨靜思惟：「云何為我？我何所為？何等是我？我何所住？」從禪覺已，往詣佛所，稽首禮足，退住一面，白佛言：「世尊！我獨一靜處，作是思惟：『云何為我？我何所為？何法是我？我於何住？』」\n\n佛告比丘：「今當為汝說於二法。諦聽，善思，云何為二？眼色為二。耳聲、鼻香、舌味、身觸、意法為二，是名二法。比丘！若有說言：『沙門瞿曇所說二法，此非為二，我今捨此，更立二法。』彼但有言數，問已不知，增其疑惑，以非境界故。所以者何？緣眼、色，生眼識。\n\n「比丘！彼眼者，是肉形、是內、是因緣、是堅、是受，是名眼肉形內地界。比丘！若眼肉形，若內、若因緣、津澤、是受，是名眼肉形內水界。比丘！若彼眼肉形，若內、若因緣、明暖、是受，是名眼肉形內火界。比丘！若彼眼肉形，若內、若因緣、輕飄動搖、是受，是名眼肉形內風界。\n\n「比丘！譬如兩手和合相對作聲。如是緣眼、色，生眼識，三事和合觸，觸俱生受、想、思。此等諸法非我、非常，是無常之我，非恒、非安隱、變易之我。所以者何？比丘！謂生、老、死、沒、受生之法。\n\n「比丘！諸行如幻、如炎，剎那時頃盡朽，不實來實去。是故，比丘！於空諸行當知、當喜、當念：『空諸行常、恒、住、不變易法空，無我、我所。』譬如明目士夫，手執明燈，入於空室，彼空室觀察。\n\n「如是，比丘！於一切空行、空心觀察歡喜，於空法行，常、恒、住、不變易法，空我、我所。如眼，耳、鼻、舌、身、意法因緣生意識，三事和合觸，觸俱生受、想、思，此諸法無我、無常，乃至空我、我所。比丘！於意云何？眼是常、為非常耶？」\n\n答言：「非常。世尊！」\n\n復問：「若無常者，是苦耶？」\n\n答言：「是苦。世尊！」\n\n復問：「若無常、苦，是變易法，多聞聖弟子寧於中見我、異我、相在不？」\n\n答言：「不也，世尊！」\n\n「耳、鼻、舌、身、意亦復如是。如是多聞聖弟子於眼生厭，厭故不樂，不樂故解脫，解脫知見：『我生已盡，梵行已立，所作已作，自知不受後有。』耳、鼻、舌、身、意亦復如是。」\n\n時，彼比丘聞世尊說合手聲譬經教已，獨一靜處，專精思惟，不放逸住，乃至自知不受後有。成阿羅漢。",
+  "english_sa_text": "",
+  "parallels": [
+    {
+      "uid": "sn35.93",
+      "acronym": "SN 35.93",
+      "root_lang": "pli",
+      "original_title": "Dutiyadvayasutta",
+      "translated_title": "The Dyad (2)",
+      "type": "full",
+      "resembling": true,
+      "remark": null
+    },
+    {
+      "uid": "sn35.92",
+      "acronym": "SN 35.92",
+      "root_lang": "pli",
+      "original_title": "Paṭhamadvayasutta",
+      "translated_title": "The Dyad (1)",
+      "type": "full",
+      "resembling": true,
+      "remark": null
+    }
+  ],
+  "primary_sn_uid": "sn35.92",
+  "pali_text": "“Dvayaṁ vo, bhikkhave, desessāmi. Taṁ suṇātha. Kiñca, bhikkhave, dvayaṁ? Cakkhuñceva rūpā ca, sotañceva saddā ca, ghānañceva gandhā ca, jivhā ceva rasā ca, kāyo ceva phoṭṭhabbā ca, mano ceva dhammā ca— idaṁ vuccati, bhikkhave, dvayaṁ. Yo, bhikkhave, evaṁ vadeyya: ‘ahametaṁ dvayaṁ paccakkhāya aññaṁ dvayaṁ paññapessāmī’ti, tassa vācāvatthukamevassa. Puṭṭho ca na sampāyeyya. Uttariñca vighātaṁ āpajjeyya. Taṁ kissa hetu? Yathā taṁ, bhikkhave, avisayasmin”ti. Navamaṁ.",
+  "english_sn_text": "“Mendicants, I will teach you a duality. Listen … And what is a duality? It’s just the eye and sights, the ear and sounds, the nose and smells, the tongue and tastes, the body and touches, and the mind and ideas. This is called a duality. Mendicants, suppose someone was to say: ‘I’ll deny this duality and describe another duality.’ They’d have no grounds for that claim, they’d be stumped by questions, and, in addition, they’d get frustrated. Why is that? Because they’re out of their element.”",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa201-300/sa273_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa201-300/sa273_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛在舍卫国祇树给孤独园。\n时，有异比丘独静思惟：「云何为我？我何所为？何等是我？我何所住？」从禅觉已，诣佛所，稽首礼足，退坐一面，白佛言：「世尊！我独静处，作是思惟：『云何为我？我何所为？何法是我？我于何住？』」\n佛告比丘：「今当为汝说二法。谛听，善思。何谓二？谓眼与色为二，耳与声、鼻与香、舌与味、身与触、意与法为二——是名二法。」\n「若有人言：『瞿昙所说二法，此非为二；我今舍此，别立二法。』彼但有言数，问之不知，徒增疑惑——以非其境界故。所以者何？缘眼、色，生眼识。」\n「比丘！眼有内肉形：坚聚为地，津泽为水，明暖为火，轻动为风——皆缘内起、皆属于受，是名眼内四界。」\n「譬如两手相合，暂作拍声。缘眼、色，生眼识；三事合故名为触，触则俱生受、想、思。此诸法门，无我、无常，非恒、非安隐，会变易，不可计为我。所以者何？有生、老、病、死、没、再受生故。」\n「诸行如幻、如阳焰，刹那坏尽，无实来、无实去。是故于空诸行，当以正知、以喜、以念：于诸行空，于常、恒、住、不变易等想亦空，无我、我所。譬如明目之人，执灯入空室，观其中空。」\n「于一切空行、空心，观察欢喜；于空法行，空于我、我所。如眼，耳、鼻、舌、身、意与法缘生意识，三事合触，触俱生受、想、思——此亦无我、无常，乃至空于我、我所。」\n「比丘！于意云何？眼为常耶？为无常耶？」答言：「无常，世尊！」\n「无常者，为苦耶？」答言：「是苦，世尊！」\n「若无常、是苦、会变易，多闻圣弟子，宁于中计我、异我、相在耶？」答言：「不也，世尊！」「耳、鼻、舌、身、意，亦复如是。」\n「多闻圣弟子，于眼修厌；厌故离贪，离贪故解脱，自知解脱：「我生已尽，梵行已立，所作已作，自知不受后有。」「耳、鼻、舌、身、意，亦复如是。」\n时，彼比丘闻世尊说合手声譬经教已，独一静处，专精思惟，不放逸住，乃至自知不受后有，成阿罗汉。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在舍卫国祇树给孤独园。\n有一位比丘独静思惟：「什么是『我』？我做什么？什么是我？我住于何处？」从禅定中起来，到佛前，稽首礼足，退坐一旁，对佛说：「世尊！我独自静处，作此思惟：『什么是「我」？我做什么？什么法是我？我住于何处？』」\n佛告诉比丘：「今当为你们说二法。仔细听，好好思量：眼与色为二，耳与声、鼻与香、舌与味、身与触、意与法为二——这叫做二法。」\n「若有人说：『瞿昙所说的二法并不是二法；我要舍弃它，另立二法。』那只是空有言说，一问便答不上来，只会更增疑惑——因为那不是他的境界。为什么呢？缘眼与色，生起眼识。」\n「眼之内有肉形：坚聚为地界，津泽为水界，明暖为火界，轻动为风界——都缘内起、都属于受，这叫做眼内的四界。」\n「譬如两手相合，暂时拍出声音。缘眼与色，生起眼识；三者和合叫做触，有触就同时生起受、想、思。这些法门无我、无常，不恒常、不安稳，会变易，不可计为我。为什么呢？因为有生起、衰老、疾病、死亡、没灭、再受生。」\n「诸行如幻、如阳焰，刹那之间坏尽，没有真实来、也没有真实去。所以，对于空诸行，应当如实了知、生起喜悦、系念不忘：于诸行空，对于常、恒、住、不变易等想也空，无我、无所属。就像眼睛明亮的人，拿着灯进入空室，观察其中的空。」\n「对于一切空行、空心，观察而欢喜；对于空法行，空于我、我所。眼是这样；耳、鼻、舌、身、意与法为缘生起意识，三者和合为触，触同时生起受、想、思——这些也无我、无常，乃至空于我、我所。」\n「你认为怎样？眼是常，还是无常？」答：「无常，世尊！」\n「无常的，是苦吗？」答：「是苦，世尊！」\n「既是无常、是苦、会变易，多闻圣弟子，还会在其中计我、计我所、计相在吗？」答：「不会，世尊！」「耳、鼻、舌、身、意，也是一样。」\n「多闻圣弟子，对眼修厌离；厌离便离贪，离贪便得解脱，自知已解脱：「我的生已尽，梵行已立，该做的已做，自知不再受后有。」「耳、鼻、舌、身、意，也是一样。」\n那位比丘听佛说完这部以合手声为譬的经教之后，独自静处，专精思惟，安住不放逸，最终自知不再受后有，成为阿罗汉。",
+  "notes": "本经 SC 平行表所列平行及 `raw_aligned_data.json` 内之巴利本文、Sujato 英译并用以厘定法义；求那跋陀罗汉本用于定位经文与传统术语。confidence=medium：SC 于本经所列 SN35.92–93 仅覆「二法（眼色等）」及「舍此更立二法则答不知」一段；我见我住之问、眼内四界、合手声譬、空诸行与明灯入空室、三问无常苦非我等，为汉本所增广之教，无单一巴利经逐句可据，故降为 medium。信-校正：底本「是无常之我」语理不通，今作「无我、无常……不可计为我」；「空诸行常、恒、住、不变易法空」句读错乱，当作于诸行空、于常恒等想亦空；「厌故不乐」之「不乐」＝ virāga（离贪），今作「厌故离贪」。首版 literary 栏 sim≈0.52，近乎繁转简；本修订重作罗什风并降 confidence。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "warn",
+    "issues": [],
+    "warnings": [
+      "mark_not_in_output:非我"
+    ],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "medium",
+  "prior_review_status": "needs_revision",
+  "similarity_to_source": 0.256,
+  "paragraph_parallel": true
+}

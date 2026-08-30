@@ -1,0 +1,88 @@
+{
+  "id": "SA_9",
+  "uid": "sa9",
+  "title": "雜阿含經  卷第一  陰相應  （九）  無常",
+  "chinese_text": "如是我聞：一時，佛住舍衛國、祇樹、給孤獨園。爾時，世尊告諸比丘：「色無常。無常即苦，苦即非我，非我者亦非我所。如是觀者名真實正觀。如是，受⋯想⋯行⋯識無常。無常即苦，苦即非我，非我者亦非我所。如是觀者名真實觀。「聖弟子如是觀者厭於色⋯厭受⋯想⋯行⋯識。厭故，不樂。不樂故，得解脫。解脫者真實智生：『我生已盡，梵行已立，所作已作。』自知不受後有。」時，諸比丘聞佛所說歡喜，奉行。",
+  "english_sa_text": "Thus I have heard: One time, the Buddha was staying at Anāthapiṇḍada’s Park in Jeta’s Grove of Śrāvastī. It was then that the Bhagavān addressed the monks, “Form is impermanent. What’s impermanent is painful, something painful is not self, and something that’s not self doesn’t belong to self, either. Observing it in this way is called true and correct observation. Thus, feeling … conception … volition … awareness is impermanent. What’s impermanent is painful, something painful is not self, and something that’s not self doesn’t belong to self, either. Observing it in this way is called a true observation. “Noble disciples who observe it in this way become disillusioned with form … become disillusioned with sensation … conception … volition … awareness. Because they’re disillusioned, they don’t enjoy them. Because they don’t enjoy them, they attain liberation. This true knowledge arises in someone who is liberated: ‘My births have been ended, the religious practice has been established, and the task has been accomplished.’ They themselves know they won’t be subject to a later existence.” When the monks heard what the Buddha taught, they rejoiced and approved.",
+  "parallels": [
+    {
+      "uid": "sa10",
+      "acronym": "SA 10",
+      "root_lang": "lzh",
+      "original_title": "無常",
+      "translated_title": "Discourse on Being Liberated",
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "sn22.15",
+      "acronym": "SN 22.15",
+      "root_lang": "pli",
+      "original_title": "Yadaniccasutta",
+      "translated_title": "What is Impermanent",
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "sn22.16",
+      "acronym": "SN 22.16",
+      "root_lang": "pli",
+      "original_title": "Yaṁdukkhasutta",
+      "translated_title": "What is Suffering",
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "sn22.17",
+      "acronym": "SN 22.17",
+      "root_lang": "pli",
+      "original_title": "Yadanattāsutta",
+      "translated_title": "What is Nonself",
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "up6.005",
+      "acronym": "Up 6.005",
+      "root_lang": "xct",
+      "original_title": "",
+      "translated_title": "Upāyikā 6.005",
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "mn35",
+      "acronym": "MN 35",
+      "root_lang": "pli",
+      "original_title": "Cūḷasaccakasutta",
+      "translated_title": "The Lesser Discourse to Saccaka",
+      "type": "full",
+      "resembling": true,
+      "remark": null
+    }
+  ],
+  "primary_sn_uid": "sn22.15",
+  "pali_text": "Sāvatthinidānaṁ. “Rūpaṁ, bhikkhave, aniccaṁ. Yadaniccaṁ taṁ dukkhaṁ; yaṁ dukkhaṁ tadanattā; yadanattā taṁ ‘netaṁ mama, nesohamasmi, na meso attā’ti evametaṁ yathābhūtaṁ sammappaññāya daṭṭhabbaṁ. Vedanā aniccā. Yadaniccaṁ taṁ dukkhaṁ; yaṁ dukkhaṁ tadanattā; yadanattā taṁ ‘netaṁ mama, nesohamasmi, na meso attā’ti evametaṁ yathābhūtaṁ sammappaññāya daṭṭhabbaṁ. Saññā aniccā …pe… saṅkhārā aniccā … viññāṇaṁ aniccaṁ. Yadaniccaṁ taṁ dukkhaṁ; yaṁ dukkhaṁ tadanattā; yadanattā taṁ ‘netaṁ mama, nesohamasmi, na meso attā’ti evametaṁ yathābhūtaṁ sammappaññāya daṭṭhabbaṁ. Evaṁ passaṁ …pe… nāparaṁ itthattāyā’ti pajānātī”ti. Catutthaṁ.",
+  "english_sn_text": "At Sāvatthī. “Mendicants, form is impermanent. What’s impermanent is suffering. What’s suffering is not-self. And what’s not-self should be truly seen with right understanding like this: ‘This is not mine, I am not this, this is not my self.’ Feeling is impermanent … Perception is impermanent … Choices are impermanent … Consciousness is impermanent. What’s impermanent is suffering. What’s suffering is not-self. And what’s not-self should be truly seen with right understanding like this: ‘This is not mine, I am not this, this is not my self.’ Seeing this … They understand: ‘… there is nothing further for this place.’”",
+  "errors": [],
+  "kumarajiva_style_text": "如是我闻：一时佛在舍卫国祇树给孤独园。\n尔时世尊告诸比丘：色无常。无常即苦，苦即非我，非我者亦非我所。如是观者，名真实正观。受、想、行、识无常；无常即苦，苦即非我，非我者亦非我所。如是观者，名真实观。圣弟子如是观，则厌于色，厌于受、想、行、识。厌故离欲，离欲故解脱。解脱已，真实智生：我生已尽，梵行已立，所作已作，自知不受后有。\n时诸比丘闻佛所说，欢喜奉行。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在舍卫国祇树给孤独园。\n那时，世尊告诉比丘们：色是无常的。无常就是苦，苦就是非我，非我也就不是我所。这样观察，叫做真实正观。受、想、行、识是无常的；无常即苦，苦即非我，非我者亦非我所。这样观察，叫做真实观。圣弟子这样观察，就会厌离于色，厌离于受、想、行、识。因为厌离，所以离欲；因为离欲，所以得解脱。解脱之后，生起真实智：我生已尽，梵行已立，所作已作，自知不受后有。\n当时，比丘们听佛所说，都欢喜奉行。",
+  "notes": "据 SN 22.15：无常→苦→非我，当观「非我、非我所」；见已则厌→离→解脱。汉「厌故不乐，不乐故得解脱」据巴利 nibbindaṁ virajjati; virāgā vimuccati 校正为「厌故离欲，离欲故解脱」。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "prior_review_status": "gold",
+  "revision_reason": null,
+  "confidence": "high"
+}

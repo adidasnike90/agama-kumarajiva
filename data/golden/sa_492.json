@@ -1,0 +1,43 @@
+{
+  "id": "SA_492",
+  "uid": "sa492",
+  "title": "雜阿含經  卷第二十  舍利弗相應  （492）  泥水",
+  "chinese_text": "如是我聞：\n\n一時，佛住王舍城迦蘭陀竹園。爾時，尊者舍利弗亦在彼住。\n\n時，尊者舍利弗語諸比丘：「若有比丘得無量三昧，身作證具足住，於有身滅涅槃心不樂著，顧念有身。譬如士夫膠著於手，以執樹枝，手即著樹，不能得離。所以者何？膠著手故。比丘！無量三摩提身作證，心不樂著有身滅涅槃，顧念有身，終不得離，不得現法隨順法教，乃至命終，亦無所得，還復來生此界，終不能得破於癡冥。譬如聚落傍有泥池，泥極深溺，久旱不雨，池水乾消，其地破裂。如是，比丘！不得見法隨順法教，乃至命終，亦無所得，來生當復還墮此界。\n\n「若有比丘得無量三昧，身作證具足住，於有身滅涅槃心生信樂，不念有身。譬如士夫以乾淨手執持樹枝，手不著樹。所以者何？以手淨故。如是，比丘！得無量三昧，身作證具足住，於有識滅涅槃心生信樂，不念有身，現法隨順法教，乃至命終，不復來還生於此界。是故，比丘！當勤方便，破壞無明。譬如聚落傍有泥池，四方流水及數天雨，水常入池，其水盈溢，穢惡流出，其池清淨。如是皆得現法隨順法教，乃至命終，不復還生此界。是故，比丘！當勤方便，破壞無明。」\n\n尊者舍利弗說此經已，諸比丘聞其所說，歡喜奉行。",
+  "english_sa_text": "",
+  "parallels": [
+    {
+      "uid": "an4.178",
+      "acronym": "AN 4.178",
+      "root_lang": "pli",
+      "original_title": "Jambālīsutta",
+      "translated_title": "The Waste-water Pool",
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    }
+  ],
+  "primary_sn_uid": null,
+  "pali_text": "",
+  "english_sn_text": "",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa401-500/sa492_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa401-500/sa492_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛在王舍城迦兰陀竹园。尔时，尊者舍利弗亦在彼住。\n舍利弗告诸比丘：「若有比丘得无量三昧，身作证具足住，于有身灭涅槃心不生信乐、仍顾念有身——譬如士夫以胶著手执树枝，手即著树，不得离；彼虽得无量三昧，心不信乐有身灭涅槃、顾念有身，终不得离，不得现法随顺法教，乃至命终无所得，还来生此，不能破痴冥。又如聚落傍有泥池，久旱不雨，水涸地裂——不能见法随顺法教，乃至命终无所得，当复还堕此界。」\n「若有比丘得无量三昧，身作证具足住，于有身灭涅槃心生信乐、不念有身——譬如士夫以净手执树枝，手不著树。得无量三昧，于有识灭涅槃心信乐、不念有身，现法随顺法教，乃至命终不复还生此界。又如聚落傍有泥池，四方流水及天雨常入，水盈溢、秽恶流出，池则清净——皆得现法随顺法教，乃至命终不复还生此界。是故比丘当勤方便，破坏无明。」\n尊者舍利弗说是经已，诸比丘闻其所说，欢喜奉行。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在王舍城迦兰陀竹园。那时，舍利弗尊者也在那里住。\n舍利弗告诉比丘们：「如果有比丘证得无量三昧、以身作证而具足住，但对于有身灭涅槃不生信乐、仍然顾念有身——就像有人手上涂胶去抓树枝，手就粘在树上，离不开；他虽然证得无量三昧，心却不信乐有身灭涅槃、仍顾念有身，终究离不开，不能在现世随顺法教，直到命终也无所证，还要再来这一界，不能破除愚痴黑暗。」\n「如果有比丘证得无量三昧、以身作证而具足住，对于有身灭涅槃生起信乐、不再顾念有身——就像有人用干净的手抓树枝，手不会粘住。证得无量三昧，对有识灭涅槃信乐、不念有身，能在现世随顺法教，直到命终不再回到这一界。又好像聚落旁有泥池，四方流水和天雨不断注入，水满溢出、污秽流出，池水变清——都能现世随顺法教，直到命终不再回到这一界。所以比丘应当勤奋用功，破坏无明。」\n舍利弗尊者说完这部经，比丘们听其所说，都欢喜奉行。",
+  "notes": "本经 SC 平行表所列平行及 `raw_aligned_data.json` 内之巴利本文、Sujato 英译并用以厘定法义；求那跋陀罗汉本用于定位经文与传统术语。confidence=high：primary SN39.17 Paṅkūpama（胶手／泥池二喻）。据 SN 校正：『心不乐著』→不生信乐、仍顾念有身；有识灭涅槃≈bhavanirodha。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "high",
+  "prior_review_status": "needs_revision",
+  "similarity_to_source": 0.275,
+  "paragraph_parallel": true
+}

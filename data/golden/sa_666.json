@@ -1,0 +1,33 @@
+{
+  "id": "SA_666",
+  "uid": "sa666",
+  "title": "雜阿含經  卷第二十七  根力相應  （666）  三力",
+  "chinese_text": "如是我聞：\n\n一時，佛住舍衛國祇樹給孤獨園。\n\n爾時，世尊告諸比丘：「有三力——信力、念力、慧力。何等為信力？謂聖弟子於如來所入於淨信，根本堅固，諸天、魔、梵、沙門、婆羅門及諸同法所不能壞，是名信力。何等為精進力？謂修四正斷。何等為慧力？謂四聖諦。」\n\n佛說此經已，諸比丘聞佛所說，歡喜奉行。\n\n餘二力如上說。",
+  "english_sa_text": "",
+  "parallels": [],
+  "primary_sn_uid": null,
+  "pali_text": "",
+  "english_sn_text": "",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa601-700/sa666_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa601-700/sa666_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛住舍卫国祇树给孤独园。\n佛告比丘：「有三力——信力、精进力、慧力。」\n「何等信力？圣弟子于如来所入净信，根本坚固，天、魔、梵、沙门、婆罗门及诸同法所不能坏，是名信力。」\n「何等精进力？谓修四正断。何等慧力？谓知四圣谛。」\n佛说此经已，诸比丘闻佛所说，欢喜奉行。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在舍卫国祇树给孤独园。\n佛告比丘：「有三力——信力、精进力、慧力。」\n「什么是信力？圣弟子对如来进入净信，根本坚固，天、魔、梵、沙门、婆罗门以及同法者都不能破坏，这叫信力。」\n「什么是精进力？就是修四正断。什么是慧力？就是知四圣谛。」\n佛说完这部经，比丘们听佛所说，都欢喜奉行。",
+  "notes": "SC 于本经未列可靠巴利平行，故唯以汉本为底，参同相应之巴利定型语厘义；依项目规约「无可靠平行时 confidence 降为 medium/low」。confidence=medium：三力分别（信不可坏／四正断／四谛）；汉开题「信、念、慧」与正文「精进」不合，从正文作信、精进、慧。gold_reconstructed：底本「余二力如上说」不回填 SA_664 另两组全文。",
+  "review_status": "gold_reconstructed",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "medium",
+  "prior_review_status": "needs_revision",
+  "reconstruction_basis": "余二力如上说 → omit backfill of other triads",
+  "similarity_to_source": 0.372,
+  "paragraph_parallel": true
+}

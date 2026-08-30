@@ -1,0 +1,43 @@
+{
+  "id": "SA_1320",
+  "uid": "sa1320",
+  "title": "雜阿含經  卷第五十  夜叉相應  （1320）  白山",
+  "chinese_text": "如是我聞：\n\n一時，佛住摩鳩羅山，尊者那伽波羅為親侍者。\n\n爾時，世尊於夜闇時，天小微雨，電光睒現，出於房外，露地經行。\n\n是時，天帝釋作是念：「今日世尊住摩鳩羅山，尊者那伽波羅親侍供養，其夜闇冥，天時微雨，電光睒現，世尊出房，露地經行，我當化作毘琉璃重閣，執持重閣，隨佛經行。」作是念已，即便化作鞞琉璃重閣，持詣佛所，稽首佛足，隨佛經行。\n\n爾時，摩竭提國人若男若女，夜啼之時，以摩鳩羅鬼恐之即止，親侍供養弟子之法，待師禪覺，然後乃眠。爾時，世尊為天帝釋夜經行久。\n\n爾時，尊者那伽波羅作是念：「世尊今夜經行至久，我今當作摩鳩羅鬼形而恐怖之！」時，那伽波羅比丘即反被俱執，長毛在外，往在世尊經行道頭，白佛言：「摩鳩羅鬼來！摩鳩羅鬼來！」\n\n爾時，世尊告那伽波羅比丘：「汝那伽波羅愚癡人，以摩鳩羅鬼神像恐怖佛耶？不能動如來、應、等正覺一毛髮也，如來、應、等正覺久離恐怖！」\n\n爾時，天帝釋白佛言：「世尊！世尊正法、律中亦復有此人耶？」\n\n佛言：「憍尸迦！瞿曇家中極大廣闊，斯等於未來世亦當使得清淨之法。」\n\n爾時，世尊即說偈言：\n\n「若復婆羅門，　　於自所得法，\n\n　得到於彼岸。　　若一毘舍遮，\n\n　及與摩鳩羅，　　皆悉超過去。\n\n　若復婆羅門，　　於自所行法，\n\n　一切諸受覺，　　觀察皆已滅。\n\n　若復婆羅門，　　自法度彼岸，\n\n　一切諸因緣，　　皆悉已滅盡。\n\n　若復婆羅門，　　自法度彼岸，\n\n　一切諸人我，　　皆悉已滅盡。\n\n　若復婆羅門，　　自法度彼岸，\n\n　於生老病死，　　皆悉已超過。」\n\n佛說此經已，釋提桓因聞佛所說，歡喜隨喜，稽首佛足，即沒不現。",
+  "english_sa_text": "",
+  "parallels": [
+    {
+      "uid": "sa-2.319",
+      "acronym": "SA2 319",
+      "root_lang": "lzh",
+      "original_title": "白山",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    }
+  ],
+  "primary_sn_uid": null,
+  "pali_text": "",
+  "english_sn_text": "",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa1301-1400/sa1320_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa1301-1400/sa1320_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛住摩鸠罗山，尊者那伽波罗为侍者。\n夜暗微雨，电光闪现，世尊出房露地经行。帝释化作毗琉璃重阁，持阁随佛经行。\n侍者法：待师禅觉然后眠。那伽波罗嫌经行久，反被毛衣作摩鸠罗鬼形，立于经行道头呼：「摩鸠罗鬼来！」\n佛告：「愚痴人！欲以鬼形怖佛耶？不能动如来一毛；如来久离恐怖。」\n帝释问：「正法律中亦有如此人耶？」佛言：「憍尸迦！瞿昙家广大，如是等人未来亦当得清净法。」\n世尊说偈：「若婆罗门于自所得法已到彼岸，则毘舍遮与摩鸠罗皆悉超过；观察诸受已灭，因缘已尽，人我已尽，生老病死皆已超过。」\n帝释闻已欢喜，礼足即没。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在摩鸠罗山，那伽波罗尊者做侍者。\n夜里昏暗又下小雨，电光闪动，世尊走出房门在露天经行。帝释化作一座毗琉璃重阁，举着随佛经行。\n做侍者的规矩是：等师父从禅定出来再睡。那伽波罗嫌经行太久，把毛衣翻过来毛朝外，装成摩鸠罗鬼的样子，站在经行道头喊：「摩鸠罗鬼来了！」\n佛说：「愚痴人！想用鬼形来吓佛吗？动不了如来一根毫毛；如来早已远离恐怖。」\n帝释问：「正法律里也有这样的人吗？」佛说：「憍尸迦！瞿昙家很广大，这样的人将来也会得到清净之法。」\n世尊说偈：「若婆罗门在自己所得的法上已经到了彼岸，毘舍遮和摩鸠罗就都超过去了；观察诸受已经灭尽，因缘已尽，人我已尽，生老病死都已超过。」\n帝释听完欢喜，顶礼后随即隐没。",
+  "notes": "SC 于本经未列可靠巴利平行，故唯以汉本为底，参同相应之巴利定型语厘义；依项目规约「无可靠平行时 confidence 降为 medium/low」。confidence=medium：无 SC 巴利专经；依汉本雅化压缩侍者作鬼怖佛、帝释随行及「已到彼岸则超鬼怖」之偈。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "medium",
+  "prior_review_status": "needs_revision",
+  "similarity_to_source": 0.08,
+  "paragraph_parallel": true
+}

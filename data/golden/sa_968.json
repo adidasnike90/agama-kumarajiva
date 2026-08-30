@@ -1,0 +1,73 @@
+{
+  "id": "SA_968",
+  "uid": "sa968",
+  "title": "雜阿含經  卷第三十八  婆蹉外道相應  （968）  須達",
+  "chinese_text": "如是我聞：\n\n一時，佛住舍衛國祇樹給孤獨園。\n\n時，給孤獨長者日日出見世尊，禮事供養，給孤獨長者作是念：「我今出太早，世尊及諸比丘禪思未起，我寧可過諸外道住處。」即入外道精舍，與諸外道共相問訊慰勞已，退坐一面。\n\n時，彼外道問言：「長者！汝見沙門瞿曇，云何見？何所見？」\n\n長者答言：「我亦不知云何見世尊，世尊何所見。」\n\n諸外道言：「汝言見眾僧，云何見眾僧？眾僧何所見？」\n\n長者答言：「我亦不知云何見僧，僧何所見。」\n\n外道復問：「長者！汝今云何自見？自何所見？」\n\n長者答言：「汝等各各自說所見，然後我說所見，亦不難。」\n\n時，有一外道作如是言：「長者！我見一切世間常，是則真實，餘者虛妄。」\n\n復有說言：「長者！我見一切世間無常，此是真實，餘則虛妄。」\n\n復有說言：「長者！世間常無常，此是真實，餘則虛妄。」\n\n復有說言：「世間非常非無常，此是真實，餘則虛妄。」\n\n復有說言：「世有邊，此是真實，餘則虛妄。」\n\n復有說言：「世無邊，此是真實，餘則虛妄。」\n\n復有說言：「世有邊無邊。」\n\n復有說言：「世非有邊非無邊。」\n\n復有說言：「命即是身。」\n\n復有說言：「命異身異。」\n\n復有說言：「如來死後有。」\n\n復有說言：「如來死後無。」\n\n復有說言：「如來死後有無。」\n\n復有說言：「如來死後非有非無，此是真實，餘則虛妄。」\n\n諸外道語長者言：「我等各各已說所見，汝復應說汝所見。」\n\n長者答言：「我之所見真實、有為、思量、緣起，若復真實、有為、思量、緣起者，彼則無常，無常者是苦。如是知已，於一切見都無所得。如汝所見：『世間常，此是真實，餘則虛妄。』者，此見真實、有為、思量、緣起；若真實、有為、思量、緣起者，是則無常，無常者是苦。是故汝等習近於苦，唯得於苦，堅住於苦，深入於苦。如是汝言世間無常，此是真實，餘則虛妄。有如是咎。」\n\n世間常、無常、非常非無常，世有邊、世無邊、世有邊無邊、世非有邊非無邊，命即是身、命異身異，如來死後有、如來死後無、如來死後有無、如來死後非有非無，此是真實，餘則虛妄，皆如上說。\n\n有一外道語給孤獨長者言：「如汝所說，若有見彼，則真實、有為、思量、緣起者，是無常法，若無常者是苦。是故，長者所見亦習近苦，得苦，住苦，深入於苦？」\n\n長者答言：「我先不言所見者，是真實、有為、思量、緣起法，悉皆無常，無常者是苦，知苦已，我於所見無所得耶？」\n\n彼外道言：「如是，長者！」\n\n爾時，給孤獨長者於外道精舍伏彼異論，建立正論，於異學眾中作師子吼已，往詣佛所，稽首禮足，退坐一面，以向與諸外道共論事向佛廣說。\n\n佛告給孤獨長者：「善哉！善哉！宜應時時摧伏愚癡外道，建立正論。」\n\n佛說是語已，給孤獨長者歡喜隨喜，作禮而去。",
+  "english_sa_text": "",
+  "parallels": [
+    {
+      "uid": "an10.93",
+      "acronym": "AN 10.93",
+      "root_lang": "pli",
+      "original_title": "Kiṁdiṭṭhikasutta",
+      "translated_title": "Views",
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "sa-2.202",
+      "acronym": "SA2 202",
+      "root_lang": "lzh",
+      "original_title": "須達",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "sf132",
+      "acronym": "SF 132",
+      "root_lang": "san",
+      "original_title": "",
+      "translated_title": null,
+      "type": "full",
+      "resembling": true,
+      "remark": null
+    },
+    {
+      "uid": "sf80",
+      "acronym": "SF 80",
+      "root_lang": "san",
+      "original_title": "Anāthapiṇḍada",
+      "translated_title": null,
+      "type": "full",
+      "resembling": true,
+      "remark": null
+    }
+  ],
+  "primary_sn_uid": null,
+  "pali_text": "",
+  "english_sn_text": "",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa901-1000/sa968_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa901-1000/sa968_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛住舍卫国祇树给孤独园。\n时给孤独长者晨出过早，念诸比丘禅未起，乃过外道精舍，问讯坐一面。\n外道问：「汝见沙门瞿昙，云何见？何所见？」答：「我不知云何见世尊，亦不知世尊何所见。」又问僧，亦如是答。问：「汝自云何见？」答：「汝等各说所见，然后我说。」\n诸外道各说：世间常、无常、亦常亦无常、非常非无常，世有边、无边、亦边亦无边、非边非无边，命即身、命异身，如来死后有、无、亦有亦无、非有非无——各执为真实、余为虚妄。\n长者曰：「我所见：凡真实、有为、思量、缘起者，则是无常；无常则苦。如是知已，于一切见都无所得。如汝所见『世间常…』等，彼见本身亦是真实有为、思量缘起，故无常、是苦；是故汝等习近于苦，住苦、入苦。余见亦复如是。」\n有外道反诘：「然则长者所见亦习近苦耶？」长者曰：「我先已说：知彼无常是苦已，于所见无所得。」外道称是。\n长者于外道众中作师子吼，建立正论已，往诣佛所广说。佛言：「善哉！宜时时摧伏愚痴外道，建立正论。」长者欢喜作礼而去。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在舍卫国祇树给孤独园。\n那时给孤独长者早上出门太早，心想比丘们禅修还未起，便去外道精舍，问讯后坐在一面。\n外道问：「你见沙门瞿昙，怎样见？见什么？」答：「我不知道怎样见世尊，也不知道世尊见什么。」又问僧团，也这样答。问：「你自己怎样见？」答：「你们先各自说所见，然后我说。」\n外道们分别说：世间常、无常、亦常亦无常、非常非无常，世间有边、无边、亦边亦无边、非边非无边，命即身、命异身，如来死后有、无、亦有亦无、非有非无——各自执为真实、其余虚妄。\n长者说：「我的见解是：凡是真实、有为、可思量、缘起的，就是无常；无常就是苦。这样知道以后，对一切见都无所取著。像你们所执『世间常…』等，那些见本身也是真实有为、思量缘起，所以无常、是苦；因此你们亲近苦、住在苦里、深入苦中。其余的见也一样。」\n有外道反问：「那么长者你的见不也是亲近苦吗？」长者说：「我先前已说：知道那是无常是苦之后，对所见无所取著。」外道称是。\n长者在外道众中作师子吼，建立正论后，到佛那里详细汇报。佛说：「很好！应当时时摧伏愚痴外道，建立正论。」长者欢喜行礼离去。",
+  "notes": "本经 SC 平行表所列平行及 `raw_aligned_data.json` 内之巴利本文、Sujato 英译并用以厘定法义；求那跋陀罗汉本用于定位经文与传统术语。confidence=high：primary AN10.93；见是有为缘起故无常是苦，于见无所得；师子吼摧邪。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "high",
+  "prior_review_status": "needs_revision",
+  "similarity_to_source": 0.155,
+  "paragraph_parallel": true
+}

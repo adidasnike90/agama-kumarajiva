@@ -1,0 +1,53 @@
+{
+  "id": "SA_239",
+  "uid": "sa239",
+  "title": "雜阿含經  卷第十  六入處相應  （239）  結法",
+  "chinese_text": "如是我聞：\n\n一時，佛住毘舍離獼猴池側重閣講堂。\n\n爾時，世尊告諸比丘：「我今當說結所繫法及結法。云何結所繫法？眼色、耳聲、鼻香、舌味、身觸、意法，是名結所繫法。云何結法？謂欲貪，是名結法。」\n\n佛說此經已，諸比丘聞佛所說，歡喜奉行。",
+  "english_sa_text": "",
+  "parallels": [
+    {
+      "uid": "sn35.109",
+      "acronym": "SN 35.109",
+      "root_lang": "pli",
+      "original_title": "Saṁyojaniyasutta",
+      "translated_title": "Things That Fetter",
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "sn35.122",
+      "acronym": "SN 35.122",
+      "root_lang": "pli",
+      "original_title": "Saṁyojaniyadhammasutta",
+      "translated_title": "Things That Fetter",
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    }
+  ],
+  "primary_sn_uid": "sn35.109",
+  "pali_text": "“Saṁyojaniye ca, bhikkhave, dhamme desessāmi saṁyojanañca. Taṁ suṇātha. Katame ca, bhikkhave, saṁyojaniyā dhammā, katamañca saṁyojanaṁ? Cakkhuṁ, bhikkhave, saṁyojaniyo dhammo. Yo tattha chandarāgo, taṁ tattha saṁyojanaṁ …pe… jivhā saṁyojaniyo dhammo …pe… mano saṁyojaniyo dhammo. Yo tattha chandarāgo, taṁ tattha saṁyojanaṁ. Ime vuccanti, bhikkhave, saṁyojaniyā dhammā, idaṁ saṁyojanan”ti. Chaṭṭhaṁ.",
+  "english_sn_text": "“Mendicants, I will teach you the things that tighten the fetters, and the fetter. Listen … What are the things that tighten the fetters? And what is the fetter? The eye is something that tightens the fetters. The desire and greed for it is the fetter. The ear … nose … tongue … body … mind is something that tightens the fetters. The desire and greed for it is the fetter. These are called the things that tighten the fetters, and this is the fetter.”",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa201-300/sa239_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa201-300/sa239_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时佛在毗舍离猕猴池侧重阁讲堂。\n尔时世尊告诸比丘：我今当说结所系法及结法。谛听！\n云何结所系法？眼色、耳声、鼻香、舌味、身触、意法，是名结所系法。\n云何结法？谓欲贪，是名结法。\n佛说此经已，诸比丘闻佛所说，欢喜奉行。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在毗舍离猕猴池旁的重阁讲堂。\n那时，世尊告诉比丘们：我今天要解说能系结之法与结本身。仔细听！\n什么是能系结之法？眼与色、耳与声、鼻与香、舌与味、身与触、意与法，就叫做能系结之法。\n什么是结？就是欲贪（对境之欲、贪），就叫做结。\n佛说完这部经，比丘们听佛所说，都欢喜奉行。",
+  "notes": "本经 SC 平行表所列平行及 `raw_aligned_data.json` 内之巴利本文、Sujato 英译并用以厘定法义；求那跋陀罗汉本用于定位经文与传统术语。Anālayo 之 SA 英译（DDJBS 18, 2016）止于 SA 229，本批无其逐经英译。confidence=high：SN35.109／35.122（Saṁyojaniya）为 `full` 平行，逐支可对：`cakkhuṁ saṃyojaniyo dhammo, yo tattha chandarāgo taṁ tattha saṃyojanaṁ`——眼为能系结之法，其中之欲贪即是结。汉本以眼色、耳声等六对并举，巴利各就六入之一支出，义同。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "high",
+  "prior_review_status": "needs_revision",
+  "similarity_to_source": 0.287,
+  "paragraph_parallel": true
+}

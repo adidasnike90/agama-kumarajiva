@@ -1,0 +1,51 @@
+{
+  "id": "SA_89",
+  "uid": "sa89",
+  "title": "雜阿含經  卷第四  陰相應  （八九）  優波迦",
+  "chinese_text": "如是我聞：\n\n一時，佛住舍衛國祇樹給孤獨園。\n\n時，有年少婆羅門名優波迦，來詣佛所，與世尊面相問訊慰勞已，退坐一面，白佛言：「瞿曇！諸婆羅門常稱歎邪盛大會，沙門瞿曇亦復稱歎邪盛大會不？」\n\n佛告優波迦：「我不一向稱歎，或有邪盛大會可稱歎，或有邪盛大會不可稱歎。」\n\n優波迦白佛：「何等邪盛大會可稱歎？何等邪盛大會不可稱歎？」\n\n佛告優波迦：「若邪盛大會繫群少特牛、水特、水牸，及諸羊犢、小小眾生悉皆傷殺，逼迫苦切，僕使作人，鞭笞恐怛，悲泣號呼，不喜不樂，眾苦作役。如是等邪盛大會，我不稱歎，以造大難故。若復大會不繫縛群牛，乃至不令眾生辛苦作役者。如是邪盛大會，我所稱歎，以不造大難故。爾時，世尊即說偈言：\n\n「馬祀等大會，　　造諸大難事，\n\n　如是等邪盛，　　大仙不稱歎。\n\n　繫縛諸眾生，　　殺害微細蟲，\n\n　是非為正會，　　大仙不隨順。\n\n　若不害眾生，　　造作眾難者，\n\n　是等名正會，　　大仙隨稱歎。\n\n　惠施修供養，　　為應法邪盛，\n\n　施者清淨心，　　梵行良福田。\n\n　如是大會者，　　是則羅漢會，\n\n　是會得大果，　　諸天皆歡喜。\n\n　自行恭敬請，　　自手而施與，\n\n　彼我悉清淨，　　是施得大果。\n\n　慧者如是施，　　信心應解脫，\n\n　無罪樂世間，　　智者往生彼。」\n\n佛說此經已，優波迦婆羅門聞佛所說，歡喜隨喜，作禮而去。",
+  "english_sa_text": "",
+  "parallels": [
+    {
+      "uid": "an4.39",
+      "acronym": "AN 4.39",
+      "root_lang": "pli",
+      "original_title": "Ujjayasutta",
+      "translated_title": "Ujjaya",
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "sa-2.89",
+      "acronym": "SA2 89",
+      "root_lang": "lzh",
+      "original_title": "優波迦",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    }
+  ],
+  "primary_sn_uid": null,
+  "pali_text": "",
+  "english_sn_text": "",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa1-100/sa89_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa1-100/sa89_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时佛在舍卫国祇树给孤独园。\n时有年少婆罗门名优波迦，来诣佛所，问讯慰劳已，退坐一面，白佛言：瞿昙，诸婆罗门常称叹大祀盛会，沙门瞿昙亦称叹大祀不？\n佛告优波迦：我不一向称叹。有大祀可称叹者，有大祀不可称叹者。\n优波迦白佛：何等大祀可称叹？何等大祀不可称叹？\n佛告优波迦：若大祀之会，系缚群牛、水牛牝牡、羊犊小虫，尽皆伤杀，逼迫苦切；僮仆作人，鞭挞恐怖，悲泣号呼，不喜不乐，众苦执役——如是大祀，我不称叹，以造大难故。若大祀之会不系缚众生，乃至不令众生辛苦执役——如是大祀，我所称叹，以不造大难故。尔时世尊即说偈言：\n马祀等大会，多造大难事；如是诸祭祀，大仙不称叹。系缚诸众生，杀害微细虫，是非为正祀，大仙不随顺。若不害众生，不造诸难者，是等名正祀，大仙所称叹。惠施修供养，是应法之祀；施者清净心，梵行良福田。如是大祀者，是则罗汉会；此会得大果，诸天皆欢喜。躬自恭敬请，自手而施与，彼我悉清净，是施得大果。慧者如是施，净信心解脱；无罪安乐世，智者往生彼。\n佛说此经已，优波迦婆罗门闻佛所说，欢喜随喜，作礼而去。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在舍卫国祇树给孤独园。\n那时，有位名叫优波迦的年轻婆罗门来见佛，问候慰劳后，退坐一旁，问道：瞿昙，婆罗门们常常赞叹盛大的祭祀，沙门瞿昙也赞叹这种大祭吗？\n佛告诉优波迦：我不是一概赞叹。有的大祭值得赞叹，有的大祭不值得赞叹。\n优波迦问：哪种大祭值得赞叹？哪种不值得？\n佛告诉优波迦：如果祭祀时把成群的牛、水牛公母、羊羔小虫都拴起来宰杀，逼迫得它们痛苦不堪；又鞭打恐吓仆役工人，让他们哭喊悲号、不情不愿地做苦役——这样的大祭我不赞叹，因为它制造了巨大的祸害。如果祭祀不捆绑众生，也不让人辛苦服役——这样的大祭我就赞叹，因为它不制造祸害。那时，世尊便说偈说：\n马祀之类的大祭，制造了许多灾难，这样的祭祀，大仙不会赞叹。捆绑众生、杀害细小的虫豸，这不是正当的祭祀，大仙不会随顺。若不伤害众生、不制造祸难，这样才叫正当的祭祀，大仙才会赞叹。用布施来行供养，才是合乎法的祭祀；施者心地清净，受施的梵行者是良好的福田。这样的祭祀，就是供养阿罗汉的法会；这样的法会得大果报，诸天都欢喜。亲自恭敬邀请，亲手布施给与，施者受者都清净，这样的布施得大果。有智慧的人这样布施，以清净的信心而心得解脱；那无罪的安乐世界，智者往生其中。\n佛说完这部经，优波迦婆罗门听佛所说，欢喜随喜，礼拜后离去。",
+  "notes": "据 AN4.39（Ujjaya）：佛不赞马祀等杀生大祭（sassamedha、purisamedha 一系），而赞「无系缚、不杀生」之常施（nicca-dāna）与供养梵行者。「邪盛（大会）」为 yañña（祭祀）之旧译，音义混杂而生歧义，今一律改作「大祀／祭祀」。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "high",
+  "similarity_to_source": 0.233
+}

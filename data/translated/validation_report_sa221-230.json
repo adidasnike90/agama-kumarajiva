@@ -1,0 +1,122 @@
+[
+  {
+    "id": "SA_221",
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": [],
+    "sim": 0.339,
+    "paragraphs": 4,
+    "paragraph_parallel": true,
+    "confidence": "medium",
+    "review_status": "gold"
+  },
+  {
+    "id": "SA_222",
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": [],
+    "sim": 0.4,
+    "paragraphs": 4,
+    "paragraph_parallel": true,
+    "confidence": "medium",
+    "review_status": "gold"
+  },
+  {
+    "id": "SA_223",
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": [],
+    "sim": 0.366,
+    "paragraphs": 3,
+    "paragraph_parallel": true,
+    "confidence": "medium",
+    "review_status": "gold"
+  },
+  {
+    "id": "SA_224",
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": [],
+    "sim": 0.419,
+    "paragraphs": 3,
+    "paragraph_parallel": true,
+    "confidence": "high",
+    "review_status": "gold"
+  },
+  {
+    "id": "SA_225",
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": [],
+    "sim": 0.355,
+    "paragraphs": 3,
+    "paragraph_parallel": true,
+    "confidence": "high",
+    "review_status": "gold"
+  },
+  {
+    "id": "SA_226",
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": [],
+    "sim": 0.355,
+    "paragraphs": 6,
+    "paragraph_parallel": true,
+    "confidence": "high",
+    "review_status": "gold"
+  },
+  {
+    "id": "SA_227",
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": [],
+    "sim": 0.365,
+    "paragraphs": 6,
+    "paragraph_parallel": true,
+    "confidence": "high",
+    "review_status": "gold"
+  },
+  {
+    "id": "SA_228",
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": [],
+    "sim": 0.245,
+    "paragraphs": 5,
+    "paragraph_parallel": true,
+    "confidence": "medium",
+    "review_status": "gold"
+  },
+  {
+    "id": "SA_229",
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": [],
+    "sim": 0.389,
+    "paragraphs": 4,
+    "paragraph_parallel": true,
+    "confidence": "medium",
+    "review_status": "gold"
+  },
+  {
+    "id": "SA_230",
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": [],
+    "sim": 0.415,
+    "paragraphs": 6,
+    "paragraph_parallel": true,
+    "confidence": "high",
+    "review_status": "gold"
+  }
+]

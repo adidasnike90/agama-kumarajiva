@@ -1,0 +1,54 @@
+{
+  "id": "SA_1160",
+  "uid": "sa1160",
+  "title": "雜阿含經  卷第五十  婆羅門相應  （1160）  剎利",
+  "chinese_text": "如是我聞：\n\n一時，佛住舍衛國祇樹給孤獨園。\n\n時，有持金蓋、著舍勒導從婆羅門來詣佛所，與世尊面相問訊慰勞已，退坐一面。而說偈言：\n\n「無非婆羅門，　　所行為清淨，\n\n　剎利修苦行，　　於靜亦復乖。\n\n　三典婆羅門，　　是則為清淨，\n\n　如是清淨者，　　不在餘眾生。」\n\n爾時，世尊說偈答言：\n\n「不知清淨道，　　及諸無上淨，\n\n　於餘求靜者，　　至竟無淨時。」\n\n婆羅門白佛：「瞿曇說清淨道及無上清淨耶？何等為清淨道？何等為無上清淨？」\n\n佛告婆羅門：「正見者為清淨道，正見修習多修習，斷貪欲、斷瞋恚、斷愚癡。若婆羅門貪欲永斷，瞋恚、愚癡永斷，一切煩惱永斷，是名無上清淨。正志、正語、正業、正命、正方便、正念、正定，是名清淨道；正定修習多修習已，斷貪欲、斷瞋恚、斷愚癡。若婆羅門貪欲永斷，瞋恚、愚癡永斷，一切煩惱永斷，是名無上清淨。」\n\n婆羅門白佛言：「瞿曇說清淨道、無上清淨耶？瞿曇！世務多事，今且辭還。」\n\n佛告婆羅門：「宜知是時。」\n\n持華蓋著舍勒導從婆羅門聞佛所說，歡喜隨喜，從座起去。",
+  "english_sa_text": "",
+  "parallels": [
+    {
+      "uid": "sa-2.83",
+      "acronym": "SA2 83",
+      "root_lang": "lzh",
+      "original_title": "剎利",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "sn7.7",
+      "acronym": "SN 7.7",
+      "root_lang": "pli",
+      "original_title": "Suddhikasutta",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    }
+  ],
+  "primary_sn_uid": "sn7.7",
+  "pali_text": "Sāvatthinidānaṁ. Atha kho suddhikabhāradvājo brāhmaṇo yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavatā saddhiṁ sammodi. Sammodanīyaṁ kathaṁ sāraṇīyaṁ vītisāretvā ekamantaṁ nisīdi. Ekamantaṁ nisinno kho suddhikabhāradvājo brāhmaṇo bhagavato santike imaṁ gāthaṁ ajjhabhāsi: “Na brāhmaṇo sujjhati koci, Loke sīlavāpi tapokaraṁ; Vijjācaraṇasampanno, So sujjhati na aññā itarā pajā”ti. “Bahumpi palapaṁ jappaṁ, na jaccā hoti brāhmaṇo; Antokasambu saṅkiliṭṭho, kuhanaṁ upanissito. Khattiyo brāhmaṇo vesso, Suddo caṇḍālapukkuso; Āraddhavīriyo pahitatto, Niccaṁ daḷhaparakkamo; Pappoti paramaṁ suddhiṁ, Evaṁ jānāhi brāhmaṇā”ti. Evaṁ vutte, suddhikabhāradvājo brāhmaṇo bhagavantaṁ etadavoca: “abhikkantaṁ, bho gotama …pe… aññataro ca panāyasmā bhāradvājo arahataṁ ahosīti.",
+  "english_sn_text": "At Sāvatthī. Then the brahmin Bhāradvāja the Pure went up to the Buddha, and exchanged greetings with him. When the greetings and polite conversation were over, he sat down to one side, and spoke this verse in his presence: “No brahmin in the world is ever purified even though he’s ethical and mortifies himself. But one accomplished in knowledge and conduct is purified, not these other commoners.” “Even one who mutters many prayers is no brahmin by birth if they’re filthy and corrupt within, supporting themselves by fawning. Regardless of whether you’re an aristocrat, a brahmin, peasant, menial, or a corpse-worker or scavenger— if you’re energetic and resolute, always staunchly vigorous, you’ll attain ultimate purity. Know that for a fact, brahmin.” When he had spoken, the brahmin Bhāradvāja the Pure said to the Buddha, “Excellent, worthy Gotama …” … And Venerable Bhāradvāja became one of the perfected.",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa1101-1200/sa1160_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa1101-1200/sa1160_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛住舍卫国祇树给孤独园。\n时有持金盖、著舍勒导从婆罗门来诣，问讯已，说偈：「世无婆罗门，唯戒与苦行能净；刹利修苦行，于静亦乖。三典婆罗门，乃为清净；余众生中，无此净者。」\n世尊说偈：「纵多诵习，内秽谄活，不因生族名婆罗门。若刹利、婆罗门、农商、仆役乃至弃尸者，精勤坚定，则得无上清净。当知如是。」\n婆罗门白：「瞿昙世务多，今且辞还。」佛言：「宜知是时。」闻已欢喜，从座起去。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在舍卫国祇树给孤独园。\n有个撑金盖、穿舍勒、带随从的婆罗门前来，问讯后说偈：「世上没有单靠戒与苦行就清净的婆罗门；刹利修苦行，于寂静也不相应。通三吠陀的婆罗门才清净；其余众生没有这种清净。」\n佛说偈：「纵然多诵，内心污秽、靠谄媚过活，不因出身就叫婆罗门。无论刹利、婆罗门、农商、仆役乃至弃尸者，只要精勤坚定，就能得无上清净。你应当这样了知。」\n婆罗门说：「瞿昙事务多，我先告辞。」佛说：「知道时候了。」听完欢喜，起身离去。",
+  "notes": "本经 SC 平行表所列平行及 `raw_aligned_data.json` 内之巴利本文、Sujato 英译并用以厘定法义；求那跋陀罗汉本用于定位经文与传统术语。confidence=high：primary SN7.7 Suddhikasutta。据 SN 校正：净不由生族／多诵，而由精勤；汉答以八支道广说，义路异，从巴利。",
+  "review_status": "gold_reconstructed",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "high",
+  "prior_review_status": "needs_revision",
+  "reconstruction_basis": "汉以八支道广释清净；SN7.7 明净不由生族／多诵而由精勤；据巴利改正。",
+  "similarity_to_source": 0.097,
+  "paragraph_parallel": true
+}

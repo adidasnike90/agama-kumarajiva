@@ -1,0 +1,53 @@
+{
+  "id": "SA_1217",
+  "uid": "sa1217",
+  "title": "雜阿含經  卷第五十  比丘尼相應  （1217）  本如醉酒",
+  "chinese_text": "如是我聞：\n\n一時，佛住舍衛國祇樹給孤獨園。\n\n時，尊者婆耆舍住舍衛國東園鹿子母講堂，獨一思惟，不放逸住，專修自業，逮得三明，身作證。\n\n時，尊者婆耆舍作是念：「我獨一靜處思惟，不放逸住，專修自業，起於三明，身作證，今當說偈讚歎三明。」即說偈言：\n\n「本欲心狂惑，　　聚落及家家，\n\n　遊行遇見佛，　　授我殊勝法。\n\n　瞿曇哀愍故，　　為我說正法，\n\n　聞法得淨信，　　捨非家出家。\n\n　聞彼說法已，　　正住於法教，\n\n　勤方便繫念，　　堅固常堪能。\n\n　逮得於三明，　　於佛教已作，\n\n　世尊善顯示，　　日種苗胤說。\n\n　為生盲眾生，　　開其出要門，\n\n　苦苦及苦因，　　苦滅盡作證。\n\n　八聖離苦道，　　安樂趣涅槃，\n\n　善義善句味，　　梵行無過上。\n\n　世尊善顯示，　　涅槃濟眾生。」",
+  "english_sa_text": "",
+  "parallels": [
+    {
+      "uid": "sa-2.252",
+      "acronym": "SA2 252",
+      "root_lang": "lzh",
+      "original_title": "本如醉酒",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "sn8.12",
+      "acronym": "SN 8.12",
+      "root_lang": "pli",
+      "original_title": "Vaṅgīsasutta",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    }
+  ],
+  "primary_sn_uid": "sn8.12",
+  "pali_text": "Ekaṁ samayaṁ āyasmā vaṅgīso sāvatthiyaṁ viharati jetavane anāthapiṇḍikassa ārāme. Tena kho pana samayena āyasmā vaṅgīso aciraarahattappatto hutvā vimuttisukhaṁ paṭisaṁvedī tāyaṁ velāyaṁ imā gāthāyo abhāsi: “Kāveyyamattā vicarimha pubbe, Gāmā gāmaṁ purā puraṁ; Athaddasāma sambuddhaṁ, Saddhā no upapajjatha. So me dhammamadesesi, khandhāyatanadhātuyo; Tassāhaṁ dhammaṁ sutvāna, pabbajiṁ anagāriyaṁ. Bahunnaṁ vata atthāya, bodhiṁ ajjhagamā muni; Bhikkhūnaṁ bhikkhunīnañca, ye niyāmagataddasā. Svāgataṁ vata me āsi, mama buddhassa santike; Tisso vijjā anuppattā, kataṁ buddhassa sāsanaṁ. Pubbenivāsaṁ jānāmi, Dibbacakkhuṁ visodhitaṁ; Tevijjo iddhipattomhi, Cetopariyāyakovido”ti. Tassuddānaṁ Nikkhantaṁ arati ceva, pesalā atimaññanā; Ānandena subhāsitā, sāriputtapavāraṇā; Parosahassaṁ koṇḍañño, moggallānena gaggarā; Vaṅgīsena dvādasāti. Vaṅgīsasaṁyuttaṁ samattaṁ.",
+  "english_sn_text": "At one time Venerable Vaṅgīsa was staying near Sāvatthī in Jeta’s Grove, Anāthapiṇḍika’s monastery. Now at that time Vaṅgīsa had recently attained perfection. While experiencing the bliss of freedom, on that occasion he recited these verses: “We used to wander, drunk on poetry, village to village, town to town. Then we saw the Buddha, and faith arose in us. He taught me Dhamma: the aggregates, sense fields, and elements. When I heard his teaching I went forth to homelessness. It was truly for the benefit of many that the sage achieved awakening— for the monks and for the nuns who see that they’ve reached certainty. It was so welcome for me to be in the presence of the Buddha. I’ve attained the three knowledges, and fulfilled the Buddha’s instructions. I know my past lives, my clairvoyance is purified, I am master of three knowledges, attained in psychic power, expert in encompassing the minds of others.” The Linked Discourses with Vaṅgīsa are complete.",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa1201-1300/sa1217_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa1201-1300/sa1217_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛住舍卫国祇树给孤独园。\n时尊者婆耆舍住舍卫国，新得阿罗汉，受解脱乐。即于其时说偈自庆：「本醉诗句游，家家村村行；得见正觉已，于我生净信。为我说正法：阴、入、界；闻已信出家，非家修梵行。牟尼成正觉，实为多人利——比丘比丘尼，得见已决定。我幸值世尊，逮得于三明；知苦集灭道，佛教已奉行，所作皆已办。宿命今悉知，天眼得清净；三明已具足，神通他心智。」",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在舍卫国祇树给孤独园。\n这时尊者婆耆舍住在舍卫国，新证阿罗汉，受用解脱之乐。就在那时说偈自庆：「从前醉心于诗句，挨家挨村游荡；见到正觉以后，对我生起净信。为我说正法：五蕴、十二处、十八界；听了便信而出家，从非家修梵行。牟尼成正觉，实在利益许多人——比丘、比丘尼，得见以后心决定。我有幸遇到世尊，证得三明；了知苦集灭道，佛教已奉行，所作都已办。宿命现在都知道，天眼得清净；三明已具足，还有神通与他心智。」",
+  "notes": "本经 SC 平行表所列平行及 `raw_aligned_data.json` 内之巴利本文、Sujato 英译并用以厘定法义；求那跋陀罗汉本用于定位经文与传统术语。confidence=high：primary SN8.12。据 SN：新证阿罗汉受解脱乐而自说；本以诗游聚落，闻阴处界法而出家。汉「东园思惟得三明」压缩入此；四谛偈义并入「佛教已奉行」。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "high",
+  "prior_review_status": "needs_revision",
+  "similarity_to_source": 0.081,
+  "paragraph_parallel": true
+}

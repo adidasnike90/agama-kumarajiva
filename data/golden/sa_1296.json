@@ -1,0 +1,43 @@
+{
+  "id": "SA_1296",
+  "uid": "sa1296",
+  "title": "雜阿含經  卷第五十  雜相應  （1296）  鋸陀女",
+  "chinese_text": "如是我聞：\n\n一時，佛住舍衛國祇樹給孤獨園。\n\n時，有天子容色絕妙，於後夜時來詣佛所，稽首佛足，退坐一面。其身光明遍照祇樹給孤獨園。\n\n時，彼天子白佛言：「世尊！拘屢陀王女修波羅提沙今日生子。」\n\n佛告天子：「此則不善，非是善。」\n\n時，彼天子即說偈言：\n\n「人生子為樂，　　世間有子歡，\n\n　父母年老衰，　　子則能奉養，\n\n　瞿曇何故說，　　生子為不善。」\n\n爾時，世尊說偈答言：\n\n「當知恒無常，　　純空陰非子，\n\n　生子常得苦，　　愚者說言樂。\n\n　是故我說言，　　生子非為善，\n\n　非善為善像，　　念像不可念。\n\n　實苦貌似樂，　　放逸所踐蹈。」\n\n時，彼天子復說偈言：\n\n「久見婆羅門，　　逮得般涅槃，\n\n　一切怖已過，　　永超世恩愛。」\n\n於是，天子聞佛所說，歡喜隨喜，稽首佛足，即沒不現。",
+  "english_sa_text": "",
+  "parallels": [
+    {
+      "uid": "sa-2.294",
+      "acronym": "SA2 294",
+      "root_lang": "lzh",
+      "original_title": "鋸陀女",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    }
+  ],
+  "primary_sn_uid": null,
+  "pali_text": "",
+  "english_sn_text": "",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa1201-1300/sa1296_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa1201-1300/sa1296_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛住舍卫国祇树给孤独园。\n后夜分，有天子容色绝妙，来诣佛所，稽首礼足，退坐一面；身诸光明遍照祇树给孤独园。\n天子白佛：「世尊！拘屡陀王女修波罗提沙今日生子。」佛言：「此则不善，非是善。」\n天子说偈：「人生子为乐，世间有子欢；父母年老衰，子则能奉养。瞿昙何故说，生子为不善？」\n世尊说偈答：「当知恒无常，纯空诸阴非子；生子常得苦，愚者说言乐。是故我说言，生子非为善；非善为善像，念像不可念；实苦貌似乐，放逸所践蹈。」\n天子复说偈：「久见婆罗门，逮得般涅槃，一切怖已过，永超世恩爱。」闻已欢喜，礼足即没。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在舍卫国祇树给孤独园。\n后夜分，有一位天子容色绝妙，来到佛前，顶礼佛足，退坐一面；身上的光明遍照祇树给孤独园。\n天子对佛说：「世尊！拘屡陀王的女儿修波罗提沙今天生了儿子。」佛说：「这并非善事，不是善。」\n天子说偈：「人生子是乐，世间有子就欢喜；父母年老体衰，儿子能奉养。瞿昙为什么说生子不善？」\n世尊说偈答：「应当知道一切恒是无常，纯是空的诸阴，并没有一个『子』实体；生子常得苦，愚人才说是乐。所以我说生子并非善；把不善当成善的样子，把不可念的当成可念；其实是苦，只是外表像乐，正是放逸所踩踏的。」\n天子又说偈：「久见婆罗门，逮得般涅槃，一切怖惧已过，永超世间恩爱。」听完欢喜随喜，顶礼佛足，随即隐没不见。",
+  "notes": "SC 于本经未列可靠巴利平行，故唯以汉本为底，参同相应之巴利定型语厘义；依项目规约「无可靠平行时 confidence 降为 medium/low」。confidence=medium：无 SC 专经；以无常、空、诸阴破「生子为乐」。汉「纯空阴非子」保留早期阴／空用语；不引入佛性／真心。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "medium",
+  "prior_review_status": "needs_revision",
+  "similarity_to_source": 0.357,
+  "paragraph_parallel": true
+}

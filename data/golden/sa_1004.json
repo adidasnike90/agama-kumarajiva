@@ -1,0 +1,63 @@
+{
+  "id": "SA_1004",
+  "uid": "sa1004",
+  "title": "雜阿含經  卷第四十一  諸天相應  （1004）  生歡喜",
+  "chinese_text": "如是我聞：\n\n一時，佛住舍衛國祇樹給孤獨園。\n\n時，有天子容色絕妙，於後夜時來詣佛所，稽首佛足，退坐一面。身諸光明遍照祇樹給孤獨園。\n\n時，彼天子而說偈言：\n\n「母子更相喜，　　牛主樂其牛，\n\n　眾生樂有餘，　　無樂無餘者。」\n\n爾時，世尊說偈答言：\n\n「母子更相憂，　　牛主憂其牛，\n\n　有餘眾生憂，　　無餘則無憂。」\n\n時，彼天子復說偈言：\n\n「久見婆羅門，　　逮得般涅槃，\n\n　一切怖已過，　　永超世恩愛。」\n\n時，彼天子聞佛所說，歡喜隨喜，稽首佛足，即沒不現。",
+  "english_sa_text": "",
+  "parallels": [
+    {
+      "uid": "sa-2.142",
+      "acronym": "SA2 142",
+      "root_lang": "lzh",
+      "original_title": "生歡喜",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "sn1.12",
+      "acronym": "SN 1.12",
+      "root_lang": "pli",
+      "original_title": "Nandatisutta",
+      "translated_title": "Delight",
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "sn4.8",
+      "acronym": "SN 4.8",
+      "root_lang": "pli",
+      "original_title": "Nandatisutta",
+      "translated_title": "He Delights",
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    }
+  ],
+  "primary_sn_uid": "sn1.12",
+  "pali_text": "Sāvatthinidānaṁ. Ekamantaṁ ṭhitā kho sā devatā bhagavato santike imaṁ gāthaṁ abhāsi: “Nandati puttehi puttimā, Gomā gohi tatheva nandati; Upadhīhi narassa nandanā, Na hi so nandati yo nirūpadhī”ti. “Socati puttehi puttimā, Gomā gohi tatheva socati; Upadhīhi narassa socanā, Na hi so socati yo nirūpadhī”ti.",
+  "english_sn_text": "At Sāvatthī. Standing to one side, that deity spoke this verse in the Buddha’s presence: “Children bring you delight! Cattle also bring you delight! For attachments are a man’s delight; without attachments there’s no delight.” “Children bring you sorrow. Cattle also bring you sorrow. For attachments are a man’s sorrow; without attachments there are no sorrows.”",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa1001-1100/sa1004_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa1001-1100/sa1004_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛住舍卫国祇树给孤独园。\n后夜分，有天子来诣佛所，容色绝妙，稽首礼足，退坐一面；身诸光明遍照祇园。\n天子说偈问：「有子乐其子，有牛乐其牛；众生乐有余，无余则无乐。」\n世尊说偈答：「有子忧其子，有牛忧其牛；众生忧有余，无余则无忧。」\n天子说偈：「久见婆罗门，逮得般涅槃，一切怖已过，永超世恩爱。」闻已欢喜，礼足即没。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在舍卫国祇树给孤独园。\n后夜分，有一位天子，容色绝妙，来到佛前，顶礼佛足，退坐一面；身上的光明遍照祇树给孤独园。\n天子说偈问：「有子女的人以子女为乐，有牛的人以牛为乐；众生以有余依为乐，无余依便无乐。」\n世尊说偈答：「有子女的人因子女而忧，有牛的人因牛而忧；众生因有余依而忧，无余依便无忧。」\n天子又说偈：「久见婆罗门，逮得般涅槃，一切怖已过，永超世恩爱。」听完欢喜随喜，顶礼佛足，随即隐没不见。",
+  "notes": "本经 SC 平行表所列平行及 `raw_aligned_data.json` 内之巴利本文、Sujato 英译并用以厘定法义；求那跋陀罗汉本用于定位经文与传统术语。confidence=high：primary SN1.12 Nandati。据 SN：喜／忧皆由 upādhi（有余／执取）；无余依则无喜亦无忧。汉「母子」从 putta 作子女；义同。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "high",
+  "prior_review_status": "needs_revision",
+  "similarity_to_source": 0.217,
+  "paragraph_parallel": true
+}

@@ -1,0 +1,32 @@
+{
+  "id": "SA_632",
+  "uid": "sa632",
+  "title": "雜阿含經  卷第二十六  念處相應  （632）  行",
+  "chinese_text": "如是我聞：\n\n一時，佛住巴連弗邑鷄林精舍。爾時，尊者阿難、尊者跋陀羅亦在彼住。\n\n尊者跋陀羅問尊者阿難：「頗有法修習多修習，得阿羅漢？」\n\n尊者阿難語尊者跋陀羅：「有法修習多修習，而得阿羅漢，謂四念處。何等為四？謂身身觀念住，受、心、法法觀念住。」\n\n時，二正士共論議已，各還本處。",
+  "english_sa_text": "",
+  "parallels": [],
+  "primary_sn_uid": null,
+  "pali_text": "",
+  "english_sn_text": "",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa601-700/sa632_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa601-700/sa632_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛住巴连弗邑鸡林精舍。\n时尊者阿难、尊者跋陀罗亦住彼。跋陀罗问阿难：「颇有法，修习多修习，而得阿罗汉？」\n阿难答：「有，谓四念处——身、受、心、法。」\n二正士共论已，各还本处。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在巴连弗邑鸡林精舍。\n那时尊者阿难、尊者跋陀罗也住在那里。跋陀罗问阿难：「可有一法，多修习能得阿罗汉？」\n阿难答：「有，就是四念处——身、受、心、法。」\n两位正士共论完毕，各自回去。",
+  "notes": "SC 于本经未列可靠巴利平行，故唯以汉本为底，参同相应之巴利定型语厘义；依项目规约「无可靠平行时 confidence 降为 medium/low」。confidence=medium：同上系，果位作阿罗汉；无 SN 专经。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "medium",
+  "prior_review_status": "needs_revision",
+  "similarity_to_source": 0.135,
+  "paragraph_parallel": true
+}

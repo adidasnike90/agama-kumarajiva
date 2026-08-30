@@ -1,0 +1,53 @@
+{
+  "id": "SA_731",
+  "uid": "sa731",
+  "title": "雜阿含經  卷第二十九  覺支相應  （731）  支節",
+  "chinese_text": "如是我聞：\n\n一時，佛住舍衛國祇樹給孤獨園。\n\n爾時，世尊告諸比丘：「若比丘念覺分清淨鮮白，無有支節，離諸煩惱，未起不起，除佛調伏教授，乃至捨覺分，亦如是說。諸比丘！念覺分清淨鮮白，無有支節，離諸煩惱，未起而起，佛所調伏教授，非餘，乃至捨覺分，亦如是說。」\n\n佛說此經已，諸比丘聞佛所說，歡喜奉行。",
+  "english_sa_text": "",
+  "parallels": [
+    {
+      "uid": "sa732",
+      "acronym": "SA 732",
+      "root_lang": "lzh",
+      "original_title": "起",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "sn46.10",
+      "acronym": "SN 46.10",
+      "root_lang": "pli",
+      "original_title": "Dutiyauppannasutta",
+      "translated_title": "Arisen or Arising (2)",
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    }
+  ],
+  "primary_sn_uid": "sn46.10",
+  "pali_text": "“Sattime, bhikkhave, bojjhaṅgā bhāvitā bahulīkatā anuppannā uppajjanti, nāññatra sugatavinayā. Katame satta? Satisambojjhaṅgo …pe… upekkhāsambojjhaṅgo— ime kho, bhikkhave, satta bojjhaṅgā bhāvitā bahulīkatā anuppannā uppajjanti, nāññatra sugatavinayā”ti. Dasamaṁ. Pabbatavaggo paṭhamo. Tassuddānaṁ Himavantaṁ kāyaṁ sīlaṁ, vatthaṁ bhikkhu ca kuṇḍali; Kūṭañca upavānañca, uppannā apare duveti.",
+  "english_sn_text": "“Mendicants, these seven awakening factors don’t arise to be developed and cultivated apart from the Holy One’s training. What seven? The awakening factors of mindfulness, investigation of principles, energy, rapture, tranquility, immersion, and equanimity. These seven awakening factors don’t arise to be developed and cultivated apart from the Holy One’s training.”",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa701-800/sa731_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa701-800/sa731_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛住舍卫国祇树给孤独园。\n佛告比丘：「有七觉支——念觉支、择法觉支、精进觉支、喜觉支、轻安觉支、定觉支、舍觉支。此七觉支清净鲜白，无有支节，离诸烦恼；未生者，除佛调伏教授则不生；若生，唯佛调伏教授，非余。」\n佛说此经已，诸比丘闻佛所说，欢喜奉行。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在舍卫国祇树给孤独园。\n佛告诉比丘：「有七觉支——念觉支、择法觉支、精进觉支、喜觉支、轻安觉支、定觉支、舍觉支。这七觉支清净鲜白，没有支节残缺，离开一切烦恼；还没生起的，除了佛的调伏教授就不会生；若生起，也只靠佛的调伏教授，不是别的。」\n佛说完这部经，比丘们听佛所说，都欢喜奉行。",
+  "notes": "本经 SC 平行表所列平行及 `raw_aligned_data.json` 内之巴利本文、Sujato 英译并用以厘定法义；求那跋陀罗汉本用于定位经文与传统术语。confidence=high：primary SN46.10 Dutiyauppanna（七觉支未生而起，唯在善逝调伏／sugatavinaya）。据 SN 校正汉本交错「未起不起／未起而起」句；觉分→觉支；保留汉题「支节」与「清净鲜白、无有支节」传统用语。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "high",
+  "prior_review_status": "needs_revision",
+  "similarity_to_source": 0.214,
+  "paragraph_parallel": true
+}

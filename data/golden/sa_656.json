@@ -1,0 +1,53 @@
+{
+  "id": "SA_656",
+  "uid": "sa656",
+  "title": "雜阿含經  卷第二十七  根力相應  （656）  堂閣",
+  "chinese_text": "如是我聞：\n\n一時，佛住舍衛國祇樹給孤獨園。\n\n爾時，世尊告諸比丘：「有五根。何等為五？信根、精進根、念根、定根、慧根。若聖弟子成就慧根者，能修信根，依離、依無欲、依滅、向於捨，是名信根成就，信根成就，即是慧根。如信根，如是精進根、念根、定根、慧根亦如是說。是故就此五根，慧根為其首，以攝持故。譬如堂閣，棟為其首，眾材所依，以攝持故。如是五根，慧為其首，以攝持故。」\n\n佛說此經已，諸比丘聞佛所說，歡喜奉行。",
+  "english_sa_text": "",
+  "parallels": [
+    {
+      "uid": "sa654",
+      "acronym": "SA 654",
+      "root_lang": "lzh",
+      "original_title": "堂閣",
+      "translated_title": null,
+      "type": "full",
+      "resembling": true,
+      "remark": null
+    },
+    {
+      "uid": "sn48.52",
+      "acronym": "SN 48.52",
+      "root_lang": "pli",
+      "original_title": "Mallikasutta",
+      "translated_title": null,
+      "type": "full",
+      "resembling": true,
+      "remark": null
+    }
+  ],
+  "primary_sn_uid": "sn48.52",
+  "pali_text": "Evaṁ me sutaṁ— ekaṁ samayaṁ bhagavā mallesu viharati uruvelakappaṁ nāma mallānaṁ nigamo. Tatra kho bhagavā bhikkhū āmantesi: “yāvakīvañca, bhikkhave, ariyasāvakassa ariyañāṇaṁ na uppannaṁ hoti neva tāva catunnaṁ indriyānaṁ saṇṭhiti hoti, neva tāva catunnaṁ indriyānaṁ avaṭṭhiti hoti. Yato ca kho, bhikkhave, ariyasāvakassa ariyañāṇaṁ uppannaṁ hoti, atha catunnaṁ indriyānaṁ saṇṭhiti hoti, atha catunnaṁ indriyānaṁ avaṭṭhiti hoti. Seyyathāpi, bhikkhave, yāvakīvañca kūṭāgārassa kūṭaṁ na ussitaṁ hoti, neva tāva gopānasīnaṁ saṇṭhiti hoti, neva tāva gopānasīnaṁ avaṭṭhiti hoti. Yato ca kho, bhikkhave, kūṭāgārassa kūṭaṁ ussitaṁ hoti, atha gopānasīnaṁ saṇṭhiti hoti, atha gopānasīnaṁ avaṭṭhiti hoti. Evameva kho, bhikkhave, yāvakīvañca ariyasāvakassa ariyañāṇaṁ na uppannaṁ hoti, neva tāva catunnaṁ indriyānaṁ saṇṭhiti hoti, neva tāva catunnaṁ indriyānaṁ avaṭṭhiti hoti. Yato ca kho, bhikkhave, ariyasāvakassa ariyañāṇaṁ uppannaṁ hoti, atha catunnaṁ indriyānaṁ …pe… avaṭṭhiti hoti. Katamesaṁ catunnaṁ? Saddhindriyassa, vīriyindriyassa, satindriyassa, samādhindriyassa. Paññavato, bhikkhave, ariyasāvakassa tadanvayā saddhā saṇṭhāti, tadanvayaṁ vīriyaṁ saṇṭhāti, tadanvayā sati saṇṭhāti, tadanvayo samādhi saṇṭhātī”ti. Dutiyaṁ.",
+  "english_sn_text": "So I have heard. At one time the Buddha was staying in the land of the Mallas, near the Mallian town named Uruvelakappa. There the Buddha addressed the mendicants: “Mendicants, as long as noble knowledge hasn’t arisen for a noble disciple the four faculties are not stable and fixed. But when noble knowledge has arisen for a noble disciple the four faculties become stable and fixed. It’s just like in a bungalow. As long as the roof peak is not lifted into place, the rafters are not stable or fixed. But when the roof peak is lifted into place, the rafters become stable and fixed. In the same way, as long as noble knowledge hasn’t arisen for a noble disciple the four faculties are not stable and fixed. But when noble knowledge has arisen for a noble disciple the four faculties become stable and fixed. What four? The faculties of faith, energy, mindfulness, and immersion. When a noble disciple has wisdom, the faith, energy, mindfulness, and immersion that follow along with that become stabilized.”",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa601-700/sa656_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa601-700/sa656_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛住舍卫国祇树给孤独园。\n佛告比丘：「有五根——信、精进、念、定、慧。若圣弟子成就慧根，能修信根——依离、依无欲、依灭、向于舍，是名信根成就；信根成就，即与慧根相应。」\n「如信根，精进、念、定、慧根修习亦复如是。是故五根，慧为其首，以摄持故。譬如堂阁，栋为其首，众材所依，以摄持故。」\n佛说此经已，诸比丘闻佛所说，欢喜奉行。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在舍卫国祇树给孤独园。\n佛告比丘：「有五根——信、精进、念、定、慧。若圣弟子成就慧根，就能修信根——依于远离、依于无欲、依于灭、趋向于舍，这叫信根成就；信根成就，就与慧根相应。」\n「如同信根，精进、念、定、慧根的修习也是这样。所以五根以慧为首，用来摄持。好比堂阁，栋是首要，众材所依，用来摄持。」\n佛说完这部经，比丘们听佛所说，都欢喜奉行。",
+  "notes": "本经 SC 平行表所列平行及 `raw_aligned_data.json` 内之巴利本文、Sujato 英译并用以厘定法义；求那跋陀罗汉本用于定位经文与传统术语。confidence=high：resembling SN48.52（慧具则余根随成；栋喻）。「依离、依无欲、依灭、向于舍」＝ viveka／virāga／nirodha／vossagga 定型；与 SA_654 同喻而补「随慧修余根」义。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "high",
+  "prior_review_status": "needs_revision",
+  "similarity_to_source": 0.349,
+  "paragraph_parallel": true
+}

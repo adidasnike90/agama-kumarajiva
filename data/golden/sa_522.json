@@ -1,0 +1,43 @@
+{
+  "id": "SA_522",
+  "uid": "sa522",
+  "title": "雜阿含經  卷第二十一  弟子所說相應  （522）  好他婬",
+  "chinese_text": "如是我聞：\n\n一時，佛住王舍城。乃至路中見一眾生，傴身藏行，狀如恐怖，舉體被服，悉皆火然，還燒其身，乘虛而行。佛告諸比丘：「此眾生者，過去世時，於此王舍城好行他婬，緣斯罪故，已地獄中受無量苦，地獄餘罪，今得此身，續受斯苦。諸比丘！如大目犍連所見，真實不異，當受持之。」\n\n佛說此經已，諸比丘聞佛所說，歡喜奉行。",
+  "english_sa_text": "",
+  "parallels": [
+    {
+      "uid": "sn19.11",
+      "acronym": "SN 19.11",
+      "root_lang": "pli",
+      "original_title": "Sasīsakasutta",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    }
+  ],
+  "primary_sn_uid": "sn19.11",
+  "pali_text": "Evaṁ me sutaṁ— ekaṁ samayaṁ rājagahe veḷuvane. “Idhāhaṁ, āvuso, gijjhakūṭā pabbatā orohanto addasaṁ purisaṁ gūthakūpe sasīsakaṁ nimuggaṁ …pe… eso, bhikkhave, satto imasmiṁyeva rājagahe pāradāriko ahosi …pe…. Paṭhamaṁ.",
+  "english_sn_text": "So I have heard. At one time near Rājagaha in the Bamboo Grove … “Just now, reverend, as I was descending from Vulture’s Peak Mountain I saw a man sunk over his head in a sewer. …” … “That being used to be an adulterer right here in Rājagaha. …”",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa501-600/sa522_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa501-600/sa522_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛在王舍城迦兰陀竹园。\n尊者大目犍连于路中见一大身众生，傴身藏行，举体被服悉皆火然，还烧其身，乘虚而行。\n佛告诸比丘：「此众生者，过去于此王舍城为好行他淫者，缘斯罪故，堕地狱受无量苦；地狱余报，今得此身，续受其苦。诸比丘！如大目犍连所见，真实不虚，应当受持。。」\n佛说此经已，诸比丘闻佛所说，欢喜奉行。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在王舍城迦兰陀竹园。\n大目犍连尊者在路中看见一个身躯巨大的众生，弯身隐藏而行，全身所披所盖全都着火，反过来烧它的身体，在空中飞行。\n佛告诉比丘们：「这个众生，过去在此王舍城做好与人通奸的人，因为那个罪业的缘故，堕入地狱受无量苦；地狱的剩余果报，现在得到这样的身，继续承受那些苦。诸比丘！如同大目犍连所见的，真实不虚，你们应当受持。。」\n佛说完这部经，比丘们听佛所说，都欢喜奉行。",
+  "notes": "本经 SC 平行表所列平行及 `raw_aligned_data.json` 内之巴利本文、Sujato 英译并用以厘定法义；求那跋陀罗汉本用于定位经文与传统术语。confidence=high：primary SN19.11（粪坑／火身）；汉作他淫火身，据汉。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "high",
+  "prior_review_status": "needs_revision",
+  "similarity_to_source": 0.295,
+  "paragraph_parallel": true
+}

@@ -1,0 +1,58 @@
+{
+  "id": "SA_12",
+  "uid": "sa12",
+  "title": "雜阿含經  卷第一  陰相應  （一二）  因",
+  "chinese_text": "如是我聞：一時，佛住舍衛國、祇樹、給孤獨園。爾時，世尊告諸比丘：「色無常。若因、若緣生諸色者，彼亦無常。無常因、無常緣所生諸色，云何有常？受⋯想⋯行⋯識無常。若因、若緣生諸識者，彼亦無常。無常因、無常緣所生諸識，云何有常？「如是，比丘，色無常。受⋯想⋯行⋯識無常。無常者則是苦，苦者則非我，非我者則非我所。如是觀者名真實觀。聖弟子如是觀者於色解脫，於受⋯想⋯行⋯識解脫。我說是等為解脫生、老、病、死、憂、悲、苦、惱。」時，諸比丘聞佛所說歡喜，奉行。",
+  "english_sa_text": "Thus I have heard: One time, the Buddha was staying at Anāthapiṇḍada’s Park in Jeta’s Grove of Śrāvastī. It was then that the Bhagavān addressed the monks, “Form is impermanent. Whatever causes and conditions give rise to forms, they are also impermanent. How could forms that arise from impermanent causes and conditions be permanent? Thus, feeling … conception … volition … awareness is impermanent. Whatever causes and conditions give rise to instances of awareness, they are also impermanent. How could instances of awareness that arise from impermanent causes and conditions be permanent? “Thus, monks, form is impermanent. Feeling … conception … volition … awareness is impermanent. What’s impermanent is painful, something painful is not self, and something that’s not self doesn’t belong to self. Observing in this way is called true observation. “Noble disciples who observe it in this way are liberated from form … liberated from feeling … conception … volition … awareness. I say that this is liberation from birth, old age, illness, death, sorrow, lamentation, pain, and trouble.” When the monks heard what the Buddha taught, they rejoiced and approved.",
+  "parallels": [
+    {
+      "uid": "sn22.20",
+      "acronym": "SN 22.20",
+      "root_lang": "pli",
+      "original_title": "Sahetuanattasutta",
+      "translated_title": "Nonself with Cause",
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "sn22.19",
+      "acronym": "SN 22.19",
+      "root_lang": "pli",
+      "original_title": "Sahetudukkhasutta",
+      "translated_title": "Suffering with Cause",
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "up9.004",
+      "acronym": "Up 9.004",
+      "root_lang": "xct",
+      "original_title": "",
+      "translated_title": "Upāyikā 9.004",
+      "type": "full",
+      "resembling": true,
+      "remark": null
+    }
+  ],
+  "primary_sn_uid": "sn22.19",
+  "pali_text": "Sāvatthinidānaṁ. “Rūpaṁ, bhikkhave, dukkhaṁ. Yopi hetu yopi paccayo rūpassa uppādāya, sopi dukkho. Dukkhasambhūtaṁ, bhikkhave, rūpaṁ kuto sukhaṁ bhavissati. Vedanā dukkhā … saññā dukkhā … saṅkhārā dukkhā … viññāṇaṁ dukkhaṁ. Yopi hetu yopi paccayo viññāṇassa uppādāya, sopi dukkho. Dukkhasambhūtaṁ, bhikkhave, viññāṇaṁ kuto sukhaṁ bhavissati. Evaṁ passaṁ …pe… nāparaṁ itthattāyā’ti pajānātī”ti. Aṭṭhamaṁ.",
+  "english_sn_text": "At Sāvatthī. “Mendicants, form is suffering. The cause and reason that gives rise to form is also suffering. Since form is produced by what is suffering, how could it be happiness? Feeling is suffering … Perception is suffering … Choices are suffering … Consciousness is suffering. The cause and reason that gives rise to consciousness is also suffering. Since consciousness is produced by what is suffering, how could it be happiness? Seeing this … They understand: ‘… there is nothing further for this place.’”",
+  "errors": [],
+  "kumarajiva_style_text": "如是我闻：一时佛在舍卫国祇树给孤独园。\n尔时世尊告诸比丘：色无常。若因若缘而生诸色，彼因缘亦无常。无常因、无常缘所生诸色，云何有常？受、想、行、识无常。若因若缘而生诸识，彼因缘亦无常。无常因、无常缘所生诸识，云何有常？如是，色、受、想、行、识皆无常。无常则苦，苦则非我，非我则非我所。如是观者，名真实观。圣弟子如是观，于色解脱，于受、想、行、识解脱。我说是等解脱于生、老、病、死、忧、悲、苦、恼。\n时诸比丘闻佛所说，欢喜奉行。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在舍卫国祇树给孤独园。\n那时，世尊告诉比丘们：色是无常的。若有因、有缘而生起种种色，那些因缘也是无常的。由无常因缘所生的色，怎么会是常的呢？受、想、行、识是无常的。若有因、有缘而生起识，那些因缘也是无常的。由无常因缘所生的识，怎么会是常的呢？就是这样，色、受、想、行、识都无常。无常则苦，苦则非我，非我则非我所。这样观察，叫做真实观。圣弟子这样观察，就于色解脱，于受、想、行、识解脱。我说：这些人解脱于生、老、病、死、忧、悲、苦、恼。\n当时，比丘们听佛所说，都欢喜奉行。",
+  "notes": "据 SN 22.19：巴利以苦因缘生苦蕴诘「云何有乐」；汉本以无常因缘诘「云何有常」，汉传异读，从汉本而雅化。收束同 SA_10 型「于五阴解脱」。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "confidence": "high",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "prior_review_status": "gold",
+  "revision_reason": null
+}

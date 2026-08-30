@@ -1,0 +1,44 @@
+{
+  "id": "SA_877",
+  "uid": "sa877",
+  "title": "雜阿含經  卷第三十三  修證相應  （877）  四正斷",
+  "chinese_text": "如是我聞：\n\n一時，佛住舍衛國祇樹給孤獨園。\n\n爾時，世尊告諸比丘：「有四正斷。何等為四？一者斷斷，二者律儀斷，三者隨護斷，四者修斷。云何為斷斷？謂比丘亦已起惡不善法斷，生欲、方便、精勤、心攝受，是為斷斷。云何律儀斷？未起惡不善法不起，生欲、方便、精勤、攝受，是名律儀斷。云何隨護斷？未起善法令起，生欲、方便、精勤攝受，是名隨護斷。云何修斷？已起善法增益修習，生欲、方便、精勤、攝受，是為修斷。」\n\n佛說此經已，諸比丘聞佛所說，歡喜奉行。",
+  "english_sa_text": "",
+  "parallels": [
+    {
+      "uid": "sn49.1-12",
+      "acronym": "SN 49.1–12",
+      "root_lang": "pli",
+      "original_title": "Gaṅgāpeyyālavagga",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    }
+  ],
+  "primary_sn_uid": "sn49.1-12",
+  "pali_text": "",
+  "english_sn_text": "",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa801-900/sa877_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa801-900/sa877_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback",
+    "Unsupported SN uid: sn49.1-12"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛住舍卫国祇树给孤独园。\n尔时世尊告诸比丘：「有四正断。何等为四？断断、律仪断、随护断、修断。云何断断？比丘于已起恶不善法，生欲、精进、发勤、策心、持心而断，是名断断。云何律仪断？于未起恶不善法，生欲、精进、发勤、策心、持心令不起，是名律仪断。云何随护断？于已生善法，生欲、精进、发勤、策心、持心，令住不忘、修习增广，是名随护断。云何修断？于未生善法，生欲、精进、发勤、策心、持心令生起，是名修断。」\n佛说此经已，诸比丘闻佛所说，欢喜奉行。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在舍卫国祇树给孤独园。\n那时世尊告诉比丘们：「有四正断。哪四种？断断、律仪断、随护断、修断。什么是断断？比丘对已生起的恶不善法，生起欲乐、精进、发动、策心、持心而断除，叫做断断。什么是律仪断？对尚未生起的恶不善法，生起欲乐、精进、发动、策心、持心使它不生，叫做律仪断。什么是随护断？对已生起的善法，生起欲乐、精进、发动、策心、持心，使它安住不忘、修习增长，叫做随护断。什么是修断？对尚未生起的善法，生起欲乐、精进、发动、策心、持心使它生起，叫做修断。」\n佛说完这部经，比丘们听佛所说，都欢喜奉行。",
+  "notes": "本经 SC 平行表所列平行及 `raw_aligned_data.json` 内之巴利本文、Sujato 英译并用以厘定法义；求那跋陀罗汉本用于定位经文与传统术语。confidence=high：primary SN49／AN4.13；据巴利校正汉本第三、四项名实错置：anurakkhaṇā（随护）＝护持已生善；bhāvanā（修）＝令未生善生；精勤句据 chanda／vāyāma／viriya／citta／padhāna 作生欲、精进、发勤、策心、持心。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "high",
+  "prior_review_status": "needs_revision",
+  "similarity_to_source": 0.25,
+  "paragraph_parallel": true
+}

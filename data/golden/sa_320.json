@@ -1,0 +1,32 @@
+{
+  "id": "SA_320",
+  "uid": "sa320",
+  "title": "雜阿含經  卷第十二  因緣相應  （320）  生聞一切有",
+  "chinese_text": "如是我聞：\n\n一時，佛住舍衛國祇樹給孤獨園。\n\n時，有生聞婆羅門往詣佛所，面相問訊已，退坐一面，白佛言：「瞿曇！所謂一切有，云何一切有？」\n\n佛告生聞婆羅門：「我今問汝，隨意答我。婆羅門！於意云何？眼是有不？」\n\n答言：「是有，沙門瞿曇！」\n\n「色是有不？」\n\n答言：「是有，沙門瞿曇！」\n\n「婆羅門！有色、有眼識、有眼觸、有眼觸因緣生受，若苦、若樂、不苦不樂不？」\n\n答言：「有，沙門瞿曇！」\n\n「耳、鼻、舌、身、意亦如是說」。\n\n如是廣說，乃至「非其境界故。」\n\n佛說此經已，生聞婆羅門聞佛所說，歡喜隨喜，從坐起去。",
+  "english_sa_text": "",
+  "parallels": [],
+  "primary_sn_uid": null,
+  "pali_text": "",
+  "english_sn_text": "",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa301-400/sa320_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa301-400/sa320_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛在舍卫国祇树给孤独园。\n时，有生闻婆罗门往诣佛所，问讯已，退坐一面，白佛言：「瞿昙！所谓一切有——云何一切有？」\n佛告婆罗门：「我今问汝，随意答我。眼是有不？」答言：「是有，沙门瞿昙！」「色是有不？」答言：「是有！」「有眼、有色、有眼识、有眼触，及眼触因缘生受——若苦、若乐、不苦不乐不？」答言：「有！」耳、鼻、舌、身、意，亦如是问，皆答言有。\n「若复有言：『此非一切有；沙门瞿昙所说，我今捨之，别立余一切有』——彼唯有言说，问已不知，徒增疑惑。所以者何？非其境界故。」\n生闻婆罗门闻佛所说，欢喜随喜，从座起去。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在舍卫国祇树给孤独园。\n那时，有生闻婆罗门来见佛，问候后退坐一面，问：「瞿昙！所谓『一切有』——怎样叫一切有？」\n佛说：「我现在问你，随意回答。眼是有吗？」答：「是有，沙门瞿昙！」「色是有吗？」答：「是有！」「有眼、有色、有眼识、有眼触，以及依眼触为缘所生的受——苦、乐、不苦不乐——都有吗？」答：「有！」耳、鼻、舌、身、意，也同样问，都答有。\n「若有人说：『这不是一切有；沙门瞿昙所说，我今捨掉，另立别的一切有』——他只有空话，问了也不知，徒增疑惑。为什么？因为那不是他的境界。」\n生闻婆罗门听佛所说，欢喜随喜，从座而起离去。",
+  "notes": "SC 于本经未列可靠巴利平行，故唯以汉本为底，参同相应之巴利定型语厘义；依项目规约「无可靠平行时 confidence 降为 medium/low」，本经作 medium。承 SA_319『一切』框而问『一切有』；底本末「如是广说乃至非其境界故」为 peyyāla，今依 SA_319／SN35.23 拒立余说之定型语略补，不演他义。confidence=medium。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "medium",
+  "prior_review_status": "needs_revision",
+  "similarity_to_source": 0.268,
+  "paragraph_parallel": true
+}

@@ -1,0 +1,43 @@
+{
+  "id": "SA_1280",
+  "uid": "sa1280",
+  "title": "雜阿含經  卷第五十  雜相應  （1280）  垂下",
+  "chinese_text": "如是我聞：\n\n一時，佛住舍衛國祇樹給孤獨園。\n\n時，有一天子，容色絕妙，於後夜時來詣佛所，稽首佛足，退坐一面。其身光明遍照祇樹給孤獨園。\n\n時，彼天子說偈問佛：\n\n「誰屈下而屈下？　　誰高舉而隨舉？\n\n　云何童子戲，　　如童塊相擲？」\n\n爾時，世尊說偈答言：\n\n「愛下則隨下，　　愛舉則隨舉，\n\n　愛戲於愚夫，　　如童塊相擲。」\n\n時，彼天子復說偈言：\n\n「久見婆羅門，　　逮得般涅槃，\n\n　一切怖已過，　　永超世恩愛。」\n\n時，彼天子聞佛所說，歡喜隨喜，稽首佛足，即沒不現。",
+  "english_sa_text": "",
+  "parallels": [
+    {
+      "uid": "sa-2.278",
+      "acronym": "SA2 278",
+      "root_lang": "lzh",
+      "original_title": "垂下",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    }
+  ],
+  "primary_sn_uid": null,
+  "pali_text": "",
+  "english_sn_text": "",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa1201-1300/sa1280_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa1201-1300/sa1280_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛住舍卫国祇树给孤独园。\n后夜分，有天子容色绝妙，来诣佛所，稽首礼足，退坐一面；身诸光明遍照祇树给孤独园。\n天子说偈问：「谁屈下而随屈？谁高举而随举？云何如童戏，以土块相掷？」\n世尊说偈答：「爱下则随下，爱举则随举；爱戏于愚夫，如童以块相掷。」\n天子复说偈：「久见婆罗门，逮得般涅槃，一切怖已过，永超世恩爱。」闻已欢喜，礼足即没。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在舍卫国祇树给孤独园。\n后夜分，有一位天子容色绝妙，来到佛前，顶礼佛足，退坐一面；身上的光明遍照祇树给孤独园。\n天子说偈问：「谁低下就跟着低下？谁高举就跟着高举？怎么会像孩童戏耍，拿土块互相投掷？」\n世尊说偈答：「爱著低下就跟着低下，爱著高举就跟着高举；爱戏耍在愚人身上，就像孩童拿土块互掷。」\n天子又说偈：「久见婆罗门，逮得般涅槃，一切怖惧已过，永超世间恩爱。」听完欢喜随喜，顶礼佛足，随即隐没不见。",
+  "notes": "SC 于本经未列可靠巴利平行，故唯以汉本为底，参同相应之巴利定型语厘义；依项目规约「无可靠平行时 confidence 降为 medium/low」。confidence=medium：无 SC 专经；义为随爱高下、如童戏掷块。参 Devatā 问答定型。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "medium",
+  "prior_review_status": "needs_revision",
+  "similarity_to_source": 0.207,
+  "paragraph_parallel": true
+}

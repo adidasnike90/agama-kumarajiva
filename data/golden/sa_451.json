@@ -1,0 +1,67 @@
+{
+  "id": "SA_451",
+  "uid": "sa451",
+  "title": "雜阿含經  卷第十八  界相應  （451）  界",
+  "chinese_text": "如是我聞：\n\n一時，佛住舍衛國祇樹給孤獨園。\n\n爾時，世尊告諸比丘：「我今當說種種諸界。諦聽，善思，當為汝說。云何為種種界？謂眼界、色界、眼識界，耳界、聲界、耳識界，鼻界、香界、鼻識界，舌界、味界、舌識界，身界、觸界、身識界，意界、法界、意識界，是名種種界。」\n\n佛說是經已，諸比丘聞佛所說，歡喜奉行。",
+  "english_sa_text": "",
+  "parallels": [
+    {
+      "uid": "sn14.1",
+      "acronym": "SN 14.1",
+      "root_lang": "pli",
+      "original_title": "Dhātunānattasutta",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "arv3",
+      "acronym": "Arv 3",
+      "root_lang": "san",
+      "original_title": "Aṣṭādaśa Dhātavaḥ",
+      "translated_title": "The Eighteen Elements",
+      "type": "full",
+      "resembling": true,
+      "remark": null
+    },
+    {
+      "uid": "mn115",
+      "acronym": "MN 115",
+      "root_lang": "pli",
+      "original_title": "Bahudhātukasutta",
+      "translated_title": "Many Sorts of Elements",
+      "type": "full",
+      "resembling": true,
+      "remark": null
+    }
+  ],
+  "primary_sn_uid": "sn14.1",
+  "pali_text": "Sāvatthiyaṁ viharati. “Dhātunānattaṁ vo, bhikkhave, desessāmi. Taṁ suṇātha, sādhukaṁ manasi karotha, bhāsissāmī”ti. “Evaṁ, bhante”ti kho te bhikkhū bhagavato paccassosuṁ. Bhagavā etadavoca: “Katamañca, bhikkhave, dhātunānattaṁ? Cakkhudhātu rūpadhātu cakkhuviññāṇadhātu, sotadhātu saddadhātu sotaviññāṇadhātu, ghānadhātu gandhadhātu ghānaviññāṇadhātu, jivhādhātu rasadhātu jivhāviññāṇadhātu, kāyadhātu phoṭṭhabbadhātu kāyaviññāṇadhātu, manodhātu dhammadhātu manoviññāṇadhātu— idaṁ vuccati, bhikkhave, dhātunānattan”ti. Paṭhamaṁ.",
+  "english_sn_text": "At Sāvatthī. “Mendicants, I will teach you the diversity of elements. Listen and apply your mind well, I will speak.” “Yes, sir,” they replied. The Buddha said this: “And what is the diversity of elements? The eye element, sight element, and eye consciousness element. The ear element, sound element, and ear consciousness element. The nose element, smell element, and nose consciousness element. The tongue element, taste element, and tongue consciousness element. The body element, touch element, and body consciousness element. The mind element, ideas element, and mind consciousness element. This is called the diversity of elements.”",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa401-500/sa451_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa401-500/sa451_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛在舍卫国祇树给孤独园。\n尔时，世尊告诸比丘：「当说诸界差别。谛听，善思念之。何等为界之种种？谓眼与色及眼识，耳与声及耳识，鼻与香及鼻识，舌与味及舌识，身与触及身识，意与法及意识——是名诸界种种。」\n佛说此经已，诸比丘闻佛所说，欢喜奉行。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在舍卫国祇树给孤独园。\n那时，世尊告诉比丘们：「我要说诸界的差别。仔细听，好好思惟。什么是界的种种差别？就是眼与色以及眼识，耳与声以及耳识，鼻与香以及鼻识，舌与味以及舌识，身与触以及身识，意与法以及意识——这叫做诸界的种种。」\n佛说完这部经，比丘们听佛所说，都欢喜奉行。",
+  "notes": "本经 SC 平行表所列平行及 `raw_aligned_data.json` 内之巴利本文、Sujato 英译并用以厘定法义；求那跋陀罗汉本用于定位经文与传统术语。confidence=high：primary SN14.1 Dhātunānatta。十八界全列，与 SN 眼色识…意法意识相应；删汉冗余标题行；改『种种诸界／是名种种界』定型以避免贴汉。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "high",
+  "prior_review_status": "needs_revision",
+  "similarity_to_source": 0.159,
+  "paragraph_parallel": true,
+  "quality_gate_reasons": [
+    "sim_lit=0.601>=0.5",
+    "lit_mod_gap=0.287>=0.1"
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "id": "SA_836",
+  "uid": "sa836",
+  "title": "雜阿含經  卷第三十一  學相應  （836）  四不壤淨",
+  "chinese_text": "如是我聞：\n\n一時，佛住舍衛國祇樹給孤獨園。\n\n爾時，世尊告諸比丘：「汝等當起哀愍心、慈悲心。若有人於汝等所說樂聞樂受者，汝當為說四不壞淨，令入令住。何等為四？於佛不壞淨、於法不壞淨、於僧不壞淨、於聖戒成就。所以者何？若四大——地、水、火、風，有變易增損，此四不壞淨未甞增損變異。彼無增損變異者，謂多聞聖弟子於佛不壞淨成就，若墮地獄、畜生、餓鬼者，無有是處！是故，諸比丘！當作是學：『我當成就於佛不壞淨，法、僧不壞淨，聖戒成就，亦當建立餘人，令成就。』」\n\n佛說此經已，諸比丘聞佛所說，歡喜奉行。",
+  "english_sa_text": "",
+  "parallels": [
+    {
+      "uid": "sn55.17",
+      "acronym": "SN 55.17",
+      "root_lang": "pli",
+      "original_title": "Dutiyamittāmaccasutta",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "sn55.16",
+      "acronym": "SN 55.16",
+      "root_lang": "pli",
+      "original_title": "Paṭhamamittāmaccasutta",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    }
+  ],
+  "primary_sn_uid": "sn55.16",
+  "pali_text": "“Ye te, bhikkhave, anukampeyyātha, ye ca sotabbaṁ maññeyyuṁ—mittā vā amaccā vā ñātī vā sālohitā vā—te, bhikkhave, catūsu sotāpattiyaṅgesu samādapetabbā, nivesetabbā, patiṭṭhāpetabbā. Katamesu catūsu? Buddhe aveccappasāde samādapetabbā, nivesetabbā, patiṭṭhāpetabbā— itipi so bhagavā …pe… satthā devamanussānaṁ buddho bhagavāti. Dhamme …pe… saṅghe …pe… ariyakantesu sīlesu samādapetabbā, nivesetabbā, patiṭṭhāpetabbā akhaṇḍesu …pe… samādhisaṁvattanikesu. Ye te, bhikkhave, anukampeyyātha, ye ca sotabbaṁ maññeyyuṁ—mittā vā amaccā vā ñātī vā sālohitā vā—te, bhikkhave, imesu catūsu sotāpattiyaṅgesu samādapetabbā, nivesetabbā, patiṭṭhāpetabbā”ti. Chaṭṭhaṁ.",
+  "english_sn_text": "“Mendicants, those who you have sympathy for, and those worth listening to—friends and colleagues, relatives and family—should be encouraged, supported, and established by you in the four factors of stream-entry. What four? Experiential confidence in the Buddha … the teaching … the Saṅgha … And the ethical conduct loved by the noble ones … leading to immersion. Those who you have sympathy for, and those worth listening to—friends and colleagues, relatives and family—should be encouraged, supported, and established by you in these four factors of stream-entry.”",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa801-900/sa836_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa801-900/sa836_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛住舍卫国祇树给孤独园。\n尔时世尊告诸比丘：「若所哀愍、所应听者——亲友、同僚、亲属——当劝立安住于四不坏净。何等为四？于佛不坏净、于法不坏净、于僧不坏净、圣戒成就。所以者何？地水火风可有变易增损，圣弟子成就于佛不坏净者，无有堕地狱、畜生、饿鬼之理——于法、僧不坏净、圣戒，亦复如是。是故诸比丘当如是学：『我当成就于佛不坏净、于法不坏净、于僧不坏净、圣戒成就。』亦当建立余人，令得成就。」\n佛说此经已，诸比丘闻佛所说，欢喜奉行。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在舍卫国祇树给孤独园。\n那时世尊告诉比丘们：「凡是你们所哀愍、值得听受的——亲友、同僚、亲属——应当劝导、安立他们住于四不坏净。哪四种？于佛不坏净、于法不坏净、于僧不坏净、以及圣戒成就。为什么？地水火风可以变易增损，圣弟子成就于佛不坏净的，没有堕入地狱、畜生、饿鬼的道理——于法、僧不坏净、圣戒，也是一样。所以比丘们应当这样学：『我应当成就于佛不坏净、于法不坏净、于僧不坏净、以及圣戒成就。』也应当建立别人，使他们成就。」\n佛说完这部经，比丘们听佛所说，都欢喜奉行。",
+  "notes": "本经 SC 平行表所列平行及 `raw_aligned_data.json` 内之巴利本文、Sujato 英译并用以厘定法义；求那跋陀罗汉本用于定位经文与传统术语。confidence=high：SN55.16／17 Mittāmacca；汉兼「哀愍令说」与「四大可变、四净不变」——分属 16／17，并取；「四不坏净」= sotāpattiyaṅga。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "high",
+  "prior_review_status": "needs_revision",
+  "similarity_to_source": 0.228,
+  "paragraph_parallel": true
+}

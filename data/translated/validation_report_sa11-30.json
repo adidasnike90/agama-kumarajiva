@@ -1,0 +1,162 @@
+[
+  {
+    "id": "SA_11",
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": [],
+    "confidence": "high"
+  },
+  {
+    "id": "SA_12",
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": [],
+    "confidence": "high"
+  },
+  {
+    "id": "SA_13",
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": [],
+    "confidence": "high"
+  },
+  {
+    "id": "SA_14",
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": [],
+    "confidence": "high"
+  },
+  {
+    "id": "SA_15",
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": [],
+    "confidence": "high"
+  },
+  {
+    "id": "SA_16",
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": [],
+    "confidence": "medium"
+  },
+  {
+    "id": "SA_17",
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": [],
+    "confidence": "high"
+  },
+  {
+    "id": "SA_18",
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": [],
+    "confidence": "high"
+  },
+  {
+    "id": "SA_19",
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": [],
+    "confidence": "high"
+  },
+  {
+    "id": "SA_20",
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": [],
+    "confidence": "medium"
+  },
+  {
+    "id": "SA_21",
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": [],
+    "confidence": "high"
+  },
+  {
+    "id": "SA_22",
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": [],
+    "confidence": "high"
+  },
+  {
+    "id": "SA_23",
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": [],
+    "confidence": "high"
+  },
+  {
+    "id": "SA_24",
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": [],
+    "confidence": "high"
+  },
+  {
+    "id": "SA_25",
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": [],
+    "confidence": "high"
+  },
+  {
+    "id": "SA_26",
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": [],
+    "confidence": "high"
+  },
+  {
+    "id": "SA_27",
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": [],
+    "confidence": "high"
+  },
+  {
+    "id": "SA_28",
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": [],
+    "confidence": "high"
+  },
+  {
+    "id": "SA_29",
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": [],
+    "confidence": "high"
+  },
+  {
+    "id": "SA_30",
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": [],
+    "confidence": "high"
+  }
+]

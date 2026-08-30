@@ -1,0 +1,32 @@
+{
+  "id": "SA_1027",
+  "uid": "sa1027",
+  "title": "雜阿含經  卷第四十三  業報相應  （1027）  病比丘",
+  "chinese_text": "如是我聞：\n\n一時，佛住舍衛國祇樹給孤獨園……如上說。差別者，乃至佛告病比丘：「汝不自犯戒耶？」\n\n比丘白佛言：「世尊！我不以持淨戒故，於世尊所修梵行。」\n\n佛告比丘：「汝以何等法故，於我所修梵行？」\n\n比丘白佛：「為離貪欲故，於世尊所修梵行；為離瞋恚、愚癡故，於世尊所修梵行。」\n\n佛告比丘：「如是，如是。汝正應為離貪欲故，於我所修梵行；離瞋恚、愚癡故，於我所修梵行。比丘！貪欲纏故，不得離欲；無明纏故，慧不清淨。是故，比丘！於欲離欲心解脫，離無明故慧解脫。若比丘於欲離欲心解脫身作證，離無明故慧解脫，是名比丘斷諸愛欲，轉結縛，止慢無間等，究竟苦邊。是故，比丘！於此法善思惟……」如前廣說，乃至「受第一記。」\n\n佛說此經已，諸比丘聞佛所說，歡喜隨喜，作禮而去。",
+  "english_sa_text": "",
+  "parallels": [],
+  "primary_sn_uid": null,
+  "pali_text": "",
+  "english_sn_text": "",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa1001-1100/sa1027_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa1001-1100/sa1027_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛住舍卫国祇树给孤独园。\n时有病比丘，因缘如上。佛问：「汝不自犯戒耶？」\n白言：「我不以持净戒故，于世尊所修梵行。」\n「汝以何法于我所修梵行？」白言：「为离贪欲、瞋恚、愚癡故，于世尊所修梵行。」\n佛告：「如是。比丘！贪欲缠故不得离欲；无明缠故慧不清净。是故于欲离欲得心解脱，离无明故得慧解脱。若比丘于欲离欲心解脱身作证，离无明慧解脱——是名断诸爱欲，转结缚，止慢无间等，究竟苦边。于此法当善思惟。」如上广说，乃至受第一记。\n佛说此经已，诸比丘闻佛所说，欢喜奉行。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在舍卫国祇树给孤独园。\n当时有一位病比丘，因缘如上。佛问：「你该不会自己犯戒了吧？」\n答：「我并不是为了持净戒，才在世尊处修梵行。」\n「那你为了什么法在我这里修梵行？」答：「为了离贪欲、瞋恚、愚癡，才在世尊处修梵行。」\n佛说：「正是如此。比丘！被贪欲缠住就不能离欲；被无明缠住慧就不清净。所以要在欲上离欲而得心解脱，离开无明而得慧解脱。若比丘在欲上离欲、心解脱并亲自作证，又离无明而慧解脱——这就叫做断诸爱欲，转开结缚，止息慢的无间等，究竟苦边。应当好好思惟这样的法。」如上广说，乃至授第一记。\n佛说完这部经，比丘们听佛所说，都欢喜奉行。",
+  "notes": "SC 于本经未列可靠巴利平行，故唯以汉本为底，参同相应之巴利定型语厘义；依项目规约「无可靠平行时 confidence 降为 medium/low」。confidence=medium：无 SC 巴利专经；近病比丘闻法系列。梵行目的为离贪瞋痴；离欲心解脱、离无明慧解脱，究竟苦边。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "medium",
+  "prior_review_status": "needs_revision",
+  "similarity_to_source": 0.295,
+  "paragraph_parallel": true
+}

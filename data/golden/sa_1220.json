@@ -1,0 +1,43 @@
+{
+  "id": "SA_1220",
+  "uid": "sa1220",
+  "title": "雜阿含經  卷第五十  比丘尼相應  （1220）  拔毒箭",
+  "chinese_text": "如是我聞：\n\n一時，佛住波羅㮈國仙人住處鹿野苑中。爾時，世尊為比丘眾說四聖諦相應法，謂此苦聖諦、此苦集聖諦、此苦滅聖諦、此苦滅道跡聖諦。\n\n時，尊者婆耆舍在會中，作是念：「我今當於世尊面前讚歎拔箭之譬。」如是念已，即從座起，整衣服，合掌白佛言：「唯然，世尊！欲有所說。唯然，善逝！欲有所說。」\n\n佛告婆耆舍：「隨所樂說！」\n\n時，尊者婆耆舍即說偈言：\n\n「我今敬禮佛，　　哀愍諸眾生，\n\n　第一拔利箭，　　善解治眾病。\n\n　迦露醫投藥，　　波睺羅治藥，\n\n　及彼瞻婆耆，　　耆婆醫療病。\n\n　或有病小差，　　名為善治病，\n\n　後時病還發，　　抱病遂至死。\n\n　正覺大醫王，　　善投眾生藥，\n\n　究竟除眾苦，　　不復受諸有。\n\n　乃至百千種，　　那由他病數，\n\n　佛悉為療治，　　究竟於苦邊。\n\n　諸醫來會者，　　我今悉告汝，\n\n　得甘露法藥，　　隨所樂而服。\n\n　第一拔利箭，　　善覺知眾病，\n\n　治中之最上，　　故稽首瞿曇。」\n\n尊者婆耆舍說是語時，諸比丘聞其所說，皆大歡喜。",
+  "english_sa_text": "",
+  "parallels": [
+    {
+      "uid": "sa-2.254",
+      "acronym": "SA2 254",
+      "root_lang": "lzh",
+      "original_title": "拔毒箭",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    }
+  ],
+  "primary_sn_uid": null,
+  "pali_text": "",
+  "english_sn_text": "",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa1201-1300/sa1220_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa1201-1300/sa1220_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛住波罗奈国仙人住处鹿野苑中。尔时世尊为诸比丘说四圣谛法。\n时婆耆舍在会，作是念：「我当于佛前赞拔箭譬。」即从座起，整衣服，合掌白佛：「世尊！欲有所说。善逝！欲有所说。」佛告婆耆舍：「随所乐说！」\n即说偈言：「稽首哀愍尊，第一拔利箭，善能疗众病。世医投药已，或差还复发，抱病遂至死；正觉大医王，投甘露法药，究竟除众苦，不受后有。百千那由他病，佛悉能治，令至苦边。诸来求医者，当服甘露药；拔箭第一医，故稽首瞿昙。」\n婆耆舍说是语时，诸比丘闻已，皆大欢喜。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在波罗奈国仙人住处鹿野苑中。这时世尊为比丘们说四圣谛法。\n婆耆舍在会中心想：「我应当在佛前赞叹拔箭的譬喻。」便从座起，整衣服，合掌对佛说：「世尊！我想说。善逝！我想说。」佛告诉婆耆舍：「随你乐意说吧！」\n便说偈：「稽首哀愍众生的尊者，第一能拔利箭，善于疗治众病。世间医生下药以后，有的暂好又复发，抱病一直到死；正觉大医王投下甘露法药，究竟除去众苦，不再受后有。百千那由他种病，佛都能治，令到苦的尽头。各位来求医的，应当服甘露药；拔箭的第一医，所以稽首瞿昙。」\n婆耆舍说完时，比丘们听了都大欢喜。",
+  "notes": "SC 于本经未列可靠巴利平行，故唯以汉本为底，参同相应之巴利定型语厘义；依项目规约「无可靠平行时 confidence 降为 medium/low」。confidence=medium：无 SC 巴利专经；义依汉本拔箭／医王譬＋四谛会座。压缩世医名号罗列，保留究竟除苦、不受后有。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "medium",
+  "prior_review_status": "needs_revision",
+  "similarity_to_source": 0.19,
+  "paragraph_parallel": true
+}

@@ -1,0 +1,32 @@
+{
+  "id": "SA_636",
+  "uid": "sa636",
+  "title": "雜阿含經  卷第二十六  念處相應  （636）  比丘",
+  "chinese_text": "如是我聞：\n\n一時，佛住巴連弗邑鷄林精舍。\n\n爾時，世尊告諸比丘：「當為汝說修四念處。何等為修四念處？若比丘！如來、應、等正覺、明行足、善逝、世間解、無上士、調御丈夫、天人師、佛世尊出興于世，演說正法，上語亦善，中語亦善，下語亦善，善義善味，純一滿淨，梵行顯示。若族姓子、族姓女從佛聞法，得淨信心。如是修學，見在家和合欲樂之過，煩惱結縛，樂居空閑，出家學道，不樂在家，處於非家，欲一向清淨，盡其形壽，純一滿淨，鮮白梵行：『我當剃除鬚髮，著袈裟衣，正信非家，出家學道。』作是思惟已，即便放捨錢財親屬，剃除鬚髮，著袈裟衣，正信非家，出家學道，正其身行，護口四過，正命清淨，習賢聖戒，守諸根門，護心正念。眼見色時，不取形相，若於眼根住不律儀，世間貪憂、惡不善法常漏於心，而今於眼起正律儀；耳、鼻、舌、身、意起正律儀，亦復如是。\n\n「彼以賢聖戒律成就，善攝根門，來往周旋，顧視屈伸，坐臥眠覺語默，住智正智。彼成就如此聖戒，守護根門，正智正念，寂靜遠離，空處、樹下、閑房獨坐，正身正念，繫心安住。斷世貪憂，離貪欲，淨除貪欲；斷世瞋恚、睡眠、掉悔、疑蓋，離瞋恚、睡眠、掉悔、疑蓋，淨除瞋恚、睡眠、掉悔、疑蓋。斷除五蓋惱心，慧力羸、諸障閡分、不趣涅槃者，是故，內身身觀念住，精勤方便，正智正念，調伏世間貪憂；如是外身、內外身，受、心、法法觀念住，亦如是說。是名比丘修四念處。」\n\n佛說此經已，諸比丘聞佛所說，歡喜奉行。",
+  "english_sa_text": "",
+  "parallels": [],
+  "primary_sn_uid": null,
+  "pali_text": "",
+  "english_sn_text": "",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa601-700/sa636_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa601-700/sa636_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛住巴连弗邑鸡林精舍。\n佛告比丘：「当说修四念处。如来出兴，说正法，善说满净梵行。族姓子闻法生信，见在家欲乐过患，舍家出家，持戒清净，守护根门，正知而行。」\n「住阿兰若、树下、空闲，正身正念。断五盖——贪、瞋、睡眠、掉悔、疑——内身身观念住，精勤正知正念，调伏世间贪忧；外身、内外身，受、心、法亦如是。是名比丘修四念处。」\n佛说此经已，诸比丘闻佛所说，欢喜奉行。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在巴连弗邑鸡林精舍。\n佛告比丘：「当说修四念处。如来出世，说正法，善说满净梵行。族姓子闻法生信，见在家欲乐的过患，舍家出家，持戒清净，守护根门，正知而行。」\n「住阿兰若、树下、空闲，正身正念。断五盖——贪、瞋、睡眠、掉悔、疑——内身身观念住，精勤正知正念，调伏世间贪忧；外身、内外身，受、心、法也是这样。这叫比丘修四念处。」\n佛说完这部经，比丘们听佛所说，都欢喜奉行。",
+  "notes": "SC 于本经未列可靠巴利平行，故唯以汉本为底，参同相应之巴利定型语厘义；依项目规约「无可靠平行时 confidence 降为 medium/low」。confidence=medium：出家道次第＋四念处，近 SN47 系广说而无专经平行；压缩汉本冗复。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "medium",
+  "prior_review_status": "needs_revision",
+  "similarity_to_source": 0.112,
+  "paragraph_parallel": true
+}

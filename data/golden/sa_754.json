@@ -1,0 +1,32 @@
+{
+  "id": "SA_754",
+  "uid": "sa754",
+  "title": "雜阿含經  卷第二十九  聖道分相應  （754）  舍利弗",
+  "chinese_text": "如是我聞：\n\n一時，佛住舍衛國祇樹給孤獨園。\n\n爾時，尊者舍利弗詣佛所，稽首佛足，退坐一面，白佛言：「世尊！所謂賢聖等三昧根本眾具。云何為賢聖等三昧根本眾具？」\n\n佛告舍利弗：「謂七正道分為賢聖等三昧，為根本，為眾具。何等為七？謂正見、正志、正語、正業、正命、正方便、正念。舍利弗！於此七道分為基業已，得一其心，是名賢聖等三昧根本眾具。」\n\n佛說此經已，諸比丘聞佛所說，歡喜奉行。",
+  "english_sa_text": "",
+  "parallels": [],
+  "primary_sn_uid": null,
+  "pali_text": "",
+  "english_sn_text": "",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa701-800/sa754_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa701-800/sa754_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛住舍卫国祇树给孤独园。\n尊者舍利弗诣佛所，稽首礼足，退坐一面，白佛言：「世尊！所谓贤圣等三昧根本众具，云何？」\n佛告舍利弗：「七支正道，是贤圣等三昧之根本、众具。何等七？正见、正志、正语、正业、正命、正方便、正念。于此七支为基业已，得心一境，是名贤圣等三昧根本众具。」\n佛说此经已，诸比丘闻佛所说，欢喜奉行。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在舍卫国祇树给孤独园。\n舍利弗尊者来到佛所，叩头礼足，坐在一边，对佛说：「世尊！所谓贤圣等持的三昧，它的根本与众具是什么？」\n佛告诉舍利弗：「七支正道，就是贤圣等持三昧的根本与众具。哪七支？正见、正志、正语、正业、正命、正方便、正念。以这七支为基业之后，心得专一，就叫做贤圣等持三昧的根本众具。」\n佛说完这部经，比丘们听佛所说，都欢喜奉行。",
+  "notes": "SC 于本经未列可靠巴利平行，故唯以汉本为底，参同相应之巴利定型语厘义；依项目规约「无可靠平行时 confidence 降为 medium/low」。confidence=medium：同 MN117／SN 道支系「正定以余七支为资粮」定型；汉「得一其心」＝心一境性。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "medium",
+  "prior_review_status": "needs_revision",
+  "similarity_to_source": 0.358,
+  "paragraph_parallel": true
+}

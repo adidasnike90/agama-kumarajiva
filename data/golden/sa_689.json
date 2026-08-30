@@ -1,0 +1,64 @@
+{
+  "id": "SA_689",
+  "uid": "sa689",
+  "title": "雜阿含經  卷第二十八  根力相應  （689）  七力",
+  "chinese_text": "如是我聞：\n\n一時，佛住舍衛國祇樹給孤獨園。\n\n爾時，世尊告諸比丘：「有七力……」如上說。差別者：「是故，比丘！當如是學：『我當成就信力。』如是精進力、慚力、愧力、念力、定力、慧力亦當學。」\n\n佛說此經已，諸比丘聞佛所說，歡喜奉行。",
+  "english_sa_text": "",
+  "parallels": [
+    {
+      "uid": "an7.3",
+      "acronym": "AN 7.3",
+      "root_lang": "pli",
+      "original_title": "Saṁkhittabalasutta",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "sa688",
+      "acronym": "SA 688",
+      "root_lang": "lzh",
+      "original_title": "七力",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "sa690",
+      "acronym": "SA 690",
+      "root_lang": "lzh",
+      "original_title": "七力",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    }
+  ],
+  "primary_sn_uid": null,
+  "pali_text": "",
+  "english_sn_text": "",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa601-700/sa689_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa601-700/sa689_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛住舍卫国祇树给孤独园。\n佛告比丘：「有七力——信力、精进力、惭力、愧力、念力、定力、慧力。是故比丘当如是学：我当成就信力；精进、惭、愧、念、定、慧力，亦当学。」\n佛说此经已，诸比丘闻佛所说，欢喜奉行。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在舍卫国祇树给孤独园。\n佛告比丘：「有七种力——信力、精进力、惭力、愧力、念力、定力、慧力。所以比丘应当这样学：我应当成就信力；精进、惭、愧、念、定、慧力，也应当学。」\n佛说完这部经，比丘们听佛所说，都欢喜奉行。",
+  "notes": "本经 SC 平行表所列平行及 `raw_aligned_data.json` 内之巴利本文、Sujato 英译并用以厘定法义；求那跋陀罗汉本用于定位经文与传统术语。confidence=high：AN7.3 系劝修差别。gold_reconstructed：peyyāla「如上说」补七力名目＋劝学。",
+  "review_status": "gold_reconstructed",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "high",
+  "prior_review_status": "needs_revision",
+  "reconstruction_basis": "如上说 → 七力名目＋劝学",
+  "similarity_to_source": 0.325,
+  "paragraph_parallel": true
+}

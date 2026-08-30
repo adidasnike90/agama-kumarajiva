@@ -1,0 +1,39 @@
+---
+description: Agama–Kumarajiva project vision, style, and doctrinal guardrails
+alwaysApply: true
+---
+
+# Agama–Kumarajiva AI Project
+
+## Vision
+
+Produce a **Kumarajiva-like** Chinese Āgama: concise, often tetrasyllabic, euphonic—while recovering **early Buddhist** meaning. This is **not** historical forgery: never claim Kumarajiva translated the Āgamas.
+
+Guṇabhadra’s T99 Chinese is often stiff, calqued, and sometimes doctrinally unclear. It is a **reference witness**, not the gold standard of meaning.
+
+## 信达雅（对本项目的定义）
+
+Priority: **信 > 达 > 雅**, where **信 = fidelity to Indic meaning** (Pāli SN parallels / Sanskrit where available), **not** fidelity to Guṇabhadra’s wording.
+
+1. **信（对巴利／梵）**：以 SuttaCentral 平行的巴利（及可用梵本／可靠英译如 Bodhi、Sujato、Patton）厘清法义；求那跋陀罗汉译用于定位经文与传统术语，若与平行明显冲突或文句拙劣妨碍达意，**应以平行义为准改写**，并在 notes 标明「据 SN / 梵本校正」。
+2. **达**：汉语读者可顺读；因果链清楚。
+3. **雅**：模拟罗什——删梵文式冗复、四字节奏、意译圆通（如「欲令如是、不令如是」→「得大自在／不得自在」）。
+
+无可靠平行时：保守依据汉译 + 早期教理常识，confidence 降为 medium/low，不得臆造。
+
+## Style rules (Kumarajiva-like)
+
+1. Cut Indic-style repetition; keep doctrinal content.
+2. Prefer four-character cadence; allow mixed lines when needed.
+3. Sense over calque; use established Chinese Buddhist idioms.
+4. Keep framing formulas recognizable (*如是我闻*, *一时佛在…*).
+
+## Doctrinal prohibitions
+
+Do **not** introduce later Mahāyāna / Chan vocabulary: 如来藏, 佛性, 常乐我净, 真心, 妄心, 本来面目, 即心即佛, 真空妙有 (as metaphysical jargon). Stay with early markers: 无常, 苦, 空, 非我/无我, 缘起, 五蕴, 十二处, 十八界, 四谛, 涅槃.
+
+## Engineering honesty
+
+- SA↔SN parallels come from **SuttaCentral curated tables**.
+- Auto-reordering of Taishō disorder is **out of scope** for v1.
+- Prefer human-checked golden set before LoRA.

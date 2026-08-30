@@ -1,0 +1,53 @@
+{
+  "id": "SA_669",
+  "uid": "sa669",
+  "title": "雜阿含經  卷第二十七  根力相應  （669）  攝",
+  "chinese_text": "如是我聞：\n\n一時，佛住舍衛國祇樹給孤獨園。\n\n爾時，世尊告諸比丘……如上說。差別者：「若所有法，是眾之所取，一切皆是四攝事。或有一取施者，或一取愛語者，或一取行利者，或一取同利者。過去世時，過去世眾，以有所取者，亦是四攝事。未來世眾，當有所取者，亦是四攝事。或一取施者，或一取愛語，或一取行利者，或一取同利。」\n\n爾時，世尊即說偈言：\n\n「布施及愛語，　　或有行利者，\n\n　同利諸行生，　　各隨其所應。\n\n　以此攝世間，　　猶車因釭運。\n\n　世無四攝事，　　母恩子養忘，\n\n　亦無父等尊，　　謙下之奉事。\n\n　以有四攝事，　　隨順之法故，\n\n　是故有大士，　　德被於世間。」\n\n佛說此經已，諸比丘聞佛所說，歡喜奉行。",
+  "english_sa_text": "",
+  "parallels": [
+    {
+      "uid": "an4.32",
+      "acronym": "AN 4.32",
+      "root_lang": "pli",
+      "original_title": "Saṅgahasutta",
+      "translated_title": "Sustaining",
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "ea-2.6",
+      "acronym": "EA2 6",
+      "root_lang": "lzh",
+      "original_title": "",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    }
+  ],
+  "primary_sn_uid": null,
+  "pali_text": "",
+  "english_sn_text": "",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa601-700/sa669_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa601-700/sa669_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛住舍卫国祇树给孤独园。\n佛告比丘：「若有所取于众者，一切皆是四摄事——或取布施，或取爱语，或取利行，或取同事。」\n「过去世众之所取，未来世众之所取，亦皆四摄事。」\n尔时世尊说偈：「布施及爱语，　或有行利者，　同事诸行生，　各随其所应。以此摄世间，　犹车因釭运。　世无四摄事，　母不念其子，父尊亦无敬。　以有四摄故，　大士德被世。」\n佛说此经已，诸比丘闻佛所说，欢喜奉行。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在舍卫国祇树给孤独园。\n佛告比丘：「凡是大众所取用的，一切都是四摄事——或者取布施，或者取爱语，或者取利行，或者取同事。」\n「过去世大众所取的，未来世大众所取的，也都是四摄事。」\n那时世尊说偈：「布施以及爱语，　或者有利行，　同事各种行为生起，　各随其所相应。用这些摄持世间，　如同车子靠车釭运转。　世上若无四摄事，　母亲也不顾念子女，对父亲尊长也无恭敬。　因为有四摄，　大士的德行遍及世间。」\n佛说完这部经，比丘们听佛所说，都欢喜奉行。",
+  "notes": "本经 SC 平行表所列平行及 `raw_aligned_data.json` 内之巴利本文、Sujato 英译并用以厘定法义；求那跋陀罗汉本用于定位经文与传统术语。confidence=high：primary AN4.32 Saṅgaha（四摄持世，如车釭；偈义同）。据 AN 校正压缩汉偈；「如上说」开经从四摄事径说。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "high",
+  "prior_review_status": "needs_revision",
+  "similarity_to_source": 0.204,
+  "paragraph_parallel": true
+}

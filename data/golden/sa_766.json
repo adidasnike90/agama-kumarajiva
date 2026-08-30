@@ -1,0 +1,53 @@
+{
+  "id": "SA_766",
+  "uid": "sa766",
+  "title": "雜阿含經  卷第三十  聖道分相應  （766）  清淨",
+  "chinese_text": "如是我聞：\n\n一時，佛住舍衛國祇樹給孤獨園。\n\n爾時，世尊告諸比丘：「若比丘正見清淨鮮白，無諸過患，離諸煩惱，未起不起，唯除佛所調伏，乃至正定亦如是說。若正見清淨鮮白，無諸過患，離諸煩惱，未起能起，乃至正定亦如是說。」\n\n佛說此經已，諸比丘聞佛所說，歡喜奉行。\n\n如除佛所說，除善逝所說，亦如上說。",
+  "english_sa_text": "",
+  "parallels": [
+    {
+      "uid": "sn45.17",
+      "acronym": "SN 45.17",
+      "root_lang": "pli",
+      "original_title": "Dutiyaparisuddhasutta",
+      "translated_title": "Purified (2)",
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "sn45.16",
+      "acronym": "SN 45.16",
+      "root_lang": "pli",
+      "original_title": "Paṭhamaparisuddhasutta",
+      "translated_title": "Purified (1)",
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    }
+  ],
+  "primary_sn_uid": "sn45.16",
+  "pali_text": "Sāvatthinidānaṁ. “Aṭṭhime, bhikkhave, dhammā parisuddhā pariyodātā anaṅgaṇā vigatūpakkilesā anuppannā uppajjanti, nāññatra tathāgatassa pātubhāvā arahato sammāsambuddhassa. Katame aṭṭha? Seyyathidaṁ—sammādiṭṭhi …pe… sammāsamādhi. Ime kho, bhikkhave, aṭṭha dhammā parisuddhā pariyodātā anaṅgaṇā vigatūpakkilesā anuppannā uppajjanti, nāññatra tathāgatassa pātubhāvā arahato sammāsambuddhassā”ti. Chaṭṭhaṁ.",
+  "english_sn_text": "At Sāvatthī. “Mendicants, these eight things don’t arise to be purified, bright, flawless, and rid of corruptions except when a Realized One, a perfected one, a fully awakened Buddha has appeared. What eight? They are: right view, right purpose, right speech, right action, right livelihood, right effort, right mindfulness, and right immersion. These eight things don’t arise to be purified, bright, flawless, and rid of corruptions except when a Realized One, a perfected one, a fully awakened Buddha has appeared.”",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa701-800/sa766_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa701-800/sa766_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛住舍卫国祇树给孤独园。\n佛告比丘：「有八法清净鲜白、无诸过患、离诸烦恼——正见、正志、正语、正业、正命、正方便、正念、正定。此八法未起者，非如来、应、等正觉出现于世，则不得生起；如来出现，乃得生起。」\n「如说除佛，说除善逝，亦复如是。」\n佛说此经已，诸比丘闻佛所说，欢喜奉行。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在舍卫国祇树给孤独园。\n佛告诉比丘：「有八法清净鲜白、没有过患、离开烦恼——正见、正志、正语、正业、正命、正方便、正念、正定。这八法若还未生起，若非如来、应、等正觉出现在世间，就不能生起；如来出现，才能生起。」\n「像说除了佛，说除了善逝，也是这样。」\n佛说完这部经，比丘们听佛所说，都欢喜奉行。",
+  "notes": "本经 SC 平行表所列平行及 `raw_aligned_data.json` 内之巴利本文、Sujato 英译并用以厘定法义；求那跋陀罗汉本用于定位经文与传统术语。confidence=high：primary SN45.16／45.17 Parisuddha。据 SN 校正汉「未起不起，唯除佛所调伏／未起能起」：清净八支未起者，唯因如来（及善逝）出现而得生起。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "high",
+  "prior_review_status": "needs_revision",
+  "similarity_to_source": 0.156,
+  "paragraph_parallel": true
+}

@@ -1,0 +1,1907 @@
+[
+  {
+    "id": "SA_1001",
+    "uid": "sa1001",
+    "title": "雜阿含經  卷第四十一  諸天相應  （1001）  第1001經",
+    "chinese_text": "Saṁyuktāgama雜阿含經\n\n如是我聞：\n\n一時，佛住舍衛國祇樹給孤獨園。\n\n時，有一天子，容色絕妙，於後夜時來詣佛所，稽首佛足，退坐一面。身諸光明遍照祇樹給孤獨園。\n\n時，彼天子而說偈言：\n\n「冥運持命去，　　故令人短壽，\n\n　為老所侵迫，　　而無救護者。\n\n　覩斯老病死，　　令人大恐怖，\n\n　唯作諸功德，　　樂住至樂所。」\n\n爾時，世尊說偈答言：\n\n「冥運持命去，　　故令人短壽，\n\n　為老所侵迫，　　而無救護者。\n\n　觀此有餘過，　　令人大恐怖，\n\n　當斷世貪愛，　　無餘涅槃樂。」\n\n時，彼天子復說偈言：\n\n「久見婆羅門，　　逮得般涅槃，\n\n　一切怖已過，　　永超世恩愛。」\n\n時，彼天子聞佛所說，歡喜隨喜，稽首佛足，即沒不現。",
+    "english_sa_text": "",
+    "parallels": [
+      {
+        "uid": "sa-2.138",
+        "acronym": "SA2 138",
+        "root_lang": "lzh",
+        "original_title": "強親回",
+        "translated_title": null,
+        "type": "full",
+        "resembling": false,
+        "remark": null
+      },
+      {
+        "uid": "sn1.3",
+        "acronym": "SN 1.3",
+        "root_lang": "pli",
+        "original_title": "Upanīyasutta",
+        "translated_title": "Reaching",
+        "type": "full",
+        "resembling": false,
+        "remark": null
+      },
+      {
+        "uid": "sn2.19",
+        "acronym": "SN 2.19",
+        "root_lang": "pli",
+        "original_title": "Uttarasutta",
+        "translated_title": null,
+        "type": "full",
+        "resembling": false,
+        "remark": null
+      },
+      {
+        "uid": "sf20",
+        "acronym": "SF 20",
+        "root_lang": "san",
+        "original_title": "",
+        "translated_title": null,
+        "type": "full",
+        "resembling": true,
+        "remark": null
+      }
+    ],
+    "primary_sn_uid": "sn1.3",
+    "pali_text": "Sāvatthinidānaṁ. Ekamantaṁ ṭhitā kho sā devatā bhagavato santike imaṁ gāthaṁ abhāsi: “Upanīyati jīvitamappamāyu, Jarūpanītassa na santi tāṇā; Etaṁ bhayaṁ maraṇe pekkhamāno, Puññāni kayirātha sukhāvahānī”ti. “Upanīyati jīvitamappamāyu, Jarūpanītassa na santi tāṇā; Etaṁ bhayaṁ maraṇe pekkhamāno, Lokāmisaṁ pajahe santipekkho”ti.",
+    "english_sn_text": "At Sāvatthī. Standing to one side, that deity spoke this verse in the Buddha’s presence: “This life, so very short, is led onward. One led on to old age has no shelter. Seeing this peril in death, do good deeds that bring you joy.” “This life, so very short, is led onward. One led on to old age has no shelter. Seeing this peril in death, a seeker of peace would drop the world’s bait.”",
+    "errors": [
+      "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa1001-1100/sa1001_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+      "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa1001-1100/sa1001_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+      "used_analayo_fallback"
+    ],
+    "kumarajiva_style_text": "",
+    "modern_psychology_text": "",
+    "notes": "",
+    "review_status": "raw"
+  },
+  {
+    "id": "SA_1002",
+    "uid": "sa1002",
+    "title": "雜阿含經  卷第四十一  諸天相應  （1002）  第1002經",
+    "chinese_text": "Saṁyuktāgama雜阿含經\n\n如是我聞：\n\n一時，佛住舍衛國祇樹給孤獨園。\n\n時，有一天子，容色絕妙，於後夜時來詣佛所，稽首佛足，退坐一面。身諸光明遍照祇樹給孤獨園。\n\n時，彼天子說偈問佛：\n\n「斷除於幾法，　　幾法應棄捨，\n\n　而復於幾法，　　增上方便修，\n\n　幾聚應超越，　　比丘度駃流。」\n\n爾時，世尊說偈答言：\n\n「斷除五捨五，　　增修於五根，\n\n　超越五和合，　　比丘度流淵。」\n\n時，彼天子復說偈言：\n\n「久見婆羅門，　　逮得般涅槃，\n\n　一切怖已過，　　永超世恩愛。」\n\n時，彼天子聞佛所說，歡喜隨喜，稽首佛足，即沒不現。",
+    "english_sa_text": "",
+    "parallels": [
+      {
+        "uid": "sa-2.311",
+        "acronym": "SA2 311",
+        "root_lang": "lzh",
+        "original_title": "所斷",
+        "translated_title": null,
+        "type": "full",
+        "resembling": false,
+        "remark": null
+      },
+      {
+        "uid": "sa-2.140",
+        "acronym": "SA2 140",
+        "root_lang": "lzh",
+        "original_title": "思惟",
+        "translated_title": null,
+        "type": "full",
+        "resembling": false,
+        "remark": null
+      },
+      {
+        "uid": "sa1312",
+        "acronym": "SA 1312",
+        "root_lang": "lzh",
+        "original_title": "所斷",
+        "translated_title": null,
+        "type": "full",
+        "resembling": false,
+        "remark": null
+      },
+      {
+        "uid": "sn1.5",
+        "acronym": "SN 1.5",
+        "root_lang": "pli",
+        "original_title": "Katichindasutta",
+        "translated_title": "How Many Must One Cut?",
+        "type": "full",
+        "resembling": false,
+        "remark": null
+      }
+    ],
+    "primary_sn_uid": "sn1.5",
+    "pali_text": "Sāvatthinidānaṁ. Ekamantaṁ ṭhitā kho sā devatā bhagavato santike imaṁ gāthaṁ abhāsi: “Kati chinde kati jahe, kati cuttari bhāvaye; Kati saṅgātigo bhikkhu, oghatiṇṇoti vuccatī”ti. “Pañca chinde pañca jahe, pañca cuttari bhāvaye; Pañca saṅgātigo bhikkhu, oghatiṇṇoti vuccatī”ti.",
+    "english_sn_text": "At Sāvatthī. Standing to one side, that deity spoke this verse in the Buddha’s presence: “Cut how many? Drop how many? Develop how many more? When a mendicant slips how many chains are they said to have crossed the flood?” “Five to cut, five to drop, and five more to develop. When a mendicant slips five chains they’re said to have crossed the flood.”",
+    "errors": [
+      "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa1001-1100/sa1002_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+      "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa1001-1100/sa1002_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+      "used_analayo_fallback"
+    ],
+    "kumarajiva_style_text": "",
+    "modern_psychology_text": "",
+    "notes": "",
+    "review_status": "raw"
+  },
+  {
+    "id": "SA_1003",
+    "uid": "sa1003",
+    "title": "雜阿含經  卷第四十一  諸天相應  （1003）  第1003經",
+    "chinese_text": "Saṁyuktāgama雜阿含經\n\n如是我聞：\n\n一時，佛住舍衛國祇樹給孤獨園。\n\n時，有天子容色絕妙，於後夜時來詣佛所，稽首佛足，退坐一面。身諸光明遍照祇樹給孤獨園。\n\n時，彼天子說偈問佛：\n\n「幾人於覺眠？　　幾人於眠覺？\n\n　幾人取塵垢？　　幾人得清淨？」\n\n爾時，世尊說偈答言：\n\n「五人於覺眠，　　五人於眠覺，\n\n　五人取於垢，　　五人得清淨。」\n\n時，彼天子復說偈言：\n\n「久見婆羅門，　　逮得般涅槃，\n\n　一切怖已過，　　永超世恩愛。」\n\n時，彼天子聞佛所說，歡喜隨喜，稽首佛足，即沒不現。",
+    "english_sa_text": "",
+    "parallels": [
+      {
+        "uid": "sa-2.141",
+        "acronym": "SA2 141",
+        "root_lang": "lzh",
+        "original_title": "睡寤",
+        "translated_title": null,
+        "type": "full",
+        "resembling": false,
+        "remark": null
+      },
+      {
+        "uid": "sn1.6",
+        "acronym": "SN 1.6",
+        "root_lang": "pli",
+        "original_title": "Jāgarasutta",
+        "translated_title": "Awake",
+        "type": "full",
+        "resembling": false,
+        "remark": null
+      }
+    ],
+    "primary_sn_uid": "sn1.6",
+    "pali_text": "Sāvatthinidānaṁ. Ekamantaṁ ṭhitā kho sā devatā bhagavato santike imaṁ gāthaṁ abhāsi: “Kati jāgarataṁ suttā, kati suttesu jāgarā; Katibhi rajamādeti, katibhi parisujjhatī”ti. “Pañca jāgarataṁ suttā, pañca suttesu jāgarā; Pañcabhi rajamādeti, pañcabhi parisujjhatī”ti.",
+    "english_sn_text": "At Sāvatthī. Standing to one side, that deity spoke this verse in the Buddha’s presence: “How many sleep among the waking? How many wake among the sleeping? By how many do you gather dust? By how many are you cleansed?” “Five sleep among the waking. Five wake among the sleeping. By five you gather dust. By five you’re cleansed.”",
+    "errors": [
+      "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa1001-1100/sa1003_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+      "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa1001-1100/sa1003_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+      "used_analayo_fallback"
+    ],
+    "kumarajiva_style_text": "",
+    "modern_psychology_text": "",
+    "notes": "",
+    "review_status": "raw"
+  },
+  {
+    "id": "SA_1004",
+    "uid": "sa1004",
+    "title": "雜阿含經  卷第四十一  諸天相應  （1004）  第1004經",
+    "chinese_text": "Saṁyuktāgama雜阿含經\n\n如是我聞：\n\n一時，佛住舍衛國祇樹給孤獨園。\n\n時，有天子容色絕妙，於後夜時來詣佛所，稽首佛足，退坐一面。身諸光明遍照祇樹給孤獨園。\n\n時，彼天子而說偈言：\n\n「母子更相喜，　　牛主樂其牛，\n\n　眾生樂有餘，　　無樂無餘者。」\n\n爾時，世尊說偈答言：\n\n「母子更相憂，　　牛主憂其牛，\n\n　有餘眾生憂，　　無餘則無憂。」\n\n時，彼天子復說偈言：\n\n「久見婆羅門，　　逮得般涅槃，\n\n　一切怖已過，　　永超世恩愛。」\n\n時，彼天子聞佛所說，歡喜隨喜，稽首佛足，即沒不現。",
+    "english_sa_text": "",
+    "parallels": [
+      {
+        "uid": "sa-2.142",
+        "acronym": "SA2 142",
+        "root_lang": "lzh",
+        "original_title": "生歡喜",
+        "translated_title": null,
+        "type": "full",
+        "resembling": false,
+        "remark": null
+      },
+      {
+        "uid": "sn1.12",
+        "acronym": "SN 1.12",
+        "root_lang": "pli",
+        "original_title": "Nandatisutta",
+        "translated_title": "Delight",
+        "type": "full",
+        "resembling": false,
+        "remark": null
+      },
+      {
+        "uid": "sn4.8",
+        "acronym": "SN 4.8",
+        "root_lang": "pli",
+        "original_title": "Nandatisutta",
+        "translated_title": "He Delights",
+        "type": "full",
+        "resembling": false,
+        "remark": null
+      }
+    ],
+    "primary_sn_uid": "sn1.12",
+    "pali_text": "Sāvatthinidānaṁ. Ekamantaṁ ṭhitā kho sā devatā bhagavato santike imaṁ gāthaṁ abhāsi: “Nandati puttehi puttimā, Gomā gohi tatheva nandati; Upadhīhi narassa nandanā, Na hi so nandati yo nirūpadhī”ti. “Socati puttehi puttimā, Gomā gohi tatheva socati; Upadhīhi narassa socanā, Na hi so socati yo nirūpadhī”ti.",
+    "english_sn_text": "At Sāvatthī. Standing to one side, that deity spoke this verse in the Buddha’s presence: “Children bring you delight! Cattle also bring you delight! For attachments are a man’s delight; without attachments there’s no delight.” “Children bring you sorrow. Cattle also bring you sorrow. For attachments are a man’s sorrow; without attachments there are no sorrows.”",
+    "errors": [
+      "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa1001-1100/sa1004_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+      "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa1001-1100/sa1004_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+      "used_analayo_fallback"
+    ],
+    "kumarajiva_style_text": "",
+    "modern_psychology_text": "",
+    "notes": "",
+    "review_status": "raw"
+  },
+  {
+    "id": "SA_1005",
+    "uid": "sa1005",
+    "title": "雜阿含經  卷第四十一  諸天相應  （1005）  第1005經",
+    "chinese_text": "Saṁyuktāgama雜阿含經\n\n如是我聞：\n\n一時，佛住舍衛國祇樹給孤獨園。\n\n時，有天子，容色絕妙，於後夜時來詣佛所，稽首佛足，退坐一面。身諸光明遍照祇樹給孤獨園。\n\n時，彼天子說偈問佛：\n\n「何等人之物，　　何名第一伴，\n\n　以何而活命，　　眾生何處依。」\n\n爾時，世尊說偈答言：\n\n「田宅眾生有，　　賢妻第一伴，\n\n　飲食已存命，　　業為眾生依。」\n\n時，彼天子復說偈言：\n\n「久見婆羅門，　　逮得般涅槃，\n\n　一切怖已過，　　永超世恩愛。」\n\n時，彼天子聞佛所說，歡喜隨喜，稽首佛足，即沒不現。",
+    "english_sa_text": "",
+    "parallels": [
+      {
+        "uid": "sa-2.231",
+        "acronym": "SA2 231",
+        "root_lang": "lzh",
+        "original_title": "義利",
+        "translated_title": null,
+        "type": "full",
+        "resembling": false,
+        "remark": null
+      },
+      {
+        "uid": "sn1.54",
+        "acronym": "SN 1.54",
+        "root_lang": "pli",
+        "original_title": "Vatthusutta",
+        "translated_title": "Support",
+        "type": "full",
+        "resembling": false,
+        "remark": null
+      }
+    ],
+    "primary_sn_uid": "sn1.54",
+    "pali_text": "“Kiṁsu vatthu manussānaṁ, kiṁsūdha paramo sakhā; Kiṁsu bhūtā upajīvanti, ye pāṇā pathavissitā”ti. “Puttā vatthu manussānaṁ, bhariyā ca paramo sakhā; Vuṭṭhiṁ bhūtā upajīvanti, ye pāṇā pathavissitā”ti.",
+    "english_sn_text": "“What is the site for human beings? What is the best comrade here? By what do the creatures who live off the earth sustain their life?” “Children are the site for human beings. A wife is the best comrade. The creatures who live off the earth sustain their life by rain.”",
+    "errors": [
+      "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa1001-1100/sa1005_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+      "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa1001-1100/sa1005_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+      "used_analayo_fallback"
+    ],
+    "kumarajiva_style_text": "",
+    "modern_psychology_text": "",
+    "notes": "",
+    "review_status": "raw"
+  },
+  {
+    "id": "SA_1006",
+    "uid": "sa1006",
+    "title": "雜阿含經  卷第四十一  諸天相應  （1006）  第1006經",
+    "chinese_text": "Saṁyuktāgama雜阿含經\n\n如是我聞：\n\n一時，佛住舍衛國祇樹給孤獨園。\n\n時，有天子容色絕妙，來詣佛所，稽首佛足，身諸光明遍照祇樹給孤獨園。\n\n時，彼天子而說偈言：\n\n「所愛無過子，　　財無貴於牛，\n\n　光明無過日，　　薩羅無過海。」\n\n爾時，世尊說偈答言：\n\n「愛無過於己，　　財無過於穀，\n\n　光明無過慧，　　薩羅無過見。」\n\n時，彼天子復說偈言：\n\n「久見婆羅門，　　逮得般涅槃，\n\n　一切怖已過，　　永超世恩愛。」\n\n時，彼天子聞佛所說，歡喜隨喜，稽首佛足，即沒不現。",
+    "english_sa_text": "",
+    "parallels": [
+      {
+        "uid": "sa-2.232",
+        "acronym": "SA2 232",
+        "root_lang": "lzh",
+        "original_title": "所愛無過子",
+        "translated_title": null,
+        "type": "full",
+        "resembling": false,
+        "remark": null
+      },
+      {
+        "uid": "sn1.13",
+        "acronym": "SN 1.13",
+        "root_lang": "pli",
+        "original_title": "Natthiputtasamasutta",
+        "translated_title": "None Equal to That for a Son",
+        "type": "full",
+        "resembling": false,
+        "remark": null
+      }
+    ],
+    "primary_sn_uid": "sn1.13",
+    "pali_text": "Sāvatthinidānaṁ. Ekamantaṁ ṭhitā kho sā devatā bhagavato santike imaṁ gāthaṁ abhāsi: “Natthi puttasamaṁ pemaṁ, natthi gosamitaṁ dhanaṁ; Natthi sūriyasamā ābhā, samuddaparamā sarā”ti. “Natthi attasamaṁ pemaṁ, natthi dhaññasamaṁ dhanaṁ; Natthi paññāsamā ābhā, vuṭṭhi ve paramā sarā”ti.",
+    "english_sn_text": "At Sāvatthī. Standing to one side, that deity spoke this verse in the Buddha’s presence: “There’s no fondness like that for a child, no wealth equal to cattle, no light like that of the sun, and of streams the ocean is paramount.” “There’s no fondness like that for oneself, no wealth equal to grain, no light like that of wisdom, and of streams the rain is paramount.”",
+    "errors": [
+      "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa1001-1100/sa1006_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+      "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa1001-1100/sa1006_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+      "used_analayo_fallback"
+    ],
+    "kumarajiva_style_text": "",
+    "modern_psychology_text": "",
+    "notes": "",
+    "review_status": "raw"
+  },
+  {
+    "id": "SA_1007",
+    "uid": "sa1007",
+    "title": "雜阿含經  卷第四十一  諸天相應  （1007）  第1007經",
+    "chinese_text": "Saṁyuktāgama雜阿含經\n\n如是我聞：\n\n一時，佛住舍衛國祇樹給孤獨園。\n\n時，有天子容色絕妙，來詣佛所，稽首禮足，身諸光明遍照祇樹給孤獨園。\n\n時，彼天子而說偈言：\n\n「剎利兩足尊，　　［絳-糸＋牛］牛四足勝，\n\n　童英為上妻，　　貴生為上子。」\n\n爾時，世尊說偈答言：\n\n「正覺兩足尊，　　生馬四足勝，\n\n　順夫為賢妻，　　漏盡子之上。」\n\n時，彼天子復說偈言：\n\n「久見婆羅門，　　逮得般涅槃，\n\n　一切怖已過，　　永超世恩愛。」\n\n時，彼天子聞佛所說，歡喜隨喜，稽首佛足，即沒不現。",
+    "english_sa_text": "",
+    "parallels": [
+      {
+        "uid": "sa-2.233",
+        "acronym": "SA2 233",
+        "root_lang": "lzh",
+        "original_title": "剎利",
+        "translated_title": null,
+        "type": "full",
+        "resembling": false,
+        "remark": null
+      },
+      {
+        "uid": "sn1.14",
+        "acronym": "SN 1.14",
+        "root_lang": "pli",
+        "original_title": "Khattiyasutta",
+        "translated_title": "The Khattiya",
+        "type": "full",
+        "resembling": false,
+        "remark": null
+      }
+    ],
+    "primary_sn_uid": "sn1.14",
+    "pali_text": "“Khattiyo dvipadaṁ seṭṭho, balībaddo catuppadaṁ; Komārī seṭṭhā bhariyānaṁ, yo ca puttāna pubbajo”ti. “Sambuddho dvipadaṁ seṭṭho, ājānīyo catuppadaṁ; Sussūsā seṭṭhā bhariyānaṁ, yo ca puttānamassavo”ti.",
+    "english_sn_text": "“An aristocrat is the best of bipeds, an ox is the best of quadrupeds, a maiden is the best of wives, and a first-born the best of sons.” “A Buddha is the best of bipeds, a thoroughbred, the best of quadrupeds, a good listener is the best of wives, and the best of sons is loyal.”",
+    "errors": [
+      "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa1001-1100/sa1007_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+      "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa1001-1100/sa1007_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+      "used_analayo_fallback"
+    ],
+    "kumarajiva_style_text": "",
+    "modern_psychology_text": "",
+    "notes": "",
+    "review_status": "raw"
+  },
+  {
+    "id": "SA_1008",
+    "uid": "sa1008",
+    "title": "雜阿含經  卷第四十一  諸天相應  （1008）  第1008經",
+    "chinese_text": "Saṁyuktāgama雜阿含經\n\n如是我聞：\n\n一時，佛住舍衛國祇樹給孤獨園。\n\n時，有天子容色絕妙，來詣佛所，稽首佛足，身諸光明遍照祇樹給孤獨園。\n\n時，彼天子而說偈言：\n\n「從地起眾生，　　何者為最勝？\n\n　於空墮落者，　　復以何勝上？\n\n　凡所祈請處，　　何者最第一？\n\n　於諸言語中，　　何者為上辯？」\n\n時，有一天子本為田家子，今得生天上，以本習故，即便說偈答彼天子：\n\n「五穀從地生，　　是則為最勝，\n\n　種子於空中，　　落地為最勝。\n\n　［絳-糸＋牛］牛資養人，　　是則依中勝，\n\n　愛子有所說，　　是則言中勝。」\n\n彼發問天子語答者言：「我不問汝，何故多言輕躁妄說，我自說偈問世尊言：\n\n「從地起眾生，　　何者為最勝？\n\n　於空墮地者，　　復以何為勝？\n\n　凡所祈請處，　　何者為最勝？\n\n　於諸言語中，　　何者為上辯？」\n\n爾時，世尊說偈答言：\n\n「從下踊出者，　　三明為最上，\n\n　從空流下者，　　三明亦第一，\n\n　賢聖弟子僧，　　是師依之上，\n\n　如來之所說，　　諸說之最辯。」\n\n時，彼天子復說偈言：\n\n「世間幾法起？　　幾法相順可？\n\n　世幾法取愛？　　世幾法損減？」\n\n爾時，世尊說偈答言：\n\n「世六法等起，　　世六法順可，\n\n　世六法取愛，　　世六法損減。」\n\n時，彼天子復說偈言：\n\n「久見婆羅門，　　逮得般涅槃，\n\n　一切怖已過，　　永超世恩愛。」\n\n時，彼天子聞佛所說，歡喜隨喜，稽首佛足，即沒不現。",
+    "english_sa_text": "",
+    "parallels": [
+      {
+        "uid": "sa-2.234",
+        "acronym": "SA2 234",
+        "root_lang": "lzh",
+        "original_title": "種子",
+        "translated_title": null,
+        "type": "full",
+        "resembling": false,
+        "remark": null
+      },
+      {
+        "uid": "sn1.74",
+        "acronym": "SN 1.74",
+        "root_lang": "pli",
+        "original_title": "Vuṭṭhisutta",
+        "translated_title": "Rain",
+        "type": "full",
+        "resembling": false,
+        "remark": null
+      }
+    ],
+    "primary_sn_uid": "sn1.74",
+    "pali_text": "“Kiṁsu uppatataṁ seṭṭhaṁ, kiṁsu nipatataṁ varaṁ; Kiṁsu pavajamānānaṁ, kiṁsu pavadataṁ varan”ti. “Bījaṁ uppatataṁ seṭṭhaṁ, vuṭṭhi nipatataṁ varā; Gāvo pavajamānānaṁ, putto pavadataṁ varo”ti. “Vijjā uppatataṁ seṭṭhā, avijjā nipatataṁ varā; Saṅgho pavajamānānaṁ, buddho pavadataṁ varo”ti.",
+    "english_sn_text": "“What’s the best of things that rise? And what’s the finest thing to fall? And what of the things that go forth? And who’s the finest speaker?” “A seed’s the best of things that rise. Rain’s the finest thing to fall. Cattle, of things that go forth. And a child is the finest speaker.” “Knowledge is best of things that rise. Ignorance the finest thing to fall. The Saṅgha, of things that go forth. And the Buddha is the finest speaker.”",
+    "errors": [
+      "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa1001-1100/sa1008_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+      "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa1001-1100/sa1008_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+      "used_analayo_fallback"
+    ],
+    "kumarajiva_style_text": "",
+    "modern_psychology_text": "",
+    "notes": "",
+    "review_status": "raw"
+  },
+  {
+    "id": "SA_1009",
+    "uid": "sa1009",
+    "title": "雜阿含經  卷第四十二  諸天相應  （1009）  第1009經",
+    "chinese_text": "Saṁyuktāgama雜阿含經\n\n如是我聞：\n\n一時，佛住舍衛國祇樹給孤獨園。\n\n時，有天子容色絕妙，於後夜時來詣佛所，稽首佛足，退坐一面。身諸光明遍照祇樹給孤獨園。\n\n時，彼天子說偈問佛：\n\n「誰持世間去，　　誰拘牽世間？\n\n　何等為一法，　　制御於世間？」\n\n爾時，世尊說偈答言：\n\n「心持世間去，　　心拘引世間，\n\n　其心為一法，　　能制御世間。」\n\n時，彼天子復說偈言：\n\n「久見婆羅門，　　逮得般涅槃，\n\n　一切怖已過，　　永超世恩愛。」\n\n時，彼天子聞佛所說，歡喜隨喜，稽首佛足，即沒不現。",
+    "english_sa_text": "",
+    "parallels": [
+      {
+        "uid": "sa-2.236",
+        "acronym": "SA2 236",
+        "root_lang": "lzh",
+        "original_title": "意",
+        "translated_title": null,
+        "type": "full",
+        "resembling": false,
+        "remark": null
+      },
+      {
+        "uid": "sn1.62",
+        "acronym": "SN 1.62",
+        "root_lang": "pli",
+        "original_title": "Cittasutta",
+        "translated_title": "Mind",
+        "type": "full",
+        "resembling": false,
+        "remark": null
+      },
+      {
+        "uid": "an4.186",
+        "acronym": "AN 4.186",
+        "root_lang": "pli",
+        "original_title": "Ummaggasutta",
+        "translated_title": null,
+        "type": "full",
+        "resembling": true,
+        "remark": null
+      }
+    ],
+    "primary_sn_uid": "sn1.62",
+    "pali_text": "“Kenassu nīyati loko, kenassu parikassati; Kissassu ekadhammassa, sabbeva vasamanvagū”ti. “Cittena nīyati loko, cittena parikassati; Cittassa ekadhammassa, sabbeva vasamanvagū”ti.",
+    "english_sn_text": "“What leads the world on? What drags it around? What is the one thing that has everything under its sway?” “The mind leads the world on. The mind drags it around. Mind is the one thing that has everything under its sway.”",
+    "errors": [
+      "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa1001-1100/sa1009_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+      "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa1001-1100/sa1009_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+      "used_analayo_fallback"
+    ],
+    "kumarajiva_style_text": "",
+    "modern_psychology_text": "",
+    "notes": "",
+    "review_status": "raw"
+  },
+  {
+    "id": "SA_1010",
+    "uid": "sa1010",
+    "title": "雜阿含經  卷第四十二  諸天相應  （1010）  第1010經",
+    "chinese_text": "Saṁyuktāgama雜阿含經\n\n如是我聞：\n\n一時，佛住舍衛國祇樹給孤獨園。\n\n時，有天子容色絕妙，於後夜時來詣佛所，稽首佛足，退坐一面。身諸光明遍照祇樹給孤獨園。\n\n時，彼天子說偈問佛：\n\n「誰縛於世間，　　誰調伏令解？\n\n　斷除何等法，　　說名得涅槃？」\n\n爾時，世尊說偈答言：\n\n「欲能縛世間，　　調伏欲解脫，\n\n　斷除愛欲者，　　說名得涅槃。」\n\n時，彼天子復說偈言：\n\n「久見婆羅門，　　逮得般涅槃，\n\n　一切怖已過，　　永超世恩愛。」\n\n時，彼天子聞佛所說，歡喜隨喜，稽首佛足，即沒不現。",
+    "english_sa_text": "",
+    "parallels": [
+      {
+        "uid": "sa-2.237",
+        "acronym": "SA2 237",
+        "root_lang": "lzh",
+        "original_title": "縛",
+        "translated_title": null,
+        "type": "full",
+        "resembling": false,
+        "remark": null
+      },
+      {
+        "uid": "sn1.64",
+        "acronym": "SN 1.64",
+        "root_lang": "pli",
+        "original_title": "Saṁyojanasutta",
+        "translated_title": "Fetter",
+        "type": "full",
+        "resembling": false,
+        "remark": null
+      }
+    ],
+    "primary_sn_uid": "sn1.64",
+    "pali_text": "“Kiṁsu saṁyojano loko, kiṁsu tassa vicāraṇaṁ; Kissassu vippahānena, nibbānaṁ iti vuccatī”ti. “Nandīsaṁyojano loko, vitakkassa vicāraṇaṁ; Taṇhāya vippahānena, nibbānaṁ iti vuccatī”ti.",
+    "english_sn_text": "“What fetters the world? How does it travel about? With the giving up of what is extinguishment spoken of?” “Delight fetters the world. It travels about by means of thought. With the giving up of craving extinguishment is spoken of.”",
+    "errors": [
+      "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa1001-1100/sa1010_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+      "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa1001-1100/sa1010_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+      "used_analayo_fallback"
+    ],
+    "kumarajiva_style_text": "",
+    "modern_psychology_text": "",
+    "notes": "",
+    "review_status": "raw"
+  },
+  {
+    "id": "SA_1011",
+    "uid": "sa1011",
+    "title": "雜阿含經  卷第四十三  諸天相應  （1011）  第1011經",
+    "chinese_text": "Saṁyuktāgama雜阿含經\n\n如是我聞：\n\n一時，佛住舍衛國祇樹給孤獨園。\n\n時，有一天子，容色絕妙，於後夜時來詣佛所，稽首佛足，退坐一面。身諸光明遍照祇樹給孤獨園。\n\n時，彼天子說偈問佛：\n\n「誰掩於世間？　　誰遮絡世間？\n\n　誰結縛眾生？　　何處建立世？」\n\n爾時，世尊說偈答言：\n\n「衰老掩世間，　　死遮絡世間，\n\n　愛繫縛眾生，　　法建立世間。」\n\n時，彼天子復說偈言：\n\n「久見婆羅門，　　逮得般涅槃，\n\n　一切怖已過，　　永超世恩愛。」\n\n時，彼天子聞佛所說，歡喜隨喜，稽首佛足，即沒不現。",
+    "english_sa_text": "",
+    "parallels": [
+      {
+        "uid": "sa-2.238",
+        "acronym": "SA2 238",
+        "root_lang": "lzh",
+        "original_title": "覆",
+        "translated_title": null,
+        "type": "full",
+        "resembling": false,
+        "remark": null
+      },
+      {
+        "uid": "sn1.68",
+        "acronym": "SN 1.68",
+        "root_lang": "pli",
+        "original_title": "Pihitasutta",
+        "translated_title": "Shut In",
+        "type": "full",
+        "resembling": false,
+        "remark": null
+      }
+    ],
+    "primary_sn_uid": "sn1.68",
+    "pali_text": "“Kenassu pihito loko, kismiṁ loko patiṭṭhito; Kenassu uḍḍito loko, kenassu parivārito”ti. “Maccunā pihito loko, dukkhe loko patiṭṭhito; Taṇhāya uḍḍito loko, jarāya parivārito”ti.",
+    "english_sn_text": "“By what is the world fastened shut? On what is the world grounded? By what is the world ensnared? By what is it surrounded?” “The world is fastened shut by mortality. The world is grounded on suffering. Craving has ensnared the world. It’s surrounded by old age.”",
+    "errors": [
+      "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa1001-1100/sa1011_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+      "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa1001-1100/sa1011_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+      "used_analayo_fallback"
+    ],
+    "kumarajiva_style_text": "",
+    "modern_psychology_text": "",
+    "notes": "",
+    "review_status": "raw"
+  },
+  {
+    "id": "SA_1012",
+    "uid": "sa1012",
+    "title": "雜阿含經  卷第四十三  諸天相應  （1012）  第1012經",
+    "chinese_text": "Saṁyuktāgama雜阿含經\n\n如是我聞：\n\n一時，佛住舍衛國祇樹給孤獨園。\n\n時，有一天子，容色絕妙，於後夜時來詣佛所，稽首佛足，退坐一面。身諸光明遍照祇樹給孤獨園。\n\n時，彼天子說偈問佛：\n\n「誰隱彼世間，　　誰繫於世間，\n\n　誰憶於眾生，　　誰建眾生幢？」\n\n爾時，世尊說偈答言：\n\n「無明覆世間，　　愛結縛眾生，\n\n　隱覆憶眾生，　　我慢眾生幢。」\n\n時，彼天子即復說偈而問佛言：\n\n「誰無有覆蓋，　　誰復無愛結，\n\n　誰即出隱覆，　　誰不建慢幢？」\n\n爾時，世尊說偈答言：\n\n「如來等正覺，　　正智心解脫，\n\n　不為無明覆，　　亦無愛結繫，\n\n　超出於隱覆，　　摧滅我慢幢。」\n\n時，彼天子復說偈言：\n\n「久見婆羅門，　　逮得般涅槃，\n\n　一切怖已過，　　永超世恩愛。」\n\n時，彼天子聞佛所說，歡喜隨喜，稽首佛足，即沒不現。",
+    "english_sa_text": "",
+    "parallels": [
+      {
+        "uid": "sa-2.239",
+        "acronym": "SA2 239",
+        "root_lang": "lzh",
+        "original_title": "無明",
+        "translated_title": null,
+        "type": "full",
+        "resembling": false,
+        "remark": null
+      }
+    ],
+    "primary_sn_uid": null,
+    "pali_text": "",
+    "english_sn_text": "",
+    "errors": [
+      "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa1001-1100/sa1012_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+      "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa1001-1100/sa1012_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+      "used_analayo_fallback"
+    ],
+    "kumarajiva_style_text": "",
+    "modern_psychology_text": "",
+    "notes": "",
+    "review_status": "raw"
+  },
+  {
+    "id": "SA_1013",
+    "uid": "sa1013",
+    "title": "雜阿含經  卷第四十三  諸天相應  （1013）  第1013經",
+    "chinese_text": "Saṁyuktāgama雜阿含經\n\n如是我聞：\n\n一時，佛住舍衛國祇樹給孤獨園。\n\n時，有一天子，容色絕妙，於後夜時來詣佛所，稽首佛足，退坐一面。身諸光明遍照祇樹給孤獨園。\n\n時，彼天子說偈問佛：\n\n「何等為上士，　　所有資財物？\n\n　云何善修習，　　而致於安樂？\n\n　云何眾味中，　　得為最上味？\n\n　云何眾生中，　　得為第一壽？」\n\n爾時，世尊說偈答言：\n\n「清淨信樂心，　　名士夫勝財。\n\n　修行於正法，　　能招安樂果。\n\n　真諦之妙說，　　是則味之上。\n\n　賢聖智慧命，　　是為壽中最。」\n\n時，彼天子復說偈言：\n\n「久見婆羅門，　　逮得般涅槃，\n\n　一切怖已過，　　永超世恩愛。」\n\n時，彼天子聞佛所說，歡喜隨喜，稽首佛足，即沒不現。",
+    "english_sa_text": "",
+    "parallels": [
+      {
+        "uid": "sa-2.240",
+        "acronym": "SA2 240",
+        "root_lang": "lzh",
+        "original_title": "信",
+        "translated_title": null,
+        "type": "full",
+        "resembling": false,
+        "remark": null
+      },
+      {
+        "uid": "sn1.73",
+        "acronym": "SN 1.73",
+        "root_lang": "pli",
+        "original_title": "Vittasutta",
+        "translated_title": "Treasure",
+        "type": "full",
+        "resembling": false,
+        "remark": null
+      }
+    ],
+    "primary_sn_uid": "sn1.73",
+    "pali_text": "“Kiṁsūdha vittaṁ purisassa seṭṭhaṁ, Kiṁsu suciṇṇo sukhamāvahati; Kiṁsu have sādutaraṁ rasānaṁ, Kathaṁjīviṁ jīvitamāhu seṭṭhan”ti. “Saddhīdha vittaṁ purisassa seṭṭhaṁ, Dhammo suciṇṇo sukhamāvahati; Saccaṁ have sādutaraṁ rasānaṁ, Paññājīviṁ jīvitamāhu seṭṭhan”ti.",
+    "english_sn_text": "“What’s a person’s best wealth? What brings happiness when practiced well? What’s the sweetest taste of all? The one they say has the best life: how do they live?” “Faith here is a person’s best wealth. The teaching brings happiness when practiced well. Truth is the sweetest taste of all. The one they say has the best life lives by wisdom.”",
+    "errors": [
+      "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa1001-1100/sa1013_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+      "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa1001-1100/sa1013_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+      "used_analayo_fallback"
+    ],
+    "kumarajiva_style_text": "",
+    "modern_psychology_text": "",
+    "notes": "",
+    "review_status": "raw"
+  },
+  {
+    "id": "SA_1014",
+    "uid": "sa1014",
+    "title": "雜阿含經  卷第四十三  諸天相應  （1014）  第1014經",
+    "chinese_text": "Saṁyuktāgama雜阿含經\n\n如是我聞：\n\n一時，佛住舍衛國祇樹給孤獨園。\n\n時，有一天子，容色絕妙，於後夜時來詣佛所，稽首佛足，退坐一面。身諸光明遍照祇樹給孤獨園。\n\n時，彼天子說偈問佛：\n\n「云何為比丘，　　同己之第二？\n\n　云何為比丘，　　隨順教授者？\n\n　比丘於何處，　　遊心自娛樂，\n\n　娛樂彼處已，　　能斷諸結縛？」\n\n爾時，世尊說偈答言：\n\n「信為同己二，　　智慧教授者，\n\n　涅槃喜樂處，　　比丘斷結縛。」\n\n時，彼天子復說偈言：\n\n「久見婆羅門，　　逮得般涅槃，\n\n　一切怖已過，　　永超世恩愛。」\n\n時，彼天子聞佛所說，歡喜隨喜，稽首佛足，即沒不現。",
+    "english_sa_text": "",
+    "parallels": [
+      {
+        "uid": "sa-2.241",
+        "acronym": "SA2 241",
+        "root_lang": "lzh",
+        "original_title": "第二",
+        "translated_title": null,
+        "type": "full",
+        "resembling": false,
+        "remark": null
+      },
+      {
+        "uid": "sn1.59",
+        "acronym": "SN 1.59",
+        "root_lang": "pli",
+        "original_title": "Dutiyasutta",
+        "translated_title": "Partner",
+        "type": "full",
+        "resembling": false,
+        "remark": null
+      }
+    ],
+    "primary_sn_uid": "sn1.59",
+    "pali_text": "“Kiṁsu dutiyā purisassa hoti, Kiṁsu cenaṁ pasāsati; Kissa cābhirato macco, Sabbadukkhā pamuccatī”ti. “Saddhā dutiyā purisassa hoti, Paññā cenaṁ pasāsati; Nibbānābhirato macco, Sabbadukkhā pamuccatī”ti.",
+    "english_sn_text": "“What is a person’s partner? What instructs them? Enjoying what is a mortal released from all suffering?” “Faith is a person’s partner. Wisdom instructs them. Delighting in extinguishment a mortal is released from all suffering.”",
+    "errors": [
+      "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa1001-1100/sa1014_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+      "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa1001-1100/sa1014_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+      "used_analayo_fallback"
+    ],
+    "kumarajiva_style_text": "",
+    "modern_psychology_text": "",
+    "notes": "",
+    "review_status": "raw"
+  },
+  {
+    "id": "SA_1015",
+    "uid": "sa1015",
+    "title": "雜阿含經  卷第四十三  諸天相應  （1015）  第1015經",
+    "chinese_text": "Saṁyuktāgama雜阿含經\n\n如是我聞：\n\n一時，佛住舍衛國祇樹給孤獨園。\n\n時，有天子容色絕妙，於後夜時來詣佛所，稽首佛足，身諸光明遍照祇樹給孤獨園。\n\n時，彼天子說偈問佛：\n\n「云何善至老？　　云何善建立？\n\n　云何為人寶？　　云何賊不奪？」\n\n爾時，世尊說偈答言：\n\n「正戒善至老，　　淨信善建立，\n\n　智慧為人寶，　　功德賊不奪。」\n\n時，彼天子復說偈言：\n\n「久見婆羅門，　　逮得般涅槃，\n\n　一切怖已過，　　永超世恩愛。」\n\n時，彼天子聞佛所說，歡喜隨喜，稽首佛足，即沒不現。",
+    "english_sa_text": "",
+    "parallels": [
+      {
+        "uid": "sa-2.242",
+        "acronym": "SA2 242",
+        "root_lang": "lzh",
+        "original_title": "持戒至老",
+        "translated_title": null,
+        "type": "full",
+        "resembling": false,
+        "remark": null
+      },
+      {
+        "uid": "sn1.51",
+        "acronym": "SN 1.51",
+        "root_lang": "pli",
+        "original_title": "Jarāsutta",
+        "translated_title": "Old Age",
+        "type": "full",
+        "resembling": false,
+        "remark": null
+      }
+    ],
+    "primary_sn_uid": "sn1.51",
+    "pali_text": "“Kiṁsu yāva jarā sādhu, kiṁsu sādhu patiṭṭhitaṁ; Kiṁsu narānaṁ ratanaṁ, kiṁsu corehi dūharan”ti. “Sīlaṁ yāva jarā sādhu, saddhā sādhu patiṭṭhitā; Paññā narānaṁ ratanaṁ, puññaṁ corehi dūharan”ti.",
+    "english_sn_text": "“What’s still good in old age? What’s good when grounded? What is people’s treasure? What’s hard for thieves to take?” “Ethics are still good in old age. Faith is good when grounded. Wisdom is people’s treasure. Merit’s hard for thieves to take.”",
+    "errors": [
+      "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa1001-1100/sa1015_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+      "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa1001-1100/sa1015_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+      "used_analayo_fallback"
+    ],
+    "kumarajiva_style_text": "",
+    "modern_psychology_text": "",
+    "notes": "",
+    "review_status": "raw"
+  },
+  {
+    "id": "SA_1016",
+    "uid": "sa1016",
+    "title": "雜阿含經  卷第四十三  諸天相應  （1016）  第1016經",
+    "chinese_text": "Saṁyuktāgama雜阿含經\n\n如是我聞：\n\n一時，佛在舍衛國祇樹給孤獨園。\n\n時，有天子容色絕妙，來詣佛所，稽首佛足，身諸光明遍照祇樹給孤獨園。\n\n時，彼天子說偈問佛：\n\n「何法生眾生，　　何等前驅馳，\n\n　云何起生死，　　何者不解脫？」\n\n爾時，世尊說偈答言：\n\n「愛欲生眾生，　　意在前驅馳，\n\n　眾生起生死，　　苦法不解脫。」\n\n時，彼天子復說偈言：\n\n「久見婆羅門，　　逮得般涅槃，\n\n　一切怖已過，　　永超世恩愛。」\n\n時，彼天子聞佛所說，歡喜隨喜，稽首佛足，即沒不現。",
+    "english_sa_text": "",
+    "parallels": [
+      {
+        "uid": "sa-2.243",
+        "acronym": "SA2 243",
+        "root_lang": "lzh",
+        "original_title": "生世間",
+        "translated_title": null,
+        "type": "full",
+        "resembling": false,
+        "remark": null
+      },
+      {
+        "uid": "sn1.56",
+        "acronym": "SN 1.56",
+        "root_lang": "pli",
+        "original_title": "Dutiyajanasutta",
+        "translated_title": "Produces (2)",
+        "type": "full",
+        "resembling": false,
+        "remark": null
+      }
+    ],
+    "primary_sn_uid": "sn1.56",
+    "pali_text": "“Kiṁsu janeti purisaṁ, kiṁsu tassa vidhāvati; Kiṁsu saṁsāramāpādi, kismā na parimuccatī”ti. “Taṇhā janeti purisaṁ, cittamassa vidhāvati; Satto saṁsāramāpādi, dukkhā na parimuccatī”ti.",
+    "english_sn_text": "“What gives birth to a person? What do they have that runs about? What enters transmigration? From what are they not free?” “Craving gives birth to a person. Their mind is what runs about. A sentient being enters transmigration. From suffering they are not free.”",
+    "errors": [
+      "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa1001-1100/sa1016_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+      "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa1001-1100/sa1016_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+      "used_analayo_fallback"
+    ],
+    "kumarajiva_style_text": "",
+    "modern_psychology_text": "",
+    "notes": "",
+    "review_status": "raw"
+  },
+  {
+    "id": "SA_1017",
+    "uid": "sa1017",
+    "title": "雜阿含經  卷第四十三  諸天相應  （1017）  第1017經",
+    "chinese_text": "Saṁyuktāgama雜阿含經\n\n如是我聞：\n\n一時，佛在舍衛國祇樹給孤獨園。\n\n時，有天子容色絕妙，於後夜時來詣佛所，稽首佛足，身諸光明遍照祇樹給孤獨園。\n\n時，彼天子說偈問佛：\n\n「何法生眾生？　　何等前驅馳？\n\n　云何起生死？　　何法可依怙？」\n\n爾時，世尊說偈答言：\n\n「愛欲生眾生，　　意在前驅馳，\n\n　眾生起生死，　　業者可依怙。」\n\n時，彼天子復說偈言：\n\n「久見婆羅門，　　逮得般涅槃，\n\n　一切怖已過，　　永超世恩愛。」\n\n時，彼天子聞佛所說，歡喜隨喜，稽首佛足，即沒不現。",
+    "english_sa_text": "",
+    "parallels": [
+      {
+        "uid": "sa-2.244",
+        "acronym": "SA2 244",
+        "root_lang": "lzh",
+        "original_title": "生世間",
+        "translated_title": null,
+        "type": "full",
+        "resembling": false,
+        "remark": null
+      },
+      {
+        "uid": "sn1.57",
+        "acronym": "SN 1.57",
+        "root_lang": "pli",
+        "original_title": "Tatiyajanasutta",
+        "translated_title": "Produces (3)",
+        "type": "full",
+        "resembling": false,
+        "remark": null
+      }
+    ],
+    "primary_sn_uid": "sn1.57",
+    "pali_text": "“Kiṁsu janeti purisaṁ, kiṁsu tassa vidhāvati; Kiṁsu saṁsāramāpādi, kiṁsu tassa parāyanan”ti. “Taṇhā janeti purisaṁ, cittamassa vidhāvati; Satto saṁsāramāpādi, kammaṁ tassa parāyanan”ti.",
+    "english_sn_text": "“What gives birth to a person? What do they have that runs about? What enters transmigration? What is their destiny?” “Craving gives birth to a person. Their mind is what runs about. A sentient being enters transmigration. Deeds are their final haven.”",
+    "errors": [
+      "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa1001-1100/sa1017_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+      "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa1001-1100/sa1017_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+      "used_analayo_fallback"
+    ],
+    "kumarajiva_style_text": "",
+    "modern_psychology_text": "",
+    "notes": "",
+    "review_status": "raw"
+  },
+  {
+    "id": "SA_1018",
+    "uid": "sa1018",
+    "title": "雜阿含經  卷第四十三  諸天相應  （1018）  第1018經",
+    "chinese_text": "Saṁyuktāgama雜阿含經\n\n如是我聞：\n\n一時，佛在舍衛國祇樹給孤獨園。\n\n時，有天子容色絕妙，於後夜時來詣佛所，稽首佛足，身諸光明遍照祇樹給孤獨園。\n\n時，彼天子說偈問佛：\n\n「何法生眾生？　　何等前驅馳？\n\n　云何起生死？　　何法甚可畏？」\n\n爾時，世尊說偈答言：\n\n「愛欲生眾生，　　意在前驅馳，\n\n　眾生起生死，　　業為甚可畏。」\n\n時，彼天子復說偈言：\n\n「久見婆羅門，　　逮得般涅槃，\n\n　一切怖已過，　　永超世恩愛。」\n\n時，彼天子聞佛所說，歡喜隨喜，稽首佛足，即沒不現。",
+    "english_sa_text": "",
+    "parallels": [
+      {
+        "uid": "sa-2.245",
+        "acronym": "SA2 245",
+        "root_lang": "lzh",
+        "original_title": "生世間",
+        "translated_title": null,
+        "type": "full",
+        "resembling": false,
+        "remark": null
+      },
+      {
+        "uid": "sn1.55",
+        "acronym": "SN 1.55",
+        "root_lang": "pli",
+        "original_title": "Paṭhamajanasutta",
+        "translated_title": "Produces (1)",
+        "type": "full",
+        "resembling": false,
+        "remark": null
+      }
+    ],
+    "primary_sn_uid": "sn1.55",
+    "pali_text": "“Kiṁsu janeti purisaṁ, kiṁsu tassa vidhāvati; Kiṁsu saṁsāramāpādi, kiṁsu tassa mahabbhayan”ti. “Taṇhā janeti purisaṁ, cittamassa vidhāvati; Satto saṁsāramāpādi, dukkhamassa mahabbhayan”ti.",
+    "english_sn_text": "“What gives birth to a person? What do they have that runs about? What enters transmigration? What’s their greatest fear?” “Craving gives birth to a person. Their mind is what runs about. A sentient being enters transmigration. Suffering is their greatest fear.”",
+    "errors": [
+      "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa1001-1100/sa1018_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+      "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa1001-1100/sa1018_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+      "used_analayo_fallback"
+    ],
+    "kumarajiva_style_text": "",
+    "modern_psychology_text": "",
+    "notes": "",
+    "review_status": "raw"
+  },
+  {
+    "id": "SA_1019",
+    "uid": "sa1019",
+    "title": "雜阿含經  卷第四十三  諸天相應  （1019）  第1019經",
+    "chinese_text": "Saṁyuktāgama雜阿含經\n\n如是我聞：\n\n一時，佛在舍衛國祇樹給孤獨園。\n\n時，有天子容色絕妙，於後夜時來詣佛所，稽首佛足，身諸光明遍照祇樹給孤獨園。\n\n時，彼天子說偈問佛：\n\n「何名為非道？　　云何日夜遷？\n\n　云何垢梵行？　　云何累世間？」\n\n爾時，世尊說偈答言：\n\n「貪欲名非道，　　壽命日夜遷，\n\n　女人梵行垢，　　女則累世間。\n\n　熾然修梵行，　　已洗諸非水。」\n\n　時彼天子復說偈言：\n\n「久見婆羅門，　　逮得般涅槃，\n\n　一切怖已過，　　永超世恩愛。」\n\n時，彼天子聞佛所說，歡喜隨喜，稽首佛足，即沒不現。",
+    "english_sa_text": "",
+    "parallels": [
+      {
+        "uid": "sa-2.246",
+        "acronym": "SA2 246",
+        "root_lang": "lzh",
+        "original_title": "非道",
+        "translated_title": null,
+        "type": "full",
+        "resembling": false,
+        "remark": null
+      },
+      {
+        "uid": "sn1.58",
+        "acronym": "SN 1.58",
+        "root_lang": "pli",
+        "original_title": "Uppathasutta",
+        "translated_title": "The Deviant Path",
+        "type": "full",
+        "resembling": false,
+        "remark": null
+      }
+    ],
+    "primary_sn_uid": "sn1.58",
+    "pali_text": "“Kiṁsu uppatho akkhāto, kiṁsu rattindivakkhayo; Kiṁ malaṁ brahmacariyassa, kiṁ sinānamanodakan”ti. “Rāgo uppatho akkhāto, Vayo rattindivakkhayo; Itthī malaṁ brahmacariyassa, Etthāyaṁ sajjate pajā; Tapo ca brahmacariyañca, Taṁ sinānamanodakan”ti.",
+    "english_sn_text": "“What’s declared to be a deviation? What is ending day and night? What’s the stain of chastity? What’s the waterless bath?” “Lust is declared to be a deviation. Youth is ending day and night. Women are the stain of chastity, to which this generation clings. Fervor and chastity are the waterless bath.”",
+    "errors": [
+      "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa1001-1100/sa1019_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+      "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa1001-1100/sa1019_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+      "used_analayo_fallback"
+    ],
+    "kumarajiva_style_text": "",
+    "modern_psychology_text": "",
+    "notes": "",
+    "review_status": "raw"
+  },
+  {
+    "id": "SA_1020",
+    "uid": "sa1020",
+    "title": "雜阿含經  卷第四十三  諸天相應  （1020）  第1020經",
+    "chinese_text": "Saṁyuktāgama雜阿含經\n\n如是我聞：\n\n一時，佛在舍衛國祇樹給孤獨園。\n\n時，有天子容色絕妙，於後夜時來詣佛所，稽首佛足，身諸光明遍照祇樹給孤獨園。\n\n時，彼天子說偈問佛：\n\n「何法映世間？　　何法無有上？\n\n　何等為一法，　　普制御眾生？」\n\n爾時，世尊說偈答言：\n\n「名者映世間，　　名者世無上，\n\n　唯有一名法，　　能制御世間。」\n\n時，彼天子復說偈言：\n\n「久見婆羅門，　　逮得般涅槃，\n\n　一切怖已過，　　永超世恩愛。」\n\n時，彼天子聞佛所說，歡喜隨喜，稽首佛足，即沒不現。",
+    "english_sa_text": "",
+    "parallels": [
+      {
+        "uid": "sa-2.247",
+        "acronym": "SA2 247",
+        "root_lang": "lzh",
+        "original_title": "最上勝",
+        "translated_title": null,
+        "type": "full",
+        "resembling": false,
+        "remark": null
+      },
+      {
+        "uid": "sn1.61",
+        "acronym": "SN 1.61",
+        "root_lang": "pli",
+        "original_title": "Nāmasutta",
+        "translated_title": "Name",
+        "type": "full",
+        "resembling": false,
+        "remark": null
+      }
+    ],
+    "primary_sn_uid": "sn1.61",
+    "pali_text": "“Kiṁsu sabbaṁ addhabhavi, kismā bhiyyo na vijjati; Kissassu ekadhammassa, sabbeva vasamanvagū”ti. “Nāmaṁ sabbaṁ addhabhavi, nāmā bhiyyo na vijjati; Nāmassa ekadhammassa, sabbeva vasamanvagū”ti.",
+    "english_sn_text": "“What overcomes everything? What is it that nothing excels? What is the one thing that has everything under its sway?” “Name overcomes everything. Nothing excels name. Name is the one thing that has everything under its sway.”",
+    "errors": [
+      "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa1001-1100/sa1020_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+      "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa1001-1100/sa1020_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+      "used_analayo_fallback"
+    ],
+    "kumarajiva_style_text": "",
+    "modern_psychology_text": "",
+    "notes": "",
+    "review_status": "raw"
+  },
+  {
+    "id": "SA_1021",
+    "uid": "sa1021",
+    "title": "雜阿含經  卷第四十三  諸天相應  （1021）  第1021經",
+    "chinese_text": "Saṁyuktāgama雜阿含經\n\n如是我聞：\n\n一時，佛在舍衛國祇樹給孤獨園。\n\n時，有天子容色絕妙，於後夜時來詣佛所，稽首佛足，身諸光明遍照祇樹給孤獨園。\n\n時，彼天子說偈問佛：\n\n「何法為偈因？　　以何莊嚴偈？\n\n　偈者何所依？　　何者為偈體？」\n\n爾時，世尊說偈答言：\n\n「欲者是偈因，　　文字莊嚴偈，\n\n　名者偈所依，　　造作為偈體。」\n\n時，彼天子復說偈言：\n\n「久見婆羅門，　　逮得般涅槃，\n\n　一切怖已過，　　永超世恩愛。」\n\n時，彼天子聞佛所說，歡喜隨喜，稽首佛足，即沒不現。",
+    "english_sa_text": "",
+    "parallels": [
+      {
+        "uid": "sa-2.248",
+        "acronym": "SA2 248",
+        "root_lang": "lzh",
+        "original_title": "偈者何者初",
+        "translated_title": null,
+        "type": "full",
+        "resembling": false,
+        "remark": null
+      },
+      {
+        "uid": "sn1.60",
+        "acronym": "SN 1.60",
+        "root_lang": "pli",
+        "original_title": "Kavisutta",
+        "translated_title": "Poetry",
+        "type": "full",
+        "resembling": false,
+        "remark": null
+      }
+    ],
+    "primary_sn_uid": "sn1.60",
+    "pali_text": "“Kiṁsu nidānaṁ gāthānaṁ, kiṁsu tāsaṁ viyañjanaṁ; Kiṁsu sannissitā gāthā, kiṁsu gāthānamāsayo”ti. “Chando nidānaṁ gāthānaṁ, akkharā tāsaṁ viyañjanaṁ; Nāmasannissitā gāthā, kavi gāthānamāsayo”ti. Jarāvaggo chaṭṭho. Tassuddānaṁ Jarā ajarasā mittaṁ, vatthu tīṇi janāni ca; Uppatho ca dutiyo ca, kavinā pūrito vaggoti.",
+    "english_sn_text": "“What’s the source of verses? What constitutes their phrasing? What do verses depend upon? What underlies verses?” “Metre is the source of verses. Syllables constitute their phrasing. Verses depend on names. A poet underlies verses.”",
+    "errors": [
+      "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa1001-1100/sa1021_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+      "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa1001-1100/sa1021_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+      "used_analayo_fallback"
+    ],
+    "kumarajiva_style_text": "",
+    "modern_psychology_text": "",
+    "notes": "",
+    "review_status": "raw"
+  },
+  {
+    "id": "SA_1022",
+    "uid": "sa1022",
+    "title": "雜阿含經  卷第四十三  諸天相應  （1022）  第1022經",
+    "chinese_text": "Saṁyuktāgama雜阿含經\n\n如是我聞：\n\n一時，佛住舍衛國祇樹給孤獨園。\n\n時，有天子容色絕妙，於後夜時來詣佛所，稽首佛足，却坐一面，身諸光明遍照祇樹給孤獨園。\n\n時，彼天子說偈問佛：\n\n「云何知車乘？　　云何復知火？\n\n　云何知國土？　　云何知妻婦？」\n\n爾時，世尊說偈答言：\n\n「見幢蓋知車，　　見煙則知火，\n\n　見王知國土，　　見夫知其妻。」\n\n時，彼天子復說偈言：\n\n「久見婆羅門，　　逮得般涅槃，\n\n　一切怖已過，　　永超世恩愛。」\n\n時，彼天子聞佛所說，歡喜隨喜，稽首佛足，即沒不現。\n\n雜阿含經卷第三十六",
+    "english_sa_text": "",
+    "parallels": [
+      {
+        "uid": "sa-2.249",
+        "acronym": "SA2 249",
+        "root_lang": "lzh",
+        "original_title": "別車",
+        "translated_title": null,
+        "type": "full",
+        "resembling": false,
+        "remark": null
+      },
+      {
+        "uid": "sn1.72",
+        "acronym": "SN 1.72",
+        "root_lang": "pli",
+        "original_title": "Rathasutta",
+        "translated_title": "Chariot",
+        "type": "full",
+        "resembling": false,
+        "remark": null
+      }
+    ],
+    "primary_sn_uid": "sn1.72",
+    "pali_text": "“Kiṁsu rathassa paññāṇaṁ, kiṁsu paññāṇamaggino; Kiṁsu raṭṭhassa paññāṇaṁ, kiṁsu paññāṇamitthiyā”ti. “Dhajo rathassa paññāṇaṁ, dhūmo paññāṇamaggino; Rājā raṭṭhassa paññāṇaṁ, bhattā paññāṇamitthiyā”ti.",
+    "english_sn_text": "“What is a chariot known by? What is fire known by? What is a nation known by? What is a woman known by?” “A chariot is known by a banner. Fire is known by smoke. A nation is known by its ruler. A woman is known by her husband.”",
+    "errors": [
+      "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa1001-1100/sa1022_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+      "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa1001-1100/sa1022_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+      "used_analayo_fallback"
+    ],
+    "kumarajiva_style_text": "",
+    "modern_psychology_text": "",
+    "notes": "",
+    "review_status": "raw"
+  },
+  {
+    "id": "SA_1023",
+    "uid": "sa1023",
+    "title": "雜阿含經  卷第四十三  業報相應  （1023）  第1023經",
+    "chinese_text": "Saṁyuktāgama雜阿含經\n\n　\n\n雜阿含經卷第三十七\n\n宋天竺三藏求那跋陀羅譯\n\n如是我聞：\n\n一時，佛住舍衛國祇樹給孤獨園。時，有尊者叵求那住東園鹿母講堂，疾病困篤。\n\n尊者阿難往詣佛所，稽首禮足，退住一面，白佛言：「世尊！尊者叵求那住東園鹿母講堂，疾病困篤，如是病比丘多有死者。善哉！世尊！願至東園鹿母講堂尊者叵求那所，以哀愍故！」\n\n爾時，世尊默然而許，至日晡時，從禪覺，往詣東園鹿母講堂，至尊者叵求那房，敷座而坐，為尊者叵求那種種說法，示、教、照、喜；示、教、照、喜已，從坐起去。\n\n尊者叵求那，世尊去後，尋即命終。當命終時，諸根喜悅，顏貌清淨，膚色鮮白。\n\n時，尊者阿難供養尊者叵求那舍利已，往詣佛所，稽首佛足，却住一面，白佛言：「世尊！尊者叵求那，世尊來後，尋便命終，臨命終時，諸根喜悅，膚色清淨，鮮白光澤。不審世尊！彼當生何趣？云何受生，後世云何？」\n\n佛告阿難：「若有比丘先未病時，未斷五下分結，若覺病起，其身苦患，心不調適，生分微弱，得聞大師教授、教誡種種說法，彼聞法已，斷五下分結。阿難！是則大師教授設法福利。\n\n「復次，阿難！若有比丘先未病時，未斷五下分結，然後病起，身遭苦患，生分轉微，不蒙大師教授、教誡說法，然遇諸餘多聞大德修梵行者教授、教誡說法，得聞法已，斷五下分結。阿難！是名教授、教誡聽法福利。\n\n「復次，阿難！若比丘先未病時，不斷五下分結，乃至生分微弱，不聞大師教授、教誡說法，復不聞餘多聞大德諸梵行者教授、教誡說法，然彼先所受法，獨靜思惟，稱量觀察，得斷五下分結。阿難！是名思惟觀察先所聞法所得福利。\n\n「復次，阿難！若有比丘先未病時，斷五下分結，不得無上愛盡解脫，不起諸漏，心善解脫，然後得病，身遭苦患，生分微弱，得聞大師教授、教誡說法，得無上愛盡解脫，不起諸漏，離欲解脫。阿難！是名大師說法福利。\n\n「復次，阿難！若有比丘先未病時，斷五下分結，不得無上愛盡解脫，不起諸漏，離欲解脫，覺身病起，極遭苦患，不得大師教授、教誡說法，然得諸餘多聞大德諸梵行者教授、教誡說法，得無上愛盡解脫，不起諸漏，離欲解脫。阿難！是名教授教誡聞法福利。\n\n「復次，阿難！若有比丘先未病時，斷五下分結，不得無上愛盡解脫，不起諸漏，離欲解脫。其身病起，極生苦患，不得大師教授、教誡說法，不得諸餘多聞大德教授、教誡說法，然先所聞法，獨一靜處，思惟稱量觀察，得無上愛盡解脫，不起諸漏，離欲解脫。阿難！是名思惟先所聞法所得福利。\n\n「何緣叵求那比丘不得諸根欣悅，色貌清淨，膚體鮮澤？叵求那比丘先未病時，未斷五下分結，彼親從大師聞教授、教誡說法，斷五下分結，世尊為彼尊者叵求那受阿那含記。」\n\n佛說此經已，尊者阿難聞佛所說，歡喜隨喜，作禮而去。",
+    "english_sa_text": "",
+    "parallels": [
+      {
+        "uid": "an6.56",
+        "acronym": "AN 6.56",
+        "root_lang": "pli",
+        "original_title": "Phaggunasutta",
+        "translated_title": null,
+        "type": "full",
+        "resembling": false,
+        "remark": null
+      }
+    ],
+    "primary_sn_uid": null,
+    "pali_text": "",
+    "english_sn_text": "",
+    "errors": [
+      "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa1001-1100/sa1023_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+      "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa1001-1100/sa1023_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+      "used_analayo_fallback"
+    ],
+    "kumarajiva_style_text": "",
+    "modern_psychology_text": "",
+    "notes": "",
+    "review_status": "raw"
+  },
+  {
+    "id": "SA_1024",
+    "uid": "sa1024",
+    "title": "雜阿含經  卷第四十三  業報相應  （1024）  第1024經",
+    "chinese_text": "Saṁyuktāgama雜阿含經\n\n如是我聞：\n\n一時，佛住舍衛國祇樹給孤獨園。\n\n爾時，尊者阿濕波誓住東園鹿母講堂，身遭重病，極生苦患。尊者富隣尼瞻視供給……如前跋迦梨修多羅廣說，謂說三受，乃至「轉增無損。」\n\n佛告阿濕波誓：「汝莫變悔！」\n\n阿濕波誓白佛言：「世尊！我實有變悔。」\n\n佛告阿濕波誓：「汝得無破戒耶？」\n\n阿濕波誓白佛言：「世尊！我不破戒。」\n\n佛告阿濕波誓：「汝不破戒，何為變悔？」\n\n阿濕波誓白佛言：「世尊！我先未病時，得身息樂正受多修習；我於今日不復能得入彼三昧，我作是思惟：『將無退失是三昧耶？』」\n\n佛告阿濕波誓：「我今問汝，隨意答我。阿濕波誓，汝見色即是我、異我、相在不？」\n\n阿濕波誓白佛言：「不也，世尊！」\n\n復問：「汝見受、想、行、識是我、異我、相在不？」\n\n阿濕波誓白佛言：「不也，世尊！」\n\n佛告阿濕波誓：「汝既不見色是我、異我、相在，不見受、想、行、識是我、異我、相在，何故變悔？」\n\n阿濕波誓白佛言：「世尊！不正思惟故。」\n\n佛告阿濕波誓：「若沙門、婆羅門三昧堅固，三昧平等，若不得入彼三昧，不應作念：『我於三昧退減。』若復聖弟子不見色是我、異我、相在，不見受、想、行、識是我、異我、相在，但當作是覺知：『貪欲永盡無餘，瞋恚、愚癡永盡無餘。』貪、恚、癡永盡無餘已，一切漏盡，無漏心解脫、慧解脫，現法自知作證：『我生已盡，梵行已立，所作已作，自知不受後有。』」\n\n佛說是法時，尊者阿濕波誓不起諸漏，心得解脫，歡喜踊悅。歡喜踊悅故，身病即除。\n\n佛說此經，令尊者阿濕波誓歡喜隨喜已，從坐起而去。\n\n差摩迦修多羅如五受陰處說。",
+    "english_sa_text": "",
+    "parallels": [
+      {
+        "uid": "sn22.88",
+        "acronym": "SN 22.88",
+        "root_lang": "pli",
+        "original_title": "Assajisutta",
+        "translated_title": "Assaji",
+        "type": "full",
+        "resembling": false,
+        "remark": null
+      }
+    ],
+    "primary_sn_uid": "sn22.88",
+    "pali_text": "Ekaṁ samayaṁ bhagavā rājagahe viharati veḷuvane kalandakanivāpe. Tena kho pana samayena āyasmā assaji kassapakārāme viharati ābādhiko dukkhito bāḷhagilāno. Atha kho āyasmā assaji upaṭṭhāke āmantesi: “etha tumhe, āvuso, yena bhagavā tenupasaṅkamatha; upasaṅkamitvā mama vacanena bhagavato pāde sirasā vandatha: ‘assaji, bhante, bhikkhu ābādhiko dukkhito bāḷhagilāno. So bhagavato pāde sirasā vandatī’ti. Evañca vadetha: ‘sādhu kira, bhante, bhagavā yena assaji bhikkhu tenupasaṅkamatu anukampaṁ upādāyā’”ti. “Evamāvuso”ti kho te bhikkhū āyasmato assajissa paṭissutvā yena bhagavā tenupasaṅkamiṁsu; upasaṅkamitvā bhagavantaṁ abhivādetvā ekamantaṁ nisīdiṁsu. Ekamantaṁ nisinnā kho te bhikkhū bhagavantaṁ etadavocuṁ: “assaji, bhante, bhikkhu ābādhiko …pe… sādhu kira, bhante, bhagavā yena assaji bhikkhu tenupasaṅkamatu anukampaṁ upādāyā”ti. Adhivāsesi bhagavā tuṇhībhāvena. Atha kho bhagavā sāyanhasamayaṁ paṭisallānā vuṭṭhito yenāyasmā assaji tenupasaṅkami. Addasā kho āyasmā assaji bhagavantaṁ dūratova āgacchantaṁ. Disvāna mañcake samadhosi. Atha kho bhagavā āyasmantaṁ assajiṁ etadavoca: “alaṁ, assaji, mā tvaṁ mañcake samadhosi. Santimāni āsanāni paññattāni, tatthāhaṁ nisīdissāmī”ti. Nisīdi bhagavā paññatte āsane. Nisajja kho bhagavā āyasmantaṁ assajiṁ etadavoca: “kacci te, assaji, khamanīyaṁ, kacci yāpanīyaṁ …pe… paṭikkamosānaṁ paññāyati no abhikkamo”ti? “Na me, bhante, khamanīyaṁ …pe… abhikkamosānaṁ paññāyati no paṭikkamo”ti. “Kacci te, assaji, na kiñci kukkuccaṁ na koci vippaṭisāro”ti? “Taggha me, bhante, anappakaṁ kukkuccaṁ anappako vippaṭisāro”ti. “Kacci pana taṁ, assaji, attā sīlato na upavadatī”ti? “Na kho maṁ, bhante, attā sīlato upavadatī”ti. “No ce kira taṁ, assaji, attā sīlato upavadati, atha kiñca te kukkuccaṁ ko ca vippaṭisāro”ti? “Pubbe khvāhaṁ, bhante, gelaññe passambhetvā passambhetvā kāyasaṅkhāre viharāmi, sohaṁ samādhiṁ nappaṭilabhāmi. Tassa mayhaṁ, bhante, taṁ samādhiṁ appaṭilabhato evaṁ hoti: ‘no cassāhaṁ parihāyāmī’”ti. “Ye te, assaji, samaṇabrāhmaṇā samādhisārakā samādhisāmaññā tesaṁ taṁ samādhiṁ appaṭilabhataṁ evaṁ hoti: ‘no cassu mayaṁ parihāyāmā’ti. Taṁ kiṁ maññasi, assaji, rūpaṁ niccaṁ vā aniccaṁ vā”ti? “Aniccaṁ, bhante” …pe… viññāṇaṁ …pe… “tasmātiha …pe… evaṁ passaṁ …pe… nāparaṁ itthattāyāti pajānātīti. So sukhañce vedanaṁ vedayati, sā ‘aniccā’ti pajānāti. ‘Anajjhositā’ti pajānāti. ‘Anabhinanditā’ti pajānāti. Dukkhañce vedanaṁ vedayati, sā ‘aniccā’ti pajānāti. ‘Anajjhositā’ti pajānāti. ‘Anabhinanditā’ti pajānāti. Adukkhamasukhañce vedanaṁ vedayati, sā ‘aniccā’ti pajānāti …pe… ‘anabhinanditā’ti pajānāti. So sukhañce vedanaṁ vedayati, visaṁyutto naṁ vedayati; dukkhañce vedanaṁ vedayati, visaṁyutto naṁ vedayati; adukkhamasukhañce vedanaṁ vedayati, visaṁyutto naṁ vedayati. So kāyapariyantikañce vedanaṁ vedayamāno ‘kāyapariyantikaṁ vedanaṁ vedayāmī’ti pajānāti. Jīvitapariyantikañce vedanaṁ vedayamāno ‘jīvitapariyantikaṁ vedanaṁ vedayāmī’ti pajānāti. ‘Kāyassa bhedā uddhaṁ jīvitapariyādānā idheva sabbavedayitāni anabhinanditāni sītībhavissantī’ti pajānāti. Seyyathāpi, assaji, telañca paṭicca, vaṭṭiñca paṭicca, telappadīpo jhāyeyya; tasseva telassa ca vaṭṭiyā ca pariyādānā anāhāro nibbāyeyya. Evameva kho, assaji, bhikkhu kāyapariyantikaṁ vedanaṁ vedayamāno ‘kāyapariyantikaṁ vedanaṁ vedayāmī’ti pajānāti. Jīvitapariyantikaṁ vedanaṁ vedayamāno ‘jīvitapariyantikaṁ vedanaṁ vedayāmī’ti pajānāti. ‘Kāyassa bhedā uddhaṁ jīvitapariyādānā idheva sabbavedayitāni anabhinanditāni sītībhavissantī’ti pajānātī”ti. Chaṭṭhaṁ.",
+    "english_sn_text": "At one time the Buddha was staying near Rājagaha in the Bamboo Grove, the squirrels’ feeding ground. Now at that time Venerable Assaji was staying in a monastery built by a Kassapa, and he was sick, suffering, gravely ill. Then he addressed his carers: “Please, reverends, go to the Buddha, and in my name bow with your head to his feet. Say to him: ‘Sir, the mendicant Assaji is sick, suffering, gravely ill. He bows with his head to your feet.’ And then say: ‘Sir, please go to the mendicant Assaji out of sympathy.’” “Yes, reverend,” those monks replied. They did as he asked. The Buddha consented with silence. Then in the late afternoon, the Buddha came out of retreat and went to Venerable Assaji. Venerable Assaji saw the Buddha coming off in the distance, and stirred in his cot. But the Buddha said to him, “It’s all right, Assaji, don’t get up. There are some seats spread out, I will sit there.” He sat down on the seat spread out and said, “I hope you’re keeping well, Assaji; I hope you’re all right. I hope your pain is fading, not growing; that its fading is evident, not its growing.” “Sir, I’m not keeping well, I’m not getting by. My pain is terrible and growing, not fading; its growing is evident, not its fading.” “I hope you don’t have any remorse or regret?” “Indeed, sir, I have no little remorse and regret.” “I hope you have no reason to blame yourself when it comes to ethical conduct?” “No sir, I have no reason to blame myself when it comes to ethical conduct.” “In that case, Assaji, why do you have remorse and regret?” “Sir, before my time of illness I meditated having completely stilled the physical process. But now I can’t get immersion. Since I can’t get immersion, I think: ‘May I not decline!’” “There are, Assaji, ascetics and brahmins for whom samādhi is the essence, equating immersion with the ascetic life. They think: ‘May we not decline!’ What do you think, Assaji? Is form permanent or impermanent?” “Impermanent, sir.” … “Is consciousness permanent or impermanent?” … “So you should truly see … Seeing this … They understand: ‘… there is nothing further for this place.’ If they feel a pleasant feeling, they understand that it’s impermanent, that they’re not attached to it, and that they don’t relish it. If they feel a painful feeling, they understand that it’s impermanent, that they’re not attached to it, and that they don’t relish it. If they feel a neutral feeling, they understand that it’s impermanent, that they’re not attached to it, and that they don’t relish it. If they feel a pleasant feeling, they feel it detached. If they feel a painful feeling, they feel it detached. If they feel a neutral feeling, they feel it detached. Feeling the end of the body draw close, they understand: ‘I feel the end of the body draw close.’ Feeling the end of life draw close, they understand: ‘I feel the end of life draw close.’ They understand: ‘When my body breaks up and my life is over, everything that’s felt, being no longer relished, will become cool right here.’ Suppose an oil lamp depended on oil and a wick to burn. As the oil and the wick are used up, it would be extinguished due to not being fed. In the same way, feeling the end of the body draw close, they understand: ‘I feel the end of the body draw close.’ Feeling the end of life draw close, they understand: ‘I feel the end of life draw close.’ They understand: ‘When my body breaks up and my life is over, everything that’s felt, being no longer relished, will become cool right here.’”",
+    "errors": [
+      "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa1001-1100/sa1024_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+      "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa1001-1100/sa1024_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+      "used_analayo_fallback"
+    ],
+    "kumarajiva_style_text": "",
+    "modern_psychology_text": "",
+    "notes": "",
+    "review_status": "raw"
+  },
+  {
+    "id": "SA_1025",
+    "uid": "sa1025",
+    "title": "雜阿含經  卷第四十三  業報相應  （1025）  第1025經",
+    "chinese_text": "Saṁyuktāgama雜阿含經\n\n如是我聞：\n\n一時，佛住舍衛國祇樹給孤獨園。時，有異比丘年少新學，於此法、律出家未久，少知識，獨一客旅，無人供給，住邊聚落客僧房中，疾病困篤。\n\n時，有眾多比丘詣佛所，稽首禮足，却坐一面，白佛言：「世尊！有一比丘年少新學，乃至疾病困篤，住邊聚落客僧房中。有是病比丘多死無活。善哉！世尊！往彼住處，以哀愍故！」\n\n爾時，世尊默然而許。即日晡時從禪覺，至彼住處。\n\n彼病比丘遙見世尊，扶床欲起。\n\n佛告比丘：「息臥勿起！云何？比丘！苦患寧可忍不？……」如前差摩迦修多羅廣說如是三受，乃至「病苦但增不損。」\n\n佛告病比丘：「我今問汝，隨意答我。汝得無變悔耶？」\n\n病比丘白佛：「實有變悔。世尊！」\n\n佛告病比丘：「汝得無犯戒耶？」\n\n病比丘白佛言：「世尊！實不犯戒。」\n\n佛告病比丘：「汝若不犯戒，何為變悔？」\n\n病比丘白佛：「世尊！我年幼稚出家未久，於過人法勝妙知見未有所得，我作是念：『命終之時，知生何處？』故生變悔。」\n\n佛告比丘：「我今問汝，隨意答我。云何？比丘！有眼故有眼識耶？」\n\n比丘白佛：「如是，世尊！」\n\n復問：「比丘！於意云何？有眼識故有眼觸、眼觸因緣生內受，若苦、若樂、不苦不樂耶？」\n\n比丘白佛：「如是，世尊！」耳、鼻、舌、身、意亦如是說。\n\n「云何？比丘！若無眼則無眼識耶？」\n\n比丘白佛：「如是，世尊！」\n\n復問：「比丘！若無眼識則無眼觸耶？若無眼觸，則無眼觸因緣生內受，若苦、若樂、不苦不樂耶？」\n\n比丘白佛：「如是，世尊！」耳、鼻、舌、身、意亦如是說。\n\n「是故，比丘！當善思惟如是法，得善命終，後世亦善。」爾時，世尊為病比丘種種說法，示、教、照、喜已，從坐起去。\n\n時，病比丘，世尊去後，尋即命終。臨命終時，諸根喜悅，顏貌清淨，膚色鮮白。\n\n時，眾多比丘詣佛所，稽首禮足，退坐一面，白佛言：「世尊！彼年少比丘疾病困篤，尊者今已命終。當命終時，諸根喜悅，顏貌清淨，膚色鮮白。云何？世尊！如是比丘當生何處？云何受生？後世云何？」\n\n佛告諸比丘：「彼命過比丘是真寶物，聞我說法，分明解了，於法無畏，得般涅槃，汝等但當供養舍利。」\n\n世尊爾時為彼比丘受第一記。\n\n佛說此經已，諸比丘聞佛所說，歡喜奉行。",
+    "english_sa_text": "",
+    "parallels": [
+      {
+        "uid": "sn35.74",
+        "acronym": "SN 35.74",
+        "root_lang": "pli",
+        "original_title": "Paṭhamagilānasutta",
+        "translated_title": "Sick (1)",
+        "type": "full",
+        "resembling": false,
+        "remark": null
+      }
+    ],
+    "primary_sn_uid": "sn35.74",
+    "pali_text": "Sāvatthinidānaṁ. Atha kho aññataro bhikkhu yena bhagavā tenupasaṅkami …pe… ekamantaṁ nisinno kho so bhikkhu bhagavantaṁ etadavoca: “amukasmiṁ, bhante, vihāre aññataro bhikkhu navo appaññāto ābādhiko dukkhito bāḷhagilāno. Sādhu, bhante, bhagavā yena so bhikkhu tenupasaṅkamatu anukampaṁ upādāyā”ti. Atha kho bhagavā navavādañca sutvā gilānavādañca, “appaññāto bhikkhū”ti iti viditvā yena so bhikkhu tenupasaṅkami. Addasā kho so bhikkhu bhagavantaṁ dūratova āgacchantaṁ. Disvāna mañcake samadhosi. Atha kho bhagavā taṁ bhikkhuṁ etadavoca: “alaṁ, bhikkhu, mā tvaṁ mañcake samadhosi. Santimāni āsanāni paññattāni, tatthāhaṁ nisīdissāmī”ti. Nisīdi bhagavā paññatte āsane. Nisajja kho bhagavā taṁ bhikkhuṁ etadavoca: “kacci te, bhikkhu, khamanīyaṁ, kacci yāpanīyaṁ, kacci dukkhā vedanā paṭikkamanti no abhikkamanti, paṭikkamosānaṁ paññāyati no abhikkamo”ti? “Na me, bhante, khamanīyaṁ, na yāpanīyaṁ, bāḷhā me dukkhā vedanā abhikkamanti no paṭikkamanti, abhikkamosānaṁ paññāyati no paṭikkamo”ti. “Kacci te, bhikkhu, na kiñci kukkuccaṁ, na koci vippaṭisāro”ti? “Taggha me, bhante, anappakaṁ kukkuccaṁ, anappako vippaṭisāro”ti. “Kacci pana taṁ, bhikkhu, attā sīlato upavadatī”ti? “Na kho maṁ, bhante, attā sīlato upavadatī”ti. “No ce kira te, bhikkhu, attā sīlato upavadati, atha kiñca te kukkuccaṁ ko ca vippaṭisāro”ti? “Na khvāhaṁ, bhante, sīlavisuddhatthaṁ bhagavatā dhammaṁ desitaṁ ājānāmī”ti. “No ce kira tvaṁ, bhikkhu, sīlavisuddhatthaṁ mayā dhammaṁ desitaṁ ājānāsi, atha kimatthaṁ carahi tvaṁ, bhikkhu, mayā dhammaṁ desitaṁ ājānāsī”ti? “Rāgavirāgatthaṁ khvāhaṁ, bhante, bhagavatā dhammaṁ desitaṁ ājānāmī”ti. “Sādhu sādhu, bhikkhu. Sādhu kho tvaṁ, bhikkhu, rāgavirāgatthaṁ mayā dhammaṁ desitaṁ ājānāsi. Rāgavirāgattho hi, bhikkhu, mayā dhammo desito. Taṁ kiṁ maññasi, bhikkhu, cakkhu niccaṁ vā aniccaṁ vā”ti? “Aniccaṁ, bhante”. “ …pe… Sotaṁ … ghānaṁ … jivhā … kāyo … mano nicco vā anicco vā”ti? “Anicco, bhante”. “Yaṁ panāniccaṁ dukkhaṁ vā taṁ sukhaṁ vā”ti? “Dukkhaṁ, bhante”. “Yaṁ panāniccaṁ dukkhaṁ vipariṇāmadhammaṁ, kallaṁ nu taṁ samanupassituṁ: ‘etaṁ mama, esohamasmi, eso me attā’”ti? “No hetaṁ, bhante”. “Evaṁ passaṁ, bhikkhu, sutavā ariyasāvako cakkhusmimpi nibbindati, sotasmimpi nibbindati …pe… manasmimpi nibbindati. Nibbindaṁ virajjati; virāgā vimuccati; vimuttasmiṁ vimuttamiti ñāṇaṁ hoti. ‘Khīṇā jāti …pe… nāparaṁ itthattāyā’ti pajānātī”ti. Idamavoca bhagavā. Attamano so bhikkhu bhagavato bhāsitaṁ abhinandi. Imasmiñca pana veyyākaraṇasmiṁ bhaññamāne tassa bhikkhuno virajaṁ vītamalaṁ dhammacakkhuṁ udapādi: “yaṁ kiñci samudayadhammaṁ sabbaṁ taṁ nirodhadhamman”ti. Paṭhamaṁ.",
+    "english_sn_text": "At Sāvatthī. Then a mendicant went up to the Buddha, and said to him, “Sir, in such-and-such monastery there’s a mendicant who is junior and not well-known. He’s sick, suffering, gravely ill. Please go to him out of sympathy.” When the Buddha heard that the mendicant was junior and ill, understanding that he was not well-known, he went to him. That mendicant saw the Buddha coming off in the distance and stirred in his cot. The Buddha said to that monk, “It’s all right, mendicant, don’t get up. There are some seats spread out, I will sit there.” He sat down on the seat spread out and said to the mendicant, “I hope you’re keeping well, mendicant, I hope you’re all right. I hope your pain is fading, not growing; that its fading is evident, not its growing.” “Sir, I’m not keeping well, I’m not getting by. My pain is terrible and growing, not fading; its growing is evident, not its fading.” “I hope you don’t have any remorse or regret?” “Indeed, sir, I have no little remorse and regret.” “I hope you have no reason to blame yourself when it comes to ethical conduct?” “No sir, I have no reason to blame myself when it comes to ethical conduct.” “In that case, mendicant, why do you have remorse and regret?” “Because I understand that the Buddha has not taught the Dhamma merely for the sake of ethical purity.” “If that is so, what then do you understand to be the purpose of teaching the Dhamma?” “I understand that the Buddha has taught the Dhamma for the purpose of the fading away of greed.” “Good, good, mendicant! It’s good that you understand that I’ve taught the Dhamma for the purpose of the fading away of greed. For that is indeed the purpose. What do you think, mendicant? Is the eye permanent or impermanent?” “Impermanent, sir.” … “Is the ear … nose … tongue … body … mind permanent or impermanent?” “Impermanent, sir.” “But if it’s impermanent, is it suffering or happiness?” “Suffering, sir.” “But if it’s impermanent, suffering, and perishable, is it fit to be regarded thus: ‘This is mine, I am this, this is my self’?” “No, sir.” “Seeing this, a learned noble disciple grows disillusioned with the eye, ear, nose, tongue, body, and mind. Being disillusioned, desire fades away. When desire fades away they’re freed. When they’re freed, they know they’re freed. They understand: ‘Rebirth is ended … there is nothing further for this place.’” That is what the Buddha said. Satisfied, that mendicant approved what the Buddha said. And while this discourse was being spoken, the stainless, immaculate vision of the Dhamma arose in that mendicant: “Everything that is liable to arise is liable to cease.”",
+    "errors": [
+      "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa1001-1100/sa1025_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+      "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa1001-1100/sa1025_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+      "used_analayo_fallback"
+    ],
+    "kumarajiva_style_text": "",
+    "modern_psychology_text": "",
+    "notes": "",
+    "review_status": "raw"
+  },
+  {
+    "id": "SA_1026",
+    "uid": "sa1026",
+    "title": "雜阿含經  卷第四十三  業報相應  （1026）  第1026經",
+    "chinese_text": "Saṁyuktāgama雜阿含經\n\n如是我聞：\n\n一時，佛住舍衛國祇樹給孤獨園……如上說。差別者：「諦聽，善思，當為汝說。若彼比丘作如是念：『我此識身及外境界一切相，無有我、我所見、我慢繫著使，及心解脫、慧解脫，現法自知作證具足住；於此識身及外境界一切相，無有我、我所見、我慢繫著使，及彼心解脫、慧解脫，現法自知作證具足住。』彼比丘：『我此識身及外境界一切相，無有我、我所見、我慢繫著使，及心解脫、慧解脫，現法自知作證具足住；於此識身及外境界一切相，無有我、我所見、我慢繫著使，及心解脫、慧解脫，現法自知作證具足住。』若彼比丘於此識身及外境界一切相，無有我、我所見、我慢繫著使，及心解脫、慧解脫，現法自知作證具足住；於此識身及外境界一切相，無有我、我所見、我慢繫著使，及彼心解脫、慧解脫，現法自知作證具足住者，是名比丘斷愛欲，轉諸結，止慢無間等，究竟苦邊。」\n\n佛說此經已，諸比丘聞佛所說，歡喜奉行。",
+    "english_sa_text": "",
+    "parallels": [
+      {
+        "uid": "sn35.75",
+        "acronym": "SN 35.75",
+        "root_lang": "pli",
+        "original_title": "Dutiyagilānasutta",
+        "translated_title": "Sick (2)",
+        "type": "full",
+        "resembling": false,
+        "remark": null
+      }
+    ],
+    "primary_sn_uid": "sn35.75",
+    "pali_text": "Atha kho aññataro bhikkhu …pe… bhagavantaṁ etadavoca: “amukasmiṁ, bhante, vihāre aññataro bhikkhu navo appaññāto ābādhiko dukkhito bāḷhagilāno. Sādhu, bhante, bhagavā yena so bhikkhu tenupasaṅkamatu anukampaṁ upādāyā”ti. Atha kho bhagavā navavādañca sutvā gilānavādañca, “appaññāto bhikkhū”ti iti viditvā yena so bhikkhu tenupasaṅkami. Addasā kho so bhikkhu bhagavantaṁ dūratova āgacchantaṁ. Disvāna mañcake samadhosi. Atha kho bhagavā taṁ bhikkhuṁ etadavoca: “alaṁ, bhikkhu, mā tvaṁ mañcake samadhosi. Santimāni āsanāni paññattāni, tatthāhaṁ nisīdissāmī”ti. Nisīdi bhagavā paññatte āsane. Nisajja kho bhagavā taṁ bhikkhuṁ etadavoca: “kacci te, bhikkhu, khamanīyaṁ, kacci yāpanīyaṁ, kacci dukkhā vedanā paṭikkamanti no abhikkamanti, paṭikkamosānaṁ paññāyati no abhikkamo”ti? “Na me, bhante, khamanīyaṁ, na yāpanīyaṁ …pe… na kho maṁ, bhante, attā sīlato upavadatī”ti. “No ce kira te, bhikkhu, attā sīlato upavadati, atha kiñca te kukkuccaṁ ko ca vippaṭisāro”ti? “Na khvāhaṁ, bhante, sīlavisuddhatthaṁ bhagavatā dhammaṁ desitaṁ ājānāmī”ti. “No ce kira tvaṁ, bhikkhu, sīlavisuddhatthaṁ mayā dhammaṁ desitaṁ ājānāsi, atha kimatthaṁ carahi tvaṁ, bhikkhu, mayā dhammaṁ desitaṁ ājānāsī”ti? “Anupādāparinibbānatthaṁ khvāhaṁ, bhante, bhagavatā dhammaṁ desitaṁ ājānāmī”ti. “Sādhu sādhu, bhikkhu. Sādhu kho tvaṁ, bhikkhu, anupādāparinibbānatthaṁ mayā dhammaṁ desitaṁ ājānāsi. Anupādāparinibbānattho hi, bhikkhu, mayā dhammo desito. Taṁ kiṁ maññasi, bhikkhu, cakkhu niccaṁ vā aniccaṁ vā”ti? “Aniccaṁ, bhante”. “ …pe… Sotaṁ … ghānaṁ … jivhā … kāyo … mano … manoviññāṇaṁ … manosamphasso … yampidaṁ manosamphassapaccayā uppajjati vedayitaṁ sukhaṁ vā dukkhaṁ vā adukkhamasukhaṁ vā tampi niccaṁ vā aniccaṁ vā”ti? “Aniccaṁ, bhante”. “Yaṁ panāniccaṁ dukkhaṁ vā taṁ sukhaṁ vā”ti? “Dukkhaṁ, bhante”. “Yaṁ panāniccaṁ dukkhaṁ vipariṇāmadhammaṁ, kallaṁ nu taṁ samanupassituṁ: ‘etaṁ mama, esohamasmi, eso me attā’”ti? “No hetaṁ, bhante”. “Evaṁ passaṁ, bhikkhu, sutavā ariyasāvako cakkhusmimpi nibbindati …pe… manasmimpi … manoviññāṇepi … manosamphassepi nibbindati. Yampidaṁ manosamphassapaccayā uppajjati vedayitaṁ sukhaṁ vā dukkhaṁ vā adukkhamasukhaṁ vā tasmimpi nibbindati. Nibbindaṁ virajjati; virāgā vimuccati; vimuttasmiṁ vimuttamiti ñāṇaṁ hoti. ‘Khīṇā jāti, vusitaṁ brahmacariyaṁ, kataṁ karaṇīyaṁ, nāparaṁ itthattāyā’ti pajānātī”ti. Idamavoca bhagavā. Attamano so bhikkhu bhagavato bhāsitaṁ abhinandi. Imasmiñca pana veyyākaraṇasmiṁ bhaññamāne tassa bhikkhussa anupādāya āsavehi cittaṁ vimuccīti. Dutiyaṁ.",
+    "english_sn_text": "Then a mendicant went up to the Buddha … and asked him, “Sir, in such-and-such monastery there’s a mendicant who is junior and not well-known. He’s sick, suffering, gravely ill. Please go to him out of sympathy.” When the Buddha heard that the mendicant was junior and ill, understanding that he was not well-known, he went to him. That mendicant saw the Buddha coming off in the distance and stirred in his cot. Then the Buddha said to that monk, “It’s all right, mendicant, don’t get up. There are some seats spread out, I will sit there.” He sat down on the seat spread out and said to the mendicant, “I hope you’re keeping well, mendicant, I hope you’re all right. I hope your pain is fading, not growing; that its fading is evident, not its growing.” “Sir, I’m not keeping well, I’m not getting by. … I have no reason to blame myself when it comes to ethical conduct.” “In that case, mendicant, why do you have remorse and regret?” “Because I understand that the Buddha has not taught the Dhamma merely for the sake of ethical purity.” “If that is so, what then do you understand to be the goal of teaching the Dhamma?” “I understand that the Buddha has taught the Dhamma for the goal of complete extinguishment without grasping fuel.” “Good, good, mendicant! It’s good that you understand that I’ve taught the Dhamma for the goal of complete extinguishment with no fuel for grasping. For that is indeed the goal. What do you think, mendicant? Is the eye permanent or impermanent?” “Impermanent, sir.” … “Is the ear … nose … tongue … body … mind … mind consciousness … mind contact … The pleasant, painful, or neutral feeling that arises dependent on mind contact: is that permanent or impermanent?” “Impermanent, sir.” “But if it’s impermanent, is it suffering or happiness?” “Suffering, sir.” “But if it’s impermanent, suffering, and perishable, is it fit to be regarded thus: ‘This is mine, I am this, this is my self’?” “No, sir.” “Seeing this, a learned noble disciple grows disillusioned with the eye … ear … nose … tongue … body … mind … mind consciousness … mind contact … They grow disillusioned with the painful, pleasant, or neutral feeling that arises dependent on mind contact. Being disillusioned, desire fades away. When desire fades away they’re freed. When they’re freed, they know they’re freed. They understand: ‘Rebirth is ended, the spiritual journey has been completed, what had to be done has been done, there is nothing further for this place.’” That is what the Buddha said. Satisfied, that mendicant approved what the Buddha said. And while this discourse was being spoken, the mind of that mendicant was freed from defilements by not grasping.",
+    "errors": [
+      "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa1001-1100/sa1026_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+      "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa1001-1100/sa1026_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+      "used_analayo_fallback"
+    ],
+    "kumarajiva_style_text": "",
+    "modern_psychology_text": "",
+    "notes": "",
+    "review_status": "raw"
+  },
+  {
+    "id": "SA_1027",
+    "uid": "sa1027",
+    "title": "雜阿含經  卷第四十三  業報相應  （1027）  第1027經",
+    "chinese_text": "Saṁyuktāgama雜阿含經\n\n如是我聞：\n\n一時，佛住舍衛國祇樹給孤獨園……如上說。差別者，乃至佛告病比丘：「汝不自犯戒耶？」\n\n比丘白佛言：「世尊！我不以持淨戒故，於世尊所修梵行。」\n\n佛告比丘：「汝以何等法故，於我所修梵行？」\n\n比丘白佛：「為離貪欲故，於世尊所修梵行；為離瞋恚、愚癡故，於世尊所修梵行。」\n\n佛告比丘：「如是，如是。汝正應為離貪欲故，於我所修梵行；離瞋恚、愚癡故，於我所修梵行。比丘！貪欲纏故，不得離欲；無明纏故，慧不清淨。是故，比丘！於欲離欲心解脫，離無明故慧解脫。若比丘於欲離欲心解脫身作證，離無明故慧解脫，是名比丘斷諸愛欲，轉結縛，止慢無間等，究竟苦邊。是故，比丘！於此法善思惟……」如前廣說，乃至「受第一記。」\n\n佛說此經已，諸比丘聞佛所說，歡喜隨喜，作禮而去。",
+    "english_sa_text": "",
+    "parallels": [],
+    "primary_sn_uid": null,
+    "pali_text": "",
+    "english_sn_text": "",
+    "errors": [
+      "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa1001-1100/sa1027_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+      "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa1001-1100/sa1027_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+      "used_analayo_fallback"
+    ],
+    "kumarajiva_style_text": "",
+    "modern_psychology_text": "",
+    "notes": "",
+    "review_status": "raw"
+  },
+  {
+    "id": "SA_1028",
+    "uid": "sa1028",
+    "title": "雜阿含經  卷第四十三  業報相應  （1028）  第1028經",
+    "chinese_text": "Saṁyuktāgama雜阿含經\n\n如是我聞：\n\n一時，佛住舍衛國祇樹給孤獨園。時，有眾多比丘集於伽梨隸講堂。時，多有比丘疾病。\n\n爾時，世尊晡時從禪覺，往至伽梨隸講堂，於大眾前敷座而坐。坐已，告諸比丘：「當正念正智以待時，是則為我隨順之教。比丘！云何為正念？謂比丘內身身觀念處，精勤方便，正念正智，調伏世間貪憂；外身身觀念處、內外身身觀念處，內受、外受、內外受，內心、外心、內外心，內法、外法、內外法法觀念處，精勤方便，正念正智，調伏世間貪憂，是名比丘正憶念。\n\n「云何正智？謂比丘若來若去，正知而住，瞻視觀察，屈申俯仰，執持衣鉢，行、住、坐、臥、眠、覺，乃至五十、六十，依語默正智行。比丘！是名正智。\n\n「如是，比丘！正念正智住者能起樂受，有因緣，非無因緣。云何因緣？謂緣於身，作是思惟：『我此身無常、有為、心因緣生；樂受亦無常、有為、心因緣生。』身及樂受觀察無常，觀察生滅，觀察離欲，觀察滅盡，觀察捨彼，觀察身及樂受無常，乃至捨已，若於身及樂受貪欲使者永不復使。\n\n「如是，正念正智生苦受因緣，非不因緣。云何為因緣？如是緣身，作是思惟：『我此身無常、有為、心因緣生；苦受亦無常、有為、心因緣生。』身及苦受觀察無常，乃至捨，於此及苦受瞋恚所使，永不復使。\n\n「如是，正念正智生不苦不樂受因緣，非不因緣。云何因緣？謂身因緣，作是思惟：『我此身無常、有為、心因緣生；彼不苦不樂受亦無常、有為、心因緣生。』彼身及不苦不樂受觀察無常，乃至捨，若所有身及不苦不樂受無明使使，使永不復使。多聞聖弟子如是觀者，於色厭離，於受、想、行、識厭離，厭離已離欲，離欲已解脫，解脫知見：『我生已盡，梵行已立，所作已作，自知不受後有。』」\n\n爾時，世尊即說偈言：\n\n「樂覺所覺時，　　莫能知樂覺，\n\n　貪欲使所使，　　不見於出離。\n\n　苦受所覺時，　　莫能知苦受，\n\n　瞋恚使所使，　　不見出離道。\n\n　不苦不樂受，　　等正覺所說，\n\n　彼亦不能知，　　終不度彼岸。\n\n　若比丘精勤，　　正智不傾動，\n\n　於彼一切受，　　黠慧能悉知。\n\n　能知諸受已，　　現法盡諸漏，\n\n　依慧而命終，　　涅槃不墮數。」\n\n佛說此經已，諸比丘聞佛所說，歡喜奉行。",
+    "english_sa_text": "",
+    "parallels": [
+      {
+        "uid": "sn36.7",
+        "acronym": "SN 36.7",
+        "root_lang": "pli",
+        "original_title": "Paṭhamagelaññasutta",
+        "translated_title": "The Sick Ward (1)",
+        "type": "full",
+        "resembling": false,
+        "remark": null
+      }
+    ],
+    "primary_sn_uid": "sn36.7",
+    "pali_text": "Ekaṁ samayaṁ bhagavā vesāliyaṁ viharati mahāvane kūṭāgārasālāyaṁ. Atha kho bhagavā sāyanhasamayaṁ paṭisallānā vuṭṭhito yena gilānasālā tenupasaṅkami; upasaṅkamitvā paññatte āsane nisīdi. Nisajja kho bhagavā bhikkhū āmantesi: “Sato, bhikkhave, bhikkhu sampajāno kālaṁ āgameyya. Ayaṁ vo amhākaṁ anusāsanī. Kathañca, bhikkhave, bhikkhu sato hoti? Idha, bhikkhave, bhikkhu kāye kāyānupassī viharati ātāpī sampajāno satimā, vineyya loke abhijjhādomanassaṁ; vedanāsu vedanānupassī viharati …pe… citte cittānupassī viharati …pe… dhammesu dhammānupassī viharati ātāpī sampajāno satimā, vineyya loke abhijjhādomanassaṁ. Evaṁ kho, bhikkhave, bhikkhu sato hoti. Kathañca, bhikkhave, bhikkhu sampajāno hoti? Idha, bhikkhave, bhikkhu abhikkante paṭikkante sampajānakārī hoti, ālokite vilokite sampajānakārī hoti, samiñjite pasārite sampajānakārī hoti, saṅghāṭipattacīvaradhāraṇe sampajānakārī hoti, asite pīte khāyite sāyite sampajānakārī hoti, uccārapassāvakamme sampajānakārī hoti, gate ṭhite nisinne sutte jāgarite bhāsite tuṇhībhāve sampajānakārī hoti. Evaṁ kho, bhikkhave, bhikkhu sampajānakārī hoti. Sato, bhikkhave, bhikkhu sampajāno kālaṁ āgameyya. Ayaṁ vo amhākaṁ anusāsanī. Tassa ce, bhikkhave, bhikkhuno evaṁ satassa sampajānassa appamattassa ātāpino pahitattassa viharato uppajjati sukhā vedanā, so evaṁ pajānāti: ‘uppannā kho myāyaṁ sukhā vedanā. Sā ca kho paṭicca, no appaṭicca. Kiṁ paṭicca? Imameva kāyaṁ paṭicca. Ayaṁ kho pana kāyo anicco saṅkhato paṭiccasamuppanno. Aniccaṁ kho pana saṅkhataṁ paṭiccasamuppannaṁ kāyaṁ paṭicca uppannā sukhā vedanā kuto niccā bhavissatī’ti. So kāye ca sukhāya ca vedanāya aniccānupassī viharati, vayānupassī viharati, virāgānupassī viharati, nirodhānupassī viharati, paṭinissaggānupassī viharati. Tassa kāye ca sukhāya ca vedanāya aniccānupassino viharato, vayānupassino viharato, virāgānupassino viharato, nirodhānupassino viharato, paṭinissaggānupassino viharato, yo kāye ca sukhāya ca vedanāya rāgānusayo, so pahīyati. Tassa ce, bhikkhave, bhikkhuno evaṁ satassa sampajānassa appamattassa ātāpino pahitattassa viharato uppajjati dukkhā vedanā. So evaṁ pajānāti: ‘uppannā kho myāyaṁ dukkhā vedanā. Sā ca kho paṭicca, no appaṭicca. Kiṁ paṭicca? Imameva kāyaṁ paṭicca. Ayaṁ kho pana kāyo anicco saṅkhato paṭiccasamuppanno. Aniccaṁ kho pana saṅkhataṁ paṭiccasamuppannaṁ kāyaṁ paṭicca uppannā dukkhā vedanā kuto niccā bhavissatī’ti. So kāye ca dukkhāya ca vedanāya aniccānupassī viharati, vayānupassī viharati, virāgānupassī viharati, nirodhānupassī viharati, paṭinissaggānupassī viharati. Tassa kāye ca dukkhāya ca vedanāya aniccānupassino viharato …pe… paṭinissaggānupassino viharato, yo kāye ca dukkhāya ca vedanāya paṭighānusayo, so pahīyati. Tassa ce, bhikkhave, bhikkhuno evaṁ satassa sampajānassa appamattassa ātāpino pahitattassa viharato uppajjati adukkhamasukhā vedanā, so evaṁ pajānāti: ‘uppannā kho myāyaṁ adukkhamasukhā vedanā. Sā ca kho paṭicca, no appaṭicca. Kiṁ paṭicca? Imameva kāyaṁ paṭicca. Ayaṁ kho pana kāyo anicco saṅkhato paṭiccasamuppanno. Aniccaṁ kho pana saṅkhataṁ paṭiccasamuppannaṁ kāyaṁ paṭicca uppannā adukkhamasukhā vedanā kuto niccā bhavissatī’ti. So kāye ca adukkhamasukhāya ca vedanāya aniccānupassī viharati, vayānupassī viharati, virāgānupassī viharati, nirodhānupassī viharati, paṭinissaggānupassī viharati. Tassa kāye ca adukkhamasukhāya ca vedanāya aniccānupassino viharato …pe… paṭinissaggānupassino viharato, yo kāye ca adukkhamasukhāya ca vedanāya avijjānusayo, so pahīyati. So sukhañce vedanaṁ vedayati, sā aniccāti pajānāti, anajjhositāti pajānāti, anabhinanditāti pajānāti; dukkhañce vedanaṁ vedayati …pe… adukkhamasukhañce vedanaṁ vedayati, sā aniccāti pajānāti, anajjhositāti pajānāti, anabhinanditāti pajānāti. So sukhañce vedanaṁ vedayati, visaññutto naṁ vedayati; dukkhañce vedanaṁ vedayati, visaññutto naṁ vedayati; adukkhamasukhañce vedanaṁ vedayati, visaññutto naṁ vedayati. So kāyapariyantikaṁ vedanaṁ vedayamāno ‘kāyapariyantikaṁ vedanaṁ vedayāmī’ti pajānāti, jīvitapariyantikaṁ vedanaṁ vedayamāno ‘jīvitapariyantikaṁ vedanaṁ vedayāmī’ti pajānāti. ‘Kāyassa bhedā uddhaṁ jīvitapariyādānā idheva sabbavedayitāni anabhinanditāni sītībhavissantī’ti pajānāti. Seyyathāpi, bhikkhave, telañca paṭicca vaṭṭiñca paṭicca telappadīpo jhāyeyya, tasseva telassa ca vaṭṭiyā ca pariyādānā anāhāro nibbāyeyya; evameva kho, bhikkhave, bhikkhu kāyapariyantikaṁ vedanaṁ vedayamāno ‘kāyapariyantikaṁ vedanaṁ vedayāmī’ti pajānāti. Jīvitapariyantikaṁ vedanaṁ vedayamāno ‘jīvitapariyantikaṁ vedanaṁ vedayāmī’ti pajānāti. ‘Kāyassa bhedā uddhaṁ jīvitapariyādānā idheva sabbavedayitāni anabhinanditāni sītībhavissantī’ti pajānātī”ti. Sattamaṁ.",
+    "english_sn_text": "At one time the Buddha was staying near Vesālī, at the Great Wood, in the hall with the peaked roof. Then in the late afternoon, the Buddha came out of retreat and went to the infirmary, where he sat down on the seat spread out, and addressed the mendicants: “Mendicants, a mendicant should await their time mindful and aware. This is my instruction to you. And how is a mendicant mindful? It’s when a mendicant meditates by observing an aspect of the body—keen, aware, and mindful, rid of covetousness and displeasure for the world. They meditate observing an aspect of feelings … They meditate observing an aspect of the mind … They meditate observing an aspect of principles—keen, aware, and mindful, rid of covetousness and displeasure for the world. That’s how a mendicant is mindful. And how is a mendicant aware? It’s when a mendicant acts with situational awareness when going out and coming back; when looking ahead and aside; when bending and extending the limbs; when bearing the outer robe, bowl and robes; when eating, drinking, chewing, and tasting; when urinating and defecating; when walking, standing, sitting, sleeping, waking, speaking, and keeping silent. That’s how a mendicant acts with situational awareness. A mendicant should await their time mindful and aware. This is my instruction to you. While a mendicant is meditating like this—mindful, aware, diligent, keen, and resolute—if pleasant feelings arise, they understand: ‘A pleasant feeling has arisen in me. That’s dependent, not independent. Dependent on what? Dependent on my own body. But this body is impermanent, conditioned, dependently originated. So how could a pleasant feeling be permanent, since it has arisen dependent on a body that is impermanent, conditioned, and dependently originated?’ They meditate observing impermanence, vanishing, dispassion, cessation, and letting go in the body and pleasant feeling. As they do so, they give up the underlying tendency to greed for the body and pleasant feeling. While a mendicant is meditating like this—mindful, aware, diligent, keen, and resolute—if painful feelings arise, they understand: ‘A painful feeling has arisen in me. That’s dependent, not independent. Dependent on what? Dependent on my own body. But this body is impermanent, conditioned, dependently originated. So how could a painful feeling be permanent, since it has arisen dependent on a body that is impermanent, conditioned, and dependently originated?’ They meditate observing impermanence, vanishing, dispassion, cessation, and letting go in the body and painful feeling. As they do so, they give up the underlying tendency to aversion toward the body and painful feeling. While a mendicant is meditating like this—mindful, aware, diligent, keen, and resolute—if neutral feelings arise, they understand: ‘A neutral feeling has arisen in me. That’s dependent, not independent. Dependent on what? Dependent on my own body. But this body is impermanent, conditioned, dependently originated. So how could a neutral feeling be permanent, since it has arisen dependent on a body that is impermanent, conditioned, and dependently originated?’ They meditate observing impermanence, vanishing, dispassion, cessation, and letting go in the body and neutral feeling. As they do so, they give up the underlying tendency to ignorance toward the body and neutral feeling. If they feel a pleasant feeling, they understand that it’s impermanent, that they’re not attached to it, and that they don’t take pleasure in it. If they feel a painful feeling, they understand that it’s impermanent, that they’re not attached to it, and that they don’t take pleasure in it. If they feel a neutral feeling, they understand that it’s impermanent, that they’re not attached to it, and that they don’t take pleasure in it. If they feel a pleasant feeling, they feel it detached. If they feel a painful feeling, they feel it detached. If they feel a neutral feeling, they feel it detached. Feeling the end of the body draw close, they understand: ‘I feel the end of the body draw close.’ Feeling the end of life draw close, they understand: ‘I feel the end of life draw close.’ They understand: ‘When my body breaks up and my life has come to an end, everything that’s felt, since I no longer take pleasure in it, will become cool right here.’ Suppose an oil lamp depended on oil and a wick to burn. As the oil and the wick are used up, it would be extinguished due to not being fed. In the same way, feeling the end of the body draw close, a mendicant understands: ‘I feel the end of the body draw close.’ Feeling the end of life draw close, a mendicant understands: ‘I feel the end of life draw close.’ They understand: ‘When my body breaks up and my life is over, everything that’s felt, since I no longer take pleasure in it, will become cool right here.’”",
+    "errors": [
+      "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa1001-1100/sa1028_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+      "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa1001-1100/sa1028_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+      "used_analayo_fallback"
+    ],
+    "kumarajiva_style_text": "",
+    "modern_psychology_text": "",
+    "notes": "",
+    "review_status": "raw"
+  },
+  {
+    "id": "SA_1029",
+    "uid": "sa1029",
+    "title": "雜阿含經  卷第四十三  業報相應  （1029）  第1029經",
+    "chinese_text": "Saṁyuktāgama雜阿含經\n\n如是我聞：\n\n一時，佛住舍衛國祇樹給孤獨園……如上說。時，有眾多比丘集會迦梨隸講堂，多有疾病……如上說。差別者：「乃至聖弟子如是觀者，於色解脫，於受、想、行、識解脫，我說是等解脫生、老、病、死。」\n\n爾時，世尊即說偈言：\n\n「智慧多聞者，　　非不覺諸受，\n\n　若於苦樂受，　　分別諦明了。\n\n　當知堅固事，　　凡夫有昇降，\n\n　於樂不染著，　　於苦不傾動。\n\n　知受不受生，　　依於貪恚覺，\n\n　斷除斯等已，　　其心善解脫。\n\n　繫念緣妙境，　　正向待終期，\n\n　若比丘精勤，　　正智不傾動。\n\n　於此一切受，　　慧者能覺知，\n\n　了知諸受已，　　現法盡諸漏。\n\n　依慧而命終，　　涅槃不墮數。」\n\n佛說此經已，諸比丘歡喜，作禮而去。",
+    "english_sa_text": "",
+    "parallels": [
+      {
+        "uid": "sn36.8",
+        "acronym": "SN 36.8",
+        "root_lang": "pli",
+        "original_title": "Dutiyagelaññasutta",
+        "translated_title": "The Sick Ward (2)",
+        "type": "full",
+        "resembling": false,
+        "remark": null
+      }
+    ],
+    "primary_sn_uid": "sn36.8",
+    "pali_text": "Ekaṁ samayaṁ bhagavā vesāliyaṁ viharati mahāvane kūṭāgārasālāyaṁ. Atha kho bhagavā sāyanhasamayaṁ paṭisallānā vuṭṭhito yena gilānasālā tenupasaṅkami; upasaṅkamitvā paññatte āsane nisīdi. Nisajja kho bhagavā bhikkhū āmantesi: “Sato, bhikkhave, bhikkhu sampajāno kālaṁ āgameyya. Ayaṁ vo amhākaṁ anusāsanī. Kathañca, bhikkhave, bhikkhu sato hoti? Idha, bhikkhave, bhikkhu kāye kāyānupassī viharati ātāpī sampajāno satimā, vineyya loke abhijjhādomanassaṁ; vedanāsu vedanānupassī viharati … citte cittānupassī viharati … dhammesu dhammānupassī viharati ātāpī sampajāno satimā, vineyya loke abhijjhādomanassaṁ. Evaṁ kho, bhikkhave, bhikkhu sato hoti. Kathañca, bhikkhave, bhikkhu sampajāno hoti? Idha, bhikkhave, bhikkhu abhikkante paṭikkante sampajānakārī hoti …pe… bhāsite tuṇhībhāve sampajānakārī hoti. Evaṁ kho, bhikkhave, bhikkhu sampajāno hoti. Sato, bhikkhave, bhikkhu sampajāno kālaṁ āgameyya. Ayaṁ vo amhākaṁ anusāsanī. Tassa ce, bhikkhave, bhikkhuno evaṁ satassa sampajānassa appamattassa ātāpino pahitattassa viharato uppajjati sukhā vedanā. So evaṁ pajānāti: ‘uppannā kho myāyaṁ sukhā vedanā; sā ca kho paṭicca, no appaṭicca. Kiṁ paṭicca? Imameva phassaṁ paṭicca. Ayaṁ kho pana phasso anicco saṅkhato paṭiccasamuppanno. Aniccaṁ kho pana saṅkhataṁ paṭiccasamuppannaṁ phassaṁ paṭicca uppannā sukhā vedanā kuto niccā bhavissatī’ti. So phasse ca sukhāya ca vedanāya aniccānupassī viharati, vayānupassī viharati, virāgānupassī viharati, nirodhānupassī viharati, paṭinissaggānupassī viharati. Tassa phasse ca sukhāya ca vedanāya aniccānupassino viharato, vayānupassino viharato, virāgānupassino viharato, nirodhānupassino viharato, paṭinissaggānupassino viharato yo phasse ca sukhāya ca vedanāya rāgānusayo, so pahīyati. Tassa ce, bhikkhave, bhikkhuno evaṁ satassa …pe… viharato uppajjati dukkhā vedanā …pe… uppajjati adukkhamasukhā vedanā. So evaṁ pajānāti: ‘uppannā kho myāyaṁ adukkhamasukhā vedanā; sā ca kho paṭicca, no appaṭicca. Kiṁ paṭicca? Imameva phassaṁ paṭicca. (Yathā purimasutte, tathā vitthāretabbo.) Kāyassa bhedā uddhaṁ jīvitapariyādānā idheva sabbavedayitāni anabhinanditāni sītībhavissantī’ti pajānāti. Seyyathāpi, bhikkhave, telañca paṭicca vaṭṭiñca paṭicca telappadīpo jhāyeyya, tasseva telassa ca vaṭṭiyā ca pariyādānā anāhāro nibbāyeyya; evameva kho, bhikkhave, bhikkhu kāyapariyantikaṁ vedanaṁ vedayamāno ‘kāyapariyantikaṁ vedanaṁ vedayāmī’ti pajānāti. Jīvitapariyantikaṁ vedanaṁ vedayamāno ‘jīvitapariyantikaṁ vedanaṁ vedayāmī’ti pajānāti. ‘Kāyassa bhedā uddhaṁ jīvitapariyādānā idheva sabbavedayitāni anabhinanditāni sītībhavissantī’ti pajānātī”ti. Aṭṭhamaṁ.",
+    "english_sn_text": "At one time the Buddha was staying near Vesālī, at the Great Wood, in the hall with the peaked roof. Then in the late afternoon, the Buddha came out of retreat and went to the infirmary, where he sat down on the seat spread out, and addressed the mendicants: “Mendicants, a mendicant should await their time mindful and aware. This is my instruction to you. And how is a mendicant mindful? It’s when a mendicant meditates by observing an aspect of the body—keen, aware, and mindful, rid of covetousness and displeasure for the world. They meditate observing an aspect of feelings … They meditate observing an aspect of the mind … They meditate observing an aspect of principles—keen, aware, and mindful, rid of covetousness and displeasure for the world. That’s how a mendicant is mindful. And how is a mendicant aware? It’s when a mendicant acts with situational awareness when going out and coming back; when looking ahead and aside; when bending and extending the limbs; when bearing the outer robe, bowl and robes; when eating, drinking, chewing, and tasting; when urinating and defecating; when walking, standing, sitting, sleeping, waking, speaking, and keeping silent. That’s how a mendicant is aware. A mendicant should await their time mindful and aware. This is my instruction to you. While a mendicant is meditating like this—mindful, aware, diligent, keen, and resolute—if pleasant feelings arise, they understand: ‘A pleasant feeling has arisen in me. That’s dependent, not independent. Dependent on what? Dependent on this very contact. But this contact is impermanent, conditioned, dependently originated. So how could a pleasant feeling be permanent, since it has arisen dependent on contact that is impermanent, conditioned, and dependently originated?’ They meditate observing impermanence, vanishing, dispassion, cessation, and letting go in contact and pleasant feeling. As they do so, they give up the underlying tendency for greed for contact and pleasant feeling. While a mendicant is meditating like this—mindful, aware, diligent, keen, and resolute—if painful feelings arise … if neutral feelings arise, they understand: ‘A neutral feeling has arisen in me. That’s dependent, not independent. Dependent on what? Dependent on this very contact.’ (Tell in full as in the previous discourse.) They understand: ‘When my body breaks up and my life is over, everything that’s felt, since I no longer take pleasure in it, will become cool right here.’ Suppose an oil lamp depended on oil and a wick to burn. As the oil and the wick are used up, it would be extinguished due to not being fed. In the same way, feeling the end of the body draw close, a mendicant understands: ‘I feel the end of the body draw close.’ Feeling the end of life draw close, they understand: ‘I feel the end of life draw close.’ They understand: ‘When my body breaks up and my life is over, everything that’s felt, since I no longer take pleasure in it, will become cool right here.’”",
+    "errors": [
+      "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa1001-1100/sa1029_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+      "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa1001-1100/sa1029_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+      "used_analayo_fallback"
+    ],
+    "kumarajiva_style_text": "",
+    "modern_psychology_text": "",
+    "notes": "",
+    "review_status": "raw"
+  },
+  {
+    "id": "SA_1030",
+    "uid": "sa1030",
+    "title": "雜阿含經  卷第四十三  業報相應  （1030）  第1030經",
+    "chinese_text": "Saṁyuktāgama雜阿含經\n\n如是我聞：\n\n一時，佛住舍衛國祇樹給孤獨園。\n\n爾時，給孤獨長者得病，身極苦痛。世尊聞已，晨朝著衣持鉢，入舍衛城乞食，次第乞食至給孤獨長者舍。\n\n長者遙見世尊，馮床欲起。\n\n世尊見已，即告之言：「長者勿起！增其苦患。」世尊即坐，告長者言：「云何？長者，病可忍不？身所苦患，為增、為損？」\n\n長者白佛：「甚苦！世尊！難可堪忍……」乃至說三受，如差摩修多羅廣說，乃至「苦受但增不損。」\n\n佛告長者：「當如是學：『於佛不壞淨，於法、僧不壞淨，聖戒成就。』」\n\n長者白佛：「如世尊說四不壞淨，我有此法，此法中有我。世尊！我今於佛不壞淨，法、僧不壞淨，聖戒成就。」\n\n佛告長者：「善哉！善哉！」即記長者得阿那含果。\n\n長者白佛：「唯願世尊今於此食。」爾時，世尊默而許之。\n\n長者即勅辦種種淨美飲食，供養世尊。世尊食已，為長者種種說法，示、教、照、喜已，從坐起而去。",
+    "english_sa_text": "",
+    "parallels": [],
+    "primary_sn_uid": null,
+    "pali_text": "",
+    "english_sn_text": "",
+    "errors": [
+      "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa1001-1100/sa1030_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+      "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa1001-1100/sa1030_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+      "used_analayo_fallback"
+    ],
+    "kumarajiva_style_text": "",
+    "modern_psychology_text": "",
+    "notes": "",
+    "review_status": "raw"
+  },
+  {
+    "id": "SA_1031",
+    "uid": "sa1031",
+    "title": "雜阿含經  卷第四十三  業報相應  （1031）  第1031經",
+    "chinese_text": "Saṁyuktāgama雜阿含經\n\n如是我聞：\n\n一時，佛住舍衛國祇樹給孤獨園。\n\n時，尊者阿難聞給孤獨長者身遭苦患，往詣其舍。長者遙見阿難，馮床欲起……乃至說三受，如前叉摩修多羅廣說，乃至「苦患但增不損。」\n\n時，尊者阿難告長者言：「勿恐怖！若愚癡無聞凡夫不信於佛，不信法、僧，聖戒不具，故有恐怖，亦畏命終及後世苦。汝今不信已斷、已知，於佛淨信具足，於法、僧淨信具足，聖戒成就。」\n\n長者白尊者阿難：「我今何所恐怖？我始於王舍城寒林中丘塜間見世尊，即得於佛不壞淨，於法、僧不壞淨，聖戒成就。自從是來，家有錢財悉與佛、弟子，比丘、比丘尼、優婆塞、優婆夷共。」\n\n尊者阿難言：「善哉！長者！汝自記說是須陀洹果。」\n\n長者白尊者阿難：「可就此食。」\n\n尊者阿難默然受請。\n\n即辦種種淨美飲食，供養尊者阿難，食已，復為長者種種說法，示、教、照、喜已，從坐起而去。",
+    "english_sa_text": "",
+    "parallels": [
+      {
+        "uid": "sn55.27",
+        "acronym": "SN 55.27",
+        "root_lang": "pli",
+        "original_title": "Dutiyaanāthapiṇḍikasutta",
+        "translated_title": null,
+        "type": "full",
+        "resembling": false,
+        "remark": null
+      }
+    ],
+    "primary_sn_uid": "sn55.27",
+    "pali_text": "Sāvatthinidānaṁ. Tena kho pana samayena anāthapiṇḍiko gahapati ābādhiko hoti dukkhito bāḷhagilāno. Atha kho anāthapiṇḍiko gahapati aññataraṁ purisaṁ āmantesi: “ehi tvaṁ, ambho purisa, yenāyasmā ānando tenupasaṅkama; upasaṅkamitvā mama vacanena āyasmato ānandassa pāde sirasā vanda: ‘anāthapiṇḍiko, bhante, gahapati ābādhiko dukkhito bāḷhagilāno. So āyasmato ānandassa pāde sirasā vandatī’ti. Evañca vadehi: ‘sādhu kira, bhante, āyasmā ānando yena anāthapiṇḍikassa gahapatissa nivesanaṁ tenupasaṅkamatu anukampaṁ upādāyā’”ti. “Evaṁ, bhante”ti kho so puriso anāthapiṇḍikassa gahapatissa paṭissutvā yenāyasmā ānando tenupasaṅkami; upasaṅkamitvā āyasmantaṁ ānandaṁ abhivādetvā ekamantaṁ nisīdi. Ekamantaṁ nisinno kho so puriso āyasmantaṁ ānandaṁ etadavoca: “anāthapiṇḍiko, bhante, gahapati ābādhiko dukkhito bāḷhagilāno. So āyasmato ānandassa pāde sirasā vandati. Evañca vadati: ‘sādhu kira, bhante, āyasmā ānando yena anāthapiṇḍikassa gahapatissa nivesanaṁ tenupasaṅkamatu anukampaṁ upādāyā’”ti. Adhivāsesi kho āyasmā ānando tuṇhībhāvena. Atha kho āyasmā ānando pubbaṇhasamayaṁ nivāsetvā pattacīvaramādāya yena anāthapiṇḍikassa gahapatissa nivesanaṁ tenupasaṅkami; upasaṅkamitvā paññatte āsane nisīdi. Nisajja kho āyasmā ānando anāthapiṇḍikaṁ gahapatiṁ etadavoca: “kacci te, gahapati, khamanīyaṁ, kacci yāpanīyaṁ? Kacci dukkhā vedanā paṭikkamanti, no abhikkamanti; paṭikkamosānaṁ paññāyati, no abhikkamo”ti? “Na me, bhante, khamanīyaṁ na yāpanīyaṁ. Bāḷhā me dukkhā vedanā abhikkamanti, no paṭikkamanti; abhikkamosānaṁ paññāyati, no paṭikkamo”ti. “Catūhi kho, gahapati, dhammehi samannāgatassa assutavato puthujjanassa hoti uttāso, hoti chambhitattaṁ, hoti samparāyikaṁ maraṇabhayaṁ. Katamehi catūhi? Idha, gahapati, assutavā puthujjano buddhe appasādena samannāgato hoti. Tañca panassa buddhe appasādaṁ attani samanupassato hoti uttāso, hoti chambhitattaṁ, hoti samparāyikaṁ maraṇabhayaṁ. Puna caparaṁ, gahapati, assutavā puthujjano dhamme appasādena samannāgato hoti. Tañca panassa dhamme appasādaṁ attani samanupassato hoti uttāso, hoti chambhitattaṁ, hoti samparāyikaṁ maraṇabhayaṁ. Puna caparaṁ, gahapati, assutavā puthujjano saṅghe appasādena samannāgato hoti. Tañca panassa saṅghe appasādaṁ attani samanupassato hoti uttāso, hoti chambhitattaṁ, hoti samparāyikaṁ maraṇabhayaṁ. Puna caparaṁ, gahapati, assutavā puthujjano dussīlyena samannāgato hoti. Tañca panassa dussīlyaṁ attani samanupassato hoti uttāso, hoti chambhitattaṁ, hoti samparāyikaṁ maraṇabhayaṁ. Imehi kho, gahapati, catūhi dhammehi samannāgatassa assutavato puthujjanassa hoti uttāso, hoti chambhitattaṁ, hoti samparāyikaṁ maraṇabhayaṁ. Catūhi kho, gahapati, dhammehi samannāgatassa sutavato ariyasāvakassa na hoti uttāso, na hoti chambhitattaṁ, na hoti samparāyikaṁ maraṇabhayaṁ. Katamehi catūhi? Idha, gahapati, sutavā ariyasāvako buddhe aveccappasādena samannāgato hoti— itipi so bhagavā …pe… satthā devamanussānaṁ buddho bhagavāti. Tañca panassa buddhe aveccappasādaṁ attani samanupassato na hoti uttāso, na hoti chambhitattaṁ, na hoti samparāyikaṁ maraṇabhayaṁ. Puna caparaṁ, gahapati, sutavā ariyasāvako dhamme aveccappasādena samannāgato hoti— svākkhāto bhagavatā dhammo …pe… paccattaṁ veditabbo viññūhīti. Tañca panassa dhamme aveccappasādaṁ attani samanupassato na hoti uttāso, na hoti chambhitattaṁ, na hoti samparāyikaṁ maraṇabhayaṁ. Puna caparaṁ, gahapati, sutavā ariyasāvako saṅghe aveccappasādena samannāgato hoti— suppaṭipanno bhagavato sāvakasaṅgho …pe… anuttaraṁ puññakkhettaṁ lokassāti. Tañca panassa saṅghe aveccappasādaṁ attani samanupassato na hoti uttāso, na hoti chambhitattaṁ, na hoti samparāyikaṁ maraṇabhayaṁ. Puna caparaṁ, gahapati, sutavā ariyasāvako ariyakantehi sīlehi samannāgato hoti akhaṇḍehi …pe… samādhisaṁvattanikehi. Tāni ca panassa ariyakantāni sīlāni attani samanupassato na hoti uttāso, na hoti chambhitattaṁ, na hoti samparāyikaṁ maraṇabhayaṁ. Imehi kho, gahapati, catūhi dhammehi samannāgatassa sutavato ariyasāvakassa na hoti uttāso, na hoti chambhitattaṁ, na hoti samparāyikaṁ maraṇabhayan”ti. “Nāhaṁ, bhante ānanda, bhāyāmi. Kyāhaṁ bhāyissāmi. Ahañhi, bhante, buddhe aveccappasādena samannāgato homi— itipi so bhagavā …pe… satthā devamanussānaṁ buddho bhagavāti. Dhamme …pe… saṅghe aveccappasādena samannāgato homi— suppaṭipanno bhagavato sāvakasaṅgho …pe… anuttaraṁ puññakkhettaṁ lokassāti. Yāni cimāni, bhante, bhagavatā gihisāmīcikāni sikkhāpadāni desitāni, nāhaṁ tesaṁ kiñci attani khaṇḍaṁ samanupassāmī”ti. “Lābhā te, gahapati, suladdhaṁ te, gahapati. Sotāpattiphalaṁ tayā, gahapati, byākatan”ti. Sattamaṁ.",
+    "english_sn_text": "At Sāvatthī. Now at that time the householder Anāthapiṇḍika was sick, suffering, gravely ill. Then he addressed a man, “Please, my man, go to Venerable Ānanda, and in my name bow with your head to his feet. Say to him: ‘Sir, the householder Anāthapiṇḍika is sick, suffering, gravely ill. He bows with his head to your feet.’ And then say: ‘Sir, please visit him at his home out of sympathy.’” “Yes, sir,” that man replied. He did as Anāthapiṇḍika asked. Ānanda consented with silence. Then Venerable Ānanda robed up in the morning and, taking his bowl and robe, went to the home of the householder Anāthapiṇḍika. He sat down on the seat spread out and said to Anāthapiṇḍika, “I hope you’re keeping well, householder, I hope you’re all right. I hope your pain is fading, not growing; that its fading is evident, not its growing.” “Sir, I’m not keeping well, I’m not getting by. My pain is terrible and growing, not fading; its growing is evident, not its fading.” “Householder, when an unlearned ordinary person has four things, they’re frightened and terrified, and fear what awaits them after death. What four? Firstly, an unlearned ordinary person distrusts the Buddha. Seeing in themselves that distrust of the Buddha, they’re frightened and terrified, and fear what awaits them after death. Furthermore, an unlearned ordinary person distrusts the teaching … Furthermore, an unlearned ordinary person distrusts the Saṅgha … Furthermore, an unlearned ordinary person has unethical conduct. Seeing in themselves that unethical conduct, they’re frightened and terrified, and fear what awaits them after death. When an unlearned ordinary person has these four things, they’re frightened and terrified, and fear what awaits them after death. When a learned noble disciple has four things, they’re not frightened or terrified, and don’t fear what awaits them after death. What four? Firstly, a noble disciple has experiential confidence in the Buddha … Seeing in themselves that experiential confidence in the Buddha, they’re not frightened or terrified, and don’t fear what awaits them after death. Furthermore, a noble disciple has experiential confidence in the teaching … Furthermore, a noble disciple has experiential confidence in the Saṅgha … Furthermore, a noble disciple’s ethical conduct is loved by the noble ones, unbroken, impeccable, spotless, and unmarred, liberating, praised by sensible people, not mistaken, and leading to immersion. Seeing in themselves that ethical conduct loved by the noble ones, they’re not frightened or terrified, and don’t fear what awaits them after death. When a learned noble disciple has these four things, they’re not frightened or terrified, and don’t fear what awaits them after death.” “Honorable Ānanda, I am not afraid. What have I to fear? For I have experiential confidence in the Buddha … the teaching … the Saṅgha … And of the training rules appropriate for laypeople taught by the Buddha, I don’t see any that I have broken.” “You’re fortunate, householder, so very fortunate! You have declared the fruit of stream-entry.”",
+    "errors": [
+      "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa1001-1100/sa1031_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+      "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa1001-1100/sa1031_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+      "used_analayo_fallback"
+    ],
+    "kumarajiva_style_text": "",
+    "modern_psychology_text": "",
+    "notes": "",
+    "review_status": "raw"
+  },
+  {
+    "id": "SA_1032",
+    "uid": "sa1032",
+    "title": "雜阿含經  卷第四十三  業報相應  （1032）  第1032經",
+    "chinese_text": "Saṁyuktāgama雜阿含經\n\n如是我聞：\n\n一時，佛住舍衛國祇樹給孤獨園。\n\n爾時，尊者舍利弗聞給孤獨長者身遭苦患。聞已，語尊者阿難：「知不？給孤獨長者身遭苦患，當共往看。」尊者阿難默然而許。\n\n時，尊者舍利弗與尊者阿難共詣給孤獨長者舍。長者遙見尊者舍利弗，扶床欲起……乃至說三種受，如叉摩修多羅廣說，「身諸苦患轉增無損。」\n\n尊者舍利弗告長者言：「當如是學：『不著眼，不依眼界生貪欲識；不著耳、鼻、舌、身，意亦不著，不依意界生貪欲識。不著色，不依色界生貪欲識；不著聲、香、味、觸、法，不依法界生貪欲識。不著於地界，不依地界生貪欲識；不著於水、火、風、空、識界，不依識界生貪欲識。不著色陰，不依色陰生貪欲識；不著受、想、行、識陰，不依識陰生貪欲識。』」\n\n時，給孤獨長者悲歎流淚。尊者阿難告長者言：「汝今怯劣耶？」\n\n長者白阿難：「不怯劣也。我自顧念，奉佛以來二十餘年，未聞尊者舍利弗說深妙法，如今所聞。」\n\n尊者舍利弗告長者言：「我亦久來未嘗為諸長者說如是法。」\n\n長者白尊者舍利弗：「有居家白衣，有勝信、勝念、勝樂，不聞深法，而生退沒。善哉！尊者舍利弗！當為居家白衣說深妙法，以哀愍故！尊者舍利弗！今於此食。」尊者舍利弗等默然受請。\n\n即設種種淨美飲食，恭敬供養。食已，復為長者種種說法，示、教、照、喜；示、教、照、喜已，即從坐起而去。",
+    "english_sa_text": "",
+    "parallels": [
+      {
+        "uid": "ea51.8",
+        "acronym": "EA 51.8",
+        "root_lang": "lzh",
+        "original_title": "",
+        "translated_title": null,
+        "type": "full",
+        "resembling": true,
+        "remark": null
+      },
+      {
+        "uid": "ma28",
+        "acronym": "MA 28",
+        "root_lang": "lzh",
+        "original_title": "教化病",
+        "translated_title": null,
+        "type": "full",
+        "resembling": true,
+        "remark": null
+      },
+      {
+        "uid": "mn143",
+        "acronym": "MN 143",
+        "root_lang": "pli",
+        "original_title": "Anāthapiṇḍikovādasutta",
+        "translated_title": "The Exhortation to Anāthapiṇḍika",
+        "type": "full",
+        "resembling": true,
+        "remark": null
+      },
+      {
+        "uid": "sa-2.187",
+        "acronym": "SA2 187",
+        "root_lang": "lzh",
+        "original_title": "須達生天",
+        "translated_title": null,
+        "type": "full",
+        "resembling": true,
+        "remark": null
+      },
+      {
+        "uid": "sa593",
+        "acronym": "SA 593",
+        "root_lang": "lzh",
+        "original_title": "須達生天",
+        "translated_title": null,
+        "type": "full",
+        "resembling": true,
+        "remark": null
+      },
+      {
+        "uid": "sht-sutta66",
+        "acronym": "SHT Sutta 66",
+        "root_lang": "san",
+        "original_title": "",
+        "translated_title": null,
+        "type": "full",
+        "resembling": true,
+        "remark": null
+      },
+      {
+        "uid": "sn2.20",
+        "acronym": "SN 2.20",
+        "root_lang": "pli",
+        "original_title": "Anāthapiṇḍikasutta",
+        "translated_title": null,
+        "type": "full",
+        "resembling": true,
+        "remark": null
+      },
+      {
+        "uid": "sn55.26",
+        "acronym": "SN 55.26",
+        "root_lang": "pli",
+        "original_title": "Paṭhamaanāthapiṇḍikasutta",
+        "translated_title": null,
+        "type": "full",
+        "resembling": true,
+        "remark": null
+      }
+    ],
+    "primary_sn_uid": "sn2.20",
+    "pali_text": "Ekamantaṁ ṭhito kho anāthapiṇḍiko devaputto bhagavato santike imā gāthāyo abhāsi: “Idañhi taṁ jetavanaṁ, isisaṅghanisevitaṁ; Āvutthaṁ dhammarājena, pītisañjananaṁ mama. Kammaṁ vijjā ca dhammo ca, sīlaṁ jīvitamuttamaṁ; Etena maccā sujjhanti, na gottena dhanena vā. Tasmā hi paṇḍito poso, sampassaṁ atthamattano; Yoniso vicine dhammaṁ, evaṁ tattha visujjhati. Sāriputtova paññāya, sīlena upasamena ca; Yopi pāraṅgato bhikkhu, etāvaparamo siyā”ti. Idamavoca anāthapiṇḍiko devaputto. Idaṁ vatvā bhagavantaṁ abhivādetvā padakkhiṇaṁ katvā tatthevantaradhāyi. Atha kho bhagavā tassā rattiyā accayena bhikkhū āmantesi: “imaṁ, bhikkhave, rattiṁ aññataro devaputto abhikkantāya rattiyā abhikkantavaṇṇo kevalakappaṁ jetavanaṁ obhāsetvā yenāhaṁ tenupasaṅkami; upasaṅkamitvā maṁ abhivādetvā ekamantaṁ aṭṭhāsi. Ekamantaṁ ṭhito kho, bhikkhave, so devaputto mama santike imā gāthāyo abhāsi: ‘Idañhi taṁ jetavanaṁ, isisaṅghanisevitaṁ; Āvutthaṁ dhammarājena, pītisañjananaṁ mama. Kammaṁ vijjā ca dhammo ca, sīlaṁ jīvitamuttamaṁ; Etena maccā sujjhanti, na gottena dhanena vā. Tasmā hi paṇḍito poso, sampassaṁ atthamattano; Yoniso vicine dhammaṁ, evaṁ tattha visujjhati. Sāriputtova paññāya, sīlena upasamena ca; Yopi pāraṅgato bhikkhu, etāvaparamo siyā’ti. Idamavoca, bhikkhave, so devaputto. Idaṁ vatvā maṁ abhivādetvā padakkhiṇaṁ katvā tatthevantaradhāyī”ti. Evaṁ vutte, āyasmā ānando bhagavantaṁ etadavoca: “so hi nūna, bhante, anāthapiṇḍiko devaputto bhavissati. Anāthapiṇḍiko gahapati āyasmante sāriputte abhippasanno ahosī”ti. “Sādhu sādhu, ānanda, yāvatakaṁ kho, ānanda, takkāya pattabbaṁ anuppattaṁ taṁ tayā. Anāthapiṇḍiko hi so, ānanda, devaputto”ti. Anāthapiṇḍikavaggo dutiyo. Tassuddānaṁ Candimaso ca veṇḍu ca, Dīghalaṭṭhi ca nandano; Candano vāsudatto ca, Subrahmā kakudhena ca; Uttaro navamo vutto, Dasamo anāthapiṇḍikoti.",
+    "english_sn_text": "Standing to one side, the godling Anāthapiṇḍika recited these verses in the Buddha’s presence: “This is indeed that Jeta’s Grove, frequented by the Saṅgha of seers, where the King of Dhamma stayed: it brings me joy! Deeds, knowledge, and principle; ethical conduct, an excellent livelihood; by these are mortals purified, not by clan or wealth. That’s why an astute person, seeing what’s good for themselves, would examine the teaching rationally, that’s how they become purified in that. Sāriputta is full of wisdom, ethics, and peace. Even a mendicant who has crossed over might at best equal him.” That is what the godling Anāthapiṇḍika said. Then he bowed and respectfully circled the Buddha, keeping him on his right, before vanishing right there. Then, when the night had passed, the Buddha addressed the mendicants: “Mendicants, tonight, a certain glorious godling, lighting up the entire Jeta’s Grove, came to me, bowed, stood to one side, and recited these verses in my presence.” The Buddha then repeated the verses in full. When he said this, Venerable Ānanda said to the Buddha, “Sir, that godling must surely have been Anāthapiṇḍika. For the householder Anāthapiṇḍika was devoted to Venerable Sāriputta.” “Good, good, Ānanda. You’ve reached the logical conclusion, as far as logic goes. For that was indeed the godling Anāthapiṇḍika.”",
+    "errors": [
+      "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa1001-1100/sa1032_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+      "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa1001-1100/sa1032_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+      "used_analayo_fallback"
+    ],
+    "kumarajiva_style_text": "",
+    "modern_psychology_text": "",
+    "notes": "",
+    "review_status": "raw"
+  },
+  {
+    "id": "SA_1033",
+    "uid": "sa1033",
+    "title": "雜阿含經  卷第四十三  業報相應  （1033）  第1033經",
+    "chinese_text": "Saṁyuktāgama雜阿含經\n\n達磨提離長者修多羅亦如世尊為給孤獨長者初修多羅廣說，第二修多羅亦如是說。差別者：「若復長者依此四不壞淨已，於上修習六念：謂念如來事，乃至念天。」\n\n長者白佛言：「世尊！依四不壞淨，於上修六隨念，我今悉成就，我常修念如來事，乃至念天。」\n\n佛告長者：「善哉！善哉！汝今自記阿那含果。」\n\n長者白佛：「唯願世尊受我請食。」爾時，世尊默然受請。\n\n長者知佛受請已，即具種種淨美飲食，恭敬供養，世尊食已，復為長者種種說法，示、教、照、喜已，從坐起而去。",
+    "english_sa_text": "",
+    "parallels": [
+      {
+        "uid": "sn55.53",
+        "acronym": "SN 55.53",
+        "root_lang": "pli",
+        "original_title": "Dhammadinnasutta",
+        "translated_title": null,
+        "type": "full",
+        "resembling": false,
+        "remark": null
+      }
+    ],
+    "primary_sn_uid": "sn55.53",
+    "pali_text": "Ekaṁ samayaṁ bhagavā bārāṇasiyaṁ viharati isipatane migadāye. Atha kho dhammadinno upāsako pañcahi upāsakasatehi saddhiṁ yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṁ abhivādetvā ekamantaṁ nisīdi. Ekamantaṁ nisinno kho dhammadinno upāsako bhagavantaṁ etadavoca: “ovadatu no, bhante, bhagavā; anusāsatu no, bhante, bhagavā yaṁ amhākaṁ assa dīgharattaṁ hitāya sukhāyā”ti. “Tasmātiha vo, dhammadinna, evaṁ sikkhitabbaṁ: ‘ye te suttantā tathāgatabhāsitā gambhīrā gambhīratthā lokuttarā suññatapaṭisaṁyuttā te kālena kālaṁ upasampajja viharissāmā’ti. Evañhi vo, dhammadinna, sikkhitabban”ti. “Na kho netaṁ, bhante, sukaraṁ amhehi puttasambādhasayanaṁ ajjhāvasantehi kāsikacandanaṁ paccanubhontehi mālāgandhavilepanaṁ dhārayantehi jātarūparajataṁ sādiyantehi— ye te suttantā tathāgatabhāsitā gambhīrā gambhīratthā lokuttarā suññatapaṭisaṁyuttā te kālena kālaṁ upasampajja viharituṁ. Tesaṁ no, bhante, bhagavā amhākaṁ pañcasu sikkhāpadesu ṭhitānaṁ uttaridhammaṁ desetū”ti. “Tasmātiha vo, dhammadinna, evaṁ sikkhitabbaṁ: ‘buddhe aveccappasādena samannāgatā bhavissāma— itipi so bhagavā …pe… satthā devamanussānaṁ buddho bhagavāti. Dhamme …pe… saṅghe …pe… ariyakantehi sīlehi samannāgatā bhavissāma akhaṇḍehi …pe… samādhisaṁvattanikehī’ti. Evañhi vo, dhammadinna, sikkhitabban”ti. “Yānimāni, bhante, bhagavatā cattāri sotāpattiyaṅgāni desitāni, saṁvijjante dhammā amhesu, mayañca tesu dhammesu sandissāma. Mayañhi, bhante, buddhe aveccappasādena samannāgatā— itipi so bhagavā …pe… satthā devamanussānaṁ buddho bhagavāti. Dhamme …pe… saṅghe …pe… ariyakantehi sīlehi samannāgatā akhaṇḍehi …pe… samādhisaṁvattanikehī”ti. “Lābhā vo, dhammadinna, suladdhaṁ vo, dhammadinna. Sotāpattiphalaṁ tumhehi byākatan”ti. Tatiyaṁ.",
+    "english_sn_text": "At one time the Buddha was staying near Varanasi in the deer park at Isipatana. Then the lay follower Dhammadinna, together with five hundred lay followers, went up to the Buddha, bowed, sat down to one side, and said to him: “May the Buddha please advise and instruct us. It will be for our lasting welfare and happiness.” “So, Dhammadinna, you should all train like this: ‘From time to time we will undertake and dwell upon the discourses spoken by the Realized One that are deep, profound, transcendent, dealing with emptiness.’ That’s how you should train yourselves.” “Sir, we live at home with our children, using sandalwood imported from Kāsi, wearing garlands, fragrance, and makeup, and accepting gold and currency. It’s not easy for us to undertake and dwell from time to time upon the discourses spoken by the Realized One that are deep, profound, transcendent, dealing with emptiness. Since we are established in the five training rules, please teach us further.” “So, Dhammadinna, you should all train like this: ‘We will have experiential confidence in the Buddha … the teaching … the Saṅgha … And we will have the ethical conduct loved by the noble ones … leading to immersion.’ That’s how you should train yourselves.” “Sir, these four factors of stream-entry that were taught by the Buddha are found in us, and we embody them. For we have experiential confidence in the Buddha … the teaching … the Saṅgha … And we have the ethical conduct loved by the noble ones … leading to immersion.” “You’re all fortunate, Dhammadinna, so very fortunate! You’ve all declared the fruit of stream-entry.”",
+    "errors": [
+      "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa1001-1100/sa1033_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+      "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa1001-1100/sa1033_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+      "used_analayo_fallback"
+    ],
+    "kumarajiva_style_text": "",
+    "modern_psychology_text": "",
+    "notes": "",
+    "review_status": "raw"
+  },
+  {
+    "id": "SA_1034",
+    "uid": "sa1034",
+    "title": "雜阿含經  卷第四十三  業報相應  （1034）  第1034經",
+    "chinese_text": "Saṁyuktāgama雜阿含經\n\n如是我聞：\n\n一時，佛住王舍城迦蘭陀竹園。\n\n時，有長壽童子，是樹提長者孫子，身嬰重病。\n\n爾時，世尊聞長壽童子身嬰重病，晨朝著衣持鉢，入王舍城乞食，次第到長壽童子舍。長壽童子遙見世尊，扶床欲起……乃至說三受，如叉摩修多羅廣說，乃至「病苦但增無損。是故，童子！當如是學：『於佛不壞淨，於法、僧不壞淨，聖戒成就。』當如是學。」\n\n童子白佛言：「世尊！如世尊說四不壞淨，我今悉有，我常於佛不壞淨，於法、僧不壞淨，聖戒成就。」\n\n佛告童子：「汝當依四不壞淨，於上修習六明分想。何等為六？謂一切行無常想、無常苦想、苦無我想、觀食想、一切世間不可樂想、死想。」\n\n童子白佛言：「如世尊說，依四不壞淨，修習六明分想，我今悉有。然我作是念：『我命終後，不知我祖父樹提長者當云何？』」\n\n爾時，樹提長者語長壽童子言：「汝於我所，故念且停。汝今且聽世尊說法，思惟憶念，可得長夜福利安樂饒益。」\n\n時，長壽童子言：「我於一切諸行當作無常想、無常苦想、苦無我想、觀食想、一切世間不可樂想、死想，常現在前。」\n\n佛告童子：「汝今自記斯陀含果。」\n\n長壽童子白佛言：「世尊！唯願世尊住我舍食。」爾時世尊默然而許。\n\n長壽童子即辦種種淨美飲食，恭敬供養。世尊食已，復為童子種種說法，示、教、照、喜已，從坐起而去。",
+    "english_sa_text": "",
+    "parallels": [
+      {
+        "uid": "sn55.3",
+        "acronym": "SN 55.3",
+        "root_lang": "pli",
+        "original_title": "Dīghāvuupāsakasutta",
+        "translated_title": "Dīghāvu upāsaka",
+        "type": "full",
+        "resembling": false,
+        "remark": null
+      }
+    ],
+    "primary_sn_uid": "sn55.3",
+    "pali_text": "Ekaṁ samayaṁ bhagavā rājagahe viharati veḷuvane kalandakanivāpe. Tena kho pana samayena dīghāvu upāsako ābādhiko hoti dukkhito bāḷhagilāno. Atha kho dīghāvu upāsako pitaraṁ jotikaṁ gahapatiṁ āmantesi: “ehi tvaṁ, gahapati, yena bhagavā tenupasaṅkama; upasaṅkamitvā mama vacanena bhagavato pāde sirasā vanda: ‘dīghāvu, bhante, upāsako ābādhiko hoti dukkhito bāḷhagilāno. So bhagavato pāde sirasā vandatī’ti. Evañca vadehi: ‘sādhu kira, bhante, bhagavā yena dīghāvussa upāsakassa nivesanaṁ tenupasaṅkamatu anukampaṁ upādāyā’”ti. “Evaṁ, tātā”ti kho jotiko gahapati dīghāvussa upāsakassa paṭissutvā yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṁ abhivādetvā ekamantaṁ nisīdi. Ekamantaṁ nisinno kho jotiko gahapati bhagavantaṁ etadavoca: “dīghāvu, bhante, upāsako ābādhiko hoti dukkhito bāḷhagilāno. So bhagavato pāde sirasā vandati. Evañca vadeti: ‘sādhu kira, bhante, bhagavā yena dīghāvussa upāsakassa nivesanaṁ tenupasaṅkamatu anukampaṁ upādāyā’”ti. Adhivāsesi bhagavā tuṇhībhāvena. Atha kho bhagavā nivāsetvā pattacīvaramādāya yena dīghāvussa upāsakassa nivesanaṁ tenupasaṅkami; upasaṅkamitvā paññatte āsane nisīdi. Nisajja kho bhagavā dīghāvuṁ upāsakaṁ etadavoca: “kacci te, dīghāvu, khamanīyaṁ, kacci yāpanīyaṁ? Kacci dukkhā vedanā paṭikkamanti, no abhikkamanti; paṭikkamosānaṁ paññāyati, no abhikkamo”ti? “Na me, bhante, khamanīyaṁ, na yāpanīyaṁ. Bāḷhā me dukkhā vedanā abhikkamanti, no paṭikkamanti; abhikkamosānaṁ paññāyati, no paṭikkamo”ti. “Tasmātiha te, dīghāvu, evaṁ sikkhitabbaṁ: ‘buddhe aveccappasādena samannāgato bhavissāmi—itipi so bhagavā arahaṁ sammāsambuddho vijjācaraṇasampanno sugato lokavidū anuttaro purisadammasārathi satthā devamanussānaṁ buddho bhagavāti. Dhamme …pe… saṅghe …pe… ariyakantehi sīlehi samannāgato bhavissāmi akhaṇḍehi …pe… samādhisaṁvattanikehi’. Evañhi te, dīghāvu, sikkhitabban”ti. “Yānimāni, bhante, bhagavatā cattāri sotāpattiyaṅgāni desitāni, saṁvijjante dhammā mayi, ahañca tesu dhammesu sandissāmi. Ahañhi, bhante, buddhe aveccappasādena samannāgato—itipi so bhagavā …pe… satthā devamanussānaṁ buddho bhagavāti. Dhamme …pe… saṅghe …pe… ariyakantehi sīlehi samannāgato akhaṇḍehi …pe… samādhisaṁvattanikehī”ti. “Tasmātiha tvaṁ, dīghāvu, imesu catūsu sotāpattiyaṅgesu patiṭṭhāya cha vijjābhāgiye dhamme uttari bhāveyyāsi. Idha tvaṁ, dīghāvu, sabbasaṅkhāresu aniccānupassī viharāhi, anicce dukkhasaññī, dukkhe anattasaññī pahānasaññī virāgasaññī nirodhasaññīti. Evañhi te, dīghāvu, sikkhitabban”ti. “Yeme, bhante, bhagavatā cha vijjābhāgiyā dhammā desitā, saṁvijjante dhammā mayi, ahañca tesu dhammesu sandissāmi. Ahañhi, bhante, sabbasaṅkhāresu aniccānupassī viharāmi, anicce dukkhasaññī, dukkhe anattasaññī pahānasaññī virāgasaññī nirodhasaññī. Api ca me, bhante, evaṁ hoti: ‘mā hevāyaṁ jotiko gahapati mamaccayena vighātaṁ āpajjī’”ti. “Mā tvaṁ, tāta dīghāvu, evaṁ manasākāsi. Iṅgha tvaṁ, tāta dīghāvu, yadeva te bhagavā āha, tadeva tvaṁ sādhukaṁ manasi karohī”ti. Atha kho bhagavā dīghāvuṁ upāsakaṁ iminā ovādena ovaditvā uṭṭhāyāsanā pakkāmi. Atha kho dīghāvu upāsako acirapakkantassa bhagavato kālamakāsi. Atha kho sambahulā bhikkhū yena bhagavā tenupasaṅkamiṁsu; upasaṅkamitvā bhagavantaṁ abhivādetvā ekamantaṁ nisīdiṁsu. Ekamantaṁ nisinnā kho te bhikkhū bhagavantaṁ etadavocuṁ: “yo so, bhante, dīghāvu nāma upāsako bhagavatā saṅkhittena ovādena ovadito so kālaṅkato. Tassa kā gati, ko abhisamparāyo”ti? “Paṇḍito, bhikkhave, dīghāvu upāsako, paccapādi dhammassānudhammaṁ, na ca maṁ dhammādhikaraṇaṁ vihesesi. Dīghāvu, bhikkhave, upāsako pañcannaṁ orambhāgiyānaṁ saṁyojanānaṁ parikkhayā opapātiko tattha parinibbāyī anāvattidhammo tasmā lokā”ti. Tatiyaṁ.",
+    "english_sn_text": "At one time the Buddha was staying near Rājagaha in the Bamboo Grove, the squirrels’ feeding ground. Now at that time the lay follower Dīghāvu was sick, suffering, gravely ill. Then he addressed his father, the householder Jotika, “Please, householder, go to the Buddha, and in my name bow with your head to his feet. Say to him: ‘Sir, the lay follower Dīghāvu is sick, suffering, gravely ill. He bows with his head to your feet.’ And then say: ‘Sir, please visit him at his home out of sympathy.’” “Yes, dear,” replied Jotika. He did as Dīghāvu asked. The Buddha consented with silence. Then the Buddha robed up in the morning and, taking his bowl and robe, went to the home of the lay follower Dīghāvu, sat down on the seat spread out, and said to him, “I hope you’re keeping well, Dīghāvu, I hope you’re all right. I hope your pain is fading, not growing; that its fading is evident, not its growing.” “Sir, I’m not keeping well, I’m not getting by. My pain is terrible and growing, not fading; its growing is evident, not its fading.” “So, Dīghāvu, you should train like this: ‘I will have experiential confidence in the Buddha … the teaching … the Saṅgha … And I will have the ethical conduct loved by the noble ones … leading to immersion.’ That’s how you should train.” “Sir, these four factors of stream-entry that were taught by the Buddha are found in me, and I exhibit them. For I have experiential confidence in the Buddha … the teaching … the Saṅgha … And I have the ethical conduct loved by the noble ones … leading to immersion.” “In that case, Dīghāvu, grounded on these four factors of stream-entry you should further develop these six things that play a part in realization. You should meditate observing the impermanence of all conditions, perceiving suffering in impermanence, perceiving not-self in suffering, perceiving giving up, perceiving fading away, and perceiving cessation. That’s how you should train.” “These six things that play a part in realization that were taught by the Buddha are found in me, and I exhibit them. For I meditate observing the impermanence of all conditions, perceiving suffering in impermanence, perceiving not-self in suffering, perceiving giving up, perceiving fading away, and perceiving cessation. But still, sir, I think, ‘I hope Jotika doesn’t suffer distress when I’ve gone.’” Jotika said, “Dear Dīghāvu, don’t focus on that. Come on, dear Dīghāvu, you should closely focus on what the Buddha is saying.” When the Buddha had given this advice he rose from his seat and left. Not long after the Buddha left, Dīghāvu passed away. Then several mendicants went up to the Buddha, bowed, sat down to one side, and said to him: “Sir, the lay follower named Dīghāvu, who was advised in brief by the Buddha, has passed away. Where has he been reborn in his next life?” “Mendicants, the lay follower Dīghāvu was astute. He practiced in line with the teaching, and did not trouble me about the teachings. With the ending of the five lower fetters, he’s been reborn spontaneously, and will become extinguished there, not liable to return from that world.”",
+    "errors": [
+      "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa1001-1100/sa1034_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+      "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa1001-1100/sa1034_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+      "used_analayo_fallback"
+    ],
+    "kumarajiva_style_text": "",
+    "modern_psychology_text": "",
+    "notes": "",
+    "review_status": "raw"
+  },
+  {
+    "id": "SA_1035",
+    "uid": "sa1035",
+    "title": "雜阿含經  卷第四十三  業報相應  （1035）  第1035經",
+    "chinese_text": "Saṁyuktāgama雜阿含經\n\n如是我聞：\n\n一時，佛住波羅［木＊奈］國仙人住處鹿野苑中。\n\n時，婆藪長者身遭苦患。\n\n爾時，世尊聞婆藪長者身遭苦患……如前達摩提那長者修多羅廣說，得阿那含果記，乃至從坐起而去。",
+    "english_sa_text": "",
+    "parallels": [],
+    "primary_sn_uid": null,
+    "pali_text": "",
+    "english_sn_text": "",
+    "errors": [
+      "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa1001-1100/sa1035_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+      "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa1001-1100/sa1035_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+      "used_analayo_fallback"
+    ],
+    "kumarajiva_style_text": "",
+    "modern_psychology_text": "",
+    "notes": "",
+    "review_status": "raw"
+  },
+  {
+    "id": "SA_1036",
+    "uid": "sa1036",
+    "title": "雜阿含經  卷第四十三  業報相應  （1036）  第1036經",
+    "chinese_text": "Saṁyuktāgama雜阿含經\n\n如是我聞：\n\n一時，佛住迦毘羅衛國尼拘律園中。\n\n時，有釋氏沙羅疾病委篤。\n\n爾時，世尊聞釋氏沙羅疾病委篤，晨朝著衣持鉢，入迦維羅衛國乞食，次到釋氏沙羅舍。釋氏沙羅遙見世尊，扶床欲起……乃至說三受，如差摩迦修多羅廣說，乃至「患苦但增不損。是故，釋氏沙羅，當如是學：『於佛不壞淨，於法、僧不壞淨，聖戒成就。』」\n\n釋氏沙羅白佛言：「如世尊說：『於佛不壞淨，於法、僧不壞淨，聖戒成就。』我悉有之，我常於佛不壞淨，於法、僧不壞淨，聖戒成就。」\n\n佛告釋氏沙羅：「是故，汝當依佛不壞淨，法、僧不壞淨，聖戒成就，於上修習五喜處。何等為五？謂念如來事，乃至自所施法。」\n\n釋氏沙羅白佛言：「如世尊說，依四不壞淨，修五喜處，我亦有之，我常念如來事，乃至自所施法。」\n\n佛言：「善哉！善哉！汝今自記斯陀含果。」\n\n沙羅白佛：「唯願世尊今我舍食。」爾時，世尊默然而許。\n\n沙羅長者即辦種種淨美飲食，恭敬供養，世尊食已，復為沙羅長者種種說法，示、教、照、喜已，從坐起而去。",
+    "english_sa_text": "",
+    "parallels": [
+      {
+        "uid": "sn55.39",
+        "acronym": "SN 55.39",
+        "root_lang": "pli",
+        "original_title": "Kāḷigodhasutta",
+        "translated_title": null,
+        "type": "full",
+        "resembling": false,
+        "remark": null
+      }
+    ],
+    "primary_sn_uid": "sn55.39",
+    "pali_text": "Ekaṁ samayaṁ bhagavā sakkesu viharati kapilavatthusmiṁ nigrodhārāme. Atha kho bhagavā pubbaṇhasamayaṁ nivāsetvā pattacīvaramādāya yena kāḷigodhāya sākiyāniyā nivesanaṁ tenupasaṅkami; upasaṅkamitvā paññatte āsane nisīdi. Atha kho kāḷigodhā sākiyānī yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṁ abhivādetvā ekamantaṁ nisīdi. Ekamantaṁ nisinnaṁ kho kāḷigodhaṁ sākiyāniṁ bhagavā etadavoca: “Catūhi kho, godhe, dhammehi samannāgatā ariyasāvikā sotāpannā hoti avinipātadhammā niyatā sambodhiparāyaṇā. Katamehi catūhi? Idha, godhe, ariyasāvikā buddhe aveccappasādena samannāgatā hoti— itipi so bhagavā …pe… satthā devamanussānaṁ buddho bhagavāti. Dhamme …pe… saṅghe …pe… vigatamalamaccherena cetasā agāraṁ ajjhāvasati muttacāgā payatapāṇinī vossaggaratā yācayogā dānasaṁvibhāgaratā. Imehi kho, godhe, catūhi dhammehi samannāgatā ariyasāvikā sotāpannā hoti avinipātadhammā niyatā sambodhiparāyaṇā”ti. “Yānimāni, bhante, bhagavatā cattāri sotāpattiyaṅgāni desitāni, saṁvijjante dhammā mayi, ahañca tesu dhammesu sandissāmi. Ahañhi, bhante, buddhe aveccappasādena samannāgatā— itipi so bhagavā …pe… satthā devamanussānaṁ buddho bhagavāti. Dhamme …pe… saṅghe …pe… yaṁ kho pana kiñci kule deyyadhammaṁ sabbaṁ taṁ appaṭivibhattaṁ sīlavantehi kalyāṇadhammehī”ti. “Lābhā te, godhe, suladdhaṁ te, godhe. Sotāpattiphalaṁ tayā, godhe, byākatan”ti. Navamaṁ.",
+    "english_sn_text": "At one time the Buddha was staying in the land of the Sakyans, near Kapilavatthu in the Banyan Tree Monastery. Then the Buddha robed up in the morning and, taking his bowl and robe, went to the home of Kāḷigodhā the Sakyan lady, where he sat down on the seat spread out. Then Kāḷigodhā went up to the Buddha, bowed, and sat down to one side. The Buddha said to her: “Godhā, a female noble disciple who has four things is a stream-enterer, not liable to be reborn in the underworld, assured, destined for awakening. What four? It’s when a female noble disciple has experiential confidence in the Buddha … the teaching … the Saṅgha … And she lives at home with heart rid of the stain of stinginess, freely generous, open-handed, loving to let go, committed to charity, loving to give and to share. A female noble disciple who has these four things is a stream-enterer, not liable to be reborn in the underworld, assured, destined for awakening.” “Sir, these four factors of stream-entry that were taught by the Buddha are found in me, and I exhibit them. For I have experiential confidence in the Buddha … the teaching … the Saṅgha … And I share without reservation all the gifts available to give in our family with those who are ethical and of good character.” “You’re fortunate, Godhā, so very fortunate, You have declared the fruit of stream-entry.”",
+    "errors": [
+      "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa1001-1100/sa1036_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+      "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa1001-1100/sa1036_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+      "used_analayo_fallback"
+    ],
+    "kumarajiva_style_text": "",
+    "modern_psychology_text": "",
+    "notes": "",
+    "review_status": "raw"
+  },
+  {
+    "id": "SA_1037",
+    "uid": "sa1037",
+    "title": "雜阿含經  卷第四十三  業報相應  （1037）  第1037經",
+    "chinese_text": "Saṁyuktāgama雜阿含經\n\n如是我聞：\n\n一時，佛住那梨聚落曲谷精舍。\n\n爾時，耶輸長者疾病困篤……如是乃至得阿那含果記，如達摩提那修多羅廣說。",
+    "english_sa_text": "",
+    "parallels": [],
+    "primary_sn_uid": null,
+    "pali_text": "",
+    "english_sn_text": "",
+    "errors": [
+      "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa1001-1100/sa1037_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+      "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa1001-1100/sa1037_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+      "used_analayo_fallback"
+    ],
+    "kumarajiva_style_text": "",
+    "modern_psychology_text": "",
+    "notes": "",
+    "review_status": "raw"
+  },
+  {
+    "id": "SA_1038",
+    "uid": "sa1038",
+    "title": "雜阿含經  卷第四十三  業報相應  （1038）  第1038經",
+    "chinese_text": "Saṁyuktāgama雜阿含經\n\n如是我聞：\n\n一時，佛住瞻婆國竭伽池側。時，有摩那提那長者疾病新差。\n\n時，摩那提長者語一士夫言：「善男子！汝往尊者阿那律所，為我稽首阿那律足，問訊起居輕利、安樂住不？明日通身四人願受我請。若受請者，汝復為我白言：『我俗人多有王家事，不能得自往奉迎，唯願尊者時到，通身四人來赴我請，哀愍故！』」\n\n時，彼男子受長者教，詣尊者阿那律所，稽首禮足。白言尊者：「摩那提那長者敬禮問訊：『少病少惱、起居輕利、安樂住不？唯願尊者通身四人明日日中，哀受我請。』」時，尊者阿那律默然受請。\n\n時，彼士夫復以摩那提那長者語白尊者阿那律：「我是俗人，多有王家事，不得躬自奉迎，唯願尊者通身四人明日日中，哀受我請，憐愍故！」\n\n尊者阿那律陀言：「汝且自安！我自知時，明日通身四人往詣其舍。」\n\n時，彼士夫受尊者阿那律教，還白長者：「阿梨！當知我已詣尊者阿那律，具宣尊意。尊者阿那律言：『汝且自安，我自知時。』」\n\n彼長者摩那提那夜辦淨美飲食。晨朝復告彼士夫：「汝往至彼尊者阿那律所，白言：『時到。』」\n\n時，彼士夫即受教，行詣尊者阿那律所，稽首禮足，白言：「供具已辦，唯願知時！」\n\n時，尊者阿那律著衣持鉢，通身四人詣長者舍。\n\n時，摩那提那長者婇女圍遶，住內門左，見尊者阿那律，舉體執足敬禮，引入就坐，各別稽首，問訊起居，退坐一面。\n\n尊者阿那律問訊長者：「堪忍安樂住不？」\n\n長者答言：「如是，尊者！堪忍樂住。先遭疾病，當時委篤，今已蒙差。」\n\n尊者阿那律問長者言：「汝住何住，能令疾病苦患時得除差？」\n\n長者白言：「尊者阿那律！我住四念處，專修繫念故，身諸苦患時得休息。何等為四？謂內身身觀念住，精勤方便，正念正智，調伏世間貪憂。外身、內外身，內受、外受、內外受，內心、外心、內外心，內法、外法、內外法法觀念住，精勤方便，正念正智，調伏世間貪憂。如是，尊者阿那律！我於四念處繫心住故，身諸苦患時得休息，尊者阿那律，住故，身諸苦患時得休息。」\n\n尊者阿那律告長者言：「汝今自記阿那含果。」\n\n時，摩那提那長者以種種淨美飲食自手供養，自恣飽滿。食已，澡漱畢，摩那提那長者復坐卑床，聽說法。尊者阿那律種種說法，示、教、照、喜已，從坐起去。",
+    "english_sa_text": "",
+    "parallels": [
+      {
+        "uid": "sn47.30",
+        "acronym": "SN 47.30",
+        "root_lang": "pli",
+        "original_title": "Mānadinnasutta",
+        "translated_title": "Manadinna",
+        "type": "full",
+        "resembling": false,
+        "remark": null
+      }
+    ],
+    "primary_sn_uid": "sn47.30",
+    "pali_text": "Taṁyeva nidānaṁ. Tena kho pana samayena mānadinno gahapati ābādhiko hoti dukkhito bāḷhagilāno. Atha kho mānadinno gahapati aññataraṁ purisaṁ āmantesi: “ehi tvaṁ, ambho purisa …pe… na me, bhante, khamanīyaṁ na yāpanīyaṁ. Bāḷhā me dukkhā vedanā abhikkamanti, no paṭikkamanti; abhikkamosānaṁ paññāyati, no paṭikkamoti. Evarūpāya cāhaṁ, bhante, dukkhāya vedanāya phuṭṭho samāno kāye kāyānupassī viharāmi ātāpī sampajāno satimā, vineyya loke abhijjhādomanassaṁ; vedanāsu …pe… citte …pe… dhammesu dhammānupassī viharāmi ātāpī sampajāno satimā, vineyya loke abhijjhādomanassaṁ. Yāni cimāni, bhante, bhagavatā pañcorambhāgiyāni saṁyojanāni desitāni, nāhaṁ, bhante, tesaṁ kiñci attani appahīnaṁ samanupassāmī”ti. “Lābhā te, gahapati, suladdhaṁ te, gahapati. Anāgāmiphalaṁ tayā, gahapati, byākatan”ti. Dasamaṁ. Sīlaṭṭhitivaggo tatiyo. Tassuddānaṁ Sīlaṁ ṭhiti parihānaṁ, suddhaṁ brāhmaṇapadesaṁ; Samattaṁ loko sirivaḍḍho, mānadinnena te dasāti.",
+    "english_sn_text": "The same setting. Now at that time the householder Mānadinna was sick, suffering, gravely ill. Then he addressed a man: “Please, my man, go to Venerable Ānanda …” … “Sir, I’m not keeping well, I’m not getting by. My pain is terrible and growing, not fading; its growing is evident, not its fading. When I experience such painful feelings I meditate observing an aspect of the body—keen, aware, and mindful, rid of covetousness and displeasure for the world. I meditate observing an aspect of feelings … mind … principles—keen, aware, and mindful, rid of covetousness and displeasure for the world. And of the five lower fetters taught by the Buddha, I don’t see any that I haven’t given up.” “You’re fortunate, householder, so very fortunate! You have declared the fruit of non-return.”",
+    "errors": [
+      "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa1001-1100/sa1038_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+      "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa1001-1100/sa1038_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+      "used_analayo_fallback"
+    ],
+    "kumarajiva_style_text": "",
+    "modern_psychology_text": "",
+    "notes": "",
+    "review_status": "raw"
+  },
+  {
+    "id": "SA_1039",
+    "uid": "sa1039",
+    "title": "雜阿含經  卷第四十四  業報相應  （1039）  第1039經",
+    "chinese_text": "Saṁyuktāgama雜阿含經\n\n如是我聞：\n\n一時，佛住王舍城金師精舍。時，有淳陀長者來詣佛所，稽首佛足，退坐一面。\n\n爾時，世尊問淳陀長者：「汝今愛樂何等沙門、婆羅門淨行？」\n\n淳陀白佛：「有沙門、婆羅門，奉事於水，事毘濕波天，執杖澡罐，常淨其手。如是正士能善說法言：『善男子！月十五日，以胡麻屑、菴摩羅屑以澡其髮，修行齋法，被著新淨長髮白［疊＊毛］，牛糞塗地而臥其上。善男子！晨朝早起，以手觸地，作如是言：「此地清淨，我如是淨。」手執牛糞團并把生草，口說是言：「此是清淨，我如是淨。」若如是者，見為清淨，不如是者，永不清淨。』世尊！如是像類沙門、婆羅門，若為清淨，我所宗仰。」\n\n佛告淳陀：「有黑法、黑報，不淨、不淨果，負重向下。成就如此諸惡法者，雖復晨朝早起，以手觸地，唱言清淨，猶是不淨；正復不觸，亦不清淨。執牛糞團，并及生草，唱言清淨，亦復不淨；正復不觸，亦不清淨。\n\n「淳陀！何等為黑、黑報，不淨、不淨果，負重向下，乃至觸以不觸，悉皆不淨？淳陀！謂殺生惡業，手常血腥，心常思惟撾捶殺害，無慚無愧，慳貪悋惜，於一切眾生乃至昆蟲，不離於殺。於他財物、聚落、空地，皆不離盜。行諸邪婬，若父母、兄弟、姊妹、夫主、親族，乃至授花鬘者，如是等護，以力強干，不離邪婬。不實妄語，或於王家、真實言家、多眾聚集，求當言處，作不實說，不見言見，見言不見，不聞言聞，聞言不聞，知言不知，不知言知，因自因他，或因財利，知而妄語，而不捨離，是名妄語。兩舌乖離，傳此向彼，傳彼向此，遍相破壞，令和合者離，離者歡喜，是名兩舌。不離惡口罵，若人軟語說，悅耳心喜，方正易知，樂聞無依說，多人愛念，適意、隨順三昧。捨如是等，而作剛強，多人所惡，不愛、不適意、不順三昧說。如是等言，不離麁澁，是名惡心。綺飾壞語，不時言、不實言、無義言、非法言、不思言，如是等，名壞語。\n\n「不捨離貪，於他財物而起貪欲，言：『此物我有者好。』不捨瞋恚弊惡，心思惟言：『彼眾生應縛、應鞭、應伏、應殺。』欲為生難。不捨邪見顛倒，如是見、如是說：『無施、無報、無福，無善行惡行、無善惡業果報，無此世、無他世，無父母、無眾生生世間，無世阿羅漢等趣等向此世他世自知作證：「我生已盡，梵行已立，所作已作，自知不受後有。」』淳陀！是名黑、黑報，不淨、不淨果，乃至觸以不觸，皆悉不淨。\n\n「淳陀！有白、白報，淨有、淨果，輕仙上昇，成就已，晨朝觸地，此淨我淨者，亦得清淨；若不觸者，亦得清淨，把牛糞團，手執生草，淨因淨果者，執與不執，亦得清淨。\n\n「淳陀！何等為白、白報，乃至執以不執，亦得清淨？謂有人不殺生，離殺生，捨刀杖，慚愧，悲念一切眾生。不偷盜，遠離偷盜，與者取，不與不取，淨心不貪。離於邪婬，若父母護，乃至授一花鬘者，悉不強干起於邪婬，離於妄語，審諦實說，遠離兩舌，不傳此向彼，傳彼向此，共相破壞，離者令和，和者隨喜，遠離惡口，不剛強，多人樂其所說。離於壞語，諦說、時說、實說、義說、法說、見說。離於貪欲，不於他財、他眾具作己有想，而生貪著，離於瞋恚，不作是念：『撾打縛殺，為作眾難。』正見成就，不顛倒見，有施、有說報、有福，有善惡行果報，有此世，有父母、有眾生生，有世阿羅漢於此世他世現法自知作證：『我生已盡，梵行已立，所作已作，自知不受後有。』淳陀！是名白、白報，乃至觸與不觸，皆悉清淨。」\n\n爾時，淳陀長者聞佛所說，歡喜隨喜，作禮而去。",
+    "english_sa_text": "",
+    "parallels": [
+      {
+        "uid": "an10.176",
+        "acronym": "AN 10.176",
+        "root_lang": "pli",
+        "original_title": "Cundasutta",
+        "translated_title": "To Cunda the Silversmith",
+        "type": "full",
+        "resembling": false,
+        "remark": null
+      }
+    ],
+    "primary_sn_uid": null,
+    "pali_text": "",
+    "english_sn_text": "",
+    "errors": [
+      "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa1001-1100/sa1039_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+      "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa1001-1100/sa1039_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+      "used_analayo_fallback"
+    ],
+    "kumarajiva_style_text": "",
+    "modern_psychology_text": "",
+    "notes": "",
+    "review_status": "raw"
+  },
+  {
+    "id": "SA_1040",
+    "uid": "sa1040",
+    "title": "雜阿含經  卷第四十四  業報相應  （1040）  第1040經",
+    "chinese_text": "Saṁyuktāgama雜阿含經\n\n如是我聞：\n\n一時，佛住王舍城金師精舍。\n\n時，有異婆羅門於十五日，洗頭已，受齋法，被新長髮白［疊＊毛］，手執生草，來詣佛所，與世尊面相問訊慰勞已，退坐一面。\n\n爾時，佛告婆羅門：「汝洗頭被新長髮白［疊＊毛］，是誰家法？」\n\n婆羅門白佛：「瞿曇！是學捨法。」\n\n佛告婆羅門：「云何婆羅門捨法？」\n\n婆羅門白佛言：「瞿曇！如是十五日，洗頭受持法齋，著新淨長髮白［疊＊毛］，手執生草，隨力所能，布施作福。瞿曇！是名婆羅門修行捨行。」\n\n佛告婆羅門：「賢聖法、律所行捨行異於此也。」\n\n婆羅門白佛：「瞿曇！云何為賢聖法、律所行捨行？」\n\n佛告婆羅門：「謂離殺生，不樂殺生……」如前清淨分廣說。「依於不殺，捨離殺生……」乃至如前清淨分廣說。「離偷盜，不樂於盜，依於不盜，捨不與取。離諸邪婬，不樂邪婬，依於不婬，捨非梵行。離於妄語，不樂妄語，依不妄語，捨不實言。離諸兩舌，不樂兩舌，依不兩舌，捨別離行。離於惡口，不樂惡口，依不惡口，捨於麁言。離諸綺語，不樂綺語，依不綺語，捨無義言。斷除貪欲，遠離苦貪，依無貪心，捨於愛著。斷除瞋恚，不生忿恨，依於無恚，捨彼瞋恨。修習正見，不起顛倒，依於正見，捨彼邪見。婆羅門！是名賢聖法、律所行捨行。」\n\n婆羅門白佛：「善哉！瞿曇賢聖法、律所行捨行。」\n\n時，婆羅門聞佛所說，歡喜隨喜，從坐起去。",
+    "english_sa_text": "",
+    "parallels": [
+      {
+        "uid": "an10.167",
+        "acronym": "AN 10.167",
+        "root_lang": "pli",
+        "original_title": "Brāhmaṇapaccorohaṇīsutta",
+        "translated_title": null,
+        "type": "full",
+        "resembling": false,
+        "remark": null
+      },
+      {
+        "uid": "an10.119",
+        "acronym": "AN 10.119",
+        "root_lang": "pli",
+        "original_title": "Paṭhamapaccorohaṇīsutta",
+        "translated_title": null,
+        "type": "full",
+        "resembling": true,
+        "remark": null
+      }
+    ],
+    "primary_sn_uid": null,
+    "pali_text": "",
+    "english_sn_text": "",
+    "errors": [
+      "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa1001-1100/sa1040_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+      "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa1001-1100/sa1040_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+      "used_analayo_fallback"
+    ],
+    "kumarajiva_style_text": "",
+    "modern_psychology_text": "",
+    "notes": "",
+    "review_status": "raw"
+  },
+  {
+    "id": "SA_1041",
+    "uid": "sa1041",
+    "title": "雜阿含經  卷第四十四  業報相應  （1041）  第1041經",
+    "chinese_text": "Saṁyuktāgama雜阿含經\n\n如是我聞：\n\n一時，佛住王舍城迦蘭陀竹園。\n\n時，有生聞梵志來詣佛所，與世尊面相問訊慰勞已，退坐一面，白佛言：「瞿曇！我有親族，極所愛念，忽然命終，我為彼故，信心布施。云何？世尊！彼得受不？」\n\n佛告婆羅門：「非一向得。若汝親族生地獄中者，得彼地獄眾生食，以活其命，不得汝所信施飲食；若生畜生、餓鬼、人中者，得彼人中飲食，不得汝所施者。婆羅門！餓鬼趣中有一處，名為入處餓鬼，若汝親族生彼入處餓鬼中者，得汝施食。」\n\n婆羅門白佛：「若我親族不生入處餓鬼趣中者，我信施，誰應食之？」\n\n佛告婆羅門：「若汝所可為信施親族不生入處餓鬼趣者，要有餘親族知識生入處餓鬼趣中者，得食之。」\n\n婆羅門白佛：「瞿曇！若我所為信施親族不生入處餓鬼趣中，亦無更餘親族知識生入處餓鬼趣者，此信施食，誰當食之？」\n\n佛告婆羅門：「設使所為施親族知識不生入處餓鬼趣中，復無諸餘知識生餓鬼者，且信施而自得其福，彼施者所作信施，而彼施者不失達嚫。」\n\n婆羅門白佛：「云何施者行施，施者得彼達嚫？」\n\n佛告婆羅門：「有人殺生行惡，手常血腥，乃至十不善業跡……」如淳陀修多羅廣說，「而復施諸沙門、婆羅門，乃至貧窮、乞士，悉施錢財、衣被、飲食、燈明、諸莊嚴具。婆羅門！彼惠施主若復犯戒，生象中者，以彼曾施沙門、婆羅門錢財、衣被、飲食，乃至莊嚴眾具故，雖在象中，亦得受彼施報，衣服、飲食，乃至種種莊嚴眾具。\n\n「若復生牛、馬、驢、騾等種種畜生趣中，以本施惠功德，悉受其報，隨彼生處所應受用，皆悉得之。婆羅門！若復施主持戒，不殺、不盜，乃至正見，布施諸沙門、婆羅門乃至乞士錢財、衣服、飲食，乃至燈明，緣斯功德，生人道中，坐受其報，衣被、飲食，乃至燈明眾具。\n\n「復次，婆羅門！若復持戒生天上者，彼諸惠施天上受報，財寶、衣服、飲食，乃至莊嚴眾具。婆羅門！是名施者行施，施者受達嚫，果報不失。」\n\n時，生聞婆羅門聞佛所說，歡喜隨喜，從坐起去。",
+    "english_sa_text": "",
+    "parallels": [
+      {
+        "uid": "an10.177",
+        "acronym": "AN 10.177",
+        "root_lang": "pli",
+        "original_title": "Jāṇussoṇisutta",
+        "translated_title": "To Janussonin",
+        "type": "full",
+        "resembling": false,
+        "remark": null
+      }
+    ],
+    "primary_sn_uid": null,
+    "pali_text": "",
+    "english_sn_text": "",
+    "errors": [
+      "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa1001-1100/sa1041_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+      "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa1001-1100/sa1041_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+      "used_analayo_fallback"
+    ],
+    "kumarajiva_style_text": "",
+    "modern_psychology_text": "",
+    "notes": "",
+    "review_status": "raw"
+  },
+  {
+    "id": "SA_1042",
+    "uid": "sa1042",
+    "title": "雜阿含經  卷第四十四  業報相應  （1042）  第1042經",
+    "chinese_text": "Saṁyuktāgama雜阿含經\n\n如是我聞：\n\n一時，佛在拘薩羅國人間遊行，住鞞羅磨聚落北身恕林中。\n\n鞞羅聚落婆羅門長者聞世尊住聚落北身恕林中，聞已，共相招集，往詣佛所，稽首佛足，退坐一面，白佛言：「世尊！何因、何緣有眾生身壞命終，生地獄中？」\n\n佛告諸婆羅門長者：「行非法行、行危嶮行因緣故，身壞命終，生地獄中。」諸婆羅門長者白佛：「行何等非法行、危嶮行，身壞命終，生地獄中？」\n\n佛告婆羅門長者：「殺生，乃至邪見，具足十不善業因緣故。婆羅門！是非法行、危嶮行，身壞命終，生地獄中。」\n\n婆羅門白佛：「何因緣諸眾生身壞命終，得生天上？」\n\n佛告婆羅門長者：「行法行、行正行，以是因緣故，身壞命終，得生天上。」\n\n復問：「世尊！行何等法行、何等正行，身壞命終，得生天上？」\n\n佛告婆羅門長者：「謂離殺生，乃至正見，十善業跡因緣故，身壞命終，得生天上。婆羅門長者！若有行此法行、行此正行者，欲求剎利大性家、婆羅門大性家、居士大性家，悉得往生。所以者何？以法行、正行因緣故。\n\n「若復欲求生四王、三十三天，乃至他化自在天，悉得往生。所以者何？以法行、正行故，行淨戒者，其心所願，悉自然得。\n\n「若復如是法行、正行者，欲求生梵天，亦得往生。所以者何？以行正行、法行故，持戒清淨，心離愛欲，所願必得。\n\n「若復欲求往生光音、遍淨，乃至阿伽尼吒，亦復如是。所以者何？以彼持戒清淨，心離欲故。\n\n「若復欲求離欲、惡不善法，有覺有觀，乃至第四禪具足住，悉得成就。所以者何？以彼法行、正行故，持戒清淨，心離愛欲，所願必得。\n\n「欲求慈、悲、喜、捨，空入處、識入處、無所有入處、非想非非想入處皆悉得。所以者何？以法行、正行故，持戒清淨，心離愛欲，所願必得。\n\n「欲求斷三結，得須陀洹、斯陀含、阿那含果，無量神通，天耳、他心智、宿命智、生死智、漏盡智皆悉得。所以者何？以法行、正行故，持戒、離欲，所願必得。」\n\n時，婆羅門長者聞佛所說，歡喜隨喜，作禮而去。",
+    "english_sa_text": "",
+    "parallels": [
+      {
+        "uid": "mn41",
+        "acronym": "MN 41",
+        "root_lang": "pli",
+        "original_title": "Sāleyyakasutta",
+        "translated_title": "The Brahmins of Sālā",
+        "type": "full",
+        "resembling": false,
+        "remark": null
+      },
+      {
+        "uid": "mn42",
+        "acronym": "MN 42",
+        "root_lang": "pli",
+        "original_title": "Verañjakasutta",
+        "translated_title": "Discourse to the People of Verañjā",
+        "type": "full",
+        "resembling": false,
+        "remark": null
+      },
+      {
+        "uid": "sa1043",
+        "acronym": "SA 1043",
+        "root_lang": "lzh",
+        "original_title": "鞞聞摩",
+        "translated_title": null,
+        "type": "full",
+        "resembling": false,
+        "remark": null
+      },
+      {
+        "uid": "an2.1-10",
+        "acronym": "AN 2.1–10",
+        "root_lang": "pli",
+        "original_title": "Kammakaraṇavagga",
+        "translated_title": "",
+        "type": "full",
+        "resembling": true,
+        "remark": null
+      }
+    ],
+    "primary_sn_uid": null,
+    "pali_text": "",
+    "english_sn_text": "",
+    "errors": [
+      "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa1001-1100/sa1042_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+      "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa1001-1100/sa1042_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+      "used_analayo_fallback"
+    ],
+    "kumarajiva_style_text": "",
+    "modern_psychology_text": "",
+    "notes": "",
+    "review_status": "raw"
+  },
+  {
+    "id": "SA_1043",
+    "uid": "sa1043",
+    "title": "雜阿含經  卷第四十四  業報相應  （1043）  第1043經",
+    "chinese_text": "Saṁyuktāgama雜阿含經\n\n如是我聞：\n\n一時，佛在拘薩羅國人間遊行，住鞞羅磨聚落北身恕林中。\n\n時，鞞羅磨聚落中，婆羅門長者聞世尊住鞞羅磨聚落身恕林中，聞已，乘白馬車，多將翼從，持金斗、傘蓋、金澡瓶，出鞞羅磨聚落，詣身恕林。至道口，下車步進，入於園門，至世尊前，面相問訊慰勞已，退坐一面，白佛言：「瞿曇！何因、何緣有人命終生地獄中，乃至生天？……」如上修多羅廣說。\n\n時，鞞羅磨婆羅門聞佛所說，歡喜隨喜，從坐起而去。",
+    "english_sa_text": "",
+    "parallels": [
+      {
+        "uid": "mn41",
+        "acronym": "MN 41",
+        "root_lang": "pli",
+        "original_title": "Sāleyyakasutta",
+        "translated_title": "The Brahmins of Sālā",
+        "type": "full",
+        "resembling": false,
+        "remark": null
+      },
+      {
+        "uid": "mn42",
+        "acronym": "MN 42",
+        "root_lang": "pli",
+        "original_title": "Verañjakasutta",
+        "translated_title": "Discourse to the People of Verañjā",
+        "type": "full",
+        "resembling": false,
+        "remark": null
+      },
+      {
+        "uid": "sa1042",
+        "acronym": "SA 1042",
+        "root_lang": "lzh",
+        "original_title": "鞞聞摩",
+        "translated_title": null,
+        "type": "full",
+        "resembling": false,
+        "remark": null
+      },
+      {
+        "uid": "an2.1-10",
+        "acronym": "AN 2.1–10",
+        "root_lang": "pli",
+        "original_title": "Kammakaraṇavagga",
+        "translated_title": "",
+        "type": "full",
+        "resembling": true,
+        "remark": null
+      }
+    ],
+    "primary_sn_uid": null,
+    "pali_text": "",
+    "english_sn_text": "",
+    "errors": [
+      "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa1001-1100/sa1043_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+      "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa1001-1100/sa1043_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+      "used_analayo_fallback"
+    ],
+    "kumarajiva_style_text": "",
+    "modern_psychology_text": "",
+    "notes": "",
+    "review_status": "raw"
+  },
+  {
+    "id": "SA_1044",
+    "uid": "sa1044",
+    "title": "雜阿含經  卷第四十四  業報相應  （1044）  第1044經",
+    "chinese_text": "Saṁyuktāgama雜阿含經\n\n如是我聞：\n\n一時，佛住在拘薩羅人間遊行，至鞞紐多羅聚落北身恕林中住。鞞紐多羅聚落婆羅門長者聞世尊住聚落北身恕林中，聞已，共相招引，往詣身恕林，至世尊所，面相慰勞已，退坐一面。\n\n爾時，世尊告婆羅門長者：「我當為說自通之法。諦聽，善思。何等自通之法？謂聖弟子作如是學：『我作是念：「若有欲殺我者，我不喜；我若所不喜，他亦如是。云何殺彼？」作是覺已，受不殺生，不樂殺生……』」如上說。「我若不喜人盜於我，他亦不喜，我云何盜他？是故持不盜戒，不樂於盜……」如上說。「我既不喜人侵我妻，他亦不喜，我今云何侵人妻婦？是故受持不他婬戒……」如上說。「我尚不喜為人所欺，他亦如是，云何欺他？是故受持不妄語戒……」如上說。「我尚不喜他人離我親友，他亦如是，我今云何離他親友？是故不行兩舌。我尚不喜人加麁言，他亦如是，云何於他而起罵辱？是故於他不行惡口……」如上說。「我尚不喜人作綺語，他亦如是，云何於他而作綺語？是故於他不行綺飾……」如上說。「如是七種，名為聖戒。\n\n「又復於佛不壞淨成就，於法、僧不壞淨成就，是名聖弟子四不壞淨成就。自現前觀察，能自記說：『我地獄盡，畜生、餓鬼盡，一切惡趣盡，得須陀洹，不墮惡趣法，決定正向三菩提，七有天人往生，究竟苦邊。』」\n\n時，鞞紐聚落婆羅門長者聞佛所說，歡喜隨喜，從坐起而去。",
+    "english_sa_text": "",
+    "parallels": [
+      {
+        "uid": "sn55.7",
+        "acronym": "SN 55.7",
+        "root_lang": "pli",
+        "original_title": "Veḷudvāreyyasutta",
+        "translated_title": null,
+        "type": "full",
+        "resembling": false,
+        "remark": null
+      }
+    ],
+    "primary_sn_uid": "sn55.7",
+    "pali_text": "Evaṁ me sutaṁ— ekaṁ samayaṁ bhagavā kosalesu cārikaṁ caramāno mahatā bhikkhusaṅghena saddhiṁ yena veḷudvāraṁ nāma kosalānaṁ brāhmaṇagāmo tadavasari. Assosuṁ kho te veḷudvāreyyakā brāhmaṇagahapatikā: “samaṇo khalu, bho, gotamo sakyaputto sakyakulā pabbajito kosalesu cārikaṁ caramāno mahatā bhikkhusaṅghena saddhiṁ veḷudvāraṁ anuppatto. Taṁ kho pana bhavantaṁ gotamaṁ evaṁ kalyāṇo kittisaddo abbhuggato: ‘itipi so bhagavā arahaṁ sammāsambuddho vijjācaraṇasampanno sugato lokavidū anuttaro purisadammasārathi satthā devamanussānaṁ buddho bhagavā’. So imaṁ lokaṁ sadevakaṁ samārakaṁ sabrahmakaṁ sassamaṇabrāhmaṇiṁ pajaṁ sadevamanussaṁ sayaṁ abhiññā sacchikatvā pavedeti. So dhammaṁ deseti ādikalyāṇaṁ majjhekalyāṇaṁ pariyosānakalyāṇaṁ sātthaṁ sabyañjanaṁ, kevalaparipuṇṇaṁ parisuddhaṁ brahmacariyaṁ pakāseti. Sādhu kho pana tathārūpānaṁ arahataṁ dassanaṁ hotī”ti. Atha kho te veḷudvāreyyakā brāhmaṇagahapatikā yena bhagavā tenupasaṅkamiṁsu; upasaṅkamitvā appekacce bhagavantaṁ abhivādetvā ekamantaṁ nisīdiṁsu. Appekacce bhagavatā saddhiṁ sammodiṁsu; sammodanīyaṁ kathaṁ sāraṇīyaṁ vītisāretvā ekamantaṁ nisīdiṁsu. Appekacce yena bhagavā tenañjaliṁ paṇāmetvā ekamantaṁ nisīdiṁsu. Appekacce bhagavato santike nāmagottaṁ sāvetvā ekamantaṁ nisīdiṁsu. Appekacce tuṇhībhūtā ekamantaṁ nisīdiṁsu. Ekamantaṁ nisinnā kho te veḷudvāreyyakā brāhmaṇagahapatikā bhagavantaṁ etadavocuṁ: “mayaṁ, bho gotama, evaṅkāmā evaṁchandā evaṁadhippāyā— puttasambādhasayanaṁ ajjhāvaseyyāma, kāsikacandanaṁ paccanubhaveyyāma, mālāgandhavilepanaṁ dhāreyyāma, jātarūparajataṁ sādiyeyyāma, kāyassa bhedā paraṁ maraṇā sugatiṁ saggaṁ lokaṁ upapajjeyyāma. Tesaṁ no bhavaṁ gotamo amhākaṁ evaṅkāmānaṁ evaṁchandānaṁ evaṁadhippāyānaṁ tathā dhammaṁ desetu yathā mayaṁ puttasambādhasayanaṁ ajjhāvaseyyāma …pe… sugatiṁ saggaṁ lokaṁ upapajjeyyāmā”ti. “Attupanāyikaṁ vo, gahapatayo, dhammapariyāyaṁ desessāmi. Taṁ suṇātha, sādhukaṁ manasi karotha, bhāsissāmī”ti. “Evaṁ, bho”ti kho te veḷudvāreyyakā brāhmaṇagahapatikā bhagavato paccassosuṁ. Bhagavā etadavoca: “Katamo ca, gahapatayo, attupanāyiko dhammapariyāyo? Idha, gahapatayo, ariyasāvako iti paṭisañcikkhati: ‘ahaṁ khosmi jīvitukāmo amaritukāmo sukhakāmo dukkhappaṭikūlo. Yo kho maṁ jīvitukāmaṁ amaritukāmaṁ sukhakāmaṁ dukkhappaṭikūlaṁ jīvitā voropeyya, na metaṁ assa piyaṁ manāpaṁ. Ahañceva kho pana paraṁ jīvitukāmaṁ amaritukāmaṁ sukhakāmaṁ dukkhappaṭikūlaṁ jīvitā voropeyyaṁ, parassapi taṁ assa appiyaṁ amanāpaṁ. Yo kho myāyaṁ dhammo appiyo amanāpo, parassa peso dhammo appiyo amanāpo. Yo kho myāyaṁ dhammo appiyo amanāpo, kathāhaṁ paraṁ tena saṁyojeyyan’ti. So iti paṭisaṅkhāya attanā ca pāṇātipātā paṭivirato hoti, parañca pāṇātipātā veramaṇiyā samādapeti, pāṇātipātā veramaṇiyā ca vaṇṇaṁ bhāsati. Evamassāyaṁ kāyasamācāro tikoṭiparisuddho hoti. Puna caparaṁ, gahapatayo, ariyasāvako iti paṭisañcikkhati: ‘yo kho me adinnaṁ theyyasaṅkhātaṁ ādiyeyya, na metaṁ assa piyaṁ manāpaṁ. Ahañceva kho pana parassa adinnaṁ theyyasaṅkhātaṁ ādiyeyyaṁ, parassapi taṁ assa appiyaṁ amanāpaṁ. Yo kho myāyaṁ dhammo appiyo amanāpo, parassa peso dhammo appiyo amanāpo. Yo kho myāyaṁ dhammo appiyo amanāpo, kathāhaṁ paraṁ tena saṁyojeyyan’ti. So iti paṭisaṅkhāya attanā ca adinnādānā paṭivirato hoti, parañca adinnādānā veramaṇiyā samādapeti, adinnādānā veramaṇiyā ca vaṇṇaṁ bhāsati. Evamassāyaṁ kāyasamācāro tikoṭiparisuddho hoti. Puna caparaṁ, gahapatayo, ariyasāvako iti paṭisañcikkhati: ‘yo kho me dāresu cārittaṁ āpajjeyya, na metaṁ assa piyaṁ manāpaṁ. Ahañceva kho pana parassa dāresu cārittaṁ āpajjeyyaṁ, parassapi taṁ assa appiyaṁ amanāpaṁ. Yo kho myāyaṁ dhammo appiyo amanāpo, parassa peso dhammo appiyo amanāpo. Yo kho myāyaṁ dhammo appiyo amanāpo, kathāhaṁ paraṁ tena saṁyojeyyan’ti. So iti paṭisaṅkhāya attanā ca kāmesumicchācārā paṭivirato hoti, parañca kāmesumicchācārā veramaṇiyā samādapeti, kāmesumicchācārā veramaṇiyā ca vaṇṇaṁ bhāsati. Evamassāyaṁ kāyasamācāro tikoṭiparisuddho hoti. Puna caparaṁ, gahapatayo, ariyasāvako iti paṭisañcikkhati: ‘yo kho me musāvādena atthaṁ bhañjeyya, na metaṁ assa piyaṁ manāpaṁ. Ahañceva kho pana parassa musāvādena atthaṁ bhañjeyyaṁ, parassapi taṁ assa appiyaṁ amanāpaṁ. Yo kho myāyaṁ dhammo appiyo amanāpo, parassa peso dhammo appiyo amanāpo. Yo kho myāyaṁ dhammo appiyo amanāpo, kathāhaṁ paraṁ tena saṁyojeyyan’ti. So iti paṭisaṅkhāya attanā ca musāvādā paṭivirato hoti, parañca musāvādā veramaṇiyā samādapeti, musāvādā veramaṇiyā ca vaṇṇaṁ bhāsati. Evamassāyaṁ vacīsamācāro tikoṭiparisuddho hoti. Puna caparaṁ, gahapatayo, ariyasāvako iti paṭisañcikkhati: “yo kho maṁ pisuṇāya vācāya mitte bhindeyya, na metaṁ assa piyaṁ manāpaṁ. Ahañceva kho pana paraṁ pisuṇāya vācāya mitte bhindeyyaṁ, parassapi taṁ assa appiyaṁ amanāpaṁ …pe… evamassāyaṁ vacīsamācāro tikoṭiparisuddho hoti. Puna caparaṁ, gahapatayo, ariyasāvako iti paṭisañcikkhati: “yo kho maṁ pharusāya vācāya samudācareyya, na metaṁ assa piyaṁ manāpaṁ. Ahañceva kho pana paraṁ pharusāya vācāya samudācareyyaṁ, parassapi taṁ assa appiyaṁ amanāpaṁ. Yo kho myāyaṁ dhammo …pe… evamassāyaṁ vacīsamācāro tikoṭiparisuddho hoti. Puna caparaṁ, gahapatayo, ariyasāvako iti paṭisañcikkhati: ‘yo kho maṁ samphabhāsena samphappalāpabhāsena samudācareyya, na metaṁ assa piyaṁ manāpaṁ. Ahañceva kho pana paraṁ samphabhāsena samphappalāpabhāsena samudācareyyaṁ, parassapi taṁ assa appiyaṁ amanāpaṁ. Yo kho myāyaṁ dhammo appiyo amanāpo, parassa peso dhammo appiyo amanāpo. Yo kho myāyaṁ dhammo appiyo amanāpo, kathāhaṁ paraṁ tena saṁyojeyyan’ti. So iti paṭisaṅkhāya attanā ca samphappalāpā paṭivirato hoti, parañca samphappalāpā veramaṇiyā samādapeti, samphappalāpā veramaṇiyā ca vaṇṇaṁ bhāsati. Evamassāyaṁ vacīsamācāro tikoṭiparisuddho hoti. So buddhe aveccappasādena samannāgato hoti— itipi so bhagavā …pe… satthā devamanussānaṁ buddho bhagavāti; dhamme …pe… saṅghe aveccappasādena samannāgato hoti suppaṭipanno bhagavato sāvakasaṅgho …pe… anuttaraṁ puññakkhettaṁ lokassāti. ariyakantehi sīlehi samannāgato hoti akhaṇḍehi …pe… samādhisaṁvattanikehi. Yato kho, gahapatayo, ariyasāvako imehi sattahi saddhammehi samannāgato hoti imehi catūhi ākaṅkhiyehi ṭhānehi, so ākaṅkhamāno attanāva attānaṁ byākareyya: ‘khīṇanirayomhi khīṇatiracchānayoni khīṇapettivisayo khīṇāpāyaduggativinipāto, sotāpannohamasmi avinipātadhammo niyato sambodhiparāyaṇo’”ti. Evaṁ vutte, veḷudvāreyyakā brāhmaṇagahapatikā bhagavantaṁ etadavocuṁ: “abhikkantaṁ, bho gotama …pe… ete mayaṁ bhavantaṁ gotamaṁ saraṇaṁ gacchāma dhammañca bhikkhusaṅghañca. Upāsake no bhavaṁ gotamo dhāretu ajjatagge pāṇupete saraṇaṁ gate”ti. Sattamaṁ.",
+    "english_sn_text": "So I have heard. At one time the Buddha was wandering in the land of the Kosalans together with a large Saṅgha of mendicants when he arrived at a village of the Kosalan brahmins named Bamboo Gate. The brahmins and householders of Bamboo Gate heard: “It seems the ascetic Gotama—a Sakyan, gone forth from a Sakyan family—has arrived at Bamboo Gate, together with a large Saṅgha of mendicants. He has this good reputation: ‘That Blessed One is perfected, a fully awakened Buddha, accomplished in knowledge and conduct, holy, knower of the world, supreme guide for those fit for training, teacher of gods and humans, awakened, blessed.’ He has realized with his own insight this world—with its gods, Māras, and divinities, this population with its ascetics and brahmins, gods and humans—and he makes it known to others. He teaches Dhamma that’s good in the beginning, good in the middle, and good in the end, meaningful and well-phrased. And he reveals a spiritual practice that’s entirely full and pure. It’s good to see such perfected ones.” Then the brahmins and householders of Bamboo Gate went up to the Buddha. Before sitting down to one side, some bowed, some exchanged greetings and polite conversation, some held up their cupped palms toward the Buddha, some announced their name and clan, while some kept silent. Seated to one side they said to the Buddha: “Worthy Gotama, these are our wishes, desires, and hopes. We wish to live at home with our children; to use sandalwood imported from Kāsi; to wear garlands, fragrance, and makeup; and to accept gold and currency. And when our body breaks up, after death, we wish to be reborn in a good place, a heavenly realm. Given that we have such wishes, may the Buddha teach us the Dhamma so that we may achieve them.” “Householders, I will teach you an explanation of the Dhamma that is relevant for oneself. Listen and apply your mind well, I will speak.” “Yes, worthy sir,” they replied. The Buddha said this: “And what is the explanation of the Dhamma that applies to oneself? It’s when a noble disciple reflects: ‘I want to live and don’t want to die; I want to be happy and recoil from pain. Since this is so, if someone were to take my life, I wouldn’t like that. But others also want to live and don’t want to die; they want to be happy and recoil from pain. So if I were to take the life of someone else, they wouldn’t like that either. The thing that is disliked by me is also disliked by others. Since I dislike this thing, how can I inflict it on someone else?’ Reflecting in this way, they give up killing living creatures themselves. And they encourage others to give up killing living creatures, praising the giving up of killing living creatures. So their bodily behavior is purified in three points. Furthermore, a noble disciple reflects: ‘If someone were to steal from me, I wouldn’t like that. But if I were to steal from someone else, they wouldn’t like that either. The thing that is disliked by me is also disliked by others. Since I dislike this thing, how can I inflict it on someone else?’ Reflecting in this way, they give up stealing themselves. And they encourage others to give up stealing, praising the giving up of stealing. So their bodily behavior is purified in three points. Furthermore, a noble disciple reflects: ‘If someone were to have relations with my wives, I wouldn’t like it. But if I were to have relations with someone else’s wives, he wouldn’t like that either. The thing that is disliked by me is also disliked by others. Since I dislike this thing, how can I inflict it on others?’ Reflecting in this way, they give up sexual misconduct themselves. And they encourage others to give up sexual misconduct, praising the giving up of sexual misconduct. So their bodily behavior is purified in three points. Furthermore, a noble disciple reflects: ‘If someone were to distort my meaning by lying, I wouldn’t like it. But if I were to distort someone else’s meaning by lying, they wouldn’t like it either. The thing that is disliked by me is also disliked by someone else. Since I dislike this thing, how can I inflict it on others?’ Reflecting in this way, they give up lying themselves. And they encourage others to give up lying, praising the giving up of lying. So their verbal behavior is purified in three points. Furthermore, a noble disciple reflects: ‘If someone were to break me up from my friends by backbiting, I wouldn’t like it. But if I were to break someone else from their friends by backbiting, they wouldn’t like it either. …’ So their verbal behavior is purified in three points. Furthermore, a noble disciple reflects: ‘If someone were to attack me with harsh speech, I wouldn’t like it. But if I were to attack someone else with harsh speech, they wouldn’t like it either. …’ So their verbal behavior is purified in three points. Furthermore, a noble disciple reflects: ‘If someone were to annoy me by talking silliness and nonsense, I wouldn’t like it. But if I were to annoy someone else by talking silliness and nonsense, they wouldn’t like it either.’ The thing that is disliked by me is also disliked by another. Since I dislike this thing, how can I inflict it on another?’ Reflecting in this way, they give up talking nonsense themselves. And they encourage others to give up talking nonsense, praising the giving up of talking nonsense. So their verbal behavior is purified in three points. And they have experiential confidence in the Buddha … the teaching … the Saṅgha … And they have the ethical conduct loved by the noble ones … leading to immersion. When a noble disciple possesses these seven good qualities and these four desirable states they may, if they wish, declare of themselves: ‘I’ve finished with rebirth in hell, the animal realm, and the ghost realm. I’ve finished with all places of loss, bad places, the underworld. I am a stream-enterer! I’m not liable to be reborn in the underworld, and am assured, destined for awakening.’” When he had spoken, the brahmins and householders of Bamboo Gate said to the Buddha, “Excellent, worthy Gotama! … We go for refuge to the worthy Gotama, to the teaching, and to the mendicant Saṅgha. From this day forth, may the worthy Gotama remember us as lay followers who have gone for refuge for life.”",
+    "errors": [
+      "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa1001-1100/sa1044_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+      "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa1001-1100/sa1044_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+      "used_analayo_fallback"
+    ],
+    "kumarajiva_style_text": "",
+    "modern_psychology_text": "",
+    "notes": "",
+    "review_status": "raw"
+  },
+  {
+    "id": "SA_1045",
+    "uid": "sa1045",
+    "title": "雜阿含經  卷第四十四  業報相應  （1045）  第1045經",
+    "chinese_text": "Saṁyuktāgama雜阿含經\n\n如是我聞：\n\n一時，佛住舍衛國祇樹給孤獨園。\n\n爾時，世尊告諸比丘：「有相習近法。諦聽，善思，當為汝說。何等為相習近法？謂殺生者、殺生者習近，盜、婬、妄語、兩舌、惡口、綺語、貪、恚、邪見，各各隨類更相習近。譬如不淨物、不淨物自相和合。如是，殺生、殺生，乃至邪見、邪見自相習近。如是，比丘！不殺生、不殺生相習近，乃至正見、正見更相習近。譬如淨物、淨物自相和合，乳生酪，酪生酥，酥生醍醐，醍醐自相和合。如是，不殺、不殺更相習近，乃至正見、正見更相習近，是名比丘相習近法。」\n\n佛說是經已，諸比丘聞佛所說，歡喜奉行。",
+    "english_sa_text": "",
+    "parallels": [
+      {
+        "uid": "an10.199-210",
+        "acronym": "AN 10.199–210",
+        "root_lang": "pli",
+        "original_title": "Aparapuggalavagga",
+        "translated_title": null,
+        "type": "full",
+        "resembling": false,
+        "remark": null
+      }
+    ],
+    "primary_sn_uid": null,
+    "pali_text": "",
+    "english_sn_text": "",
+    "errors": [
+      "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa1001-1100/sa1045_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+      "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa1001-1100/sa1045_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+      "used_analayo_fallback"
+    ],
+    "kumarajiva_style_text": "",
+    "modern_psychology_text": "",
+    "notes": "",
+    "review_status": "raw"
+  },
+  {
+    "id": "SA_1046",
+    "uid": "sa1046",
+    "title": "雜阿含經  卷第四十四  業報相應  （1046）  第1046經",
+    "chinese_text": "Saṁyuktāgama雜阿含經\n\n如是我聞：\n\n一時，佛住舍衛國祇樹給孤獨園。\n\n爾時，世尊告諸比丘：「有蛇行法。諦聽，善思，當為汝說。何等為蛇行法？謂殺生惡行，手常血腥，乃至十不善業跡……」如前淳陀修多羅廣說。「彼當爾時，身蛇行、口蛇行、意蛇行；彼如是身、口、意蛇行已，於其二趣向一一趣，若地獄、若畜生。蛇行眾生？謂蛇、鼠、猫、狸等腹行眾生，是名蛇行法。\n\n「云何非蛇行法？謂不殺生，乃至正見……」如前淳陀修多羅十業跡廣說，「是名非蛇行法。身非蛇行、口非蛇行、意非蛇行，於其二趣生一一趣，若天上、若人中，是名非蛇行法。」\n\n佛說此經已，諸比丘聞佛所說，歡喜奉行。",
+    "english_sa_text": "",
+    "parallels": [
+      {
+        "uid": "an10.216",
+        "acronym": "AN 10.216",
+        "root_lang": "pli",
+        "original_title": "Saṁsappanīyasutta",
+        "translated_title": "Creeping",
+        "type": "full",
+        "resembling": false,
+        "remark": null
+      }
+    ],
+    "primary_sn_uid": null,
+    "pali_text": "",
+    "english_sn_text": "",
+    "errors": [
+      "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa1001-1100/sa1046_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+      "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa1001-1100/sa1046_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+      "used_analayo_fallback"
+    ],
+    "kumarajiva_style_text": "",
+    "modern_psychology_text": "",
+    "notes": "",
+    "review_status": "raw"
+  },
+  {
+    "id": "SA_1047",
+    "uid": "sa1047",
+    "title": "雜阿含經  卷第四十四  業報相應  （1047）  第1047經",
+    "chinese_text": "Saṁyuktāgama雜阿含經\n\n如是我聞：\n\n一時，佛住舍衛國祇樹給孤獨園。\n\n爾時，世尊告諸比丘：「有惡業因、惡心因、惡見因，如是眾生身壞命終，必墮惡趣泥犁中。譬如圓珠，擲著空中，落地流轉，不一處住。如是，惡業因、惡心因、惡見因，身壞命終，必墮地獄，中無住處。\n\n「云何為惡業？謂殺生，乃至綺語……」如上廣說，「是名惡業。云何惡心？謂貪恚心……」如上廣說，「是名惡心。云何惡見？謂邪顛倒……」如上廣說，「是名惡見。是名惡業因、惡心因、惡見因，身壞命終，必生惡趣泥犁中；善業因、善心因、善見因，身壞命終，必生善趣天上。\n\n「婆羅門！云何為善業？謂離殺生、不樂殺生，乃至不綺語，是名善業。云何善心？謂不貪、不恚，是名心善。云何為見善？謂正見不顛倒，乃至見不受後有，是名見善。是名業善因、心善因、見善因，身壞命終，得生天上。譬如四方摩尼珠，擲著空中，隨墮則安；如是彼三善因，所在受生，隨處則安。」\n\n佛說如是經已，諸比丘聞佛所說，歡喜奉行。",
+    "english_sa_text": "",
+    "parallels": [
+      {
+        "uid": "an3.118",
+        "acronym": "AN 3.118",
+        "root_lang": "pli",
+        "original_title": "Apaṇṇakasutta",
+        "translated_title": null,
+        "type": "full",
+        "resembling": false,
+        "remark": null
+      }
+    ],
+    "primary_sn_uid": null,
+    "pali_text": "",
+    "english_sn_text": "",
+    "errors": [
+      "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa1001-1100/sa1047_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+      "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa1001-1100/sa1047_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+      "used_analayo_fallback"
+    ],
+    "kumarajiva_style_text": "",
+    "modern_psychology_text": "",
+    "notes": "",
+    "review_status": "raw"
+  },
+  {
+    "id": "SA_1048",
+    "uid": "sa1048",
+    "title": "雜阿含經  卷第四十四  業報相應  （1048）  第1048經",
+    "chinese_text": "Saṁyuktāgama雜阿含經\n\n如是我聞：\n\n一時，佛住舍衛國祇樹給孤獨園。\n\n爾時，世尊告諸比丘：「若殺生人多習多行，生地獄中；若生人中，必得短壽。不與取多習多行，生地獄中；若生人中，錢財多難。邪婬多習多行，生地獄中；若生人中，所有妻室為人所圖。妄語多習多行，生地獄中；若生人中，多被譏論。兩舌多習多行，生地獄中，若生人中，親友乖離。惡口多習多行，生地獄中；若生人中，常聞醜聲。綺語多習多行，生地獄中；若生人中，言無信用。貪欲多習多行，生地獄中；若生人中，增其貪欲。瞋恚多習多行，生地獄中；若生人中，增其瞋恚。邪見多習多行，生地獄中，若生人中，增其愚癡。\n\n「若離殺生修習多修習，得生天上；若生人中，必得長壽。不盜修習多修習，得生天上；若生人中，錢財不喪。不邪婬修習多修習，得生天上；若生人中，妻室修良。不妄語修習多修習，得生天上；若生人中，不被譏論。不兩舌修習多修習，得生天上；若生人中，親友堅固。不惡口修習多修習，得生天上；若生人中，常聞妙音。不綺語修習多修習，得生天上；若生人中，言見信用。不貪修習多修習，得生天上；若生人中，不增愛欲。不恚修習多修習，得生天上；若生人中，不增瞋恚。正見修習多修習，得生天上；若生人中，不增愚癡。」\n\n佛說是經已，諸比丘聞佛所說，歡喜奉行。",
+    "english_sa_text": "",
+    "parallels": [],
+    "primary_sn_uid": null,
+    "pali_text": "",
+    "english_sn_text": "",
+    "errors": [
+      "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa1001-1100/sa1048_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+      "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa1001-1100/sa1048_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+      "used_analayo_fallback"
+    ],
+    "kumarajiva_style_text": "",
+    "modern_psychology_text": "",
+    "notes": "",
+    "review_status": "raw"
+  },
+  {
+    "id": "SA_1049",
+    "uid": "sa1049",
+    "title": "雜阿含經  卷第四十四  業報相應  （1049）  第1049經",
+    "chinese_text": "Saṁyuktāgama雜阿含經\n\n如是我聞：\n\n一時，佛住舍衛國祇樹給孤獨園。\n\n爾時，世尊告諸比丘：「殺生有三種，謂從貪生故、從恚生故、從癡生。乃至邪見亦三種，從貪生、從恚生、從癡生。離殺生亦有三種，不貪生、不恚生、不癡生。乃至離邪見亦三種，不貪生、不恚生、不癡生。」\n\n佛說是經已，諸比丘聞佛所說，歡喜奉行。",
+    "english_sa_text": "",
+    "parallels": [
+      {
+        "uid": "an10.174",
+        "acronym": "AN 10.174",
+        "root_lang": "pli",
+        "original_title": "Kammanidānasutta",
+        "translated_title": null,
+        "type": "full",
+        "resembling": false,
+        "remark": null
+      }
+    ],
+    "primary_sn_uid": null,
+    "pali_text": "",
+    "english_sn_text": "",
+    "errors": [
+      "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa1001-1100/sa1049_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+      "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa1001-1100/sa1049_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+      "used_analayo_fallback"
+    ],
+    "kumarajiva_style_text": "",
+    "modern_psychology_text": "",
+    "notes": "",
+    "review_status": "raw"
+  },
+  {
+    "id": "SA_1050",
+    "uid": "sa1050",
+    "title": "雜阿含經  卷第四十四  業報相應  （1050）  第1050經",
+    "chinese_text": "Saṁyuktāgama雜阿含經\n\n如是我聞：\n\n一時，佛住舍衛國祇樹給孤獨園。\n\n爾時，世尊告諸比丘：「所謂有出法，出不出法。何等為出法，出不出法？謂不殺生出於殺生，乃至正見出於邪見。」\n\n佛說是經已，諸比丘聞佛所說，歡喜奉行。",
+    "english_sa_text": "",
+    "parallels": [
+      {
+        "uid": "an10.175",
+        "acronym": "AN 10.175",
+        "root_lang": "pli",
+        "original_title": "Parikkamanasutta",
+        "translated_title": null,
+        "type": "full",
+        "resembling": false,
+        "remark": null
+      }
+    ],
+    "primary_sn_uid": null,
+    "pali_text": "",
+    "english_sn_text": "",
+    "errors": [
+      "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa1001-1100/sa1050_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+      "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa1001-1100/sa1050_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+      "used_analayo_fallback"
+    ],
+    "kumarajiva_style_text": "",
+    "modern_psychology_text": "",
+    "notes": "",
+    "review_status": "raw"
+  }
+]

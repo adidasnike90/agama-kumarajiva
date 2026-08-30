@@ -1,0 +1,143 @@
+{
+  "id": "SA_815",
+  "uid": "sa815",
+  "title": "雜阿含經  卷第三十一  安那般那念相應  （815）  布薩",
+  "chinese_text": "如是我聞：\n\n一時，佛住舍衛國祇樹給孤獨園夏安居。爾時，眾多上座聲聞於世尊左右樹下、窟中安居。時，有眾多年少比丘詣佛所，稽首佛足，退坐一面。\n\n佛為諸年少比丘種種說法，示、教、照、喜；示、教、照、喜已，默然住。\n\n諸年少比丘聞佛所說，歡喜隨喜，從座起，作禮而去。\n\n諸年少比丘往詣上座比丘所，禮諸上座足已，於一面坐。\n\n時，諸上座比丘作是念：「我等當攝受此諸年少比丘，或一人受一人，或一人受二、三、多人。」作是念已，即便攝受，或一人受一人，或受二、三、多人，或有上座乃至受六十人。\n\n爾時，世尊十五日布薩時，於大眾前敷座而坐。\n\n爾時，世尊觀察諸比丘已，告比丘：「善哉！善哉！我今喜諸比丘行諸正事。是故，比丘！當勤精進。」\n\n於此舍衛國，滿迦低月，諸處人間比丘聞世尊於舍衛國安居，滿迦低月滿已，作衣竟，持衣鉢，於舍衛國人間遊行。漸至舍衛國，舉衣鉢，洗足已，詣世尊所，稽首禮足已，退坐一面。\n\n爾時，世尊為人間比丘種種說法，示、教、照、喜已，默然住。\n\n爾時人間比丘聞佛說法，歡喜隨喜，從座起，作禮而去。往詣上座比丘所，稽首禮足，退坐一面。\n\n時，諸上座作是念：「我等當受此人間比丘，或一人受一人，或二、三，乃至多人。」即便受之，或一人受一人，或二、三，乃至有受六十人者。彼上座比丘受諸人間比丘，教誡、教授，善知先後次第。\n\n爾時，世尊月十五日布薩時，於大眾前敷座而坐，觀察諸比丘眾，告諸比丘：「善哉！善哉！諸比丘！我欣汝等所行正事，樂汝等所行正事。諸比丘！過去諸佛亦有比丘眾所行正事如今此眾，未來諸佛所有諸眾亦當如是所行正事如今此眾。所以者何？今此眾中諸長老比丘，有得初禪、第二禪、第三禪、第四禪，慈、悲、喜、捨，空入處、識入處、無所有入處、非想非非想處具足住。有比丘三結盡，得須陀洹，不墮惡趣法，決定正向三菩提，七有天人往生，究竟苦邊。有比丘三結盡，貪、恚、癡薄，得斯陀含。有比丘五下分結盡，得阿那含，生般涅槃，不復還生此世。有比丘得無量神通境界，天耳、他心智、宿命智、生死智、漏盡智。有比丘修不淨觀，斷貪欲，修慈心，斷瞋恚，修無常想，斷我慢，修安那般那念，斷覺想。云何？比丘！修安那般那念斷覺想？是比丘依止聚落，乃至觀滅出息如觀滅出息學，是名修安那般那念斷覺想。」\n\n佛說此經已，諸比丘聞佛所說，歡喜奉行。",
+  "english_sa_text": "",
+  "parallels": [
+    {
+      "uid": "mn118",
+      "acronym": "MN 118",
+      "root_lang": "pli",
+      "original_title": "Ānāpānassatisutta",
+      "translated_title": "Mindfulness of Breathing",
+      "type": "full",
+      "resembling": false,
+      "remark": "Akanuma p. 169 lists T 96. Examination shows that this discourse bears no resemblance to MN 118, apart from a single introductory sentence that links mindfulness of breathing to the attainment of knowledge and liberation."
+    },
+    {
+      "uid": "sht-sutta84",
+      "acronym": "SHT Sutta 84",
+      "root_lang": "san",
+      "original_title": "",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "sa803",
+      "acronym": "SA 803",
+      "root_lang": "lzh",
+      "original_title": "一明",
+      "translated_title": null,
+      "type": "full",
+      "resembling": true,
+      "remark": null
+    },
+    {
+      "uid": "sa812",
+      "acronym": "SA 812",
+      "root_lang": "lzh",
+      "original_title": "比丘",
+      "translated_title": null,
+      "type": "full",
+      "resembling": true,
+      "remark": null
+    },
+    {
+      "uid": "sa811",
+      "acronym": "SA 811",
+      "root_lang": "lzh",
+      "original_title": "阿難",
+      "translated_title": null,
+      "type": "full",
+      "resembling": true,
+      "remark": null
+    },
+    {
+      "uid": "sa810",
+      "acronym": "SA 810",
+      "root_lang": "lzh",
+      "original_title": "金剛",
+      "translated_title": null,
+      "type": "full",
+      "resembling": true,
+      "remark": null
+    },
+    {
+      "uid": "sa801-900",
+      "acronym": null,
+      "root_lang": "lzh",
+      "original_title": "Saṁyuktāgama 801–900",
+      "translated_title": null,
+      "type": "full",
+      "resembling": true,
+      "remark": null
+    },
+    {
+      "uid": "sn54.16",
+      "acronym": "SN 54.16",
+      "root_lang": "pli",
+      "original_title": "Dutiyabhikkhusutta",
+      "translated_title": null,
+      "type": "full",
+      "resembling": true,
+      "remark": null
+    },
+    {
+      "uid": "sn54.15",
+      "acronym": "SN 54.15",
+      "root_lang": "pli",
+      "original_title": "Paṭhamabhikkhusutta",
+      "translated_title": null,
+      "type": "full",
+      "resembling": true,
+      "remark": null
+    },
+    {
+      "uid": "sn54.14",
+      "acronym": "SN 54.14",
+      "root_lang": "pli",
+      "original_title": "Dutiyaānandasutta",
+      "translated_title": null,
+      "type": "full",
+      "resembling": true,
+      "remark": null
+    },
+    {
+      "uid": "sn54.13",
+      "acronym": "SN 54.13",
+      "root_lang": "pli",
+      "original_title": "Paṭhamaānandasutta",
+      "translated_title": null,
+      "type": "full",
+      "resembling": true,
+      "remark": null
+    }
+  ],
+  "primary_sn_uid": "sn54.13",
+  "pali_text": "Sāvatthinidānaṁ. Atha kho āyasmā ānando yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṁ abhivādetvā ekamantaṁ nisīdi. Ekamantaṁ nisinno kho āyasmā ānando bhagavantaṁ etadavoca: “atthi nu kho, bhante, ekadhammo bhāvito bahulīkato cattāro dhamme paripūreti, cattāro dhammā bhāvitā bahulīkatā satta dhamme paripūrenti, satta dhammā bhāvitā bahulīkatā dve dhamme paripūrentī”ti? “Atthi kho, ānanda, ekadhammo bhāvito bahulīkato cattāro dhamme paripūreti, cattāro dhammā bhāvitā bahulīkatā satta dhamme paripūrenti, satta dhammā bhāvitā bahulīkatā dve dhamme paripūrentī”ti. “Katamo pana, bhante, ekadhammo bhāvito bahulīkato cattāro dhamme paripūreti, cattāro dhammā bhāvitā bahulīkatā satta dhamme paripūrenti, satta dhammā bhāvitā bahulīkatā dve dhamme paripūrentī”ti? “Ānāpānassatisamādhi kho, ānanda, ekadhammo bhāvito bahulīkato cattāro satipaṭṭhāne paripūreti, cattāro satipaṭṭhānā bhāvitā bahulīkatā satta bojjhaṅge paripūrenti, satta bojjhaṅgā bhāvitā bahulīkatā vijjāvimuttiṁ paripūrenti. Kathaṁ bhāvito, ānanda, ānāpānassatisamādhi kathaṁ bahulīkato cattāro satipaṭṭhāne paripūreti? Idhānanda, bhikkhu araññagato vā rukkhamūlagato vā suññāgāragato vā nisīdati pallaṅkaṁ ābhujitvā ujuṁ kāyaṁ paṇidhāya parimukhaṁ satiṁ upaṭṭhapetvā. So satova assasati, satova passasati. Dīghaṁ vā assasanto ‘dīghaṁ assasāmī’ti pajānāti, dīghaṁ vā passasanto ‘dīghaṁ passasāmī’ti pajānāti …pe… ‘paṭinissaggānupassī assasissāmī’ti sikkhati, ‘paṭinissaggānupassī passasissāmī’ti sikkhati. Yasmiṁ samaye, ānanda, bhikkhu dīghaṁ vā assasanto ‘dīghaṁ assasāmī’ti pajānāti, dīghaṁ vā passasanto ‘dīghaṁ passasāmī’ti pajānāti; rassaṁ vā …pe… ‘passambhayaṁ kāyasaṅkhāraṁ assasissāmī’ti sikkhati, ‘passambhayaṁ kāyasaṅkhāraṁ passasissāmī’ti sikkhati— kāye kāyānupassī, ānanda, bhikkhu tasmiṁ samaye viharati ātāpī sampajāno satimā, vineyya loke abhijjhādomanassaṁ. Taṁ kissa hetu? Kāyaññatarāhaṁ, ānanda, etaṁ vadāmi, yadidaṁ—assāsapassāsaṁ. Tasmātihānanda, kāye kāyānupassī bhikkhu tasmiṁ samaye viharati ātāpī sampajāno satimā, vineyya loke abhijjhādomanassaṁ. Yasmiṁ samaye, ānanda, bhikkhu ‘pītippaṭisaṁvedī assasissāmī’ti sikkhati, sukhappaṭisaṁvedī …pe… cittasaṅkhārappaṭisaṁvedī … ‘passambhayaṁ cittasaṅkhāraṁ assasissāmī’ti sikkhati, ‘passambhayaṁ cittasaṅkhāraṁ passasissāmī’ti sikkhati— vedanāsu vedanānupassī, ānanda, bhikkhu tasmiṁ samaye viharati ātāpī sampajāno satimā, vineyya loke abhijjhādomanassaṁ. Taṁ kissa hetu? Vedanāññatarāhaṁ, ānanda, etaṁ vadāmi, yadidaṁ—assāsapassāsānaṁ sādhukaṁ manasikāraṁ. Tasmātihānanda, vedanāsu vedanānupassī bhikkhu tasmiṁ samaye viharati ātāpī sampajāno satimā, vineyya loke abhijjhādomanassaṁ. Yasmiṁ samaye, ānanda, bhikkhu ‘cittappaṭisaṁvedī assasissāmī’ti sikkhati, ‘cittappaṭisaṁvedī passasissāmī’ti sikkhati; abhippamodayaṁ cittaṁ …pe… samādahaṁ cittaṁ … ‘vimocayaṁ cittaṁ assasissāmī’ti sikkhati, ‘vimocayaṁ cittaṁ passasissāmī’ti sikkhati— citte cittānupassī, ānanda, bhikkhu tasmiṁ samaye viharati ātāpī sampajāno satimā, vineyya loke abhijjhādomanassaṁ. Taṁ kissa hetu? Nāhaṁ, ānanda, muṭṭhassatissa asampajānassa ānāpānassatisamādhibhāvanaṁ vadāmi. Tasmātihānanda, citte cittānupassī bhikkhu tasmiṁ samaye viharati ātāpī sampajāno satimā, vineyya loke abhijjhādomanassaṁ. Yasmiṁ samaye, ānanda, bhikkhu aniccānupassī …pe… virāgānupassī … nirodhānupassī … ‘paṭinissaggānupassī assasissāmī’ti sikkhati, ‘paṭinissaggānupassī passasissāmī’ti sikkhati— dhammesu dhammānupassī, ānanda, bhikkhu tasmiṁ samaye viharati ātāpī sampajāno satimā, vineyya loke abhijjhādomanassaṁ. So yaṁ taṁ hoti abhijjhādomanassānaṁ pahānaṁ taṁ paññāya disvā sādhukaṁ ajjhupekkhitā hoti. Tasmātihānanda, dhammesu dhammānupassī bhikkhu tasmiṁ samaye viharati ātāpī sampajāno satimā, vineyya loke abhijjhādomanassaṁ. Evaṁ bhāvito kho, ānanda, ānāpānassatisamādhi evaṁ bahulīkato cattāro satipaṭṭhāne paripūreti. Kathaṁ bhāvitā cānanda, cattāro satipaṭṭhānā kathaṁ bahulīkatā satta bojjhaṅge paripūrenti? Yasmiṁ samaye, ānanda, bhikkhu kāye kāyānupassī viharati— upaṭṭhitāssa tasmiṁ samaye bhikkhuno sati hoti asammuṭṭhā. Yasmiṁ samaye, ānanda, bhikkhuno upaṭṭhitā sati hoti asammuṭṭhā—satisambojjhaṅgo tasmiṁ samaye bhikkhuno āraddho hoti, satisambojjhaṅgaṁ tasmiṁ samaye bhikkhu bhāveti, satisambojjhaṅgo tasmiṁ samaye bhikkhuno bhāvanāpāripūriṁ gacchati. So tathā sato viharanto taṁ dhammaṁ paññāya pavicinati pavicarati parivīmaṁsamāpajjati. Yasmiṁ samaye, ānanda, bhikkhu tathā sato viharanto taṁ dhammaṁ paññāya pavicinati pavicarati parivīmaṁsamāpajjati— dhammavicayasambojjhaṅgo tasmiṁ samaye bhikkhuno āraddho hoti, dhammavicayasambojjhaṅgaṁ tasmiṁ samaye bhikkhu bhāveti, dhammavicayasambojjhaṅgo tasmiṁ samaye bhikkhuno bhāvanāpāripūriṁ gacchati. Tassa taṁ dhammaṁ paññāya pavicinato pavicarato parivīmaṁsamāpajjato āraddhaṁ hoti vīriyaṁ asallīnaṁ. Yasmiṁ samaye, ānanda, bhikkhuno taṁ dhammaṁ paññāya pavicinato pavicarato parivīmaṁsamāpajjato āraddhaṁ hoti vīriyaṁ asallīnaṁ— vīriyasambojjhaṅgo tasmiṁ samaye bhikkhuno āraddho hoti, vīriyasambojjhaṅgaṁ tasmiṁ samaye bhikkhu bhāveti, vīriyasambojjhaṅgo tasmiṁ samaye bhikkhuno bhāvanāpāripūriṁ gacchati. Āraddhavīriyassa uppajjati pīti nirāmisā. Yasmiṁ samaye, ānanda, bhikkhuno āraddhavīriyassa uppajjati pīti nirāmisā— pītisambojjhaṅgo tasmiṁ samaye bhikkhuno āraddho hoti, pītisambojjhaṅgaṁ tasmiṁ samaye bhikkhu bhāveti, pītisambojjhaṅgo tasmiṁ samaye bhikkhuno bhāvanāpāripūriṁ gacchati. Pītimanassa kāyopi passambhati, cittampi passambhati. Yasmiṁ samaye, ānanda, bhikkhuno pītimanassa kāyopi passambhati, cittampi passambhati— passaddhisambojjhaṅgo tasmiṁ samaye bhikkhuno āraddho hoti, passaddhisambojjhaṅgaṁ tasmiṁ samaye bhikkhu bhāveti, passaddhisambojjhaṅgo tasmiṁ samaye bhikkhuno bhāvanāpāripūriṁ gacchati. Passaddhakāyassa sukhino cittaṁ samādhiyati. Yasmiṁ samaye, ānanda, bhikkhuno passaddhakāyassa sukhino cittaṁ samādhiyati— samādhisambojjhaṅgo tasmiṁ samaye bhikkhuno āraddho hoti, samādhisambojjhaṅgaṁ tasmiṁ samaye bhikkhu bhāveti, samādhisambojjhaṅgo tasmiṁ samaye bhikkhuno bhāvanāpāripūriṁ gacchati. So tathāsamāhitaṁ cittaṁ sādhukaṁ ajjhupekkhitā hoti. Yasmiṁ samaye, ānanda, bhikkhu tathāsamāhitaṁ cittaṁ sādhukaṁ ajjhupekkhitā hoti— upekkhāsambojjhaṅgo tasmiṁ samaye bhikkhuno āraddho hoti, upekkhāsambojjhaṅgaṁ tasmiṁ samaye bhikkhu bhāveti, upekkhāsambojjhaṅgo tasmiṁ samaye bhikkhuno bhāvanāpāripūriṁ gacchati. Yasmiṁ samaye, ānanda, bhikkhu vedanāsu …pe… citte …pe… dhammesu dhammānupassī viharati— upaṭṭhitāssa tasmiṁ samaye bhikkhuno sati hoti asammuṭṭhā. Yasmiṁ samaye, ānanda, bhikkhuno upaṭṭhitā sati hoti asammuṭṭhā— satisambojjhaṅgo tasmiṁ samaye bhikkhuno āraddho hoti, satisambojjhaṅgaṁ tasmiṁ samaye bhikkhu bhāveti, satisambojjhaṅgo tasmiṁ samaye bhikkhuno bhāvanāpāripūriṁ gacchati. (Yathā paṭhamaṁ satipaṭṭhānaṁ, evaṁ vitthāretabbaṁ.) So tathāsamāhitaṁ cittaṁ sādhukaṁ ajjhupekkhitā hoti. Yasmiṁ samaye, ānanda, bhikkhu tathāsamāhitaṁ cittaṁ sādhukaṁ ajjhupekkhitā hoti— upekkhāsambojjhaṅgo tasmiṁ samaye bhikkhuno āraddho hoti, upekkhāsambojjhaṅgaṁ tasmiṁ samaye bhikkhu bhāveti, upekkhāsambojjhaṅgo tasmiṁ samaye bhikkhuno bhāvanāpāripūriṁ gacchati. Evaṁ bhāvitā kho, ānanda, cattāro satipaṭṭhānā evaṁ bahulīkatā satta bojjhaṅge paripūrenti. Kathaṁ bhāvitā, ānanda, satta bojjhaṅgā kathaṁ bahulīkatā vijjāvimuttiṁ paripūrenti? Idhānanda, bhikkhu satisambojjhaṅgaṁ bhāveti vivekanissitaṁ virāganissitaṁ nirodhanissitaṁ vossaggapariṇāmiṁ, dhammavicayasambojjhaṅgaṁ bhāveti …pe… upekkhāsambojjhaṅgaṁ bhāveti vivekanissitaṁ virāganissitaṁ nirodhanissitaṁ vossaggapariṇāmiṁ. Evaṁ bhāvitā kho, ānanda, satta bojjhaṅgā evaṁ bahulīkatā vijjāvimuttiṁ paripūrentī”ti. Tatiyaṁ.",
+  "english_sn_text": "At Sāvatthī. Then Venerable Ānanda went up to the Buddha, bowed, sat down to one side, and said to him: “Sir, is there one thing that, when developed and cultivated, fulfills four things; and those four things, when developed and cultivated, fulfill seven things; and those seven things, when developed and cultivated, fulfill two things?” “There is, Ānanda.” “Sir, what is that one thing?” “Immersion due to mindfulness of breathing is one thing that, when developed and cultivated, fulfills the four kinds of mindfulness meditation. And the four kinds of mindfulness meditation, when developed and cultivated, fulfill the seven awakening factors. And the seven awakening factors, when developed and cultivated, fulfill knowledge and freedom. And how is mindfulness of breathing developed and cultivated so as to fulfill the four kinds of mindfulness meditation? It’s when a mendicant—gone to a wilderness, or to the root of a tree, or to an empty hut—sits down cross-legged, sets their body straight, and brings mindfulness to the present. Just mindful, they breathe in. Mindful, they breathe out. Breathing in heavily they know: ‘I’m breathing in heavily.’ Breathing out heavily they know: ‘I’m breathing out heavily.’ … They practice like this: ‘I’ll breathe in observing letting go.’ They practice like this: ‘I’ll breathe out observing letting go.’ There’s a time when a mendicant is breathing in heavily, and they know: ‘I’m breathing in heavily.’ Breathing out heavily they know: ‘I’m breathing out heavily.’ … They practice like this: ‘I’ll breathe in stilling the physical process.’ They practice like this: ‘I’ll breathe out stilling the physical process.’ At such a time a mendicant is meditating by observing an aspect of the body—keen, aware, and mindful, rid of covetousness and displeasure for the world. Why is that? Because the breath is a certain aspect of the body, I say. Therefore, at such a time a mendicant is meditating by observing an aspect of the body—keen, aware, and mindful, rid of covetousness and displeasure for the world. There’s a time when a mendicant practices like this: ‘I’ll breathe in experiencing rapture … bliss … mind …’ … They practice like this: ‘I’ll breathe in stilling the mental process.’ They practice like this: ‘I’ll breathe out stilling the mental process.’ At such a time a mendicant is meditating by observing an aspect of feelings—keen, aware, and mindful, rid of covetousness and displeasure for the world. Why is that? Because careful application of mind to the in-breaths and out-breaths is a certain aspect of feelings, I say. Therefore, at such a time a mendicant is meditating by observing an aspect of feelings—keen, aware, and mindful, rid of covetousness and displeasure for the world. There’s a time when a mendicant practices like this: ‘I’ll breathe in experiencing the mind.’ They practice like this: ‘I’ll breathe out experiencing the mind.’ They practice like this: ‘I’ll breathe in gladdening the mind … immersing the mind in samādhi … freeing the mind.’ They practice like this: ‘I’ll breathe out freeing the mind.’ At such a time a mendicant is meditating by observing an aspect of the mind—keen, aware, and mindful, rid of covetousness and displeasure for the world. Why is that? Because there is no development of immersion due to mindfulness of breathing for someone who is unmindful and lacks awareness, I say. Therefore, at such a time a mendicant is meditating by observing an aspect of the mind—keen, aware, and mindful, rid of covetousness and displeasure for the world. There’s a time when a mendicant practices like this: ‘I’ll breathe in observing impermanence … fading away … cessation … letting go.’ They practice like this: ‘I’ll breathe out observing letting go.’ At such a time a mendicant is meditating by observing an aspect of principles—keen, aware, and mindful, rid of covetousness and displeasure for the world. Having seen with wisdom the giving up of covetousness and displeasure, they watch closely over with equanimity. Therefore, at such a time a mendicant is meditating by observing an aspect of principles—keen, aware, and mindful, rid of covetousness and displeasure for the world. That’s how immersion due to mindfulness of breathing is developed and cultivated so as to fulfill the four kinds of mindfulness meditation. And how are the four kinds of mindfulness meditation developed and cultivated so as to fulfill the seven awakening factors? Whenever a mendicant meditates by observing an aspect of the body, their mindfulness is established and lucid. At such a time, a mendicant has initiated the awakening factor of mindfulness; they develop it and perfect it. As they live mindfully in this way they investigate, explore, and inquire into that principle with wisdom. At such a time, a mendicant has activated the awakening factor of investigation of principles; they develop it and perfect it. As they investigate principles with wisdom in this way their energy is roused up and unflagging. At such a time, a mendicant has initiated the awakening factor of energy; they develop it and perfect it. When you’re energetic, rapture not of the flesh arises. At such a time, a mendicant has initiated the awakening factor of rapture; they develop it and perfect it. When the mind is full of rapture, the body and mind become tranquil. At such a time, a mendicant has activated the awakening factor of tranquility; they develop it and perfect it. When the body is tranquil and one feels bliss, the mind becomes immersed in samādhi. At such a time, a mendicant has activated the awakening factor of immersion; they develop it and perfect it. They closely watch over that mind immersed in samādhi. At such a time, a mendicant has activated the awakening factor of equanimity; they develop it and perfect it. Whenever a mendicant meditates by observing an aspect of feelings … mind … principles, their mindfulness is established and lucid. At such a time, a mendicant has activated the awakening factor of mindfulness; they develop it and perfect it. … (Tell in full as for the first kind of mindfulness meditation.) They closely watch over that mind immersed in samādhi. At such a time, a mendicant has activated the awakening factor of equanimity; they develop it and perfect it. That’s how the four kinds of mindfulness meditation are developed and cultivated so as to fulfill the seven awakening factors. And how are the seven awakening factors developed and cultivated so as to fulfill knowledge and freedom? It’s when a mendicant develops the awakening factors of mindfulness, investigation of principles, energy, rapture, tranquility, immersion, and equanimity, which rely on seclusion, fading away, and cessation, and ripen as letting go. That’s how the seven awakening factors are developed and cultivated so as to fulfill knowledge and freedom.”",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa801-900/sa815_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa801-900/sa815_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛住舍卫国祇树给孤独园，夏安居。\n尔时众多上座声闻于世尊左右树下、窟中安居。时有众多年少比丘诣佛所，稽首礼足，退坐一面。佛为诸年少比丘种种说法，示、教、利、喜；已，默然住。诸年少比丘闻已，欢喜随喜，作礼而去，往诣上座所，礼足一面坐。\n诸上座作是念：「我等当摄受此诸年少——或一人受一人，或一人受二、三、多人。」即便摄受；有上座乃至受六十人。\n尔时世尊十五日布萨，于大众前敷座而坐，观察已，告言：「善哉！善哉！我今喜诸比丘行诸正事。是故比丘当勤精进。」\n于此舍卫国，迦提月满，诸人间比丘闻世尊安居已满、作衣竟，持衣钵来诣舍卫，举衣钵、洗足已，诣佛所，稽首礼足，退坐一面。佛为说法，示、教、利、喜已，默然；彼欢喜作礼，往诣上座，亦为上座所摄受、教诫教授。\n尔时世尊月十五日布萨，复于大众前坐，观察已，告诸比丘：「善哉！善哉！我欣汝等所行正事。过去、未来诸佛所有比丘众，亦当如是行正事如今此众。所以者何？今此众中：有比丘得初禅乃至第四禅；慈、悲、喜、舍；空入处乃至非想非非想处具足住；有比丘断三结——身见、戒取、疑——得须陀洹，不堕恶趣，决定正向等正觉，七有天人往来，究竟苦边；有比丘三结尽，贪恚痴薄，得斯陀含；有比丘断五下分结——身见、戒取、疑、欲贪、瞋恚——得阿那含，生般涅槃，不复还来此世；有比丘得天眼乃至漏尽智；有比丘修不净观断贪欲，修慈断瞋，修无常想断我慢，修安那般那念断诸觉想。」\n「云何修安那般那念能断诸觉想？若比丘依止聚落、城邑，晨朝著衣持钵入村乞食，善护其身，守诸根门，善系心住。乞食已还，举衣钵、洗足已，入林中闲房树下，或空露地，端身正坐，系念在前。断世贪爱，离欲清净；瞋恚、昏沉睡眠、掉举后悔、疑皆断，度诸疑惑，于善法心得决定。远离五盖——于心令慧力羸、为障碍分、不趣涅槃者。正念而入息，正念而出息。入息长，如实知『入息长』；出息长，如实知『出息长』。入息短，如实知『入息短』；出息短，如实知『出息短』。学『觉知一切身而入息』，学『觉知一切身而出息』；学『止息身行而入息』，学『止息身行而出息』。学『觉知喜而入息』，学『觉知喜而出息』；学『觉知乐而入息』，学『觉知乐而出息』；学『觉知心行而入息』，学『觉知心行而出息』；学『止息心行而入息』，学『止息心行而出息』。学『觉知心而入息』，学『觉知心而出息』；学『悦心而入息』，学『悦心而出息』；学『定心而入息』，学『定心而出息』；学『解脱心而入息』，学『解脱心而出息』。学『观察无常而入息』，学『观察无常而出息』；学『观察离贪而入息』，学『观察离贪而出息』；学『观察灭而入息』，学『观察灭而出息』；学『观察舍遣而入息』，学『观察舍遣而出息』。是名修安那般那念，能断诸觉想。」\n佛说此经已，诸比丘闻佛所说，欢喜奉行。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在舍卫国祇树给孤独园，结夏安居。\n那时众多上座声闻在世尊左右的树下、洞窟中安居。有许多年少比丘来到佛所，叩头礼足，坐在一边。佛为这些年少比丘种种说法，开示、教导、鼓励、使欢喜；说完后默然安住。年少比丘们听完，欢喜随喜，作礼离去，前往上座那里，礼足后坐在一边。\n上座们心想：「我们应当摄受这些年少——或者一人摄一人，或者一人摄二、三、多人。」于是便摄受；有的上座甚至摄受多到六十人。\n那时世尊在十五日布萨，在大众前敷座而坐，观察之后告诉他们：「好啊！好啊！我现在欢喜比丘们所行的正事。所以比丘应当勤加精进。」\n在这舍卫国，到了迦提月圆满，各处人间的比丘听说世尊安居已满、作衣完毕，便持衣钵前来舍卫，收衣钵、洗足后到佛所，叩头礼足，坐在一边。佛为他们说法，开示、教导、鼓励、使欢喜后默然；他们欢喜作礼，前往上座，也被上座摄受、教诫教授。\n那时世尊又在月十五日布萨，在大众前坐下，观察之后告诉比丘们：「好啊！好啊！我欣喜你们所行的正事。过去、未来诸佛的比丘众，也应当像现在这一众这样行正事。为什么呢？因为现在这一众中：有比丘得初禅一直到第四禅；慈、悲、喜、舍；空无边处一直到非想非非想处具足而住；有比丘断除三结——身见、戒取、疑——得须陀洹，不堕恶趣，决定正向正觉，最多七次往来人天，究竟苦边；有比丘三结尽，贪恚痴薄，得斯陀含；有比丘断除五下分结——身见、戒取、疑、欲贪、瞋恚——得阿那含，上生而般涅槃，不再还来此世；有比丘得天眼一直到漏尽智；有比丘修不净观断贪欲，修慈断瞋，修无常想断我慢，修入出息念断除各种觉想。」\n「怎样修习入出息念能断除各种觉想？如果比丘依止聚落、城邑，清晨著衣持钵入村乞食，善护自身，守住根门，善系其心。乞食回来，收衣钵、洗足后，入林中闲房树下，或空露地，端身正坐，把念安住在前。断除世间贪爱，离欲清净；瞋恚、昏沉睡眠、掉举后悔、疑都断除，度过疑惑，于善法心得决定。远离五盖——那些使心中慧力衰弱、成障碍分、不趋向涅槃的。正念地入息，正念地出息。入息长，如实知道『入息长』；出息长，如实知道『出息长』。入息短，如实知道『入息短』；出息短，如实知道『出息短』。学着『觉知整个身体而入息』，学着『觉知整个身体而出息』；学着『让身行止息而入息』，学着『让身行止息而出息』。学着『觉知喜而入息』，学着『觉知喜而出息』；学着『觉知乐而入息』，学着『觉知乐而出息』；学着『觉知心行而入息』，学着『觉知心行而出息』；学着『让心行止息而入息』，学着『让心行止息而出息』。学着『觉知心而入息』，学着『觉知心而出息』；学着『使心喜悦而入息』，学着『使心喜悦而出息』；学着『使心入定而入息』，学着『使心入定而出息』；学着『使心解脱而入息』，学着『使心解脱而出息』。学着『观察无常而入息』，学着『观察无常而出息』；学着『观察离贪而入息』，学着『观察离贪而出息』；学着『观察灭而入息』，学着『观察灭而出息』；学着『观察舍遣而入息』，学着『观察舍遣而出息』。这叫做修习入出息念，能断除各种觉想。」\n佛说完这部经，比丘们听佛所说，都欢喜奉行。",
+  "notes": "本经 SC 平行表所列平行及 `raw_aligned_data.json` 内之巴利本文、Sujato 英译并用以厘定法义；求那跋陀罗汉本用于定位经文与传统术语。confidence=high：叙事主平行 MN118 Ānāpānasati（布萨、摄受年少、赞僧德）；SC 亦列 SN54.13–16。汉末以安那般那断觉想（vitakka）收束，十六行据 SN54／MN118 补全；示教照喜→示、教、利、喜。迦低→迦提。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "high",
+  "prior_review_status": "needs_revision",
+  "similarity_to_source": 0.228,
+  "paragraph_parallel": true
+}

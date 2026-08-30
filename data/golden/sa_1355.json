@@ -1,0 +1,32 @@
+{
+  "id": "SA_1355",
+  "uid": "sa1355",
+  "title": "雜阿含經  卷第五十  林相應  （1355）  瓜",
+  "chinese_text": "如是我聞：\n\n一時，佛住舍衛國祇樹給孤獨園。\n\n時，有異比丘在拘薩羅人間，住一林中，去林不遠，有種瓜田。\n\n時，有盜者夜偷其瓜，見月欲出，而說偈言：\n\n「明月汝莫出，　　待我斷其瓜，\n\n　我持瓜去已，　　任汝現不現。」\n\n時，彼比丘作是念：「彼盜瓜者尚能說偈，我豈不能說偈答耶？」即說偈言：\n\n「惡魔汝莫出，　　待我斷煩惱，\n\n　斷彼煩惱已，　　任汝出不出。」\n\n時，彼比丘說此偈已，默然而住。",
+  "english_sa_text": "",
+  "parallels": [],
+  "primary_sn_uid": null,
+  "pali_text": "",
+  "english_sn_text": "",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa1301-1400/sa1355_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa1301-1400/sa1355_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛住舍卫国祇树给孤独园。\n时有异比丘在拘萨罗人间，住一林中；去林不远有种瓜田。\n有盗者夜偷其瓜，见月欲出，说偈：「明月汝且莫出，待我断取其瓜；持瓜去已之后，任汝现与不现。」\n比丘念：「盗瓜者尚能说偈，我岂不能答？」即说偈：「恶魔汝且莫出，待我断诸烦恼；断彼烦恼已竟，任汝出与不出。」\n比丘说此偈已，默然而住。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在舍卫国祇树给孤独园。\n当时有一位比丘在拘萨罗人间，住在一片林中；离林不远有瓜田。\n有个盗贼夜里偷瓜，看见月亮快要出来，说偈：「明月你先别出来，等我割完这些瓜；把瓜拿走以后，随你显现或不显现。」\n比丘心想：「偷瓜的都能说偈，我难道不能答？」便说偈：「恶魔你先别出来，等我断尽烦恼；烦恼断尽以后，随你出现或不出现。」\n比丘说完这首偈，便默然而住。",
+  "notes": "SC 于本经未列可靠巴利平行，故唯以汉本为底，参林相应／Vanasaṃyutta 定型语及早期教理厘义；依项目规约「无可靠平行时 confidence 降为 medium/low」。求那跋陀罗汉本用于定位经文与传统术语。confidence=medium：无 SC 专经。盗者以月为诫、比丘以魔为诫；「断烦恼」对「断瓜」，林相应惯用对偈。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "medium",
+  "prior_review_status": "needs_revision",
+  "similarity_to_source": 0.282,
+  "paragraph_parallel": true
+}

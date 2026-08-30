@@ -1,0 +1,43 @@
+{
+  "id": "SA_847",
+  "uid": "sa847",
+  "title": "雜阿含經  卷第三十二  學相應  （847）  天道",
+  "chinese_text": "如是我聞：\n\n一時，佛住舍衛國祇樹給孤獨園。\n\n爾時，世尊告諸比丘：「有四種諸天天道，未淨眾生令淨，已淨者重令淨。何等為四？謂聖弟子於佛不壞淨，於法、僧不壞淨，聖戒成就，是名四種諸天天道，未淨眾生令淨，已淨者重令淨。」\n\n佛說此經已，諸比丘聞佛所說，歡喜奉行。",
+  "english_sa_text": "",
+  "parallels": [
+    {
+      "uid": "sn55.34",
+      "acronym": "SN 55.34",
+      "root_lang": "pli",
+      "original_title": "Paṭhamadevapadasutta",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    }
+  ],
+  "primary_sn_uid": "sn55.34",
+  "pali_text": "Sāvatthinidānaṁ. “Cattārimāni, bhikkhave, devānaṁ devapadāni avisuddhānaṁ sattānaṁ visuddhiyā apariyodātānaṁ sattānaṁ pariyodapanāya. Katamāni cattāri? Idha, bhikkhave, ariyasāvako buddhe aveccappasādena samannāgato hoti— itipi so bhagavā …pe… satthā devamanussānaṁ buddho bhagavāti. Idaṁ paṭhamaṁ devānaṁ devapadaṁ avisuddhānaṁ sattānaṁ visuddhiyā apariyodātānaṁ sattānaṁ pariyodapanāya. Puna caparaṁ, bhikkhave, ariyasāvako dhamme …pe… saṅghe …pe…. Puna caparaṁ, bhikkhave, ariyasāvako ariyakantehi sīlehi samannāgato hoti akhaṇḍehi …pe… samādhisaṁvattanikehi. Idaṁ catutthaṁ devānaṁ devapadaṁ avisuddhānaṁ sattānaṁ visuddhiyā apariyodātānaṁ sattānaṁ pariyodapanāya. Imāni kho, bhikkhave, cattāri devānaṁ devapadāni avisuddhānaṁ sattānaṁ visuddhiyā apariyodātānaṁ sattānaṁ pariyodapanāyā”ti. Catutthaṁ.",
+  "english_sn_text": "At Sāvatthī. “Mendicants, these four footprints of the gods are in order to purify unpurified beings and cleanse unclean beings. What four? Firstly, a noble disciple has experiential confidence in the Buddha … This is the first footprint of the gods in order to purify unpurified beings and cleanse unclean beings. Furthermore, a noble disciple has experiential confidence in the teaching … the Saṅgha … Furthermore, a noble disciple’s ethical conduct is loved by the noble ones, unbroken, impeccable, spotless, and unmarred, liberating, praised by sensible people, not mistaken, and leading to immersion. This is the fourth footprint of the gods in order to purify unpurified beings and cleanse unclean beings. These four footprints of the gods are in order to purify unpurified beings and cleanse unclean beings.”",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa801-900/sa847_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa801-900/sa847_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛住舍卫国祇树给孤独园。\n尔时世尊告诸比丘：「有四种诸天之足迹，能令未净者净、已净者更净。何等为四？谓于佛不坏净、于法不坏净、于僧不坏净、圣戒成就——是名四天足迹，未净令净，已净更净。」\n佛说此经已，诸比丘闻佛所说，欢喜奉行。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在舍卫国祇树给孤独园。\n那时世尊告诉比丘们：「有四种诸天的足迹，能使未清净的清净、已清净的更清净。哪四种？就是于佛不坏净、于法不坏净、于僧不坏净、以及圣戒成就——这叫做四种天足迹，未净令净，已净更净。」\n佛说完这部经，比丘们听佛所说，都欢喜奉行。",
+  "notes": "本经 SC 平行表所列平行及 `raw_aligned_data.json` 内之巴利本文、Sujato 英译并用以厘定法义；求那跋陀罗汉本用于定位经文与传统术语。confidence=high：SN55.34 Paṭhamadevapada；devapada→天足迹／天道；汉「诸天天道」从习称，义同。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "high",
+  "prior_review_status": "needs_revision",
+  "similarity_to_source": 0.3,
+  "paragraph_parallel": true
+}

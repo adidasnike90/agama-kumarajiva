@@ -1,0 +1,43 @@
+{
+  "id": "SA_394",
+  "uid": "sa394",
+  "title": "雜阿含經  卷第十六  諦相應  （394）  日月",
+  "chinese_text": "如是我聞：\n\n一時，佛住波羅㮈國仙人住處鹿野苑中。\n\n爾時，世尊告諸比丘：「譬如日出，明相先起。如是正盡苦亦有前相起？謂知四聖諦。何等為四？知苦聖諦、知苦集聖諦、知苦滅聖諦、知苦滅道跡聖諦。」\n\n佛說此經已，諸比丘聞佛所說，歡喜奉行。\n\n如是知。如是見。如是無間等，亦如是說。",
+  "english_sa_text": "",
+  "parallels": [
+    {
+      "uid": "sn56.37",
+      "acronym": "SN 56.37",
+      "root_lang": "pli",
+      "original_title": "Paṭhamasūriyasutta",
+      "translated_title": "The Sun (1)",
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    }
+  ],
+  "primary_sn_uid": "sn56.37",
+  "pali_text": "“Sūriyassa, bhikkhave, udayato etaṁ pubbaṅgamaṁ etaṁ pubbanimittaṁ, yadidaṁ—aruṇuggaṁ. Evameva kho, bhikkhave, bhikkhuno catunnaṁ ariyasaccānaṁ yathābhūtaṁ abhisamayāya etaṁ pubbaṅgamaṁ etaṁ pubbanimittaṁ, yadidaṁ—sammādiṭṭhi. Tassetaṁ, bhikkhave, bhikkhuno pāṭikaṅkhaṁ: ‘idaṁ dukkhan’ti yathābhūtaṁ pajānissati …pe… ‘ayaṁ dukkhanirodhagāminī paṭipadā’ti yathābhūtaṁ pajānissati. Tasmātiha, bhikkhave, ‘idaṁ dukkhan’ti yogo karaṇīyo …pe… ‘ayaṁ dukkhanirodhagāminī paṭipadā’ti yogo karaṇīyo”ti. Sattamaṁ.",
+  "english_sn_text": "“Mendicants, the dawn is the forerunner and harbinger of the sunrise. In the same way, for a mendicant right view is the forerunner and harbinger of truly comprehending the four noble truths. That mendicant can expect to truly understand: ‘This is suffering’ … ‘This is the origin of suffering’ … ‘This is the cessation of suffering’ … ‘This is the practice that leads to the cessation of suffering’. That’s why you should practice meditation …”",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa301-400/sa394_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa301-400/sa394_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛在波罗㮈仙人住处鹿野苑中。\n尔时，世尊告诸比丘：「譬如日出，明相先起。如是比丘欲如实现观四圣谛，亦有前相——谓正见。有正见故，当知能如实知：『此是苦』……『此是苦灭道迹』。」\n「是故比丘于四圣谛未无间等者，当勤方便，起增上欲，精进修学。何等为四？谓苦圣谛、苦集圣谛、苦灭圣谛、苦灭道迹圣谛。」\n佛说此经已，诸比丘闻佛所说，欢喜奉行。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在波罗㮈仙人住处鹿野苑中。\n那时，世尊告诉比丘们：「好比太阳要出来，先有明相升起。同样，比丘要如实现观四圣谛，也有前相——就是正见。有了正见，就可以指望如实了知：『这是苦』……『这是苦灭道迹』。」\n「所以比丘对四圣谛还没有无间等的，应当勤加方便，发起强盛愿欲，精进修学。哪四种？就是苦圣谛、苦集圣谛、苦灭圣谛、苦灭道迹圣谛。」\n佛说完这部经，比丘们听佛所说，都欢喜奉行。",
+  "notes": "本经 SC 平行表所列平行及 `raw_aligned_data.json` 内之巴利本文、Sujato 英译并用以厘定法义；求那跋陀罗汉本用于定位经文与传统术语。confidence=high：primary SN56.37。信-校正：汉『正尽苦前相＝知四圣谛』与巴利不符；据 SN／Sujato：aruṇugga∶sūriya ＝ sammādiṭṭhi∶四谛现观——正见为前相，四谛现观如日出。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "high",
+  "prior_review_status": "needs_revision",
+  "similarity_to_source": 0.252,
+  "paragraph_parallel": true
+}

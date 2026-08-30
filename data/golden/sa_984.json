@@ -1,0 +1,53 @@
+{
+  "id": "SA_984",
+  "uid": "sa984",
+  "title": "雜阿含經  卷第四十  雜相應  （984）  愛",
+  "chinese_text": "如是我聞：\n\n一時，佛住舍衛國祇樹給孤獨園。\n\n爾時，世尊告諸比丘：「我今當說愛為網、為膠、為泉、為藕根。此等能為眾生障、為蓋、為膠、為守衛、為覆、為閉、為塞、為闇冥、為狗腸、為亂草、為絮，從此世至他世，從他世至此世，往來流轉，無不轉時。\n\n「諸比丘！何等愛為網、為膠，乃至往來流馳，無不轉？謂：『有我故，有我欲、我爾、我有、我無、我異，我當、我不當、我當欲、我當爾、我當異，或我、或欲我、或爾我、或異我，或然、或欲然、或爾然、或異然。如是十八愛行從內起。』\n\n「比丘！言有我，於諸所有言我欲、我爾，乃至十八愛行從外起，如是總說十八愛行。\n\n「如是三十六愛行，或於過去起，或於未來起，或於現在起。如是總說百八愛行，是名為愛、為網、為膠、為泉、為藕根，能為眾生障、為蓋、為膠、為守衛、為覆、為閉、為塞、為闇冥、為狗腸、為亂草、為絮，從此世至他世，從他世至此世，往來流馳，無不轉時。」\n\n佛說是經已，諸比丘聞佛所說，歡喜奉行。",
+  "english_sa_text": "",
+  "parallels": [
+    {
+      "uid": "an4.199",
+      "acronym": "AN 4.199",
+      "root_lang": "pli",
+      "original_title": "Taṇhāsutta",
+      "translated_title": "Craving",
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "sf14",
+      "acronym": "SF 14",
+      "root_lang": "san",
+      "original_title": "",
+      "translated_title": null,
+      "type": "full",
+      "resembling": true,
+      "remark": null
+    }
+  ],
+  "primary_sn_uid": null,
+  "pali_text": "",
+  "english_sn_text": "",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa901-1000/sa984_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa901-1000/sa984_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛住舍卫国祇树给孤独园。\n佛告诸比丘：「我当说爱为网、为胶、为泉、为藕根：能障、能盖、能守、能覆闭塞，如狗肠乱草絮，从此世至他世往来流转，无有止时。\n云何？谓有我故，起我欲、我如是、我有、我无、我异；我当、我不当、我当欲、我当如是、我当异；或计我、欲我、如是我、异我；或然、欲然、如是然、异然——如是十八爱行从内起。于外所有亦如是起十八爱行。内外合三十六；历过去、未来、现在，总说百八爱行。是名爱网胶泉藕根，能使众生往来流转不息。」\n佛说此经已，诸比丘闻佛所说，欢喜奉行。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在舍卫国祇树给孤独园。\n佛告诉比丘们：「我要说爱像网、像胶、像泉、像藕根：能障碍、能覆盖、能看守、能封闭堵塞，像狗肠、乱草、棉絮，从此世到他世往来流转，没有停止的时候。\n怎样呢？因为有『我』，就生起我要、我这样、我有、我无、我异；我将要、我不该、我将会要、我将会这样、我将会异；或者执着我、执着欲我、执着这样的我、执着异我；或者执着成为、想要成为、这样成为、异样成为——这样十八种爱的活动从内生起。对外在所有也这样起十八种。内外合计三十六；再配过去、未来、现在，总说一百零八种爱行。这就是爱的网、胶、泉、藕根，能使众生往来流转不停。」\n佛说完这部经，比丘们听佛所说，都欢喜奉行。",
+  "notes": "本经 SC 平行表所列平行及 `raw_aligned_data.json` 内之巴利本文、Sujato 英译并用以厘定法义；求那跋陀罗汉本用于定位经文与传统术语。confidence=high：primary AN4.199；百八爱行（十八内＋十八外×三世）据 AN；汉『狗肠乱草絮』喻保留压缩。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "high",
+  "prior_review_status": "needs_revision",
+  "similarity_to_source": 0.182,
+  "paragraph_parallel": true
+}

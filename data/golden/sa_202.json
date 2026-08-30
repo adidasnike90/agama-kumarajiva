@@ -1,0 +1,43 @@
+{
+  "id": "SA_202",
+  "uid": "sa202",
+  "title": "雜阿含經  卷第九  六入處相應  （202）  我見斷",
+  "chinese_text": "如是我聞：\n\n一時，佛住舍衛國祇樹給孤獨園。\n\n時，有異比丘往詣佛所，稽首佛足，白佛言：「世尊！云何知、云何見，次第我見斷，無我見生？」\n\n佛告彼比丘：「於眼正觀無常，若色、眼識、眼觸、眼觸因緣生受，若苦、若樂、不苦不樂，彼亦正觀無我。如是乃至意觸因緣生受，若苦、若樂、不苦不樂，彼亦正觀無我。比丘！如是知、如是見，次第我見斷，無我見生。」\n\n時，彼比丘聞佛所說歡喜，歡喜已，作禮而去。",
+  "english_sa_text": "Saṁyuktāgama\n\n202. [Discourse on Abandoning the View of Self]\n\nThus have I heard. At one time the Buddha was staying at Sāvatthī in Jeta’s Grove, Anāthapiṇḍika’s Park.\n\nThen a certain monk approached the Buddha, paid respect with his head at the Buddha’s feet, [withdrew to stand to one side], and said to the Buddha: “Blessed One, knowing what, seeing what, does one step by step abandon the view of self and give rise to the view of not-self?\n\nThe Buddha said to that monk: “One rightly contemplates the eye as not-self, and one also rightly contemplates forms, eye-consciousness, eye-contact, and feeling arisen in dependence on eye-contact, be it painful, pleasant, or neutral, as not-self. In this way … up to … one also rightly contemplates feeling arisen in dependence on mind-contact, be it painful, pleasant, or neutral, as not-self.\n\n“Monk, knowing like this, seeing like this, one step by step abandons the view of self and gives rise to the view of not-self.”\n\nThen, hearing what the Buddha had said, that monk was delighted. Being delighted, he paid respect and left.\n\nTranslated by Bhikkhu Anālayo. Originally published in \"On the Six Sense-spheres (1) ―A Translation of Saṁyukta-āgama Discourses 188 to 229 (Fascicle 8)\", Dharma Drum Journal of Buddhist Studies, 2016, vol. 18 pp. 1–61.\n\nPrepared for SuttaCentral by Ayya Vimala.",
+  "parallels": [
+    {
+      "uid": "sn35.167",
+      "acronym": "SN 35.167",
+      "root_lang": "pli",
+      "original_title": "Attānudiṭṭhipahānasutta",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    }
+  ],
+  "primary_sn_uid": "sn35.167",
+  "pali_text": "Atha kho aññataro bhikkhu …pe… etadavoca: “kathaṁ nu kho, bhante, jānato kathaṁ passato attānudiṭṭhi pahīyatī”ti? “Cakkhuṁ kho, bhikkhu, anattato jānato passato attānudiṭṭhi pahīyati. Rūpe anattato jānato passato attānudiṭṭhi pahīyati. Cakkhuviññāṇaṁ anattato jānato passato attānudiṭṭhi pahīyati. Cakkhusamphassaṁ anattato jānato passato attānudiṭṭhi pahīyati. Yampidaṁ cakkhusamphassapaccayā uppajjati vedayitaṁ sukhaṁ vā dukkhaṁ vā adukkhamasukhaṁ vā tampi anattato jānato passato attānudiṭṭhi pahīyati …pe… jivhaṁ anattato jānato passato attānudiṭṭhi pahīyati …pe… manaṁ anattato jānato passato attānudiṭṭhi pahīyati. Dhamme … manoviññāṇaṁ … manosamphassaṁ … yampidaṁ manosamphassapaccayā uppajjati vedayitaṁ sukhaṁ vā dukkhaṁ vā adukkhamasukhaṁ vā tampi anattato jānato passato attānudiṭṭhi pahīyatī”ti. Dvādasamaṁ. Nandikkhayavaggo paṭhamo. Tassuddānaṁ Nandikkhayena cattāro, jīvakambavane duve; Koṭṭhikena tayo vuttā, micchā sakkāya attanoti.",
+  "english_sn_text": "Then a mendicant went up to the Buddha … and said to him: “Sir, how does one know and see so that theory of self is given up?” “Mendicant, knowing and seeing the eye, sights, eye consciousness, and eye contact as not-self, theory of self is given up. … And also knowing and seeing the pleasant, painful, or neutral feeling that arises dependent on mind contact as not-self, theory of self is given up.”",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa201-300/sa202_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa201-300/sa202_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时佛在舍卫国祇树给孤独园。\n时有异比丘往诣佛所，稽首佛足，白佛言：世尊！云何知、云何见，次第我见断，非我见生？\n佛告彼比丘：于眼当正观非我；色、眼识、眼触，及眼触因缘所生受——若苦、若乐、不苦不乐——亦当正观非我。如是乃至意触因缘所生受，若苦、若乐、不苦不乐，亦当正观非我。比丘！如是知、如是见，则次第我见断而非我见生。\n时彼比丘闻佛所说，欢喜作礼而去。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在舍卫国祇树给孤独园。\n那时，有一位比丘来到佛前，以头面礼佛足，对佛说：世尊！该怎样知、怎样见，才能渐次断除我见，生起非我之见？\n佛告诉那位比丘：对于眼，应当如实观见它非我；色、眼识、眼触，以及依眼触为缘而生起的感受——无论是苦、是乐、还是不苦不乐——也都应当如实观见非我。这样下去，乃至依意触为缘所生的感受，无论苦、乐、不苦不乐，也都应当如实观见非我。比丘！这样知、这样见，便渐次断除我见而生起非我之见。（底本此处首句作「于眼正观无常」，与下文「彼亦正观无我」及所问之「我见断」不一贯，今依巴利平行改作「非我」，见 notes。）\n那时，那位比丘听佛所说，心生欢喜；欢喜之后，礼佛而去。",
+  "notes": "本经 SC 平行表所列平行及 `raw_aligned_data.json` 内之巴利本文、Sujato 英译，与 Anālayo 之 SA 英译（DDJBS 18, 2016, Fascicle 8）并用以厘定法义；求那跋陀罗汉本用于定位经文与传统术语。confidence=high：SN35.167 为 `full`、非 resembling 之平行，巴利逐句可对。信-校正二事：（一）底本首句作「於眼正觀無常」而次句作「彼亦正觀無我」，前后不一贯，且所问所答皆在「我见断、无我见生」；巴利本经通篇作 anattā（`cakkhuṁ anattato jānato passato attānudiṭṭhi pahīyati`——如实知见眼为非我，则我见断），Anālayo 亦读首句为 not-self。今正作「于眼当正观非我」，并于现代栏括注底本语面。「无常」一字当为涉前经（SA_201 通篇作无常）而衍。（二）底本作「無我見生」，巴利唯言 `attānudiṭṭhi pahīyati`（我见断）而无「生无我见」一支；汉本此增语不违法义（所生者即正见，非别立一「无我」之见），今依本项目通例作「非我见」而不作「无我见」，以免读作别有一见可执。「我见」＝ attānudiṭṭhi（随观于我之见），非后世「我执」之泛称。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "high",
+  "prior_review_status": "needs_revision",
+  "similarity_to_source": 0.414,
+  "paragraph_parallel": true
+}

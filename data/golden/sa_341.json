@@ -1,0 +1,32 @@
+{
+  "id": "SA_341",
+  "uid": "sa341",
+  "title": "雜阿含經  卷第十三  因緣相應  （341）  六常行",
+  "chinese_text": "如是我聞：\n\n一時，佛住舍衛國祇樹給孤獨園。\n\n爾時，世尊告諸比丘：「有六常行。云何為六？若比丘眼見色，不苦、不樂，捨心住正念正智。耳聲、鼻香、舌味、身觸、意識法，不苦、不樂，捨心住正念正智。若比丘成就此六常行者，世間難得，所應承事、恭敬、供養，則為世間無上福田。」\n\n佛說此經已，諸比丘聞佛所說，歡喜奉行。",
+  "english_sa_text": "",
+  "parallels": [],
+  "primary_sn_uid": null,
+  "pali_text": "",
+  "english_sn_text": "",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa301-400/sa341_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa301-400/sa341_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛在舍卫国祇树给孤独园。\n尔时，世尊告诸比丘：「有六常行。比丘眼见色，不苦不乐，正念正智，舍心而住；耳、鼻、舌、身、意亦复如是。成就此六常行者，世间难得，堪受承事、恭敬、供养，为世间无上福田。」\n佛说此经已，诸比丘闻佛所说，欢喜奉行。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在舍卫国祇树给孤独园。\n那时，世尊告诉比丘们：「有六种常行。比丘眼见色，不苦不乐，正念正智，以舍心安住；耳、鼻、舌、身、意也是一样。能成就这六常行的人，世间难得，值得承事、恭敬、供养，是世间无上福田。」\n佛说完这部经，比丘们听佛所说，都欢喜奉行。",
+  "notes": "SC 于本经未列可靠巴利平行，故唯以汉本为底，参同相应之巴利定型语厘义；依项目规约「无可靠平行时 confidence 降为 medium/low」，本经作 medium。同上而结「无上福田」。confidence=medium。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "medium",
+  "prior_review_status": "needs_revision",
+  "similarity_to_source": 0.352,
+  "paragraph_parallel": true
+}

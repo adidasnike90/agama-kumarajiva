@@ -1,0 +1,63 @@
+{
+  "id": "SA_1072",
+  "uid": "sa1072",
+  "title": "雜阿含經  卷第四十五  比丘相應  （1072）  僧鉗",
+  "chinese_text": "如是我聞：\n\n一時，佛在舍衛國祇樹給孤獨園。\n\n時，有尊者僧迦藍於拘薩羅人間遊行，至舍衛國祇樹給孤獨園。彼僧迦藍比丘有本二，在舍衛國中，聞僧迦藍比丘於拘薩羅人間遊行，至舍衛國祇樹給孤獨園。聞已，著好衣服，莊嚴華瓔，抱其兒來詣祇洹，至僧迦藍比丘房前。\n\n爾時，尊者僧迦藍出房露地經行。時，彼本二來到其前，作是言：「此兒幼小，汝捨出家，誰當養活？」\n\n時，僧迦藍比丘不共語。如是再三，亦不共語。\n\n時，彼本二作如是言：「我再三告，不與我語，不見顧視，我今置兒。」著經行道頭而去，言：「沙門！此是汝子，汝自養活，我今捨去。」\n\n尊者僧迦藍亦不顧視其子。\n\n彼本二復言：「是沙門今於此兒都不顧視，彼必得仙人難得之處。善哉！沙門！必得解脫。」情願不遂，抱子而去。\n\n爾時，世尊入晝正受，以天耳過人之耳，聞尊者僧迦藍本二所說，即說偈言：\n\n「來者不歡喜，　　去亦不憂慼。\n\n　於世間和合，　　解脫不染著。\n\n　我說彼比丘，　　為真婆羅門。\n\n　來者不歡喜，　　去亦不憂慼。\n\n　不染亦無憂，　　二心俱寂靜，\n\n　我說是比丘，　　是真婆羅門。」\n\n佛說此經已，尊者僧迦藍聞佛所說，歡喜隨喜，作禮而去。",
+  "english_sa_text": "",
+  "parallels": [
+    {
+      "uid": "sa-2.11",
+      "acronym": "SA2 11",
+      "root_lang": "lzh",
+      "original_title": "僧鉗",
+      "translated_title": "Saṅgāmaji and his former wife",
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "ud1.8",
+      "acronym": "Ud 1.8",
+      "root_lang": "pli",
+      "original_title": "Saṅgāmajisutta",
+      "translated_title": "The Discourse about Saṅgāmajī",
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "ea35.10",
+      "acronym": "EA 35.10",
+      "root_lang": "lzh",
+      "original_title": "",
+      "translated_title": null,
+      "type": "full",
+      "resembling": true,
+      "remark": null
+    }
+  ],
+  "primary_sn_uid": null,
+  "pali_text": "",
+  "english_sn_text": "",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa1001-1100/sa1072_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa1001-1100/sa1072_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛住舍卫国祇树给孤独园。\n尊者僧迦蓝自拘萨罗人间游至祇园。其本二在舍卫，闻已盛饰抱儿至房前。\n僧迦蓝露地经行。本二再三曰：「儿幼，汝出家，谁养？」彼默然不视。\n本二置儿于经行道头：「沙门！此汝子，自养；我去。」彼亦不顾。\n本二叹：「于此儿亦不视，必得难得处，当得解脱。」遂抱儿去。\n世尊以天耳闻，说偈：「来不喜、去不忧；于世和合，解脱不染——我说是比丘，真婆罗门。」\n僧迦蓝闻已，欢喜随喜，作礼而去。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在舍卫国祇树给孤独园。\n尊者僧迦蓝从拘萨罗游行到祇园。他从前的妻子在舍卫城，听说后盛装抱着孩子来到房前。\n僧迦蓝在露地经行。妻子再三说：「孩子还小，你出了家，谁来养活？」他默然，也不看她。\n妻子把孩子放在经行道头：「沙门！这是你的儿子，你自己养；我走了。」他仍不看一眼。\n妻子感叹：「连孩子也不看，他一定得到了难得之处，必能解脱。」便抱孩子离去。\n世尊以天耳听见，说偈：「来时不欢喜，去时不忧愁；对世间的聚合解脱而不染着——我说这样的比丘，才是真婆罗门。」\n僧迦蓝听了，欢喜随喜，作礼离去。",
+  "notes": "本经 SC 平行表所列平行及 `raw_aligned_data.json` 内之巴利本文、Sujato 英译并用以厘定法义；求那跋陀罗汉本用于定位经文与传统术语。据 Ud1.8 Saṅgāmaji：前妻携子来扰，尊者心不动；佛赞来去无染。汉「僧迦蓝／僧钳」即 Saṅgāmaji；义据优陀那平行。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "high",
+  "prior_review_status": "needs_revision",
+  "similarity_to_source": 0.069,
+  "paragraph_parallel": true
+}

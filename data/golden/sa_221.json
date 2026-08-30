@@ -1,0 +1,32 @@
+{
+  "id": "SA_221",
+  "uid": "sa221",
+  "title": "雜阿含經  卷第九  六入處相應  （221）  取",
+  "chinese_text": "如是我聞：\n\n一時，佛住舍衛國祇樹給孤獨園。\n\n爾時，世尊告諸比丘：「有趣一切取道跡。云何為趣一切取道跡？緣眼、色，生眼識，三事和合觸，觸緣受，受緣愛，愛緣取，取所取故。耳、鼻、舌、身、意亦復如是。取所取故，是名趣一切取道跡。\n\n「云何斷一切取道跡？緣眼、色，生眼識，三事和合觸，觸滅則受滅，受滅則愛滅，愛滅則取滅；如是知耳、鼻、舌、身、意亦復如是。」\n\n佛說此經已，諸比丘聞佛所說，歡喜奉行。",
+  "english_sa_text": "Saṁyuktāgama\n\n221. [Discourse on Clinging]\n\nThus have I heard. At one time the Buddha was staying at Sāvatthī in Jeta’s Grove, Anāthapiṇḍika’s Park.\n\nAt that time the Blessed One said to the monks: “There is a path that leads to all [types of] clinging. What is the path that leads to all [types of] clinging? In dependence on the eye and forms, eye-consciousness arises. The coming together of these three things is contact. In dependence on contact, there is feeling. In dependence on feeling, there is craving. In dependence on craving, there is clinging. Therefore there is clinging and what is clung to.\n\n“The ear … the nose … the tongue … the body … the mind is also like that. Therefore there is clinging and what is clung to. This is called the path that leads to all [types of] clinging.”\n\n“What is the path of abandoning all [types of] clinging? In dependence on the eye and forms, eye-consciousness arises. The coming together of these three things is contact. With the cessation of contact, feeling then ceases. With the cessation of feeling, craving then ceases. With the cessation of craving, clinging then ceases.\n\n“In the same way the ear … the nose … the tongue … the body … the mind is also like that. [This is called the path of abandoning all types of clinging].”\n\nWhen the Buddha had spoken this discourse, hearing what the Buddha had said the monks were delighted and received it respectfully.\n\nTranslated by Bhikkhu Anālayo. Originally published in \"On the Six Sense-spheres (1) ―A Translation of Saṁyukta-āgama Discourses 188 to 229 (Fascicle 8)\", Dharma Drum Journal of Buddhist Studies, 2016, vol. 18 pp. 1–61.\n\nPrepared for SuttaCentral by Ayya Vimala.",
+  "parallels": [],
+  "primary_sn_uid": null,
+  "pali_text": "",
+  "english_sn_text": "",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa201-300/sa221_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa201-300/sa221_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时佛在舍卫国祇树给孤独园。\n尔时世尊告诸比丘：有趣一切取之道。云何为趣一切取之道？缘眼、色而生眼识，三事和合为触，缘触而受，缘受而爱，缘爱而取。是故有取及所取。耳、鼻、舌、身、意亦复如是。取及所取故，是名趣一切取之道。\n云何断一切取之道？缘眼、色而生眼识，三事和合为触；触灭则受灭，受灭则爱灭，爱灭则取灭。耳、鼻、舌、身、意亦复如是。是名断一切取之道。\n佛说此经已，诸比丘闻佛所说，欢喜奉行。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在舍卫国祇树给孤独园。\n那时，世尊告诉比丘们：有一条趣向一切「取」的道路。什么是趣向一切取的道路？缘于眼与色而生起眼识，这三者和合便是触；缘于触而有受，缘于受而有爱，缘于爱而有取。因此便有取，以及被取的对象。耳、鼻、舌、身、意也是一样。因为有取及所取，这叫做趣向一切取的道路。\n什么是断除一切取的道路？缘于眼与色而生起眼识，这三者和合便是触；触止息则受止息，受止息则爱止息，爱止息则取止息。耳、鼻、舌、身、意也是一样。这叫做断除一切取的道路。\n佛说完这部经，比丘们听佛所说，都欢喜奉行。",
+  "notes": "本经 SC 平行表所列平行及 `raw_aligned_data.json` 内之巴利本文、Sujato 英译，与 Anālayo 之 SA 英译（DDJBS 18, 2016, Fascicle 8）并用以厘定法义；求那跋陀罗汉本用于定位经文与传统术语。SC 于本经未列任何平行（`parallels` 空、巴利本文阙），故唯以汉本为底，参 Anālayo 之 SA 英译及六入處相應之巴利定型语厘义；依项目规约「无可靠平行时 confidence 降为 medium/low」，本经作 medium。本经缘起之式与同卷 SA_218（苦集／苦灭之道；SC 列 SN12.43／SN35.106）相同，唯集边止于「取」（upādāna）而不下开有、生、老死；灭边亦自「触灭」起而止于「取灭」。此为汉本一系就「取」一门单出之经，非可据 SA_218 之平行径称为 SN35.106——SC 未列，故不托。信-校正三事：（一）「道跡」同 SA_218：巴利此系作 samudaya／atthaṅgama 或 pahāna，不言 paṭipadā；汉本加「道跡」一名（趣向之道），今作「趣一切取之道／断一切取之道」。（二）「取所取故」语面含混，可读作「取于所取」；Anālayo 读作 Therefore there is clinging and what is clung to（是故有取及所取）——upādāna 与 upādāniya，今从之。（三）底本灭边末句无「是名断一切取道跡」，Anālayo 以方括补出；今据开首所问补之，不增义。灭之次第自「触灭」起，同 SA_218 之注：巴利同类经自「爱」无余离贪而灭，汉本逆观之式存之，不当据此谓阿罗汉无六触。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "medium",
+  "prior_review_status": "needs_revision",
+  "similarity_to_source": 0.339,
+  "paragraph_parallel": true
+}

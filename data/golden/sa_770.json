@@ -1,0 +1,79 @@
+{
+  "id": "SA_770",
+  "uid": "sa770",
+  "title": "雜阿含經  卷第三十  聖道分相應  （770）  邪",
+  "chinese_text": "如是我聞。一時佛住舍衞國祇樹給孤獨園。爾時世尊告諸比丘。應離邪見。應斷邪見。若邪見不可斷者。我終不説應離斷邪見。以邪見可斷故。我説比丘。當離邪見。若不離邪見者。邪見當作非義不饒益苦。是故我説。當離邪見。如是邪志邪語邪業邪命邪方便邪念邪定。亦如是説。諸比丘。離邪見已。當修正見。若不得修正見者。我終不説修習正見。以得修正見故。我説比丘應修正見。若不修正見者當作非義不饒益苦。以不修正見。作非義不饒益苦故。是故我説當修正見。以義饒益。常得安樂。是故比丘。當修正見。如是正志正語正業正命正方便正念正定。亦如是説。佛説此經已。諸比丘聞佛所説。歡喜奉行",
+  "english_sa_text": "Thus I have heard: One time, the Buddha was staying at Anāthapiṇḍada’s Park in Jeta’s Grove of Śrāvastī. It was then that the Bhagavān addressed the monks, “You must part with wrong views; you must stop wrong views. If stopping wrong views wasn’t possible, then I would never say that you must part with and stop wrong views. It’s because wrong views can be stopped that I say monks should part with wrong views. If they don’t part with wrong views, then wrong views will make them undertake what’s aimless, unbeneficial, and painful. I therefore say you must part with wrong views. Thus, wrong intention, wrong speech, wrong action, wrong livelihood, wrong effort, wrong mindfulness, and wrong concentration are likewise explained. “Monks, after you part with wrong views, you must cultivate right views. If cultivating right views wasn’t possible, I would never say that you must cultivate right views. It’s because right views can be cultivated that I say monks must cultivate right views. If they don’t cultivate right views, they will undertake what’s aimless, unbeneficial, and painful. Because not cultivating right views undertakes what’s aimless, unbeneficial, and painful, I therefore say you must cultivate right views. Because they are purposeful and beneficial, you’ll always attain well-being. Therefore, monks, you must cultivate right views. Thus, right intention, right speech, right action, right livelihood, right effort, right mindfulness, and right concentration are likewise explained.” After the Buddha taught this sūtra, the monks who heard what he taught rejoiced and approved.",
+  "parallels": [
+    {
+      "uid": "sa784",
+      "acronym": "SA 784",
+      "root_lang": "lzh",
+      "original_title": "邪正",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "sn45.21",
+      "acronym": "SN 45.21",
+      "root_lang": "pli",
+      "original_title": "Micchattasutta",
+      "translated_title": "Wrongness",
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "t112",
+      "acronym": "T 112",
+      "root_lang": "lzh",
+      "original_title": "佛說八正道",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "arv7",
+      "acronym": "Arv 7",
+      "root_lang": "san",
+      "original_title": "Dvāviṁśatir-indriyāṇi",
+      "translated_title": "The Twenty-Two Faculties",
+      "type": "full",
+      "resembling": true,
+      "remark": null
+    },
+    {
+      "uid": "sn45.8",
+      "acronym": "SN 45.8",
+      "root_lang": "pli",
+      "original_title": "Vibhaṅgasutta",
+      "translated_title": "Analysis",
+      "type": "full",
+      "resembling": true,
+      "remark": null
+    }
+  ],
+  "primary_sn_uid": "sn45.21",
+  "pali_text": "Sāvatthinidānaṁ. “Micchattañca vo, bhikkhave, desessāmi, sammattañca. Taṁ suṇātha. Katamañca, bhikkhave, micchattaṁ? Seyyathidaṁ—micchādiṭṭhi …pe… micchāsamādhi. Idaṁ vuccati, bhikkhave, micchattaṁ. Katamañca, bhikkhave, sammattaṁ? Seyyathidaṁ—sammādiṭṭhi …pe… sammāsamādhi. Idaṁ vuccati, bhikkhave, sammattan”ti. Paṭhamaṁ.",
+  "english_sn_text": "At Sāvatthī. “Mendicants, I will teach you the wrong way and the right way. Listen … And what is the wrong way? It is wrong view, wrong purpose, wrong speech, wrong action, wrong livelihood, wrong effort, wrong mindfulness, and wrong immersion. This is called the wrong way. And what is the right way? It is right view, right purpose, right speech, right action, right livelihood, right effort, right mindfulness, and right immersion. This is called the right way.”",
+  "errors": [],
+  "kumarajiva_style_text": "如是我闻：一时，佛住舍卫国祇树给孤独园。\n佛告比丘：「应离、应断邪见。若邪见不可断，我终不说应离断；以可断故，说当离断。若不离者，则作非义、不饶益、苦。如邪见，邪见、邪志、邪语、邪业、邪命、邪方便、邪念、邪定亦如是说。」\n「离邪见已，当修正见。若不得修，我终不说当修；以可得修故，说当修正见——为义、饶益、安乐故。如正见，正见、正志、正语、正业、正命、正方便、正念、正定亦如是说。」\n佛说此经已，诸比丘闻佛所说，欢喜奉行。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在舍卫国祇树给孤独园。\n佛告诉比丘：「应当离开、断除邪见。如果邪见不能断，我终不会说应当离断；正因为可以断，才说应当离断。如果不离开，就会造成无益、无利、苦。像邪见这样，邪见、邪志、邪语、邪业、邪命、邪方便、邪念、邪定也是这样说。」\n「离开邪见之后，应当修正见。如果不能修，我终不会说应当修；正因为可以修，才说应当修正见——为了有益、有利、安乐。像正见这样，正见、正志、正语、正业、正命、正方便、正念、正定也是这样说。」\n佛说完这部经，比丘们听佛所说，都欢喜奉行。",
+  "notes": "本经 SC 平行表所列平行及 `raw_aligned_data.json` 内之巴利本文、Sujato 英译并用以厘定法义；求那跋陀罗汉本用于定位经文与传统术语。confidence=high：primary SN45.21 Micchatta（邪性／正性＝八邪／八正）。汉本「可断故说应离／可得修故说应修」广式保留；SN 唯列邪正二聚，义同。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "high",
+  "prior_review_status": "needs_revision",
+  "similarity_to_source": 0.118,
+  "paragraph_parallel": true
+}

@@ -1,0 +1,33 @@
+{
+  "id": "SA_443",
+  "uid": "sa443",
+  "title": "雜阿含經  卷第十七  界相應  （443）  四聖諦當生來生",
+  "chinese_text": "如是我聞：\n\n一時，佛住舍衛國祇樹給孤獨園。\n\n爾時，世尊告諸比丘：「我本未聞法時，得正思惟此苦聖諦，正見已生；此苦集聖諦、此苦滅聖諦、苦滅道跡聖諦，正見已生。」\n\n佛說此經已，諸比丘聞佛所說，歡喜奉行。\n\n如已生，如是今生、當生。\n\n如生，如是起、習、近修、多修、觸、作證亦如是。",
+  "english_sa_text": "",
+  "parallels": [],
+  "primary_sn_uid": null,
+  "pali_text": "",
+  "english_sn_text": "",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa401-500/sa443_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa401-500/sa443_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛在舍卫国祇树给孤独园。\n尔时，世尊告诸比丘：「我昔未闻正法，以如理作意观察苦圣谛，正见于是生；观察苦集、苦灭、苦灭道迹圣谛，正见亦生。已生、今生、当生，其义一也；生起、修习、亲近、多修、触证、作证，亦复如是。」\n佛说此经已，诸比丘闻佛所说，欢喜奉行。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在舍卫国祇树给孤独园。\n那时，世尊告诉比丘们：「我从前还没有听闻正法时，用如理作意观察苦圣谛，正见就生起来了；观察苦集、苦灭、苦灭道迹圣谛，正见也生起来了。已经生起、现在生起、将来生起，意思是一样的；发起、修习、亲近修、多多修、触证、作证，也是一样。」\n佛说完这部经，比丘们听佛所说，都欢喜奉行。",
+  "notes": "SC 于本经未列可靠巴利平行，故唯以汉本为底，参同相应之巴利定型语厘义；依项目规约「无可靠平行时 confidence 降为 medium/low」，本经作 medium。底本『如已生，如是今生、当生。如生，如是起、习……亦如是』为异门／交叉指示；依四谛正见生起定型，将今生／当生与起习修证诸门并举重建，不另臆造广释。",
+  "review_status": "gold_reconstructed",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "medium",
+  "prior_review_status": "needs_revision",
+  "reconstruction_basis": "底本『如已生，如是今生、当生。如生，如是起、习……亦如是』为异门／交叉指示；依四谛正见生起定型将诸门并举重建",
+  "similarity_to_source": 0.243,
+  "paragraph_parallel": true
+}

@@ -1,0 +1,53 @@
+{
+  "id": "SA_884",
+  "uid": "sa884",
+  "title": "雜阿含經  卷第三十三  修證相應  （884）  無學三明",
+  "chinese_text": "如是我聞：\n\n一時，佛住舍衛國祇樹給孤獨園。\n\n爾時，世尊告諸比丘：「有無學三明。何等為三？無學宿命智證通、無學生死智證通、無學漏盡智證通。」\n\n爾時，世尊即說偈言：\n\n「觀察知宿命，　　見天惡趣生，\n\n　生死諸漏盡，　　是則牟尼明。\n\n　其心得解脫，　　一切諸貪愛，\n\n　三夜悉通達，　　故說為三明。」\n\n佛說此經已，諸比丘聞佛所說，歡喜奉行。",
+  "english_sa_text": "",
+  "parallels": [
+    {
+      "uid": "an3.59",
+      "acronym": "AN 3.59",
+      "root_lang": "pli",
+      "original_title": "Jāṇussoṇisutta",
+      "translated_title": "Jāṇussoṇī",
+      "type": "full",
+      "resembling": true,
+      "remark": null
+    },
+    {
+      "uid": "an3.58",
+      "acronym": "AN 3.58",
+      "root_lang": "pli",
+      "original_title": "Tikaṇṇasutta",
+      "translated_title": "Tikaṇṇa",
+      "type": "full",
+      "resembling": true,
+      "remark": null
+    }
+  ],
+  "primary_sn_uid": null,
+  "pali_text": "",
+  "english_sn_text": "",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa801-900/sa884_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa801-900/sa884_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛住舍卫国祇树给孤独园。\n尔时世尊告诸比丘：「有无学三明。何等为三？谓无学宿命智证明、无学生死智证明、无学漏尽智证明。」\n尔时世尊说偈言：\n「观察知宿命，见有情趣生，\n　诸漏皆永尽，是则牟尼明。\n　心得善解脱，远离诸贪爱，\n　三明悉通达，故说为三明。」\n佛说此经已，诸比丘闻佛所说，欢喜奉行。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在舍卫国祇树给孤独园。\n那时世尊告诉比丘们：「有无学三明。哪三种？就是无学的宿命智证明、无学的生死智证明、无学的漏尽智证明。」\n那时世尊说偈：\n「观察知宿命，见有情趣生，\n　诸漏皆永尽，是则牟尼明。\n　心得善解脱，远离诸贪爱，\n　三明悉通达，故说为三明。」\n佛说完这部经，比丘们听佛所说，都欢喜奉行。",
+  "notes": "本经 SC 平行表所列平行及 `raw_aligned_data.json` 内之巴利本文、Sujato 英译并用以厘定法义；求那跋陀罗汉本用于定位经文与传统术语。confidence=high：平行 AN3.58–59；三明＝宿命／生死（天眼）／漏尽。偈「见天恶趣生」→见有情趣生。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "high",
+  "prior_review_status": "needs_revision",
+  "similarity_to_source": 0.379,
+  "paragraph_parallel": true
+}

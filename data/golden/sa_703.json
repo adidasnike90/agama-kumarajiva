@@ -1,0 +1,33 @@
+{
+  "id": "SA_703",
+  "uid": "sa703",
+  "title": "雜阿含經  卷第二十八  根力相應  （703）  如來力",
+  "chinese_text": "如是我聞：\n\n一時，佛住舍衛國祇樹給孤獨園。\n\n爾時，世尊告諸比丘：「若所有法，彼彼意解作證，悉皆如來無畏智所生。若比丘來為我聲聞，不諂不偽，質直心生，我則教誡、教授為其說法。晨朝為彼教誡、教授說法，至日中時得勝進處；若日暮時為彼教誡、教授說法，至晨朝時得勝進處。如是教授已，彼生正直心，實則知實、不實知不實，上則知上、無上則知無上，當知、當見、當得、當覺者，皆悉了知，斯有是處。\n\n「謂五學力、十種如來力。何等為五學力？謂信力、精進力、念力、定力、慧力。如來十種力。何等為十？謂是處如實知非處……」如上十力廣說。「若有來問處非處智力者，如如來處非處智等正覺所知所見所覺，為彼記說，乃至漏盡智力，亦如是說。諸比丘！處非處智力者，我說是定非不定，乃至漏盡智者，我說是定非不定，定者正道，非定者邪道。」\n\n佛說此經已，諸比丘聞佛所說，歡喜奉行。",
+  "english_sa_text": "",
+  "parallels": [],
+  "primary_sn_uid": null,
+  "pali_text": "",
+  "english_sn_text": "",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa701-800/sa703_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa701-800/sa703_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛住舍卫国祇树给孤独园。\n佛告比丘：「凡所有法，彼彼意解作证，皆由如来无畏智所生。若比丘为我声闻，不谄不伪，质直心生，我则为彼教诫、教授说法——晨朝说法，至日中得胜进；日暮说法，至晨朝得胜进。彼生正直心，实知实、不实知不实，上知上、无上知无上；当知、当见、当得、当觉者，皆悉了知，斯有是处。」\n「所谓五学力、十种如来力。何等五学力？信力、精进力、念力、定力、慧力。」\n「何等十如来力？一、处非处如实知。二、过去未来现在业及受因事报如实知。三、禅、解脱、三昧、正受之杂染与清净如实知。四、众生诸根差别如实知。五、众生种种意解如实知。六、世间种种界如实知。七、一切至处道如实知。八、种种宿命如实忆念。九、天眼净见众生死此生彼、随业受报。十、诸漏已尽，无漏心解脱、慧解脱，现法自知作证：我生已尽，梵行已立，所作已作，不受后有。」\n「若有来问处非处智力，如来如所知见觉，为彼记说；乃至漏尽智力，亦复如是。诸比丘！处非处智力，我说是定、非不定；乃至漏尽智，我说是定、非不定——定者正道，非定者邪道。」\n佛说此经已，诸比丘闻佛所说，欢喜奉行。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在舍卫国祇树给孤独园。\n佛告比丘：「凡是各种法，随各自意向而证知的，都由如来无畏智所生。如果比丘做我的声闻，不谄曲、不虚伪，生起质直心，我就为他教诫、教授说法——早晨说法，到中午得到胜进；傍晚说法，到早晨得到胜进。他生起正直心，实的知道是实、不实的知道是不实，上的知道是上、无上的知道是无上；应当知、见、得、觉的，都能了知，这是有这个道理的。」\n「也就是五学力、十种如来力。哪五种学力？信力、精进力、念力、定力、慧力。」\n「哪十种如来力？一、如实知处与非处。二、如实知过去未来现在的业及受的因缘果报。三、如实知禅、解脱、三昧、正受的杂染与清净。四、如实知众生诸根的差别。五、如实知众生种种意向。六、如实知世间种种界。七、如实知一切能到某处的道。八、如实忆念种种宿命。九、以清净天眼见众生死此生彼、随业受报。十、诸漏已尽，无漏心解脱、慧解脱，在现法中自己证知：我生已尽，梵行已立，所作已作，不再受后有。」\n「如果有人来问处非处智力，如来就按所知所见所觉为他记说；乃至漏尽智力，也是一样。比丘们！处非处智力，我说是确定的、不是不确定的；乃至漏尽智，我说是确定的、不是不确定的——确定的是正道，不确定的是邪道。」\n佛说完这部经，比丘们听佛所说，都欢喜奉行。",
+  "notes": "本经 SC 平行表所列平行及 `raw_aligned_data.json` 内之巴利本文、Sujato 英译并用以厘定法义；求那跋陀罗汉本用于定位经文与传统术语。confidence=high：AN10.21 系扩说（教诫胜进＋五学力＋十力＋定／非定）。gold_reconstructed：十力「如上广说」→ 据 SA_684／AN 压缩；保留汉「晨朝／日暮胜进」与「定者正道」义。",
+  "review_status": "gold_reconstructed",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "high",
+  "prior_review_status": "needs_revision",
+  "reconstruction_basis": "十力如上广说 → SA_684／AN 十力压缩",
+  "similarity_to_source": 0.263,
+  "paragraph_parallel": true
+}

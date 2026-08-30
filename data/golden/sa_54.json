@@ -1,0 +1,32 @@
+{
+  "id": "SA_54",
+  "uid": "sa54",
+  "title": "雜阿含經  卷第二  陰相應  （五四）  世間",
+  "chinese_text": "如是我聞：\n\n一時，佛住波羅㮈國仙人住處鹿野苑中。\n\n彼時，毘迦多魯迦聚落有婆羅門來詣佛所，恭敬問訊，却坐一面，白佛言：「瞿曇！我有年少弟子，知天文、族姓，為諸大眾占相吉凶，言有必有，言無必無，言成必成，言壞必壞。瞿曇！於意云何？」\n\n佛告婆羅門：「且置汝年少弟子知天文、族姓。我今問汝，隨汝意答。婆羅門！於意云何？色本無種耶？」\n\n答曰：「如是，世尊！」\n\n「受、想、行、識本無種耶？」\n\n答曰：「如是，世尊！」\n\n佛告婆羅門：「汝言我年少弟子知天文、族姓，為諸大眾作如是說，言有必有，言無必無，知見非不實耶？」\n\n婆羅門白佛：「如是，世尊！」\n\n佛告婆羅門：「於意云何？頗有色常住百歲耶？為異生、異滅耶？受、想、行、識常住百歲耶？異生、異滅耶？」\n\n答曰：「如是，世尊！」\n\n佛告婆羅門：「於意云何？汝年少弟子知天文、族姓，為大眾說，成者不壞，知見非不異耶？」\n\n答曰：「如是，世尊！」\n\n佛告婆羅門：「於意云何？此法彼法，此說彼說，何者為勝？」\n\n婆羅門白佛言：「世尊！此如法說，如佛所說顯現開發。譬如有人溺水能救，獲囚能救，迷方示路，闇惠明燈。世尊今日善說勝法，亦復如是顯現開發。」\n\n佛說此經已，毘迦多魯迦婆羅門聞佛所說，歡喜隨喜，即從坐起，禮足而去。",
+  "english_sa_text": "",
+  "parallels": [],
+  "primary_sn_uid": null,
+  "pali_text": "",
+  "english_sn_text": "",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa1-100/sa54_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa1-100/sa54_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时佛在波罗㮈国仙人住处鹿野苑中。\n时毗迦多鲁迦聚落婆罗门来诣佛所，问讯已，白言：瞿昙，我有年少弟子，知天文族姓，为大众占相——言有必有，言无必无，言成必成，言坏必坏。于意云何？\n佛告婆罗门：且置天文族姓。我今问汝：色本无种耶？答言：如是。受、想、行、识本无种耶？答言：如是。佛言：然则汝弟子占相言有必有、言无必无，其知見非不实耶？答言：如是。\n又问：色常住百岁，为异生异灭耶？受、想、行、识亦常住百岁，为异生异灭耶？答言：异生异灭。佛言：然则言成者不坏，其知見非不异耶？答言：如是。\n佛问：此法彼法，此说彼说，何者为胜？婆罗门白佛：如佛所说，最为殊胜——如人溺水能救，囚系能解，迷方示路，暗中与灯。\n佛说此经已，婆罗门欢喜随喜，礼足而去。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在波罗㮈国仙人住处鹿野苑中。\n那时，毗迦多鲁迦聚落的婆罗门来见佛，问讯后说：瞿昙，我有年轻弟子，懂天文和族姓，替大众占相——说有就必有，说无就必无，说成必成，说坏必坏。您怎么看？\n佛说：先放下天文族姓。我问你：色本来是没有固定「种」的吗？答：是。受、想、行、识本来也没有固定种吗？答：是。佛说：那么你弟子占相说「有必有、无必无」，那种知見难道不是不真实的吗？答：是这样。\n又问：色能常住一百年吗？还是生生灭灭、不断变易？受、想、行、识也是常住百年，还是异生异灭？答：是异生异灭。佛说：那么说「成了就不会坏」，那种知見难道不是与事实相异吗？答：是这样。\n佛问：这两种说法，哪一种更殊胜？婆罗门说：还是佛所说最为殊胜——像人溺水能救，囚徒能放，迷路能指路，黑暗中能给灯。\n佛说完这部经，婆罗门欢喜随喜，礼足而去。",
+  "notes": "无可靠主平行；以「本无种／异生异灭」破占相「有必有、成不坏」。汉问答保留，删赘复。confidence=medium。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "medium",
+  "prior_review_status": "needs_revision",
+  "revision_reason": "信达雅 v1：据巴利平行重译，去繁转简稿",
+  "similarity_to_source": 0.237
+}

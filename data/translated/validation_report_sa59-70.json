@@ -1,0 +1,122 @@
+[
+  {
+    "id": "SA_59",
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": [],
+    "similarity_to_source": 0.401,
+    "paragraphs": 3,
+    "confidence": "high"
+  },
+  {
+    "id": "SA_60",
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": [],
+    "similarity_to_source": 0.419,
+    "paragraphs": 4,
+    "confidence": "high"
+  },
+  {
+    "id": "SA_61",
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": [],
+    "similarity_to_source": 0.449,
+    "paragraphs": 4,
+    "confidence": "medium"
+  },
+  {
+    "id": "SA_62",
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": [],
+    "similarity_to_source": 0.262,
+    "paragraphs": 3,
+    "confidence": "medium"
+  },
+  {
+    "id": "SA_63",
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": [],
+    "similarity_to_source": 0.262,
+    "paragraphs": 4,
+    "confidence": "high"
+  },
+  {
+    "id": "SA_64",
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": [],
+    "similarity_to_source": 0.358,
+    "paragraphs": 8,
+    "confidence": "high"
+  },
+  {
+    "id": "SA_65",
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": [],
+    "similarity_to_source": 0.448,
+    "paragraphs": 3,
+    "confidence": "high"
+  },
+  {
+    "id": "SA_66",
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": [],
+    "similarity_to_source": 0.411,
+    "paragraphs": 3,
+    "confidence": "high"
+  },
+  {
+    "id": "SA_67",
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": [],
+    "similarity_to_source": 0.188,
+    "paragraphs": 3,
+    "confidence": "medium"
+  },
+  {
+    "id": "SA_68",
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": [],
+    "similarity_to_source": 0.368,
+    "paragraphs": 3,
+    "confidence": "medium"
+  },
+  {
+    "id": "SA_69",
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": [],
+    "similarity_to_source": 0.438,
+    "paragraphs": 3,
+    "confidence": "high"
+  },
+  {
+    "id": "SA_70",
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": [],
+    "similarity_to_source": 0.371,
+    "paragraphs": 3,
+    "confidence": "high"
+  }
+]

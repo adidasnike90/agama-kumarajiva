@@ -1,0 +1,43 @@
+{
+  "id": "SA_634",
+  "uid": "sa634",
+  "title": "雜阿含經  卷第二十六  念處相應  （634）  賢聖",
+  "chinese_text": "如是我聞：\n\n一時，佛住巴連弗邑鷄林精舍。\n\n爾時，世尊告諸比丘：「若比丘於四念處修習多修習，名賢聖出離。何等為四？謂身身觀念住，受、心、法法觀念住。」\n\n佛說此經已，諸比丘聞佛所說，歡喜奉行。\n\n如出離，如是正盡苦、究竟苦邊、得大果、得大福利、得甘露法、究竟甘露、甘露法作證，如上廣說。",
+  "english_sa_text": "",
+  "parallels": [
+    {
+      "uid": "sn47.17",
+      "acronym": "SN 47.17",
+      "root_lang": "pli",
+      "original_title": "Ariyasutta",
+      "translated_title": "Noble",
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    }
+  ],
+  "primary_sn_uid": "sn47.17",
+  "pali_text": "“Cattārome, bhikkhave, satipaṭṭhānā bhāvitā bahulīkatā ariyā niyyānikā niyyanti takkarassa sammā dukkhakkhayāya. Katame cattāro? Idha, bhikkhave, bhikkhu kāye kāyānupassī viharati ātāpī sampajāno satimā, vineyya loke abhijjhādomanassaṁ; vedanāsu …pe… citte …pe… dhammesu dhammānupassī viharati ātāpī sampajāno satimā, vineyya loke abhijjhādomanassaṁ. Ime kho, bhikkhave, cattāro satipaṭṭhānā bhāvitā bahulīkatā ariyā niyyānikā niyyanti takkarassa sammā dukkhakkhayāyā”ti. Sattamaṁ.",
+  "english_sn_text": "“Mendicants, when these four kinds of mindfulness meditation are developed and cultivated they are noble and emancipating, and bring one who practices them to the complete ending of suffering. What four? It’s when a mendicant meditates by observing an aspect of the body—keen, aware, and mindful, rid of covetousness and displeasure for the world. They meditate observing an aspect of feelings … mind … principles—keen, aware, and mindful, rid of covetousness and displeasure for the world. When these four kinds of mindfulness meditation are developed and cultivated they are noble and emancipating, and bring one who practices them to the complete ending of suffering.”",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa601-700/sa634_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa601-700/sa634_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛住巴连弗邑鸡林精舍。\n佛告比丘：「四念处修习多修习，是贤圣、能出离，趣苦边尽。何等为四？身、受、心、法念处——热诚、正知、正念，调伏世间贪忧。」\n「如出离，正尽苦、究竟苦边、得大果、大福利、甘露法、究竟甘露、甘露作证，亦如是说。」\n佛说此经已，诸比丘闻佛所说，欢喜奉行。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在巴连弗邑鸡林精舍。\n佛告比丘：「四念处多修习，是贤圣、能出离，趣向苦的尽头。哪四种？身、受、心、法念处——热诚、正知、正念，调伏世间贪忧。」\n「如出离，正尽苦、究竟苦边、得大果、大福利、甘露法、究竟甘露、甘露作证，也是这样说。」\n佛说完这部经，比丘们听佛所说，都欢喜奉行。",
+  "notes": "本经 SC 平行表所列平行及 `raw_aligned_data.json` 内之巴利本文、Sujato 英译并用以厘定法义；求那跋陀罗汉本用于定位经文与传统术语。confidence=high：primary SN47.17 Ariya（贤圣出离、尽苦）。汉本 peyyāla「如上广说」诸果名，压缩保留；地点从汉本巴连弗。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "high",
+  "prior_review_status": "needs_revision",
+  "similarity_to_source": 0.267,
+  "paragraph_parallel": true
+}

@@ -1,0 +1,38 @@
+{
+  "id": "SA_4",
+  "uid": "sa4",
+  "title": "雜阿含經  卷第一  陰相應  （四）  無知",
+  "chinese_text": "如是我聞：一時，佛住舍衛國、祇樹、給孤獨園。爾時，世尊告諸比丘：「於色不知不明，不斷不離欲，心不解脫者，則不能越生、老、病、死怖。如是，受⋯想⋯行⋯識不知不明，不斷不離欲貪，心不解脫者，則不能越生、老、病、死怖。「比丘，於色若知若明，若斷若離欲，則能越生、老、病、死怖。諸比丘，若知若明，若離欲貪，心解脫者，則能越生、老、病、死怖。如是，受⋯想⋯行⋯識若知若明，若斷若離欲貪，心解脫者，則能越生、老、病、死怖。」時，諸比丘聞佛所說歡喜，奉行。",
+  "english_sa_text": "Thus I have heard: One time, the Buddha was staying at Anāthapiṇḍada’s Park in Jeta’s Grove of Śrāvastī. It was then that the Bhagavān addressed the monks, “When one doesn’t know and understand form and doesn’t stop and become free of desire for it, their mind isn’t liberated, and then they can’t transcend the fear of birth, old age, illness, and death. Thus, when one doesn’t know and understand feeling … conception … volition … awareness and doesn’t stop and become free of desire for it, their mind isn’t liberated, and then they can’t transcend the fear of birth, old age, illness, and death. “Monks, if someone knows and understands form and stops and becomes free of desire for it, their mind is liberated, and then they can transcend the fear of birth, old age, illness, and death. Thus, if someone knows and understands feeling … perception … volition … awareness and stops and becomes free of desire for it, their mind is liberated, and then they can transcend the fear of birth, old age, illness, and death.” When the monks heard what the Buddha taught, they rejoiced and approved.",
+  "parallels": [
+    {
+      "uid": "sn22.24",
+      "acronym": "SN 22.24",
+      "root_lang": "pli",
+      "original_title": "Abhijānasutta",
+      "translated_title": "Directly Knowing",
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    }
+  ],
+  "primary_sn_uid": "sn22.24",
+  "pali_text": "Sāvatthinidānaṁ. “Rūpaṁ, bhikkhave, anabhijānaṁ aparijānaṁ avirājayaṁ appajahaṁ abhabbo dukkhakkhayāya; vedanaṁ anabhijānaṁ aparijānaṁ avirājayaṁ appajahaṁ abhabbo dukkhakkhayāya; saññaṁ anabhijānaṁ … saṅkhāre anabhijānaṁ aparijānaṁ avirājayaṁ appajahaṁ abhabbo dukkhakkhayāya; viññāṇaṁ anabhijānaṁ aparijānaṁ avirājayaṁ appajahaṁ abhabbo dukkhakkhayāya. Rūpañca kho, bhikkhave, abhijānaṁ parijānaṁ virājayaṁ pajahaṁ bhabbo dukkhakkhayāya; vedanaṁ abhijānaṁ … saññaṁ … saṅkhāre … viññāṇaṁ abhijānaṁ parijānaṁ virājayaṁ pajahaṁ bhabbo dukkhakkhayāyā”ti. Tatiyaṁ.",
+  "english_sn_text": "At Sāvatthī. “Mendicants, without directly knowing and completely understanding form, without dispassion for it and giving it up, you can’t end suffering. Without directly knowing and completely understanding feeling … perception … choices … consciousness, without dispassion for it and giving it up, you can’t end suffering. By directly knowing and completely understanding form, having dispassion for it and giving it up, you can end suffering. By directly knowing and completely understanding feeling … perception … choices … consciousness, having dispassion for it and giving it up, you can end suffering.”",
+  "errors": [],
+  "kumarajiva_style_text": "如是我闻：一时佛在舍卫国祇树给孤独园。\n尔时世尊告诸比丘：于色不知不明，不断不离欲，心不解脱，则不能越生、老、病、死怖。受、想、行、识亦复如是。若于色知而明之，断而离欲，心解脱者，乃能越此怖。五阴若知若明，若离欲贪，心解脱，皆能越生、老、病、死怖。\n时诸比丘闻佛所说，欢喜奉行。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在舍卫国祇树给孤独园。\n那时，世尊告诉比丘们：对于色，若不知不明，不断不离欲，心又不解脱，就不能越过生、老、病、死的怖畏。受、想、行、识也是一样。若对于色能够知而明了，断除而离欲，心解脱，才能越过这种怖畏。五阴若知若明，若离欲贪，心解脱，都能越过生、老、病、死的怖畏。\n当时，比丘们听佛所说，都欢喜奉行。",
+  "notes": "据 SN 22.24 同类知明离欲义；汉本果报作「越生老病死怖」（非仅断苦），从汉本。删梵式排比，收束为对句。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "prior_review_status": "gold",
+  "revision_reason": null,
+  "confidence": "high"
+}

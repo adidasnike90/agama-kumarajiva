@@ -1,0 +1,32 @@
+{
+  "id": "SA_131",
+  "uid": "sa131",
+  "title": "雜阿含經  卷第七  斷知相應  （131）  習於色",
+  "chinese_text": "如是我聞：\n\n一時，佛住舍衛國祇樹給孤獨園。\n\n爾時，世尊告諸比丘：「若沙門、婆羅門習於色者，隨魔自在，入於魔手，隨魔所欲，為魔所縛，不脫魔繫。受、想、行、識亦復如是。若沙門、婆羅門不習色。如是沙門、婆羅門不隨魔自在，不入魔手，不隨魔所欲，解脫魔縛，解脫魔繫。」\n\n佛說是經已，諸比丘聞佛所說，歡喜奉行。\n\n如是，習近者、習著者、味者、決定著者、止者、使者、往者、撰擇者、不捨者、不吐者，如是等沙門、婆羅門隨魔自在，如上說。",
+  "english_sa_text": "Saṁyuktāgama\n\n131. [Discourse on Becoming Habituated]\n\nThus have I heard. At one time the Buddha was staying at Sāvatthī in Jeta's Grove, Anāthapiṇḍika's Park.\n\nAt that time the Blessed One said to the monks: “If a recluse or Brahmin becomes habituated to bodily form, he follows Māra's power, falls into Māra's hand, follows Māra's wishes, is bound by Māra, and is not free from Māra's fetters. Feeling … perception … formations … consciousness is also like this.\n\n“If a recluse or Brahmin does not become habituated to bodily form, then in this way the recluse or Brahmin does not follow Māra's power, does not fall into Māra's hand, does not follow Māra's wishes, is free from being bound by Māra, and is free from Māra's fetters. Feeling … perception … formations … consciousness is also like this.”\n\nWhen the Buddha had spoken this discourse, hearing what the Buddha had said the monks were delighted and received it respectfully.\n\nIn the same way “one who becomes habituated to drawing close to it”, “one who becomes habituated to being attached to it”, “one who is gratified by it”, “one who is resolved on and attached to it”, “one who rests with it”, “one who has an underlying tendency for it”, “one who approaches it”, “one who opts for it”, “one who does not give it up”, “one who does not vomit it out”. In this way a recluse or Brahmin follows Māra's power … as said above.\n\nTranslated by Bhikkhu Anālayo. Originally published in ‘On Rādha and Views – A Translation of Saṁyukta-āgama Discourses 111 to 138 (Fascicle 6)’, Dharma Drum Journal of Buddhist Studies, 2015, vol. 17 pp. 1–42.\n\nPrepared for SuttaCentral by Seniya Ariyakumara and Ayya Vimala.",
+  "parallels": [],
+  "primary_sn_uid": null,
+  "pali_text": "",
+  "english_sn_text": "",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa101-200/sa131_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa101-200/sa131_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时佛在舍卫国祇树给孤独园。\n尔时世尊告诸比丘：若沙门、婆罗门习近于色，则随魔自在，入于魔手，随魔所欲，为魔所缚，不脱魔系；习近受、想、行、识者亦复如是。若沙门、婆罗门不习近色，则不随魔自在，不入魔手，不随魔所欲，解脱魔缚，解脱魔系；不习近受、想、行、识者亦复如是。\n佛说此经已，诸比丘闻佛所说，欢喜奉行。\n如说「习近」，如是习著者、味著者、决定染著者、止住者、驱役者、趣向者、撰择者、不舍者、不吐者，皆随魔自在，如上所说。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在舍卫国祇树给孤独园。\n那时，世尊告诉比丘们：如果沙门、婆罗门亲近沾染色，就会任凭魔摆布，落入魔手，随魔所欲，被魔所缚，脱不出魔的系缚；亲近沾染受、想、行、识的，也是一样。如果沙门、婆罗门不亲近沾染色，就不任凭魔摆布，不落魔手，不随魔所欲，解脱魔缚，解脱魔的系缚；不亲近沾染受、想、行、识的，也是一样。\n佛说完这部经，比丘们听佛所说，都欢喜奉行。\n像说「亲近沾染」一样，凡是习著的人、贪味的人、决定染著的人、停住其中的人、被它驱役的人、趣向它的人、拣择它的人、不肯舍离的人、不肯吐出的人，都同样任凭魔摆布，如上面所说。",
+  "notes": "无 SC 主平行；义近 SN22.63–65（取著、我慢、乐著者为魔所缚；不取著者解脱魔缚）及本经集 SA_74。「习」为 upaya／upādāna 之「近习、取著」，非「学习」，今作「习近」以免误读。汉本末列近义诸门（味者、决定著者、止者、使者、往者、撰择者、不舍者、不吐者）为重说标目，今并存其目而不复演全经。「使者」此处属能所之「驱役」，与随眠（anusaya）之「使」异，故别译。confidence=medium。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "medium",
+  "prior_review_status": "needs_revision",
+  "similarity_to_source": 0.252,
+  "paragraph_parallel": true
+}

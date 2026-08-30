@@ -1,0 +1,56 @@
+{
+  "id": "SA_584",
+  "uid": "sa584",
+  "title": "雜阿含經  卷第二十五  天相應  （584）  手杻",
+  "chinese_text": "如是我聞：\n\n一時，佛住舍衛國祇樹給孤獨園。\n\n時，有一天子，容色絕妙，於後夜時來詣佛所，稽首佛足，退坐一面。身諸光明遍照祇樹給孤獨園。\n\n時，彼天子說偈問佛：\n\n「為有族本不？　　有轉生族耶？\n\n　有俱相屬無，　　云何解於縛？」\n\n爾時，世尊說偈答言：\n\n「我無有族本，　　亦無轉生族，\n\n　俱相屬永斷，　　解脫一切縛。」\n\n時，彼天子復說偈言：\n\n「何名為族本，　　云何轉生族，\n\n　云何俱相續，　　何名為堅縛？」\n\n爾時，世尊說偈答言：\n\n「母為世族本，　　妻名轉生族，\n\n　子俱是相屬，　　愛欲為堅縛，\n\n　我無此族本，　　亦無轉生族，\n\n　俱相屬亦無，　　是名脫堅縛。」\n\n時，彼天子復說偈言：\n\n「善哉無族本，　　無生族亦善，\n\n　善哉無相屬，　　善哉縛解脫。\n\n　久見婆羅門，　　逮得般涅槃，\n\n　一切怨悉過，　　永超世恩愛。」\n\n時，彼天子聞佛所說，歡喜隨喜，稽首佛足，即沒不現。",
+  "english_sa_text": "",
+  "parallels": [
+    {
+      "uid": "sa-2.168",
+      "acronym": "SA2 168",
+      "root_lang": "lzh",
+      "original_title": "手杻",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "sn1.19",
+      "acronym": "SN 1.19",
+      "root_lang": "pli",
+      "original_title": "Kuṭikāsutta",
+      "translated_title": "A Little Hut",
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    }
+  ],
+  "primary_sn_uid": "sn1.19",
+  "pali_text": "“Kacci te kuṭikā natthi, kacci natthi kulāvakā; Kacci santānakā natthi, kacci muttosi bandhanā”ti. “Taggha me kuṭikā natthi, taggha natthi kulāvakā; Taggha santānakā natthi, taggha muttomhi bandhanā”ti. “Kintāhaṁ kuṭikaṁ brūmi, kiṁ te brūmi kulāvakaṁ; Kiṁ te santānakaṁ brūmi, kintāhaṁ brūmi bandhanan”ti. “Mātaraṁ kuṭikaṁ brūsi, bhariyaṁ brūsi kulāvakaṁ; Putte santānake brūsi, taṇhaṁ me brūsi bandhanan”ti. “Sāhu te kuṭikā natthi, sāhu natthi kulāvakā; Sāhu santānakā natthi, sāhu muttosi bandhanā”ti.",
+  "english_sn_text": "“Don’t you have a little hut? Don’t you have a little nest? Don’t you have any networks? Aren’t you free of shackles?” “Indeed I have no little hut. Indeed I have no little nest. Indeed I have no networks. Indeed I’m free from shackles.” “What do you think I call your little hut? What do I call your little nest? What do I call your network? And what do I call your shackle?” “You call mother a little hut; and wife a little nest. You call children a network, and you call my craving a shackle.” “It’s good you have no little hut! It’s good you have no little nest! It’s good you have no networks! And good that you’re free from shackles.”",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa501-600/sa584_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa501-600/sa584_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛在舍卫国祇树给孤独园。时，有一天子容色绝妙，于后夜时来诣佛所，稽首佛足，退坐一面。身诸光明遍照祇树给孤独园。\n时，彼天子说偈问佛：「为有族本不？有转生族耶？有俱相属无？云何解于缚？」\n尔时，世尊说偈答言：「我无有族本，亦无转生族，俱相属永断，解脱一切缚。」\n时，彼天子复说偈言：「何为族本？云何转生族？云何俱相续？何为坚缚？」\n尔时，世尊说偈答言：「母为世族本，妻名转生族，子俱是相属，爱欲为坚缚；我无此族本，亦无转生族，俱相属亦无，是名脱坚缚。」\n时，彼天子复说偈言：「善哉无族本，无生族亦善，善哉无相属，善哉缚解脱。久见婆罗门，逮得般涅槃，一切怖已过，永超世恩爱。」\n时，彼天子闻佛所说，欢喜随喜，稽首佛足，即没不现。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在舍卫国祇树给孤独园。当时，有一位天子容色绝妙，在后夜来到佛处，顶礼佛足，退坐一面。身放光明遍照祇树给孤独园。\n时，彼天子说偈问佛：「为有族本不？有转生族耶？有俱相属无？云何解于缚？」\n尔时，世尊说偈答言：「我无有族本，亦无转生族，俱相属永断，解脱一切缚。」\n时，彼天子复说偈言：「何为族本？云何转生族？云何俱相续？何为坚缚？」\n尔时，世尊说偈答言：「母为世族本，妻名转生族，子俱是相属，爱欲为坚缚；我无此族本，亦无转生族，俱相属亦无，是名脱坚缚。」\n时，彼天子复说偈言：「善哉无族本，无生族亦善，善哉无相属，善哉缚解脱。久见婆罗门，逮得般涅槃，一切怖已过，永超世恩爱。」\n时，彼天子闻佛所说，欢喜随喜，稽首佛足，即没不现。",
+  "notes": "本经 SC 平行表所列平行及 `raw_aligned_data.json` 内之巴利本文、Sujato 英译并用以厘定法义；求那跋陀罗汉本用于定位经文与传统术语。confidence=high：primary SN1.19（母妻子为爱欲坚缚；无族本解脱）。据 SN 校正：hut／nest／network／shackle 四喻。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "high",
+  "prior_review_status": "needs_revision",
+  "similarity_to_source": 0.42,
+  "paragraph_parallel": true,
+  "quality_gate_reasons": [
+    "lit_mod_gap=0.277>=0.1"
+  ]
+}

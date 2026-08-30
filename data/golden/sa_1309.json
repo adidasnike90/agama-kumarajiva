@@ -1,0 +1,53 @@
+{
+  "id": "SA_1309",
+  "uid": "sa1309",
+  "title": "雜阿含經  卷第五十  雜相應  （1309）  摩佉",
+  "chinese_text": "如是我聞：\n\n一時，佛住舍衛國祇樹給孤獨園。\n\n時，有摩伽天子，容色絕妙，於後夜時來詣佛所，稽首佛足，退坐一面。其身光明遍照祇樹給孤獨園。\n\n時，有摩伽天子說偈問佛：\n\n「殺何得安眠？　　殺何得善樂？\n\n　為殺何等人，　　瞿曇所讚嘆？」\n\n爾時，世尊說偈答言：\n\n「若殺於瞋恚，　　而得安隱眠，\n\n　殺於瞋恚者，　　令人得歡喜。\n\n　瞋恚為毒本，　　殺者我所歎，\n\n　殺彼瞋恚已，　　長夜無憂患。」\n\n於時，摩伽天子聞佛所說，歡喜隨喜，稽首佛足，即沒不現。",
+  "english_sa_text": "",
+  "parallels": [
+    {
+      "uid": "sa-2.308",
+      "acronym": "SA2 308",
+      "root_lang": "lzh",
+      "original_title": "摩佉",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "sn2.3",
+      "acronym": "SN 2.3",
+      "root_lang": "pli",
+      "original_title": "Māghasutta",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    }
+  ],
+  "primary_sn_uid": "sn2.3",
+  "pali_text": "Sāvatthinidānaṁ. Atha kho māgho devaputto abhikkantāya rattiyā abhikkantavaṇṇo kevalakappaṁ jetavanaṁ obhāsetvā yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṁ abhivādetvā ekamantaṁ aṭṭhāsi. Ekamantaṁ ṭhito kho māgho devaputto bhagavantaṁ gāthāya ajjhabhāsi: “Kiṁsu chetvā sukhaṁ seti, kiṁsu chetvā na socati; Kissassu ekadhammassa, vadhaṁ rocesi gotamā”ti. “Kodhaṁ chetvā sukhaṁ seti, kodhaṁ chetvā na socati; Kodhassa visamūlassa, madhuraggassa vatrabhū; Vadhaṁ ariyā pasaṁsanti, tañhi chetvā na socatī”ti.",
+  "english_sn_text": "At Sāvatthī. Then, late at night, the glorious godling Māgha, lighting up the entire Jeta’s Grove, went up to the Buddha, bowed, stood to one side, and addressed the Buddha in verse: “When what is slain do you sleep at ease? When what is slain is there no sorrow? What is the one thing whose killing you approve?” “When anger’s slain you sleep at ease. When anger’s slain there is no sorrow. Anger has a poisonous root and a sweet tip, O Smiter of the Constrictor. The noble ones praise its killing, for when it’s slain there is no sorrow.”",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa1301-1400/sa1309_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa1301-1400/sa1309_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛住舍卫国祇树给孤独园。\n后夜分，有摩伽天子容色绝妙，来诣佛所，稽首礼足，退坐一面；身诸光明遍照祇树给孤独园。\n摩伽天子说偈问：「杀何得安眠？杀何得善乐？为杀何等人，瞿昙所赞叹？」\n世尊说偈答：「若杀于瞋恚，而得安隐眠；杀于瞋恚者，令人得欢喜。瞋恚为毒本，杀者我所叹；杀彼瞋恚已，长夜无忧患。」\n摩伽天子闻已欢喜，礼足即没。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在舍卫国祇树给孤独园。\n后夜分，有摩伽天子容色绝妙，来到佛前，顶礼佛足，退坐一面；身上的光明遍照祇树给孤独园。\n摩伽天子说偈问：「杀了什么才能安稳睡眠？杀了什么才能得到善乐？杀什么样的人，是瞿昙所赞叹的？」\n世尊说偈答：「若杀掉瞋恚，就能安稳睡眠；杀掉瞋恚的人，能使人得欢喜。瞋恚是毒的根源，杀掉它是我所赞叹的；杀掉那瞋恚之后，长夜没有忧患。」\n摩伽天子听完欢喜随喜，顶礼佛足，随即隐没不见。",
+  "notes": "本经 SC 平行表所列平行及 `raw_aligned_data.json` 内之巴利本文、Sujato 英译并用以厘定法义；求那跋陀罗汉本用于定位经文与传统术语。confidence=high：primary SN2.3（Māgha）。据 SN：杀瞋则安眠、无忧；瞋有毒根。汉略「甘尖」喻，义从杀瞋。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "high",
+  "prior_review_status": "needs_revision",
+  "similarity_to_source": 0.283,
+  "paragraph_parallel": true
+}

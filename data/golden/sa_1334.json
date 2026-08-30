@@ -1,0 +1,53 @@
+{
+  "id": "SA_1334",
+  "uid": "sa1334",
+  "title": "雜阿含經  卷第五十  林相應  （1334）  倒淨",
+  "chinese_text": "如是我聞：\n\n一時，佛住舍衛國祇樹給孤獨園。\n\n時，有異比丘在拘薩羅人間，住一林中，入晝正受，起不正思惟。\n\n時，彼林中止住天神作是念：「此非比丘法，止住林中，入晝正受，而起不正思惟，我今當往方便善覺悟之。」\n\n時，彼天神而說偈言：\n\n「何不正思惟，　　覺觀所寢食？\n\n　當捨不正念，　　專修於正受。\n\n　遵崇佛法僧，　　及自持淨戒，\n\n　常生隨喜心，　　喜樂轉勝進。\n\n　以心歡喜故，　　速究竟苦邊。」\n\n時，彼天神說偈勸發已，彼比丘專精思惟，盡諸煩惱，得阿羅漢。",
+  "english_sa_text": "",
+  "parallels": [
+    {
+      "uid": "sa-2.354",
+      "acronym": "SA2 354",
+      "root_lang": "lzh",
+      "original_title": "倒淨",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "sn9.11",
+      "acronym": "SN 9.11",
+      "root_lang": "pli",
+      "original_title": "Akusalavitakkasutta",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    }
+  ],
+  "primary_sn_uid": "sn9.11",
+  "pali_text": "Ekaṁ samayaṁ aññataro bhikkhu kosalesu viharati aññatarasmiṁ vanasaṇḍe. Tena kho pana samayena so bhikkhu divāvihāragato pāpake akusale vitakke vitakketi, seyyathidaṁ— kāmavitakkaṁ, byāpādavitakkaṁ, vihiṁsāvitakkaṁ. Atha kho yā tasmiṁ vanasaṇḍe adhivatthā devatā tassa bhikkhuno anukampikā atthakāmā taṁ bhikkhuṁ saṁvejetukāmā yena so bhikkhu tenupasaṅkami; upasaṅkamitvā taṁ bhikkhuṁ gāthāhi ajjhabhāsi: “Ayoniso manasikārā, so vitakkehi khajjasi; Ayoniso paṭinissajja, yoniso anucintaya. Satthāraṁ dhammamārabbha, saṅghaṁ sīlāni attano; Adhigacchasi pāmojjaṁ, pītisukhamasaṁsayaṁ; Tato pāmojjabahulo, dukkhassantaṁ karissasī”ti. Atha kho so bhikkhu tāya devatāya saṁvejito saṁvegamāpādīti.",
+  "english_sn_text": "At one time one of the mendicants was staying in the land of the Kosalans in a certain forest grove. Now at that time that mendicant, during their day’s meditation, was thinking bad, unskillful thoughts, that is, sensual, malicious, and cruel thoughts. The deity haunting that forest had sympathy for that mendicant, and wanted what’s best for them. So they approached that mendicant wanting to stir them up, and addressed them in verse: “Because of irrational application of mind, you’re consumed by your thoughts. When you’ve given up irrationality, make sure your thoughts are rational. Thinking about the Teacher, the teaching, the Saṅgha, and your own ethics, you’ll find gladness, and rapture and bliss as well, no doubt. And when you’re full of joy, you’ll make an end to suffering.” Impelled by that deity, that mendicant was struck with a sense of urgency.",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa1301-1400/sa1334_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa1301-1400/sa1334_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛住舍卫国祇树给孤独园。\n时有异比丘在拘萨罗人间，住一林中，昼入正受，起非理作意。林中天神念：「此非比丘法，我当方便觉悟之。」即说偈言：\n「以非理作意，故为觉观食；当舍非理念，修习如理观。念佛、法、僧宝，及自所持戒；则生欢喜心，喜乐转增胜；喜心充满故，速得尽苦边。」\n比丘闻已，专精思惟，尽诸烦恼，得阿罗汉。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在舍卫国祇树给孤独园。\n那时有一位比丘在拘萨罗人间，住在一座林中，白天入定，却作非理作意。林中的天神心想：「这不是比丘该做的，我应当方便唤醒他。」便说偈：\n「因为非理作意，你被寻伺所吞噬；应当舍非理之念，修习如理的思惟。忆念佛、法、僧，以及自己所受持的戒；就会生起欢喜，喜乐愈来愈增胜；喜心充满，就能迅速到达苦的尽头。」\n比丘听了，专精思惟，尽诸烦恼，证得阿罗汉。",
+  "notes": "本经 SC 平行表所列平行及 `raw_aligned_data.json` 内之巴利本文、Sujato 英译并用以厘定法义；求那跋陀罗汉本用于定位经文与传统术语。confidence=high：primary SN9.11。信-校正：汉「不正思惟／不正念」据巴利 ayoniso manasikāra 作「非理作意／非理念」；「如理观」＝yoniso anucintaya。SN 明示欲、恚、害寻，汉略，义据 SN 补于 notes。「倒净」题名存卷目；正文不用后出「净倒」玄学义。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "high",
+  "prior_review_status": "needs_revision",
+  "similarity_to_source": 0.164,
+  "paragraph_parallel": true
+}

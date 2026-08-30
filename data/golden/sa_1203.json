@@ -1,0 +1,52 @@
+{
+  "id": "SA_1203",
+  "uid": "sa1203",
+  "title": "雜阿含經  卷第五十  比丘尼相應  （1203）  鼻黎",
+  "chinese_text": "如是我聞。一時佛住舍衞國祇樹給孤獨園。時毘羅比丘尼住舍衞國王園比丘尼衆中。晨朝著衣持鉢。入舍衞城乞食。食已還精舍。擧衣鉢洗足畢。持尼師壇著肩上。入安陀林坐一樹下。入晝正受。時魔波旬作是念。今沙門瞿曇住舍衞國祇樹給孤獨園。毘羅比丘尼住舍衞國王園比丘尼衆中。晨朝著衣持鉢。入舍衞城乞食。食已還精舍。擧衣鉢洗足畢。持尼師壇著肩上。入安陀林坐一樹下。入晝正受。我當往彼爲作留難。即化作年少容貎端正。至毘羅比丘尼所而説偈言云何作此形誰爲其作者此形何處起形去至何所毘羅比丘尼作是念。是何人來恐怖我。爲人爲非人。爲姦狡人。如是思惟。即得知覺惡魔波旬欲作嬈亂。即説偈言此形不自造亦非他所作因縁會而生縁散即磨滅如世諸種子因大地而生因地水火風陰界入亦然因縁和合生縁離則磨滅捨一切愛苦離一切闇冥已證於寂滅安住諸漏盡惡魔以知汝即自磨滅去時魔波旬作是念。毘羅比丘尼已知我心。生大憂慼即沒不現",
+  "english_sa_text": "",
+  "parallels": [
+    {
+      "uid": "sa-2.219",
+      "acronym": "SA2 219",
+      "root_lang": "lzh",
+      "original_title": "鼻黎",
+      "translated_title": "Vīrā",
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "sn5.9",
+      "acronym": "SN 5.9",
+      "root_lang": "pli",
+      "original_title": "Selāsutta",
+      "translated_title": "Sela",
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    }
+  ],
+  "primary_sn_uid": "sn5.9",
+  "pali_text": "Sāvatthinidānaṁ. Atha kho selā bhikkhunī pubbaṇhasamayaṁ nivāsetvā …pe… aññatarasmiṁ rukkhamūle divāvihāraṁ nisīdi. Atha kho māro pāpimā selāya bhikkhuniyā bhayaṁ chambhitattaṁ lomahaṁsaṁ uppādetukāmo …pe… selaṁ bhikkhuniṁ gāthāya ajjhabhāsi: “Kenidaṁ pakataṁ bimbaṁ, kvanu bimbassa kārako; Kvanu bimbaṁ samuppannaṁ, kvanu bimbaṁ nirujjhatī”ti. Atha kho selāya bhikkhuniyā etadahosi: “ko nu khvāyaṁ manusso vā amanusso vā gāthaṁ bhāsatī”ti? Atha kho selāya bhikkhuniyā etadahosi: “māro kho ayaṁ pāpimā mama bhayaṁ chambhitattaṁ lomahaṁsaṁ uppādetukāmo samādhimhā cāvetukāmo gāthaṁ bhāsatī”ti. Atha kho selā bhikkhunī “māro ayaṁ pāpimā” iti viditvā māraṁ pāpimantaṁ gāthāhi paccabhāsi: “Nayidaṁ attakataṁ bimbaṁ, nayidaṁ parakataṁ aghaṁ; Hetuṁ paṭicca sambhūtaṁ, hetubhaṅgā nirujjhati. Yathā aññataraṁ bījaṁ, khette vuttaṁ virūhati; Pathavīrasañcāgamma, sinehañca tadūbhayaṁ. Evaṁ khandhā ca dhātuyo, cha ca āyatanā ime; Hetuṁ paṭicca sambhūtā, hetubhaṅgā nirujjhare”ti. Atha kho māro pāpimā “jānāti maṁ selā bhikkhunī”ti dukkhī dummano tatthevantaradhāyīti.",
+  "english_sn_text": "At Sāvatthī. Then the nun Selā robed up in the morning … and sat at the root of a tree for the day’s meditation. Then Māra the Wicked, wanting to make the nun Selā feel fear, terror, and goosebumps … addressed her in verse: “Who created this puppet? Where is its maker? Where has the puppet arisen? And where does it cease?” Then the nun Selā thought, “Who’s speaking this verse, a human or a non-human?” Then she thought, “This is Māra the Wicked, wanting to make me feel fear, terror, and goosebumps, wanting to make me fall away from immersion!” Then Selā, knowing that this was Māra the Wicked, replied to him in verse: “This puppet isn’t self-made, nor is this gloom made by another. It comes to be because of a cause, and ceases when the cause breaks up. It’s like a seed that’s sown in a field; it grows relying on both the soil’s nutrients as well as moisture. In the same way the aggregates and elements and these six sense fields come to be because of a cause, and cease when the cause breaks up.” Then Māra the Wicked, thinking, “The nun Selā knows me!” miserable and sad, vanished right there.",
+  "errors": [
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa1201-1300/sa1203_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛住舍卫国祇树给孤独园。\n时洗罗比丘尼晨朝著衣持钵，入舍卫城乞食；食已还，洗足已，持坐具入安陀林，于树下入昼正受。\n魔波旬欲令生怖、退失禅定，化作端正年少，来至其所，说偈：\n「此形谁所造？作者为谁？何处起？何处灭？」\n比丘尼念：「此必恶魔欲乱我。」知已，以偈答：\n「此形非自作，亦非他作；依因缘生，因灭则灭。如种子依地味与湿润而抽芽；阴、界、六处亦依因生，因坏则灭。已离爱苦，安住漏尽。」\n魔波旬念：「比丘尼已知我。」忧愁不乐，即没不现。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在舍卫国祇树给孤独园。\n那时洗罗比丘尼清晨穿衣持钵，进城乞食；吃完回来，洗脚后，拿着坐具进入安陀林，在树下作日中禅。\n魔波旬想让她恐惧、退失禅定，就化作端正少年，来到她面前，说偈：\n「这个形体是谁造的？作者在哪里？从哪里生起？在哪里灭去？」\n比丘尼心想：「这一定是恶魔想来扰乱我。」知道以后，用偈回答：\n「这个形体不是自己造的，也不是别人造的；依因缘而生，因坏就灭。如同种子依靠土地的养分和湿润而发芽；阴、界、六处也是依因而生，因坏就灭。已离开爱苦，安住漏尽。」\n魔波旬心想：「比丘尼已经认出我。」忧愁不乐，随即隐没不见。",
+  "notes": "本经 SC 平行表所列平行及 `raw_aligned_data.json` 内之巴利本文、Sujato 英译并用以厘定法义；求那跋陀罗汉本用于定位经文与传统术语。confidence=high：primary SN5.9 Selāsutta。据 SN：bimba 非自／他作，因缘生灭；种子喻；阴界入。尼名据 Selā＝洗罗（汉「毘罗／鼻黎」音讹）。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "high",
+  "prior_review_status": "needs_revision",
+  "similarity_to_source": 0.054,
+  "paragraph_parallel": true
+}

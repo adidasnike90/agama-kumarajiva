@@ -1,0 +1,53 @@
+{
+  "id": "SA_997",
+  "uid": "sa997",
+  "title": "雜阿含經  卷第四十一  諸天相應  （997）  修福增",
+  "chinese_text": "如是我聞：\n\n一時，佛住舍衛國祇樹給孤獨園。\n\n時，有一天子，容色絕妙，於後夜時來詣佛所，稽首佛足，退坐一面。身諸光明遍照祇樹給孤獨園。\n\n時，彼天子說偈問佛：\n\n「云何得晝夜，　　功德常增長？\n\n　云何得生天，　　唯願為解說？」\n\n爾時，世尊說偈答言：\n\n「種植園果故，　　林樹蔭清涼，\n\n　橋船以濟度，　　造作福德舍，\n\n　穿井供渴乏，　　客舍給行旅，\n\n　如此之功德，　　日夜常增長，\n\n　如法戒具足，　　緣斯得生天。」\n\n時，彼天子復說偈言：\n\n「久見婆羅門，　　逮得般涅槃，\n\n　一切怖已過，　　永超世恩愛。」\n\n時，彼天子聞佛所說，歡喜隨喜，稽首佛足，即沒不現。",
+  "english_sa_text": "",
+  "parallels": [
+    {
+      "uid": "sa-2.134",
+      "acronym": "SA2 134",
+      "root_lang": "lzh",
+      "original_title": "修福增",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "sn1.47",
+      "acronym": "SN 1.47",
+      "root_lang": "pli",
+      "original_title": "Vanaropasutta",
+      "translated_title": "Planters of Groves",
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    }
+  ],
+  "primary_sn_uid": "sn1.47",
+  "pali_text": "“Kesaṁ divā ca ratto ca, sadā puññaṁ pavaḍḍhati; Dhammaṭṭhā sīlasampannā, ke janā saggagāmino”ti. “Ārāmaropā vanaropā, ye janā setukārakā; Papañca udapānañca, ye dadanti upassayaṁ. Tesaṁ divā ca ratto ca, sadā puññaṁ pavaḍḍhati; Dhammaṭṭhā sīlasampannā, te janā saggagāmino”ti.",
+  "english_sn_text": "“Whose merit always grows by day and by night? What people—firm in principle, accomplished in conduct— are going to heaven?” “Planters of parks or groves, those who build a bridge, a drinking place and well, and those who give monastic quarters. Their merit always grows by day and by night. Those people—firm in principle, accomplished in conduct— are going to heaven.”",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa901-1000/sa997_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa901-1000/sa997_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛住舍卫国祇树给孤独园。\n后夜分，有天子来诣佛所，容色绝妙，稽首礼足，退坐一面；身诸光明遍照祇园。\n天子说偈问：「云何得昼夜，功德常增长？何人戒具足，当得往生天？」\n世尊说偈答：「种园植林树，造桥及井泉，施僧坊客舍，功德日夜增；如法戒具足，如是得生天。」\n天子说偈：「久见婆罗门，逮得般涅槃，一切怖已过，永超世恩爱。」闻已欢喜，礼足即没。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在舍卫国祇树给孤独园。\n后夜分，有一位天子，容色绝妙，来到佛前，顶礼佛足，退坐一面；身上的光明遍照祇树给孤独园。\n天子说偈问：「怎样才能昼夜功德常增长？什么人住法具戒，能往生天？」\n世尊说偈答：「种植园林、树木，造桥、井泉，布施僧坊客舍，功德日夜增长；住法具戒的人，因此得生天。」\n天子又说偈：「久见婆罗门，逮得般涅槃，一切怖已过，永超世恩爱。」听完欢喜随喜，顶礼佛足，随即隐没不见。",
+  "notes": "本经 SC 平行表所列平行及 `raw_aligned_data.json` 内之巴利本文、Sujato 英译并用以厘定法义；求那跋陀罗汉本用于定位经文与传统术语。confidence=high：primary SN1.47 Vanaropa。据 SN：园／林／桥／井泉／僧坊；法住具戒者生天。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "high",
+  "prior_review_status": "needs_revision",
+  "similarity_to_source": 0.2,
+  "paragraph_parallel": true
+}

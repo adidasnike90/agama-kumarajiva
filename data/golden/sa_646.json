@@ -1,0 +1,63 @@
+{
+  "id": "SA_646",
+  "uid": "sa646",
+  "title": "雜阿含經  卷第二十七  根力相應  （646）  當知",
+  "chinese_text": "如是我聞：\n\n一時，佛住舍衛國祇樹給孤獨園。\n\n爾時，世尊告諸比丘：「有五根。何等為五？謂信根、精進根、念根、定根、慧根。信根者，當知是四不壞淨；精進根者，當知是四正斷；念根者，當知是四念處；定根者，當知是四禪；慧根者，當知是四聖諦。」\n\n佛說此經已，諸比丘聞佛所說，歡喜奉行。",
+  "english_sa_text": "",
+  "parallels": [
+    {
+      "uid": "sn48.8",
+      "acronym": "SN 48.8",
+      "root_lang": "pli",
+      "original_title": "Daṭṭhabbasutta",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "an5.15",
+      "acronym": "AN 5.15",
+      "root_lang": "pli",
+      "original_title": "Daṭṭhabbasutta",
+      "translated_title": "To be Seen",
+      "type": "full",
+      "resembling": true,
+      "remark": null
+    },
+    {
+      "uid": "sa675",
+      "acronym": "SA 675",
+      "root_lang": "lzh",
+      "original_title": "當知",
+      "translated_title": null,
+      "type": "full",
+      "resembling": true,
+      "remark": null
+    }
+  ],
+  "primary_sn_uid": "sn48.8",
+  "pali_text": "“Pañcimāni, bhikkhave, indriyāni. Katamāni pañca? Saddhindriyaṁ …pe… paññindriyaṁ. Kattha ca, bhikkhave, saddhindriyaṁ daṭṭhabbaṁ? Catūsu sotāpattiyaṅgesu— ettha saddhindriyaṁ daṭṭhabbaṁ. Kattha ca, bhikkhave, vīriyindriyaṁ daṭṭhabbaṁ? Catūsu sammappadhānesu— ettha vīriyindriyaṁ daṭṭhabbaṁ. Kattha ca, bhikkhave, satindriyaṁ daṭṭhabbaṁ? Catūsu satipaṭṭhānesu— ettha satindriyaṁ daṭṭhabbaṁ. Kattha ca, bhikkhave, samādhindriyaṁ daṭṭhabbaṁ? Catūsu jhānesu— ettha samādhindriyaṁ daṭṭhabbaṁ. Kattha ca, bhikkhave, paññindriyaṁ daṭṭhabbaṁ? Catūsu ariyasaccesu— ettha paññindriyaṁ daṭṭhabbaṁ. Imāni kho, bhikkhave, pañcindriyānī”ti. Aṭṭhamaṁ.",
+  "english_sn_text": "“Mendicants, there are these five faculties. What five? The faculties of faith, energy, mindfulness, immersion, and wisdom. And where should the faculty of faith be seen? In the four factors of stream-entry. And where should the faculty of energy be seen? In the four right efforts. And where should the faculty of mindfulness be seen? In the four kinds of mindfulness meditation. And where should the faculty of immersion be seen? In the four absorptions. And where should the faculty of wisdom be seen? In the four noble truths. These are the five faculties.”",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa601-700/sa646_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa601-700/sa646_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛住舍卫国祇树给孤独园。\n佛告比丘：「有五根——信、精进、念、定、慧。信根当知在四不坏净；精进根当知在四正勤；念根当知在四念处；定根当知在四禅；慧根当知在四圣谛。」\n佛说此经已，诸比丘闻佛所说，欢喜奉行。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在舍卫国祇树给孤独园。\n佛告比丘：「有五根——信、精进、念、定、慧。信根当知在四不坏净；精进根当知在四正勤；念根当知在四念处；定根当知在四禅；慧根当知在四圣谛。」\n佛说完这部经，比丘们听佛所说，都欢喜奉行。",
+  "notes": "本经 SC 平行表所列平行及 `raw_aligned_data.json` 内之巴利本文、Sujato 英译并用以厘定法义；求那跋陀罗汉本用于定位经文与传统术语。confidence=high：primary SN48.8 Daṭṭhabba（五根所见处）。汉「四不坏净」≈ SN 须陀洹支（sotāpattiyaṅga）；从汉术语，义从 SN。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "high",
+  "prior_review_status": "needs_revision",
+  "similarity_to_source": 0.257,
+  "paragraph_parallel": true
+}

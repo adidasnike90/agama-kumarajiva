@@ -1,0 +1,44 @@
+{
+  "id": "SA_1046",
+  "uid": "sa1046",
+  "title": "雜阿含經  卷第四十四  業報相應  （1046）  蛇行",
+  "chinese_text": "如是我聞：\n\n一時，佛住舍衛國祇樹給孤獨園。\n\n爾時，世尊告諸比丘：「有蛇行法。諦聽，善思，當為汝說。何等為蛇行法？謂殺生惡行，手常血腥，乃至十不善業跡……」如前淳陀修多羅廣說。「彼當爾時，身蛇行、口蛇行、意蛇行；彼如是身、口、意蛇行已，於其二趣向一一趣，若地獄、若畜生。蛇行眾生？謂蛇、鼠、猫、狸等腹行眾生，是名蛇行法。\n\n「云何非蛇行法？謂不殺生，乃至正見……」如前淳陀修多羅十業跡廣說，「是名非蛇行法。身非蛇行、口非蛇行、意非蛇行，於其二趣生一一趣，若天上、若人中，是名非蛇行法。」\n\n佛說此經已，諸比丘聞佛所說，歡喜奉行。",
+  "english_sa_text": "",
+  "parallels": [
+    {
+      "uid": "an10.216",
+      "acronym": "AN 10.216",
+      "root_lang": "pli",
+      "original_title": "Saṁsappanīyasutta",
+      "translated_title": "Creeping",
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    }
+  ],
+  "primary_sn_uid": null,
+  "pali_text": "",
+  "english_sn_text": "",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa1001-1100/sa1046_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa1001-1100/sa1046_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛住舍卫国祇树给孤独园。\n尔时世尊告诸比丘：「有蛇行法。谛听。行杀生、不与取、邪淫、妄语、两舌、恶口、绮语、贪、瞋、邪见者，身口意皆蛇行，趣向地狱或畜生——腹行类如蛇鼠猫狸，是名蛇行法。行不杀生、不与取、不邪淫、不妄语、不两舌、不恶口、不绮语、无贪、无瞋、正见者，身口意非蛇行，趣向天上或人中，是名非蛇行法。」\n佛说此经已，诸比丘闻佛所说，欢喜奉行。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在舍卫国祇树给孤独园。\n那时世尊告诉比丘们：「有蛇行法。仔细听。做杀生、不与取、邪淫、妄语、两舌、恶口、绮语、贪、瞋、邪见的人，身口意都像蛇一样弯曲而行，趋向地狱或畜生——腹行之类如蛇、鼠、猫、狸，这叫做蛇行法。做不杀生、不与取、不邪淫、不妄语、不两舌、不恶口、不绮语、无贪、无瞋、正见的人，身口意不是蛇行，趋向天上或人中，这叫做非蛇行法。」\n佛说完这部经，比丘们听佛所说，都欢喜奉行。",
+  "notes": "本经 SC 平行表所列平行及 `raw_aligned_data.json` 内之巴利本文、Sujato 英译并用以厘定法义；求那跋陀罗汉本用于定位经文与传统术语。confidence=high：primary AN10.216；汉「如前淳陀广说」peeyāla，据十业道补。reconstruction：十业蛇行纲。",
+  "review_status": "gold_reconstructed",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "high",
+  "prior_review_status": "needs_revision",
+  "reconstruction_basis": "「如前淳陀」→ 十业蛇行纲",
+  "similarity_to_source": 0.172,
+  "paragraph_parallel": true
+}

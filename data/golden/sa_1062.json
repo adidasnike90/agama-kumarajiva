@@ -1,0 +1,53 @@
+{
+  "id": "SA_1062",
+  "uid": "sa1062",
+  "title": "雜阿含經  卷第四十五  比丘相應  （1062）  善生",
+  "chinese_text": "如是我聞：\n\n一時，佛住舍衛國祇樹給孤獨園。\n\n時，有尊者善生，新剃鬚髮，著袈裟衣，正信非家，出家學道，來詣佛所，稽首佛足，退坐一面。\n\n爾時，世尊告諸比丘：「諸比丘！當知此善生善男子有二處端嚴：一者剃除鬚髮，著袈裟衣，正信非家，出家學道。二者盡諸有漏，無漏心解脫、慧解脫，現法自知作證：『我生已盡，梵行已立，所作已作，自知不受後有。』」爾時，世尊即說偈言：\n\n「寂靜盡諸漏，　　比丘莊嚴好，\n\n　離欲斷諸結，　　涅槃不復生。\n\n　持此最後身，　　摧伏魔怨敵。」\n\n佛說此經已，諸比丘聞佛所說，歡喜奉行。",
+  "english_sa_text": "",
+  "parallels": [
+    {
+      "uid": "sa-2.1",
+      "acronym": "SA2 1",
+      "root_lang": "lzh",
+      "original_title": "善生",
+      "translated_title": "Sujāta is praised",
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "sn21.5",
+      "acronym": "SN 21.5",
+      "root_lang": "pli",
+      "original_title": "Sujātasutta",
+      "translated_title": "Sujata",
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    }
+  ],
+  "primary_sn_uid": "sn21.5",
+  "pali_text": "Sāvatthiyaṁ viharati. Atha kho āyasmā sujāto yena bhagavā tenupasaṅkami. Addasā kho bhagavā āyasmantaṁ sujātaṁ dūratova āgacchantaṁ. Disvāna bhikkhū āmantesi: “ubhayenevāyaṁ, bhikkhave, kulaputto sobhati— yañca abhirūpo dassanīyo pāsādiko paramāya vaṇṇapokkharatāya samannāgato, yassa catthāya kulaputtā sammadeva agārasmā anagāriyaṁ pabbajanti tadanuttaraṁ brahmacariyapariyosānaṁ diṭṭheva dhamme sayaṁ abhiññā sacchikatvā upasampajja viharatī”ti. Idamavoca bhagavā …pe… satthā: “Sobhati vatāyaṁ bhikkhu, ujubhūtena cetasā; Vippayutto visaṁyutto, anupādāya nibbuto; Dhāreti antimaṁ dehaṁ, jetvā māraṁ savāhinin”ti. Pañcamaṁ.",
+  "english_sn_text": "At Sāvatthī. Then Venerable Sujāta went to the Buddha. The Buddha saw him coming off in the distance, and addressed the mendicants: “This gentleman shines in both ways. He’s attractive, good-looking, lovely, of surpassing beauty. And he has realized the supreme culmination of the spiritual path in this very life. He lives having achieved with his own insight the goal for which gentlemen rightly go forth from the lay life to homelessness.” That is what the Buddha said. Then the Holy One, the Teacher, went on to say: “This mendicant truly shines. His heart is upright, he’s unfettered, detached, quenched by not grasping. He bears his final body, having vanquished Māra with his legions.”",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa1001-1100/sa1062_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa1001-1100/sa1062_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛住舍卫国祇树给孤独园。\n时尊者善生新剃须发，着袈裟衣，正信非家而出家，来诣佛所，稽首退坐。\n世尊告诸比丘：「当知此善生善男子二处端严：一者剃除须发，着袈裟衣，正信非家出家；二者尽诸有漏，无漏心解脱、慧解脱，现法自知作证：『我生已尽，梵行已立，所作已作，自知不受后有。』」即说偈言：「寂静尽诸漏，比丘庄严好；离欲断诸结，涅槃不复生；持此最后身，摧伏魔怨敌。」\n佛说此经已，诸比丘闻佛所说，欢喜奉行。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在舍卫国祇树给孤独园。\n那时尊者善生刚剃去须发，穿着袈裟，以正信从有家入于非家而出家，来到佛前，顶礼后退坐一旁。\n世尊告诉比丘们：「应当知道，这位善生善男子有两处端严：一是剃除须发，穿着袈裟，以正信出家；二是已尽诸有漏，得无漏心解脱、慧解脱，在现法中自己现证：『我生已尽，梵行已立，所作已作，自知不受后有。』」接着说偈：「寂静而尽诸漏，比丘这样才真正庄严；离欲断结，涅槃不再受生；持此最后之身，摧伏魔怨。」\n佛说完这部经，比丘们听佛所说，都欢喜奉行。",
+  "notes": "本经 SC 平行表所列平行及 `raw_aligned_data.json` 内之巴利本文、Sujato 英译并用以厘定法义；求那跋陀罗汉本用于定位经文与传统术语。confidence=high：primary SN21.5；二处端严＝出家相好＋漏尽作证（巴利兼美色与梵行究竟；汉重出家相与漏尽）。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "high",
+  "prior_review_status": "needs_revision",
+  "similarity_to_source": 0.391,
+  "paragraph_parallel": true
+}

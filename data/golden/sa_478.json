@@ -1,0 +1,43 @@
+{
+  "id": "SA_478",
+  "uid": "sa478",
+  "title": "雜阿含經  卷第十九  受相應  （478）  比丘",
+  "chinese_text": "如是我聞：\n\n一時，佛住王舍城迦蘭陀竹園。\n\n爾時，世尊告諸比丘：「云何為受？云何受集？云何受滅？云何受集道跡？云何受滅道跡？」\n\n諸比丘白佛言：「世尊是法根、法眼、法依。善哉！世尊！唯願廣說，諸比丘聞已，當受奉行。」\n\n佛告諸比丘：「諦聽，善思，當為汝說。」佛告比丘：「有三受——樂受、苦受、不苦不樂受。觸集是受集、觸滅是受滅。若於受愛樂、讚歎、染著、堅住，是名受集道跡；若於受不愛樂、讚歎、染著、堅住，是名受滅道跡。若受因緣生樂喜，是名受味；若受無常變易，是名受患；若於受斷欲貪、越欲貪，是名受離。」\n\n佛說此經已，諸比丘聞佛所說，歡喜奉行。",
+  "english_sa_text": "",
+  "parallels": [
+    {
+      "uid": "sn36.26",
+      "acronym": "SN 36.26",
+      "root_lang": "pli",
+      "original_title": "Sambahulabhikkhusutta",
+      "translated_title": "A Number of Bhikkhus",
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    }
+  ],
+  "primary_sn_uid": "sn36.26",
+  "pali_text": "Atha kho sambahulā bhikkhū yena bhagavā tenupasaṅkamiṁsu; upasaṅkamitvā …pe… ekamantaṁ nisinnā kho te bhikkhū bhagavantaṁ etadavocuṁ: “katamā nu kho, bhante, vedanā, katamo vedanāsamudayo, katamā vedanāsamudayagāminī paṭipadā? Katamo vedanānirodho, katamā vedanānirodhagāminī paṭipadā? Ko vedanāya assādo, ko ādīnavo, kiṁ nissaraṇan”ti? “Tisso imā, bhikkhave, vedanā— sukhā vedanā, dukkhā vedanā, adukkhamasukhā vedanā. Imā vuccanti, bhikkhave, vedanā. Phassasamudayā vedanāsamudayo. Taṇhā vedanāsamudayagāminī paṭipadā. Phassanirodhā …pe… yo vedanāya chandarāgavinayo chandarāgappahānaṁ. Idaṁ vedanāya nissaraṇan”ti. Chaṭṭhaṁ.",
+  "english_sn_text": "Then several mendicants went up to the Buddha, bowed, sat down to one side, and said to him: “Sir, what is feeling? What’s the origin of feeling? What’s the practice that leads to the origin of feeling? What’s the cessation of feeling? What’s the practice that leads to the cessation of feeling? And what is feeling’s gratification, drawback, and escape?” “Mendicants, there are these three feelings. pleasant, painful, and neutral. These are called feelings. Feeling originates from contact. Craving is the practice that leads to the origin of feeling. When contact ceases, feeling ceases. … Removing and giving up desire and greed for feeling: this is its escape.”",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa401-500/sa478_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa401-500/sa478_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛在王舍城迦兰陀竹园。\n尔时，众多比丘诣佛所，稽首礼足，退坐一面，白佛言：「世尊！云何受？云何受集？云何受灭？云何受集道迹？云何受灭道迹？云何受味？云何受患？云何受离？」\n诸比丘白佛：「世尊是法根、法眼、法依。善哉！世尊！唯愿广说。」\n佛告诸比丘：「谛听，善思，当为汝说。」\n佛告诸比丘：「有三受——乐受、苦受、不苦不乐受。触集是受集，触灭是受灭。受集道迹者，渴爱；受灭道迹者，八正道。若受因缘生乐喜，是名受味；若受无常变易法，是名受患；若于受断欲贪、越欲贪，是名受离。」\n佛说此经已，诸比丘闻佛所说，欢喜奉行。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在王舍城迦兰陀竹园。\n那时，许多比丘来到佛处，顶礼退坐，对佛说：「世尊！什么是受？什么是受的集？什么是受的灭？什么是受的集道迹？什么是受的灭道迹？什么是受的味？什么是受的患？什么是受的离？」\n比丘们对佛说：「世尊是法根、法眼、法依。太好了！世尊！愿您广说。」\n佛告诉比丘们：「仔细听，好好思惟，我为你们说。」\n佛告诉比丘们：「有三种受——乐受、苦受、不苦不乐受。触集就是受的集，触灭就是受的灭。受的集道迹是渴爱；受的灭道迹是八正道。如果受因缘生起乐喜，叫做受的味；如果受是无常变易法，叫做受的患；如果对受断除欲贪、超越欲贪，叫做受的离。」\n佛说完这部经，比丘们听佛所说，都欢喜奉行。",
+  "notes": "本经 SC 平行表所列平行及 `raw_aligned_data.json` 内之巴利本文、Sujato 英译并用以厘定法义；求那跋陀罗汉本用于定位经文与传统术语。confidence=high：primary SN36.26 Sambahulabhikkhu。据 SN 校正 FEELING_QA；问者作众多比丘。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "high",
+  "prior_review_status": "needs_revision",
+  "similarity_to_source": 0.399,
+  "paragraph_parallel": true
+}

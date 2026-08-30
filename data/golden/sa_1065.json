@@ -1,0 +1,63 @@
+{
+  "id": "SA_1065",
+  "uid": "sa1065",
+  "title": "雜阿含經  卷第四十五  比丘相應  （1065）  象首",
+  "chinese_text": "如是我聞：\n\n一時，佛住舍衛國祇樹給孤獨園。\n\n爾時，舍衛國有手比丘是釋氏子，在舍衛國命終。\n\n時，有眾多比丘，晨朝著衣持鉢，入舍衛城乞食，聞手比丘釋子於舍衛國命終。聞已，入舍衛城，乞食還，舉衣鉢，洗足畢，詣佛所，稽首佛足，退坐一面，白佛言：「世尊！今日晨朝，眾多比丘著衣持鉢，入舍衛城乞食，聞釋氏子手比丘於舍衛國命終。云何？世尊！手比丘命終，當生何處？云何受生？後世云何？」\n\n佛告諸比丘：「是手比丘成就三不善法，彼命終當生惡趣泥犁中。何等三不善法？謂貪欲、瞋恚、愚癡。此三不善法結縛於心，釋種子手比丘生惡趣泥犁中。」爾時，世尊即說偈言：\n\n「貪欲瞋恚癡，　　結縛士夫心，\n\n　內發還自傷，　　猶如竹蘆實。\n\n　無貪恚癡心，　　是說為黠慧，\n\n　內發不自傷，　　是名為勝出。\n\n　是故當離貪，　　瞋恚癡冥心，\n\n　比丘智慧明，　　苦盡般涅槃。」\n\n佛說此經已，諸比丘聞佛所說，歡喜奉行。",
+  "english_sa_text": "",
+  "parallels": [
+    {
+      "uid": "sa-2.4",
+      "acronym": "SA2 4",
+      "root_lang": "lzh",
+      "original_title": "象首",
+      "translated_title": "Monk “Elephant-head”",
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "sn3.2",
+      "acronym": "SN 3.2",
+      "root_lang": "pli",
+      "original_title": "Purisasutta",
+      "translated_title": null,
+      "type": "full",
+      "resembling": true,
+      "remark": null
+    },
+    {
+      "uid": "sn3.23",
+      "acronym": "SN 3.23",
+      "root_lang": "pli",
+      "original_title": "Lokasutta",
+      "translated_title": null,
+      "type": "full",
+      "resembling": true,
+      "remark": null
+    }
+  ],
+  "primary_sn_uid": "sn3.2",
+  "pali_text": "Sāvatthinidānaṁ. Atha kho rājā pasenadi kosalo yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṁ abhivādetvā ekamantaṁ nisīdi. Ekamantaṁ nisinno kho rājā pasenadi kosalo bhagavantaṁ etadavoca: “kati nu kho, bhante, purisassa dhammā ajjhattaṁ uppajjamānā uppajjanti ahitāya dukkhāya aphāsuvihārāyā”ti? “Tayo kho, mahārāja, purisassa dhammā ajjhattaṁ uppajjamānā uppajjanti ahitāya dukkhāya aphāsuvihārāya. Katame tayo? Lobho kho, mahārāja, purisassa dhammo ajjhattaṁ uppajjamāno uppajjati ahitāya dukkhāya aphāsuvihārāya. Doso kho, mahārāja, purisassa dhammo ajjhattaṁ uppajjamāno uppajjati ahitāya dukkhāya aphāsuvihārāya. Moho kho, mahārāja, purisassa dhammo ajjhattaṁ uppajjamāno uppajjati ahitāya dukkhāya aphāsuvihārāya. Ime kho, mahārāja, tayo purisassa dhammā ajjhattaṁ uppajjamānā uppajjanti ahitāya dukkhāya aphāsuvihārāyā”ti. Idamavoca …pe… “Lobho doso ca moho ca, purisaṁ pāpacetasaṁ; Hiṁsanti attasambhūtā, tacasāraṁva samphalan”ti.",
+  "english_sn_text": "At Sāvatthī. Then King Pasenadi of Kosala went up to the Buddha, bowed, sat down to one side, and said to him, “Sir, how many things arise inside a person for their harm, suffering, and discomfort?” “Great king, three things arise inside a person for their harm, suffering, and discomfort. What three? Greed, hate, and delusion. These three things arise inside a person for their harm, suffering, and discomfort.” That is what the Buddha said. … “When greed, hate, and delusion, originate inside oneself, they harm a person of wicked heart, as a bamboo is destroyed by its own fruit.”",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa1001-1100/sa1065_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa1001-1100/sa1065_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛住舍卫国祇树给孤独园。\n尔时舍卫国有手比丘——释氏子——于舍卫命终。众多比丘乞食闻已，还诣佛所，白言：「手比丘命终，当生何处？云何受生？」\n佛告诸比丘：「是手比丘成就三不善法，命终当生恶趣泥犁。何等为三？谓贪欲、瞋恚、愚痴。此三不善结缚其心，故堕恶趣。」即说偈言：「贪瞋与愚痴，结缚士夫心；内发还自伤，犹如竹芦实。无贪无瞋痴，是说为黠慧；内发不自伤，是名为胜出。是故当离贪，及瞋痴冥心；比丘智慧明，苦尽般涅槃。」\n佛说此经已，诸比丘闻佛所说，欢喜奉行。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在舍卫国祇树给孤独园。\n那时舍卫国有位手比丘——释迦族子弟——在舍卫命终。许多比丘乞食时听说了，回到佛那里问：「手比丘命终后，会生到哪里？怎样受生？」\n佛告诉比丘们：「这位手比丘成就了三种不善法，命终后会生到恶趣地狱。哪三种？就是贪欲、瞋恚、愚痴。这三种不善结缚他的心，所以堕恶趣。」接着说偈：「贪、瞋与愚痴，结缚人的心；从内生起反而自伤，就像竹芦结果自毁。没有贪瞋痴，才叫做聪慧；从内生起却不自伤，才叫做胜过而出离。所以应当离贪，以及瞋与痴暗；比丘智慧明了，苦尽而般涅槃。」\n佛说完这部经，比丘们听佛所说，都欢喜奉行。",
+  "notes": "本经 SC 平行表所列平行及 `raw_aligned_data.json` 内之巴利本文、Sujato 英译并用以厘定法义；求那跋陀罗汉本用于定位经文与传统术语。confidence=high：SC 列 SN3.2／SN3.23（resembling）——贪瞋痴自害；汉叙事为释子手比丘命终堕恶趣（SA-2.4 作象首）；法义据巴利三不善根。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "high",
+  "prior_review_status": "needs_revision",
+  "similarity_to_source": 0.239,
+  "paragraph_parallel": true
+}

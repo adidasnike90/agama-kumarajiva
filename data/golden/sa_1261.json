@@ -1,0 +1,32 @@
+{
+  "id": "SA_1261",
+  "uid": "sa1261",
+  "title": "雜阿含經  卷第五十  譬喻相應  （1261）  木杵",
+  "chinese_text": "如是我聞：\n\n一時，佛住舍衛國祇樹給孤獨園。\n\n爾時，世尊告諸比丘：「譬如木杵，常用不止，日夜消減。如是，比丘！若沙門、婆羅門從本以來，不閉根門，食不知量，初夜、後夜不勤覺悟修習善法，當知是輩終日損減，不增善法，如彼木杵。\n\n「諸比丘！譬如優鉢羅、鉢曇摩、拘牟頭、分陀利生於水中，長於水中，隨水增長。如是，沙門、婆羅門善閉根門，飲食知量，初夜、後夜精勤覺悟，當知是等善根功德日夜增長，終不退減。當如是學：『善閉根門，飲食知量，初夜、後夜精勤覺悟，功德善法日夜增長。』當如是學。」\n\n佛說此經已，諸比丘聞佛所說，歡喜奉行。",
+  "english_sa_text": "",
+  "parallels": [],
+  "primary_sn_uid": null,
+  "pali_text": "",
+  "english_sn_text": "",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa1201-1300/sa1261_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa1201-1300/sa1261_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛住舍卫国祇树给孤独园。\n尔时世尊告诸比丘：「譬如木杵，日夜春用不已则消减。如是沙门、婆罗门不闭根门，食不知量，初夜后夜不勤觉寤，善法日减，如彼木杵。」\n「譬如优钵罗、钵昙摩、拘牟头、分陀利生于水中，随水增长。如是善闭根门，饮食知量，初夜后夜精勤觉寤，善法日增。当如是学：『善闭根门，饮食知量，初夜后夜精勤觉寤。』」\n佛说此经已，诸比丘闻佛所说，欢喜奉行。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在舍卫国祇树给孤独园。\n那时世尊告诉比丘们：「好比木杵，日夜不停地舂就会渐渐磨损。同样，沙门、婆罗门若不闭根门，饮食不知量，初夜后夜不勤觉寤，善法天天减损，就像那木杵。」\n「好比优钵罗、钵昙摩、拘牟头、分陀利长在水里，随水增长。同样，善闭根门，饮食知量，初夜后夜精勤觉寤，善法天天增长。应当这样学：『善闭根门，饮食知量，初夜后夜精勤觉寤。』」\n佛说完这部经，比丘们听佛所说，都欢喜奉行。",
+  "notes": "SC 于本经未列可靠巴利平行，故唯以汉本为底，参同相应之巴利定型语厘义；依项目规约「无可靠平行时 confidence 降为 medium/low」。confidence=medium：木杵消减 vs 莲华增长；根门／知量／觉寤定型。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "medium",
+  "prior_review_status": "needs_revision",
+  "similarity_to_source": 0.264,
+  "paragraph_parallel": true
+}

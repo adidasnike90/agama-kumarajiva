@@ -1,0 +1,38 @@
+{
+  "id": "SA_5",
+  "uid": "sa5",
+  "title": "雜阿含經  卷第一  陰相應  （五）  於色喜樂",
+  "chinese_text": "如是我聞：一時，佛住舍衛國、祇樹、給孤獨園。爾時，世尊告諸比丘：「於色愛喜者，則於苦愛喜。於苦愛喜者，則於苦不得解脫、不明、不離欲。如是受⋯想⋯行⋯識愛喜者，則愛喜苦。愛喜苦者，則於苦不得解脫。「諸比丘，於色不愛喜者，則不喜於苦。不喜於苦者，則於苦得解脫。如是受、想、行、識不愛喜者，則不喜於苦。不喜於苦者，則於苦得解脫。「諸比丘，於色不知、不明、不離欲貪、心不解脫。貪心不解脫者，則不能斷苦。如是受、想、行、識，不知、不明、不離欲貪、心不解脫者，則不能斷苦。「於色若知若明，若離欲貪，心得解脫者，則能斷苦。如是受⋯想⋯行⋯識，若知、若明、若離欲貪、心得解脫者，則能斷苦。」時，諸比丘聞佛所說歡喜，奉行。",
+  "english_sa_text": "Thus I have heard: One time, the Buddha was staying at Anāthapiṇḍada’s Park in Jeta’s Grove of Śrāvastī. It was then that the Bhagavān addressed the monks, “When one doesn’t know and understand form and doesn’t become free of desire for it, their mind isn’t liberated. Their mind not being liberated, they can’t stop suffering. Thus, when one doesn’t know and understand feeling … conception … volition … awareness and doesn’t become free of desire for it, their mind isn’t liberated, and then they can’t stop suffering. “Monks, if someone knows and understands form and becomes free of desire for it, their mind is liberated, and then they can stop suffering. Thus, if someone knows and understands feeling … conception … volition … awareness and becomes free of desire for it, their mind is liberated, and then they can stop suffering.” When the monks heard what the Buddha taught, they rejoiced and approved.",
+  "parallels": [
+    {
+      "uid": "sn22.24",
+      "acronym": "SN 22.24",
+      "root_lang": "pli",
+      "original_title": "Abhijānasutta",
+      "translated_title": "Directly Knowing",
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    }
+  ],
+  "primary_sn_uid": "sn22.24",
+  "pali_text": "Sāvatthinidānaṁ. “Rūpaṁ, bhikkhave, anabhijānaṁ aparijānaṁ avirājayaṁ appajahaṁ abhabbo dukkhakkhayāya; vedanaṁ anabhijānaṁ aparijānaṁ avirājayaṁ appajahaṁ abhabbo dukkhakkhayāya; saññaṁ anabhijānaṁ … saṅkhāre anabhijānaṁ aparijānaṁ avirājayaṁ appajahaṁ abhabbo dukkhakkhayāya; viññāṇaṁ anabhijānaṁ aparijānaṁ avirājayaṁ appajahaṁ abhabbo dukkhakkhayāya. Rūpañca kho, bhikkhave, abhijānaṁ parijānaṁ virājayaṁ pajahaṁ bhabbo dukkhakkhayāya; vedanaṁ abhijānaṁ … saññaṁ … saṅkhāre … viññāṇaṁ abhijānaṁ parijānaṁ virājayaṁ pajahaṁ bhabbo dukkhakkhayāyā”ti. Tatiyaṁ.",
+  "english_sn_text": "At Sāvatthī. “Mendicants, without directly knowing and completely understanding form, without dispassion for it and giving it up, you can’t end suffering. Without directly knowing and completely understanding feeling … perception … choices … consciousness, without dispassion for it and giving it up, you can’t end suffering. By directly knowing and completely understanding form, having dispassion for it and giving it up, you can end suffering. By directly knowing and completely understanding feeling … perception … choices … consciousness, having dispassion for it and giving it up, you can end suffering.”",
+  "errors": [],
+  "kumarajiva_style_text": "如是我闻：一时佛在舍卫国祇树给孤独园。\n尔时世尊告诸比丘：于色爱喜，则于苦爱喜；于苦爱喜，则于苦不得解脱。受、想、行、识爱喜，亦复如是。于色不爱喜，则不喜于苦；不喜于苦，则于苦得解脱。受、想、行、识不爱喜，亦复如是。又：于色不知不明、不离欲贪、心不解脱，则不能断苦；五阴皆然。若知若明，离欲贪，心解脱，则能断苦。\n时诸比丘闻佛所说，欢喜奉行。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在舍卫国祇树给孤独园。\n那时，世尊告诉比丘们：对色爱喜，就是对苦爱喜；对苦爱喜，就不能从苦解脱。对受、想、行、识爱喜，也是一样。对色不爱喜，就不喜于苦；不喜于苦，就能从苦解脱。对受、想、行、识不爱喜，也是一样。又：对色不知不明、不离欲贪、心不解脱，就不能断苦；五阴都是这样。若知若明，离欲贪，心解脱，就能断苦。\n当时，比丘们听佛所说，都欢喜奉行。",
+  "notes": "前半爱喜＝爱喜苦，近 SN 22.29；后半知明离欲断苦，近 SN 22.24。汉本两段并存，从汉本而雅化；「不明不离欲」属爱喜段余辞，略收。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "prior_review_status": "gold",
+  "revision_reason": null,
+  "confidence": "high"
+}

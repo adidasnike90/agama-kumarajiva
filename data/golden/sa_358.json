@@ -1,0 +1,73 @@
+{
+  "id": "SA_358",
+  "uid": "sa358",
+  "title": "雜阿含經  卷第十四  因緣相應  （358）  無明增",
+  "chinese_text": "如是我聞：\n\n一時，佛住舍衛國祇樹給孤獨園。\n\n爾時，世尊告諸比丘：「有增法、減法。諦聽，善思，當為汝說。云何增法？所謂此有故彼有，此起故彼起，謂緣無明行，緣行識，乃至純大苦聚集，是名增法。云何減法？謂此無故彼無，此滅故彼滅，所謂無明滅則行滅，乃至純大苦聚滅，是名減法。」\n\n佛說此經已，諸比丘聞佛所說，歡喜奉行。\n\n如增法、減法。如是生法、變易法、集法、滅法如上說。\n\n如當說三經，有應當知三經如上說。",
+  "english_sa_text": "",
+  "parallels": [
+    {
+      "uid": "sn12.37",
+      "acronym": "SN 12.37",
+      "root_lang": "pli",
+      "original_title": "Natumhasutta",
+      "translated_title": "Not Yours",
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "sf162",
+      "acronym": "SF 162",
+      "root_lang": "san",
+      "original_title": "Yuṣmākam",
+      "translated_title": null,
+      "type": "full",
+      "resembling": true,
+      "remark": null
+    },
+    {
+      "uid": "cnd19",
+      "acronym": "Cnd 19",
+      "root_lang": "pli",
+      "original_title": "Mogharājamāṇavapucchāniddesa",
+      "translated_title": null,
+      "type": "mention",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "mnd15",
+      "acronym": "Mnd 15",
+      "root_lang": "pli",
+      "original_title": "Attadaṇḍasuttaniddesa",
+      "translated_title": null,
+      "type": "mention",
+      "resembling": false,
+      "remark": null
+    }
+  ],
+  "primary_sn_uid": "sn12.37",
+  "pali_text": "Sāvatthiyaṁ viharati. “Nāyaṁ, bhikkhave, kāyo tumhākaṁ napi aññesaṁ. Purāṇamidaṁ, bhikkhave, kammaṁ abhisaṅkhataṁ abhisañcetayitaṁ vedaniyaṁ daṭṭhabbaṁ. Tatra kho, bhikkhave, sutavā ariyasāvako paṭiccasamuppādaññeva sādhukaṁ yoniso manasi karoti: ‘iti imasmiṁ sati idaṁ hoti, imassuppādā idaṁ uppajjati; imasmiṁ asati idaṁ na hoti, imassa nirodhā idaṁ nirujjhati, yadidaṁ— avijjāpaccayā saṅkhārā; saṅkhārapaccayā viññāṇaṁ …pe… evametassa kevalassa dukkhakkhandhassa samudayo hoti. Avijjāya tveva asesavirāganirodhā saṅkhāranirodho; saṅkhāranirodhā viññāṇanirodho …pe… evametassa kevalassa dukkhakkhandhassa nirodho hotī’”ti. Sattamaṁ.",
+  "english_sn_text": "At Sāvatthī. “Mendicants, this body doesn’t belong to you or to anyone else. It’s old deeds, and should be seen as produced by choices and intentions, as something to be felt. A learned noble disciple carefully and rationally applies the mind to dependent origination itself: ‘So, when this exists, this comes to be; due to the arising of this, this arises. When this doesn’t exist, this doesn’t come to be; due to the cessation of this, this ceases. That is: Ignorance is a requirement for choices. Choices are a requirement for consciousness. … That is how this entire mass of suffering originates. When ignorance fades away and ceases with no residue left behind, choices cease. When choices cease, consciousness ceases. … That is how this entire mass of suffering ceases.’”",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa301-400/sa358_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa301-400/sa358_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛在舍卫国祇树给孤独园。\n尔时，世尊告诸比丘：「此身非汝所有，亦非余人所有。当观为故业，由行、思愿所造，是所应受法。」\n「多闻圣弟子于缘起善正思惟：此有故彼有，此起故彼起；此无故彼无，此灭故彼灭——缘无明行，缘行识，缘识名色，缘名色六入处，缘六入处触，缘触受，缘受爱，缘爱取，缘取有，缘有生，缘生老死忧悲恼苦——如是纯大苦聚集。无明灭则行灭，行灭则识灭，乃至生灭则老死忧悲恼苦灭——如是纯大苦聚灭。」\n佛说此经已，诸比丘闻佛所说，欢喜奉行。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在舍卫国祇树给孤独园。\n那时，世尊告诉比丘们：「这个身体不是你们的，也不是别人的。应当看成旧业，由行与思愿所造成，是应当受用的法。」\n「多闻圣弟子对缘起善于正确地思维：此有故彼有，此起故彼起；此无故彼无，此灭故彼灭——无明缘行，行缘识，识缘名色，名色缘六入处，六入处缘触，触缘受，受缘爱，爱缘取，取缘有，有缘生，生缘老死忧悲恼苦——这样纯大苦聚集。无明灭则行灭，行灭则识灭，乃至生灭则老死忧悲恼苦灭——这样纯大苦聚灭。」\n佛说完这部经，比丘们听佛所说，都欢喜奉行。",
+  "notes": "本经 SC 平行表所列平行及 `raw_aligned_data.json` 内之巴利本文、Sujato 英译并用以厘定法义；求那跋陀罗汉本用于定位经文与传统术语。confidence=high：primary SN12.37（Natumha）；并 SF162。据 SN12.37 校正：汉本题「无明增」及「增法／减法」peyyāla 与巴利「非汝所有／故业」异文；今以 Pāli／Sujato 为准改写，汉本增减法说不取。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "high",
+  "prior_review_status": "needs_revision",
+  "similarity_to_source": 0.204,
+  "paragraph_parallel": true
+}

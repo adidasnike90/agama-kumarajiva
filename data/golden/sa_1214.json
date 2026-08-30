@@ -1,0 +1,73 @@
+{
+  "id": "SA_1214",
+  "uid": "sa1214",
+  "title": "雜阿含經  卷第五十  比丘尼相應  （1214）  欲結",
+  "chinese_text": "如是我聞：\n\n一時，佛住舍衛國祇樹給孤獨園。\n\n爾時，尊者阿難陀晨朝著衣持鉢，入舍衛城乞食，以尊者婆耆舍為伴。時，尊者婆耆舍見女人有上妙色，見已，貪欲心起。\n\n時，尊者婆耆舍作是念：「我今得不利，得苦非得樂，我今見年少女人有妙絕之色，貪欲心生。今為生厭離故，而說偈言：\n\n「貪欲所覆故，　　熾然燒我心，\n\n　今尊者阿難，　　為我滅貪火。\n\n　慈心哀愍故，　　方便為我說。」\n\n尊者阿難說偈答言：\n\n「以彼顛倒想，　　熾然燒其心，\n\n　遠離於淨想，　　長養貪欲者。\n\n　當修不淨觀，　　常一心正受，\n\n　速滅貪欲火，　　莫令燒其心。\n\n　諦觀察諸行，　　苦空非有我，\n\n　繫念正觀身，　　多修習厭離。\n\n　修習於無相，　　滅除憍慢使，\n\n　得慢無間等，　　究竟於苦邊。」\n\n尊者阿難說是語時，尊者婆耆舍聞其所說，歡喜奉行。",
+  "english_sa_text": "",
+  "parallels": [
+    {
+      "uid": "ea35.9",
+      "acronym": "EA 35.9",
+      "root_lang": "lzh",
+      "original_title": "",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "sa-2.230",
+      "acronym": "SA2 230",
+      "root_lang": "lzh",
+      "original_title": "欲結",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "sag",
+      "acronym": "Sag",
+      "root_lang": "san",
+      "original_title": "Śarīrārthagāthā",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "sn8.4",
+      "acronym": "SN 8.4",
+      "root_lang": "pli",
+      "original_title": "Ānandasutta",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    }
+  ],
+  "primary_sn_uid": "sn8.4",
+  "pali_text": "Ekaṁ samayaṁ āyasmā ānando sāvatthiyaṁ viharati jetavane anāthapiṇḍikassa ārāme. Atha kho āyasmā ānando pubbaṇhasamayaṁ nivāsetvā pattacīvaramādāya sāvatthiṁ piṇḍāya pāvisi āyasmatā vaṅgīsena pacchāsamaṇena. Tena kho pana samayena āyasmato vaṅgīsassa anabhirati uppannā hoti, rāgo cittaṁ anuddhaṁseti. Atha kho āyasmā vaṅgīso āyasmantaṁ ānandaṁ gāthāya ajjhabhāsi: “Kāmarāgena ḍayhāmi, cittaṁ me pariḍayhati; Sādhu nibbāpanaṁ brūhi, anukampāya gotamā”ti. “Saññāya vipariyesā, cittaṁ te pariḍayhati; Nimittaṁ parivajjehi, subhaṁ rāgūpasaṁhitaṁ. Saṅkhāre parato passa, dukkhato mā ca attato; Nibbāpehi mahārāgaṁ, mā ḍayhittho punappunaṁ. Asubhāya cittaṁ bhāvehi, ekaggaṁ susamāhitaṁ; Sati kāyagatā tyatthu, nibbidābahulo bhava. Animittañca bhāvehi, mānānusayamujjaha; Tato mānābhisamayā, upasanto carissasī”ti.",
+  "english_sn_text": "At one time Venerable Ānanda was staying near Sāvatthī in Jeta’s Grove, Anāthapiṇḍika’s monastery. Then Venerable Ānanda robed up in the morning and, taking his bowl and robe, entered Sāvatthī for alms with Venerable Vaṅgīsa as his second monk. And at that time Venerable Vaṅgīsa became dissatisfied, as lust infected his mind. Then he addressed Ānanda in verse: “I’ve got a burning desire for pleasure; My mind is on fire! Please, out of compassion, Gotama, tell me how to quench the flames.” “Your mind is on fire because of a perversion of perception. Turn away from the feature of things that’s attractive, provoking lust. See all conditioned phenomena as alien, as suffering and not-self. Extinguish the great fire of lust, don’t burn up again and again. With mind unified and serene, meditate on the ugly aspects of the body. With mindfulness immersed in the body, be full of disillusionment. Meditate on the signless, give up the underlying tendency to conceit; and when you comprehend conceit, you will live at peace.”",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa1201-1300/sa1214_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa1201-1300/sa1214_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛住舍卫国祇树给孤独园。\n尔时尊者阿难晨朝着衣持钵，入舍卫城乞食，尊者婆耆舍为伴。婆耆舍见女人上妙色，欲心炽然。\n即说偈白阿难：「欲火烧我心，愿尊慈愍故，方便为我说，云何灭此焰。」\n阿难说偈答：「由倒想起故，欲火烧汝心；当离净妙想，勿长养于欲。观诸行是他、是苦、是空、非我；修不净观，一心正受，速灭贪火。系念观身，多修厌离；厌故离贪。修习无相，断憍慢使；慢无间等已，究竟于苦边。」\n婆耆舍闻已，欢喜奉行。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在舍卫国祇树给孤独园。\n这时尊者阿难早晨着衣持钵，进舍卫城乞食，尊者婆耆舍作伴。婆耆舍看见女人殊妙的容色，欲心炽然。\n便用偈对阿难说：「欲火烧着我的心，愿您慈悲，方便告诉我，怎样灭这火焰。」\n阿难用偈回答：「因为颠倒想，欲火才烧你的心；应当远离净妙想，不要长养欲。观察诸行是他、是苦、是空、非我；修不净观，一心正受，速灭贪火。系念观身，多修厌离；厌故离贪。修习无相，断除憍慢的随眠；慢得到现观以后，就究竟到苦的尽头。」\n婆耆舍听了，欢喜奉行。",
+  "notes": "本经 SC 平行表所列平行及 `raw_aligned_data.json` 内之巴利本文、Sujato 英译并用以厘定法义；求那跋陀罗汉本用于定位经文与传统术语。confidence=high：primary SN8.4。据 SN：欲由想颠倒起；教以不净、身念、观行苦空非我、无相、断慢；「厌故离贪」对 nibbidā／virāga。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "high",
+  "prior_review_status": "needs_revision",
+  "similarity_to_source": 0.154,
+  "paragraph_parallel": true
+}

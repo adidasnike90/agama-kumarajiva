@@ -1,0 +1,133 @@
+{
+  "id": "SA_899",
+  "uid": "sa899",
+  "title": "雜阿含經  卷第三十四  入界陰相應  （899）  眼生",
+  "chinese_text": "如是我聞：\n\n一時，佛住王舍城迦蘭陀竹園。\n\n爾時，世尊告諸比丘：「若比丘眼生、住、成就顯現，苦生、病住、老死顯現；如是，乃至意亦如是說。若眼滅、息、沒，苦則滅、病則息、老死則沒；乃至意亦如是說。」\n\n佛說此經已，諸比丘聞佛所說，歡喜奉行。\n\n如內六入處，如是外六入處乃至五陰，亦如是說。",
+  "english_sa_text": "",
+  "parallels": [
+    {
+      "uid": "sn26.10",
+      "acronym": "SN 26.10",
+      "root_lang": "pli",
+      "original_title": "Khandhasutta",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "sn26.9",
+      "acronym": "SN 26.9",
+      "root_lang": "pli",
+      "original_title": "Dhātusutta",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "sn26.8",
+      "acronym": "SN 26.8",
+      "root_lang": "pli",
+      "original_title": "Taṇhāsutta",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "sn26.7",
+      "acronym": "SN 26.7",
+      "root_lang": "pli",
+      "original_title": "Sañcetanāsutta",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "sn26.6",
+      "acronym": "SN 26.6",
+      "root_lang": "pli",
+      "original_title": "Saññāsutta",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "sn26.5",
+      "acronym": "SN 26.5",
+      "root_lang": "pli",
+      "original_title": "Samphassajasutta",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "sn26.4",
+      "acronym": "SN 26.4",
+      "root_lang": "pli",
+      "original_title": "Samphassasutta",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "sn26.3",
+      "acronym": "SN 26.3",
+      "root_lang": "pli",
+      "original_title": "Viññāṇasutta",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "sn26.2",
+      "acronym": "SN 26.2",
+      "root_lang": "pli",
+      "original_title": "Rūpasutta",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "sn26.1",
+      "acronym": "SN 26.1",
+      "root_lang": "pli",
+      "original_title": "Cakkhusutta",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    }
+  ],
+  "primary_sn_uid": "sn26.1",
+  "pali_text": "Sāvatthinidānaṁ. “Yo kho, bhikkhave, cakkhussa uppādo ṭhiti abhinibbatti pātubhāvo, dukkhasseso uppādo, rogānaṁ ṭhiti, jarāmaraṇassa pātubhāvo. Yo sotassa uppādo ṭhiti …pe… yo ghānassa uppādo ṭhiti … yo jivhāya uppādo ṭhiti … yo kāyassa uppādo ṭhiti … yo manassa uppādo ṭhiti abhinibbatti pātubhāvo, dukkhasseso uppādo, rogānaṁ ṭhiti, jarāmaraṇassa pātubhāvo. Yo ca, bhikkhave, cakkhussa nirodho vūpasamo atthaṅgamo, dukkhasseso nirodho, rogānaṁ vūpasamo, jarāmaraṇassa atthaṅgamo. Yo sotassa nirodho …pe… yo ghānassa nirodho … yo jivhāya nirodho … yo kāyassa nirodho … yo manassa nirodho vūpasamo atthaṅgamo, dukkhasseso nirodho, rogānaṁ vūpasamo, jarāmaraṇassa atthaṅgamo”ti. Paṭhamaṁ.",
+  "english_sn_text": "At Sāvatthī. “Mendicants, the arising, continuation, and manifestation and regeneration of the eye is the arising of suffering, the continuation of diseases, and the manifestation of old age and death. The arising, continuation, and manifestation and regeneration of the ear, nose, tongue, body, and mind is the arising of suffering, the continuation of diseases, and the manifestation of old age and death. The cessation, settling, and disappearance of the eye is the cessation of suffering, the settling of diseases, and the disappearance of old age and death. The cessation, settling, and disappearance of the ear, nose, tongue, body, and mind is the cessation of suffering, the settling of diseases, and the disappearance of old age and death.”",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa801-900/sa899_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa801-900/sa899_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛住王舍城迦兰陀竹园。\n尔时世尊告诸比丘：「若眼生、住、成就、显现，则苦生、病住、老死显现；耳、鼻、舌、身、意亦如是。若眼灭、息、没，则苦灭、病息、老死没；乃至意亦如是。」\n如内六入处，外六入处、六识、六触、六受、六想、六思、六爱、六界、五阴，亦如是说。\n佛说此经已，诸比丘闻佛所说，欢喜奉行。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在王舍城迦兰陀竹园。\n那时世尊告诉比丘们：「如果眼生起、住留、成就、显现，那么苦就生起、病就住留、老死就显现；耳、鼻、舌、身、意也是这样。如果眼灭尽、止息、消失，那么苦就灭、病就息、老死就没；一直到意也是这样。」\n如同内六入处，外六入处、六识、六触、六受、六想、六思、六爱、六界、五阴，也是这样说。\n佛说完这部经，比丘们听佛所说，都欢喜奉行。",
+  "notes": "本经 SC 平行表所列平行及 `raw_aligned_data.json` 内之巴利本文、Sujato 英译并用以厘定法义；求那跋陀罗汉本用于定位经文与传统术语。confidence=high：primary SN26.1 Uppāda。汉「苦生、病住、老死显现」与巴利 dukkha／roga／jarāmaraṇa 对应，从 SN。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "high",
+  "prior_review_status": "needs_revision",
+  "similarity_to_source": 0.327,
+  "paragraph_parallel": true
+}

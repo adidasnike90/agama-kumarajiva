@@ -1,0 +1,63 @@
+{
+  "id": "SA_921",
+  "uid": "sa921",
+  "title": "雜阿含經  卷第三十六  釋氏相應  （921）  四",
+  "chinese_text": "如是我聞：\n\n一時，佛住王舍城迦蘭陀竹園。\n\n爾時，世尊告諸比丘：「世有良馬，四能具足，當知是良馬，王所服乘。何等為四？所謂賢善、捷疾、堪能、調柔。如是善男子四德成就，世所宗重，承事供養，為無上福田。何等為四？謂善男子成就無學戒身、無學定身、無學慧身、無學解脫身。」\n\n佛說此經已，諸比丘聞佛所說，歡喜奉行。",
+  "english_sa_text": "",
+  "parallels": [
+    {
+      "uid": "an4.260",
+      "acronym": "AN 4.260",
+      "root_lang": "pli",
+      "original_title": "Dutiyaājānīyasutta",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "an4.259",
+      "acronym": "AN 4.259",
+      "root_lang": "pli",
+      "original_title": "Paṭhamaājānīyasutta",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "sa-2.147",
+      "acronym": "SA2 147",
+      "root_lang": "lzh",
+      "original_title": "四",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    }
+  ],
+  "primary_sn_uid": null,
+  "pali_text": "",
+  "english_sn_text": "",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa901-1000/sa921_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa901-1000/sa921_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛住王舍城迦兰陀竹园。\n尔时世尊告诸比丘：「世有良马四能具足，王所服乘：贤善、捷疾、堪能、调柔。善男子四德成就，世所宗重，为无上福田：无学戒身、无学定身、无学慧身、无学解脱身。」\n佛说此经已，诸比丘闻佛所说，欢喜奉行。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在王舍城迦兰陀竹园。\n那时世尊告诉比丘们：「世上良马具备四种能力，是国王所驾乘的：贤善、快捷、堪能、调柔。善男子成就四德，为世间所宗重，是无上福田：无学的戒身、定身、慧身、解脱身。」\n佛说完这部经，比丘们听佛所说，都欢喜奉行。",
+  "notes": "本经 SC 平行表所列平行及 `raw_aligned_data.json` 内之巴利本文、Sujato 英译并用以厘定法义；求那跋陀罗汉本用于定位经文与传统术语。confidence=high：parallels AN4.259–260；四良马德对无学戒定慧解脱。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "high",
+  "prior_review_status": "needs_revision",
+  "similarity_to_source": 0.378,
+  "paragraph_parallel": true
+}

@@ -1,0 +1,32 @@
+{
+  "id": "SA_1360",
+  "uid": "sa1360",
+  "title": "雜阿含經  卷第五十  林相應  （1360）  鐶釧",
+  "chinese_text": "如是我聞：\n\n一時，佛住舍衛國祇樹給孤獨園。\n\n時，有異比丘在拘薩羅人間，住一林中，得阿羅漢，諸漏已盡，所作已作，已捨重擔，斷諸有結，正智心善解脫。\n\n時，有一女人於夜闇中，天時微雨，電光睒照，於林中過，欲詣他男子，倒深泥中，環釧斷壞，華瓔散落。時，彼女人而說偈言：\n\n「頭髮悉散解，　　花瓔落深泥，\n\n　鐶釧悉破壞，　　丈夫何所著。」\n\n時，彼比丘作是念：「女人尚能說偈，我豈不能說偈答之？\n\n「煩惱悉斷壞，　　度生死淤泥，\n\n　著纏悉散落，　　十方尊見我。」\n\n時，彼比丘說偈已，即默然而住。",
+  "english_sa_text": "",
+  "parallels": [],
+  "primary_sn_uid": null,
+  "pali_text": "",
+  "english_sn_text": "",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa1301-1400/sa1360_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa1301-1400/sa1360_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛住舍卫国祇树给孤独园。\n时有异比丘在拘萨罗人间，住一林中，已得阿罗汉：诸漏已尽，所作已作，已舍重担，断诸有结，正智心善解脱。\n有一女人于夜暗中，天微雨、电光闪照，过林欲诣他男子，倒深泥中，镮钏断坏，华璎散落。女人说偈：「头发悉散解，花璎落深泥；镮钏悉破坏，丈夫何所著。」\n比丘念：「女人尚能说偈，我岂不能答？」即说偈：「烦恼悉断坏，度生死淤泥；著缠悉散落，十方尊见我。」\n比丘说偈已，即默然而住。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在舍卫国祇树给孤独园。\n当时有一位比丘在拘萨罗人间，住在一片林中，已经证得阿罗汉：诸漏已尽，该做的已做，已放下重担，断尽有结，以正智内心善解脱。\n有一个女人在夜暗中，天微雨、电光闪照，穿过林子要去找别的男子，跌倒在深泥里，手镯断坏，花璎散落。女人说偈：「头发全都散开，花璎落进深泥；手镯全都破坏，丈夫还恋着什么。」\n比丘心想：「女人都能说偈，我难道不能答？」便说偈：「烦恼全都断坏，已度生死淤泥；执著缠缚全都散落，十方尊者看见我。」\n比丘说完偈，便默然而住。",
+  "notes": "SC 于本经未列可靠巴利平行，故唯以汉本为底，参林相应／Vanasaṃyutta 定型语及早期教理厘义；依项目规约「无可靠平行时 confidence 降为 medium/low」。求那跋陀罗汉本用于定位经文与传统术语。confidence=medium：无 SC 专经。阿罗汉比丘以断结对女人镮钏华璎散落。底本答偈引号残缺，今补全；「睒照」作「闪照」。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "medium",
+  "prior_review_status": "needs_revision",
+  "similarity_to_source": 0.293,
+  "paragraph_parallel": true
+}

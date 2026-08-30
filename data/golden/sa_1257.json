@@ -1,0 +1,45 @@
+{
+  "id": "SA_1257",
+  "uid": "sa1257",
+  "title": "雜阿含經  卷第五十  譬喻相應  （1257）  弓手",
+  "chinese_text": "如是我聞：\n\n一時，佛住鞞舍離國獼猴池側重閣講堂。\n\n爾時，世尊告諸比丘：「一切行無常，不恒、不安，是變易法。諸比丘！常當觀察一切諸行，修習厭離、不樂、解脫。」\n\n時，有異比丘從座起，整衣服，為佛作禮，右膝著地，合掌白佛：「壽命遷滅，遲速如何？」\n\n佛告比丘：「我則能說，但汝欲知者難。」\n\n比丘白佛：「可說譬不？」\n\n佛言：「可說。」\n\n佛告比丘：「有四士夫手執強弓，一時放發，俱射四方。有一士夫及箭未落，接取四箭。云何？比丘！如是士夫為捷疾不？」\n\n比丘白佛：「捷疾。世尊！」\n\n佛告比丘：「此接箭士夫雖復捷疾，有地神天子倍疾於彼，虛空神天倍疾地神，四王天子來去倍疾於虛空神天，日月天子復倍捷疾於四王天，導日月神復倍捷疾於日月天子。諸比丘！命行遷變倍疾於彼導日月神。是故，諸比丘！當勤方便，觀察命行無常迅速如是。」\n\n佛說此經已，諸比丘聞佛所說，歡喜奉行。",
+  "english_sa_text": "",
+  "parallels": [
+    {
+      "uid": "sn20.6",
+      "acronym": "SN 20.6",
+      "root_lang": "pli",
+      "original_title": "Dhanuggahasutta",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    }
+  ],
+  "primary_sn_uid": "sn20.6",
+  "pali_text": "Sāvatthiyaṁ viharati. “Seyyathāpi, bhikkhave, cattāro daḷhadhammā dhanuggahā susikkhitā katahatthā katūpāsanā catuddisā ṭhitā assu. Atha puriso āgaccheyya: ‘ahaṁ imesaṁ catunnaṁ daḷhadhammānaṁ dhanuggahānaṁ susikkhitānaṁ katahatthānaṁ katūpāsanānaṁ catuddisā kaṇḍe khitte appatiṭṭhite pathaviyaṁ gahetvā āharissāmī’ti. Taṁ kiṁ maññatha, bhikkhave, ‘javano puriso paramena javena samannāgato’ti alaṁvacanāyā”ti? “Ekassa cepi, bhante, daḷhadhammassa dhanuggahassa susikkhitassa katahatthassa katūpāsanassa kaṇḍaṁ khittaṁ appatiṭṭhitaṁ pathaviyaṁ gahetvā āhareyya: ‘javano puriso paramena javena samannāgato’ti alaṁvacanāya, ko pana vādo catunnaṁ daḷhadhammānaṁ dhanuggahānaṁ susikkhitānaṁ katahatthānaṁ katūpāsanānan”ti? “Yathā ca, bhikkhave, tassa purisassa javo, yathā ca candimasūriyānaṁ javo, tato sīghataro. Yathā ca, bhikkhave, tassa purisassa javo yathā ca candimasūriyānaṁ javo yathā ca yā devatā candimasūriyānaṁ purato dhāvanti tāsaṁ devatānaṁ javo, (…) tato sīghataraṁ āyusaṅkhārā khīyanti. Tasmātiha, bhikkhave, evaṁ sikkhitabbaṁ: ‘appamattā viharissāmā’ti. Evañhi vo, bhikkhave, sikkhitabban”ti. Chaṭṭhaṁ.",
+  "english_sn_text": "At Sāvatthī. “Mendicants, suppose there were four well-trained expert archers with strong bows standing in the four quarters. And a man came along and thought, ‘When these four well-trained expert archers shoot arrows in four quarters, I’ll catch them before they reach the ground, and then I’ll bring them back.’ What do you think, mendicants? Are they qualified to be called ‘a speedster endowed with super-speed’?” “If he could catch an arrow shot by just one well-trained expert archer before it reaches the ground and bring it back, he’d be qualified to be called ‘a speedster endowed with super-speed’. How much more so arrows shot by four archers!” “As fast as that man is, the sun and moon are faster. As fast as that man is, as fast as the sun and moon are, and as fast as the deities that run before the sun and moon are, the waning of the life forces is faster. So you should train like this: ‘We will stay diligent.’ That’s how you should train.”",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa1201-1300/sa1257_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa1201-1300/sa1257_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛住毗舍离猕猴池侧重阁讲堂。\n尔时世尊告诸比丘：「诸行无常，不恒、不安，是变易法。当观察诸行，生厌、离贪、解脱。」\n时有异比丘从座起，偏袒右肩，合掌白佛：「世尊！寿命迁灭，迟速如何？」佛言：「我能说，然汝欲知者难。」比丘白佛：「可说譬不？」佛言：「可说。」\n「譬如四健弓手立于四方，俱时放箭；有人于箭未落，尽接四箭。比丘！如是人为捷疾不？」白佛：「捷疾。世尊！」「彼虽捷疾，日与月更疾；日与月及导日月诸天更疾；命行迁灭复倍疾于彼。是故比丘当如是学：『我等当不放逸而住。』」\n佛说此经已，诸比丘闻佛所说，欢喜奉行。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在毗舍离猕猴池侧重阁讲堂。\n那时世尊告诉比丘们：「诸行无常，不恒、不安，是变易法。应当观察诸行，生厌、离贪、解脱。」\n这时有一位比丘从座起，偏袒右肩，合掌对佛说：「世尊！寿命迁灭，快慢怎么样？」佛说：「我能说，但你要想完全了知却难。」比丘说：「可以说个譬喻吗？」佛说：「可以。」\n「好比四位强弓手站在四方，同时放箭；有人在箭还没落地前，把四支箭都接住。比丘！这样的人算不算迅疾？」回答：「迅疾。世尊！」「他虽然迅疾，日与月更快；日与月以及在日月前奔走的诸天更快；命行迁灭比那还要快得多。所以比丘应当这样学：『我们应当不放逸而住。』」\n佛说完这部经，比丘们听佛所说，都欢喜奉行。",
+  "notes": "本经 SC 平行表所列平行及 `raw_aligned_data.json` 内之巴利本文、Sujato 英译并用以厘定法义；求那跋陀罗汉本用于定位经文与传统术语。confidence=high：primary SN20.6 Dhanuggahasutta。汉「厌离、不乐、解脱」据 nibbindati／virajjati／vimuccati 作「生厌、离贪、解脱」（厌故离贪）；接箭→日月→导日月天→命行更快，据 SN 收束（汉地神／四王层层略并）。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "warn",
+    "issues": [],
+    "warnings": [
+      "mark_not_in_output:空"
+    ],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "high",
+  "prior_review_status": "needs_revision",
+  "similarity_to_source": 0.195,
+  "paragraph_parallel": true
+}

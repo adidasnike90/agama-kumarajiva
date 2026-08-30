@@ -1,0 +1,43 @@
+{
+  "id": "SA_653",
+  "uid": "sa653",
+  "title": "雜阿含經  卷第二十七  根力相應  （653）  成",
+  "chinese_text": "如是我聞：\n\n一時，佛住舍衛國祇樹給孤獨園。\n\n爾時，世尊告諸比丘……如上說。差別者：「若比丘於彼五根增上明利滿足者，得阿羅漢俱分解脫。若軟、若劣者，得身證。於彼若軟、若劣，得見到。於彼若軟、若劣，得信解脫。於彼若軟、若劣，得一種。於彼若軟、若劣，得斯陀含。於彼若軟、若劣，得家家。於彼若軟、若劣，得七有。於彼若軟、若劣，得法行。於彼若軟、若劣，得信行。是名比丘根波羅蜜因緣知果波羅蜜，果波羅蜜因緣知人波羅蜜。如是滿足者作滿足事，減少者作減少事，彼諸根則不空無果，若無此諸根者，我說彼為作凡夫數。」\n\n佛說此經已，諸比丘聞佛所說，歡喜奉行。",
+  "english_sa_text": "",
+  "parallels": [
+    {
+      "uid": "sn48.13",
+      "acronym": "SN 48.13",
+      "root_lang": "pli",
+      "original_title": "Dutiyasaṁkhittasutta",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    }
+  ],
+  "primary_sn_uid": "sn48.13",
+  "pali_text": "“Pañcimāni, bhikkhave, indriyāni. Katamāni pañca? Saddhindriyaṁ …pe… paññindriyaṁ— imāni kho, bhikkhave, pañcindriyāni. Imesaṁ kho, bhikkhave, pañcannaṁ indriyānaṁ samattā paripūrattā arahaṁ hoti, tato mudutarehi anāgāmī hoti, tato mudutarehi sakadāgāmī hoti, tato mudutarehi sotāpanno hoti, tato mudutarehi dhammānusārī hoti, tato mudutarehi saddhānusārī hoti. Iti kho, bhikkhave, indriyavemattatā phalavemattatā hoti, phalavemattatā puggalavemattatā”ti. Tatiyaṁ.",
+  "english_sn_text": "“Mendicants, there are these five faculties. What five? The faculties of faith, energy, mindfulness, immersion, and wisdom. These are the five faculties. Someone who has completed and fulfilled these five faculties is a perfected one. If they are weaker than that, they’re a non-returner … a once-returner … a stream-enterer … a follower of teachings … a follower by faith. So from a disparity of faculties there’s a disparity of fruits. And from a disparity of fruits there’s a disparity of individuals.”",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa601-700/sa653_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa601-700/sa653_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛住舍卫国祇树给孤独园。\n佛告比丘：「有五根——信、精进、念、定、慧。于此五根增上明利满足者，得阿罗汉；弱于此者，得阿那含；又弱者，得斯陀含；又弱者，得须陀洹；又弱者，是随法行；又弱者，是随信行。」\n「如是根有差别，故果有差别；果有差别，故人有差别。满足者作满足事，减少者作减少事；诸根不空无果。若无此诸根，我说彼作凡夫之数。」\n佛说此经已，诸比丘闻佛所说，欢喜奉行。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在舍卫国祇树给孤独园。\n佛告比丘：「有五根——信、精进、念、定、慧。这五根增上明利满足的，得阿罗汉；比这弱的，得阿那含；再弱的，得斯陀含；再弱的，得须陀洹；再弱的，是随法行；再弱的，是随信行。」\n「这样，根有差别，所以果有差别；果有差别，所以人有差别。满足的作满足之事，减少的作减少之事；诸根不空无果。如果没有这些根，我说他算在凡夫之列。」\n佛说完这部经，比丘们听佛所说，都欢喜奉行。",
+  "notes": "本经 SC 平行表所列平行及 `raw_aligned_data.json` 内之巴利本文、Sujato 英译并用以厘定法义；求那跋陀罗汉本用于定位经文与传统术语。confidence=high：primary SN48.13（六阶＋indriyavemattatā→phalavemattatā→puggalavemattatā）。据 SN 压缩：汉本俱分解脱／身证／见到…长列 → 从 SN 六阶＋根异果异人异；汉「根波罗蜜知人」义并入差别句。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "high",
+  "prior_review_status": "needs_revision",
+  "similarity_to_source": 0.181,
+  "paragraph_parallel": true
+}

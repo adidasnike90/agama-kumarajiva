@@ -1,0 +1,53 @@
+{
+  "id": "SA_1088",
+  "uid": "sa1088",
+  "title": "雜阿含經  卷第四十七  魔相應  （1088）  經行",
+  "chinese_text": "如是我聞：\n\n一時，佛住王舍城耆闍崛山中。\n\n爾時，世尊於夜闇時，天小微雨，電光睒現，出房經行。\n\n時，魔波旬作是念：「今沙門瞿曇住王舍城耆闍崛山中，夜闇微雨，電光時現，出房經行。我今當往，為作留難。」執大團石，兩手調弄，到於佛前，碎成微塵。\n\n爾時，世尊作是念：「惡魔波旬欲作嬈亂。」即說偈言：\n\n「若耆闍崛山，　　於我前令碎，\n\n　於佛等解脫，　　不能動一毛。\n\n　假令四海內，　　一切諸山地，\n\n　放逸之親族，　　令其碎成塵。\n\n　亦不能傾動，　　如來一毛髮。」\n\n時，魔波旬作是念：「沙門瞿曇已知我心。」內懷憂慼，即沒不現。",
+  "english_sa_text": "",
+  "parallels": [
+    {
+      "uid": "sa-2.27",
+      "acronym": "SA2 27",
+      "root_lang": "lzh",
+      "original_title": "經行",
+      "translated_title": "Māra throws a boulder",
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "sn4.11",
+      "acronym": "SN 4.11",
+      "root_lang": "pli",
+      "original_title": "Pāsāṇasutta",
+      "translated_title": "The Boulder",
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    }
+  ],
+  "primary_sn_uid": "sn4.11",
+  "pali_text": "Ekaṁ samayaṁ bhagavā rājagahe viharati gijjhakūṭe pabbate. Tena kho pana samayena bhagavā rattandhakāratimisāyaṁ abbhokāse nisinno hoti, devo ca ekamekaṁ phusāyati. Atha kho māro pāpimā bhagavato bhayaṁ chambhitattaṁ lomahaṁsaṁ uppādetukāmo yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavato avidūre mahante pāsāṇe padālesi. Atha kho bhagavā “māro ayaṁ pāpimā” iti viditvā māraṁ pāpimantaṁ gāthāya ajjhabhāsi: “Sacepi kevalaṁ sabbaṁ, gijjhakūṭaṁ calessasi; Neva sammāvimuttānaṁ, buddhānaṁ atthi iñjitan”ti. Atha kho māro pāpimā “jānāti maṁ bhagavā, jānāti maṁ sugato”ti dukkhī dummano tatthevantaradhāyīti.",
+  "english_sn_text": "At one time the Buddha was staying near Rājagaha, on the Vulture’s Peak Mountain. Now at that time the Buddha was meditating in the open during the dark of night, while a gentle rain drizzled down. Then Māra the Wicked, wanting to make the Buddha feel fear, terror, and goosebumps, approached him, and crushed some large boulders close by him. Then the Buddha, knowing that this was Māra the Wicked, addressed him in verse: “Even if you shake this entire Vulture’s Peak, the rightly released, the awakened, are unshaken.” Then Māra the Wicked, thinking, “The Buddha knows me! The Holy One knows me!” miserable and sad, vanished right there.",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa1001-1100/sa1088_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa1001-1100/sa1088_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛住王舍城耆阇崛山中。\n夜暗微雨，电光时现，佛出房经行。魔持大石至前，碎为微尘。\n佛说偈：「纵碎耆阇崛，不动等解脱者一毛；纵碎四海山地，亦不能动如来一发。」\n魔波旬念：「沙门已知我心。」忧惭即没。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在王舍城耆阇崛山中。\n夜里昏暗，下着小雨，电光闪动，佛出房经行。魔拿着大石到佛前，砸碎成微尘。\n佛说偈：「纵使在我面前把耆阇崛山砸碎，也不能动已解脱者的一根毛；纵使把四海之内的山都砸成尘，也不能动摇如来的一根头发。」\n魔波旬心想：「沙门已经知道我的心。」忧愁惭愧，随即隐没不见。",
+  "notes": "本经 SC 平行表所列平行及 `raw_aligned_data.json` 内之巴利本文、Sujato 英译并用以厘定法义；求那跋陀罗汉本用于定位经文与传统术语。据 SN4.11 Pāsāṇa：魔抛石；佛不动。汉处耆阇崛、巴利或作别处——叙事从汉，偈义据 SN。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "high",
+  "prior_review_status": "needs_revision",
+  "similarity_to_source": 0.099,
+  "paragraph_parallel": true
+}

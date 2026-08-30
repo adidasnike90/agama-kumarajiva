@@ -1,0 +1,32 @@
+{
+  "id": "SA_892",
+  "uid": "sa892",
+  "title": "雜阿含經  卷第三十四  入界陰相應  （892）  六內處等",
+  "chinese_text": "如是我聞：\n\n一時，佛住舍衛國祇樹給孤獨園。\n\n爾時，世尊告諸比丘：「有內六入處。云何為六？謂眼內入處，耳、鼻、舌、身、意內入處。於此六法觀察忍，名為信行，超昇離生，離凡夫地，未得須陀洹果，乃至未命終，要得須陀洹果。若此諸法增上觀察忍，名為法行，超昇離生，離凡夫地，未得須陀洹果，乃至未命終，要得須陀洹果。若此諸法如實正智觀察，三結已盡、已知，謂身見、戒取、疑，是名須陀洹。不墮決定惡趣，定趣三菩提，七有天人往生，究竟苦邊。此等諸法正智觀察，不起諸漏，離欲解脫，名阿羅漢。諸漏已盡，所作已作，離諸重擔，逮得己利，盡諸有結，正智心善解脫。」\n\n佛說此經已，諸比丘聞佛所說，歡喜奉行。\n\n如內六入處，如是外六入處、六識身、六觸身、六受身、六想身、六思身、六愛身、六界身、五陰，亦如上說。",
+  "english_sa_text": "",
+  "parallels": [],
+  "primary_sn_uid": null,
+  "pali_text": "",
+  "english_sn_text": "",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa801-900/sa892_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa801-900/sa892_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛住舍卫国祇树给孤独园。\n尔时世尊告诸比丘：「有内六入处——眼内入处，耳、鼻、舌、身、意内入处。于此六法观察忍，名信行：超升离生，离凡夫地；虽未得须陀洹，命终前必得。若增上观察忍，名法行：亦超升离生，离凡夫地；命终前必得须陀洹。若如实正智观察，三结已尽——身见、戒取、疑——是名须陀洹：不堕恶趣，定趣正觉，七有天人往生，究竟苦边。若正智观察，不起诸漏，离欲解脱，名阿罗汉；是名阿罗汉：诸漏已尽，所作已作，舍诸重担，逮得己利，尽诸有结，正智心善解脱。」\n如内六入处，外六入处、六识、六触、六受、六想、六思、六爱、六界、五阴，亦如是说。\n佛说此经已，诸比丘闻佛所说，欢喜奉行。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在舍卫国祇树给孤独园。\n那时世尊告诉比丘们：「有内六入处——眼内入处，以及耳、鼻、舌、身、意内入处。对这些法以观察而忍可，叫做信行：超升离生，离开凡夫地；虽然还没证须陀洹，命终前一定能得。如果以更增上的观察而忍可，叫做法行：同样超升离生，离开凡夫地；命终前一定能得须陀洹。如果以如实正智观察，三结已经尽了——身见、戒取、疑——就叫须陀洹：不堕恶趣，必定趋向正觉，最多七次在人天往来，究竟苦边。如果正智观察，不再起诸漏，离欲解脱，就叫阿罗汉；这叫做阿罗汉：诸漏已尽，该做的已做，放下重担，得到自己的利益，有结尽了，以正智心善解脱。」\n如同内六入处，外六入处、六识、六触、六受、六想、六思、六爱、六界、五阴，也是这样说。\n佛说完这部经，比丘们听佛所说，都欢喜奉行。",
+  "notes": "SC 于本经未列可靠巴利平行，故唯以汉本为底，参同相应之巴利定型语厘义；依项目规约「无可靠平行时 confidence 降为 medium/low」。confidence=medium：信行／法行／须陀洹三结／阿罗汉漏尽为早期定型；末「外六入乃至五阴」peyyāla 略存。近 SN25／SN26 观门族，不妄改。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "medium",
+  "prior_review_status": "needs_revision",
+  "similarity_to_source": 0.318,
+  "paragraph_parallel": true
+}

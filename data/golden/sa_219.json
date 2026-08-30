@@ -1,0 +1,43 @@
+{
+  "id": "SA_219",
+  "uid": "sa219",
+  "title": "雜阿含經  卷第九  六入處相應  （219）  趣",
+  "chinese_text": "如是我聞：\n\n一時，佛住舍衛國祇樹給孤獨園。\n\n爾時，世尊告諸比丘：「我今當說涅槃道跡。云何為涅槃道跡？謂觀察眼無常，若色、眼識、眼觸因緣生受，內覺若苦、若樂、不苦不樂，彼亦無常。耳、鼻、舌、身、意亦復如是，是名涅槃道跡。」\n\n佛說此經已，諸比丘聞佛所說，歡喜奉行。",
+  "english_sa_text": "Saṁyuktāgama\n\n219. [First Discourse on the Path to Nirvāṇa]\n\nThus have I heard. At one time the Buddha was staying at Sāvatthī in Jeta’s Grove, Anāthapiṇḍika’s Park.\n\nAt that time the Blessed One said to the monks: “I will now teach you the path to Nirvāṇa. What is the path to Nirvāṇa? That is, contemplate the eye as impermanent. Forms, eye-consciousness, and feeling arisen in dependence on eye-contact that is experienced within, be it painful, pleasant, or neutral, that is also impermanent.\n\n“The ear … the nose … the tongue … the body … the mind is also like that. This is called the path to Nirvāṇa.”\n\nWhen the Buddha had spoken this discourse, hearing what the Buddha had said the monks were delighted and received it respectfully.\n\nTranslated by Bhikkhu Anālayo. Originally published in \"On the Six Sense-spheres (1) ―A Translation of Saṁyukta-āgama Discourses 188 to 229 (Fascicle 8)\", Dharma Drum Journal of Buddhist Studies, 2016, vol. 18 pp. 1–61.\n\nPrepared for SuttaCentral by Ayya Vimala.",
+  "parallels": [
+    {
+      "uid": "sn35.147",
+      "acronym": "SN 35.147",
+      "root_lang": "pli",
+      "original_title": "Aniccanibbānasappāyasutta",
+      "translated_title": "Suitable for Attaining Nibbāna (1)",
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    }
+  ],
+  "primary_sn_uid": "sn35.147",
+  "pali_text": "“Nibbānasappāyaṁ vo, bhikkhave, paṭipadaṁ desessāmi. Taṁ suṇātha …pe… katamā ca sā, bhikkhave, nibbānasappāyā paṭipadā? Idha, bhikkhave, bhikkhu cakkhuṁ aniccanti passati, rūpā aniccāti passati, cakkhuviññāṇaṁ aniccanti passati, cakkhusamphasso aniccoti passati. Yampidaṁ cakkhusamphassapaccayā uppajjati vedayitaṁ sukhaṁ vā dukkhaṁ vā adukkhamasukhaṁ vā tampi aniccanti passati …pe… jivhā aniccāti passati, rasā aniccāti passati, jivhāviññāṇaṁ aniccanti passati, jivhāsamphasso aniccoti passati, yampidaṁ jivhāsamphassapaccayā uppajjati vedayitaṁ sukhaṁ vā dukkhaṁ vā adukkhamasukhaṁ vā tampi aniccanti passati …pe… mano aniccoti passati, dhammā aniccāti passati, manoviññāṇaṁ aniccanti passati, manosamphasso aniccoti passati, yampidaṁ manosamphassapaccayā uppajjati vedayitaṁ sukhaṁ vā dukkhaṁ vā adukkhamasukhaṁ vā tampi aniccanti passati. Ayaṁ kho sā, bhikkhave, nibbānasappāyā paṭipadā”ti. Dutiyaṁ.",
+  "english_sn_text": "“Mendicants, I will teach you a practice that’s conducive to extinguishment. Listen … And what is that practice that’s conducive to extinguishment? It’s when a mendicant sees that the eye, sights, eye consciousness, and eye contact are impermanent. And they see that the painful, pleasant, or neutral feeling that arises dependent on eye contact is also impermanent. They see that the ear … nose … tongue … body … mind, ideas, mind-consciousness, and mind contact are impermanent. And they see that the painful, pleasant, or neutral feeling that arises dependent on mind contact is also impermanent. This is that practice that’s conducive to extinguishment.”",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa201-300/sa219_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa201-300/sa219_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时佛在舍卫国祇树给孤独园。\n尔时世尊告诸比丘：我今当说顺趣涅槃之道。云何顺趣涅槃之道？谓观察眼无常；色、眼识，及眼触因缘所生受——内所觉受，若苦、若乐、不苦不乐——彼亦无常。耳、鼻、舌、身、意亦复如是。是名顺趣涅槃之道。\n佛说此经已，诸比丘闻佛所说，欢喜奉行。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在舍卫国祇树给孤独园。\n那时，世尊告诉比丘们：我今天要说顺趣涅槃之道。什么是顺趣涅槃之道呢？就是观察眼是无常的；色、眼识，以及依眼触为缘而生起的感受——内心所领受的，无论是苦、是乐、还是不苦不乐——也都是无常的。耳、鼻、舌、身、意也是一样。这叫做顺趣涅槃之道。\n佛说完这部经，比丘们听佛所说，都欢喜奉行。",
+  "notes": "本经 SC 平行表所列平行及 `raw_aligned_data.json` 内之巴利本文、Sujato 英译，与 Anālayo 之 SA 英译（DDJBS 18, 2016, Fascicle 8）并用以厘定法义；求那跋陀罗汉本用于定位经文与传统术语。confidence=high：SN35.147（Aniccanibbānasappāya）为 `full`、非 resembling 之平行，巴利逐支可对。信-校正二事：（一）「涅槃道跡」＝ `nibbānasappāyā paṭipadā`：sappāya 谓「有益、随顺、相应」（Sujato: conducive to extinguishment），故此道非「涅槃之足迹」而是「顺趣涅槃、随顺涅槃之行道」，今作「顺趣涅槃之道」。（二）「內覺若苦、若樂」之「觉」＝ vedayita（所受）非「觉悟」，沿用本项目 SA_195 之例，今作「内所觉受」。巴利于所观并列眼、色、眼识、眼触及触缘生受五支，本经汉本唯出四支（「眼触」仅见于「眼触因缘生受」之复合语中），今存汉本之量，不据巴利增广（沿 SA_190 之例）。又巴利此系三经作无常（SN35.147）、苦（SN35.148）、非我（SN35.149），汉本唯存二经（本经作无常，次经 SA_220 作非我），阙「苦」一经，志之不补。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "high",
+  "prior_review_status": "needs_revision",
+  "similarity_to_source": 0.342,
+  "paragraph_parallel": true
+}

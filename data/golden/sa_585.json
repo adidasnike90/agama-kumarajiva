@@ -1,0 +1,56 @@
+{
+  "id": "SA_585",
+  "uid": "sa585",
+  "title": "雜阿含經  卷第二十五  天相應  （585）  獨一住",
+  "chinese_text": "如是我聞：\n\n一時，佛住釋氏優羅提那塔所。\n\n爾時，世尊新剃鬚髮，於後夜時結加趺坐，直身正意，繫念在前，以衣覆頭。\n\n時，優羅提那塔邊有天神住，放身光明，遍照精舍，白佛言：「沙門憂耶？」佛告天神：「何所忘失？」\n\n天神復問：「沙門為歡喜耶？」\n\n佛告天神：「為何所得？」\n\n天神復問：「沙門不憂不喜耶？」\n\n佛告天神：「如是，如是。」\n\n爾時，天神即說偈言：\n\n「為離諸煩惱，　　為無有歡喜，\n\n　云何獨一住？　　非不樂所壞。」\n\n爾時，世尊說偈答言：\n\n「我無惱解脫，　　亦無有歡喜，\n\n　不樂不能壞，　　故獨一而住。」\n\n時，彼天神復說偈言：\n\n「云何得無惱？　　云何無歡喜？\n\n　云何獨一住？　　非不樂所壞。」\n\n爾時世尊說偈答言：\n\n「煩惱生歡喜，　　喜亦生煩惱，\n\n　無惱亦無喜，　　天神當護持。」\n\n時，彼天神復說偈言：\n\n「善哉無煩惱，　　善哉無歡喜，\n\n　善哉獨一住，　　不為不喜壞。\n\n　久見婆羅門，　　逮得般涅槃，\n\n　一切怖已過，　　永超世恩愛。」\n\n時，彼天神聞佛所說，歡喜隨喜，稽首佛足，即沒不現。",
+  "english_sa_text": "",
+  "parallels": [
+    {
+      "uid": "sa-2.169",
+      "acronym": "SA2 169",
+      "root_lang": "lzh",
+      "original_title": "獨一住",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "sn2.18",
+      "acronym": "SN 2.18",
+      "root_lang": "pli",
+      "original_title": "Kakudhasutta",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    }
+  ],
+  "primary_sn_uid": "sn2.18",
+  "pali_text": "Evaṁ me sutaṁ— ekaṁ samayaṁ bhagavā sākete viharati añjanavane migadāye. Atha kho kakudho devaputto abhikkantāya rattiyā abhikkantavaṇṇo kevalakappaṁ añjanavanaṁ obhāsetvā yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṁ abhivādetvā ekamantaṁ aṭṭhāsi. Ekamantaṁ ṭhito kho kakudho devaputto bhagavantaṁ etadavoca: “nandasi, samaṇā”ti? “Kiṁ laddhā, āvuso”ti? “Tena hi, samaṇa, socasī”ti? “Kiṁ jīyittha, āvuso”ti? “Tena hi, samaṇa, neva nandasi na ca socasī”ti? “Evamāvuso”ti. “Kacci tvaṁ anagho bhikkhu, kacci nandī na vijjati; Kacci taṁ ekamāsīnaṁ, aratī nābhikīratī”ti. “Anagho ve ahaṁ yakkha, atho nandī na vijjati; Atho maṁ ekamāsīnaṁ, aratī nābhikīratī”ti. “Kathaṁ tvaṁ anagho bhikkhu, kathaṁ nandī na vijjati; Kathaṁ taṁ ekamāsīnaṁ, aratī nābhikīratī”ti. “Aghajātassa ve nandī, nandījātassa ve aghaṁ; Anandī anagho bhikkhu, evaṁ jānāhi āvuso”ti. “Cirassaṁ vata passāmi, brāhmaṇaṁ parinibbutaṁ; Anandiṁ anaghaṁ bhikkhuṁ, tiṇṇaṁ loke visattikan”ti.",
+  "english_sn_text": "So I have heard. At one time the Buddha was staying near Sāketa in the deer park at the Añjana Wood. Then, late at night, the glorious godling Kakudha, lighting up the entire Añjana Wood, went up to the Buddha, bowed, stood to one side, and said to him, “Do you delight, ascetic?” “What have I gained, sir?” “Well then, ascetic, do you sorrow?” “What have I lost, sir?” “Well then, ascetic, do you neither delight nor sorrow?” “Yes, sir.” “I hope you’re not gloomy, mendicant, I hope that delight isn’t found in you. I hope that discontent doesn’t overwhelm you as you sit alone.” “I’m genuinely not gloomy, spirit, and no delight is found in me. And also discontent doesn’t overwhelm me as I sit alone.” “How are you not gloomy, mendicant? How is delight not found in you? How does discontent not overwhelm you as you sit alone?” “Delight is born from gloom, gloom is born from delight; sir, you should know me as a mendicant free of delight and gloom.” “After a long time I see a brahmin fully quenched. A mendicant free of delight and gloom, he has crossed over clinging to the world.”",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa501-600/sa585_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa501-600/sa585_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛住释氏优罗提那塔所。\n尔时，世尊新剃须发，于后夜时结加趺坐，直身正意，系念在前，以衣覆头。\n时，优罗提那塔边有天神住，放身光明遍照精舍，白佛言：「沙门忧耶？」佛告天神：「何所忘失？」\n天神复问：「沙门欢喜耶？」佛告天神：「为何所得？」\n天神复问：「沙门不忧不喜耶？」佛告天神：「如是，如是。」\n尔时，天神说偈言：「为离诸烦恼，为无有欢喜，云何独一住？非不乐所坏。」\n尔时，世尊说偈答言：「我无恼解脱，亦无有欢喜，不乐不能坏，故独一而住。」\n时，彼天神复说偈言：「云何得无恼？云何无欢喜？云何独一住？非不乐所坏。」\n尔时，世尊说偈答言：「烦恼生欢喜，喜亦生烦恼，无恼亦无喜，天神当护持。」\n时，彼天神复说偈言：「善哉无烦恼，善哉无欢喜，善哉独一住，不为不喜坏。久见婆罗门，逮得般涅槃，一切怖已过，永超世恩爱。」\n时，彼天神闻佛所说，欢喜随喜，稽首佛足，即没不现。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在释氏优罗提那塔处。\n尔时，世尊新剃须发，于后夜时结加趺坐，直身正意，系念在前，以衣覆头。\n时，优罗提那塔边有天神住，放身光明遍照精舍，白佛言：「沙门忧耶？」佛告天神：「何所忘失？」\n天神复问：「沙门欢喜耶？」佛告天神：「为何所得？」\n天神复问：「沙门不忧不喜耶？」佛告天神：「如是，如是。」\n尔时，天神说偈言：「为离诸烦恼，为无有欢喜，云何独一住？非不乐所坏。」\n尔时，世尊说偈答言：「我无恼解脱，亦无有欢喜，不乐不能坏，故独一而住。」\n时，彼天神复说偈言：「云何得无恼？云何无欢喜？云何独一住？非不乐所坏。」\n尔时，世尊说偈答言：「烦恼生欢喜，喜亦生烦恼，无恼亦无喜，天神当护持。」\n时，彼天神复说偈言：「善哉无烦恼，善哉无欢喜，善哉独一住，不为不喜坏。久见婆罗门，逮得般涅槃，一切怖已过，永超世恩爱。」\n时，彼天神闻佛所说，欢喜随喜，稽首佛足，即没不现。",
+  "notes": "本经 SC 平行表所列平行及 `raw_aligned_data.json` 内之巴利本文、Sujato 英译并用以厘定法义；求那跋陀罗汉本用于定位经文与传统术语。confidence=high：primary SN2.18（Kakudha 问不忧不喜独住）。据 SN 校正：何所忘失／为何所得，从巴利。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "high",
+  "prior_review_status": "needs_revision",
+  "similarity_to_source": 0.476,
+  "paragraph_parallel": true,
+  "quality_gate_reasons": [
+    "lit_mod_gap=0.332>=0.1"
+  ]
+}

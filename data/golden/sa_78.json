@@ -1,0 +1,40 @@
+{
+  "id": "SA_78",
+  "uid": "sa78",
+  "title": "雜阿含經  卷第三  陰相應  （七八）  生",
+  "chinese_text": "如是我聞：\n\n一時，佛住舍衛國祇樹給孤獨園。\n\n爾時，世尊告諸比丘：「若色起、住、出，則苦於此起，病於此住，老、死於此出；受、想、行、識亦如是說。比丘！若色滅、息、沒，苦於此滅，病於此息，老、死於此沒；受、想、行、識亦復如是。」\n\n佛說此經已，諸比丘聞佛所說，歡喜奉行。",
+  "english_sa_text": "Saṁyuktāgama\n\n78. Discourse on Arising\n\nThus have I heard. At one time the Buddha was staying at Sāvatthī in Jeta’s Grove, Anāthapiṇḍika’s Park.\n\nAt that time the Blessed One said to the monks: “If bodily form arises, is established, and emerges, then dukkha arises therewith, disease is established therewith, and old age and death emerge therewith. Feeling … perception … formations … consciousness should also be recited in the same way.\n\n“Monks, if bodily form ceases, is appeased, and disappears, then dukkha ceases therewith, disease is appeased therewith, and old age and death disappear therewith. Feeling … perception … formations … consciousness are also like this.”\n\nWhen the Buddha had spoken this discourse, the monks, hearing what the Buddha had said, were delighted and received it respectfully.\n\nTranslated by Bhikkhu Anālayo. Originally published in ‘On the Five Aggregates (3)—A Translation of Saṁyukta-āgama Discourses 59 to 87’. Dharma Drum Journal of Buddhist Studies, vol. 13, pp. 1–65 (2013). New Taipei City: Dharma Drum Buddhist College.\n\nPrepared for SuttaCentral by Bhikkhu Sujato.",
+  "parallels": [
+    {
+      "uid": "sn22.30",
+      "acronym": "SN 22.30",
+      "root_lang": "pli",
+      "original_title": "Uppādasutta",
+      "translated_title": "Arising",
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    }
+  ],
+  "primary_sn_uid": "sn22.30",
+  "pali_text": "Sāvatthinidānaṁ. “Yo, bhikkhave, rūpassa uppādo ṭhiti abhinibbatti pātubhāvo, dukkhasseso uppādo rogānaṁ ṭhiti jarāmaraṇassa pātubhāvo. Yo vedanāya …pe… yo saññāya …pe… yo saṅkhārānaṁ …pe… yo viññāṇassa uppādo ṭhiti abhinibbatti pātubhāvo, dukkhasseso uppādo rogānaṁ ṭhiti jarāmaraṇassa pātubhāvo. Yo ca kho, bhikkhave, rūpassa nirodho vūpasamo atthaṅgamo, dukkhasseso nirodho rogānaṁ vūpasamo jarāmaraṇassa atthaṅgamo. Yo vedanāya …pe… yo saññāya … yo saṅkhārānaṁ … yo viññāṇassa nirodho vūpasamo atthaṅgamo, dukkhasseso nirodho rogānaṁ vūpasamo jarāmaraṇassa atthaṅgamo”ti. Navamaṁ.",
+  "english_sn_text": "At Sāvatthī. “Mendicants, the arising, continuation, and manifestation and regeneration of form is the arising of suffering, the continuation of diseases, and the manifestation of old age and death. The arising, continuation, and manifestation and regeneration of feeling … perception … choices … consciousness is the arising of suffering, the continuation of diseases, and the manifestation of old age and death. The cessation, settling, and disappearance of form is the cessation of suffering, the settling of diseases, and the disappearance of old age and death. The cessation, settling, and disappearance of feeling … perception … choices … consciousness is the cessation of suffering, the settling of diseases, and the disappearance of old age and death.”",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa1-100/sa78_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa1-100/sa78_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时佛在舍卫国祇树给孤独园。\n尔时世尊告诸比丘：色若起、住、出，苦亦于是起，病亦于是住，老死亦于是出；受、想、行、识亦复如是。色若灭、息、没，苦亦于是灭，病亦于是息，老死亦于是没；受、想、行、识亦复如是。\n佛说此经已，诸比丘闻佛所说，欢喜奉行。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在舍卫国祇树给孤独园。\n那时，世尊告诉比丘们：色若生起、持续、显现，苦也在此生起，病也在此持续，老死也在此显现；受、想、行、识也是一样。色若息灭、平息、消没，苦也在此息灭，病也在此平息，老死也在此消没；受、想、行、识也是一样。\n佛说完这部经，比丘们听佛所说，都欢喜奉行。",
+  "notes": "据 SN22.30（Uppāda）：五蕴之生、住、出现即苦生、病住、老死出现；五蕴之灭、止息、没即苦灭、病息、老死没。雅：改「则苦于此起」之求那体为「苦亦于是起」四字节奏，非繁转简。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "high"
+}

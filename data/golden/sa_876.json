@@ -1,0 +1,76 @@
+{
+  "id": "SA_876",
+  "uid": "sa876",
+  "title": "雜阿含經  卷第三十三  修證相應  （876）  四正斷",
+  "chinese_text": "如是我聞：\n\n一時，佛住舍衛國祇樹給孤獨園。\n\n爾時，世尊告諸比丘：「有四正斷。何等為四？一者斷斷，二者律儀斷，三者隨護斷，四者修斷。」\n\n爾時世尊即說偈言：\n\n「斷斷及律儀，　　隨護與修習，\n\n　如此四正斷，　　諸佛之所說。」\n\n佛說此經已，諸比丘聞佛所說，歡喜奉行。",
+  "english_sa_text": "",
+  "parallels": [
+    {
+      "uid": "an4.13",
+      "acronym": "AN 4.13",
+      "root_lang": "pli",
+      "original_title": "Padhānasutta",
+      "translated_title": "Striving",
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "an4.69",
+      "acronym": "AN 4.69",
+      "root_lang": "pli",
+      "original_title": "Padhānasutta",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "sa875",
+      "acronym": "SA 875",
+      "root_lang": "lzh",
+      "original_title": "四正斷",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "an4.275",
+      "acronym": "AN 4.275",
+      "root_lang": "pli",
+      "original_title": "Sammappadhānasutta",
+      "translated_title": "Four Right Strivings",
+      "type": "full",
+      "resembling": true,
+      "remark": null
+    }
+  ],
+  "primary_sn_uid": null,
+  "pali_text": "",
+  "english_sn_text": "",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa801-900/sa876_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa801-900/sa876_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛住舍卫国祇树给孤独园。\n尔时世尊告诸比丘：「当知有四种正断：一断断，二律仪断，三随护断，四修断。」\n尔时世尊说偈言：\n「断断与律仪，随护及修习，\n　此四正断法，诸佛之所说。」\n佛说此经已，诸比丘闻佛所说，欢喜奉行。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在舍卫国祇树给孤独园。\n那时世尊告诉比丘们：「应当知道有四种正断：一是断断，二是律仪断，三是随护断，四是修断。」\n那时世尊说偈：\n「断断与律仪，随护及修习，\n　此四正断法，诸佛之所说。」\n佛说完这部经，比丘们听佛所说，都欢喜奉行。",
+  "notes": "本经 SC 平行表所列平行及 `raw_aligned_data.json` 内之巴利本文、Sujato 英译并用以厘定法义；求那跋陀罗汉本用于定位经文与传统术语。confidence=high：同 AN4.13／SN49 名目＋偈；与 SA_875 为略／略＋偈一对。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "high",
+  "prior_review_status": "needs_revision",
+  "similarity_to_source": 0.355,
+  "paragraph_parallel": true,
+  "quality_gate_reasons": [
+    "lit_mod_gap=0.280>=0.1"
+  ]
+}

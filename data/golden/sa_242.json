@@ -1,0 +1,53 @@
+{
+  "id": "SA_242",
+  "uid": "sa242",
+  "title": "雜阿含經  卷第十  六入處相應  （242）  知",
+  "chinese_text": "如是我聞：\n\n一時，佛住毘舍離獼猴池側重閣講堂。\n\n爾時，世尊告諸比丘：「若眼不知、不識、不斷、不離欲，不堪能正盡苦；於眼若知、若識、若斷、若離欲，堪能正盡苦。」\n\n佛說此經已，諸比丘聞佛所說，歡喜奉行。\n\n如眼四經，如是乃至意二十四經如上說。",
+  "english_sa_text": "",
+  "parallels": [
+    {
+      "uid": "sn35.112",
+      "acronym": "SN 35.112",
+      "root_lang": "pli",
+      "original_title": "Bāhirāyatanaparijānanasutta",
+      "translated_title": "Fully Understanding (2)",
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "sn35.111",
+      "acronym": "SN 35.111",
+      "root_lang": "pli",
+      "original_title": "Ajjhattikāyatanaparijānanasutta",
+      "translated_title": "Fully Understanding (1)",
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    }
+  ],
+  "primary_sn_uid": "sn35.111",
+  "pali_text": "“Cakkhuṁ, bhikkhave, anabhijānaṁ aparijānaṁ avirājayaṁ appajahaṁ abhabbo dukkhakkhayāya. Sotaṁ … ghānaṁ … jivhaṁ … kāyaṁ … manaṁ anabhijānaṁ aparijānaṁ avirājayaṁ appajahaṁ abhabbo dukkhakkhayāya. Cakkhuñca kho, bhikkhave, abhijānaṁ parijānaṁ virājayaṁ pajahaṁ bhabbo dukkhakkhayāya …pe… jivhaṁ … kāyaṁ … manaṁ abhijānaṁ parijānaṁ virājayaṁ pajahaṁ bhabbo dukkhakkhayāyā”ti. Aṭṭhamaṁ.",
+  "english_sn_text": "“Mendicants, without directly knowing and completely understanding the eye, without dispassion for it and giving it up, you can’t end suffering. Without directly knowing and completely understanding the ear … nose … tongue … body … mind, without dispassion for it and giving it up, you can’t end suffering. By directly knowing and completely understanding the eye, having dispassion for it and giving it up, you can end suffering. By directly knowing and completely understanding the ear … nose … tongue … body … mind, having dispassion for it and giving it up, you can end suffering.”",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa201-300/sa242_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa201-300/sa242_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时佛在毗舍离猕猴池侧重阁讲堂。\n尔时世尊告诸比丘：于眼不知不明，不断不离欲，则不能正尽苦；若知若明，若断若离欲，乃能正尽苦。\n佛说此经已，诸比丘闻佛所说，欢喜奉行。\n（省文）如眼四经，如是乃至意二十四经，如上所说。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在毗舍离猕猴池旁的重阁讲堂。\n那时，世尊告诉比丘们：对眼不知不明，不断不离欲，就不能正尽苦；若能证知、遍知、离贪、断舍，就能正尽苦。\n佛说完这部经，比丘们听佛所说，都欢喜奉行。\n（以下是原典的省文指示）如同就眼所说的四部经，同样就耳、鼻、舌、身、意各成四经，合为二十四经，都按上面所说。",
+  "notes": "本经 SC 平行表所列平行及 `raw_aligned_data.json` 内之巴利本文、Sujato 英译并用以厘定法义；求那跋陀罗汉本用于定位经文与传统术语。Anālayo 之 SA 英译（DDJBS 18, 2016）止于 SA 229，本批无其逐经英译。confidence=high：SN35.111／35.112（Parijāna）为 `full` 平行，正反二式：`anabhijānaṁ aparijānaṁ avirājayaṁ appajahaṁ abhabbo dukkhakkhayāya`／`abhijānaṁ parijānaṁ virājayaṁ pajahaṁ bhabbo dukkhakkhayāya`。信：文言栏以「不知不明／若知若明」四字节奏出之（同 SA_3 例）；现代栏出「证知、遍知、离贪、断舍」（abhijānāti／parijānāti／virājeti／pajahati）。末段省文指示六入各四经共二十四经，如实存为末段。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "high",
+  "prior_review_status": "needs_revision",
+  "similarity_to_source": 0.267,
+  "paragraph_parallel": true
+}

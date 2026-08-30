@@ -1,0 +1,32 @@
+{
+  "id": "SA_1345",
+  "uid": "sa1345",
+  "title": "雜阿含經  卷第五十  林相應  （1345）  見多",
+  "chinese_text": "如是我聞：\n\n一時，佛住舍衛國祇樹給孤獨園。\n\n時，有尊者見多比丘在拘薩羅人間，住一林中，著糞掃衣。時，梵天王與七百梵天乘其宮殿，來詣尊者見多比丘所，恭敬禮事。\n\n時，有天神，住彼林中者，而說偈言：\n\n「觀彼寂諸根，　　能感善供養，\n\n　具足三明達，　　得不傾動法，\n\n　度一切方便，　　少事糞掃衣，\n\n　七百梵天子，　　乘宮來奉詣，\n\n　見生死有邊，　　今禮度有岸。」\n\n時，彼天神說偈讚歎見多比丘已，即沒不現。",
+  "english_sa_text": "",
+  "parallels": [],
+  "primary_sn_uid": null,
+  "pali_text": "",
+  "english_sn_text": "",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa1301-1400/sa1345_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa1301-1400/sa1345_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛住舍卫国祇树给孤独园。\n时尊者见多在拘萨罗林中，著粪扫衣。梵天王与七百梵天乘宫殿，来诣其所，恭敬礼事。\n林中天神说偈：「观彼诸根寂，能感胜供养；三明已具足，得不动之法。少事粪扫衣，七百梵天子，乘宫来奉敬；已见有边际，稽首度有岸。」\n说是偈已，即没不现。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在舍卫国祇树给孤独园。\n那时尊者见多在拘萨罗的林中，穿着粪扫衣。梵天王与七百梵天乘着宫殿，来到他那里恭敬礼拜。\n林中的天神说偈：「看他诸根寂静，能感得殊胜的供养；三明已经具足，证得不动之法。事务很少，穿着粪扫衣，七百梵天子乘宫殿前来礼敬；他已见到有的边际，我顶礼这位度到有岸的人。」\n说完这偈，随即隐没不见。",
+  "notes": "SC 于本经未列可靠巴利平行，故唯以汉本为底，参同相应之巴利定型语厘义；依项目规约「无可靠平行时 confidence 降为 medium/low」。confidence=medium：无 SC 专经；粪扫衣／三明／梵天来诣与早期罗汉德赞同轨，不臆造平行编号。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "medium",
+  "prior_review_status": "needs_revision",
+  "similarity_to_source": 0.182,
+  "paragraph_parallel": true
+}

@@ -1,0 +1,32 @@
+{
+  "id": "SA_894",
+  "uid": "sa894",
+  "title": "雜阿含經  卷第三十四  入界陰相應  （894）  如實知",
+  "chinese_text": "如是我聞：\n\n一時，佛住舍衛國祇樹給孤獨園。\n\n爾時，世尊告諸比丘：「於我世間，於世間及世間集不如是知者，我終不得於諸天、魔、梵、沙門、婆羅門及諸世間，為解脫、為出、為離，離顛倒想，亦不名阿耨多羅三藐三菩提。以我於世間及世間集如實知故，是故我於諸天、世人、魔、梵、沙門、婆羅門及餘眾生，為得解脫、為出、為離，心離顛倒，具足住，得成阿耨多羅三藐三菩提。」\n\n佛說此經已，諸比丘聞佛所說，歡喜奉行。\n\n如是世間世間集、世間滅，世間集、世間出，世間集、世間滅、世間味、世間患、世間出，世間集、世間滅、世間出，世間集、世間滅道跡，世間集、世間滅、世間集道跡、世間滅道跡，世間集、世間滅、世間味、世間患、世間出，世間集、世間滅、世間集道跡、世間滅道跡、世間味、世間患、世間出。\n\n佛說此經已，諸比丘聞佛所說，歡喜奉行。",
+  "english_sa_text": "",
+  "parallels": [],
+  "primary_sn_uid": null,
+  "pali_text": "",
+  "english_sn_text": "",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa801-900/sa894_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa801-900/sa894_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛住舍卫国祇树给孤独园。\n尔时世尊告诸比丘：「我于世间、世间集不如实知时，终不得于天、魔、梵、沙门、婆罗门及诸众生中，为解脱、为出离，心离颠倒，亦不名等正觉。以我于世间及世间集如实知故，乃得解脱、出离，心离颠倒，成等正觉。」\n如世间、世间集，世间灭、世间出，乃至世间集、灭、味、患、出，及集灭道迹、味患出等异门，亦如是说。\n佛说此经已，诸比丘闻佛所说，欢喜奉行。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在舍卫国祇树给孤独园。\n那时世尊告诉比丘们：「我若对世间、世间的集起不能如实了知，终究不能在天、魔、梵、沙门、婆罗门以及众生之中，得到解脱、出离，心离颠倒，也不叫做等正觉。因为我对世间及世间的集起如实了知，才得到解脱、出离，心离颠倒，成等正觉。」\n如同世间、世间集，世间灭、世间出，一直到世间的集、灭、味、患、出，以及集灭道迹、味患出等不同说法，也可以这样说。\n佛说完这部经，比丘们听佛所说，都欢喜奉行。",
+  "notes": "SC 于本经未列可靠巴利平行，故唯以汉本为底，参同相应之巴利定型语厘义；依项目规约「无可靠平行时 confidence 降为 medium/low」。confidence=medium：觉者「如实知世间」定型；末异门 peyyāla 压缩列举，不逐门展开。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "medium",
+  "prior_review_status": "needs_revision",
+  "similarity_to_source": 0.197,
+  "paragraph_parallel": true
+}

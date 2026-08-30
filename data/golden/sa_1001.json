@@ -1,0 +1,73 @@
+{
+  "id": "SA_1001",
+  "uid": "sa1001",
+  "title": "雜阿含經  卷第四十一  諸天相應  （1001）  強親回",
+  "chinese_text": "如是我聞：\n\n一時，佛住舍衛國祇樹給孤獨園。\n\n時，有一天子，容色絕妙，於後夜時來詣佛所，稽首佛足，退坐一面。身諸光明遍照祇樹給孤獨園。\n\n時，彼天子而說偈言：\n\n「冥運持命去，　　故令人短壽，\n\n　為老所侵迫，　　而無救護者。\n\n　覩斯老病死，　　令人大恐怖，\n\n　唯作諸功德，　　樂住至樂所。」\n\n爾時，世尊說偈答言：\n\n「冥運持命去，　　故令人短壽，\n\n　為老所侵迫，　　而無救護者。\n\n　觀此有餘過，　　令人大恐怖，\n\n　當斷世貪愛，　　無餘涅槃樂。」\n\n時，彼天子復說偈言：\n\n「久見婆羅門，　　逮得般涅槃，\n\n　一切怖已過，　　永超世恩愛。」\n\n時，彼天子聞佛所說，歡喜隨喜，稽首佛足，即沒不現。",
+  "english_sa_text": "",
+  "parallels": [
+    {
+      "uid": "sa-2.138",
+      "acronym": "SA2 138",
+      "root_lang": "lzh",
+      "original_title": "強親回",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "sn1.3",
+      "acronym": "SN 1.3",
+      "root_lang": "pli",
+      "original_title": "Upanīyasutta",
+      "translated_title": "Reaching",
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "sn2.19",
+      "acronym": "SN 2.19",
+      "root_lang": "pli",
+      "original_title": "Uttarasutta",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "sf20",
+      "acronym": "SF 20",
+      "root_lang": "san",
+      "original_title": "",
+      "translated_title": null,
+      "type": "full",
+      "resembling": true,
+      "remark": null
+    }
+  ],
+  "primary_sn_uid": "sn1.3",
+  "pali_text": "Sāvatthinidānaṁ. Ekamantaṁ ṭhitā kho sā devatā bhagavato santike imaṁ gāthaṁ abhāsi: “Upanīyati jīvitamappamāyu, Jarūpanītassa na santi tāṇā; Etaṁ bhayaṁ maraṇe pekkhamāno, Puññāni kayirātha sukhāvahānī”ti. “Upanīyati jīvitamappamāyu, Jarūpanītassa na santi tāṇā; Etaṁ bhayaṁ maraṇe pekkhamāno, Lokāmisaṁ pajahe santipekkho”ti.",
+  "english_sn_text": "At Sāvatthī. Standing to one side, that deity spoke this verse in the Buddha’s presence: “This life, so very short, is led onward. One led on to old age has no shelter. Seeing this peril in death, do good deeds that bring you joy.” “This life, so very short, is led onward. One led on to old age has no shelter. Seeing this peril in death, a seeker of peace would drop the world’s bait.”",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa1001-1100/sa1001_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa1001-1100/sa1001_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛住舍卫国祇树给孤独园。\n后夜分，有天子来诣佛所，容色绝妙，稽首礼足，退坐一面；身诸光明遍照祇园。\n天子说偈问：「寿命迁谢促，老逼无救护；观死大恐怖，当修福至乐。」\n世尊说偈答：「寿命迁谢促，老逼无救护；观死大恐怖，当舍世贪饵，趣无余涅槃。」\n天子说偈：「久见婆罗门，逮得般涅槃，一切怖已过，永超世恩爱。」闻已欢喜，礼足即没。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在舍卫国祇树给孤独园。\n后夜分，有一位天子，容色绝妙，来到佛前，顶礼佛足，退坐一面；身上的光明遍照祇树给孤独园。\n天子说偈问：「寿命被带走而短暂，为老所逼而无救护；看见死亡的大恐怖，应当修福趣向安乐。」\n世尊说偈答：「寿命被带走而短暂，为老所逼而无救护；看见死亡的大恐怖，应当舍弃世间饵食，趣向无余涅槃。」\n天子又说偈：「久见婆罗门，逮得般涅槃，一切怖已过，永超世恩爱。」听完欢喜随喜，顶礼佛足，随即隐没不见。",
+  "notes": "本经 SC 平行表所列平行及 `raw_aligned_data.json` 内之巴利本文、Sujato 英译并用以厘定法义；求那跋陀罗汉本用于定位经文与传统术语。confidence=high：primary SN1.3 Upanīya（亦近 SN2.19）。据 SN：观死怖后，求寂者应舍世间饵（lokāmisa），非仅「作诸功德」。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "high",
+  "prior_review_status": "needs_revision",
+  "similarity_to_source": 0.18,
+  "paragraph_parallel": true
+}

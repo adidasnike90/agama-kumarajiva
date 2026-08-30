@@ -1,0 +1,33 @@
+{
+  "id": "SA_839",
+  "uid": "sa839",
+  "title": "雜阿含經  卷第三十一  學相應  （839）  戒",
+  "chinese_text": "如是我聞：\n\n一時，佛住舍衛國祇樹給孤獨園。\n\n爾時，世尊告諸比丘……如上說。差別者：「於佛不壞淨成就者，為聞法、眾僧所念、聖戒成就。」\n\n佛說此經已，諸比丘聞佛所說，歡喜奉行。",
+  "english_sa_text": "",
+  "parallels": [],
+  "primary_sn_uid": null,
+  "pali_text": "",
+  "english_sn_text": "",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa801-900/sa839_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa801-900/sa839_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛住舍卫国祇树给孤独园。\n尔时世尊告诸比丘：「有四种福德润泽、善法润泽，为安乐之食。何等为四？谓于佛不坏净；于法——为正闻法；于僧——为正念僧；及圣戒成就。是故诸比丘当如是学：『我当成就于佛不坏净、于法不坏净、于僧不坏净、圣戒成就。』」\n佛说此经已，诸比丘闻佛所说，欢喜奉行。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在舍卫国祇树给孤独园。\n那时世尊告诉比丘们：「有四种福德润泽、善法润泽，是安乐的资粮。哪四种？就是于佛不坏净；于法——作为正闻法；于僧——作为正念僧；以及圣戒成就。所以比丘们应当这样学：『我应当成就于佛不坏净、于法不坏净、于僧不坏净、以及圣戒成就。』」\n佛说完这部经，比丘们听佛所说，都欢喜奉行。",
+  "notes": "SC 于本经未列可靠巴利平行，故唯以汉本为底，参同相应之巴利定型语厘义；依项目规约「无可靠平行时 confidence 降为 medium/low」。confidence=low：汉仅「如上说。差别者…」残句；gold_reconstructed：依 SA_838／SN55.31 四润泽框架，按汉「闻法、众僧所念、圣戒」释为法／僧／戒差别表述。",
+  "review_status": "gold_reconstructed",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "low",
+  "prior_review_status": "needs_revision",
+  "reconstruction_basis": "peyyāla「如上说」残句 → 依 SA_838／SN55.31 四润泽框架＋汉闻法／念僧／圣戒差别",
+  "similarity_to_source": 0.239,
+  "paragraph_parallel": true
+}

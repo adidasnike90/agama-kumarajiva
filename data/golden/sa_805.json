@@ -1,0 +1,43 @@
+{
+  "id": "SA_805",
+  "uid": "sa805",
+  "title": "雜阿含經  卷第三十  安那般那念相應  （805）  阿黎瑟吒",
+  "chinese_text": "如是我聞：\n\n一時，佛住舍衛國祇樹給孤獨園。\n\n爾時，世尊告諸比丘：「如我所說安那般那念，汝等修習不？」\n\n時，有比丘名阿梨瑟吒，於眾中坐，即從座起，整衣服，為佛作禮，右膝著地，合掌白佛言：「世尊！世尊所說安那般那念，我已修習。」\n\n佛告阿梨瑟吒比丘：「汝云何修習我所說安那般那念？」\n\n比丘白佛：「世尊！我於過去諸行不顧念，未來諸行不生欣樂，於現在諸行不生染著，於內外對礙想善正除滅。我已如是修世尊所說安那般那念。」\n\n佛告阿梨瑟吒比丘：「汝實修我所說安那般那念，非不修，然其比丘於汝所修安那般那念所，更有勝妙過其上者。何等是勝妙過阿梨瑟吒所修安那般那念者？是比丘依止城邑、聚落……」如前廣說，乃至「於滅出息觀察善學，是名，阿梨瑟吒比丘！勝妙過汝所修安那般那念者。」\n\n佛說此經已，諸比丘聞佛所說，歡喜奉行。",
+  "english_sa_text": "",
+  "parallels": [
+    {
+      "uid": "sn54.6",
+      "acronym": "SN 54.6",
+      "root_lang": "pli",
+      "original_title": "Ariṭṭhasutta",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    }
+  ],
+  "primary_sn_uid": "sn54.6",
+  "pali_text": "Sāvatthinidānaṁ. Tatra kho bhagavā …pe… etadavoca: “bhāvetha no tumhe bhikkhave, ānāpānassatin”ti? Evaṁ vutte, āyasmā ariṭṭho bhagavantaṁ etadavoca: “ahaṁ kho, bhante, bhāvemi ānāpānassatin”ti. “Yathā kathaṁ pana tvaṁ, ariṭṭha, bhāvesi ānāpānassatin”ti? “Atītesu me, bhante, kāmesu kāmacchando pahīno, anāgatesu me kāmesu kāmacchando vigato, ajjhattabahiddhā ca me dhammesu paṭighasaññā suppaṭivinītā. So satova assasissāmi, satova passasissāmi. Evaṁ khvāhaṁ, bhante, bhāvemi ānāpānassatin”ti. “‘Atthesā, ariṭṭha, ānāpānassati, nesā natthī’ti vadāmi. Api ca, ariṭṭha, yathā ānāpānassati vitthārena paripuṇṇā hoti taṁ suṇāhi, sādhukaṁ manasi karohi; bhāsissāmī”ti. “Evaṁ, bhante”ti kho āyasmā ariṭṭho bhagavato paccassosi. Bhagavā etadavoca: “Kathañca, ariṭṭha, ānāpānassati vitthārena paripuṇṇā hoti? Idha, ariṭṭha, bhikkhu araññagato vā rukkhamūlagato vā suññāgāragato vā nisīdati pallaṅkaṁ ābhujitvā ujuṁ kāyaṁ paṇidhāya parimukhaṁ satiṁ upaṭṭhapetvā. So satova assasati, satova passasati. Dīghaṁ vā assasanto ‘dīghaṁ assasāmī’ti pajānāti …pe… ‘paṭinissaggānupassī assasissāmī’ti sikkhati, ‘paṭinissaggānupassī passasissāmī’ti sikkhati. Evaṁ kho, ariṭṭha, ānāpānassati vitthārena paripuṇṇā hotī”ti. Chaṭṭhaṁ.",
+  "english_sn_text": "At Sāvatthī. There the Buddha … said: “Mendicants, do you develop mindfulness of breathing?” When he said this, Venerable Ariṭṭha said to him: “Sir, I develop mindfulness of breathing.” “But mendicant, how do you develop it?” “Sir, I’ve given up desire for sensual pleasures of the past. I’m rid of desire for sensual pleasures of the future. And I have eliminated perception of aversion regarding phenomena internally and externally. Just mindful, I will breathe in. Mindful, I will breathe out. That’s how I develop mindfulness of breathing.” “That is mindfulness of breathing, Ariṭṭha; I don’t deny it. But as to how mindfulness of breathing is fulfilled in detail, listen and apply your mind well, I will speak.” “Yes, sir,” Ariṭṭha replied. The Buddha said this: “And how is mindfulness of breathing fulfilled in detail? It’s when a mendicant—gone to a wilderness, or to the root of a tree, or to an empty hut—sits down cross-legged, sets their body straight, and brings mindfulness to the present. Just mindful, they breathe in. Mindful, they breathe out. Breathing in heavily they know: ‘I’m breathing in heavily.’ Breathing out heavily they know: ‘I’m breathing out heavily.’ … They practice like this: ‘I’ll breathe in observing letting go.’ They practice like this: ‘I’ll breathe out observing letting go.’ This is how mindfulness of breathing is fulfilled in detail.”",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa801-900/sa805_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa801-900/sa805_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛住舍卫国祇树给孤独园。\n尔时世尊告诸比丘：「如我所说安那般那念，汝等修习否？」\n时有比丘名阿梨瑟吒，于众中坐，即从座起，整衣服，为佛作礼，右膝著地，合掌白佛言：「世尊！世尊所说安那般那念，我已修习。」\n佛告阿梨瑟吒：「汝云何修习我所说安那般那念？」\n比丘白佛：「世尊！于过去诸欲，我已断欲贪；于未来诸欲，不生欣乐；于内外诸法违逆之想，善能除灭。我正念入息，正念出息——我如是修世尊所说安那般那念。」\n佛告阿梨瑟吒：「汝实修我所说安那般那念，非不修。然更有胜妙，过汝所修。何等胜妙？若比丘依止聚落、城邑，晨朝著衣持钵入村乞食，善护其身，守诸根门，善系心住。乞食已还，举衣钵、洗足已，入林中闲房树下，或空露地，端身正坐，系念在前。断世贪爱，离欲清净；瞋恚、昏沉睡眠、掉举后悔、疑皆断，度诸疑惑，于善法心得决定。远离五盖——于心令慧力羸、为障碍分、不趣涅槃者。正念而入息，正念而出息。入息长，如实知『入息长』；出息长，如实知『出息长』。入息短，如实知『入息短』；出息短，如实知『出息短』。学『觉知一切身而入息』，学『觉知一切身而出息』；学『止息身行而入息』，学『止息身行而出息』。学『觉知喜而入息』，学『觉知喜而出息』；学『觉知乐而入息』，学『觉知乐而出息』；学『觉知心行而入息』，学『觉知心行而出息』；学『止息心行而入息』，学『止息心行而出息』。学『觉知心而入息』，学『觉知心而出息』；学『悦心而入息』，学『悦心而出息』；学『定心而入息』，学『定心而出息』；学『解脱心而入息』，学『解脱心而出息』。学『观察无常而入息』，学『观察无常而出息』；学『观察离贪而入息』，学『观察离贪而出息』；学『观察灭而入息』，学『观察灭而出息』；学『观察舍遣而入息』，学『观察舍遣而出息』。阿梨瑟吒！此则胜妙，过汝所修安那般那念。」\n佛说此经已，诸比丘闻佛所说，欢喜奉行。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在舍卫国祇树给孤独园。\n那时世尊告诉比丘们：「像我所说的入出息念，你们修习了吗？」\n当时有位比丘名叫阿梨瑟吒，在大众中坐着，就从座位起来，整理衣服，向佛作礼，右膝著地，合掌对佛说：「世尊！世尊所说的入出息念，我已经修习了。」\n佛告诉阿梨瑟吒：「你怎样修习我所说的入出息念？」\n比丘对佛说：「世尊！对过去的各种欲，我已断除欲贪；对未来的各种欲，不生欣乐；对内外诸法的违逆之想，也能妥善除灭。我正念入息，正念出息——我这样修世尊所说的入出息念。」\n佛告诉阿梨瑟吒：「你确实在修我所说的入出息念，并不是不修。然而还有更殊胜巧妙的，超过你所修的。什么更殊胜？如果比丘依止聚落、城邑，清晨著衣持钵入村乞食，善护自身，守住根门，善系其心。乞食回来，收衣钵、洗足后，入林中闲房树下，或空露地，端身正坐，把念安住在前。断除世间贪爱，离欲清净；瞋恚、昏沉睡眠、掉举后悔、疑都断除，度过疑惑，于善法心得决定。远离五盖——那些使心中慧力衰弱、成障碍分、不趋向涅槃的。正念地入息，正念地出息。入息长，如实知道『入息长』；出息长，如实知道『出息长』。入息短，如实知道『入息短』；出息短，如实知道『出息短』。学着『觉知整个身体而入息』，学着『觉知整个身体而出息』；学着『让身行止息而入息』，学着『让身行止息而出息』。学着『觉知喜而入息』，学着『觉知喜而出息』；学着『觉知乐而入息』，学着『觉知乐而出息』；学着『觉知心行而入息』，学着『觉知心行而出息』；学着『让心行止息而入息』，学着『让心行止息而出息』。学着『觉知心而入息』，学着『觉知心而出息』；学着『使心喜悦而入息』，学着『使心喜悦而出息』；学着『使心入定而入息』，学着『使心入定而出息』；学着『使心解脱而入息』，学着『使心解脱而出息』。学着『观察无常而入息』，学着『观察无常而出息』；学着『观察离贪而入息』，学着『观察离贪而出息』；学着『观察灭而入息』，学着『观察灭而出息』；学着『观察舍遣而入息』，学着『观察舍遣而出息』。阿梨瑟吒！这才更殊胜，超过你所修的入出息念。」\n佛说完这部经，比丘们听佛所说，都欢喜奉行。",
+  "notes": "本经 SC 平行表所列平行及 `raw_aligned_data.json` 内之巴利本文、Sujato 英译并用以厘定法义；求那跋陀罗汉本用于定位经文与传统术语。confidence=high：primary SN54.6 Ariṭṭha；据巴利校正自述：弃过去欲贪、除未来欲贪、灭内外违逆想，再正念出入息；汉「过去诸行不顾念」等过宽，已收束为欲贪／违逆想。十六行满相为「胜妙过其上」。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "high",
+  "prior_review_status": "needs_revision",
+  "similarity_to_source": 0.217,
+  "paragraph_parallel": true
+}

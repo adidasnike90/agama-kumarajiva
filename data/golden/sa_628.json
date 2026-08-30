@@ -1,0 +1,43 @@
+{
+  "id": "SA_628",
+  "uid": "sa628",
+  "title": "雜阿含經  卷第二十六  念處相應  （628）  優陀夷",
+  "chinese_text": "如是我聞：\n\n一時，佛住巴連弗邑鷄林精舍。時，尊者優陀夷、尊者阿難陀亦住巴連弗邑鷄林精舍。\n\n爾時，尊者優陀夷詣尊者阿難所，共相問訊慰勞已，退坐一面，語尊者阿難：「如來、應供、等正覺所知所見，為諸比丘說聖戒，令不斷、不缺、不擇、不離、不戒取，善究竟、善持，智者所歎、所不憎惡。何故如來、應、等正覺所見，為諸比丘說聖戒，不斷、不缺，乃至智者所歎、所不憎惡？」\n\n尊者阿難語優陀夷：「為修四念處故。何等為四？謂身身觀念住，受、心、法法觀念住。」\n\n時，二正士共論議已，各還本處。",
+  "english_sa_text": "",
+  "parallels": [
+    {
+      "uid": "sn47.21",
+      "acronym": "SN 47.21",
+      "root_lang": "pli",
+      "original_title": "Sīlasutta",
+      "translated_title": "Virtue",
+      "type": "full",
+      "resembling": true,
+      "remark": null
+    }
+  ],
+  "primary_sn_uid": "sn47.21",
+  "pali_text": "Evaṁ me sutaṁ— ekaṁ samayaṁ āyasmā ca ānando āyasmā ca bhaddo pāṭaliputte viharanti kukkuṭārāme. Atha kho āyasmā bhaddo sāyanhasamayaṁ paṭisallānā vuṭṭhito yenāyasmā ānando tenupasaṅkami; upasaṅkamitvā āyasmatā ānandena saddhiṁ sammodi. Sammodanīyaṁ kathaṁ sāraṇīyaṁ vītisāretvā ekamantaṁ nisīdi. Ekamantaṁ nisinno kho āyasmā bhaddo āyasmantaṁ ānandaṁ etadavoca: “yānimāni, āvuso ānanda, kusalāni sīlāni vuttāni bhagavatā, imāni kusalāni sīlāni kimatthiyāni vuttāni bhagavatā”ti? “Sādhu sādhu, āvuso bhadda. Bhaddako kho te, āvuso bhadda, ummaṅgo, bhaddakaṁ paṭibhānaṁ, kalyāṇī paripucchā. Evañhi tvaṁ, āvuso bhadda, pucchasi: ‘yānimāni, āvuso ānanda, kusalāni sīlāni vuttāni bhagavatā, imāni kusalāni sīlāni kimatthiyāni vuttāni bhagavatā’”ti? “Evamāvuso”ti. “Yānimāni, āvuso bhadda, kusalāni sīlāni vuttāni bhagavatā, imāni kusalāni sīlāni yāvadeva catunnaṁ satipaṭṭhānānaṁ bhāvanāya vuttāni bhagavatā. Katamesaṁ catunnaṁ? Idhāvuso, bhikkhu kāye kāyānupassī viharati ātāpī sampajāno satimā, vineyya loke abhijjhādomanassaṁ; vedanāsu …pe… citte …pe… dhammesu dhammānupassī viharati ātāpī sampajāno satimā, vineyya loke abhijjhādomanassaṁ. Yānimāni, āvuso bhadda, kusalāni sīlāni vuttāni bhagavatā, imāni kusalāni sīlāni yāvadeva imesaṁ catunnaṁ satipaṭṭhānānaṁ bhāvanāya vuttāni bhagavatā”ti. Paṭhamaṁ.",
+  "english_sn_text": "So I have heard. At one time the venerables Ānanda and Bhadda were staying near Pāṭaliputta, in the Chicken Monastery. Then in the late afternoon, Venerable Bhadda came out of retreat, went to Venerable Ānanda, and exchanged greetings with him. When the greetings and polite conversation were over, he sat down to one side and said to Ānanda: “Reverend Ānanda, the Buddha has spoken of skillful ethics. What’s their purpose?” “Good, good, Reverend Bhadda! Your approach and eloquence are excellent, and it’s a good question. For you asked: ‘The Buddha has spoken of skillful ethics. What’s their purpose?’” “Yes, reverend.” “The Buddha has spoken of skillful ethics to the extent necessary for developing the four kinds of mindfulness meditation. What four? It’s when a mendicant meditates by observing an aspect of the body—keen, aware, and mindful, rid of covetousness and displeasure for the world. They meditate observing an aspect of feelings … mind … principles—keen, aware, and mindful, rid of covetousness and displeasure for the world. The Buddha has spoken of skillful ethics to the extent necessary for developing the four kinds of mindfulness meditation.”",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa601-700/sa628_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa601-700/sa628_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛住巴连弗邑鸡林精舍。\n尊者优陀夷、尊者阿难亦住彼。优陀夷问阿难：「如来为诸比丘说圣戒，令不断不缺、善究竟、智者所叹——何故说此圣戒？」\n阿难答：「为修四念处故——身身观念住，受、心、法法观念住。」\n二正士论已，各还本处。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在巴连弗邑鸡林精舍。\n优陀夷尊者、阿难尊者也住在那里。优陀夷问阿难：「如来为比丘们说圣戒，使它不断不缺、善能究竟、智者称叹——为什么说这样的圣戒？」\n阿难答：「是为了修四念处——身、受、心、法四念处。」\n两位正士讨论完毕，各自回住处。",
+  "notes": "本经 SC 平行表所列平行及 `raw_aligned_data.json` 内之巴利本文、Sujato 英译并用以厘定法义；求那跋陀罗汉本用于定位经文与传统术语。confidence=high：primary SN47.21（sīla 为修四念处）。据 SN 校正：说戒目的＝修四念处；汉问者优陀夷，SN 作跋陀罗，人名从汉本。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "high",
+  "prior_review_status": "needs_revision",
+  "similarity_to_source": 0.185,
+  "paragraph_parallel": true
+}

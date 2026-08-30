@@ -1,0 +1,34 @@
+{
+  "id": "SA_1272",
+  "uid": "sa1272",
+  "title": "雜阿含經  卷第五十  雜相應  （1272）  拘迦那沙",
+  "chinese_text": "如是我聞：\n\n一時，佛住王舍城山谷精舍。\n\n時，有拘迦那娑天女，是光明天女，起大電光熾然，歸佛、歸法、歸比丘僧，來詣佛所，稽首佛足，退坐一面。其身光明普照山谷，即於佛前而說偈言\n\n「其心不為惡，　　及身口世間，\n\n　五欲悉虛空，　　正智正繫念。\n\n　不習近眾苦，　　非義和合者。」\n\n爾時，世尊告天女言：「如是，如是，天女！如汝所說：\n\n「『其心不為惡，　　及身口世間，\n\n　　五欲悉虛空，　　正智正繫念。\n\n　　不習近眾苦，　　非義和合者。』」\n\n爾時，拘迦那娑天女聞佛所說，歡喜隨喜，稽首佛足，即沒不現。\n\n爾時，世尊夜過晨朝入僧中，敷尼師壇，於大眾前坐，告諸比丘：「於昨後夜，拘迦那娑天女，光明之天女，來詣我所，稽首我足，退坐一面。而說偈言：\n\n「『其心不為惡，　　及身口世間，\n\n　　五欲悉虛空，　　正智正繫念。\n\n　　不習近眾苦，　　非義和合者。』\n\n「我時答言：『如是，天女！如是，天女！如汝所說：\n\n「『「其心不為惡，　　及身口世間，\n\n　　　五欲悉虛空，　　正智正繫念。\n\n　　　不習近眾苦，　　非義和合者。」』\n\n「拘迦那天女，　　電光炎熾然，\n\n　敬禮佛法僧，　　說偈義饒益。」\n\n佛說此經已，諸比丘聞佛所說，歡喜奉行。",
+  "english_sa_text": "",
+  "parallels": [],
+  "primary_sn_uid": null,
+  "pali_text": "",
+  "english_sn_text": "",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa1201-1300/sa1272_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa1201-1300/sa1272_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛住王舍城山谷精舍。\n时拘迦那娑天女——光明天女，电光炽然——归佛法僧，来诣佛所，礼足退坐，身光普照山谷，说偈：「于一切世间，身口意莫作恶；舍诸欲，正念正知，勿习近无益之苦。」\n佛告天女：「如是，如汝所言：『于一切世间，身口意莫作恶；舍诸欲，正念正知，勿习近无益之苦。』」天女闻已欢喜，礼足即没。\n夜过晨朝，佛入僧中敷座，告诸比丘：「昨后夜拘迦那娑天女来，说此饶益偈；我亦印可。拘迦那天女，电光炎炽，敬礼三宝，说偈义饶益。」\n佛说此经已，诸比丘闻佛所说，欢喜奉行。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在王舍城山谷精舍。\n当时拘迦那娑天女——光明天女，电光炽盛——归依佛法僧，来到佛前，顶礼后退坐，身光普照山谷，说偈：「在一切世间，身、口、意都不要作恶；舍离诸欲，保持正念正知，不要习近那无益的苦。」\n佛对天女说：「是的，正如你所说：『在一切世间，身、口、意都不要作恶；舍离诸欲，保持正念正知，不要习近那无益的苦。』」天女听完欢喜，顶礼后随即隐没。\n夜过天明，佛进入僧众中敷座，对比丘们说：「昨天后夜拘迦那娑天女来，说了这有益的偈；我也印可。拘迦那天女，电光炽盛，敬礼三宝，说偈饶益。」\n佛说完这部经，比丘们听佛所说，都欢喜奉行。",
+  "notes": "SC 于本经未列可靠巴利平行，故唯以汉本为底，参同相应之巴利定型语厘义；依项目规约「无可靠平行时 confidence 降为 medium/low」。confidence=medium：无 SC 专经；内容近 SN1.40（幼拘迦那／波纯提女）之来访、说四句法、佛印可、晨朝告众。偈据 SN 校正。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "warn",
+    "issues": [],
+    "warnings": [
+      "mark_not_in_output:空"
+    ],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "medium",
+  "prior_review_status": "needs_revision",
+  "similarity_to_source": 0.163,
+  "paragraph_parallel": true
+}

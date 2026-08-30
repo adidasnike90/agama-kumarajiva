@@ -1,0 +1,43 @@
+{
+  "id": "SA_627",
+  "uid": "sa627",
+  "title": "雜阿含經  卷第二十六  念處相應  （627）  阿那律",
+  "chinese_text": "如是我聞：\n\n一時，佛住舍衛國祇樹給孤獨園。\n\n爾時，尊者阿那律陀詣佛所，稽首禮足，退坐一面，白佛言：「世尊！若有比丘住於學地，未得上進安隱涅槃，而方便求，是聖弟子當云何於正法、律修習多修習，得盡諸漏，乃至自知不受後有？」\n\n佛告阿那律：「若聖弟子住於學地，未得上進安隱涅槃，而方便求，彼於爾時，當內身身觀念住，精勤方便，正智正念，調伏世間貪憂。如是受、心、法法觀念住，精勤方便，正智正念，調伏世間貪憂。如是聖弟子多修習已，得盡諸漏，乃至自知不受後有。」\n\n爾時，尊者阿那律陀聞佛所說，歡喜隨喜，作禮而去。",
+  "english_sa_text": "",
+  "parallels": [
+    {
+      "uid": "sn47.26",
+      "acronym": "SN 47.26",
+      "root_lang": "pli",
+      "original_title": "Padesasutta",
+      "translated_title": "Partly",
+      "type": "full",
+      "resembling": true,
+      "remark": null
+    }
+  ],
+  "primary_sn_uid": "sn47.26",
+  "pali_text": "Ekaṁ samayaṁ āyasmā ca sāriputto āyasmā ca mahāmoggallāno āyasmā ca anuruddho sākete viharanti kaṇḍakīvane. Atha kho āyasmā ca sāriputto āyasmā ca mahāmoggallāno sāyanhasamayaṁ paṭisallānā vuṭṭhitā yenāyasmā anuruddho tenupasaṅkamiṁsu; upasaṅkamitvā āyasmatā anuruddhena saddhiṁ sammodiṁsu. Sammodanīyaṁ kathaṁ sāraṇīyaṁ vītisāretvā ekamantaṁ nisīdiṁsu. Ekamantaṁ nisinno kho āyasmā sāriputto āyasmantaṁ anuruddhaṁ etadavoca: “‘sekho, sekho’ti, āvuso anuruddha, vuccati. Kittāvatā nu kho, āvuso, sekho hotī”ti? “Catunnaṁ kho, āvuso, satipaṭṭhānānaṁ padesaṁ bhāvitattā sekho hoti. Katamesaṁ catunnaṁ? Idhāvuso, bhikkhu kāye kāyānupassī viharati ātāpī sampajāno satimā, vineyya loke abhijjhādomanassaṁ; vedanāsu …pe… citte …pe… dhammesu dhammānupassī viharati ātāpī sampajāno satimā, vineyya loke abhijjhādomanassaṁ. Imesaṁ kho, āvuso, catunnaṁ satipaṭṭhānānaṁ padesaṁ bhāvitattā sekho hotī”ti. Chaṭṭhaṁ.",
+  "english_sn_text": "At one time the venerables Sāriputta, Mahāmoggallāna, and Anuruddha were staying near Sāketa in the Thorny Wood. Then in the late afternoon, Sāriputta and Mahāmoggallāna came out of retreat, went to Anuruddha, and exchanged greetings with him. When the greetings and polite conversation were over, they sat down to one side. Sāriputta said to Anuruddha: “Reverend, they speak of the one called ‘a trainee’. How is a trainee defined?” “Reverends, a trainee is someone who has partly developed the four kinds of mindfulness meditation. What four? It’s when a mendicant meditates by observing an aspect of the body—keen, aware, and mindful, rid of covetousness and displeasure for the world. They meditate observing an aspect of feelings … mind … principles—keen, aware, and mindful, rid of covetousness and displeasure for the world. A trainee is someone who has partly developed the four kinds of mindfulness meditation.”",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa601-700/sa627_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa601-700/sa627_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛住舍卫国祇树给孤独园。\n尊者阿那律问佛：「有学未得上进安隐涅槃而方便求者，当云何于正法律多修习，得尽诸漏、自知不受后有？」\n佛言：「当修四念处——身身观念住，精勤方便，正念正知，调伏世间贪忧；受、心、法法观念住亦复如是。多修习已，得尽诸漏，乃至自知不受后有。」\n阿那律欢喜随喜，作礼而去。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在舍卫国祇树给孤独园。\n阿那律尊者问佛：「有学还没有上进到安隐涅槃、却在方便求进的人，应当怎样在正法律中多多修习，才能尽诸漏、自知不受后有？」\n佛说：「应当修四念处——于身随观而住，精勤方便，正念正知，调伏世间贪忧；于受、心、法随观而住也是一样。多多修习之后，就能尽诸漏，乃至自知不受后有。」\n阿那律欢喜随喜，行礼后离去。",
+  "notes": "本经 SC 平行表所列平行及 `raw_aligned_data.json` 内之巴利本文、Sujato 英译并用以厘定法义；求那跋陀罗汉本用于定位经文与传统术语。confidence=high：parallel SN47.26（padesa／有学部分修四念处），resembling。汉作阿那律问佛求尽漏；SN 作舍利弗问阿那律「何名有学」——叙事从汉，义取有学当修四念处以尽漏。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "high",
+  "prior_review_status": "needs_revision",
+  "similarity_to_source": 0.24,
+  "paragraph_parallel": true
+}

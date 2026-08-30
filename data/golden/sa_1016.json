@@ -1,0 +1,53 @@
+{
+  "id": "SA_1016",
+  "uid": "sa1016",
+  "title": "雜阿含經  卷第四十三  諸天相應  （1016）  生世間",
+  "chinese_text": "如是我聞：\n\n一時，佛在舍衛國祇樹給孤獨園。\n\n時，有天子容色絕妙，來詣佛所，稽首佛足，身諸光明遍照祇樹給孤獨園。\n\n時，彼天子說偈問佛：\n\n「何法生眾生，　　何等前驅馳，\n\n　云何起生死，　　何者不解脫？」\n\n爾時，世尊說偈答言：\n\n「愛欲生眾生，　　意在前驅馳，\n\n　眾生起生死，　　苦法不解脫。」\n\n時，彼天子復說偈言：\n\n「久見婆羅門，　　逮得般涅槃，\n\n　一切怖已過，　　永超世恩愛。」\n\n時，彼天子聞佛所說，歡喜隨喜，稽首佛足，即沒不現。",
+  "english_sa_text": "",
+  "parallels": [
+    {
+      "uid": "sa-2.243",
+      "acronym": "SA2 243",
+      "root_lang": "lzh",
+      "original_title": "生世間",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "sn1.56",
+      "acronym": "SN 1.56",
+      "root_lang": "pli",
+      "original_title": "Dutiyajanasutta",
+      "translated_title": "Produces (2)",
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    }
+  ],
+  "primary_sn_uid": "sn1.56",
+  "pali_text": "“Kiṁsu janeti purisaṁ, kiṁsu tassa vidhāvati; Kiṁsu saṁsāramāpādi, kismā na parimuccatī”ti. “Taṇhā janeti purisaṁ, cittamassa vidhāvati; Satto saṁsāramāpādi, dukkhā na parimuccatī”ti.",
+  "english_sn_text": "“What gives birth to a person? What do they have that runs about? What enters transmigration? From what are they not free?” “Craving gives birth to a person. Their mind is what runs about. A sentient being enters transmigration. From suffering they are not free.”",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa1001-1100/sa1016_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa1001-1100/sa1016_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛住舍卫国祇树给孤独园。\n后夜分，有天子来诣佛所，容色绝妙，稽首礼足，退坐一面；身诸光明遍照祇园。\n天子说偈问：「何法能生诸众生？何等在前而驰驱？云何轮转于生死？何者令彼不解脱？」\n世尊说偈答：「爱欲能生诸众生，其心在前而驰驱，有情轮转于生死，苦法令彼不解脱。」\n天子说偈：「久见婆罗门，逮得般涅槃，一切怖已过，永超世恩爱。」闻已欢喜，礼足即没。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在舍卫国祇树给孤独园。\n后夜分，有一位天子，容色绝妙，来到佛前，顶礼佛足，退坐一面；身上的光明遍照祇树给孤独园。\n天子说偈问：「什么能生起众生？什么在前奔驰？怎样轮转生死？什么使他不得解脱？」\n世尊说偈答：「爱欲能生起众生，心在前奔驰，有情轮转生死，苦使他不得解脱。」\n天子又说偈：「久见婆罗门，逮得般涅槃，一切怖已过，永超世恩爱。」听完欢喜随喜，顶礼佛足，随即隐没不见。",
+  "notes": "本经 SC 平行表所列平行及 `raw_aligned_data.json` 内之巴利本文、Sujato 英译并用以厘定法义；求那跋陀罗汉本用于定位经文与传统术语。confidence=high：primary SN1.56；taṇhā 生、citta 驰、satta 入轮回、dukkha 不解脱。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "high",
+  "prior_review_status": "needs_revision",
+  "similarity_to_source": 0.188,
+  "paragraph_parallel": true
+}

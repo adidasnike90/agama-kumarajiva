@@ -1,0 +1,43 @@
+{
+  "id": "SA_1055",
+  "uid": "sa1055",
+  "title": "雜阿含經  卷第四十四  業報相應  （1055）  不善男子",
+  "chinese_text": "如是我聞：\n\n一時，佛住舍衛國祇樹給孤獨園。\n\n爾時，世尊告諸比丘：「有不善男子、不善男子不善男子，有善男子、善男子善男子。諦聽，善思，當為汝說。\n\n「云何為不善男子？謂殺生，乃至邪見者，是名不善男子。云何為不善男子不善男子？謂手自殺生，教人令殺，乃至自行邪見，教人令行邪見，是名不善男子不善男子。\n\n「云何為善男子？謂不殺生，乃至正見者，是名善男子。云何為善男子善男子？謂自不殺生，教人不殺，乃至自行正見，復以正見教人令行，是名善男子善男子。」\n\n佛說是經已，諸比丘聞佛所說，歡喜奉行。",
+  "english_sa_text": "",
+  "parallels": [
+    {
+      "uid": "an4.201",
+      "acronym": "AN 4.201",
+      "root_lang": "pli",
+      "original_title": "Sikkhāpadasutta",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    }
+  ],
+  "primary_sn_uid": null,
+  "pali_text": "",
+  "english_sn_text": "",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa1001-1100/sa1055_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa1001-1100/sa1055_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛住舍卫国祇树给孤独园。\n尔时世尊告诸比丘：「有不善男子、不善男子之不善男子；有善男子、善男子之善男子。谛听。云何不善男子？谓行杀生、不与取、邪淫、妄语、两舌、恶口、绮语、贪、瞋、邪见者。云何不善男子之不善男子？谓手自杀生，复教人杀，乃至自行邪见，复教人行邪见。云何善男子？谓行不杀生、不与取、不邪淫、不妄语、不两舌、不恶口、不绮语、无贪、无瞋、正见者。云何善男子之善男子？谓自不杀生，复教人不杀，乃至自行正见，复以正见教人。」\n佛说此经已，诸比丘闻佛所说，欢喜奉行。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在舍卫国祇树给孤独园。\n那时世尊告诉比丘们：「有不善男子、加倍的不善男子；有善男子、加倍的善男子。仔细听。什么是不善男子？就是行杀生、不与取、邪淫、妄语、两舌、恶口、绮语、贪、瞋、邪见的人。什么是加倍的不善男子？就是亲手杀生，又教人杀，乃至自己行邪见，又教人行邪见。什么是善男子？就是行不杀生、不与取、不邪淫、不妄语、不两舌、不恶口、不绮语、无贪、无瞋、正见的人。什么是加倍的善男子？就是自己不杀生，又教人不杀，乃至自己行正见，又拿正见教人。」\n佛说完这部经，比丘们听佛所说，都欢喜奉行。",
+  "notes": "本经 SC 平行表所列平行及 `raw_aligned_data.json` 内之巴利本文、Sujato 英译并用以厘定法义；求那跋陀罗汉本用于定位经文与传统术语。confidence=high：primary AN4.201 系；自作＋教作层层加深不善／善。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "high",
+  "prior_review_status": "needs_revision",
+  "similarity_to_source": 0.244,
+  "paragraph_parallel": true
+}

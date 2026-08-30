@@ -1,0 +1,53 @@
+{
+  "id": "SA_206",
+  "uid": "sa206",
+  "title": "雜阿含經  卷第九  六入處相應  （206）  耆婆菴羅園",
+  "chinese_text": "如是我聞：\n\n一時，佛住毘舍離城耆婆拘摩羅藥師菴羅園。\n\n爾時，世尊告諸比丘：「當勤方便禪思，內寂其心。所以者何？比丘！方便禪思，內寂其心，如是如實知顯現。於何如實知顯現？於眼如實知顯現，若色、眼識、眼觸、眼觸因緣生受，若苦、若樂、不苦不樂，彼亦如實知顯現。耳、鼻、舌、身、意亦復如是。此諸法無常、有為，亦如是如實知顯現。」\n\n佛說此經已，諸比丘聞佛所說，歡喜奉行。",
+  "english_sa_text": "Saṁyuktāgama\n\n206. [First Discourse at Jīvaka’s Mango Grove]\n\nThus have I heard. At one time the Buddha was staying at Vesālī in Jīvaka’s Mango Grove.\n\nAt that time the Blessed One said to the monks: “You should make a diligent effort at meditation, calm the mind within. Why is that? Monks, in this way diligently practising meditation and calming the mind within, one understands [things] as they really manifest. What does one understand as it really manifests? One understands as it really manifests the eye, and one also understands as they really manifest forms, eye-consciousness, eye-contact, and feeling arisen in dependence on eye-contact, be it painful, pleasant, or neutral.\n\n“The ear … the nose … the tongue … the body … the mind is also like that. All these things are impermanent and conditioned, and in this way one understands them also as they really manifest.”\n\nWhen the Buddha had spoken this discourse, hearing what the Buddha had said the monks were delighted and received it respectfully.\n\nTranslated by Bhikkhu Anālayo. Originally published in \"On the Six Sense-spheres (1) ―A Translation of Saṁyukta-āgama Discourses 188 to 229 (Fascicle 8)\", Dharma Drum Journal of Buddhist Studies, 2016, vol. 18 pp. 1–61.\n\nPrepared for SuttaCentral by Ayya Vimala.",
+  "parallels": [
+    {
+      "uid": "sn35.100",
+      "acronym": "SN 35.100",
+      "root_lang": "pli",
+      "original_title": "Paṭisallānasutta",
+      "translated_title": "Seclusion",
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "sn35.161",
+      "acronym": "SN 35.161",
+      "root_lang": "pli",
+      "original_title": "Jīvakambavanapaṭisallānasutta",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    }
+  ],
+  "primary_sn_uid": "sn35.100",
+  "pali_text": "“Paṭisallāne, bhikkhave, yogamāpajjatha. Paṭisallīno, bhikkhave, bhikkhu yathābhūtaṁ pajānāti. Kiñca yathābhūtaṁ pajānāti? ‘Cakkhu aniccan’ti yathābhūtaṁ pajānāti; ‘rūpā aniccā’ti yathābhūtaṁ pajānāti; ‘cakkhuviññāṇaṁ aniccan’ti yathābhūtaṁ pajānāti; ‘cakkhusamphasso anicco’ti yathābhūtaṁ pajānāti …pe… ‘yampidaṁ manosamphassapaccayā uppajjati vedayitaṁ sukhaṁ vā dukkhaṁ vā adukkhamasukhaṁ vā tampi aniccan’ti yathābhūtaṁ pajānāti. Paṭisallāne, bhikkhave, yogamāpajjatha. Paṭisallīno, bhikkhave, bhikkhu yathābhūtaṁ pajānātī”ti. Sattamaṁ.",
+  "english_sn_text": "“Mendicants, meditate in retreat. A mendicant in retreat truly understands. What do they truly understand? They truly understand that the eye is impermanent. They truly understand that sights … eye consciousness … eye contact … the pleasant, painful, or neutral feeling that arises dependent on mind contact is impermanent. Mendicants, meditate in retreat. A mendicant in retreat truly understands.”",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa201-300/sa206_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa201-300/sa206_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时佛在毗舍离耆婆庵罗园。\n尔时世尊告诸比丘：当勤修禅思，独一静处，内寂其心。何以故？比丘勤修禅思、内寂其心者，则能如实知。何所如实知？谓于眼如实知；色、眼识、眼触，及眼触因缘所生受——若苦、若乐、不苦不乐——亦如实知。耳、鼻、舌、身、意亦复如是。此诸法无常、有为，亦如是如实知。\n佛说此经已，诸比丘闻佛所说，欢喜奉行。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在毗舍离耆婆（拘摩罗药师，王医耆婆）的庵罗（芒果）园。\n那时，世尊告诉比丘们：应当勤修禅思，独自安住静处，使内心寂止。为什么呢？因为比丘勤修禅思、内心寂止，便能如实了知。如实了知什么呢？就是对眼如实了知；对色、眼识、眼触，以及依眼触为缘而生起的感受——无论是苦、是乐、还是不苦不乐——也都如实了知。耳、鼻、舌、身、意也是一样。这些法都是无常的、有为造作的，也这样如实了知。\n佛说完这部经，比丘们听佛所说，都欢喜奉行。",
+  "notes": "本经 SC 平行表所列平行及 `raw_aligned_data.json` 内之巴利本文、Sujato 英译，与 Anālayo 之 SA 英译（DDJBS 18, 2016, Fascicle 8）并用以厘定法义；求那跋陀罗汉本用于定位经文与传统术语。confidence=high：SN35.100（Paṭisallāna）为 `full`、非 resembling 之平行，巴利逐支可对（`paṭisallāne yogamāpajjatha… paṭisallīno bhikkhu yathābhūtaṁ pajānāti`→ 眼、色、眼识、眼触及触缘生受之无常）。信-校正二事：（一）底本「當勤方便禪思」之「方便」＝ yoga（勤修、致力，`yogamāpajjatha`），非「方法手段」；「禅思」所译者为 paṭisallāna（独处、静居，Sujato: meditate in retreat），非 jhāna，故今作「勤修禅思，独一静处」以出其独居之义；「内寂其心」不见于巴利，为汉本之释语，存之。（二）底本本经与次经（SA_207）皆作「如實知顯現」，然巴利二经用语实异：本经作 `yathābhūtaṁ pajānāti`（如实知），次经作 `yathābhūtaṁ okkhāyati`（如实显现、明现）；今本经作「如实知」、次经作「如实显现」以别之，并于此志底本之同语。「无常、有为」之「有为」＝ saṅkhata（造作所成）；巴利此处唯言 anicca，「有为」为汉本所增而不违法义，存之。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "high",
+  "prior_review_status": "needs_revision",
+  "similarity_to_source": 0.292,
+  "paragraph_parallel": true
+}

@@ -1,0 +1,32 @@
+{
+  "id": "SA_134",
+  "uid": "sa134",
+  "title": "雜阿含經  卷第七  見相應  （134）  孤疑斷",
+  "chinese_text": "如是我聞：\n\n一時，佛住舍衛國祇樹給孤獨園。\n\n爾時，世尊告諸比丘……如上說。差別者：「多聞聖弟子於此六見處觀察非我、非我所。如是觀者，於苦狐疑斷，於習、滅、道狐疑斷。是名，比丘！多聞聖弟子不復堪任作身、口、意業，趣三惡道……」如是廣說，乃至「作苦邊」。\n\n佛說此經已，諸比丘聞佛所說，歡喜奉行。",
+  "english_sa_text": "Saṁyuktāgama\n\n134. [First Discourse on Abandoning Doubt]\n\nThus have I heard. At one time the Buddha was staying at Sāvatthī in Jeta's Grove, Anāthapiṇḍika's Park.\n\nAt that time the Blessed One said to the monks … as said above, with the difference: “A learned noble disciple examines these six standpoints for views as not self and not belonging to a self. One who contemplates in this way abandons doubt in relation to dukkha, in relation to its arising, in relation to its cessation, and in relation to the path.\n\nMonks, this is called a learned noble disciple who is no longer capable of undertaking a bodily, verbal or mental deed that leads to the three evil destinies, … to be spoken in full up to … makes an end of dukkha.”\n\nWhen the Buddha had spoken this discourse, hearing what the Buddha had said the monks were delighted and received it respectfully.\n\nTranslated by Bhikkhu Anālayo. Originally published in ‘On Rādha and Views – A Translation of Saṁyukta-āgama Discourses 111 to 138 (Fascicle 6)’, Dharma Drum Journal of Buddhist Studies, 2015, vol. 17 pp. 1–42.\n\nPrepared for SuttaCentral by Seniya Ariyakumara and Ayya Vimala.",
+  "parallels": [],
+  "primary_sn_uid": null,
+  "pali_text": "",
+  "english_sn_text": "",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa101-200/sa134_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa101-200/sa134_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时佛在舍卫国祇树给孤独园。\n尔时世尊告诸比丘，广说如上。所差别者：若多闻圣弟子于此六见处观察非我、非我所，如是观者，于苦狐疑断，于集、灭、道狐疑断。是名多闻圣弟子不复堪任作身、口、意业趣三恶道；正使放逸，圣弟子决定向三菩提，极七往来天人之间，究竟苦边。\n佛说此经已，诸比丘闻佛所说，欢喜奉行。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在舍卫国祇树给孤独园。\n那时，世尊告诉比丘们，内容如上经广说。差别在于：如果多闻圣弟子对这六种见处观察为非我、非我所，这样观察的人，对苦的犹疑就断了，对集、灭、道的犹疑也断了。这样的多闻圣弟子，再也做不出会把自己带向三恶道的身业、口业、意业；纵使一时放逸，圣弟子也已确定趣向正觉，至多在天界人间往来七次，就走到苦的尽头。\n佛说完这部经，比丘们听佛所说，都欢喜奉行。",
+  "notes": "本经为 SA_133 之差别重说，底本作「如上說。差別者……」，今依例存前经之纲而出其差别，不另演全文。「習」为求那跋陀罗旧译，即 samudaya（集），今作「集」。前经断「于佛、法、僧」之疑，本经断「于四谛」之疑，二者即入流支之「于佛法僧不坏净」与「于四圣谛无惑」，义相承而不相违。confidence=medium。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "medium",
+  "prior_review_status": "needs_revision",
+  "similarity_to_source": 0.321,
+  "paragraph_parallel": true
+}

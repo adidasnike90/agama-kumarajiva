@@ -1,0 +1,554 @@
+{
+  "id": "SA_1256",
+  "uid": "sa1256",
+  "title": "雜阿含經  卷第五十  譬喻相應  （1256）  爪上",
+  "chinese_text": "如是我聞：\n\n一時，佛住舍衛國祇樹給孤獨園。\n\n爾時，世尊以爪抄土，告諸比丘：「於意云何？我爪上土多，為大地土多？」\n\n比丘白佛：「世尊！爪上土甚少少耳，其大地土無量無數，不可為比。」\n\n佛告諸比丘：「如是，眾生能數數下至彈指頃，於一切眾生修習慈心者，如甲上土耳；其諸眾生不能數數下至如彈指頃，於一切眾生修習慈心者，如大地土。是故，諸比丘！常當數數於一切眾生修習慈心。」\n\n佛說此經已，諸比丘聞佛所說，歡喜奉行。",
+  "english_sa_text": "",
+  "parallels": [
+    {
+      "uid": "sa-3.22",
+      "acronym": "SA3 22",
+      "root_lang": "lzh",
+      "original_title": "爪甲",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "sn20.2",
+      "acronym": "SN 20.2",
+      "root_lang": "pli",
+      "original_title": "Nakhasikhasutta",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "sa442",
+      "acronym": "SA 442",
+      "root_lang": "lzh",
+      "original_title": "爪甲",
+      "translated_title": null,
+      "type": "full",
+      "resembling": true,
+      "remark": null
+    },
+    {
+      "uid": "sn56.73",
+      "acronym": "SN 56.73",
+      "root_lang": "pli",
+      "original_title": "Kāmesumicchācārasutta",
+      "translated_title": null,
+      "type": "full",
+      "resembling": true,
+      "remark": null
+    },
+    {
+      "uid": "sn56.84",
+      "acronym": "SN 56.84",
+      "root_lang": "pli",
+      "original_title": "Āmakadhaññasutta",
+      "translated_title": null,
+      "type": "full",
+      "resembling": true,
+      "remark": null
+    },
+    {
+      "uid": "sn56.83",
+      "acronym": "SN 56.83",
+      "root_lang": "pli",
+      "original_title": "Jātarūparajatasutta",
+      "translated_title": null,
+      "type": "full",
+      "resembling": true,
+      "remark": null
+    },
+    {
+      "uid": "sn56.82",
+      "acronym": "SN 56.82",
+      "root_lang": "pli",
+      "original_title": "Uccāsayanasutta",
+      "translated_title": null,
+      "type": "full",
+      "resembling": true,
+      "remark": null
+    },
+    {
+      "uid": "sn56.81",
+      "acronym": "SN 56.81",
+      "root_lang": "pli",
+      "original_title": "Naccagītasutta",
+      "translated_title": null,
+      "type": "full",
+      "resembling": true,
+      "remark": null
+    },
+    {
+      "uid": "sn56.80",
+      "acronym": "SN 56.80",
+      "root_lang": "pli",
+      "original_title": "Gandhavilepanasutta",
+      "translated_title": null,
+      "type": "full",
+      "resembling": true,
+      "remark": null
+    },
+    {
+      "uid": "sn56.79",
+      "acronym": "SN 56.79",
+      "root_lang": "pli",
+      "original_title": "Vikālabhojanasutta",
+      "translated_title": null,
+      "type": "full",
+      "resembling": true,
+      "remark": null
+    },
+    {
+      "uid": "sn56.78",
+      "acronym": "SN 56.78",
+      "root_lang": "pli",
+      "original_title": "Bījagāmasutta",
+      "translated_title": null,
+      "type": "full",
+      "resembling": true,
+      "remark": null
+    },
+    {
+      "uid": "sn56.77",
+      "acronym": "SN 56.77",
+      "root_lang": "pli",
+      "original_title": "Samphappalāpasutta",
+      "translated_title": null,
+      "type": "full",
+      "resembling": true,
+      "remark": null
+    },
+    {
+      "uid": "sn56.76",
+      "acronym": "SN 56.76",
+      "root_lang": "pli",
+      "original_title": "Pharusavācāsutta",
+      "translated_title": null,
+      "type": "full",
+      "resembling": true,
+      "remark": null
+    },
+    {
+      "uid": "sn56.75",
+      "acronym": "SN 56.75",
+      "root_lang": "pli",
+      "original_title": "Pesuññasutta",
+      "translated_title": null,
+      "type": "full",
+      "resembling": true,
+      "remark": null
+    },
+    {
+      "uid": "sn56.74",
+      "acronym": "SN 56.74",
+      "root_lang": "pli",
+      "original_title": "Musāvādasutta",
+      "translated_title": null,
+      "type": "full",
+      "resembling": true,
+      "remark": null
+    },
+    {
+      "uid": "sn56.61",
+      "acronym": "SN 56.61",
+      "root_lang": "pli",
+      "original_title": "Aññatrasutta",
+      "translated_title": null,
+      "type": "full",
+      "resembling": true,
+      "remark": null
+    },
+    {
+      "uid": "sn56.72",
+      "acronym": "SN 56.72",
+      "root_lang": "pli",
+      "original_title": "Adinnādānasutta",
+      "translated_title": null,
+      "type": "full",
+      "resembling": true,
+      "remark": null
+    },
+    {
+      "uid": "sn56.71",
+      "acronym": "SN 56.71",
+      "root_lang": "pli",
+      "original_title": "Pāṇātipātasutta",
+      "translated_title": null,
+      "type": "full",
+      "resembling": true,
+      "remark": null
+    },
+    {
+      "uid": "sn56.70",
+      "acronym": "SN 56.70",
+      "root_lang": "pli",
+      "original_title": "Pacāyikasutta",
+      "translated_title": null,
+      "type": "full",
+      "resembling": true,
+      "remark": null
+    },
+    {
+      "uid": "sn56.69",
+      "acronym": "SN 56.69",
+      "root_lang": "pli",
+      "original_title": "Brahmaññasutta",
+      "translated_title": null,
+      "type": "full",
+      "resembling": true,
+      "remark": null
+    },
+    {
+      "uid": "sn56.68",
+      "acronym": "SN 56.68",
+      "root_lang": "pli",
+      "original_title": "Sāmaññasutta",
+      "translated_title": null,
+      "type": "full",
+      "resembling": true,
+      "remark": null
+    },
+    {
+      "uid": "sn56.67",
+      "acronym": "SN 56.67",
+      "root_lang": "pli",
+      "original_title": "Petteyyasutta",
+      "translated_title": null,
+      "type": "full",
+      "resembling": true,
+      "remark": null
+    },
+    {
+      "uid": "sn56.66",
+      "acronym": "SN 56.66",
+      "root_lang": "pli",
+      "original_title": "Matteyyasutta",
+      "translated_title": null,
+      "type": "full",
+      "resembling": true,
+      "remark": null
+    },
+    {
+      "uid": "sn56.65",
+      "acronym": "SN 56.65",
+      "root_lang": "pli",
+      "original_title": "Odakasutta",
+      "translated_title": null,
+      "type": "full",
+      "resembling": true,
+      "remark": null
+    },
+    {
+      "uid": "sn56.64",
+      "acronym": "SN 56.64",
+      "root_lang": "pli",
+      "original_title": "Surāmerayasutta",
+      "translated_title": null,
+      "type": "full",
+      "resembling": true,
+      "remark": null
+    },
+    {
+      "uid": "sn56.63",
+      "acronym": "SN 56.63",
+      "root_lang": "pli",
+      "original_title": "Paññāsutta",
+      "translated_title": null,
+      "type": "full",
+      "resembling": true,
+      "remark": null
+    },
+    {
+      "uid": "sn56.62",
+      "acronym": "SN 56.62",
+      "root_lang": "pli",
+      "original_title": "Paccantasutta",
+      "translated_title": null,
+      "type": "full",
+      "resembling": true,
+      "remark": null
+    },
+    {
+      "uid": "sn56.102",
+      "acronym": "SN 56.102",
+      "root_lang": "pli",
+      "original_title": "Manussacutinirayasutta",
+      "translated_title": null,
+      "type": "full",
+      "resembling": true,
+      "remark": null
+    },
+    {
+      "uid": "sn56.131",
+      "acronym": "SN 56.131",
+      "root_lang": "pli",
+      "original_title": "Pettidevapettivisayasutta",
+      "translated_title": null,
+      "type": "full",
+      "resembling": true,
+      "remark": null
+    },
+    {
+      "uid": "sn56.129-130",
+      "acronym": "SN 56.129–130",
+      "root_lang": "pli",
+      "original_title": "Pettidevanirayādisutta",
+      "translated_title": null,
+      "type": "full",
+      "resembling": true,
+      "remark": null
+    },
+    {
+      "uid": "sn56.126-128",
+      "acronym": "SN 56.126–128",
+      "root_lang": "pli",
+      "original_title": "Pettimanussanirayādisutta",
+      "translated_title": null,
+      "type": "full",
+      "resembling": true,
+      "remark": null
+    },
+    {
+      "uid": "sn56.123-125",
+      "acronym": "SN 56.123–125",
+      "root_lang": "pli",
+      "original_title": "Tiracchānadevanirayādisutta",
+      "translated_title": null,
+      "type": "full",
+      "resembling": true,
+      "remark": null
+    },
+    {
+      "uid": "sn56.120-122",
+      "acronym": "SN 56.120–122",
+      "root_lang": "pli",
+      "original_title": "Tiracchānamanussanirayādisutta",
+      "translated_title": null,
+      "type": "full",
+      "resembling": true,
+      "remark": null
+    },
+    {
+      "uid": "sn56.117-119",
+      "acronym": "SN 56.117–119",
+      "root_lang": "pli",
+      "original_title": "Nirayadevanirayādisutta",
+      "translated_title": null,
+      "type": "full",
+      "resembling": true,
+      "remark": null
+    },
+    {
+      "uid": "sn56.114-116",
+      "acronym": "SN 56.114–116",
+      "root_lang": "pli",
+      "original_title": "Nirayamanussanirayādisutta",
+      "translated_title": null,
+      "type": "full",
+      "resembling": true,
+      "remark": null
+    },
+    {
+      "uid": "sn56.111-113",
+      "acronym": "SN 56.111–113",
+      "root_lang": "pli",
+      "original_title": "Devamanussanirayādisutta",
+      "translated_title": null,
+      "type": "full",
+      "resembling": true,
+      "remark": null
+    },
+    {
+      "uid": "sn56.108-110",
+      "acronym": "SN 56.108–110",
+      "root_lang": "pli",
+      "original_title": "Devacutinirayādisutta",
+      "translated_title": null,
+      "type": "full",
+      "resembling": true,
+      "remark": null
+    },
+    {
+      "uid": "sn56.105-107",
+      "acronym": "SN 56.105–107",
+      "root_lang": "pli",
+      "original_title": "Manussacutidevanirayādisutta",
+      "translated_title": null,
+      "type": "full",
+      "resembling": true,
+      "remark": null
+    },
+    {
+      "uid": "sn56.104",
+      "acronym": "SN 56.104",
+      "root_lang": "pli",
+      "original_title": "Manussacutipettivisayasutta",
+      "translated_title": null,
+      "type": "full",
+      "resembling": true,
+      "remark": null
+    },
+    {
+      "uid": "sn56.103",
+      "acronym": "SN 56.103",
+      "root_lang": "pli",
+      "original_title": "Manussacutitiracchānasutta",
+      "translated_title": null,
+      "type": "full",
+      "resembling": true,
+      "remark": null
+    },
+    {
+      "uid": "sn56.85",
+      "acronym": "SN 56.85",
+      "root_lang": "pli",
+      "original_title": "Āmakamaṁsasutta",
+      "translated_title": null,
+      "type": "full",
+      "resembling": true,
+      "remark": null
+    },
+    {
+      "uid": "sn56.96-101",
+      "acronym": "SN 56.96–101",
+      "root_lang": "pli",
+      "original_title": "Chedanādisutta",
+      "translated_title": null,
+      "type": "full",
+      "resembling": true,
+      "remark": null
+    },
+    {
+      "uid": "sn56.95",
+      "acronym": "SN 56.95",
+      "root_lang": "pli",
+      "original_title": "Ukkoṭanasutta",
+      "translated_title": null,
+      "type": "full",
+      "resembling": true,
+      "remark": null
+    },
+    {
+      "uid": "sn56.94",
+      "acronym": "SN 56.94",
+      "root_lang": "pli",
+      "original_title": "Tulākūṭasutta",
+      "translated_title": null,
+      "type": "full",
+      "resembling": true,
+      "remark": null
+    },
+    {
+      "uid": "sn56.93",
+      "acronym": "SN 56.93",
+      "root_lang": "pli",
+      "original_title": "Dūteyyasutta",
+      "translated_title": null,
+      "type": "full",
+      "resembling": true,
+      "remark": null
+    },
+    {
+      "uid": "sn56.92",
+      "acronym": "SN 56.92",
+      "root_lang": "pli",
+      "original_title": "Kayavikkayasutta",
+      "translated_title": null,
+      "type": "full",
+      "resembling": true,
+      "remark": null
+    },
+    {
+      "uid": "sn56.91",
+      "acronym": "SN 56.91",
+      "root_lang": "pli",
+      "original_title": "Khettavatthusutta",
+      "translated_title": null,
+      "type": "full",
+      "resembling": true,
+      "remark": null
+    },
+    {
+      "uid": "sn56.90",
+      "acronym": "SN 56.90",
+      "root_lang": "pli",
+      "original_title": "Hatthigavassasutta",
+      "translated_title": null,
+      "type": "full",
+      "resembling": true,
+      "remark": null
+    },
+    {
+      "uid": "sn56.89",
+      "acronym": "SN 56.89",
+      "root_lang": "pli",
+      "original_title": "Kukkuṭasūkarasutta",
+      "translated_title": null,
+      "type": "full",
+      "resembling": true,
+      "remark": null
+    },
+    {
+      "uid": "sn56.88",
+      "acronym": "SN 56.88",
+      "root_lang": "pli",
+      "original_title": "Ajeḷakasutta",
+      "translated_title": null,
+      "type": "full",
+      "resembling": true,
+      "remark": null
+    },
+    {
+      "uid": "sn56.87",
+      "acronym": "SN 56.87",
+      "root_lang": "pli",
+      "original_title": "Dāsidāsasutta",
+      "translated_title": null,
+      "type": "full",
+      "resembling": true,
+      "remark": null
+    },
+    {
+      "uid": "sn56.86",
+      "acronym": "SN 56.86",
+      "root_lang": "pli",
+      "original_title": "Kumārikasutta",
+      "translated_title": null,
+      "type": "full",
+      "resembling": true,
+      "remark": null
+    }
+  ],
+  "primary_sn_uid": "sn20.2",
+  "pali_text": "Sāvatthiyaṁ viharati. Atha kho bhagavā parittaṁ nakhasikhāyaṁ paṁsuṁ āropetvā bhikkhū āmantesi: “Taṁ kiṁ maññatha, bhikkhave, katamaṁ nu kho bahutaraṁ, yo cāyaṁ mayā paritto nakhasikhāyaṁ paṁsu āropito yā cāyaṁ mahāpathavī”ti? “Etadeva, bhante, bahutaraṁ yadidaṁ mahāpathavī. Appamattakoyaṁ bhagavatā paritto nakhasikhāyaṁ paṁsu āropito. Saṅkhampi na upeti upanidhimpi na upeti kalabhāgampi na upeti mahāpathaviṁ upanidhāya bhagavatā paritto nakhasikhāyaṁ paṁsu āropito”ti. “Evameva kho, bhikkhave, appakā te sattā ye manussesu paccājāyanti; atha kho eteyeva bahutarā sattā ye aññatra manussehi paccājāyanti. Tasmātiha, bhikkhave, evaṁ sikkhitabbaṁ: ‘appamattā viharissāmā’ti. Evañhi vo, bhikkhave, sikkhitabban”ti. Dutiyaṁ.",
+  "english_sn_text": "At Sāvatthī. Then the Buddha, picking up a little bit of dirt on his fingernail, addressed the mendicants: “What do you think, mendicants? Which is more: the little bit of dirt on my fingernail, or this great earth?” “Sir, the great earth is far more. The little bit of dirt on your fingernail is tiny. Compared to the great earth, it doesn’t count, there’s no comparison, it’s not worth a fraction.” “In the same way the sentient beings reborn as humans are few, while those not reborn as humans are many. So you should train like this: ‘We will stay diligent.’ That’s how you should train.”",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa1201-1300/sa1256_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa1201-1300/sa1256_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛住舍卫国祇树给孤独园。\n尔时世尊以爪抄少许土，告诸比丘：「于意云何？我爪上土多，为大地土多？」比丘白佛：「世尊！爪上土甚少，大地土无量，不可为比。」\n佛告诸比丘：「如是，得生人间者少，如爪上土；不得生人间者多，如大地土。是故比丘当如是学：『我等当不放逸而住。』」\n佛说此经已，诸比丘闻佛所说，欢喜奉行。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在舍卫国祇树给孤独园。\n那时世尊用指甲挑起一点土，告诉比丘们：「你们怎么想？我指甲上的土多，还是大地的土多？」比丘回答：「世尊！指甲上的土极少，大地的土无量，没法比。」\n佛告诉比丘们：「同样，能生到人间的少，像指甲上的土；不能生到人间的多，像大地的土。所以比丘应当这样学：『我们应当不放逸而住。』」\n佛说完这部经，比丘们听佛所说，都欢喜奉行。",
+  "notes": "本经 SC 平行表所列平行及 `raw_aligned_data.json` 内之巴利本文、Sujato 英译并用以厘定法义；求那跋陀罗汉本用于定位经文与传统术语。confidence=high：primary SN20.2 Nakhasikhāsutta。据 SN 校正：爪土喻＝人间受生少／非人趣多，结劝不放逸；汉误植「修习慈心」多少之较，不从（慈心爪喻见他经串）。",
+  "review_status": "gold_reconstructed",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "high",
+  "prior_review_status": "needs_revision",
+  "reconstruction_basis": "汉误植慈心多少 → 据 SN20.2 改正为人间受生少／不放逸",
+  "similarity_to_source": 0.402,
+  "paragraph_parallel": true
+}

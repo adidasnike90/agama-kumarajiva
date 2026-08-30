@@ -1,0 +1,53 @@
+{
+  "id": "SA_1095",
+  "uid": "sa1095",
+  "title": "雜阿含經  卷第四十七  魔相應  （1095）  乞食",
+  "chinese_text": "如是我聞：\n\n一時，佛住娑羅婆羅門聚落。\n\n爾時，世尊晨朝著衣持鉢，入婆羅聚落乞食。時，魔波旬作是念：「今沙門瞿曇晨朝著衣持鉢，入婆羅聚落乞食，我今當往，先入其舍，語諸信心婆羅門長者，令沙門瞿曇空鉢而出。」\n\n時，魔波旬隨逐佛後，作是唱言：「沙門！沙門！都不得食耶？」\n\n爾時，世尊作是念：「惡魔波旬欲作嬈亂。」即說偈言：\n\n「汝新於如來，　　獲得無量罪，\n\n　汝謂呼如來，　　受諸苦惱耶？」\n\n時，魔波旬作是言：「瞿曇！更入聚落，當令得食。」\n\n爾時，世尊而說偈言：\n\n「正使無所有，　　安樂而自活，\n\n　如彼光音天，　　常以欣悅食。\n\n　正使無所有，　　安樂而自活，\n\n　常以欣悅食，　　不依於有身。」\n\n時，魔波旬作是念：「沙門瞿曇已知我心。」內懷憂慼，即沒不現。",
+  "english_sa_text": "",
+  "parallels": [
+    {
+      "uid": "ea45.4",
+      "acronym": "EA 45.4",
+      "root_lang": "lzh",
+      "original_title": "",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "sn4.18",
+      "acronym": "SN 4.18",
+      "root_lang": "pli",
+      "original_title": "Piṇḍasutta",
+      "translated_title": "Alms",
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    }
+  ],
+  "primary_sn_uid": "sn4.18",
+  "pali_text": "Ekaṁ samayaṁ bhagavā magadhesu viharati pañcasālāyaṁ brāhmaṇagāme. Tena kho pana samayena pañcasālāyaṁ brāhmaṇagāme kumārikānaṁ pāhunakāni bhavanti. Atha kho bhagavā pubbaṇhasamayaṁ nivāsetvā pattacīvaramādāya pañcasālaṁ brāhmaṇagāmaṁ piṇḍāya pāvisi. Tena kho pana samayena pañcasāleyyakā brāhmaṇagahapatikā mārena pāpimatā anvāviṭṭhā bhavanti: “mā samaṇo gotamo piṇḍamalatthā”ti. Atha kho bhagavā yathādhotena pattena pañcasālaṁ brāhmaṇagāmaṁ piṇḍāya pāvisi tathādhotena pattena paṭikkami. Atha kho māro pāpimā yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṁ etadavoca: “api tvaṁ, samaṇa, piṇḍamalatthā”ti? “Tathā nu tvaṁ, pāpima, akāsi yathāhaṁ piṇḍaṁ na labheyyan”ti. “Tena hi, bhante, bhagavā dutiyampi pañcasālaṁ brāhmaṇagāmaṁ piṇḍāya pavisatu. Tathāhaṁ karissāmi yathā bhagavā piṇḍaṁ lacchatī”ti. “Apuññaṁ pasavi māro, āsajja naṁ tathāgataṁ; Kiṁ nu maññasi pāpima, na me pāpaṁ vipaccati. Susukhaṁ vata jīvāma, yesaṁ no natthi kiñcanaṁ; Pītibhakkhā bhavissāma, devā ābhassarā yathā”ti. Atha kho māro pāpimā “jānāti maṁ bhagavā, jānāti maṁ sugato”ti dukkhī dummano tatthevantaradhāyīti.",
+  "english_sn_text": "At one time the Buddha was staying in the land of the Magadhans near the brahmin village of Pañcasālā. Now at that time in Pañcasālā the young maidens were occupied with guests. Then the Buddha robed up in the morning and, taking his bowl and robe, entered Pañcasālā for alms. Now at that time Māra had possessed the brahmins and householders of Pañcasālā, so that they thought, “Don’t let the ascetic Gotama get any alms!” Then the Buddha left the village with his bowl as clean-washed as it was when he entered for alms. Then Māra the Wicked went up to the Buddha and said to him, “Well, ascetic, did you get any alms?” “Wicked One, did you make sure I didn’t get any alms?” “Well then, sir, let the Buddha enter Pañcasālā a second time for alms. I’ll make sure you get alms.” “Māra has produced wickedness in attacking the Realized One. Wicked One, do you imagine that your wickedness won’t bear fruit? Let us live so very happily, we who have nothing. We shall feed on rapture, like the gods of sublime luminosity.” Then Māra the Wicked, thinking, “The Buddha knows me! The Holy One knows me!” miserable and sad, vanished right there.",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa1001-1100/sa1095_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa1001-1100/sa1095_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛住娑罗婆罗门聚落。\n世尊晨朝著衣持钵，入聚落乞食。时魔扰乱信心婆罗门、居士，令佛空钵而出。魔追后问：「沙门！得食不？」佛知是魔，言：「波旬扰如来，汝谓如来当受诸苦恼耶？」魔言：「可更入聚落，我当令得食。」佛说偈：「我等虽无物，安乐而自活；如光音诸天，常以喜为食。不以有身故，而求于饮食。」\n时魔波旬作是念：「沙门已知我心。」内怀忧慼，即没不现。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在娑罗婆罗门聚落。\n世尊清晨披衣持钵，进聚落乞食。那时魔扰乱有信心的婆罗门和居士，使佛空着钵出来。魔跟在后面问：「沙门！讨到食物没有？」佛知道是魔，说：「波旬扰乱如来，你以为如来会因此受诸苦恼吗？」魔说：「可以再进聚落，我会让你得到食物。」佛说偈：「我们即使一无所有，也能安乐过活；像光音天一样，常以喜乐为食。并不因为有这个身体，就去追求饮食。」\n那时魔波旬心里想：「沙门已经知道我的心。」内心忧恼，随即隐没不见。",
+  "notes": "本经 SC 平行表所列平行及 `raw_aligned_data.json` 内之巴利本文、Sujato 英译并用以厘定法义；求那跋陀罗汉本用于定位经文与传统术语。confidence=high：SN4.18；据巴利：空钵而出、魔先扰施主，非仅「先入其舍」；偈以喜食（pīti）如光音天为骨。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "high",
+  "prior_review_status": "needs_revision",
+  "similarity_to_source": 0.143,
+  "paragraph_parallel": true
+}

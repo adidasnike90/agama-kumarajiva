@@ -1,0 +1,234 @@
+{
+  "id": "SA_747",
+  "uid": "sa747",
+  "title": "雜阿含經  卷第二十九  覺支相應  （747）  無常",
+  "chinese_text": "如是我聞：\n\n一時，佛住舍衛國祇樹給孤獨園。\n\n爾時，世尊告諸比丘：「若比丘修無常想，多修習已，得大果大福利。云何比丘修無常想，多修習已，得大果大福利？是比丘心口與無常想俱，修念覺分，依遠離、依無欲、依滅、向於捨；乃至得捨覺分，依遠離、依無欲、依滅、向於捨。」\n\n佛說此經已，諸比丘聞佛所說，歡喜奉行。\n\n如無常想，如是無常苦想、苦無我想、觀食想、一切世間不可樂想、盡想、斷想、無欲想、滅想、患想、不淨想、青瘀想、膿潰想、膖脹想、壞想、食不盡想、血想、分離想、骨想、空想，一一經如上說。",
+  "english_sa_text": "",
+  "parallels": [
+    {
+      "uid": "sn46.66",
+      "acronym": "SN 46.66",
+      "root_lang": "pli",
+      "original_title": "Ānāpānasutta",
+      "translated_title": "Inbreathing and Outbreathing",
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "sn46.57",
+      "acronym": "SN 46.57",
+      "root_lang": "pli",
+      "original_title": "Aṭṭhikamahapphalasutta",
+      "translated_title": "The Skeleton",
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "sn46.58",
+      "acronym": "SN 46.58",
+      "root_lang": "pli",
+      "original_title": "Puḷavakasutta",
+      "translated_title": "Worm-Eaten",
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "sn46.59",
+      "acronym": "SN 46.59",
+      "root_lang": "pli",
+      "original_title": "Vinīlakasutta",
+      "translated_title": "Discoloured",
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "sn46.60",
+      "acronym": "SN 46.60",
+      "root_lang": "pli",
+      "original_title": "Vicchiddakasutta",
+      "translated_title": "The Fissured",
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "sn46.61",
+      "acronym": "SN 46.61",
+      "root_lang": "pli",
+      "original_title": "Uddhumātakasutta",
+      "translated_title": "The Inflated",
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "sn46.62",
+      "acronym": "SN 46.62",
+      "root_lang": "pli",
+      "original_title": "Mettāsutta",
+      "translated_title": "Goodwill",
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "sn46.63",
+      "acronym": "SN 46.63",
+      "root_lang": "pli",
+      "original_title": "Karuṇāsutta",
+      "translated_title": "Compassion",
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "sn46.64",
+      "acronym": "SN 46.64",
+      "root_lang": "pli",
+      "original_title": "Muditāsutta",
+      "translated_title": "Sympathy",
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "sn46.65",
+      "acronym": "SN 46.65",
+      "root_lang": "pli",
+      "original_title": "Upekkhāsutta",
+      "translated_title": "Equanimity",
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "sn46.76",
+      "acronym": "SN 46.76",
+      "root_lang": "pli",
+      "original_title": "Nirodhasutta",
+      "translated_title": "Cessation",
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "sn46.67",
+      "acronym": "SN 46.67",
+      "root_lang": "pli",
+      "original_title": "Asubhasutta",
+      "translated_title": "The Foul",
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "sn46.68",
+      "acronym": "SN 46.68",
+      "root_lang": "pli",
+      "original_title": "Maraṇasutta",
+      "translated_title": "Death",
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "sn46.69",
+      "acronym": "SN 46.69",
+      "root_lang": "pli",
+      "original_title": "Āhārepaṭikūlasutta",
+      "translated_title": "The Repulsive",
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "sn46.70",
+      "acronym": "SN 46.70",
+      "root_lang": "pli",
+      "original_title": "Anabhiratisutta",
+      "translated_title": "Distaste (or All the World)",
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "sn46.71",
+      "acronym": "SN 46.71",
+      "root_lang": "pli",
+      "original_title": "Aniccasutta",
+      "translated_title": "Impermanent",
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "sn46.72",
+      "acronym": "SN 46.72",
+      "root_lang": "pli",
+      "original_title": "Dukkhasutta",
+      "translated_title": "Ill",
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "sn46.73",
+      "acronym": "SN 46.73",
+      "root_lang": "pli",
+      "original_title": "Anattasutta",
+      "translated_title": "Not Self",
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "sn46.74",
+      "acronym": "SN 46.74",
+      "root_lang": "pli",
+      "original_title": "Pahānasutta",
+      "translated_title": "Abandoning",
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "sn46.75",
+      "acronym": "SN 46.75",
+      "root_lang": "pli",
+      "original_title": "Virāgasutta",
+      "translated_title": "Dispassion",
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    }
+  ],
+  "primary_sn_uid": "sn46.57",
+  "pali_text": "Sāvatthinidānaṁ. “Aṭṭhikasaññā, bhikkhave, bhāvitā bahulīkatā mahapphalā hoti mahānisaṁsā. Kathaṁ bhāvitā ca, bhikkhave, aṭṭhikasaññā kathaṁ bahulīkatā mahapphalā hoti mahānisaṁsā? Idha, bhikkhave, bhikkhu aṭṭhikasaññāsahagataṁ satisambojjhaṅgaṁ bhāveti vivekanissitaṁ virāganissitaṁ nirodhanissitaṁ vossaggapariṇāmiṁ …pe… aṭṭhikasaññāsahagataṁ upekkhāsambojjhaṅgaṁ bhāveti vivekanissitaṁ virāganissitaṁ nirodhanissitaṁ vossaggapariṇāmiṁ. Evaṁ bhāvitā kho, bhikkhave, aṭṭhikasaññā evaṁ bahulīkatā mahapphalā hoti mahānisaṁsā”ti. Aññataraphalasutta “Aṭṭhikasaññāya, bhikkhave, bhāvitāya bahulīkatāya dvinnaṁ phalānaṁ aññataraṁ phalaṁ pāṭikaṅkhaṁ—diṭṭheva dhamme aññā, sati vā upādisese anāgāmitā. Kathaṁ bhāvitāya ca kho, bhikkhave, aṭṭhikasaññāya kathaṁ bahulīkatāya dvinnaṁ phalānaṁ aññataraṁ phalaṁ pāṭikaṅkhaṁ—diṭṭheva dhamme aññā, sati vā upādisese anāgāmitā? Idha, bhikkhave, bhikkhu aṭṭhikasaññāsahagataṁ satisambojjhaṅgaṁ bhāveti …pe… aṭṭhikasaññāsahagataṁ upekkhāsambojjhaṅgaṁ bhāveti vivekanissitaṁ virāganissitaṁ nirodhanissitaṁ vossaggapariṇāmiṁ. Evaṁ bhāvitāya kho, bhikkhave, aṭṭhikasaññāya evaṁ bahulīkatāya dvinnaṁ phalānaṁ aññataraṁ phalaṁ pāṭikaṅkhaṁ—diṭṭheva dhamme aññā, sati vā upādisese anāgāmitā”ti. Mahatthasutta “Aṭṭhikasaññā, bhikkhave, bhāvitā bahulīkatā mahato atthāya saṁvattati. Kathaṁ bhāvitā ca, bhikkhave, aṭṭhikasaññā kathaṁ bahulīkatā mahato atthāya saṁvattati? Idha, bhikkhave, bhikkhu aṭṭhikasaññāsahagataṁ satisambojjhaṅgaṁ bhāveti …pe… aṭṭhikasaññāsahagataṁ upekkhāsambojjhaṅgaṁ bhāveti vivekanissitaṁ virāganissitaṁ nirodhanissitaṁ vossaggapariṇāmiṁ. Evaṁ bhāvitā kho, bhikkhave, aṭṭhikasaññā evaṁ bahulīkatā mahato atthāya saṁvattatī”ti. Yogakkhemasutta “Aṭṭhikasaññā, bhikkhave, bhāvitā bahulīkatā mahato yogakkhemāya saṁvattati. Kathaṁ bhāvitā ca, bhikkhave, aṭṭhikasaññā kathaṁ bahulīkatā mahato yogakkhemāya saṁvattati? Idha, bhikkhave, bhikkhu aṭṭhikasaññāsahagataṁ satisambojjhaṅgaṁ bhāveti …pe… aṭṭhikasaññāsahagataṁ upekkhāsambojjhaṅgaṁ bhāveti vivekanissitaṁ virāganissitaṁ nirodhanissitaṁ vossaggapariṇāmiṁ. Evaṁ bhāvitā kho, bhikkhave, aṭṭhikasaññā evaṁ bahulīkatā mahato yogakkhemāya saṁvattatī”ti. Saṁvegasutta “Aṭṭhikasaññā, bhikkhave, bhāvitā bahulīkatā mahato saṁvegāya saṁvattati. Kathaṁ bhāvitā ca, bhikkhave, aṭṭhikasaññā kathaṁ bahulīkatā mahato saṁvegāya saṁvattati? Idha, bhikkhave, bhikkhu aṭṭhikasaññāsahagataṁ satisambojjhaṅgaṁ bhāveti …pe… aṭṭhikasaññāsahagataṁ upekkhāsambojjhaṅgaṁ bhāveti vivekanissitaṁ virāganissitaṁ nirodhanissitaṁ vossaggapariṇāmiṁ. Evaṁ bhāvitā kho, bhikkhave, aṭṭhikasaññā evaṁ bahulīkatā mahato saṁvegāya saṁvattatī”ti. Phāsuvihārasutta “Aṭṭhikasaññā, bhikkhave, bhāvitā bahulīkatā mahato phāsuvihārāya saṁvattati. Kathaṁ bhāvitā ca, bhikkhave, aṭṭhikasaññā kathaṁ bahulīkatā mahato phāsuvihārāya saṁvattati? Idha, bhikkhave, bhikkhu aṭṭhikasaññāsahagataṁ satisambojjhaṅgaṁ bhāveti …pe… aṭṭhikasaññāsahagataṁ upekkhāsambojjhaṅgaṁ bhāveti vivekanissitaṁ virāganissitaṁ nirodhanissitaṁ vossaggapariṇāmiṁ. Evaṁ bhāvitā kho, bhikkhave, aṭṭhikasaññā evaṁ bahulīkatā mahato phāsuvihārāya saṁvattatī”ti Paṭhamaṁ.",
+  "english_sn_text": "At Sāvatthī. “Mendicants, when the perception of a skeleton is developed and cultivated it’s very fruitful and beneficial. How so? It’s when a mendicant develops the perception of a skeleton together with the awakening factors of mindfulness, investigation of principles, energy, rapture, tranquility, immersion, and equanimity, which rely on seclusion, fading away, and cessation, and ripen as letting go. That’s how the perception of a skeleton, when developed and cultivated, is very fruitful and beneficial.” “When the perception of a skeleton is developed and cultivated you can expect one of two results: enlightenment in this very life, or if there’s residue left behind, non-return. How so? …” “Mendicants, when the perception of a skeleton is developed and cultivated it leads to great benefit. How so? …” “Mendicants, when the perception of a skeleton is developed and cultivated it leads to great sanctuary from the yoke. How so? …” “Mendicants, when the perception of a skeleton is developed and cultivated it leads to great inspiration. How so? …” “Mendicants, when the perception of a skeleton is developed and cultivated it leads to dwelling in great ease. How so? …”",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa701-800/sa747_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa701-800/sa747_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛住舍卫国祇树给孤独园。\n佛告比丘：「当修无常想，多修习已，得大果大福利。」\n「云何修习？心与无常想俱，修念觉支，依远离、依离欲、依灭、向于舍；择法、精进、喜、轻安、定、舍觉支，亦依远离、依离欲、依灭、向于舍。」\n佛说此经已，诸比丘闻佛所说，欢喜奉行。\n如无常想，如是无常苦想、苦无我想、食厌想、一切世间不可乐想、尽想、断想、离贪想、灭想、患想、不净想，青瘀想、脓烂想、膨胀想、坏想、啖残想、血涂想、离散想、骨想、空想——一一经亦如上说。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在舍卫国祇树给孤独园。\n佛告诉比丘：「应当修无常想，多多修习，能得大果大福利。」\n「怎样修习？心与无常想一起，修念觉支，依于远离、依于离欲、依于灭、而趋向舍；择法、精进、喜、轻安、定、舍觉支，也依于远离、依于离欲、依于灭、而趋向舍。」\n佛说完这部经，比丘们听佛所说，都欢喜奉行。\n像无常想这样，还有无常苦想、苦无我想、对食物的厌想、一切世间不可乐想、尽想、断想、离贪想、灭想、患想、不净想，以及青瘀想、脓烂想、膨胀想、坏想、啖残想、血涂想、离散想、骨想、空想——每一部经也如同上面所说。",
+  "notes": "本经 SC 平行表所列平行及 `raw_aligned_data.json` 内之巴利本文、Sujato 英译并用以厘定法义；求那跋陀罗汉本用于定位经文与传统术语。confidence=high：primary 近 SN46.71 Anicca（及想品 SN46.57–76 同轨）；汉「心口与无常想俱」据 SN 作「心与…俱」。「厌故离贪」：尽／断／离贪／灭诸想从 SN virāga／nirodha 系，不用「厌故不乐」。gold_reconstructed：peyyāla 诸想名目据汉列＋SN 想品校理（食厌、离贪等）。",
+  "review_status": "gold_reconstructed",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "high",
+  "prior_review_status": "needs_revision",
+  "reconstruction_basis": "无常想正文＋peyyāla 诸想名目校理",
+  "similarity_to_source": 0.34,
+  "paragraph_parallel": true
+}

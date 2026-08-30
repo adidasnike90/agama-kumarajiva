@@ -1,0 +1,56 @@
+{
+  "id": "SA_541",
+  "uid": "sa541",
+  "title": "雜阿含經  卷第二十二  阿難相應  （541）  所患",
+  "chinese_text": "如是我聞：\n\n一時，佛住舍衛國祇樹給孤獨園。時，尊者阿那律在舍衛國松林精舍，病差未久。\n\n時，有眾多比丘往詣阿那律所，問訊慰勞已，於一面坐，問尊者阿那律：「安隱樂住不？」\n\n阿那律言：「安隱樂住，身諸苦痛漸已休息。」\n\n諸比丘問尊者阿那律：「住何所住，身諸苦痛得安隱？」\n\n尊者阿那律言：「住四念處，身諸苦痛漸得安隱。何等為四？謂內身身觀念處，乃至法法觀念處，是名四念處。住此四念處故，身諸苦痛漸得休息。」\n\n時，諸正士共論議已，歡喜隨喜，各從座起而去。",
+  "english_sa_text": "",
+  "parallels": [
+    {
+      "uid": "sn52.10",
+      "acronym": "SN 52.10",
+      "root_lang": "pli",
+      "original_title": "Bāḷhagilānasutta",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "sa540",
+      "acronym": "SA 540",
+      "root_lang": "lzh",
+      "original_title": "所患",
+      "translated_title": null,
+      "type": "full",
+      "resembling": true,
+      "remark": null
+    }
+  ],
+  "primary_sn_uid": "sn52.10",
+  "pali_text": "Ekaṁ samayaṁ āyasmā anuruddho sāvatthiyaṁ viharati andhavanasmiṁ ābādhiko dukkhito bāḷhagilāno. Atha kho sambahulā bhikkhū yenāyasmā anuruddho tenupasaṅkamiṁsu; upasaṅkamitvā āyasmantaṁ anuruddhaṁ etadavocuṁ: “Katamenāyasmato anuruddhassa vihārena viharato uppannā sārīrikā dukkhā vedanā cittaṁ na pariyādāya tiṭṭhantī”ti? “Catūsu kho me, āvuso, satipaṭṭhānesu suppatiṭṭhitacittassa viharato uppannā sārīrikā dukkhā vedanā cittaṁ na pariyādāya tiṭṭhanti. Katamesu catūsu? Idhāhaṁ, āvuso, kāye kāyānupassī viharāmi …pe… vedanāsu …pe… citte …pe… dhammesu dhammānupassī viharāmi ātāpī sampajāno satimā, vineyya loke abhijjhādomanassaṁ— imesu kho me, āvuso, catūsu satipaṭṭhānesu suppatiṭṭhitacittassa viharato uppannā sārīrikā dukkhā vedanā cittaṁ na pariyādāya tiṭṭhantī”ti. Dasamaṁ. Rahogatavaggo paṭhamo. Tassuddānaṁ Rahogatena dve vuttā, sutanu kaṇḍakī tayo; Taṇhākkhayasalaḷāgāraṁ, ambapāli ca gilānanti.",
+  "english_sn_text": "At one time Venerable Anuruddha was staying near Sāvatthī in the Dark Forest. And he was sick, suffering, gravely ill. Then several mendicants went up to Venerable Anuruddha, and said to him: “What meditation does Venerable Anuruddha practice so that physical pain doesn’t occupy his mind?” “Reverends, I meditate with my mind firmly established in the four kinds of mindfulness meditation so that physical pain doesn’t occupy my mind. What four? I meditate observing an aspect of the body … feelings … mind … principles—keen, aware, and mindful, rid of covetousness and displeasure for the world. I meditate with my mind firmly established in these four kinds of mindfulness meditation so that physical pain doesn’t occupy my mind.”",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa501-600/sa541_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa501-600/sa541_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛在舍卫国祇树给孤独园。时，阿那律在松林精舍，病差未久。\n有众多比丘往诣阿那律所，问讯慰劳已，于一面坐，问：「安隐乐住不？」\n阿那律言：「安隐乐住，身诸苦痛渐已休息。」\n诸比丘问：「住何所住，身诸苦痛得安隐？」阿那律答：「住四念处，身诸苦痛渐得安隐。何等为四？谓内身身观念处，乃至外身、内外身，内受、外受、内外受，内心、外心、内外心，内法、外法、内外法，是名四念处。住此四念处故，身诸苦痛渐得休息。」\n时，诸正士共论议已，欢喜随喜，各从座起而去。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在舍卫国祇树给孤独园。时，阿那律尊者在舍卫国松林精舍，病差未久。\n有众多比丘往诣阿那律所，问讯慰劳已，于一面坐，问：「安隐乐住不？」\n阿那律言：「安隐乐住，身诸苦痛渐已休息。」\n诸比丘问：「住何所住，身诸苦痛得安隐？」阿那律答：「住四念处，身诸苦痛渐得安隐。何等为四？谓内身身观念处，乃至外身、内外身，内受、外受、内外受，内心、外心、内外心，内法、外法、内外法，是名四念处。住此四念处故，身诸苦痛渐得休息。」\n当时，诸位正士讨论完毕，欢喜随喜，各自从座位起来离去。",
+  "notes": "本经 SC 平行表所列平行及 `raw_aligned_data.json` 内之巴利本文、Sujato 英译并用以厘定法义；求那跋陀罗汉本用于定位经文与传统术语。confidence=high：resembling SN52.10 病愈问讯；汉本为病差版，从汉。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "high",
+  "prior_review_status": "needs_revision",
+  "similarity_to_source": 0.373,
+  "paragraph_parallel": true,
+  "quality_gate_reasons": [
+    "lit_mod_gap=0.119>=0.1"
+  ]
+}

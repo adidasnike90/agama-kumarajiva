@@ -1,0 +1,57 @@
+{
+  "id": "SA_587",
+  "uid": "sa587",
+  "title": "雜阿含經  卷第二十五  天相應  （587）  天女",
+  "chinese_text": "如是我聞：\n\n一時，佛住舍衛國祇樹給孤獨園。\n\n時，有一天子，容色絕妙，於後夜時來詣佛所，稽首佛足，身諸光明遍照祇樹給孤獨園。\n\n時，彼天子而說偈言：\n\n「天女眾圍遶，　　如毘舍脂眾，\n\n　癡惑叢林中，　　何由而得出？」\n\n爾時，世尊說偈答言：\n\n「正直平等道，　　離恐怖之方，\n\n　乘寂默之車，　　法想為密覆，\n\n　慚愧為長縻，　　正念為羈絡，\n\n　智慧善御士，　　正見為前導，\n\n　如是之妙乘，　　男女之所乘，\n\n　出生死叢林，　　逮得安樂處。」\n\n時，彼天子復說偈言：\n\n「久見婆羅門，　　逮得般涅槃，\n\n　一切怖已過，　　永超世恩愛。」\n\n時，彼天子聞佛所說，歡喜隨喜，稽首佛足，即沒不現。",
+  "english_sa_text": "",
+  "parallels": [
+    {
+      "uid": "sa-2.171",
+      "acronym": "SA2 171",
+      "root_lang": "lzh",
+      "original_title": "天女",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "sn1.46",
+      "acronym": "SN 1.46",
+      "root_lang": "pli",
+      "original_title": "Accharāsutta",
+      "translated_title": "Nymphs",
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    }
+  ],
+  "primary_sn_uid": "sn1.46",
+  "pali_text": "“Accharāgaṇasaṅghuṭṭhaṁ, pisācagaṇasevitaṁ; Vanantaṁ mohanaṁ nāma, kathaṁ yātrā bhavissatī”ti. “Ujuko nāma so maggo, abhayā nāma sā disā; Ratho akūjano nāma, dhammacakkehi saṁyuto. Hirī tassa apālambo, satyassa parivāraṇaṁ; Dhammāhaṁ sārathiṁ brūmi, sammādiṭṭhipurejavaṁ. Yassa etādisaṁ yānaṁ, itthiyā purisassa vā; Sa ve etena yānena, nibbānasseva santike”ti.",
+  "english_sn_text": "“It’s resounding with a group of nymphs, but haunted by a gang of goblins! This grove is called ‘Deluding’. How will I keep going?” “That path is called ‘the direct way’, and it’s headed for the place called ‘fearless’. The chariot is called ‘unswerving’, fitted with wheels of the teaching. Conscience is its bench-back, mindfulness its upholstery. I say the teaching is the driver, with right view running out in front. Any woman or man who has such a vehicle, by means of this vehicle has drawn near to extinguishment.”",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa501-600/sa587_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa501-600/sa587_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛在舍卫国祇树给孤独园。时，有一天子容色绝妙，于后夜时来诣佛所，稽首佛足，身诸光明遍照祇树给孤独园。\n时，彼天子说偈言：「天女众围绕，如脂王众中，痴林何得出？」\n尔时，世尊说偈答言：「正直平等道，离怖寂默车，法想为覆盖，惭愧为长縻，正念为羁络，智为善御士，正见为前导；男女乘此乘，出生死林野，得至安乐处。」\n时，彼天子复说偈言：「久见婆罗门，逮得般涅槃，一切怖已过，永超世恩爱。」\n时，彼天子闻佛所说，欢喜随喜，稽首佛足，即没不现。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在舍卫国祇树给孤独园。当时，有一位天子容色绝妙，在后夜来到佛处，顶礼佛足，身放光明遍照祇树给孤独园。\n天子说偈言：「天女众围绕，如脂王众中，痴林何得出？」\n世尊说偈答：「正直平等道，离怖寂默车，法想为覆盖，惭愧为长縻，正念为羁络，智为善御士，正见为前导；男女乘此乘，出生死林野，得至安乐处。」\n天子又说偈：「久见婆罗门，逮得般涅槃，一切怖惧已过，永超世间恩爱。」\n当时，那位天子听佛所说，欢喜随喜，顶礼佛足，随即消失。",
+  "notes": "本经 SC 平行表所列平行及 `raw_aligned_data.json` 内之巴利本文、Sujato 英译并用以厘定法义；求那跋陀罗汉本用于定位经文与传统术语。confidence=high：primary SN1.46（妙乘喻出生死丛林）。据 SN 校正：vehicle 诸喻压缩，从巴利。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "high",
+  "prior_review_status": "needs_revision",
+  "similarity_to_source": 0.35,
+  "paragraph_parallel": true,
+  "quality_gate_reasons": [
+    "sim_lit=0.502>=0.5",
+    "lit_mod_gap=0.103>=0.1"
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "id": "SA_729",
+  "uid": "sa729",
+  "title": "雜阿含經  卷第二十九  覺支相應  （729）  滅",
+  "chinese_text": "如是我聞：\n\n一時，佛住舍衛國祇樹給孤獨園。\n\n爾時，世尊告諸比丘：「當修七覺分。何等為修七覺分？謂念覺分，乃至捨覺分，若比丘修念覺分，依遠離、依無欲、依滅、向於捨。如是修擇法、精進、喜、猗、定、捨覺分，依遠離、依無欲、依滅、向於捨。」\n\n佛說此經已，諸比丘聞佛所說，歡喜奉行。",
+  "english_sa_text": "",
+  "parallels": [
+    {
+      "uid": "sn46.27",
+      "acronym": "SN 46.27",
+      "root_lang": "pli",
+      "original_title": "Taṇhānirodhasutta",
+      "translated_title": "The Cessation of Craving",
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    }
+  ],
+  "primary_sn_uid": "sn46.27",
+  "pali_text": "“Yo, bhikkhave, maggo yā paṭipadā taṇhānirodhāya saṁvattati, taṁ maggaṁ taṁ paṭipadaṁ bhāvetha. Katamo ca, bhikkhave, maggo katamā ca paṭipadā taṇhānirodhāya saṁvattati? Yadidaṁ— satta bojjhaṅgā. Katame satta? Satisambojjhaṅgo …pe… upekkhāsambojjhaṅgo. Kathaṁ bhāvitā ca, bhikkhave, satta bojjhaṅgā kathaṁ bahulīkatā taṇhānirodhāya saṁvattanti? Idha, bhikkhave, bhikkhu satisambojjhaṅgaṁ bhāveti vivekanissitaṁ virāganissitaṁ nirodhanissitaṁ vossaggapariṇāmiṁ …pe… upekkhāsambojjhaṅgaṁ bhāveti vivekanissitaṁ virāganissitaṁ nirodhanissitaṁ vossaggapariṇāmiṁ. Evaṁ bhāvitā kho, bhikkhave, satta bojjhaṅgā evaṁ bahulīkatā taṇhānirodhāya saṁvattantī”ti. Sattamaṁ.",
+  "english_sn_text": "“Mendicants, you should develop the path and the practice that leads to the cessation of craving. And what is the path and the practice that leads to the cessation of craving? It is the seven awakening factors. What seven? The awakening factors of mindfulness, investigation of principles, energy, rapture, tranquility, immersion, and equanimity. And how are the seven awakening factors developed and cultivated so as to lead to the cessation of craving? It’s when a mendicant develops the awakening factors of mindfulness, investigation of principles, energy, rapture, tranquility, immersion, and equanimity, which rely on seclusion, fading away, and cessation, and ripen as letting go. This is how the seven awakening factors are developed and cultivated so as to lead to the cessation of craving.”",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa701-800/sa729_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa701-800/sa729_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛住舍卫国祇树给孤独园。\n佛告比丘：「当修七觉支——念觉支、择法觉支、精进觉支、喜觉支、轻安觉支、定觉支、舍觉支。修念觉支，依远离、依离欲、依灭、向于舍；择法、精进、喜、轻安、定、舍，亦复如是。如是修习，能趣爱尽。」\n佛说此经已，诸比丘闻佛所说，欢喜奉行。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在舍卫国祇树给孤独园。\n佛告诉比丘：「应当修七觉支——念觉支、择法觉支、精进觉支、喜觉支、轻安觉支、定觉支、舍觉支。修念觉支，依于远离、依于离欲、依于灭、而趋向舍；择法、精进、喜、轻安、定、舍，也是一样。这样修习，能趋向爱的尽灭。」\n佛说完这部经，比丘们听佛所说，都欢喜奉行。",
+  "notes": "本经 SC 平行表所列平行及 `raw_aligned_data.json` 内之巴利本文、Sujato 英译并用以厘定法义；求那跋陀罗汉本用于定位经文与传统术语。confidence=high：primary SN46.27 Taṇhānirodha（七觉支→渴爱灭）。据 SN 点明「爱尽」；汉仅列依远离等。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "high",
+  "prior_review_status": "needs_revision",
+  "similarity_to_source": 0.258,
+  "paragraph_parallel": true
+}

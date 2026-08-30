@@ -1,0 +1,33 @@
+{
+  "id": "SA_757",
+  "uid": "sa757",
+  "title": "雜阿含經  卷第二十九  聖道分相應  （757）  受",
+  "chinese_text": "如上三經。如是佛問諸比丘三經亦如是說。",
+  "english_sa_text": "",
+  "parallels": [],
+  "primary_sn_uid": null,
+  "pali_text": "",
+  "english_sn_text": "",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa701-800/sa757_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa701-800/sa757_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛住舍卫国祇树给孤独园。\n佛告比丘：「有三受——乐受、苦受、不苦不乐受，皆无常、有为、心所缘生。欲断此三受，当修八圣道——正见、正志、正语、正业、正命、正方便、正念、正定。」\n佛说此经已，诸比丘闻佛所说，欢喜奉行。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在舍卫国祇树给孤独园。\n佛告诉比丘：「有三种受——乐受、苦受、不苦不乐受，都是无常、有为、由心所缘而生。想断这三种受，应当修八圣道——正见、正志、正语、正业、正命、正方便、正念、正定。」\n佛说完这部经，比丘们听佛所说，都欢喜奉行。",
+  "notes": "本经 SC 平行表所列平行及 `raw_aligned_data.json` 内之巴利本文、Sujato 英译并用以厘定法义；求那跋陀罗汉本用于定位经文与传统术语。confidence=medium：gold_reconstructed——底本仅「如上三经…」peyyāla；题名「受」，据 SA_759／SN45.29 三受＋八支道纲略说。",
+  "review_status": "gold_reconstructed",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "medium",
+  "prior_review_status": "needs_revision",
+  "reconstruction_basis": "peyyāla「如上三经」＋题「受」→ SA_759／SN45.29 三受纲",
+  "similarity_to_source": 0.007,
+  "paragraph_parallel": true
+}

@@ -1,0 +1,83 @@
+{
+  "id": "SA_452",
+  "uid": "sa452",
+  "title": "雜阿含經  卷第十八  界相應  （452）  觸",
+  "chinese_text": "如是我聞：\n\n一時，佛住舍衛國祇樹給孤獨園。\n\n爾時，世尊告諸比丘：「緣種種界生種種觸，緣種種觸生種種受，緣種種受生種種愛。云何種種界？謂十八界，眼界、色界、眼識界，乃至意界、法界、意識界，是名種種界。\n\n「云何緣種種界生種種觸，乃至云何緣種種受生種種愛？謂緣眼界生眼觸，緣眼觸生眼觸生受，緣眼觸生受生眼觸生愛。耳、鼻、舌、身、意界緣生意觸，緣意觸生意觸生受，緣意觸生受生意觸生愛。\n\n「諸比丘！非緣種種愛生種種受，非緣種種受生種種觸，非緣種種觸生種種界，要緣種種界生種種觸，緣種種觸生種種受，緣種種受生種種愛，是名比丘緣種種界生種種觸，緣種種觸生種種受，緣種種受生種種愛。」\n\n佛說此經已，諸比丘聞佛所說，歡喜奉行。",
+  "english_sa_text": "",
+  "parallels": [
+    {
+      "uid": "sn14.6",
+      "acronym": "SN 14.6",
+      "root_lang": "pli",
+      "original_title": "Bāhiradhātunānattasutta",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "sn14.5",
+      "acronym": "SN 14.5",
+      "root_lang": "pli",
+      "original_title": "Dutiyavedanānānattasutta",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "sn14.4",
+      "acronym": "SN 14.4",
+      "root_lang": "pli",
+      "original_title": "Vedanānānattasutta",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "sn14.3",
+      "acronym": "SN 14.3",
+      "root_lang": "pli",
+      "original_title": "Nophassanānattasutta",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "sn14.2",
+      "acronym": "SN 14.2",
+      "root_lang": "pli",
+      "original_title": "Phassanānattasutta",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    }
+  ],
+  "primary_sn_uid": "sn14.2",
+  "pali_text": "Sāvatthiyaṁ viharati. “Dhātunānattaṁ, bhikkhave, paṭicca uppajjati phassanānattaṁ. Katamañca, bhikkhave, dhātunānattaṁ? Cakkhudhātu sotadhātu ghānadhātu jivhādhātu kāyadhātu manodhātu— idaṁ vuccati, bhikkhave, dhātunānattaṁ. Kathañca, bhikkhave, dhātunānattaṁ paṭicca uppajjati phassanānattaṁ? Cakkhudhātuṁ, bhikkhave, paṭicca uppajjati cakkhusamphasso. Sotadhātuṁ paṭicca … ghānadhātuṁ paṭicca … jivhādhātuṁ paṭicca … kāyadhātuṁ paṭicca … manodhātuṁ paṭicca uppajjati manosamphasso. Evaṁ kho, bhikkhave, dhātunānattaṁ paṭicca uppajjati phassanānattan”ti. Dutiyaṁ.",
+  "english_sn_text": "At Sāvatthī. “Mendicants, diversity of elements gives rise to diversity of contacts. And what is the diversity of elements? The eye element, ear element, nose element, tongue element, body element, and mind element. This is called the diversity of elements. And how does diversity of elements give rise to diversity of contacts? The eye element gives rise to eye contact. The ear element … nose … tongue … body … The mind element gives rise to mind contact. That’s how diversity of elements gives rise to diversity of contacts.”",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa401-500/sa452_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa401-500/sa452_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛在舍卫国祇树给孤独园。\n尔时，世尊告诸比丘：「缘种种界生种种触，缘种种触生种种受，缘种种受生种种爱。云何种种界？谓十八界——眼界、色界、眼识界，耳界、声界、耳识界，鼻界、香界、鼻识界，舌界、味界、舌识界，身界、触界、身识界，意界、法界、意识界，是名种种界。云何缘种种界生种种触，乃至缘种种受生种种爱？缘眼界生眼触，缘眼触生眼受，缘眼受生眼爱；耳、鼻、舌、身、意界亦复如是——缘意界生意触，缘意触生意受，缘意受生意爱。诸比丘！非缘种种爱生种种受，非缘种种受生种种触，非缘种种触生种种界；要缘种种界生种种触，缘种种触生种种受，缘种种受生种种爱。」\n佛说此经已，诸比丘闻佛所说，欢喜奉行。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在舍卫国祇树给孤独园。\n那时，世尊告诉比丘们：「缘种种界生种种触，缘种种触生种种受，缘种种受生种种爱。什么是种种界？就是十八界——眼界、色界、眼识界，耳界、声界、耳识界，鼻界、香界、鼻识界，舌界、味界、舌识界，身界、触界、身识界，意界、法界、意识界，这叫做种种界。怎样缘种种界生种种触，乃至缘种种受生种种爱？缘眼界生眼触，缘眼触生眼受，缘眼受生眼爱；耳、鼻、舌、身、意界也是这样——缘意界生意触，缘意触生意受，缘意受生意爱。诸比丘！并不是缘种种爱生种种受，也不是缘种种受生种种触，更不是缘种种触生种种界；一定是缘种种界生种种触，缘种种触生种种受，缘种种受生种种爱。」\n佛说完这部经，比丘们听佛所说，都欢喜奉行。",
+  "notes": "本经 SC 平行表所列平行及 `raw_aligned_data.json` 内之巴利本文、Sujato 英译并用以厘定法义；求那跋陀罗汉本用于定位经文与传统术语。confidence=high：primary SN14.2 Phassanānatta（及同品 14.3–6 系）。信：校正汉『眼触生眼触生受』叠床；顺缘起作触→受→爱。SA 广于 SN14.2（仅触），并及受爱——义不违，保留汉链而润饰。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "high",
+  "prior_review_status": "needs_revision",
+  "similarity_to_source": 0.329,
+  "paragraph_parallel": true
+}

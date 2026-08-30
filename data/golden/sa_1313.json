@@ -1,0 +1,63 @@
+{
+  "id": "SA_1313",
+  "uid": "sa1313",
+  "title": "雜阿含經  卷第五十  雜相應  （1313）  實智",
+  "chinese_text": "如是我聞：\n\n一時，佛住舍衛國祇樹給孤獨園。\n\n時，有迦摩天子，容色絕妙，於後夜時來詣佛所，稽首佛足，身諸光明遍照祇樹給孤獨園。\n\n時，迦摩天子白佛言：「甚難！世尊！甚難！善逝！」\n\n爾時，世尊說偈答言：\n\n「所學為甚難，　　具足戒三昧，\n\n　遠離於非家，　　閑居寂靜樂。」\n\n迦摩天子白佛言：「世尊！靜默甚難得！」\n\n爾時，世尊說偈答言：\n\n「得所難得學，　　具足戒三昧，\n\n　晝夜常專精，　　修習意所樂。」\n\n迦摩天子白佛言：「世尊！正受心難得！」\n\n爾時，世尊說偈答言：\n\n「難住正受住，　　諸根心決定，\n\n　能斷死魔縻，　　聖者隨欲進。」\n\n迦摩天子復白佛言：「世尊！嶮道甚難行！」\n\n爾時，世尊說偈答言：\n\n「難涉之嶮道，　　當行安樂進，\n\n　非聖墮於彼，　　足上頭向下。\n\n　賢聖乘正直，　　嶮路自然平。」\n\n佛說此經已，迦摩天子聞佛所說，歡喜隨喜，稽首佛足，即沒不現。",
+  "english_sa_text": "",
+  "parallels": [
+    {
+      "uid": "sa-2.312",
+      "acronym": "SA2 312",
+      "root_lang": "lzh",
+      "original_title": "實智",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "sn2.6",
+      "acronym": "SN 2.6",
+      "root_lang": "pli",
+      "original_title": "Kāmadasutta",
+      "translated_title": "The Discourse to Kāmada",
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "ne37",
+      "acronym": "Ne 37",
+      "root_lang": "pli",
+      "original_title": "Sāsanapaṭṭhāna",
+      "translated_title": "Chapter iv The Pattern Of The Dispensation",
+      "type": "mention",
+      "resembling": false,
+      "remark": null
+    }
+  ],
+  "primary_sn_uid": "sn2.6",
+  "pali_text": "Sāvatthinidānaṁ. Ekamantaṁ ṭhito kho kāmado devaputto bhagavantaṁ etadavoca: “dukkaraṁ, bhagavā, sudukkaraṁ, bhagavā”ti. “Dukkaraṁ vāpi karonti, (kāmadāti bhagavā) Sekhā sīlasamāhitā; Ṭhitattā anagāriyupetassa, Tuṭṭhi hoti sukhāvahā”ti. “Dullabhā, bhagavā, yadidaṁ tuṭṭhī”ti. “Dullabhaṁ vāpi labhanti, (kāmadāti bhagavā) Cittavūpasame ratā; Yesaṁ divā ca ratto ca, Bhāvanāya rato mano”ti. “Dussamādahaṁ, bhagavā, yadidaṁ cittan”ti. “Dussamādahaṁ vāpi samādahanti, (kāmadāti bhagavā) Indriyūpasame ratā; Te chetvā maccuno jālaṁ, Ariyā gacchanti kāmadā”ti. “Duggamo, bhagavā, visamo maggo”ti. “Duggame visame vāpi, Ariyā gacchanti kāmada; Anariyā visame magge, Papatanti avaṁsirā; Ariyānaṁ samo maggo, Ariyā hi visame samā”ti.",
+  "english_sn_text": "At Sāvatthī. Standing to one side, the godling Kāmada said to the Buddha, “It’s too hard, Blessed One! It’s just too hard!” “They do it even though it’s hard,” said the Buddha to Kāmada, “the stable trainees with ethics, and immersion. For one who has entered the homeless life, contentment brings happiness.” “Such contentment, Blessed One, is hard to find.” “They find it even though it’s hard,” said the Buddha to Kāmada, “those who love to settle the mind; whose minds love to meditate day and night.” “But it’s hard, Blessed One, to immerse this mind in samādhi.” “They become immersed in samādhi even though it’s hard,” said the Buddha to Kāmada, “those who love calming the faculties. Having cut through the net of Death, the noble ones, Kāmada, go on their way.” “But this path, Blessed One, is rough and hard to travel.” “Though it’s rough, hard to travel, the noble ones, Kāmada, go on their way. The ignoble fall headfirst on a rough path. But the path of the noble ones is smooth, for the noble ones are smooth amid the rough.”",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa1301-1400/sa1313_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa1301-1400/sa1313_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛住舍卫国祇树给孤独园。\n后夜分，迦摩天子容色绝妙，来诣佛所，稽首礼足；身诸光明遍照祇园。\n天子白佛：「甚难！世尊！甚难！」佛说偈：「虽难，有学具戒定者犹能作；已入非家、心安住者，知足能生乐。」\n天子言：「知足甚难得！」佛说偈：「虽难得，乐于心寂者犹能得；昼夜意乐于修习。」\n天子言：「心难令正受！」佛说偈：「虽难定，乐于诸根寂者犹能定；已断死罗网，圣者随所欲行。」\n天子言：「险道甚难行！」佛说偈：「险而不平之道，圣者犹能行；非圣于险道头足倒置而堕。圣者之道路平，以圣者于不平处能平。」\n时彼天子闻佛所说，欢喜随喜，稽首佛足，即没不现。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在舍卫国祇树给孤独园。\n后夜分，名叫迦摩的天子容色绝妙，来到佛前，顶礼佛足；身上光明遍照祇园。\n天子对佛说：「太难了！世尊！太难了！」佛说偈：「虽然难，具戒定的有学者还是能做到；已出家、心安住的人，知足能带来乐。」\n天子说：「知足很难得！」佛说偈：「虽然难得，乐于让心寂静的人还是能得到；昼夜心意都乐于修习。」\n天子说：「心很难入定！」佛说偈：「虽然难定，乐于诸根寂静的人还是能定；斩断了死神的网，圣者便随愿而行。」\n天子说：「这条险路很难走！」佛说偈：「路虽险不平，圣者还是走得通；非圣在险路上头朝下栽下去。圣者的路是平的，因为圣者在不平处也能走平。」\n那时天子听佛所说，欢喜随喜，顶礼佛足，随即隐没不见。",
+  "notes": "本经 SC 平行表所列平行及 `raw_aligned_data.json` 内之巴利本文、Sujato 英译并用以厘定法义；求那跋陀罗汉本用于定位经文与传统术语。confidence=high：primary SN2.6 Kāmadasutta。据 SN 校正：tuṭṭhi＝知足（汉「静默」偏）；cittavūpasama／indriyūpasama；死网＝maccuno jāla；圣者于 visama 而 samo。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "high",
+  "prior_review_status": "needs_revision",
+  "similarity_to_source": 0.103,
+  "paragraph_parallel": true
+}

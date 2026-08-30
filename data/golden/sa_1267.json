@@ -1,0 +1,64 @@
+{
+  "id": "SA_1267",
+  "uid": "sa1267",
+  "title": "雜阿含經  卷第五十  雜相應  （1267）  濟度",
+  "chinese_text": "如是我聞：\n\n一時，佛住舍衛國祇樹給孤獨園。\n\n時，有一天子，容色絕妙，於後夜時來詣佛所，稽首佛足，退坐一面。身諸光明遍照祇樹給孤獨園。\n\n時，彼天子白佛言：「世尊！比丘！比丘度駛流耶？」\n\n佛言：「如是，天子！」\n\n天子復問：「無所攀緣，亦無所住，度駛流耶？」\n\n佛言：「如是，天子！」\n\n天子復問：「無所攀緣，亦無所住而度駛流，其義云何？」\n\n佛言：「天子！我如是如是抱，如是如是直進，則不為水之所漂。如是如是不抱。如是如是不直進，則為水所漂。如是，天子！名為無所攀緣，亦無所住而度駛流。」\n\n時，彼天子復說偈言：\n\n「久見婆羅門，　　逮得般涅槃，\n\n　一切怖已過，　　永超世恩愛。」\n\n時，彼天子聞佛所說，歡喜隨喜，稽首佛足，即沒不現。",
+  "english_sa_text": "",
+  "parallels": [
+    {
+      "uid": "sa-2.180",
+      "acronym": "SA2 180",
+      "root_lang": "lzh",
+      "original_title": "濟度",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "sn1.1",
+      "acronym": "SN 1.1",
+      "root_lang": "pli",
+      "original_title": "Oghataraṇasutta",
+      "translated_title": "Crossing the Flood",
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "sag",
+      "acronym": "Sag",
+      "root_lang": "san",
+      "original_title": "Śarīrārthagāthā",
+      "translated_title": null,
+      "type": "full",
+      "resembling": true,
+      "remark": null
+    }
+  ],
+  "primary_sn_uid": "sn1.1",
+  "pali_text": "Evaṁ me sutaṁ— ekaṁ samayaṁ bhagavā sāvatthiyaṁ viharati jetavane anāthapiṇḍikassa ārāme. Atha kho aññatarā devatā abhikkantāya rattiyā abhikkantavaṇṇā kevalakappaṁ jetavanaṁ obhāsetvā yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṁ abhivādetvā ekamantaṁ aṭṭhāsi. Ekamantaṁ ṭhitā kho sā devatā bhagavantaṁ etadavoca: “kathaṁ nu tvaṁ, mārisa, oghamatarī”ti? “Appatiṭṭhaṁ khvāhaṁ, āvuso, anāyūhaṁ oghamatarin”ti. “Yathākathaṁ pana tvaṁ, mārisa, appatiṭṭhaṁ anāyūhaṁ oghamatarī”ti? “Yadāsvāhaṁ, āvuso, santiṭṭhāmi tadāssu saṁsīdāmi; yadāsvāhaṁ, āvuso, āyūhāmi tadāssu nibbuyhāmi. Evaṁ khvāhaṁ, āvuso, appatiṭṭhaṁ anāyūhaṁ oghamatarin”ti. “Cirassaṁ vata passāmi, brāhmaṇaṁ parinibbutaṁ; Appatiṭṭhaṁ anāyūhaṁ, tiṇṇaṁ loke visattikan”ti. Idamavoca sā devatā. Samanuñño satthā ahosi. Atha kho sā devatā: “samanuñño me satthā”ti bhagavantaṁ abhivādetvā padakkhiṇaṁ katvā tatthevantaradhāyīti.",
+  "english_sn_text": "So I have heard. At one time the Buddha was staying near Sāvatthī in Jeta’s Grove, Anāthapiṇḍika’s monastery. Then, late at night, a glorious deity, lighting up the entire Jeta’s Grove, went up to the Buddha, bowed, stood to one side, and said to him, “Good fellow, how did you cross the flood?” “Neither standing nor swimming, respectable sir, I crossed the flood.” “But in what way did you cross the flood neither standing nor swimming?” “When I stood, I sank under. When I swam, I was swept away. That’s how I crossed the flood neither standing nor swimming.” “After a long time I see a brahmin fully quenched. Neither standing nor swimming, he’s crossed over clinging to the world.” That is what that deity said, and the Teacher concurred. Then that deity, knowing that the Teacher concurred, bowed and respectfully circled the Buddha, keeping him on his right, before vanishing right there.",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa1201-1300/sa1267_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa1201-1300/sa1267_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛住舍卫国祇树给孤独园。\n时有一天子，容色绝妙，于后夜来诣佛所，稽首佛足，退坐一面；身诸光明遍照祇树给孤独园。\n天子白佛：「比丘！云何度驶流耶？」佛言：「无所住立，亦无所求进，我度驶流。」「云何无所住立、无所求进而度？」「天子！我若住立则沈；若求进则漂。是故无所住立、无所求进，而度驶流。」\n天子说偈：「久见婆罗门，逮得般涅槃；一切怖已过，永超世恩爱。」\n时彼天子闻佛所说，欢喜随喜，稽首佛足，即没不现。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在舍卫国祇树给孤独园。\n那时有一位天子，容色绝妙，后夜来到佛前，稽首佛足，退坐一面；身上的光明照遍祇树给孤独园。\n天子问佛：「比丘！您是怎么度过急流的？」佛说：「不站住，也不用力游，我度过了急流。」「怎样才能不站住、不用力游而度过呢？」「天子！我一站住就下沉；一用力游就被冲走。所以不站住、不用力游，而度过急流。」\n天子说偈：「久见婆罗门，逮得般涅槃；一切怖已过，永超世恩爱。」\n那时天子听佛所说，欢喜随喜，稽首佛足，随即隐没不见。",
+  "notes": "本经 SC 平行表所列平行及 `raw_aligned_data.json` 内之巴利本文、Sujato 英译并用以厘定法义；求那跋陀罗汉本用于定位经文与传统术语。confidence=high：primary SN1.1 Oghataraṇasutta。据 SN：appatiṭṭhaṁ anāyūhaṁ——不住不进（汉「抱／直进」拙译，据义改）；住则沈、进则漂。",
+  "review_status": "gold_reconstructed",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "high",
+  "prior_review_status": "needs_revision",
+  "reconstruction_basis": "汉「抱／直进」拙译 → 据 SN1.1 appatiṭṭha／anāyūha 改正",
+  "similarity_to_source": 0.252,
+  "paragraph_parallel": true
+}

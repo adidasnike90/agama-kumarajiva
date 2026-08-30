@@ -1,0 +1,43 @@
+{
+  "id": "SA_1284",
+  "uid": "sa1284",
+  "title": "雜阿含經  卷第五十  雜相應  （1284）  彈琴",
+  "chinese_text": "如是我聞：\n\n一時，佛住舍衛國祇樹給孤獨園。\n\n爾時，世尊告諸比丘：「過去世時，拘薩羅國有彈琴人，名曰麁牛，於拘薩羅國人間遊行，止息野中。時，有六廣大天宮天女，來至憍薩羅國麁牛彈琴人所，語麁牛彈琴人言：『阿舅！阿舅！為我彈琴，我當歌舞。』麁牛彈琴者言：『如是，姊妹！我當為汝彈琴，汝當語我汝是何人？何由生此？』天女答言：『阿舅！且彈琴，我當歌舞，於歌頌中，自說所以生此因緣。』彼拘薩羅國麁牛彈琴人即便彈琴，彼六天女即便歌舞。\n\n「第一天女說偈歌言：\n\n「『若男子女人，　　勝妙衣惠施，\n\n　　施衣因緣故，　　所生得殊勝。\n\n　　施所愛念物，　　生天隨所欲，\n\n　　見我居宮殿，　　乘空而遊行。\n\n　　天身如金聚，　　天女百中勝，\n\n　　觀察斯福德，　　迴向中之最。』\n\n「第二天女復說偈言：\n\n「『若男子女人，　　勝妙香惠施，\n\n　　愛念可意施，　　生天隨所欲。\n\n　　見我處宮殿，　　乘空而遊行，\n\n　　天身若金聚，　　天女百中勝。\n\n　　觀察斯福德，　　迴向中之最。』\n\n「第三天女復說偈言：\n\n「『若男子女人，　　以食而惠施，\n\n　　可意愛念施，　　生天隨所欲。\n\n　　見我居宮殿，　　乘虛而遊行，\n\n　　天身如金聚，　　天女百中勝，\n\n　　觀察斯福德，　　迴向中之最。』\n\n「第四天女復說偈言：\n\n「『憶念餘生時，　　曾為人婢使，\n\n　　不盜不貪嗜，　　勤修不懈怠。\n\n　　量腹自節身，　　分飡救貧人，\n\n　　今見居宮殿，　　乘虛而遊行。\n\n　　天身如金聚，　　天女百中勝，\n\n　　觀察斯福德，　　供養中為最。』\n\n「第五天女復說偈言：\n\n「『憶念餘生時，　　為人作子婦，\n\n　　嫜姑性狂暴，　　常加麁澁言。\n\n　　執節修婦禮，　　卑遜而奉順，\n\n　　今見處宮殿，　　乘虛而遊行。\n\n　　天身如金聚，　　天女百中勝，\n\n　　觀察斯福德，　　供養中為最。』\n\n「第六天女復說偈言：\n\n「『昔曾見行跡，　　比丘比丘尼，\n\n　　從其聞正法，　　一宿受齋戒。\n\n　　今見處天宮，　　乘虛而遊行，\n\n　　天身如金聚，　　天女百中勝。\n\n　　觀察斯福德，　　迴向中之最。』\n\n「爾時，拘薩羅國麁牛彈琴人而說偈言：\n\n「『我今善來此，　　拘薩羅林中，\n\n　　得見此天女，　　具足妙天身。\n\n　　既見又聞說，　　當增修善業，\n\n　　緣今修功德，　　亦當生天上。』\n\n「說是語已，此諸天女即沒不現。」\n\n佛說此經已，諸比丘聞佛所說，歡喜奉行。",
+  "english_sa_text": "",
+  "parallels": [
+    {
+      "uid": "sa-2.282",
+      "acronym": "SA2 282",
+      "root_lang": "lzh",
+      "original_title": "彈琴",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    }
+  ],
+  "primary_sn_uid": null,
+  "pali_text": "",
+  "english_sn_text": "",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa1201-1300/sa1284_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa1201-1300/sa1284_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛住舍卫国祇树给孤独园。\n佛告诸比丘：「过去拘萨罗有弹琴人，名麤牛，游行止野中。六天宫天女来请：『阿舅！为我弹琴，我当歌舞。』麤牛曰：『我为汝弹；汝当自说生此因缘。』天女曰：『且弹，歌中自说。』彼即弹琴，六天女歌舞。\n一天女：「胜妙衣施，故生殊胜，随欲游空，天身如金，天女百中胜。」二：「胜妙香施，亦复如是。」三：「以食惠施，亦复如是。」四：「昔为人婢，不盗不贪，勤而不懈，量腹分食济贫，故得天报。」五：「昔为子妇，嫜姑暴恶，我执礼卑逊奉顺，故得天报。」六：「昔从比丘、比丘尼闻法，一宿受斋，故得天报。」\n麤牛自庆：「我今善来此林，见闻天女；当增修善，亦当生天。」说已，天女即没。」\n佛说此经已，诸比丘闻佛所说，欢喜奉行。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在舍卫国祇树给孤独园。\n佛对比丘们说：「过去拘萨罗国有个弹琴人，名叫麤牛，游行停在野外。六位天宫的天女来请：『阿舅！为我们弹琴，我们来歌舞。』麤牛说：『我为你们弹；你们要自己说出往生这里的因缘。』天女说：『先弹吧，歌里自己会说。』他就弹琴，六位天女歌舞。\n第一位：「因为布施胜妙衣服，所以生得殊胜，随欲在空中游行，天身如金，在天女中超百人。」第二位：「因为布施胜妙香，也是这样。」第三位：「因为布施食物，也是这样。」第四位：「从前做人的婢女，不偷不贪，勤劳不懈怠，量腹节食分给穷人，所以得天报。」第五位：「从前做人家的儿媳，公婆暴恶，我守礼卑逊奉顺，所以得天报。」第六位：「从前从比丘、比丘尼听闻正法，一宿受持斋戒，所以得天报。」\n麤牛自己庆幸：「我今天来到这林中真好，看见并听闻天女；应当更修善业，也会生天。」说完，天女随即隐没。」\n佛说完这部经，比丘们听佛所说，都欢喜奉行。",
+  "notes": "SC 于本经未列可靠巴利平行，故唯以汉本为底，参同相应之巴利定型语厘义；依项目规约「无可靠平行时 confidence 降为 medium/low」。confidence=medium：无 SC 专经；六天女因施衣／香／食、婢女节食、子妇忍顺、一宿斋戒而生天——早期福德教，不引入大乘术语。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "medium",
+  "prior_review_status": "needs_revision",
+  "similarity_to_source": 0.102,
+  "paragraph_parallel": true
+}

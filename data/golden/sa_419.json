@@ -1,0 +1,32 @@
+{
+  "id": "SA_419",
+  "uid": "sa419",
+  "title": "雜阿含經  卷第十七  界相應  （419）  疑",
+  "chinese_text": "如是我聞：\n\n一時，佛住王舍城迦蘭陀竹園。\n\n爾時，世尊告諸比丘：「若比丘於佛有疑者，則於苦聖諦有疑，苦集聖諦、苦滅聖諦、苦滅道跡聖諦則有疑惑；若於法、僧有疑者，則於苦聖諦疑惑，苦集聖諦、苦滅聖諦、苦滅道跡聖諦疑惑；若於佛不疑惑者，則於苦聖諦不疑惑，苦集聖諦、苦滅聖諦、苦滅道跡聖諦不疑惑；若於法、僧不疑惑者，則於苦聖諦不疑惑，苦集聖諦、苦滅聖諦、苦滅道跡聖諦不疑惑。」\n\n佛說此經已，諸比丘聞佛所說，歡喜奉行。",
+  "english_sa_text": "",
+  "parallels": [],
+  "primary_sn_uid": null,
+  "pali_text": "",
+  "english_sn_text": "",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa401-500/sa419_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa401-500/sa419_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛在王舍城迦兰陀竹园。\n尔时，世尊告诸比丘：「若比丘于佛有疑，则于苦圣谛、苦集圣谛、苦灭圣谛、苦灭道迹圣谛皆有疑；于法、于僧有疑，亦于四圣谛有疑。若于佛不疑，则于四圣谛不疑；于法、于僧不疑，亦于四圣谛不疑。」\n佛说此经已，诸比丘闻佛所说，欢喜奉行。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在王舍城迦兰陀竹园。\n那时，世尊告诉比丘们：「若比丘对佛有疑，就会对苦圣谛、苦集圣谛、苦灭圣谛、苦灭道迹圣谛都有疑；对法、对僧有疑，也会对四圣谛有疑。若对佛不疑，就对四圣谛不疑；对法、对僧不疑，也对四圣谛不疑。」\n佛说完这部经，比丘们听佛所说，都欢喜奉行。",
+  "notes": "SC 于本经未列可靠巴利平行，故唯以汉本为底，参同相应之巴利定型语厘义；依项目规约「无可靠平行时 confidence 降为 medium/low」，本经作 medium。佛／法／僧疑与四谛疑相应；依汉本收束重复，不臆造平行义。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "medium",
+  "prior_review_status": "needs_revision",
+  "similarity_to_source": 0.302,
+  "paragraph_parallel": true
+}

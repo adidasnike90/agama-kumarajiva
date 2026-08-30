@@ -1,0 +1,53 @@
+{
+  "id": "SA_1339",
+  "uid": "sa1339",
+  "title": "雜阿含經  卷第五十  林相應  （1339）  迦葉",
+  "chinese_text": "如是我聞：\n\n一時，佛住王舍城迦蘭陀竹園。\n\n爾時，尊者十力迦葉住王舍城仙人窟中。時，有獵師名曰尺只，去十力迦葉不遠，張網捕鹿。爾時，十力迦葉為彼獵師哀愍說法。時，彼獵師不解所說。時，十力迦葉即以神力，指端火然，彼猶不悟。\n\n爾時，仙人窟中住止天神而說偈言：\n\n「深山中獵師，　　少智盲無目，\n\n　何為非時說，　　薄德無辯慧，\n\n　所聞亦不解，　　明中亦無見，\n\n　於諸善勝法，　　愚癡莫能了，\n\n　正使燒十指，　　彼終不見諦。」\n\n時，彼天神說是偈已，尊者十力迦葉即默然住。",
+  "english_sa_text": "",
+  "parallels": [
+    {
+      "uid": "sa-2.359",
+      "acronym": "SA2 359",
+      "root_lang": "lzh",
+      "original_title": "迦葉",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "sn9.3",
+      "acronym": "SN 9.3",
+      "root_lang": "pli",
+      "original_title": "Kassapagottasutta",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    }
+  ],
+  "primary_sn_uid": "sn9.3",
+  "pali_text": "Ekaṁ samayaṁ āyasmā kassapagotto kosalesu viharati aññatarasmiṁ vanasaṇḍe. Tena kho pana samayena āyasmā kassapagotto divāvihāragato aññataraṁ chetaṁ ovadati. Atha kho yā tasmiṁ vanasaṇḍe adhivatthā devatā āyasmantaṁ kassapagottaṁ saṁvejetukāmā yenāyasmā kassapagotto tenupasaṅkami; upasaṅkamitvā āyasmantaṁ kassapagottaṁ gāthāhi ajjhabhāsi: “Giriduggacaraṁ chetaṁ, appapaññaṁ acetasaṁ; Akāle ovadaṁ bhikkhu, mandova paṭibhāti maṁ. Suṇāti na vijānāti, Āloketi na passati; Dhammasmiṁ bhaññamānasmiṁ, Atthaṁ bālo na bujjhati. Sacepi dasa pajjote, dhārayissasi kassapa; Neva dakkhati rūpāni, cakkhu hissa na vijjatī”ti. Atha kho āyasmā kassapagotto tāya devatāya saṁvejito saṁvegamāpādīti.",
+  "english_sn_text": "At one time Venerable Kassapagotta was staying in the land of the Kosalans in a certain forest grove. Now at that time Venerable Kassapagotta, having withdrawn for his day’s meditation, tried to advise a nimrod. Then the deity haunting that forest approached Kassapagotta wanting to stir him up, and recited these verses: “A nimrod wandering the rugged hills is unintelligent, unthinking. It’s a waste of time to advise him, mendicant; he strikes me as a dullard. He listens without understanding, looks without seeing. Though the teaching is spoken, the fool doesn’t get it. Even if you lit ten lamps and brought them to him, Kassapa, he wouldn’t see anything, for he has no eyes to see.” Impelled by that deity, Venerable Kassapagotta was struck with a sense of urgency.",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa1301-1400/sa1339_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa1301-1400/sa1339_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛住王舍城迦兰陀竹园。\n尔时尊者十力迦叶住王舍城仙人窟中。去之不远，猎师尺只张网捕鹿。尊者为哀愍故而为说法，猎师不解；即以神力，指端出火，彼犹不悟。\n窟中天神说偈：「深山中猎师，少智盲无目；非时而为说，如愚不入心。闻而不解义，视而不见法；正使十指燃，彼终不见谛。」\n尊者十力迦叶即默然住。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在王舍城迦兰陀竹园。\n那时尊者十力迦叶住在王舍城仙人窟中。不远处，猎师尺只张网捕鹿。尊者出于哀愍而为他说法，猎师却听不懂；尊者便以神通让指端出火，他仍然不觉悟。\n窟中的天神说偈：「深山里的猎师，少智如同盲人；不在适当的时候说法，他愚昧听不进去。听了也不懂意思，看了也不见法；即使十指都燃起火，他也终究见不到真理。」\n尊者十力迦叶于是默然安住。",
+  "notes": "本经 SC 平行表所列平行及 `raw_aligned_data.json` 内之巴利本文、Sujato 英译并用以厘定法义；求那跋陀罗汉本用于定位经文与传统术语。confidence=high：primary SN9.3。巴利场景在拘萨罗林、劝猎师（cheta）；汉在仙人窟／尺只捕鹿，存汉地名人物。「非时说」＝akāle ovadaṁ；结以尊者默然，与 SN 生起紧迫感同向。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "high",
+  "prior_review_status": "needs_revision",
+  "similarity_to_source": 0.143,
+  "paragraph_parallel": true
+}

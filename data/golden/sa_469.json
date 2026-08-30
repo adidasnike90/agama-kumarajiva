@@ -1,0 +1,43 @@
+{
+  "id": "SA_469",
+  "uid": "sa469",
+  "title": "雜阿含經  卷第十九  受相應  （469）  深嶮",
+  "chinese_text": "如是我聞：\n\n一時，佛住王舍城迦蘭陀竹園。\n\n爾時，世尊告諸比丘：「大海深嶮者，此世間愚夫所說深嶮，非賢聖法、律所說深嶮。世間所說者，是大水積聚數耳，若從身生諸受，眾苦逼迫，或惱、或死，是名大海極深嶮處。愚癡無聞凡夫於此身生諸受，苦痛逼迫，或惱、或死，憂悲稱怨，啼哭號呼，心亂發狂，長淪沒溺，無止息處。多聞聖弟子於身生諸受，苦痛逼迫，或惱、或死，不生憂悲、啼哭號呼、心生狂亂，不淪生死，得止息處。」\n\n爾時，世尊即說偈言：\n\n「身生諸苦受，　　逼迫乃至死，\n\n　憂悲不息忍，　　號呼發狂亂，\n\n　心自生障礙，　　招集眾苦增，\n\n　永淪生死海，　　莫知休息處。\n\n　能捨身諸受，　　身所生苦惱，\n\n　切迫乃至死，　　不起憂悲想。\n\n　不啼哭號呼，　　能自忍眾苦，\n\n　心不生障礙，　　招集眾苦增。\n\n　不淪沒生死，　　永得安隱處。」\n\n佛說此經已，諸比丘聞佛所說，歡喜奉行。",
+  "english_sa_text": "",
+  "parallels": [
+    {
+      "uid": "sn36.4",
+      "acronym": "SN 36.4",
+      "root_lang": "pli",
+      "original_title": "Pātālasutta",
+      "translated_title": "The Bottomless Abyss",
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    }
+  ],
+  "primary_sn_uid": "sn36.4",
+  "pali_text": "“Assutavā, bhikkhave, puthujjano yaṁ vācaṁ bhāsati: ‘atthi mahāsamudde pātālo’ti. Taṁ kho panetaṁ, bhikkhave, assutavā puthujjano asantaṁ avijjamānaṁ evaṁ vācaṁ bhāsati: ‘atthi mahāsamudde pātālo’ti. Sārīrikānaṁ kho etaṁ, bhikkhave, dukkhānaṁ vedanānaṁ adhivacanaṁ yadidaṁ ‘pātālo’ti. Assutavā, bhikkhave, puthujjano sārīrikāya dukkhāya vedanāya phuṭṭho samāno socati kilamati paridevati urattāḷiṁ kandati sammohaṁ āpajjati. Ayaṁ vuccati, bhikkhave, ‘assutavā puthujjano pātāle na paccuṭṭhāsi, gādhañca nājjhagā’. Sutavā ca kho, bhikkhave, ariyasāvako sārīrikāya dukkhāya vedanāya phuṭṭho samāno neva socati, na kilamati, na paridevati, na urattāḷiṁ kandati, na sammohaṁ āpajjati. Ayaṁ vuccati, bhikkhave, ‘sutavā ariyasāvako pātāle paccuṭṭhāsi, gādhañca ajjhagā’ti. Yo etā nādhivāseti, uppannā vedanā dukhā; Sārīrikā pāṇaharā, yāhi phuṭṭho pavedhati. Akkandati parodati, dubbalo appathāmako; Na so pātāle paccuṭṭhāsi, atho gādhampi nājjhagā. Yo cetā adhivāseti, uppannā vedanā dukhā; Sārīrikā pāṇaharā, yāhi phuṭṭho na vedhati; Sa ve pātāle paccuṭṭhāsi, atho gādhampi ajjhagā”ti. Catutthaṁ.",
+  "english_sn_text": "“Mendicants, when an unlearned ordinary person says that there’s an abyss under the ocean, they’re speaking of something that doesn’t exist. ‘Abyss’ is a term for painful physical feelings. When an unlearned ordinary person experiences painful physical feelings they sorrow and wail and lament, beating their breast and falling into confusion. They’re called an unlearned ordinary person who hasn’t stood up in the abyss and has found no footing. When a learned noble disciple experiences painful physical feelings they don’t sorrow or wail or lament, beating their breast and falling into confusion. They’re called a learned noble disciple who has stood up in the abyss and found a footing. If you can’t abide those painful physical feelings that arise and sap your vitality; if you tremble at their touch, weeping and wailing, a weakling lacking strength— you won’t stand up in the abyss and find a footing. If you can endure those painful physical feelings that arise and sap your vitality; if you don’t tremble at their touch— you stand up in the abyss and find a footing.”",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa401-500/sa469_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa401-500/sa469_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛在王舍城迦兰陀竹园。\n尔时，世尊告诸比丘：「世人所谓大海深嶮——非贤圣法、律所说深嶮，但是大水积聚而已。若从身生诸受，众苦逼迫，或恼、或死——是名极深嶮处。愚痴无闻凡夫于身生诸苦受，忧悲称怨，啼哭号呼，心乱发狂——长沦没溺，无止息处，是名未立深嶮、未得立处。多闻圣弟子于身生诸苦受，不生忧悲、不啼哭号呼、不心生狂乱——不沦生死，得止息处，是名已立深嶮、已得立处。」\n尔时世尊即说偈言：「身生诸苦受，逼迫乃至死；忧悲不能忍，号呼发狂乱——心自生障碍，招集众苦增；永沦生死海，莫知休息处。能忍身苦受，逼迫乃至死；不起忧悲想，不啼哭号呼——心不生障碍，不增集众苦；不沦没生死，永得安隐处。」\n佛说此经已，诸比丘闻佛所说，欢喜奉行。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在王舍城迦兰陀竹园。\n那时，世尊告诉比丘们：「世人所谓大海深嶮——并不是贤圣的法与律所说的深嶮，只不过是大水积聚罢了。如果从身体生起种种受，众苦逼迫，或者恼害、或者死亡——这才叫做极深嶮处。愚痴无闻的凡夫对于身上生起的苦受，忧悲称怨，啼哭号呼，心乱发狂——长久沦陷沉溺，没有止息的地方，这叫做还没在深嶮中站稳、没有得到立足处。多闻圣弟子对于身上生起的苦受，不生忧悲、不啼哭号呼、不心生狂乱——不沦于生死，得到止息处，这叫做已在深嶮中站稳、已得到立足处。」\n那时世尊就说偈：「身上生起苦受，逼迫一直到死；忧悲不能忍受，号呼发狂乱——心自己生出障碍，招集更多的苦；永远沦于生死海，不知道休息处。能够忍受身上的苦受，逼迫一直到死；不生忧悲的想，不啼哭号呼——心不生障碍，不增加聚集众苦；不沦陷于生死，永远得到安隐处。」\n佛说完这部经，比丘们听佛所说，都欢喜奉行。",
+  "notes": "本经 SC 平行表所列平行及 `raw_aligned_data.json` 内之巴利本文、Sujato 英译并用以厘定法义；求那跋陀罗汉本用于定位经文与传统术语。confidence=high：primary SN36.4 Pātāla。深嶮＝pātāla（无底深渊）喻身苦受；据 SN『立于深渊／得立足』义润饰汉『长沦没溺／得止息处』。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "high",
+  "prior_review_status": "needs_revision",
+  "similarity_to_source": 0.303,
+  "paragraph_parallel": true
+}

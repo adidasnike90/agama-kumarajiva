@@ -1,0 +1,43 @@
+{
+  "id": "SA_395",
+  "uid": "sa395",
+  "title": "雜阿含經  卷第十六  諦相應  （395）  日月",
+  "chinese_text": "如是我聞：\n\n一時，佛住波羅㮈國仙人住處鹿野苑中。\n\n爾時，世尊告諸比丘：「若日月不出世間者，一切眾星亦不出於世間，晝夜、半月、一月、時節、歲數、尅數、須臾，皆悉不現，世間常冥，無有明照，唯有長夜，純大闇苦現於世間。若如來、應供、等正覺不出世間時，不說苦聖諦、苦集聖諦、苦滅聖諦、苦滅道跡聖諦現於世間，世間盲冥，無有明照。如是長夜，純大闇冥現於世間。\n\n「若日月出於世間，眾星亦現，晝夜、半月、一月、時節、歲數、尅數、須臾，悉現世間，長夜明照，出於世間。如是，如來、應、等正覺出於世間，說苦聖諦現於世間，苦集聖諦、苦滅聖諦、苦滅道跡聖諦現於世間，不復闇冥，長夜照明，純一智慧現於世間。」\n\n佛說此經已，諸比丘聞佛所說，歡喜奉行。",
+  "english_sa_text": "",
+  "parallels": [
+    {
+      "uid": "sn56.38",
+      "acronym": "SN 56.38",
+      "root_lang": "pli",
+      "original_title": "Dutiyasūriyasutta",
+      "translated_title": "The Sun (2)",
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    }
+  ],
+  "primary_sn_uid": "sn56.38",
+  "pali_text": "“Yāvakīvañca, bhikkhave, candimasūriyā loke nuppajjanti, neva tāva mahato ālokassa pātubhāvo hoti mahato obhāsassa. Andhatamaṁ tadā hoti andhakāratimisā. Neva tāva rattindivā paññāyanti, na māsaddhamāsā paññāyanti, na utusaṁvaccharā paññāyanti. Yato ca kho, bhikkhave, candimasūriyā loke uppajjanti, atha mahato ālokassa pātubhāvo hoti mahato obhāsassa. Neva andhakāratamaṁ tadā hoti na andhakāratimisā. Atha rattindivā paññāyanti, māsaddhamāsā paññāyanti, utusaṁvaccharā paññāyanti. Evameva kho, bhikkhave, yāvakīvañca tathāgato loke nuppajjati arahaṁ sammāsambuddho, neva tāva mahato ālokassa pātubhāvo hoti mahato obhāsassa. Andhatamaṁ tadā hoti andhakāratimisā. Neva tāva catunnaṁ ariyasaccānaṁ ācikkhaṇā hoti desanā paññāpanā paṭṭhapanā vivaraṇā vibhajanā uttānīkammaṁ. Yato ca kho, bhikkhave, tathāgato loke uppajjati arahaṁ sammāsambuddho, atha mahato ālokassa pātubhāvo hoti mahato obhāsassa. Neva andhatamaṁ tadā hoti na andhakāratimisā. Atha kho catunnaṁ ariyasaccānaṁ ācikkhaṇā hoti desanā paññāpanā paṭṭhapanā vivaraṇā vibhajanā uttānīkammaṁ. Katamesaṁ catunnaṁ? Dukkhassa ariyasaccassa …pe… dukkhanirodhagāminiyā paṭipadāya ariyasaccassa. Tasmātiha, bhikkhave, ‘idaṁ dukkhan’ti yogo karaṇīyo …pe… ‘ayaṁ dukkhanirodhagāminī paṭipadā’ti yogo karaṇīyo”ti. Aṭṭhamaṁ.",
+  "english_sn_text": "“Mendicants, as long as the moon and the sun don’t arise in the world, no great light or great radiance appears. Darkness prevails then, utter darkness. Day and night aren’t found, nor months and fortnights, nor seasons and years. But when the moon and the sun arise in the world, a great light, a great radiance appears. Darkness no longer prevails. Day and night are found, and months and fortnights, and seasons and years. In the same way, as long as the Realized One doesn’t arise in the world, no great light or great radiance appears. Darkness prevails then, utter darkness. There’s no explanation of the four noble truths, no teaching, advocating, establishing, clarifying, analyzing, and revealing of them. But when the Realized One arises in the world, a great light, a great radiance appears. Darkness no longer prevails. Then there’s the explanation of the four noble truths, the teaching, advocating, establishing, clarifying, analyzing, and revealing of them. What four? The noble truths of suffering, its origin, its cessation, and the path. That’s why you should practice meditation …”",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa301-400/sa395_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa301-400/sa395_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛在波罗㮈仙人住处鹿野苑中。\n尔时，世尊告诸比丘：「若日月不出世间，大光大明亦不现；是时冥闇深厚，昼夜、半月、一月、时节、岁数皆不了知。日月出已，大光大明乃现，冥闇息，昼夜时节岁数皆可了知。」\n「如是，如來、应、等正觉若不出世，大光大明亦不现；四圣谛亦无开示、演说、建立、分别、显了——世间长夜纯大闇冥。如來出世，说苦圣谛、苦集圣谛、苦灭圣谛、苦灭道迹圣谛，大光大明现前，冥闇销灭。」\n「是故比丘于四圣谛未无间等者，当勤方便，起增上欲，精进修学。何等为四？谓苦圣谛、苦集圣谛、苦灭圣谛、苦灭道迹圣谛。」\n佛说此经已，诸比丘闻佛所说，欢喜奉行。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在波罗㮈仙人住处鹿野苑中。\n那时，世尊告诉比丘们：「若日月不在世间出现，大光明也不会出现；那时冥闇深厚，昼夜、半月、一月、时节、岁数都不能了知。日月出现以后，大光明才出现，冥闇止息，昼夜时节岁数才都能了知。」\n「同样，如来、应供、等正觉若不出世，大光明也不会出现；四圣谛也不会有开示、演说、建立、分别、显了——世间长夜只是纯大闇冥。如来出世，说苦圣谛、苦集圣谛、苦灭圣谛、苦灭道迹圣谛，大光明现前，冥闇销灭。」\n「所以比丘对四圣谛还没有无间等的，应当勤加方便，发起强盛愿欲，精进修学。哪四种？就是苦圣谛、苦集圣谛、苦灭圣谛、苦灭道迹圣谛。」\n佛说完这部经，比丘们听佛所说，都欢喜奉行。",
+  "notes": "本经 SC 平行表所列平行及 `raw_aligned_data.json` 内之巴利本文、Sujato 英译并用以厘定法义；求那跋陀罗汉本用于定位经文与传统术语。confidence=high：primary SN56.38。日月∶如來＝大光大明∶四谛开示；据 Sujato 补『开示／分别／显了』定型，删汉『众星』旁支以就雅。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "high",
+  "prior_review_status": "needs_revision",
+  "similarity_to_source": 0.176,
+  "paragraph_parallel": true
+}

@@ -1,0 +1,33 @@
+{
+  "id": "SA_307",
+  "uid": "sa307",
+  "title": "雜阿含經  卷第十二  因緣相應  （307）  見法",
+  "chinese_text": "如是我聞：\n\n一時，佛住舍衛國祇樹給孤獨園。\n\n時，有異比丘獨一靜處，專精思惟，作是念：「云何知、云何見，名為見法？」思惟已，從禪起，往詣佛所，稽首禮足，退坐一面，白佛言：「世尊！我獨一靜處，專精思惟，作是念：『比丘云何知、云何見，名為見法？』今問世尊，唯願解說。」\n\n佛告比丘：「諦聽，善思，當為汝說。有二法，眼、色，緣生眼識……」如上廣說。「尊者！如所說偈：\n\n「眼色二種緣，　　生於心心法，\n\n　識觸及俱生，　　受想等有因，\n\n　非我非我所，　　亦非福伽羅，\n\n　亦非摩㝹闍，　　亦非摩那婆，\n\n　是則為生滅，　　苦陰變易法，\n\n　於斯等作想，　　施設於眾生。\n\n　那羅摩㝹闍，　　及與摩那婆，\n\n　亦餘眾多想，　　皆因苦陰生。\n\n　諸業愛無明，　　因積他世陰，\n\n　餘沙門異道，　　異說二法者。\n\n　彼但有言說，　　聞已增癡惑，\n\n　貪愛息無餘，　　無明沒永滅。\n\n　愛盡眾苦息，　　無上佛眼說。」\n\n佛說此經已，諸比丘聞佛所說，歡喜奉行。",
+  "english_sa_text": "",
+  "parallels": [],
+  "primary_sn_uid": null,
+  "pali_text": "",
+  "english_sn_text": "",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa301-400/sa307_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa301-400/sa307_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛在舍卫国祇树给孤独园。\n时，有異比丘独静思惟：「云何知、云何见，名为见法？」思惟已，从禅起，往诣佛所，稽首礼足，退坐一面，白佛言：「我独静处，作是念——比丘云何知、云何见，名为见法？今问世尊，唯愿解说。」\n佛告比丘：「谛听善思，当为汝说。有二法——眼、色，缘生眼识……」（依 SA_273／SA_306 同型补纲要：三事合触、非我、苦阴变易——不演全文。）\n「眼色二种缘，生于心心法，识触及俱生，受想等有因，非我非我所，亦非福伽罗，亦非摩睺罗，亦非摩那婆，是则为生灭，苦阴变易法，于斯等作想，施设于众生。那罗摩睺罗，及与摩那婆，亦余众多想，皆因苦阴生。诸业爱无明，因积他世阴，余沙门异道，异说二法者。彼但有言说，闻已增痴惑，贪爱息无余，无明没永灭。爱尽众苦息，无上佛眼说。」\n佛说此经已，诸比丘闻佛所说，欢喜奉行。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在舍卫国祇树给孤独园。\n有一位比丘独静思惟：「怎样知、怎样见，名为见法？」从禅起来诣佛，礼足退坐，问佛。\n佛告诉比丘：「谛听。有二法——眼、色，缘生眼识……」（依 SA_273 同型补纲要：合触、非我、苦阴——不演全文。）\n「眼色二缘，生心心法；识、触及俱生，受、想等有因——非我、非我所，亦非福伽罗、摩睺罗、摩那婆——是则生灭、苦阴变易；于此作想，施设众生、那罗等——皆因苦阴生。诸业、爱、无明，因积他世之阴；余沙门异道异说二法者，彼但有言说，闻已增痴惑——贪爱息无余，无明没永灭，爱尽众苦息——无上佛眼所说。」\n佛说完这部经，比丘们听佛所说，都欢喜奉行。",
+  "notes": "本经 SC 平行表所列平行及 `raw_aligned_data.json` 内之巴利本文、Sujato 英译并用以厘定法义；求那跋陀罗汉本用于定位经文与传统术语。SC 于本经未列可靠巴利平行，故唯以汉本为底，参同相应之巴利定型语厘义；依项目规约「无可靠平行时 confidence 降为 medium/low」，本经作 medium。confidence=medium：SC 未列平行；底本「如上广说」＋偈，法义近 SA_306／SN35.92。gold_reconstructed：框架依 SA_273 补纲要，偈全文保留。",
+  "review_status": "gold_reconstructed",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "medium",
+  "prior_review_status": "needs_revision",
+  "reconstruction_basis": "底本「如上广说」为 peyyāla，依 SA_273 补框架纲要；偈全文保留",
+  "similarity_to_source": 0.407,
+  "paragraph_parallel": true
+}

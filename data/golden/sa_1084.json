@@ -1,0 +1,53 @@
+{
+  "id": "SA_1084",
+  "uid": "sa1084",
+  "title": "雜阿含經  卷第四十七  魔相應  （1084）  長壽",
+  "chinese_text": "如是我聞：\n\n一時，佛住王舍城寒林中丘塚間。\n\n爾時，世尊告諸比丘：「壽命甚促，轉就後世，應勤習善法，修諸梵行。無有生而不死者，而世間人不勤方便專修善法、修賢修義。」\n\n時，魔波旬作是念：「沙門瞿曇住王舍城寒林中丘塚間，為諸聲聞如是說法：『人命甚促，乃至不修賢修義。』我今當往，為作嬈亂。」\n\n時，魔波旬化作年少，往住佛前，而說偈言：\n\n「常逼迫眾生，　　得人間長壽，\n\n　迷醉放逸心，　　亦不向死處。」\n\n爾時，世尊作是念：「此是惡魔來作惱亂。即說偈言：\n\n「常逼迫眾生，　　受生極短壽，\n\n　當勤修精進，　　猶如救頭然。\n\n　勿得須臾懈，　　令死魔忽至，\n\n　知汝是惡魔，　　速於此滅去。」\n\n天魔波旬作是念：「沙門瞿曇已知我心。」慚愧憂慼，即沒不現。",
+  "english_sa_text": "",
+  "parallels": [
+    {
+      "uid": "sa-2.23",
+      "acronym": "SA2 23",
+      "root_lang": "lzh",
+      "original_title": "長壽",
+      "translated_title": "Māra disturbs a teaching on impermanence",
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "sn4.9",
+      "acronym": "SN 4.9",
+      "root_lang": "pli",
+      "original_title": "Paṭhamaāyusutta",
+      "translated_title": "Life Span (1)",
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    }
+  ],
+  "primary_sn_uid": "sn4.9",
+  "pali_text": "Evaṁ me sutaṁ— ekaṁ samayaṁ bhagavā rājagahe viharati veḷuvane kalandakanivāpe. Tatra kho bhagavā bhikkhū āmantesi: “bhikkhavo”ti. “Bhadante”ti te bhikkhū bhagavato paccassosuṁ. Bhagavā etadavoca: “Appamidaṁ, bhikkhave, manussānaṁ āyu. Gamanīyo samparāyo, kattabbaṁ kusalaṁ, caritabbaṁ brahmacariyaṁ. Natthi jātassa amaraṇaṁ. Yo, bhikkhave, ciraṁ jīvati, so vassasataṁ appaṁ vā bhiyyo”ti. Atha kho māro pāpimā yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṁ gāthāya ajjhabhāsi: “Dīghamāyu manussānaṁ, na naṁ hīḷe suporiso; Careyya khīramattova, natthi maccussa āgamo”ti. “Appamāyu manussānaṁ, hīḷeyya naṁ suporiso; Careyyādittasīsova, natthi maccussa nāgamo”ti. Atha kho māro …pe… tatthevantaradhāyīti.",
+  "english_sn_text": "So I have heard. At one time the Buddha was staying near Rājagaha in the Bamboo Grove, the squirrels’ feeding ground. There the Buddha addressed the mendicants, “Mendicants!” “Venerable sir,” they replied. The Buddha said this: “Mendicants, the lifespan of humans is short. We are headed for lives to come. So we must do what is skillful, we must practice the spiritual life. No one born is immortal. A long life is a hundred years or a little more.” Then Māra the Wicked went up to the Buddha and addressed him in verse: “The life of humans is long! A true person wouldn’t scorn it. Live like a suckling babe, for Death has not come for you.” “The life of humans is short, and a true person scorns it. They should live as though their head was on fire, for Death comes for everyone.” Then Māra … vanished right there.",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa1001-1100/sa1084_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa1001-1100/sa1084_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛住王舍城寒林丘塚间。\n佛告比丘：「人命甚促，趣向后世；当勤修善、修梵行。生者必有死。」\n魔波旬化作年少，说偈扰之：「人命长，莫轻弃；当如婴儿嬉，死尚未至。」\n佛知是魔，答偈：「人命短，智者轻之；当如救头然，死必来至。波旬，灭去！」\n魔波旬念：「沙门已知我心。」忧惭即没。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在王舍城寒林的丘塚之间。\n佛告诉比丘们：「人的寿命很短，正走向后世；应当勤修善法、修梵行。凡有生的，必然有死。」\n魔波旬化作少年，用偈来扰乱：「人寿命长，不要看轻；该像吃奶婴儿那样活，死神还没来。」\n佛知道是魔，答偈：「人寿命短，智者看轻它；该像头上着了火那样精进，死神必来。波旬，走开！」\n魔波旬心想：「沙门已经知道我的心。」忧愁惭愧，随即隐没不见。",
+  "notes": "本经 SC 平行表所列平行及 `raw_aligned_data.json` 内之巴利本文、Sujato 英译并用以厘定法义；求那跋陀罗汉本用于定位经文与传统术语。据 SN4.9 Paṭhamaāyu：魔说寿命长，佛说短、当如头燃；汉魔偈「得人间长寿…亦不向死处」据巴利校正。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "high",
+  "prior_review_status": "needs_revision",
+  "similarity_to_source": 0.087,
+  "paragraph_parallel": true
+}

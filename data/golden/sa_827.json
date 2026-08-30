@@ -1,0 +1,43 @@
+{
+  "id": "SA_827",
+  "uid": "sa827",
+  "title": "雜阿含經  卷第三十一  學相應  （827）  耕磨",
+  "chinese_text": "如是我聞：\n\n一時，佛住舍衛國祇樹給孤獨園。\n\n爾時，世尊告諸比丘：「譬如田夫有三種作田，隨時善作。何等為三？謂彼田夫隨時耕磨，隨時溉灌，隨時下種。彼田夫隨時耕磨、溉灌、下種已，不作是念：『欲令今日生長，今日果實，今日成熟，若明日、後日也。』諸比丘！然彼長者耕田、溉灌、下種已，不作是念：『今日生長、果實、成熟，若明日、若復後日。』而彼種子已入地中，則自隨時生長，果實成熟。如是，比丘於此三學隨時善學？謂善戒學、善意學、善慧學已，不作是念：『欲令我今日得不起諸漏，心善解脫，若明日、若後日。』不作是念：『自然神力能令今日，若明日、後日，不起諸漏，心善解脫。』彼已隨時增上戒學、增上意學、增上慧學已，隨彼時節，自得不起諸漏，心善解脫。\n\n「譬如，比丘！伏鷄生卵，若十乃至十二，隨時消息，冷暖愛護。彼伏鷄不作是念：『我今日，若明日、後日，當以口啄，若以瓜刮，令其兒安隱得生。』然其伏鷄善伏其子，愛護隨時，其子自然安隱得生。如是，比丘善學三學，隨其時節，自得不起諸漏，心善解脫。」\n\n佛說此經已，諸比丘聞佛所說，歡喜奉行。",
+  "english_sa_text": "",
+  "parallels": [
+    {
+      "uid": "an3.83",
+      "acronym": "AN 3.83",
+      "root_lang": "pli",
+      "original_title": "Khettasutta",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    }
+  ],
+  "primary_sn_uid": null,
+  "pali_text": "",
+  "english_sn_text": "",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa801-900/sa827_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa801-900/sa827_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛住舍卫国祇树给孤独园。\n尔时世尊告诸比丘：「譬如农夫有三种田作，随时善作。何等为三？随时耕磨，随时溉灌，随时下种。彼农夫如是作已，不作是念：『欲令今日即生、即实、即熟，若明日、若後日。』然种子入地，则自随时生长成熟。如是比丘于增上戒学、增上意学、增上慧学随时善学已，亦不作是念：『欲令我今日即不起诸漏、心善解脱，若明日、若後日。』彼已随时修三学，则随其时节，自得不起诸漏，心善解脱。譬如伏鸡伏卵，若十乃至十二，随时温护；不作是念：『我今日若明日当以口啄、以爪刮，令子安隐得生。』然善伏爱护，其子自然安隐得生。如是比丘善学三学，随其时节，自得不起诸漏，心善解脱。」\n佛说此经已，诸比丘闻佛所说，欢喜奉行。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在舍卫国祇树给孤独园。\n那时世尊告诉比丘们：「好比农夫有三种田作，按时妥善去做。哪三种？按时耕耙，按时灌溉，按时下种。农夫这样做了之后，不会想：『要让它今天就发芽、结果、成熟，或者明天、后天。』然而种子入了地，就会自己按时生长成熟。同样，比丘对增上戒学、增上意学、增上慧学按时善学之后，也不会想：『要让我今天就不起诸漏、心善解脱，或者明天、后天。』他已经按时修习三学，就会随那个时节，自然得不起诸漏，心善解脱。好比母鸡伏卵，十个乃至十二个，按时温护；不会想：『我今天或明天要用嘴啄、用爪刮，让小鸡安稳生出来。』然而妥善伏护，小鸡自然安稳生出。同样，比丘善学三学，随那个时节，自然得不起诸漏，心善解脱。」\n佛说完这部经，比丘们听佛所说，都欢喜奉行。",
+  "notes": "本经 SC 平行表所列平行及 `raw_aligned_data.json` 内之巴利本文、Sujato 英译并用以厘定法义；求那跋陀罗汉本用于定位经文与传统术语。confidence=high：primary AN3.83 Khettūpama；汉增伏鸡卵譬（常见早期定型），与田夫三事并存；三学随时修，果自然熟，非神通催促。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "high",
+  "prior_review_status": "needs_revision",
+  "similarity_to_source": 0.245,
+  "paragraph_parallel": true
+}

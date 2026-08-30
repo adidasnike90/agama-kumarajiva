@@ -1,0 +1,43 @@
+{
+  "id": "SA_1162",
+  "uid": "sa1162",
+  "title": "雜阿含經  卷第五十  婆羅門相應  （1162）  老夫婦",
+  "chinese_text": "如是我聞：\n\n一時，佛住舍衛國祇樹給孤獨園。\n\n世尊晨朝著衣持鉢，入舍衛城乞食，尊者阿難從世尊後。\n\n時，有二老男女，是其夫婦，年耆根熟，僂背如鉤，諸里巷頭，燒糞掃處，俱蹲向火。\n\n世尊見彼二老夫婦，年耆愚老，僂背如鉤，俱蹲向火，猶如老鵠，欲心相視。見已，告尊者阿難：「汝見彼夫婦二人，年耆愚老，僂背如鉤，俱蹲向火，猶如老鵠，欲心相視不？」\n\n阿難白佛：「如是，世尊！」\n\n佛告阿難：「此二老夫婦，於年少時盛壯之身，勤求財物者，亦可得為舍衛城中第一富長者；若復剃除鬚髮，著袈裟衣，正信非家，出家學道，精勤修習者，亦可得阿羅漢第一上果。於第二分盛壯之身，勤求財物，亦可得為舍衛城中第二富者；若復剃除鬚髮，著袈裟衣，正信非家，出家學道者，亦可得阿那含果證。若於第三分中年之身，勤求財物，亦可得為舍衛城中第三富者；若剃鬚髮，著袈裟衣，正信非家，出家學道者，亦可得為斯陀含果證。彼於今日，年耆根熟，無有錢財，無有方便，無所堪能，不復堪能，若覓錢財，亦不能得勝過人法。」\n\n爾時，世尊復說偈言：\n\n「不行梵行故，　　不得年少財，\n\n　思惟古昔事，　　眠地如曲弓。\n\n　不修於梵行，　　不得年少財，\n\n　猶如老鵠鳥，　　守死於空池。」\n\n佛說此經已，尊者阿難陀聞佛所說，歡喜奉行。",
+  "english_sa_text": "",
+  "parallels": [
+    {
+      "uid": "sa-2.85",
+      "acronym": "SA2 85",
+      "root_lang": "lzh",
+      "original_title": "老夫婦",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    }
+  ],
+  "primary_sn_uid": null,
+  "pali_text": "",
+  "english_sn_text": "",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa1101-1200/sa1162_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa1101-1200/sa1162_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛住舍卫国祇树给孤独园。\n世尊晨朝著衣持钵，入舍卫城乞食，阿难从后。\n见二老夫妇，年耆偻背，蹲向粪扫之火，如老鹄欲心相视。佛告阿难：「见此二人不？」答：「见。」\n佛言：「彼少壮若勤求财，可为城中第一富；若正信出家精勤，可得阿罗汉。第二分盛年求财，可为第二富；出家可得阿那含。中年求财，可为第三富；出家可得斯陀含。今既耆老，无财无方便，不能得胜人法。」\n即说偈：「不修梵行，不得少壮财；思惟往昔，眠地如曲弓。不修梵行，不得少壮财；犹如老鹄，守死于空池。」\n阿难闻已，欢喜奉行。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在舍卫国祇树给孤独园。\n佛清晨披衣持钵进城乞食，阿难跟在后面。\n看见一对老夫妇，年迈驼背，蹲在烧垃圾的火旁，像老鹄那样带着欲心对视。佛问阿难：「看见这两人了吗？」答：「看见了。」\n佛说：「他们年轻时若勤求财，可成城中第一富翁；若正信出家精勤，可得阿罗汉。壮年第二阶段求财，可成第二富；出家可得阿那含。中年求财，可成第三富；出家可得一来果。如今衰老，没钱没办法，既求不到财，也证不到殊胜的法。」\n又说偈：「不修梵行，年轻时也没积下财；回想往事，躺着身子像弯弓。不修梵行，年轻时也没积下财；就像老鹄，守着干涸的池子等死。」\n阿难听完，欢喜奉行。",
+  "notes": "SC 于本经未列可靠巴利平行，故唯以汉本为底，参同相应之巴利定型语厘义；依项目规约「无可靠平行时 confidence 降为 medium/low」。confidence=medium：无 SC 巴利；老鹄空池喻见早期劝修定型。据汉本：少壮失财失道，老无所成。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "medium",
+  "prior_review_status": "needs_revision",
+  "similarity_to_source": 0.131,
+  "paragraph_parallel": true
+}

@@ -1,0 +1,54 @@
+{
+  "id": "SA_732",
+  "uid": "sa732",
+  "title": "雜阿含經  卷第二十九  覺支相應  （732）  起",
+  "chinese_text": "如是我聞：\n\n一時，佛住舍衛國祇樹給孤獨園。\n\n爾時，世尊告諸比丘……如上說。差別者：「未起不起，除善逝調伏教授，未起而起，是則善逝調伏教授，非餘。」\n\n佛說此經已，諸比丘聞佛所說，歡喜奉行。",
+  "english_sa_text": "",
+  "parallels": [
+    {
+      "uid": "sa731",
+      "acronym": "SA 731",
+      "root_lang": "lzh",
+      "original_title": "支節",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "sn46.10",
+      "acronym": "SN 46.10",
+      "root_lang": "pli",
+      "original_title": "Dutiyauppannasutta",
+      "translated_title": "Arisen or Arising (2)",
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    }
+  ],
+  "primary_sn_uid": "sn46.10",
+  "pali_text": "“Sattime, bhikkhave, bojjhaṅgā bhāvitā bahulīkatā anuppannā uppajjanti, nāññatra sugatavinayā. Katame satta? Satisambojjhaṅgo …pe… upekkhāsambojjhaṅgo— ime kho, bhikkhave, satta bojjhaṅgā bhāvitā bahulīkatā anuppannā uppajjanti, nāññatra sugatavinayā”ti. Dasamaṁ. Pabbatavaggo paṭhamo. Tassuddānaṁ Himavantaṁ kāyaṁ sīlaṁ, vatthaṁ bhikkhu ca kuṇḍali; Kūṭañca upavānañca, uppannā apare duveti.",
+  "english_sn_text": "“Mendicants, these seven awakening factors don’t arise to be developed and cultivated apart from the Holy One’s training. What seven? The awakening factors of mindfulness, investigation of principles, energy, rapture, tranquility, immersion, and equanimity. These seven awakening factors don’t arise to be developed and cultivated apart from the Holy One’s training.”",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa701-800/sa732_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa701-800/sa732_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛住舍卫国祇树给孤独园。\n佛告比丘：「有七觉支——念觉支、择法觉支、精进觉支、喜觉支、轻安觉支、定觉支、舍觉支。未生者，除善逝调伏教授则不生；若生，是善逝调伏教授，非余。」\n佛说此经已，诸比丘闻佛所说，欢喜奉行。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在舍卫国祇树给孤独园。\n佛告诉比丘：「有七觉支——念觉支、择法觉支、精进觉支、喜觉支、轻安觉支、定觉支、舍觉支。还没生起的，除了善逝的调伏教授就不会生；若生起，就是善逝的调伏教授，不是别的。」\n佛说完这部经，比丘们听佛所说，都欢喜奉行。",
+  "notes": "本经 SC 平行表所列平行及 `raw_aligned_data.json` 内之巴利本文、Sujato 英译并用以厘定法义；求那跋陀罗汉本用于定位经文与传统术语。confidence=high：与 SA_731 同本 SN46.10；差别在「佛／善逝」。gold_reconstructed：汉「如上说。差别者」peyyāla → 补七觉支名＋善逝句。",
+  "review_status": "gold_reconstructed",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "high",
+  "prior_review_status": "needs_revision",
+  "reconstruction_basis": "peyyāla「如上说」→ 七觉支＋善逝调伏教授句（SN46.10）",
+  "similarity_to_source": 0.241,
+  "paragraph_parallel": true
+}

@@ -1,0 +1,43 @@
+{
+  "id": "SA_400",
+  "uid": "sa400",
+  "title": "雜阿含經  卷第十六  諦相應  （400）  衣",
+  "chinese_text": "如是我聞：\n\n一時，佛住波羅㮈國仙人住處鹿野苑中。\n\n爾時，世尊告諸比丘：「譬如有人火燒頭衣，當起增上欲，急救令滅。」\n\n佛告比丘：「莫作是說！當置頭衣，於四聖諦起增上欲，勤加方便，修無間等。何等四？謂苦聖諦、苦集聖諦、苦滅聖諦、苦滅道跡聖諦未無間等，當勤方便，修無間等。所以者何？比丘！長夜熾然，地獄、畜生、餓鬼。諸比丘！不見極苦，如苦聖諦、苦集聖諦、苦滅聖諦、苦滅道跡聖諦，未無間等者，是比丘當忍苦、樂、憂、悲，於四聖諦勤加精進，方便修習無間等，應當學。」\n\n佛說是經已，諸比丘聞佛所說，歡喜奉行。",
+  "english_sa_text": "",
+  "parallels": [
+    {
+      "uid": "sn56.34",
+      "acronym": "SN 56.34",
+      "root_lang": "pli",
+      "original_title": "Celasutta",
+      "translated_title": "Clothes",
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    }
+  ],
+  "primary_sn_uid": "sn56.34",
+  "pali_text": "“Āditte, bhikkhave, cele vā sīse vā kimassa karaṇīyan”ti? “Āditte, bhante, cele vā sīse vā, tasseva celassa vā sīsassa vā nibbāpanāya adhimatto chando ca vāyāmo ca ussāho ca ussoḷhī ca appaṭivānī ca sati ca sampajaññañca karaṇīyan”ti. “Ādittaṁ, bhikkhave, celaṁ vā sīsaṁ vā ajjhupekkhitvā amanasikaritvā anabhisametānaṁ catunnaṁ ariyasaccānaṁ yathābhūtaṁ abhisamayāya adhimatto chando ca vāyāmo ca ussāho ca ussoḷhī ca appaṭivānī ca sati ca sampajaññañca karaṇīyaṁ. Katamesaṁ catunnaṁ? Dukkhassa ariyasaccassa …pe… dukkhanirodhagāminiyā paṭipadāya ariyasaccassa. Tasmātiha, bhikkhave, ‘idaṁ dukkhan’ti yogo karaṇīyo …pe… ‘ayaṁ dukkhanirodhagāminī paṭipadā’ti yogo karaṇīyo”ti. Catutthaṁ.",
+  "english_sn_text": "“Mendicants, if your clothes or head were on fire, what would you do about it?” “Sir, if our clothes or head were on fire, we’d apply extraordinary enthusiasm, effort, zeal, vigor, perseverance, mindfulness, and situational awareness in order to extinguish it.” “Mendicants, so long as you have not encompassed the four noble truths, regard your burning head or clothes with equanimity, ignore them, and apply extraordinary enthusiasm, effort, zeal, vigor, perseverance, mindfulness, and situational awareness to truly comprehending the four noble truths. What four? The noble truths of suffering, its origin, its cessation, and the path. That’s why you should practice meditation …”",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa301-400/sa400_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa301-400/sa400_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛在波罗㮈仙人住处鹿野苑中。\n尔时，世尊告诸比丘：「若衣或头着火，当如何？」比丘白佛：「当起增上欲、精勤、勇猛、正念正知，急救令灭。」\n佛言：「于四圣谛犹未现观者，当置头衣于不顾，于四圣谛起增上欲、精勤、勇猛、正念正知，修无间等。何等为四？谓苦圣谛、苦集圣谛、苦灭圣谛、苦灭道迹圣谛。」\n佛说此经已，诸比丘闻佛所说，欢喜奉行。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在波罗㮈仙人住处鹿野苑中。\n那时，世尊告诉比丘们：「如果衣服或头上着了火，该怎么办？」比丘们回答：「应当发起强盛愿欲、精勤、勇猛、正念正知，赶快把火灭掉。」\n佛说：「对四圣谛还没有现观的人，应当把头衣着火的事搁在一边不管，先对四圣谛发起强盛愿欲、精勤、勇猛、正念正知，修无间等。哪四种？就是苦圣谛、苦集圣谛、苦灭圣谛、苦灭道迹圣谛。」\n佛说完这部经，比丘们听佛所说，都欢喜奉行。",
+  "notes": "本经 SC 平行表所列平行及 `raw_aligned_data.json` 内之巴利本文、Sujato 英译并用以厘定法义；求那跋陀罗汉本用于定位经文与传统术语。confidence=high：primary SN56.34。信-校正：汉本『莫作是说』对话紊乱；据 SN／Sujato：头衣着火犹当等舍不顾，先以增上欲现观四谛。长夜恶趣炽然之义并入『未现观故当忍』之急切，不另衍地狱清单。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "high",
+  "prior_review_status": "needs_revision",
+  "similarity_to_source": 0.177,
+  "paragraph_parallel": true
+}

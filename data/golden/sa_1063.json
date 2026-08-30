@@ -1,0 +1,63 @@
+{
+  "id": "SA_1063",
+  "uid": "sa1063",
+  "title": "雜阿含經  卷第四十五  比丘相應  （1063）  惡色",
+  "chinese_text": "如是我聞：\n\n一時，佛住舍衛國祇樹給孤獨園。\n\n時，有異比丘形色醜陋，難可觀視，為諸比丘之所輕慢，來詣佛所。\n\n爾時，世尊四眾圍遶，見彼比丘來，皆起輕想，更相謂言：「彼何等比丘？隨路而來，形貌醜陋，難可觀視，為人所慢。」\n\n爾時，世尊知諸比丘心之所念，告諸比丘：「汝等見彼比丘來，形狀甚醜，難可視見，令人起慢不？」\n\n諸比丘白佛：「唯然，已見。」\n\n佛告諸比丘：「汝等勿於彼比丘起於輕想。所以者何？彼比丘已盡諸漏，所作已作，離諸重擔，斷諸有結，正智，心善解脫。諸比丘！汝等莫妄量於人，唯有如來能量於人。」\n\n彼比丘詣佛所，稽首佛足，退坐一面。\n\n爾時，世尊復告諸比丘：「汝等見此比丘稽首作禮，退坐一面不？」\n\n比丘白佛：「唯然，已見。」\n\n佛告諸比丘：「汝等勿於是比丘起於輕想；乃至汝等莫量於人，唯有如來能知人耳。」爾時，世尊即說偈言：\n\n「飛鳥及走獸，　　莫不畏師子，\n\n　唯師子獸王，　　無有與等者。\n\n　如是智慧人，　　雖小則為大，\n\n　莫取其身相，　　而生輕慢心。\n\n　何用巨大身，　　多肉而無慧，\n\n　此賢勝智慧，　　則為上士夫。\n\n　離欲斷諸結，　　涅槃永不生，\n\n　持此最後身，　　摧伏眾魔軍。」\n\n佛說此經已，諸比丘聞佛所說，歡喜奉行。",
+  "english_sa_text": "",
+  "parallels": [
+    {
+      "uid": "ja202",
+      "acronym": "Ja 202",
+      "root_lang": "pli",
+      "original_title": "Keḷisīlajātaka",
+      "translated_title": "Keli-Sila Jātaka",
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "sa-2.2",
+      "acronym": "SA2 2",
+      "root_lang": "lzh",
+      "original_title": "惡色",
+      "translated_title": "The Ugly Monk",
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "sn21.6",
+      "acronym": "SN 21.6",
+      "root_lang": "pli",
+      "original_title": "Lakuṇḍakabhaddiyasutta",
+      "translated_title": "Lakuṇṭaka Bhaddiya",
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    }
+  ],
+  "primary_sn_uid": "sn21.6",
+  "pali_text": "Sāvatthiyaṁ viharati. Atha kho āyasmā lakuṇḍakabhaddiyo yena bhagavā tenupasaṅkami. Addasā kho bhagavā āyasmantaṁ lakuṇḍakabhaddiyaṁ dūratova āgacchantaṁ. Disvāna bhikkhū āmantesi: “passatha no tumhe, bhikkhave, etaṁ bhikkhuṁ āgacchantaṁ dubbaṇṇaṁ duddasikaṁ okoṭimakaṁ bhikkhūnaṁ paribhūtarūpan”ti? “Evaṁ, bhante”. “Eso kho, bhikkhave, bhikkhu mahiddhiko mahānubhāvo, na ca sā samāpatti sulabharūpā yā tena bhikkhunā asamāpannapubbā. Yassa catthāya kulaputtā sammadeva agārasmā anagāriyaṁ pabbajanti, tadanuttaraṁ brahmacariyapariyosānaṁ diṭṭheva dhamme sayaṁ abhiññā sacchikatvā upasampajja viharatī”ti. Idamavoca bhagavā …pe… satthā: “Haṁsā koñcā mayūrā ca, hatthayo pasadā migā; Sabbe sīhassa bhāyanti, natthi kāyasmiṁ tulyatā. Evameva manussesu, daharo cepi paññavā; So hi tattha mahā hoti, neva bālo sarīravā”ti. Chaṭṭhaṁ.",
+  "english_sn_text": "At Sāvatthī. Then Venerable Bhaddiya the Dwarf went to the Buddha. The Buddha saw him coming off in the distance, and addressed the mendicants: “Mendicants, do you see this monk coming—ugly, unsightly, deformed, and despised by the mendicants?” “Yes, sir.” “That mendicant is very mighty and powerful. It’s not easy to find an attainment that he has not already attained. And he has realized the supreme culmination of the spiritual path in this very life. He lives having achieved with his own insight the goal for which gentlemen rightly go forth from the lay life to homelessness.” That is what the Buddha said. Then the Holy One, the Teacher, went on to say: “Geese, herons, and peacocks, elephants and spotted deer— though their bodies are not equal, they all fear the lion. So it is for humans— if a little person is wise, they’re the truly great one, not the fool with a good body.”",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa1001-1100/sa1063_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa1001-1100/sa1063_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛住舍卫国祇树给孤独园。\n时有异比丘形色丑陋，难可瞻视，为诸比丘所轻慢，来诣佛所。四众见之，皆起轻想，相谓：「彼何比丘？形貌丑陋，为人轻慢。」\n世尊知诸比丘心念，告言：「汝等见彼比丘形貌丑陋、令人起慢不？」答言：「唯然，已见。」佛言：「莫于彼起轻想。所以者何？彼已尽诸漏，所作已作，离诸重担，断诸有结，正智，心善解脱。莫妄量人，唯如来能量人。」\n彼比丘稽首退坐。世尊复告：「莫于是比丘起轻想；莫量于人，唯如来能知人。」即说偈言：「飞鸟及走兽，莫不畏师子；唯师子兽王，无有与等者。如是智慧人，虽小则为大；莫取其身相，而生轻慢心。何用巨大身，多肉而无慧；此贤胜智慧，则为上士夫。离欲断诸结，涅槃永不生；持此最后身，摧伏众魔军。」\n佛说此经已，诸比丘闻佛所说，欢喜奉行。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在舍卫国祇树给孤独园。\n那时有一位比丘形貌丑陋，难看，被比丘们轻慢，来到佛前。四众看见他，都起轻慢想，彼此说：「那是什么比丘？形貌丑陋，被人轻慢。」\n世尊知道比丘们心里想什么，问：「你们看见那位比丘形貌丑陋、让人起慢心吗？」答：「是的，已经看见了。」佛说：「不要对他起轻慢想。为什么？他已经尽诸漏，所作已作，卸下重担，断除有结，有正智，心善解脱。不要妄自衡量人，只有如来能衡量人。」\n那位比丘顶礼后退坐。世尊又说：「不要对这位比丘起轻慢；不要衡量人，只有如来能知人。」接着说偈：「飞鸟走兽，无不畏惧狮子；唯有狮子王，没有匹敌。有智慧的人也是这样，身虽小而为大；不要看外表，就生轻慢。巨大的身躯有什么用？多肉而无慧；这位贤者智慧殊胜，才是上士。离欲断结，涅槃不再受生；持此最后之身，摧伏众魔军。」\n佛说完这部经，比丘们听佛所说，都欢喜奉行。",
+  "notes": "本经 SC 平行表所列平行及 `raw_aligned_data.json` 内之巴利本文、Sujato 英译并用以厘定法义；求那跋陀罗汉本用于定位经文与传统术语。confidence=high：primary SN21.6；莫以貌取；漏尽大力，唯如来能量人。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "high",
+  "prior_review_status": "needs_revision",
+  "similarity_to_source": 0.299,
+  "paragraph_parallel": true
+}

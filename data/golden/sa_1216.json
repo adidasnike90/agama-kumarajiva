@@ -1,0 +1,53 @@
+{
+  "id": "SA_1216",
+  "uid": "sa1216",
+  "title": "雜阿含經  卷第五十  比丘尼相應  （1216）  憍慢",
+  "chinese_text": "如是我聞：\n\n一時，佛住舍衛國祇樹給孤獨園。\n\n時，尊者婆耆舍自以智慧堪能善說，於法聰明梵行所生憍慢心，即自心念：「我不利，不得利，得苦不得樂，我自以智慧輕慢於彼聰明梵行者，我今當說能生厭離偈。」即說偈言：\n\n「瞿曇莫生慢，　　斷慢令無餘，\n\n　莫起慢覺想，　　莫退生變悔。\n\n　莫隱覆於他，　　埿犁殺慢墮，\n\n　正受能除憂，　　見道住正道。\n\n　其心得喜樂，　　見道自攝持，\n\n　是故無礙辯，　　清淨離諸蓋。\n\n　斷一切諸慢，　　起一切明處，\n\n　正念於三明，　　神足他心智。」\n\n時，尊者婆耆舍說此生厭離偈已，心得清淨。",
+  "english_sa_text": "",
+  "parallels": [
+    {
+      "uid": "sa-2.251",
+      "acronym": "SA2 251",
+      "root_lang": "lzh",
+      "original_title": "憍慢",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "sn8.3",
+      "acronym": "SN 8.3",
+      "root_lang": "pli",
+      "original_title": "Pesalasutta",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    }
+  ],
+  "primary_sn_uid": "sn8.3",
+  "pali_text": "Ekaṁ samayaṁ āyasmā vaṅgīso āḷaviyaṁ viharati aggāḷave cetiye āyasmatā nigrodhakappena upajjhāyena saddhiṁ. Tena kho pana samayena āyasmā vaṅgīso attano paṭibhānena aññe pesale bhikkhū atimaññati. Atha kho āyasmato vaṅgīsassa etadahosi: “alābhā vata me, na vata me lābhā; dulladdhaṁ vata me, na vata me suladdhaṁ; yvāhaṁ attano paṭibhānena aññe pesale bhikkhū atimaññāmī”ti. Atha kho āyasmā vaṅgīso attanāva attano vippaṭisāraṁ uppādetvā tāyaṁ velāyaṁ imā gāthāyo abhāsi: “Mānaṁ pajahassu gotama, Mānapathañca pajahassu; Asesaṁ mānapathasmiṁ, Samucchito vippaṭisārīhuvā cirarattaṁ. Makkhena makkhitā pajā, Mānahatā nirayaṁ papatanti; Socanti janā cirarattaṁ, Mānahatā nirayaṁ upapannā. Na hi socati bhikkhu kadāci, Maggajino sammāpaṭipanno; Kittiñca sukhañca anubhoti, Dhammadasoti tamāhu pahitattaṁ. Tasmā akhilodha padhānavā, Nīvaraṇāni pahāya visuddho; Mānañca pahāya asesaṁ, Vijjāyantakaro samitāvī”ti.",
+  "english_sn_text": "At one time Venerable Vaṅgīsa was staying near Āḷavī, at Āḷavī’s premier shrine, together with his mentor, Venerable Nigrodhakappa. Now at that time Venerable Vaṅgīsa looked down upon other good-hearted mendicants because of his own eloquence. Then he thought, “It’s my loss, my misfortune, that I look down on other good-hearted mendicants because of my own eloquence.” Then, on the occasion of arousing remorse in himself, he recited these verses: “Give up conceit, Gotama! Completely abandon the different kinds of conceit! Besotted with the different kinds of conceit, you’ve had regrets for a long time. Smeared by smears and slain by conceit, people fall into hell. When people slain by conceit are reborn in hell, they grieve for a long time. But a mendicant who practices rightly, a path-victor, never grieves. They enjoy happiness and a good reputation, and they rightly call him a ‘Seer of Truth’. So being not hard-hearted, but energetic, with hindrances given up, pure; and having completely given up conceit, the one who makes an end with knowledge is assuaged.”",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa1201-1300/sa1216_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa1201-1300/sa1216_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，尊者婆耆舍住阿勒毗国阿勒毗塔庙，与和尚尼拘律劫宾俱。\n时婆耆舍以善说故，于诸善心梵行者生慢。作是念：「我今不利：以辩才轻慢善心梵行。我当自生厌离。」\n即说偈言：「瞿昙当舍慢，一切慢令尽；为慢所醉者，长夜生变悔。慢垢所污、慢所杀者，堕于泥犁，长夜忧悲。正修行、见道者则不忧；得喜乐、善名，称为见谛者。是故当精勤，舍盖心清净；断一切慢已，以智作苦边。」\n说生厌离偈已，厌故离贪，心得清净。",
+  "modern_psychology_text": "我是这样听说的：有一次，尊者婆耆舍住在阿勒毗国的阿勒毗塔庙，与和尚尼拘律劫宾一起。\n当时婆耆舍因为善于说法，对其他善心梵行者起慢。心想：「我现在不利：凭辩才轻慢善心梵行者。我应当自己生起厌离。」\n便说偈：「瞿昙应当舍慢，一切慢都断尽；被慢所醉的人，长夜生变悔。被慢垢所污、被慢所杀的人，堕落地狱，长夜忧悲。正确修行、见道的人就不忧；得到喜乐和善名，被称为见谛者。所以应当精勤，舍盖而使心清净；断尽一切慢以后，以智作苦的尽头。」\n说完生厌离的偈后，厌故离贪，心得清净。",
+  "notes": "本经 SC 平行表所列平行及 `raw_aligned_data.json` 内之巴利本文、Sujato 英译并用以厘定法义；求那跋陀罗汉本用于定位经文与传统术语。confidence=high：primary SN8.3。据 SN：以辩才轻慢善比丘而生悔；偈劝断慢、舍盖、以智作边。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "high",
+  "prior_review_status": "needs_revision",
+  "similarity_to_source": 0.07,
+  "paragraph_parallel": true
+}

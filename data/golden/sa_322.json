@@ -1,0 +1,32 @@
+{
+  "id": "SA_322",
+  "uid": "sa322",
+  "title": "雜阿含經  卷第十三  因緣相應  （322）  眼是內入處",
+  "chinese_text": "如是我聞：\n\n一時，佛住舍衛國祇樹給孤獨園。\n\n時，有異比丘往詣佛所，稽首佛足，退坐一面，白佛言：「世尊！如世尊說，眼是內入處，世尊略說，不廣分別。云何眼是內入處？」\n\n佛告彼比丘：「眼是內入處，四大所造淨色，不可見，有對。耳、鼻、舌、身內入處亦如是說。」\n\n復白佛言：「世尊！如世尊說，意是內入處，不廣分別。云何意是內入處？」佛告比丘：「意內入處者，若心、意、識非色，不可見，無對，是名意內入處。」\n\n復問：「如世尊說，色外入處，世尊略說，不廣分別。云何？世尊！色外入處。」\n\n佛告比丘：「色外入處，若色四大造，可見，有對，是名色是外入處。」\n\n復白佛言：「世尊說聲是外入處，不廣分別。云何聲是外入處？」\n\n佛告比丘：「若聲四大造，不可見，有對，如聲，香、味亦如是。」\n\n復問：「世尊說觸外入處，不廣分別。云何觸外入處？」\n\n佛告比丘：「觸外入處者，謂四大及四大造色，不可見，有對，是名觸外入處。」\n\n復問：「世尊說法外入處，不廣分別。」\n\n佛告比丘：「法外入處者，十一入所不攝，不可見，無對，是名法外入處。」\n\n佛說此經已，諸比丘聞佛所說，歡喜奉行。",
+  "english_sa_text": "",
+  "parallels": [],
+  "primary_sn_uid": null,
+  "pali_text": "",
+  "english_sn_text": "",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa301-400/sa322_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa301-400/sa322_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛在舍卫国祇树给孤独园。\n时，有异比丘往诣佛所，稽首佛足，退坐一面，白佛言：「世尊说眼是内入处，略而不广。云何眼是内入处？」佛告比丘：「眼内入处者，四大所造净色，不可见，有对。耳、鼻、舌、身内入处，亦复如是。」\n复问：「意是内入处，云何？」「意内入处者，心、意、识——非色，不可见，无对。是名意内入处。」\n复问：「色是外入处，云何？」「色外入处者，四大所造，可见，有对。是名色外入处。」\n复问：「声是外入处，云何？」「声外入处者，四大所造，不可见，有对。香、味亦尔。」\n复问：「触是外入处，云何？」「触外入处者，四大及四大造色，不可见，有对。是名触外入处。」\n复问：「法是外入处，云何？」「法外入处者，十一入所不摄，不可见，无对。是名法外入处。」\n佛说此经已，诸比丘闻佛所说，欢喜奉行。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在舍卫国祇树给孤独园。\n那时，有一位比丘来见佛，稽首佛足，退坐一面，问：「世尊说眼是内入处，只略说未广分别。怎样叫眼是内入处？」佛说：「眼内入处，是四大所造的净色，不可见，有对。耳、鼻、舌、身内入处，也是一样。」\n又问：「意是内入处，怎样？」「意内入处，就是心、意、识——非色，不可见，无对。这叫意内入处。」\n又问：「色是外入处，怎样？」「色外入处，是四大所造，可见，有对。这叫色外入处。」\n又问：「声是外入处，怎样？」「声外入处，是四大所造，不可见，有对。香、味也是一样。」\n又问：「触是外入处，怎样？」「触外入处，是四大及四大造色，不可见，有对。这叫触外入处。」\n又问：「法是外入处，怎样？」「法外入处，是十一入所不摄的，不可见，无对。这叫法外入处。」\n佛说完这部经，比丘们听佛所说，都欢喜奉行。",
+  "notes": "SC 于本经未列可靠巴利平行，故唯以汉本为底，参同相应之巴利定型语厘义；依项目规约「无可靠平行时 confidence 降为 medium/low」，本经作 medium。本经为内外入处之分别定义（净色／有对／无对等），近有部分析语；无 SC 巴利主平行，不作臆造，仅罗什风重写汉义。confidence=medium。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "medium",
+  "prior_review_status": "needs_revision",
+  "similarity_to_source": 0.334,
+  "paragraph_parallel": true
+}

@@ -1,0 +1,72 @@
+{
+  "id": "SA_69",
+  "uid": "sa69",
+  "title": "雜阿含經  卷第三  陰相應  （六九）  其道",
+  "chinese_text": "如是我聞：\n\n一時，佛住舍衛國祇樹給孤獨園。\n\n爾時，世尊告諸比丘：「我今當說有身集趣道及有身集滅道。云何有身集趣道？愚癡無聞凡夫，見不如實知色集、色滅、色味、色患、色離。不如實知故，樂色、歎色、著色、住色；樂色、歎色、著色、住色故，愛樂取；緣取有，緣有生，緣生、老、病、死、憂、悲、苦、惱。如是純大苦聚生。如是受、想、行、識廣說，是名有身集趣道。比丘！有身集趣道，當知即是苦集趣道。\n\n「云何有身集滅道？多聞聖弟子如實知色、色集、色滅、色味、色患、色離。如實知故，於色不樂、不歎、不著、不住；不樂、不歎、不著、不住故，彼色愛樂滅；愛樂滅則取滅，取滅則有滅，有滅則生滅，生滅則老、病、死、憂、悲、苦、惱，純大苦聚滅。如色，受、想、行、識亦如是，是名有身滅道跡。有身滅道跡，則是苦滅道跡，是故說有身滅道跡。」\n\n佛說此經已，諸比丘聞佛所說，歡喜奉行。\n\n如當說，有及當知，亦如是說。",
+  "english_sa_text": "Saṁyuktāgama\n\n69. Discourse on the Path\n\nThus have I heard. At one time the Buddha was staying at Sāvatthī in Jeta’s Grove, Anāthapiṇḍika’s Park.\n\nAt that time the Blessed One said to the monks: “I will now teach you the path to the arising of identity (sakkāya) and the path to the cessation of the arisen identity.\n\n“What is the path to the arising of identity? A foolish unlearned worldling does not understand as it really is bodily form, the arising of bodily form, the cessation of bodily form, the gratification of bodily form, the danger in bodily form, and the escape from bodily form. T 18b\n\n“Because of not understanding it as it really is, he delights in bodily form, commends bodily form, is attached to bodily form, and becomes established on bodily form. Because of delighting in bodily form, commending bodily form, being attached to bodily form, and becoming established on bodily form, he clings to it with craving and delight. In dependence on clinging, there is becoming. In dependence on becoming, there is birth. In dependence on birth, there is old age, disease, death, worry, sorrow, pain, and vexation. In this way this entire great mass of dukkha arises.\n\n“In the same way feeling … perception … formations … consciousness are to be recited fully. This is called the path to the arising of identity. Monks, you should know that the path to the arising of identity is the path to the arising of dukkha.\n\n“What is the path to the cessation of the arisen identity? A learned noble disciple understands as it really is bodily form, the arising of bodily form, the cessation of bodily form, the gratification of bodily form, the danger in bodily form, and the escape from bodily form.\n\n“Because of understanding it as it really is, he does not delight in bodily form, does not commend it, is not attached to it, and does not become established on it. Because of not delighting in it, not commending it, not being attached to it, and not becoming established on it, craving and delight for bodily form cease. With the cessation of craving and delight, clinging ceases. With the cessation of clinging, becoming ceases. With the cessation of becoming, birth ceases. With the cessation of birth, old age, disease, death, worry, sorrow, pain, and vexation cease, and this entire great mass of dukkha ceases.\n\n“As for bodily form, in the same way for feeling … perception … formations … consciousness. This is called the path to the cessation of identity. The path to the cessation of identity is the path to the cessation of dukkha. Therefore I have taught you the path to the cessation of identity.”\n\nWhen the Buddha had spoken this discourse, the monks, hearing what the Buddha had said, were delighted and received it respectfully.\n\nAs for “I will teach“, so with “there is” and “you should understand” three discourses should be recited in the same way.\n\nTranslated by Bhikkhu Anālayo. Originally published in ‘On the Five Aggregates (3)—A Translation of Saṁyukta-āgama Discourses 59 to 87’. Dharma Drum Journal of Buddhist Studies, vol. 13, pp. 1–65 (2013). New Taipei City: Dharma Drum Buddhist College.\n\nPrepared for SuttaCentral by Bhikkhu Sujato.",
+  "parallels": [
+    {
+      "uid": "sn22.44",
+      "acronym": "SN 22.44",
+      "root_lang": "pli",
+      "original_title": "Paṭipadāsutta",
+      "translated_title": "The Way",
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "ds2.3.1",
+      "acronym": "Ds 2.3.1",
+      "root_lang": "pli",
+      "original_title": "Tikanikkhepa",
+      "translated_title": "The Group of Triplets (tikaṃ)",
+      "type": "mention",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "ne20",
+      "acronym": "Ne 20",
+      "root_lang": "pli",
+      "original_title": "Desanāhārasampāta",
+      "translated_title": "Chapter ii 16 Modes of Conveying: Combined Treatment",
+      "type": "mention",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "ps1.2",
+      "acronym": "Ps 1.2",
+      "root_lang": "pli",
+      "original_title": "Diṭṭhikathā",
+      "translated_title": "Treatise on Views",
+      "type": "mention",
+      "resembling": false,
+      "remark": null
+    }
+  ],
+  "primary_sn_uid": "sn22.44",
+  "pali_text": "Sāvatthinidānaṁ. “Sakkāyasamudayagāminiñca vo, bhikkhave, paṭipadaṁ desessāmi, sakkāyanirodhagāminiñca paṭipadaṁ. Taṁ suṇātha. Katamā ca, bhikkhave, sakkāyasamudayagāminī paṭipadā? Idha, bhikkhave, assutavā puthujjano ariyānaṁ adassāvī ariyadhammassa akovido ariyadhamme avinīto, sappurisānaṁ adassāvī sappurisadhammassa akovido sappurisadhamme avinīto, rūpaṁ attato samanupassati, rūpavantaṁ vā attānaṁ; attani vā rūpaṁ, rūpasmiṁ vā attānaṁ. Vedanaṁ attato … saññaṁ … saṅkhāre … viññāṇaṁ attato samanupassati, viññāṇavantaṁ vā attānaṁ; attani vā viññāṇaṁ, viññāṇasmiṁ vā attānaṁ. Ayaṁ vuccati, bhikkhave, ‘sakkāyasamudayagāminī paṭipadā, sakkāyasamudayagāminī paṭipadā’ti. Iti hidaṁ, bhikkhave, vuccati ‘dukkhasamudayagāminī samanupassanā’ti. Ayamevettha attho. Katamā ca, bhikkhave, sakkāyanirodhagāminī paṭipadā? Idha, bhikkhave, sutavā ariyasāvako ariyānaṁ dassāvī ariyadhammassa kovido ariyadhamme suvinīto, sappurisānaṁ dassāvī sappurisadhammassa kovido sappurisadhamme suvinīto, na rūpaṁ attato samanupassati, na rūpavantaṁ vā attānaṁ; na attani vā rūpaṁ, na rūpasmiṁ vā attānaṁ. Na vedanaṁ attato … na saññaṁ … na saṅkhāre … na viññāṇaṁ attato samanupassati, na viññāṇavantaṁ vā attānaṁ; na attani vā viññāṇaṁ, na viññāṇasmiṁ vā attānaṁ. Ayaṁ vuccati, bhikkhave, ‘sakkāyanirodhagāminī paṭipadā, sakkāyanirodhagāminī paṭipadā’ti. Iti hidaṁ, bhikkhave, vuccati ‘dukkhanirodhagāminī samanupassanā’ti. Ayamevettha attho”ti. Dutiyaṁ.",
+  "english_sn_text": "At Sāvatthī. “Mendicants, I will teach you the practice that leads to the origin of substantial reality and the practice that leads to the cessation of substantial reality. Listen … And what is the practice that leads to the origin of substantial reality? It’s when an unlearned ordinary person has not seen the noble ones, and is neither skilled nor trained in the teaching of the noble ones. They’ve not seen true persons, and are neither skilled nor trained in the teaching of the true persons. They regard form as self, self as having form, form in self, or self in form. They regard feeling as self … They regard perception as self … They regard choices as self … They regard consciousness as self, self as having consciousness, consciousness in self, or self in consciousness. This is called the practice that leads to the origin of substantial reality. And that’s why it’s called a way of regarding things that leads to the origin of suffering. And what is the practice that leads to the cessation of substantial reality? It’s when a learned noble disciple has seen the noble ones, and is skilled and trained in the teaching of the noble ones. They’ve seen true persons, and are skilled and trained in the teaching of the true persons. They don’t regard form as self, self as having form, form in self, or self in form. They don’t regard feeling as self … They don’t regard perception as self … They don’t regard choices as self … They don’t regard consciousness as self, self as having consciousness, consciousness in self, or self in consciousness. This is called the practice that leads to the cessation of substantial reality. And that’s why it’s called a way of regarding things that leads to the cessation of suffering.”",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa1-100/sa69_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa1-100/sa69_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时佛在舍卫国祇树给孤独园。\n尔时世尊告诸比丘：我今当说有身集趣道，及有身灭道迹。云何有身集趣道？愚痴无闻凡夫不如实知色，不知色集、色灭、色味、色患、色离；不如实知故，乐色、歎色、著色、住色；乐、歎、著、住故，爱乐生取；缘取有，缘有生，缘生老、病、死、忧、悲、苦、恼。如是纯大苦聚生。于受、想、行、识亦复如是，是名有身集趣道。比丘，当知有身集趣道即是苦集趣道。云何有身灭道迹？多闻圣弟子如实知色、色集、色灭、色味、色患、色离；如实知故，于色不乐、不歎、不著、不住；不乐、不歎、不著、不住故，彼色爱乐灭；爱乐灭则取灭，取灭则有灭，有灭则生灭，生灭则老、病、死、忧、悲、苦、恼灭，纯大苦聚悉灭。于受、想、行、识亦复如是，是名有身灭道迹。有身灭道迹即是苦灭道迹，是故说有身灭道迹。\n佛说此经已，诸比丘闻佛所说，欢喜奉行。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在舍卫国祇树给孤独园。\n那时，世尊告诉比丘们：我今天要说通向有身集起的道，以及通向有身灭尽的道迹。什么是通向有身集起的道？愚痴无闻的凡夫不能如实知色，不知色的集、灭、味、患、离；因为不如实知，便贪乐色、赞歎色、执著色、住于色；因贪乐、赞歎、执著、住著，爱乐便生起取；缘于取而有「有」，缘于有而有生，缘于生而有老、病、死、忧、悲、苦、恼。这样纯粹的大苦聚生起。对受、想、行、识也是一样，这就叫做通向有身集起的道。比丘们，应当知道：通向有身集起的道，就是通向苦集起的道。什么是通向有身灭尽的道迹？多闻圣弟子如实知色，以及色的集、灭、味、患、离；因为如实知，对色便不贪乐、不赞歎、不执著、不住著；不贪乐、不赞歎、不执著、不住著，那色的爱乐便灭；爱乐灭则取灭，取灭则有灭，有灭则生灭，生灭则老、病、死、忧、悲、苦、恼灭，纯粹的大苦聚全都灭去。对受、想、行、识也是一样，这就叫做有身灭的道迹。有身灭的道迹，就是苦灭的道迹，所以说有身灭道迹。\n佛说完这部经，比丘们听佛所说，都欢喜奉行。",
+  "notes": "「有身」即 sakkāya（有身、萨迦耶）。据 SN22.44：有身集趣道／有身灭道迹即苦集趣道／苦灭道迹，此对应必须显出。SN 以「见五阴是我」为集趣道，汉本以「不如实知五转→乐歎著住→爱乐取→有→生→老病死」为道，义通缘起而不违无我，故从汉本，并志其与巴利之异。底本末「如当说，有及当知，亦如是说」为结集例，不入正文。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": [],
+    "similarity_to_source": 0.438
+  },
+  "forbidden_hits": [],
+  "confidence": "high",
+  "prior_review_status": "gold"
+}

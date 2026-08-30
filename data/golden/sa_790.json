@@ -1,0 +1,32 @@
+{
+  "id": "SA_790",
+  "uid": "sa790",
+  "title": "雜阿含經  卷第三十  聖道分相應  （790）  邪正",
+  "chinese_text": "如是我聞：\n\n一時，佛住舍衛國祇樹給孤獨園。\n\n爾時，世尊告諸比丘：「有邪及邪道，有正及正道。諦聽，善思，當為汝說。何等為邪？謂地獄、畜生、餓鬼。何等為邪道？謂邪見，乃至邪定。何等為正？謂人、天、涅槃。何等為正道？謂正見，乃至正定。」\n\n佛說此經已，諸比丘聞佛所說，歡喜奉行。",
+  "english_sa_text": "",
+  "parallels": [],
+  "primary_sn_uid": null,
+  "pali_text": "",
+  "english_sn_text": "",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa701-800/sa790_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa701-800/sa790_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛住舍卫国祇树给孤独园。\n尔时世尊告诸比丘：「有邪及邪道，有正及正道。谛听，善思，当为汝说。何等为邪？谓地狱、畜生、饿鬼。何等邪道？谓邪见、邪志、邪语、邪业、邪命、邪方便、邪念、邪定。何等为正？谓人、天、涅槃。何等正道？谓正见、正志、正语、正业、正命、正方便、正念、正定。」\n佛说此经已，诸比丘闻佛所说，欢喜奉行。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在舍卫国祇树给孤独园。\n那时世尊告诉诸比丘：「有邪和邪道，也有正和正道。仔细听，好好想，我为你们说。什么是邪？就是地狱、畜生、饿鬼。什么是邪道？就是邪见、邪志、邪语、邪业、邪命、邪方便、邪念、邪定。什么是正？就是人、天、涅槃。什么是正道？就是正见、正志、正语、正业、正命、正方便、正念、正定。」\n佛说完这部经，比丘们听佛所说，都欢喜奉行。",
+  "notes": "SC 于本经未列可靠巴利平行，故唯以汉本为底，参同相应之巴利定型语厘义；依项目规约「无可靠平行时 confidence 降为 medium/low」。confidence=medium：以三恶趣为邪果、人天涅槃为正果，八邪／八正为道；早期道果对举，无大乘义。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "medium",
+  "prior_review_status": "needs_revision",
+  "similarity_to_source": 0.392,
+  "paragraph_parallel": true
+}

@@ -1,0 +1,73 @@
+{
+  "id": "SA_417",
+  "uid": "sa417",
+  "title": "雜阿含經  卷第十七  界相應  （417）  如如",
+  "chinese_text": "如是我聞：\n\n一時，佛住王舍城迦蘭陀竹園。\n\n爾時，世尊告諸比丘：「汝等持我所說四聖諦不？」\n\n時，有比丘從座起，整衣服，偏袒右肩，為佛作禮，合掌白佛：「唯然，世尊所說四聖諦，我悉受持。」\n\n佛告比丘：「汝云何持我所說四聖諦？」\n\n比丘白佛言：「世尊說苦聖諦，我悉受持。如如、不離如、不異如，真、實、審諦、不顛倒，是聖所諦，是名苦聖諦。世尊說苦集聖諦、苦滅聖諦、苦滅道跡聖諦，如如、不離如、不異如，真、實、審諦、不顛倒，是聖所諦，是為世尊說四聖諦，我悉受持。」\n\n佛告比丘：「善哉！善哉！汝真實持我所說四聖諦，如如、不離如、不異如，真、實、審諦、不顛倒，是名比丘真實持我四聖諦。」\n\n佛說此經已，諸比丘聞佛所說，歡喜奉行。",
+  "english_sa_text": "",
+  "parallels": [
+    {
+      "uid": "sn56.20",
+      "acronym": "SN 56.20",
+      "root_lang": "pli",
+      "original_title": "Tathasutta",
+      "translated_title": "Actual",
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "sn56.27",
+      "acronym": "SN 56.27",
+      "root_lang": "pli",
+      "original_title": "Tathasutta",
+      "translated_title": "Actual",
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "kv6.3",
+      "acronym": "Kv 6.3",
+      "root_lang": "pli",
+      "original_title": "Saccakathā",
+      "translated_title": "Of the Four Truths",
+      "type": "mention",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "ps2.2",
+      "acronym": "Ps 2.2",
+      "root_lang": "pli",
+      "original_title": "Saccakathā",
+      "translated_title": "Treatise on Actualities",
+      "type": "mention",
+      "resembling": false,
+      "remark": null
+    }
+  ],
+  "primary_sn_uid": "sn56.20",
+  "pali_text": "“Cattārimāni, bhikkhave, tathāni avitathāni anaññathāni. Katamāni cattāri? ‘Idaṁ dukkhan’ti, bhikkhave, tathametaṁ avitathametaṁ anaññathametaṁ; ‘ayaṁ dukkhasamudayo’ti tathametaṁ avitathametaṁ anaññathametaṁ; ‘ayaṁ dukkhanirodho’ti tathametaṁ avitathametaṁ anaññathametaṁ; ‘ayaṁ dukkhanirodhagāminī paṭipadā’ti tathametaṁ avitathametaṁ anaññathametaṁ— imāni kho, bhikkhave, cattāri tathāni avitathāni anaññathāni. Tasmātiha, bhikkhave, ‘idaṁ dukkhan’ti yogo karaṇīyo …pe… ‘ayaṁ dukkhanirodhagāminī paṭipadā’ti yogo karaṇīyo”ti. Dasamaṁ. Dhammacakkappavattanavaggo dutiyo. Tassuddānaṁ Dhammacakkaṁ tathāgataṁ, khandhā āyatanena ca; Dhāraṇā ca dve avijjā, vijjā saṅkāsanā tathāti.",
+  "english_sn_text": "“Mendicants, these four things are real, not unreal, not otherwise. What four? ‘This is suffering’ … ‘This is the origin of suffering’ … ‘This is the cessation of suffering’ … ‘This is the practice that leads to the cessation of suffering’ … These four things are real, not unreal, not otherwise. That’s why you should practice meditation …”",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa401-500/sa417_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa401-500/sa417_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛在王舍城迦兰陀竹园。\n尔时，世尊告诸比丘：「有四法：如实、不虚、不异。何等为四？谓此苦圣谛——如实、不虚、不异；此苦集圣谛、此苦灭圣谛、此苦灭道迹圣谛——亦如实、不虚、不异。此四者真、实、审谛、不颠倒，是圣所谛。」\n「是故比丘于四圣谛未无间等者，当勤方便，起增上欲，精进修学。何等为四？谓苦圣谛、苦集圣谛、苦灭圣谛、苦灭道迹圣谛。」\n佛说此经已，诸比丘闻佛所说，欢喜奉行。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在王舍城迦兰陀竹园。\n那时，世尊告诉比丘们：「有四种法：如实、不虚假、不是别的样子。哪四种？就是这苦圣谛——如实、不虚假、不是别的样子；这苦集圣谛、这苦灭圣谛、这苦灭道迹圣谛——也如实、不虚假、不是别的样子。这四种真切、确实、审谛、不颠倒，是圣者所确认的谛。」\n「所以比丘对四圣谛还没有无间等的，应当勤加方便，发起强盛愿欲，精进修学。哪四种？就是苦圣谛、苦集圣谛、苦灭圣谛、苦灭道迹圣谛。」\n佛说完这部经，比丘们听佛所说，都欢喜奉行。",
+  "notes": "本经 SC 平行表所列平行及 `raw_aligned_data.json` 内之巴利本文、Sujato 英译并用以厘定法义；求那跋陀罗汉本用于定位经文与传统术语。confidence=high：primary SN56.20／27 Tatha。信-校正：汉题『如如』及『如如、不离如、不异如』易读作后出真如义；据 Pāli tatha／avitatha／anaññatha（Sujato: real, not unreal, not otherwise）改写为『如实、不虚、不异』，并收束汉本受持对话为佛直说四谛真实相。保留『真、实、审谛、不颠倒』早期谛义，不用真如／如来藏等后出语。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "high",
+  "prior_review_status": "needs_revision",
+  "similarity_to_source": 0.131,
+  "paragraph_parallel": true
+}

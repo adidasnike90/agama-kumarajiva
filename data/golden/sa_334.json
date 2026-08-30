@@ -1,0 +1,32 @@
+{
+  "id": "SA_334",
+  "uid": "sa334",
+  "title": "雜阿含經  卷第十三  因緣相應  （334）  有縛法",
+  "chinese_text": "如是我聞：\n\n一時，佛住拘留搜調牛聚落。\n\n爾時，世尊告諸比丘：「今當為汝說法，初、中、後善，善義善味，純一滿淨，梵行清白。諦聽，善思，謂有因、有緣、有縛法經。\n\n「云何有因、有緣、有縛法經？謂眼有因、有緣、有縛。何等為眼因、眼緣、眼縛？謂眼業因、業緣、業縛，業有因、有緣、有縛。何等為業因、業緣、業縛？謂業愛因、愛緣、愛縛，愛有因、有緣、有縛。何等為愛因、愛緣、愛縛？謂愛無明因、無明緣、無明縛，無明有因、有緣、有縛。何等無明因、無明緣、無明縛？謂無明不正思惟因、不正思惟緣、不正思惟縛，不正思惟有因、有緣、有縛。何等不正思惟因、不正思惟緣、不正思惟縛，謂緣眼、色，生不正思惟，生於癡。\n\n「緣眼、色，生不正思惟，生於癡，彼癡者是無明，癡求欲名為愛，愛所作名為業。如是，比丘！不正思惟因無明為愛，無明因愛，愛因為業，業因為眼。耳、鼻、舌、身、意亦如是說，是名有因緣、有縛法經。」\n\n佛說此經已，諸比丘聞佛所說，歡喜奉行。",
+  "english_sa_text": "",
+  "parallels": [],
+  "primary_sn_uid": null,
+  "pali_text": "",
+  "english_sn_text": "",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa301-400/sa334_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa301-400/sa334_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛住拘留搜调牛聚落。\n尔时，世尊告诸比丘：「今当说法，初、中、后善，善义善味，纯一满净，梵行清白。谛听善思——所谓有因、有缘、有缚法经。」\n「云何有因、有缘、有缚法？眼有因、有缘、有缚。眼以业为因缘缚；业以爱为因缘缚；爱以无明为因缘缚；无明以不正思惟为因缘缚。」\n「不正思惟云何有因缘缚？缘眼与色，生不正思惟，生于痴。彼痴即无明；痴所求欲名爱；爱所作名业；业因故有眼。如是：不正思惟因无明，无明因爱，爱因业，业因眼。耳、鼻、舌、身、意亦复如是。——是名有因、有缘、有缚法经。」\n佛说此经已，诸比丘闻佛所说，欢喜奉行。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在拘留搜调牛聚落。\n那时，世尊告诉比丘们：「现在为你们说法，初、中、后都善，义味具足，纯一清净，梵行清白。仔细听，好好想——这叫做有因、有缘、有缚法经。」\n「什么是有因、有缘、有缚法？眼有因、有缘、有缚。眼以业为因缘而缚；业以爱为因缘而缚；爱以无明为因缘而缚；无明以不正思惟为因缘而缚。」\n「不正思惟怎样有因缘缚？缘着眼与色，生起不正思惟，生起痴。那痴就是无明；痴所求的欲叫做爱；爱所作的叫做业；业为因所以有眼。这样：不正思惟因于无明，无明因于爱，爱因于业，业因于眼。耳、鼻、舌、身、意也是一样。——这叫做有因、有缘、有缚法经。」\n佛说完这部经，比丘们听佛所说，都欢喜奉行。",
+  "notes": "SC 于本经未列可靠巴利平行，故唯以汉本为底，参同相应之巴利定型语厘义；依项目规约「无可靠平行时 confidence 降为 medium/low」，本经作 medium。逆推链：眼←业←爱←无明←不正思惟←眼色；再顺说不正思惟→无明→爱→业→眼。删汉本层层「何等为…」套问之冗复。confidence=medium。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "medium",
+  "prior_review_status": "needs_revision",
+  "similarity_to_source": 0.252,
+  "paragraph_parallel": true
+}

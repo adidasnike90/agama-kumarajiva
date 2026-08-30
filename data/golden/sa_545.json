@@ -1,0 +1,46 @@
+{
+  "id": "SA_545",
+  "uid": "sa545",
+  "title": "雜阿含經  卷第二十二  阿難相應  （545）  松林",
+  "chinese_text": "如是我聞：\n\n一時，佛住舍衛國祇樹給孤獨園。爾時，尊者阿那律在舍衛國住松林精舍。\n\n時，尊者阿那律語諸比丘：「譬如大樹，生而順下，隨浚隨輸，若伐其根，樹必當倒，隨所而順下。如是比丘修四念處，長夜順趣浚輸，向於遠離；順趣浚輸，向於出要，順趣浚輸，向於涅槃。」\n\n尊者阿那律說此經已，諸比丘聞其所說，歡喜奉行。",
+  "english_sa_text": "",
+  "parallels": [
+    {
+      "uid": "sn52.8",
+      "acronym": "SN 52.8",
+      "root_lang": "pli",
+      "original_title": "Salaḷāgārasutta",
+      "translated_title": null,
+      "type": "full",
+      "resembling": true,
+      "remark": null
+    }
+  ],
+  "primary_sn_uid": "sn52.8",
+  "pali_text": "Ekaṁ samayaṁ āyasmā anuruddho sāvatthiyaṁ viharati salaḷāgāre. Tatra kho āyasmā anuruddho bhikkhū āmantesi …pe… etadavoca: “seyyathāpi, āvuso, gaṅgā nadī pācīnaninnā pācīnapoṇā pācīnapabbhārā. Atha mahājanakāyo āgaccheyya kudālapiṭakaṁ ādāya: ‘mayaṁ imaṁ gaṅgānadiṁ pacchāninnaṁ karissāma pacchāpoṇaṁ pacchāpabbhāran’ti. Taṁ kiṁ maññathāvuso, api nu so mahājanakāyo gaṅgānadiṁ pacchāninnaṁ kareyya pacchāpoṇaṁ pacchāpabbhāran”ti? “No hetaṁ, āvuso”. “Taṁ kissa hetu”? “Gaṅgā, āvuso, nadī pācīnaninnā pācīnapoṇā pācīnapabbhārā. Sā na sukarā pacchāninnaṁ kātuṁ pacchāpoṇaṁ pacchāpabbhāraṁ. Yāvadeva ca pana so mahājanakāyo kilamathassa vighātassa bhāgī assā”ti. “Evameva kho, āvuso, bhikkhuṁ cattāro satipaṭṭhāne bhāventaṁ cattāro satipaṭṭhāne bahulīkarontaṁ rājāno vā rājamahāmattā vā mittā vā amaccā vā ñātī vā sālohitā vā bhogehi abhihaṭṭhuṁ pavāreyyuṁ: ‘ehambho purisa, kiṁ te ime kāsāvā anudahanti? Kiṁ muṇḍo kapālamanusañcarasi? Ehi hīnāyāvattitvā bhoge ca bhuñjassu puññāni ca karohī’ti. So vata, āvuso, bhikkhu cattāro satipaṭṭhāne bhāvento cattāro satipaṭṭhāne bahulīkaronto sikkhaṁ paccakkhāya hīnāyāvattissatīti—netaṁ ṭhānaṁ vijjati. Taṁ kissa hetu? Yañhi taṁ, āvuso, cittaṁ dīgharattaṁ vivekaninnaṁ vivekapoṇaṁ vivekapabbhāraṁ taṁ vata hīnāyāvattissatīti—netaṁ ṭhānaṁ vijjati. Kathañcāvuso, bhikkhu cattāro satipaṭṭhāne bhāveti, cattāro satipaṭṭhāne bahulīkarotīti? Idhāvuso, bhikkhu kāye kāyānupassī viharati …pe… vedanāsu …pe… citte …pe… dhammesu dhammānupassī viharati ātāpī sampajāno satimā, vineyya loke abhijjhādomanassaṁ. Evaṁ kho, āvuso, bhikkhu cattāro satipaṭṭhāne bhāveti, cattāro satipaṭṭhāne bahulīkarotī”ti. Aṭṭhamaṁ.",
+  "english_sn_text": "At one time Venerable Anuruddha was staying near Sāvatthī in the salaḷa tree hut. There Venerable Anuruddha addressed the mendicants: “Reverends, suppose that, although the Ganges River slants, slopes, and inclines to the east, a large crowd were to come along with a spade and basket, saying: ‘We’ll make this Ganges River slant, slope, and incline to the west!’ What do you think, reverends? Would they succeed?” “No, reverend. Why is that? The Ganges River slants, slopes, and inclines to the east. It’s not easy to make it slant, slope, and incline to the west. That large crowd will eventually get weary and frustrated.” “In the same way, while a mendicant develops and cultivates the four kinds of mindfulness meditation, if rulers or their chief ministers, friends or colleagues, relatives or family should invite them to accept wealth, saying: ‘Please, my man, why let these ocher robes torment you? Why follow the practice of shaving your head and carrying an alms bowl? Come, return to a lesser life, enjoy wealth, and make merit!’ It is quite impossible for a mendicant who is developing and cultivating the four kinds of mindfulness meditation to resign the training and return to a lesser life. Why is that? Because for a long time that mendicant’s mind has slanted, sloped, and inclined to seclusion. So it’s impossible for them to return to a lesser life. And how does a mendicant develop and cultivate the four kinds of mindfulness meditation? It’s when a mendicant meditates by observing an aspect of the body … feelings … mind … principles—keen, aware, and mindful, rid of covetousness and displeasure for the world. That’s how a mendicant develops and cultivates the four kinds of mindfulness meditation.”",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa501-600/sa545_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa501-600/sa545_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛在舍卫国祇树给孤独园。尔时，尊者阿那律在舍卫国住松林精舍。\n阿那律语诸比丘：「譬如大树，生而顺下，随浚随输；伐其根，树必当倒，顺下而去。比丘修四念处，长夜顺趣浚输，向于远离、出要、涅槃。」\n尊者阿那律说是经已，诸比丘闻其所说，欢喜奉行。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在舍卫国祇树给孤独园。尔时，阿那律尊者在舍卫国住松林精舍。\n阿那律语诸比丘：「譬如大树，生而顺下，随浚随输；伐其根，树必当倒，顺下而去。比丘修四念处，长夜顺趣浚输，向于远离、出要、涅槃。」\n阿那律尊者说完这部经，比丘们听其所说，都欢喜奉行。",
+  "notes": "本经 SC 平行表所列平行及 `raw_aligned_data.json` 内之巴利本文、Sujato 英译并用以厘定法义；求那跋陀罗汉本用于定位经文与传统术语。confidence=high：resembling SN52.8 Salaḷāgāra（顺趋远离）；汉作大树顺下喻，SN 作恒河顺东，从汉本喻。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "high",
+  "prior_review_status": "needs_revision",
+  "similarity_to_source": 0.37,
+  "paragraph_parallel": true,
+  "quality_gate_reasons": [
+    "lit_mod_gap=0.178>=0.1"
+  ]
+}

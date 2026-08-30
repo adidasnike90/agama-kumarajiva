@@ -1,0 +1,63 @@
+{
+  "id": "SA_1225",
+  "uid": "sa1225",
+  "title": "雜阿含經  卷第五十  剎利相應  （1225）  大祠",
+  "chinese_text": "如是我聞：\n\n一時，佛住王舍城耆闍崛山中……廣說如上說。差別者：時，天帝釋說異偈，而問佛言：\n\n「今請問瞿曇，　　微密深妙慧，\n\n　世尊之所體，　　無障礙知見。」\n\n眾人普設會……偈如上廣說，乃至為王舍城諸設會者說種種法，示、教、照、喜已，從座起去。",
+  "english_sa_text": "",
+  "parallels": [
+    {
+      "uid": "ea13.6",
+      "acronym": "EA 13.6",
+      "root_lang": "lzh",
+      "original_title": "善業",
+      "translated_title": "Good Deeds",
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "sa-2.52",
+      "acronym": "SA2 52",
+      "root_lang": "lzh",
+      "original_title": "大祠",
+      "translated_title": "Non-Buddhist teachers",
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "sn11.16",
+      "acronym": "SN 11.16",
+      "root_lang": "pli",
+      "original_title": "Yajamānasutta",
+      "translated_title": "Bestowing Alms",
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    }
+  ],
+  "primary_sn_uid": "sn11.16",
+  "pali_text": "Ekaṁ samayaṁ bhagavā rājagahe viharati gijjhakūṭe pabbate. Atha kho sakko devānamindo yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṁ abhivādetvā ekamantaṁ aṭṭhāsi. Ekamantaṁ ṭhito kho sakko devānamindo bhagavantaṁ gāthāya ajjhabhāsi: “Yajamānānaṁ manussānaṁ, puññapekkhāna pāṇinaṁ; Karotaṁ opadhikaṁ puññaṁ, kattha dinnaṁ mahapphalan”ti. “Cattāro ca paṭipannā, cattāro ca phale ṭhitā; Esa saṅgho ujubhūto, paññāsīlasamāhito. Yajamānānaṁ manussānaṁ, Puññapekkhāna pāṇinaṁ; Karotaṁ opadhikaṁ puññaṁ, Saṅghe dinnaṁ mahapphalan”ti.",
+  "english_sn_text": "At one time the Buddha was staying near Rājagaha, on the Vulture’s Peak Mountain. And then Sakka, lord of gods, went up to the Buddha, bowed, stood to one side, and addressed him in verse: “For humans, those merit-seeking creatures, who sponsor sacrifices, making worldly merit, where is a gift very fruitful?” “Four practicing the path, and four established in the fruit. This is the upright Saṅgha, with wisdom, ethics, and immersion. For humans, those merit-seeking creatures, who sponsor sacrifices, making worldly merit, what is given to the Saṅgha is very fruitful.”",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa1201-1300/sa1225_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa1201-1300/sa1225_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛住王舍城耆阇崛山中。……广说如上。\n差别者：天帝释以异偈问：「请问瞿昙，深妙无碍慧，世尊所亲证。」佛仍以四向四果僧为最上福田而答；乃至为设会者说法，示、教、照、喜已，从座起去。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在王舍城耆阇崛山中。……详细内容如上所说。\n不同的是：天帝释用另一首偈问：「请问瞿昙，那深妙无碍的智慧，是世尊亲自证得的。」佛仍然以四向四果的僧伽为最上福田来回答；一直到为设会的人说法，开示、教导、鼓舞、令喜以后，从座起身离去。",
+  "notes": "本经 SC 平行表所列平行及 `raw_aligned_data.json` 内之巴利本文、Sujato 英译并用以厘定法义；求那跋陀罗汉本用于定位经文与传统术语。confidence=high：与 SA_1224 同属 SN11.16 系；汉本异开偈之略本。福田义同：四向四果僧。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "high",
+  "prior_review_status": "needs_revision",
+  "similarity_to_source": 0.193,
+  "paragraph_parallel": true
+}

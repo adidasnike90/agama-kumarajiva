@@ -1,0 +1,224 @@
+{
+  "id": "SA_701",
+  "uid": "sa701",
+  "title": "雜阿含經  卷第二十八  根力相應  （701）  如來力",
+  "chinese_text": "如是我聞：\n\n一時，佛住舍衛國祇樹給孤獨園。\n\n爾時，世尊告諸比丘：「有十種如來力。若此力成就，如來、應、等正覺得先佛最勝處，能轉梵輪，於大眾中師子吼而吼。何等為十？謂如來處非處如實知，是名初力……」乃至漏盡，如上說。\n\n佛說此經已，諸比丘聞佛所說，歡喜奉行。",
+  "english_sa_text": "",
+  "parallels": [
+    {
+      "uid": "an10.21",
+      "acronym": "AN 10.21",
+      "root_lang": "pli",
+      "original_title": "Sīhanādasutta",
+      "translated_title": "The Lion",
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "ea46.4",
+      "acronym": "EA 46.4",
+      "root_lang": "lzh",
+      "original_title": "力",
+      "translated_title": "Ten Powers",
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "sa684",
+      "acronym": "SA 684",
+      "root_lang": "lzh",
+      "original_title": "十力",
+      "translated_title": "The Tathāgata and the Arhat",
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "t780a",
+      "acronym": "T 780a",
+      "root_lang": "lzh",
+      "original_title": "十力",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "t780b",
+      "acronym": "T 780b",
+      "root_lang": "lzh",
+      "original_title": "十力",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "t781",
+      "acronym": "T 781",
+      "root_lang": "lzh",
+      "original_title": "十力",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "t802",
+      "acronym": "T 802",
+      "root_lang": "lzh",
+      "original_title": "信解智力",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "an6.64",
+      "acronym": "AN 6.64",
+      "root_lang": "pli",
+      "original_title": "Sīhanādasutta",
+      "translated_title": null,
+      "type": "full",
+      "resembling": true,
+      "remark": null
+    },
+    {
+      "uid": "arv22",
+      "acronym": "Arv 22",
+      "root_lang": "san",
+      "original_title": "Daśa Tathāgata-Balāni",
+      "translated_title": "The Ten Strengths of a Realised One",
+      "type": "full",
+      "resembling": true,
+      "remark": null
+    },
+    {
+      "uid": "mn12",
+      "acronym": "MN 12",
+      "root_lang": "pli",
+      "original_title": "Mahāsīhanādasutta",
+      "translated_title": "The Greater Discourse on the Lion’s Roar",
+      "type": "full",
+      "resembling": true,
+      "remark": null
+    },
+    {
+      "uid": "sa687",
+      "acronym": "SA 687",
+      "root_lang": "lzh",
+      "original_title": "獅子吼",
+      "translated_title": null,
+      "type": "full",
+      "resembling": true,
+      "remark": null
+    },
+    {
+      "uid": "sa601-700",
+      "acronym": null,
+      "root_lang": "lzh",
+      "original_title": "Saṁyuktāgama 601–700",
+      "translated_title": null,
+      "type": "full",
+      "resembling": true,
+      "remark": null
+    },
+    {
+      "uid": "sa686",
+      "acronym": "SA 686",
+      "root_lang": "lzh",
+      "original_title": "師子吼",
+      "translated_title": null,
+      "type": "full",
+      "resembling": true,
+      "remark": null
+    },
+    {
+      "uid": "sf141",
+      "acronym": "SF 141",
+      "root_lang": "san",
+      "original_title": "",
+      "translated_title": null,
+      "type": "full",
+      "resembling": true,
+      "remark": null
+    },
+    {
+      "uid": "sf243",
+      "acronym": "SF 243",
+      "root_lang": "san",
+      "original_title": "",
+      "translated_title": null,
+      "type": "full",
+      "resembling": true,
+      "remark": null
+    },
+    {
+      "uid": "sf261",
+      "acronym": "SF 261",
+      "root_lang": "san",
+      "original_title": "",
+      "translated_title": null,
+      "type": "full",
+      "resembling": true,
+      "remark": null
+    },
+    {
+      "uid": "sf95",
+      "acronym": "SF 95",
+      "root_lang": "san",
+      "original_title": "",
+      "translated_title": null,
+      "type": "full",
+      "resembling": true,
+      "remark": null
+    },
+    {
+      "uid": "sht-sutta36",
+      "acronym": "SHT Sutta 36",
+      "root_lang": "san",
+      "original_title": "",
+      "translated_title": null,
+      "type": "full",
+      "resembling": true,
+      "remark": null
+    },
+    {
+      "uid": "t757",
+      "acronym": "T 757",
+      "root_lang": "lzh",
+      "original_title": "身毛喜豎",
+      "translated_title": null,
+      "type": "full",
+      "resembling": true,
+      "remark": null
+    }
+  ],
+  "primary_sn_uid": null,
+  "pali_text": "",
+  "english_sn_text": "",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa701-800/sa701_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa701-800/sa701_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛住舍卫国祇树给孤独园。\n佛告比丘：「有十种如来力。成就此力，如来、应、等正觉得先佛最胜处智，能转梵轮，于大众中作师子吼。」\n「何等为十？一、处非处如实知。二、过去未来现在业及受因事报如实知。三、禅、解脱、三昧、正受之杂染与清净如实知。四、众生诸根差别如实知。五、众生种种意解如实知。六、世间种种界如实知。七、一切至处道如实知。八、种种宿命如实忆念。九、天眼净见众生死此生彼、随业受报。十、诸漏已尽，无漏心解脱、慧解脱，现法自知作证：我生已尽，梵行已立，所作已作，不受后有。」\n佛说此经已，诸比丘闻佛所说，欢喜奉行。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在舍卫国祇树给孤独园。\n佛告比丘：「有十种如来力。成就这些力，如来、应、等正觉就得先佛最胜处的智慧，能转梵轮，在大众中作师子吼。」\n「哪十种？一、如实知处与非处。二、如实知过去未来现在的业及受的因缘果报。三、如实知禅、解脱、三昧、正受的杂染与清净。四、如实知众生诸根的差别。五、如实知众生种种意向。六、如实知世间种种界。七、如实知一切能到某处的道。八、如实忆念种种宿命。九、以清净天眼见众生死此生彼、随业受报。十、诸漏已尽，无漏心解脱、慧解脱，在现法中自己证知：我生已尽，梵行已立，所作已作，不再受后有。」\n佛说完这部经，比丘们听佛所说，都欢喜奉行。",
+  "notes": "本经 SC 平行表所列平行及 `raw_aligned_data.json` 内之巴利本文、Sujato 英译并用以厘定法义；求那跋陀罗汉本用于定位经文与传统术语。confidence=high：primary AN10.21 Sīhanāda（十如来力）。gold_reconstructed：汉「初力……乃至漏尽如上说」→ 据 SA_684／AN10.21 压缩十力各一句；转梵轮／师子吼套语并为一处。",
+  "review_status": "gold_reconstructed",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "high",
+  "prior_review_status": "needs_revision",
+  "reconstruction_basis": "初力乃至漏尽如上说 → SA_684／AN10.21 十力压缩",
+  "similarity_to_source": 0.204,
+  "paragraph_parallel": true
+}

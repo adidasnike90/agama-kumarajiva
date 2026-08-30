@@ -1,0 +1,62 @@
+[
+  {
+    "id": "SA_251",
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": [],
+    "sim": 0.359,
+    "paragraphs": 8,
+    "paragraph_parallel": true,
+    "confidence": "high",
+    "review_status": "gold"
+  },
+  {
+    "id": "SA_252",
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": [],
+    "sim": 0.354,
+    "paragraphs": 15,
+    "paragraph_parallel": true,
+    "confidence": "high",
+    "review_status": "gold"
+  },
+  {
+    "id": "SA_253",
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": [],
+    "sim": 0.227,
+    "paragraphs": 18,
+    "paragraph_parallel": true,
+    "confidence": "high",
+    "review_status": "gold"
+  },
+  {
+    "id": "SA_254",
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": [],
+    "sim": 0.316,
+    "paragraphs": 20,
+    "paragraph_parallel": true,
+    "confidence": "high",
+    "review_status": "gold"
+  },
+  {
+    "id": "SA_255",
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": [],
+    "sim": 0.286,
+    "paragraphs": 21,
+    "paragraph_parallel": true,
+    "confidence": "high",
+    "review_status": "gold"
+  }
+]

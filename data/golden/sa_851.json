@@ -1,0 +1,43 @@
+{
+  "id": "SA_851",
+  "uid": "sa851",
+  "title": "雜阿含經  卷第三十二  學相應  （851）  法鏡",
+  "chinese_text": "如是我聞：\n\n一時，佛住舍衛國祇樹給孤獨園。\n\n爾時，世尊告諸比丘：「我今當說法鏡經，諦聽，善思，當為汝說。何等為法鏡經？謂聖弟子於佛不壞淨，於法、僧不壞淨，聖戒成就，是名法鏡經。」佛說此經已，諸比丘聞佛所說，歡喜奉行。",
+  "english_sa_text": "",
+  "parallels": [
+    {
+      "uid": "sn55.9",
+      "acronym": "SN 55.9",
+      "root_lang": "pli",
+      "original_title": "Dutiyagiñjakāvasathasutta",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    }
+  ],
+  "primary_sn_uid": "sn55.9",
+  "pali_text": "Ekamantaṁ nisinno kho āyasmā ānando bhagavantaṁ etadavoca: “asoko nāma, bhante, bhikkhu kālaṅkato; tassa kā gati, ko abhisamparāyo? Asokā nāma, bhante, bhikkhunī kālaṅkatā …pe… asoko nāma, bhante, upāsako kālaṅkato …pe… asokā nāma, bhante, upāsikā kālaṅkatā; tassā kā gati, ko abhisamparāyo”ti? “Asoko, ānanda, bhikkhu kālaṅkato āsavānaṁ khayā anāsavaṁ cetovimuttiṁ paññāvimuttiṁ diṭṭheva dhamme sayaṁ abhiññā sacchikatvā upasampajja vihāsi …pe… (purimaveyyākaraṇena ekanidānaṁ.) Ayaṁ kho so, ānanda, dhammādāso dhammapariyāyo; yena samannāgato ariyasāvako ākaṅkhamāno attanāva attānaṁ byākareyya: ‘khīṇanirayomhi khīṇatiracchānayoni khīṇapettivisayo khīṇāpāyaduggativinipāto, sotāpannohamasmi avinipātadhammo niyato sambodhiparāyaṇo’”ti. Navamaṁ.",
+  "english_sn_text": "Ānanda said to the Buddha: “Sir, the monk named Asoka has passed away. Where has he been reborn in his next life? The nun named Asokā, the layman named Asoka, and the laywoman named Asokā have passed away. Where have they been reborn in the next life?” “Ānanda, the monk Asoka passed away having realized the undefiled freedom of heart and freedom by wisdom … in this very life … (And all is explained as in SN 55.8.) This is that mirror of the teaching. A noble disciple who has this may declare of themselves: ‘I’ve finished with rebirth in hell, the animal realm, and the ghost realm. I’ve finished with all places of loss, bad places, the underworld. I am a stream-enterer! I’m not liable to be reborn in the underworld, and am assured, destined for awakening.’”",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa801-900/sa851_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa801-900/sa851_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛住舍卫国祇树给孤独园。\n尔时世尊告诸比丘：「我今当说法镜经。谛听，善思，当为汝说。」\n「何等为法镜经？谓圣弟子于佛不坏净、于法不坏净、于僧不坏净、圣戒成就。圣弟子成就此者，若欲自记，当如是说：『我已尽地狱、畜生、饿鬼；已尽恶趣、险难、堕处；我得须陀洹，不堕恶趣，决定正向三菩提。』是名法镜经。」\n佛说此经已，诸比丘闻佛所说，欢喜奉行。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在舍卫国祇树给孤独园。\n那时世尊告诉比丘们：「我现在要说法镜经。仔细听，好好想，我当为你们说。」\n「什么是法镜经？就是圣弟子对佛不坏净、对法不坏净、对僧不坏净，以及圣戒成就。圣弟子成就这些的，若想自己记说，应当这样说：『我已尽地狱、畜生、饿鬼；已尽恶趣、险难、堕处；我得须陀洹，不堕恶趣，决定正向正觉。』这叫做法镜经。」\n佛说完这部经，比丘们听佛所说，都欢喜奉行。",
+  "notes": "本经 SC 平行表所列平行及 `raw_aligned_data.json` 内之巴利本文、Sujato 英译并用以厘定法义；求那跋陀罗汉本用于定位经文与传统术语。confidence=high：汉本为法镜四支略说；据 SN55.8–10 法镜（dhammādāsa）补自记须陀洹句。SC 标 SN55.9，本经无命终问答，仅取法镜定义。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "high",
+  "prior_review_status": "needs_revision",
+  "similarity_to_source": 0.295,
+  "paragraph_parallel": true
+}

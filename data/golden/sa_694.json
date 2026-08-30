@@ -1,0 +1,53 @@
+{
+  "id": "SA_694",
+  "uid": "sa694",
+  "title": "雜阿含經  卷第二十八  根力相應  （694）  八力",
+  "chinese_text": "如是我聞：\n\n一時，佛住舍衛國祇樹給孤獨園。\n\n爾時，尊者舍利弗詣世尊所，稽首禮足，退坐一面，白佛言：「世尊！漏盡比丘有幾力？」\n\n佛告舍利弗：「漏盡比丘有八力。何等為八？謂漏盡比丘心順趣於離、流注於離、浚輸於離，順趣於出、流注於出、浚輸於出，順趣涅槃、流注涅槃、浚輸涅槃。若見五欲，猶見火坑。如是見已，於欲念、欲受、欲著，心不永住，修四念處、四正斷、四如意足、五根、五力、七覺分、八聖道分。」\n\n佛說此經已，尊者舍利弗聞佛所說，歡喜奉行。",
+  "english_sa_text": "",
+  "parallels": [
+    {
+      "uid": "an10.90",
+      "acronym": "AN 10.90",
+      "root_lang": "pli",
+      "original_title": "Khīṇāsavabalasutta",
+      "translated_title": null,
+      "type": "full",
+      "resembling": true,
+      "remark": null
+    },
+    {
+      "uid": "an8.28",
+      "acronym": "AN 8.28",
+      "root_lang": "pli",
+      "original_title": "Dutiyabalasutta",
+      "translated_title": "Powers (2)",
+      "type": "full",
+      "resembling": true,
+      "remark": null
+    }
+  ],
+  "primary_sn_uid": null,
+  "pali_text": "",
+  "english_sn_text": "",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa601-700/sa694_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa601-700/sa694_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛住舍卫国祇树给孤独园。\n尔时尊者舍利弗诣佛所，稽首礼足，退坐一面。佛告舍利弗：「漏尽比丘有几力，而能记说：我诸漏已尽？」\n舍利弗白佛：「漏尽比丘有八力，依此而记说：我诸漏已尽。」\n「何等为八？一、以正慧如实善见一切诸行无常。二、以正慧如实善见诸欲如火坑。三、心顺趣远离、流注远离、浚输远离，乐出离，于一切漏处之法已永尽。四、四念处善修习。五、四神足善修习。六、五根善修习。七、七觉支善修习。八、八圣道善修习。」\n「成就此八力，漏尽比丘得记说：我诸漏已尽。」\n佛说此经已，尊者舍利弗闻佛所说，欢喜奉行。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在舍卫国祇树给孤独园。\n那时尊者舍利弗来到佛那里，稽首礼足，退坐一面。佛告诉舍利弗：「漏尽的比丘有几种力，才能记说：我的诸漏已经尽了？」\n舍利弗对佛说：「漏尽的比丘有八种力，依此而记说：我的诸漏已经尽了。」\n「哪八种？一、以正慧如实善见一切诸行无常。二、以正慧如实善见诸欲如同火坑。三、心顺向远离、流注远离、倾注远离，乐于出离，对一切能生漏的法已经永尽。四、四念处善加修习。五、四神足善加修习。六、五根善加修习。七、七觉支善加修习。八、八圣道善加修习。」\n「成就这八种力，漏尽比丘就能记说：我的诸漏已经尽了。」\n佛说完这部经，尊者舍利弗听佛所说，欢喜奉行。",
+  "notes": "本经 SC 平行表所列平行及 `raw_aligned_data.json` 内之巴利本文、Sujato 英译并用以厘定法义；求那跋陀罗汉本用于定位经文与传统术语。confidence=high：primary AN8.28 Dutiyabala（漏尽八力）；AN10.90 为十力扩本（多四正断／五力），本经汉作八力故从 AN8.28。据 AN 校正：（1）问答主客——佛问、舍利弗答（汉作舍利弗问佛）；（2）八力纲——诸行无常、欲如火坑、心向远离、四念处／四神足／五根／七觉／八正道（汉撮「顺趣离／出／涅槃」＋道品略举）。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "high",
+  "prior_review_status": "needs_revision",
+  "similarity_to_source": 0.188,
+  "paragraph_parallel": true
+}

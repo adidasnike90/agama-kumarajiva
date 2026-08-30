@@ -1,0 +1,63 @@
+{
+  "id": "SA_1327",
+  "uid": "sa1327",
+  "title": "雜阿含經  卷第五十  夜叉相應  （1327）  淨",
+  "chinese_text": "如是我聞：\n\n一時，佛住王舍城迦蘭陀竹園。\n\n時，有叔迦羅比丘尼住王園比丘尼眾中，為王舍城諸人恭敬供養，如阿羅漢。\n\n又於一時，王舍城人於一吉星日歡集大會，即於是日闕不供養。有一鬼神，敬重彼比丘尼故，至王舍城里巷之中，家家說偈：\n\n「王舍城人民，　　醉酒眠睡臥，\n\n　不勤供養彼，　　叔迦比丘尼。\n\n　善修諸根故，　　名曰叔迦羅，\n\n　善說離垢法，　　涅槃清涼處。\n\n　隨順聽所說，　　終日樂無厭，\n\n　乘聽法智慧，　　得度生死流。\n\n　猶如海商人，　　依附力馬王。」\n\n時，一優婆塞以衣布施叔迦羅比丘尼，復有優婆塞以食供養。\n\n時，彼鬼神即說偈言：\n\n「智慧優婆塞，　　獲福利豐多，\n\n　施叔迦羅衣，　　離諸煩惱故。\n\n　智慧優婆塞，　　獲福利豐多，\n\n　施叔迦羅食，　　離諸積聚故。」\n\n時，彼鬼神說斯偈已，即沒不現。",
+  "english_sa_text": "",
+  "parallels": [
+    {
+      "uid": "sa-2.327",
+      "acronym": "SA2 327",
+      "root_lang": "lzh",
+      "original_title": "雄",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "sn10.10",
+      "acronym": "SN 10.10",
+      "root_lang": "pli",
+      "original_title": "Dutiyasukkāsutta",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "sn10.9",
+      "acronym": "SN 10.9",
+      "root_lang": "pli",
+      "original_title": "Paṭhamasukkāsutta",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    }
+  ],
+  "primary_sn_uid": "sn10.10",
+  "pali_text": "Ekaṁ samayaṁ bhagavā rājagahe viharati veḷuvane kalandakanivāpe. Tena kho pana samayena aññataro upāsako sukkāya bhikkhuniyā bhojanaṁ adāsi. Atha kho sukkāya bhikkhuniyā abhippasanno yakkho rājagahe rathikāya rathikaṁ siṅghāṭakena siṅghāṭakaṁ upasaṅkamitvā tāyaṁ velāyaṁ imaṁ gāthaṁ abhāsi: “Puññaṁ vata pasavi bahuṁ, Sappañño vatāyaṁ upāsako; Yo sukkāya adāsi bhojanaṁ, Sabbaganthehi vippamuttiyā”ti.",
+  "english_sn_text": "At one time the Buddha was staying near Rājagaha in the Bamboo Grove, the squirrels’ feeding ground. Now at that time a certain lay follower gave food to the nun Sukkā. Then a native spirit was so devoted to Sukkā that he went from street to street and from square to square, and on that occasion recited these verses: “O! He has made so much merit! That lay follower is so very wise. He just gave food to Sukkā, who is released from all ties.”",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa1301-1400/sa1327_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa1301-1400/sa1327_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛住王舍城迦兰陀竹园。\n叔迦罗比丘尼住王园比丘尼众中，王舍城人素恭敬如阿罗汉。一日城中吉星大会，阙其供养。有夜叉敬重彼尼，街巷说偈催请：「王舍人醉眠，不供叔迦罗；善修诸根、善说离垢涅槃法，听者终日无厌，乘法慧度生死流。」\n有优婆塞施衣、有优婆塞施食。夜叉复说偈：「智慧优婆塞获大福：施食／衣与叔迦罗——彼已解脱一切结缚。」说已即没。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在王舍城迦兰陀竹园。\n叔迦罗比丘尼住在王园比丘尼众中，王舍城人一向恭敬她如同阿罗汉。有一天城里过吉星节集会，没有人供养她。有夜叉敬重这位比丘尼，在街巷里说偈催请：「王舍城人醉酒睡着，不供养叔迦罗；她善修诸根，善说离垢的涅槃法，听的人整天不厌，靠听法的智慧度过生死流。」\n有优婆塞布施衣服，又有优婆塞布施饮食。夜叉又说偈：「有智慧的优婆塞得大福：把食／衣施给叔迦罗——她已经解脱一切结缚。」说完就隐没了。",
+  "notes": "本经 SC 平行表所列平行及 `raw_aligned_data.json` 内之巴利本文、Sujato 英译并用以厘定法义；求那跋陀罗汉本用于定位经文与传统术语。confidence=high：primary SN10.9–10 Sukkāsutta。据 SN：夜叉赞优婆塞施食与已解脱一切 gantha 之 Sukkā；汉「叔迦罗」＝Sukkā；催供叙事压缩保留。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "high",
+  "prior_review_status": "needs_revision",
+  "similarity_to_source": 0.096,
+  "paragraph_parallel": true
+}

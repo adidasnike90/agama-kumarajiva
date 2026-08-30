@@ -1,0 +1,53 @@
+{
+  "id": "SA_1328",
+  "uid": "sa1328",
+  "title": "雜阿含經  卷第五十  夜叉相應  （1328）  雄",
+  "chinese_text": "如是我聞：\n\n一時，佛住王舍城迦蘭陀竹園。\n\n時，毘羅比丘尼住王舍城王園比丘尼眾中，為王舍城諸人民，於吉星日集聚大會，當斯之日，毘羅比丘尼無人供養。\n\n時，有鬼神敬重毘羅比丘尼，即入王舍城，處處里巷四衢道頭而說偈言：\n\n「王舍城人民，　　醉酒惛睡臥，\n\n　毘羅比丘尼，　　無人供養者。\n\n　毘羅比丘尼，　　勇猛修諸根，\n\n　善說離垢塵，　　涅槃清涼法。\n\n　皆隨順所說，　　終日樂無厭，\n\n　乘聽法智慧，　　得度生死流。」\n\n時，有一優婆塞持衣布施毘羅比丘尼，復有一優婆塞以食供養。\n\n時，彼鬼神而說偈言：\n\n「智慧優婆塞，　　今獲多福利，\n\n　以衣施斷縛，　　毘羅比丘尼。\n\n　智慧優婆塞，　　今獲多福利，\n\n　食施毘羅尼，　　離諸和合故。」\n\n時，彼鬼神說偈已，即沒不現。",
+  "english_sa_text": "",
+  "parallels": [
+    {
+      "uid": "sa-2.326",
+      "acronym": "SA2 326",
+      "root_lang": "lzh",
+      "original_title": "淨",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "sn10.11",
+      "acronym": "SN 10.11",
+      "root_lang": "pli",
+      "original_title": "Cīrāsutta",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    }
+  ],
+  "primary_sn_uid": "sn10.11",
+  "pali_text": "Evaṁ me sutaṁ— ekaṁ samayaṁ bhagavā rājagahe viharati veḷuvane kalandakanivāpe. Tena kho pana samayena aññataro upāsako cīrāya bhikkhuniyā cīvaraṁ adāsi. Atha kho cīrāya bhikkhuniyā abhippasanno yakkho rājagahe rathikāya rathikaṁ siṅghāṭakena siṅghāṭakaṁ upasaṅkamitvā tāyaṁ velāyaṁ imaṁ gāthaṁ abhāsi: “Puññaṁ vata pasavi bahuṁ, Sappañño vatāyaṁ upāsako; Yo cīrāya adāsi cīvaraṁ, Sabbayogehi vippamuttiyā”ti.",
+  "english_sn_text": "So I have heard. At one time the Buddha was staying near Rājagaha in the Bamboo Grove, the squirrels’ feeding ground. Now at that time a certain lay follower gave a robe to the nun Cīrā. Then a native spirit was so devoted to Cīrā that he went from street to street and from square to square, and on that occasion recited these verses: “O! He has made so much merit! That lay-follower is so very wise. He gave a robe to Cīrā, who is released from all yokes.”",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa1301-1400/sa1328_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa1301-1400/sa1328_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛住王舍城迦兰陀竹园。\n毘罗比丘尼住王园比丘尼众中。吉星大会日，无人供养。有夜叉敬重彼尼，里巷衢头说偈：「王舍人醉眠，毘罗无人供；勇猛修根，善说离垢涅槃法，听者终日无厌，乘法慧度生死流。」\n有优婆塞施衣、有优婆塞施食。夜叉说偈：「智慧优婆塞获大福：以衣／食施毘罗——彼已解脱一切轭。」说已即没。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在王舍城迦兰陀竹园。\n毘罗比丘尼住在王园比丘尼众中。吉星节集会那天，没有人供养她。有夜叉敬重这位比丘尼，在里巷路口说偈：「王舍城人醉酒昏睡，毘罗无人供养；她勇猛修根，善说离垢的涅槃法，听的人整天不厌，靠听法的智慧度过生死流。」\n有优婆塞布施衣服，又有优婆塞布施饮食。夜叉说偈：「有智慧的优婆塞得大福：把衣／食施给毘罗——她已经解脱一切轭。」说完就隐没了。",
+  "notes": "本经 SC 平行表所列平行及 `raw_aligned_data.json` 内之巴利本文、Sujato 英译并用以厘定法义；求那跋陀罗汉本用于定位经文与传统术语。confidence=high：primary SN10.11 Cīrāsutta。据 SN：施 cīvara 与已解脱一切 yoga 之 Cīrā；汉「毘罗」对 Cīrā；结缚／轭分属 Sukkā／Cīrā 二经用语。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "high",
+  "prior_review_status": "needs_revision",
+  "similarity_to_source": 0.102,
+  "paragraph_parallel": true
+}

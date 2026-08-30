@@ -1,0 +1,43 @@
+{
+  "id": "SA_1283",
+  "uid": "sa1283",
+  "title": "雜阿含經  卷第五十  雜相應  （1283）  技能",
+  "chinese_text": "如是我聞：\n\n一時，佛住舍衛國祇樹給孤獨園。\n\n時，有天子容色絕妙，於後夜時來詣佛所，稽首佛足，其身光明遍照祇樹給孤獨園。\n\n時，彼天子說偈問佛：\n\n「云何人所作，　　智慧以求財，\n\n　等攝受於財，　　若勝若復劣？」\n\n爾時，世尊說偈答言：\n\n「始學功巧業，　　方便集財物，\n\n　得彼財物已，　　當應作四分，\n\n　一分自食用，　　二分營生業，\n\n　餘一分藏密，　　以擬於貧乏。\n\n　營生之業者，　　田種行商賈，\n\n　牧牛羊興息，　　邸舍以求利，\n\n　造屋舍床臥，　　六種資生具，\n\n　方便修眾具，　　安樂以存世，\n\n　如是善修業，　　黠慧以求財，\n\n　財寶隨順生，　　如眾流歸海。\n\n　如是財饒益，　　如蜂集眾味，\n\n　晝夜財增長，　　猶如蟻積堆。\n\n　不付老子財，　　不寄邊境民，\n\n　不信姦狡人，　　及諸慳悋者，\n\n　親附成事者，　　遠離不成事，\n\n　能成事士夫，　　猶如火熾然。\n\n　善友貴重人，　　敏密修良者，\n\n　同氣親兄弟，　　善能相攝受。\n\n　居親眷屬中，　　摽顯若牛王，\n\n　各隨其所應，　　分財施飲食。\n\n　壽盡而命終，　　當生天受樂。」\n\n時，彼天子復說偈言：\n\n「久見婆羅門，　　逮得般涅槃，\n\n　一切怖已過，　　永超世恩愛。」\n\n時，彼天子聞佛所說，歡喜隨喜，稽首佛足，即沒不現。",
+  "english_sa_text": "",
+  "parallels": [
+    {
+      "uid": "sa-2.281",
+      "acronym": "SA2 281",
+      "root_lang": "lzh",
+      "original_title": "技能",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    }
+  ],
+  "primary_sn_uid": null,
+  "pali_text": "",
+  "english_sn_text": "",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa1201-1300/sa1283_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa1201-1300/sa1283_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛住舍卫国祇树给孤独园。\n后夜分，有天子容色绝妙，来诣佛所，稽首礼足，退坐一面；身诸光明遍照祇树给孤独园。\n天子问：「人智以求财，当如何等摄？胜劣如何分？」\n佛答：「先学功巧，方便集财；得已分作四：一分自用，二分营生，一分密藏以备匮乏。营生则田种、商贾、牧畜、邸舍求利。善修如蜂集味、蚁积土，财日夜增。不付老耄、不寄边民、不信奸悭；亲成事者，远不成事。于亲族中如牛王分财饮食；寿尽生天受乐。」\n天子复说偈：「久见婆罗门，逮得般涅槃，一切怖已过，永超世恩爱。」闻已欢喜，礼足即没。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在舍卫国祇树给孤独园。\n后夜分，有一位天子容色绝妙，来到佛前，顶礼佛足，退坐一面；身上的光明遍照祇树给孤独园。\n天子问：「人用智慧求财，应当怎样妥善管理？好坏怎样区分？」\n佛答：「先学技艺，用方法集财；得到以后分成四份：一份自己用，两份经营生计，一份密藏以防匮乏。经营则种田、经商、畜牧、开邸舍求利。好好经营，就像蜜蜂采蜜、蚂蚁积土，财物日夜增长。不要托付给老迈的人、不要寄放在边地之民、不要信任奸诈悭吝的人；亲近能成事的，远离不能成事的。在亲族中像牛王一样分配财物饮食；寿命尽了生天受乐。」\n天子又说偈：「久见婆罗门，逮得般涅槃，一切怖惧已过，永超世间恩爱。」听完欢喜随喜，顶礼佛足，随即隐没不见。",
+  "notes": "SC 于本经未列可靠巴利平行，故唯以汉本为底，参同相应之巴利定型语厘义；依项目规约「无可靠平行时 confidence 降为 medium/low」。confidence=medium：无 SC 专经；四分财法近 AN8.54／DN31 居士理财教。压缩汉长偈，不臆造专经平行。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "medium",
+  "prior_review_status": "needs_revision",
+  "similarity_to_source": 0.105,
+  "paragraph_parallel": true
+}

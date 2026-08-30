@@ -1,0 +1,56 @@
+{
+  "id": "SA_1126",
+  "uid": "sa1126",
+  "title": "雜阿含經  卷第四十九  不壞淨相應  （1126）  須陀恒",
+  "chinese_text": "如是我聞：\n\n一時，佛住舍衛國祇樹給孤獨園。\n\n爾時，世尊告諸比丘：「有四須陀洹分。何等為四？謂於佛不壞淨，於法、僧不壞淨，聖戒成就，是名須陀洹分。」\n\n佛說此經已，諸比丘聞佛所說，歡喜奉行。",
+  "english_sa_text": "",
+  "parallels": [
+    {
+      "uid": "arv21",
+      "acronym": "Arv 21",
+      "root_lang": "san",
+      "original_title": "Catvāri Srota-Āpattyaṅgāni",
+      "translated_title": "The Four Factors of Stream Entry",
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "sn55.46",
+      "acronym": "SN 55.46",
+      "root_lang": "pli",
+      "original_title": "Suddhakasutta",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    }
+  ],
+  "primary_sn_uid": "sn55.46",
+  "pali_text": "“Catūhi, bhikkhave, dhammehi samannāgato ariyasāvako sotāpanno hoti avinipātadhammo niyato sambodhiparāyaṇo. Katamehi catūhi? Idha, bhikkhave, ariyasāvako buddhe aveccappasādena samannāgato hoti— itipi so bhagavā …pe… satthā devamanussānaṁ buddho bhagavāti. Dhamme …pe… saṅghe …pe… ariyakantehi sīlehi samannāgato hoti akhaṇḍehi …pe… samādhisaṁvattanikehi. Imehi kho, bhikkhave, catūhi dhammehi samannāgato ariyasāvako sotāpanno hoti avinipātadhammo niyato sambodhiparāyaṇo”ti. Chaṭṭhaṁ.",
+  "english_sn_text": "“Mendicants, a noble disciple who has four things is a stream-enterer, not liable to be reborn in the underworld, assured, destined for awakening. What four? It’s when a noble disciple has experiential confidence in the Buddha … the teaching … the Saṅgha … And they have the ethical conduct loved by the noble ones … leading to immersion. A noble disciple who has these four things is a stream-enterer, not liable to be reborn in the underworld, assured, destined for awakening.”",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa1101-1200/sa1126_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa1101-1200/sa1126_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛住舍卫国祇树给孤独园。\n尔时世尊告诸比丘：「须陀洹所依有四：信佛不坏、信法不坏、信僧不坏，并成圣戒。成就此四，是名须陀洹分。」\n佛说此经已，诸比丘闻佛所说，欢喜奉行。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在舍卫国祇树给孤独园。\n那时世尊告诉比丘们：「须陀洹所依止的有四项：对佛的信心不坏、对法的信心不坏、对僧的信心不坏，并且成就圣戒。成就这四项，就叫须陀洹分。」\n佛说完这部经，比丘们听佛所说，都欢喜奉行。",
+  "notes": "本经 SC 平行表所列平行及 `raw_aligned_data.json` 内之巴利本文、Sujato 英译并用以厘定法义；求那跋陀罗汉本用于定位经文与传统术语。confidence=high：primary SN55.46 Sandiṭṭhika；四不坏净＝须陀洹分（果德）；与 1125 道分相对。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "high",
+  "prior_review_status": "needs_revision",
+  "similarity_to_source": 0.319,
+  "paragraph_parallel": true,
+  "quality_gate_reasons": [
+    "lit_mod_gap=0.292>=0.1"
+  ]
+}

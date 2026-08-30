@@ -1,0 +1,43 @@
+{
+  "id": "SA_353",
+  "uid": "sa353",
+  "title": "雜阿含經  卷第十四  因緣相應  （353）  沙門婆羅門",
+  "chinese_text": "如是我聞：\n\n一時，佛住舍衛國祇樹給孤獨園。\n\n爾時，世尊告諸比丘：「若沙門、婆羅門於法不如實知，法集、法滅、法滅道跡不如實知，當知是沙門、婆羅門，非沙門之沙門數，非婆羅門之婆羅門數，彼亦非沙門義、非婆羅門義，見法自知作證：『我生已盡，梵行已立，所作已作，自知不受後有。』\n\n「何等法不如實知？何等法集、法滅、法滅道跡不如實知？謂六入處法不如實知，六入處集、六入處滅、六入處滅道跡不如實知，而於觸如實知者，無有是處，觸集、觸滅、觸滅道跡如實知者，無有是處。如是受、愛、取、有、生、老、死如實知者，無有是處。\n\n「若沙門、婆羅門於六入處如實知，六入處集、六入處滅、六入處滅道跡如實知者，於觸如實知，斯有是處。如是受、愛、取、有、生、老、死如實知者，斯有是處。」\n\n佛說是經已，諸比丘聞佛所說，歡喜奉行。",
+  "english_sa_text": "",
+  "parallels": [
+    {
+      "uid": "sn12.13",
+      "acronym": "SN 12.13",
+      "root_lang": "pli",
+      "original_title": "Samaṇabrāhmaṇasutta",
+      "translated_title": "Ascetics and Brahmins (1)",
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    }
+  ],
+  "primary_sn_uid": "sn12.13",
+  "pali_text": "Sāvatthiyaṁ viharati. “Ye hi keci, bhikkhave, samaṇā vā brāhmaṇā vā jarāmaraṇaṁ nappajānanti, jarāmaraṇasamudayaṁ nappajānanti, jarāmaraṇanirodhaṁ nappajānanti, jarāmaraṇanirodhagāminiṁ paṭipadaṁ nappajānanti; jātiṁ …pe… bhavaṁ … upādānaṁ … taṇhaṁ … vedanaṁ … phassaṁ … saḷāyatanaṁ … nāmarūpaṁ … viññāṇaṁ … saṅkhāre nappajānanti, saṅkhārasamudayaṁ nappajānanti, saṅkhāranirodhaṁ nappajānanti, saṅkhāranirodhagāminiṁ paṭipadaṁ nappajānanti, na me te, bhikkhave, samaṇā vā brāhmaṇā vā samaṇesu vā samaṇasammatā brāhmaṇesu vā brāhmaṇasammatā; na ca pana te āyasmanto sāmaññatthaṁ vā brahmaññatthaṁ vā diṭṭheva dhamme sayaṁ abhiññā sacchikatvā upasampajja viharanti. Ye ca kho keci, bhikkhave, samaṇā vā brāhmaṇā vā jarāmaraṇaṁ pajānanti, jarāmaraṇasamudayaṁ pajānanti, jarāmaraṇanirodhaṁ pajānanti, jarāmaraṇanirodhagāminiṁ paṭipadaṁ pajānanti; jātiṁ …pe… bhavaṁ … upādānaṁ … taṇhaṁ … vedanaṁ … phassaṁ … saḷāyatanaṁ … nāmarūpaṁ … viññāṇaṁ … saṅkhāre pajānanti, saṅkhārasamudayaṁ pajānanti, saṅkhāranirodhaṁ pajānanti, saṅkhāranirodhagāminiṁ paṭipadaṁ pajānanti, te kho me, bhikkhave, samaṇā vā brāhmaṇā vā samaṇesu ceva samaṇasammatā brāhmaṇesu ca brāhmaṇasammatā; te ca panāyasmanto sāmaññatthañca brahmaññatthañca diṭṭheva dhamme sayaṁ abhiññā sacchikatvā upasampajja viharantī”ti. Tatiyaṁ.",
+  "english_sn_text": "At Sāvatthī. “Mendicants, there are ascetics and brahmins who don’t understand old age and death, their origin, their cessation, and the practice that leads to their cessation. They don’t understand rebirth … continued existence … grasping … craving … feeling … contact … the six sense fields … name and form … consciousness … They don’t understand choices, their origin, their cessation, and the practice that leads to their cessation. I don’t deem them as true ascetics and brahmins. Those venerables don’t realize the goal of life as an ascetic or brahmin, and don’t live having realized it with their own insight in this very life. There are ascetics and brahmins who do understand old age and death, their origin, their cessation, and the practice that leads to their cessation. They understand rebirth … continued existence … grasping … craving … feeling … contact … the six sense fields … name and form … consciousness … They understand choices, their origin, their cessation, and the practice that leads to their cessation. I deem them as true ascetics and brahmins. Those venerables realize the goal of life as an ascetic or brahmin, and live having realized it with their own insight.”",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa301-400/sa353_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa301-400/sa353_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛在舍卫国祇树给孤独园。\n尔时，世尊告诸比丘：「若沙门、婆罗门于六入处不如实知——六入处集、灭、灭道迹不如实知：彼非真沙门、真婆罗门，不得沙门义、婆罗门义，不能现法自知作证：「我生已尽，梵行已立，所作已作，自知不受后有。」\n「于六入处不如实知，而欲于触如实知者，无有是处；触集、触灭、触灭道迹如实知者，无有是处。如是受、爱、取、有、生、老死如实知者，亦无有是处。」\n「若于六入处如实知，及其集、灭、灭道迹如实知：于触如实知，斯有是处；如是受、爱、取、有、生、老死如实知，斯有是处。是则真沙门、真婆罗门，能现法自知作证：「我生已尽，梵行已立，所作已作，自知不受后有。」\n佛说此经已，诸比丘闻佛所说，欢喜奉行。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在舍卫国祇树给孤独园。\n那时，世尊告诉比丘们：「若沙门、婆罗门对六入处不能如实了知——对六入处的集、灭、灭道也不能如实了知：他们就不是真正的沙门、婆罗门，得不到沙门义、婆罗门义，不能在现法中亲自作证：「我生已尽，梵行已立，所作已作，自知不受后有。」\n「对六入处不能如实了知，却想对触如实了知，没有这样的道理；对触的集、灭、灭道如实了知，也没有这样的道理。这样，对受、爱、取、有、生、老死如实了知，也没有这样的道理。」\n「若对六入处如实了知，也对其集、灭、灭道如实了知：就能对触如实了知，这才有道理；这样，对受、爱、取、有、生、老死如实了知，也才有道理。这才是真正的沙门、婆罗门，能在现法中亲自作证：「我生已尽，梵行已立，所作已作，自知不受后有。」\n佛说完这部经，比丘们听佛所说，都欢喜奉行。",
+  "notes": "本经 SC 平行表所列平行及 `raw_aligned_data.json` 内之巴利本文、Sujato 英译并用以厘定法义；求那跋陀罗汉本用于定位经文与传统术语。confidence=high：primary SN12.13（Samaṇabrāhmaṇa）。汉本以六入处为门、层层「无有是处／斯有是处」；巴利作全支列叙；骨从汉之条件链，义与 SN 同属「如实知缘起支」。底本有漏尽证智定型句，文学栏保留。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "high",
+  "prior_review_status": "needs_revision",
+  "similarity_to_source": 0.313,
+  "paragraph_parallel": true
+}

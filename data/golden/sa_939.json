@@ -1,0 +1,53 @@
+{
+  "id": "SA_939",
+  "uid": "sa939",
+  "title": "雜阿含經  卷第三十六  釋氏相應  （939）  母乳",
+  "chinese_text": "如是我聞：\n\n一時，佛住舍衛國祇樹給孤獨園。\n\n爾時，世尊告諸比丘：「眾生於無始生死，無明所蓋，愛繫其頸，長夜輪轉，不知苦之本際。」\n\n佛告諸比丘：「於意云何？恒河流水及四大海，其水為多，汝等長夜輪轉生死，飲其母乳為多耶？」\n\n比丘白佛：「如我解世尊所說義，我等長夜輪轉生死，飲其母乳，多於恒河及四大海水。」\n\n佛告比丘：「善哉！善哉！汝等長夜輪轉生死，飲其母乳，多於恒河及四大海水。所以者何？汝等長夜或生象中，飲其母乳，無量無數。或生駝、馬、牛、驢諸禽獸類飲其母乳，其數無量。汝等長夜棄於塜間，膿血流出，亦復無量。或墮地獄、畜生、餓鬼，髓血流出，亦復如是。比丘！汝等無始生死輪轉已來，不知苦之本際。云何？比丘！色為常耶？為無常耶？」\n\n比丘白佛：「非常。世尊！」\n\n「乃至聖弟子於五受陰觀察非我、非我所，於諸世間得無所取；不取已，無所著，所作已作，自知不受後有。」\n\n佛說此經已，諸比丘聞佛所說，歡喜奉行。",
+  "english_sa_text": "",
+  "parallels": [
+    {
+      "uid": "sa-2.332",
+      "acronym": "SA2 332",
+      "root_lang": "lzh",
+      "original_title": "母乳",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "sn15.4",
+      "acronym": "SN 15.4",
+      "root_lang": "pli",
+      "original_title": "Khīrasutta",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    }
+  ],
+  "primary_sn_uid": "sn15.4",
+  "pali_text": "Sāvatthiyaṁ viharati. “Anamataggoyaṁ, bhikkhave, saṁsāro. Pubbā koṭi na paññāyati avijjānīvaraṇānaṁ sattānaṁ taṇhāsaṁyojanānaṁ sandhāvataṁ saṁsarataṁ. Taṁ kiṁ maññatha, bhikkhave, katamaṁ nu kho bahutaraṁ, yaṁ vā vo iminā dīghena addhunā sandhāvataṁ saṁsarataṁ mātuthaññaṁ pītaṁ, yaṁ vā catūsu mahāsamuddesu udakan”ti? “Yathā kho mayaṁ, bhante, bhagavatā dhammaṁ desitaṁ ājānāma, etadeva, bhante, bahutaraṁ yaṁ no iminā dīghena addhunā sandhāvataṁ saṁsarataṁ mātuthaññaṁ pītaṁ, na tveva catūsu mahāsamuddesu udakan”ti. “Sādhu sādhu, bhikkhave, sādhu kho me tumhe, bhikkhave, evaṁ dhammaṁ desitaṁ ājānātha. Etadeva, bhikkhave, bahutaraṁ yaṁ vo iminā dīghena addhunā sandhāvataṁ saṁsarataṁ mātuthaññaṁ pītaṁ, na tveva catūsu mahāsamuddesu udakaṁ. Taṁ kissa hetu? Anamataggoyaṁ, bhikkhave, saṁsāro …pe… alaṁ vimuccitun”ti. Catutthaṁ.",
+  "english_sn_text": "At Sāvatthī. “Mendicants, this transmigration has no known beginning. No first point is found of sentient beings roaming and transmigrating, shrouded by ignorance and fettered by craving. What do you think? Which is more: the mother’s milk you’ve drunk while roaming and transmigrating for such a very long time, or the water in the four oceans?” “As we understand the Buddha’s teaching, the mother’s milk we’ve drunk while roaming and transmigrating is more than the water in the four oceans.” “Good, good, mendicants! It’s good that you understand my teaching like this. The mother’s milk you’ve drunk while roaming and transmigrating for such a very long time is more than the water in the four oceans. Why is that? This transmigration has no known beginning. … This is quite enough for you to become disillusioned, dispassionate, and freed regarding all conditions.”",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa901-1000/sa939_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa901-1000/sa939_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛住舍卫国祇树给孤独园。\n尔时世尊告诸比丘：「众生无始生死，无明所盖，爱系其颈，长夜轮转，不知苦之本际。于意云何？恒水及四大海水为多？汝等长夜轮转，所饮母乳为多？」比丘白佛：「饮母乳甚多，过于恒水及四大海。」佛言：「善哉！长夜或生象驼马牛驴诸禽兽，饮母乳无量；弃冢间脓血，堕三恶趣髓血流出——亦复无量。」\n「色无常乃至五受阴非我、非我所；于诸世间无所取；不取故不著；厌故离贪；离贪故解脱；自知：『我生已尽，梵行已立，所作已作，自知不受后有。』」\n佛说此经已，诸比丘闻佛所说，欢喜奉行。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在舍卫国祇树给孤独园。\n那时世尊告诉比丘们：「众生无始以来生死，被无明覆盖、爱结系住脖子，长夜轮转，不知苦的本际。你们怎么看？恒河水和四大海水多，还是你们长夜轮转、所喝的母乳多？」比丘们对佛说：「喝的母乳非常多，超过恒河水和四大海。」佛说：「很好！长夜中或者生为象驼马牛驴等禽兽，喝母乳无量；丢在坟间的脓血，堕三恶趣髓血流出——也无量。」\n「色无常，一直到五受阴不是我、不是我所；对世间没有所取；不取所以不著；厌离所以离贪；离贪所以解脱；自己知道：『我生已尽，梵行已立，所作已作，自知不受后有。』」\n佛说完这部经，比丘们听佛所说，都欢喜奉行。",
+  "notes": "本经 SC 平行表所列平行及 `raw_aligned_data.json` 内之巴利本文、Sujato 英译并用以厘定法义；求那跋陀罗汉本用于定位经文与传统术语。confidence=high：primary SN15.4 Khīra；母乳多于四大海；收束厌故离贪。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "high",
+  "prior_review_status": "needs_revision",
+  "similarity_to_source": 0.208,
+  "paragraph_parallel": true
+}

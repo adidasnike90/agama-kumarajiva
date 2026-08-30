@@ -1,0 +1,64 @@
+{
+  "id": "SA_1066",
+  "uid": "sa1066",
+  "title": "雜阿含經  卷第四十五  比丘相應  （1066）  難陀",
+  "chinese_text": "如手比丘，難陀修多羅亦如是說。",
+  "english_sa_text": "",
+  "parallels": [
+    {
+      "uid": "an8.9",
+      "acronym": "AN 8.9",
+      "root_lang": "pli",
+      "original_title": "Nandasutta",
+      "translated_title": "Nanda",
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "sa-2.6",
+      "acronym": "SA2 6",
+      "root_lang": "lzh",
+      "original_title": "難陀",
+      "translated_title": "Nanda 2—Nanda is praised",
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "sa275",
+      "acronym": "SA 275",
+      "root_lang": "lzh",
+      "original_title": "難陀",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    }
+  ],
+  "primary_sn_uid": null,
+  "pali_text": "",
+  "english_sn_text": "",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa1001-1100/sa1066_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa1001-1100/sa1066_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛住舍卫国祇树给孤独园。\n尔时舍卫国有难陀比丘命终。众多比丘乞食闻已，还诣佛所，问其往生。佛告诸比丘：「是难陀比丘成就贪欲、瞋恚、愚痴三不善法，结缚于心，命终当生恶趣泥犁。」即说偈言：「贪瞋与愚痴，结缚士夫心；内发还自伤，犹如竹芦实。是故当离贪，及瞋痴冥心；比丘智慧明，苦尽般涅槃。」\n佛说此经已，诸比丘闻佛所说，欢喜奉行。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在舍卫国祇树给孤独园。\n那时舍卫国有位难陀比丘命终。许多比丘乞食时听说了，回到佛那里问起他的往生。佛告诉比丘们：「这位难陀比丘成就了贪欲、瞋恚、愚痴三种不善法，结缚于心，命终后会生到恶趣地狱。」接着说偈：「贪、瞋与愚痴，结缚人的心；从内生起反而自伤，就像竹芦结果自毁。所以应当离贪，以及瞋与痴暗；比丘智慧明了，苦尽而般涅槃。」\n佛说完这部经，比丘们听佛所说，都欢喜奉行。",
+  "notes": "本经 SC 平行表所列平行及 `raw_aligned_data.json` 内之巴利本文、Sujato 英译并用以厘定法义；求那跋陀罗汉本用于定位经文与传统术语。confidence=medium：汉唯「如手比丘，难陀修多罗亦如是说」peeyāla；据 SA_1065 纲补。SC 亦列 AN8.9（根门守护之难陀），与此汉略异——本批从汉 peeyāla，不改写成 AN8.9。reconstruction：手比丘三不善／泥犁纲移难陀。",
+  "review_status": "gold_reconstructed",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "medium",
+  "prior_review_status": "needs_revision",
+  "reconstruction_basis": "「如手比丘」→ SA_1065 三不善／泥犁纲移难陀",
+  "similarity_to_source": 0.0,
+  "paragraph_parallel": true
+}

@@ -1,0 +1,43 @@
+{
+  "id": "SA_460",
+  "uid": "sa460",
+  "title": "雜阿含經  卷第十九  受相應  （460）  瞿師羅",
+  "chinese_text": "如是我聞：\n\n一時，佛住拘睒彌國瞿師羅園。\n\n爾時，瞿師羅長者詣尊者阿難所，禮尊者阿難足，退坐一面，白尊者阿難：「所說種種界。云何為種種界？」\n\n尊者阿難告瞿師羅長者：「眼界異、色界異喜處，二因緣生識，三事和合生觸，又喜觸因緣生樂受。如是耳、鼻、舌、身、意、法，亦如是說。復次，長者！有異眼界、異色界憂處，二因緣生識，三事和合生苦觸，彼苦觸因緣生苦受。如是耳、鼻、舌、身、意、法，亦如是說。\n\n「復次，長者！異眼界、異色界捨處，二因緣生識，三事和合生不苦不樂觸，不苦不樂觸因緣生不苦不樂受。如是耳、鼻、舌、身、意、法，亦如是說。」\n\n爾時，瞿師羅長者聞尊者阿難所說，歡喜隨喜，禮足而去。",
+  "english_sa_text": "",
+  "parallels": [
+    {
+      "uid": "sn35.129",
+      "acronym": "SN 35.129",
+      "root_lang": "pli",
+      "original_title": "Ghositasutta",
+      "translated_title": "Ghosita",
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    }
+  ],
+  "primary_sn_uid": "sn35.129",
+  "pali_text": "Ekaṁ samayaṁ āyasmā ānando kosambiyaṁ viharati ghositārāme. Atha kho ghosito gahapati yenāyasmā ānando tenupasaṅkami …pe… ekamantaṁ nisinno kho ghosito gahapati āyasmantaṁ ānandaṁ etadavoca: “‘dhātunānattaṁ, dhātunānattan’ti, bhante ānanda, vuccati. Kittāvatā nu kho, bhante, dhātunānattaṁ vuttaṁ bhagavatā”ti? “Saṁvijjati kho, gahapati, cakkhudhātu, rūpā ca manāpā, cakkhuviññāṇañca sukhavedaniyaṁ. Phassaṁ paṭicca uppajjati sukhā vedanā. Saṁvijjati kho, gahapati, cakkhudhātu, rūpā ca amanāpā, cakkhuviññāṇañca dukkhavedaniyaṁ. Phassaṁ paṭicca uppajjati dukkhā vedanā. Saṁvijjati kho, gahapati, cakkhudhātu, rūpā ca manāpā upekkhāvedaniyā, cakkhuviññāṇañca adukkhamasukhavedaniyaṁ. Phassaṁ paṭicca uppajjati adukkhamasukhā vedanā …pe… saṁvijjati kho, gahapati, jivhādhātu, rasā ca manāpā, jivhāviññāṇañca sukhavedaniyaṁ. Phassaṁ paṭicca uppajjati sukhā vedanā. Saṁvijjati kho, gahapati, jivhādhātu, rasā ca amanāpā, jivhāviññāṇañca dukkhavedaniyaṁ. Phassaṁ paṭicca uppajjati dukkhā vedanā. Saṁvijjati kho, gahapati, jivhādhātu, rasā ca upekkhāvedaniyā, jivhāviññāṇañca adukkhamasukhavedaniyaṁ. Phassaṁ paṭicca uppajjati adukkhamasukhā vedanā …pe… saṁvijjati kho, gahapati, manodhātu, dhammā ca manāpā, manoviññāṇañca sukhavedaniyaṁ. Phassaṁ paṭicca uppajjati sukhā vedanā. Saṁvijjati kho, gahapati, manodhātu, dhammā ca amanāpā, manoviññāṇañca dukkhavedaniyaṁ. Phassaṁ paṭicca uppajjati dukkhā vedanā. Saṁvijjati kho, gahapati, manodhātu, dhammā ca upekkhāvedaniyā, manoviññāṇañca adukkhamasukhavedaniyaṁ. Phassaṁ paṭicca uppajjati adukkhamasukhā vedanā. Ettāvatā kho, gahapati, dhātunānattaṁ vuttaṁ bhagavatā”ti. Chaṭṭhaṁ.",
+  "english_sn_text": "At one time Venerable Ānanda was staying near Kosambī in Ghosita’s monastery. Then the householder Ghosita went up to Venerable Ānanda, and said to him: “Honorable Ānanda, they speak of ‘the diversity of elements’. In what way did the Buddha speak of the diversity of elements?” “Householder, the eye element is found, as are agreeable sights, and eye consciousness. Pleasant feeling arises dependent on a contact to be experienced as pleasant. The eye element is found, as are disagreeable sights, and eye consciousness. Painful feeling arises dependent on a contact to be experienced as painful. The eye element is found, as are sights that are a basis for equanimity, and eye consciousness. Neutral feeling arises dependent on a contact to be experienced as neutral. The ear … nose … tongue … body … mind element is found, as are agreeable ideas, and mind consciousness. Pleasant feeling arises dependent on a contact to be experienced as pleasant. The mind element is found, as are disagreeable ideas, and mind consciousness. Painful feeling arises dependent on a contact to be experienced as painful. The mind element is found, as are ideas that are a basis for equanimity, and mind consciousness. Neutral feeling arises dependent on a contact to be experienced as neutral. This is how the Buddha spoke of the diversity of elements.”",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa401-500/sa460_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa401-500/sa460_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛在拘睒弥国瞿师罗园。\n尔时，瞿师罗长者诣尊者阿难所，礼足，退坐一面，白言：「尊者！所论种种界——云何为种种界？」\n尊者阿难告言：「长者！有眼界、有可喜色、有眼识，二缘生识，三事和合生触；缘可喜触生乐受。有眼界、有不可喜色、有眼识，三事和合生苦触，缘苦触生苦受。有眼界、有舍处色、有眼识，三事和合生不苦不乐触，缘之生不苦不乐受。耳、鼻、舌、身、意界——有可喜法、不可喜法、舍处法——亦复如是。如是世尊说种种界。」\n尔时瞿师罗长者闻尊者阿难所说，欢喜随喜，礼足而去。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在拘睒弥国瞿师罗园。\n那时，瞿师罗长者来到阿难尊者处，顶礼足，退坐一面，说：「尊者！所说的种种界——什么是种种界？」\n阿难尊者告诉他：「长者！有眼界、有可喜的色、有眼识，二缘生识，三事和合生触；缘可喜的触生乐受。有眼界、有不可喜的色、有眼识，三事和合生苦触，缘苦触生苦受。有眼界、有能生舍的色、有眼识，三事和合生不苦不乐触，由此生不苦不乐受。耳、鼻、舌、身、意界——有可喜的法、不可喜的法、能生舍的法——也是这样。世尊就是这样说种种界的。」\n当时瞿师罗长者听阿难尊者所说，欢喜随喜，顶礼足后离去。",
+  "notes": "本经 SC 平行表所列平行及 `raw_aligned_data.json` 内之巴利本文、Sujato 英译并用以厘定法义；求那跋陀罗汉本用于定位经文与传统术语。confidence=high：primary SN35.129 Ghosita。信：喜／忧／舍处≈manāpa／amanāpa／upekkhāṭṭhāniya；润饰汉『眼界异、色界异喜处』为可喜色等，义据 SN。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "high",
+  "prior_review_status": "needs_revision",
+  "similarity_to_source": 0.187,
+  "paragraph_parallel": true
+}

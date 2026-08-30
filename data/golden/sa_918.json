@@ -1,0 +1,32 @@
+{
+  "id": "SA_918",
+  "uid": "sa918",
+  "title": "雜阿含經  卷第三十五  聚落主相應  （918）  順調馬",
+  "chinese_text": "如是我聞：\n\n一時，佛住王舍城迦蘭陀竹園。\n\n爾時，世尊告諸比丘：「世間有三種良馬。何等為三？有馬捷疾具足、非色具足、非形體具足。有馬捷疾具足、色具足、非形體具足，有馬捷疾具足、色具足、形體具足。於正法、律有三種善男子。何等為三？有善男子捷疾具足、非色具足、非形體具足，有善男子捷疾具足、色具足、非形體具足，有善男子捷疾具足、色具足、形體具足。\n\n「何等為善男子捷疾具足、非色具足、非形體具足？謂善男子苦聖諦如實知，苦集聖諦如實知，苦滅聖諦如實知，苦滅道跡聖諦如實知。作如是知、如是見已，斷五下分結，謂身見、戒取、疑、貪欲、瞋恚；斷此五下分結已，得生般涅槃阿那含，不復還生此世，是名善男子捷疾具足。云何色不具足？若問阿毘曇、律，不能解了句味，次第隨順，決定解說，是名色不具足。云何形體不具足？謂非名聞大德，能感財利供養、衣被、飲食、隨病湯藥，是名善男子捷疾具足、非色具足、非形體具足。\n\n「何等為捷疾具足、色具足、非形體具足？謂善男子此苦聖諦如實知，乃至得生般涅槃阿那含，不復還生此世，是名捷疾具足。云何色具足？若有問阿毘曇、律，能以次第句味，隨順決定，而為解說，是名色具足。云何非形體具足？謂非名聞大德，能感財利供養、衣被、飲食、隨病湯藥，是名善男子捷疾具足、色具足、非形體具足。\n\n「何等為善男子捷疾具足、色具足、形體具足？謂善男子此苦聖諦如實知，乃至得阿那含生般涅槃，不復還生此世，是名捷疾具足。何等為色具足，若有問阿毘曇、毘尼，乃至而為解說，是名色具足。何等為形體具足？謂名聞大德能感財利，乃至湯藥、眾具，是名形體具足，是名善男子捷疾具足、色具足、形體具足。」\n\n佛說此經已，諸比丘聞佛所說，歡喜奉行。",
+  "english_sa_text": "",
+  "parallels": [],
+  "primary_sn_uid": null,
+  "pali_text": "",
+  "english_sn_text": "",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa901-1000/sa918_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa901-1000/sa918_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛住王舍城迦兰陀竹园。\n尔时世尊告诸比丘：「世间有三种良马：捷疾具足，色、形体或具或不具，如上。正法律中善男子亦有三种。\n「捷疾具足、色与形体不具者：苦圣谛如实知，苦集、苦灭、苦灭道迹圣谛如实知，断五下分结——身见、戒取、疑、贪欲、瞋恚——得阿那含，生般涅槃，不复还生此世。而不能解说阿毗昙、律；又非名闻大德感诸供养。\n「捷疾与色具而形体不具：如上得阿那含；又能次第解说；而非名闻感供。\n「三者皆具：得阿那含；能解说；又大德名闻感衣食汤药。」\n佛说此经已，诸比丘闻佛所说，欢喜奉行。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在王舍城迦兰陀竹园。\n那时世尊告诉比丘们：「世间有三种良马：跑得快完备，毛色、体形或完备或不完备，如上所说。正法律里的善男子也有三种。\n「速度完备、毛色与体形不完备：如实知苦圣谛，以及苦集、苦灭、苦灭道迹圣谛，断五下分结——身见、戒取、疑、贪欲、瞋恚——得阿那含，上生而般涅槃，不再还生此世。却不能解说论藏、律；又不是名闻大德感得供养。\n「速度与毛色完备而体形不完备：如上得阿那含；又能次第解说；却不是名闻感供。\n「三者都完备：得阿那含；能解说；又是名闻大德感得衣食汤药。」\n佛说完这部经，比丘们听佛所说，都欢喜奉行。",
+  "notes": "SC 于本经未列可靠巴利平行，故唯以汉本为底，参同相应之巴利定型语厘义；依项目规约「无可靠平行时 confidence 降为 medium/low」。confidence=medium：结构同 917，果位升为阿那含（五下分结尽）；参 AN 良马定型。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "medium",
+  "prior_review_status": "needs_revision",
+  "similarity_to_source": 0.15,
+  "paragraph_parallel": true
+}

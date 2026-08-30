@@ -1,0 +1,750 @@
+[
+  {
+    "id": "SA_11",
+    "uid": "sa11",
+    "title": "雜阿含經  （一）陰相應  （一一） 說因縁",
+    "chinese_text": "如是我聞：一時，佛住舍衛國、祇樹、給孤獨園。爾時，世尊告諸比丘：「色無常。若因、若緣生諸色者，彼亦無常。無常因、無常緣所生諸色，云何有常？如是，受⋯想⋯行⋯識無常。若因、若緣生諸識者，彼亦無常。無常因、無常緣所生諸識，云何有常？如是，諸比丘，色無常。受⋯想⋯行⋯識無常。無常者則是苦，苦者則非我，非我者則非我所。「聖弟子如是觀者厭於色⋯厭於受⋯想⋯行⋯識。厭者不樂。不樂則解脫。解脫知見：『我生已盡，梵行已立，所作已作。』自知不受後有。」時，諸比丘聞佛所說歡喜，奉行。",
+    "english_sa_text": "Thus I have heard: One time, the Buddha was staying at Anāthapiṇḍada’s Park in Jeta’s Grove of Śrāvastī. It was then that the Bhagavān addressed the monks, “Form is impermanent. Whatever causes and conditions give rise to forms, they are also impermanent. How could forms that arise from impermanent causes and conditions be permanent? Thus, feeling … conception … volition … awareness is impermanent. Whatever causes and conditions give rise to instances of awareness, they are also impermanent. How could instances of awareness that arise from impermanent causes and conditions be permanent? “Thus, monks, form is impermanent. Feeling … conception … volition … awareness is impermanent. What’s impermanent is painful, something painful is not self, and something that’s not self doesn’t belong to self. “Noble disciples who observe it in this way become disillusioned with form … become disillusioned with feeling … conception … volition … awareness. Being disillusioned, they don’t enjoy it. Not enjoying it, they are liberated. Being liberated, they know and see: ‘My births have been ended, the religious practice has been established, and the task has been accomplished.’ They themselves know they won’t be subject to a later existence.” When the monks who heard what the Buddha taught, they rejoiced and approved.",
+    "parallels": [
+      {
+        "uid": "up2.071",
+        "acronym": "Up 2.071",
+        "root_lang": "xct",
+        "original_title": "",
+        "translated_title": "Upāyikā 2.071",
+        "type": "full",
+        "resembling": false,
+        "remark": null
+      },
+      {
+        "uid": "up9.004",
+        "acronym": "Up 9.004",
+        "root_lang": "xct",
+        "original_title": "",
+        "translated_title": "Upāyikā 9.004",
+        "type": "full",
+        "resembling": true,
+        "remark": null
+      }
+    ],
+    "primary_sn_uid": null,
+    "pali_text": "",
+    "english_sn_text": "",
+    "errors": [],
+    "kumarajiva_style_text": "",
+    "modern_psychology_text": "",
+    "notes": "",
+    "review_status": "raw"
+  },
+  {
+    "id": "SA_12",
+    "uid": "sa12",
+    "title": "雜阿含經  （一）陰相應  （一二） 說因縁",
+    "chinese_text": "如是我聞：一時，佛住舍衛國、祇樹、給孤獨園。爾時，世尊告諸比丘：「色無常。若因、若緣生諸色者，彼亦無常。無常因、無常緣所生諸色，云何有常？受⋯想⋯行⋯識無常。若因、若緣生諸識者，彼亦無常。無常因、無常緣所生諸識，云何有常？「如是，比丘，色無常。受⋯想⋯行⋯識無常。無常者則是苦，苦者則非我，非我者則非我所。如是觀者名真實觀。聖弟子如是觀者於色解脫，於受⋯想⋯行⋯識解脫。我說是等為解脫生、老、病、死、憂、悲、苦、惱。」時，諸比丘聞佛所說歡喜，奉行。",
+    "english_sa_text": "Thus I have heard: One time, the Buddha was staying at Anāthapiṇḍada’s Park in Jeta’s Grove of Śrāvastī. It was then that the Bhagavān addressed the monks, “Form is impermanent. Whatever causes and conditions give rise to forms, they are also impermanent. How could forms that arise from impermanent causes and conditions be permanent? Thus, feeling … conception … volition … awareness is impermanent. Whatever causes and conditions give rise to instances of awareness, they are also impermanent. How could instances of awareness that arise from impermanent causes and conditions be permanent? “Thus, monks, form is impermanent. Feeling … conception … volition … awareness is impermanent. What’s impermanent is painful, something painful is not self, and something that’s not self doesn’t belong to self. Observing in this way is called true observation. “Noble disciples who observe it in this way are liberated from form … liberated from feeling … conception … volition … awareness. I say that this is liberation from birth, old age, illness, death, sorrow, lamentation, pain, and trouble.” When the monks heard what the Buddha taught, they rejoiced and approved.",
+    "parallels": [
+      {
+        "uid": "sn22.20",
+        "acronym": "SN 22.20",
+        "root_lang": "pli",
+        "original_title": "Sahetuanattasutta",
+        "translated_title": "Nonself with Cause",
+        "type": "full",
+        "resembling": false,
+        "remark": null
+      },
+      {
+        "uid": "sn22.19",
+        "acronym": "SN 22.19",
+        "root_lang": "pli",
+        "original_title": "Sahetudukkhasutta",
+        "translated_title": "Suffering with Cause",
+        "type": "full",
+        "resembling": false,
+        "remark": null
+      },
+      {
+        "uid": "up9.004",
+        "acronym": "Up 9.004",
+        "root_lang": "xct",
+        "original_title": "",
+        "translated_title": "Upāyikā 9.004",
+        "type": "full",
+        "resembling": true,
+        "remark": null
+      }
+    ],
+    "primary_sn_uid": "sn22.19",
+    "pali_text": "Sāvatthinidānaṁ. “Rūpaṁ, bhikkhave, dukkhaṁ. Yopi hetu yopi paccayo rūpassa uppādāya, sopi dukkho. Dukkhasambhūtaṁ, bhikkhave, rūpaṁ kuto sukhaṁ bhavissati. Vedanā dukkhā … saññā dukkhā … saṅkhārā dukkhā … viññāṇaṁ dukkhaṁ. Yopi hetu yopi paccayo viññāṇassa uppādāya, sopi dukkho. Dukkhasambhūtaṁ, bhikkhave, viññāṇaṁ kuto sukhaṁ bhavissati. Evaṁ passaṁ …pe… nāparaṁ itthattāyā’ti pajānātī”ti. Aṭṭhamaṁ.",
+    "english_sn_text": "At Sāvatthī. “Mendicants, form is suffering. The cause and reason that gives rise to form is also suffering. Since form is produced by what is suffering, how could it be happiness? Feeling is suffering … Perception is suffering … Choices are suffering … Consciousness is suffering. The cause and reason that gives rise to consciousness is also suffering. Since consciousness is produced by what is suffering, how could it be happiness? Seeing this … They understand: ‘… there is nothing further for this place.’”",
+    "errors": [],
+    "kumarajiva_style_text": "",
+    "modern_psychology_text": "",
+    "notes": "",
+    "review_status": "raw"
+  },
+  {
+    "id": "SA_13",
+    "uid": "sa13",
+    "title": "雜阿含經  （一）陰相應  （一三） 味",
+    "chinese_text": "如是我聞：一時，佛住舍衛國、祇樹、給孤獨園。爾時，世尊告諸比丘：「若眾生於色不味者，則不染於色。以眾生於色味故，則有染著。如是眾生於受⋯想⋯行⋯識不味者，彼眾生則不染於識。以眾生味受⋯想⋯行⋯識故，彼眾生染著於識。「諸比丘，若色於眾生不為患者，彼諸眾生不應厭色。以色為眾生患故，彼諸眾生則厭於色。如是受⋯想⋯行⋯識不為患者，彼諸眾生不應厭識。以受⋯想⋯行⋯識為眾生患故，彼諸眾生則厭於識。「諸比丘，若色於眾生無出離者，彼諸眾生不應出離於色。以色於眾生有出離故，彼諸眾生出離於色。如是受⋯想⋯行⋯識於眾生無出離者，彼諸眾生不應出離於識。以受⋯想⋯行⋯識於眾生有出離故，彼諸眾生出離於識。「諸比丘，若我於此五受陰不如實知味是味⋯患是患⋯離是離者，我於諸天，若魔、若梵，沙門、婆羅門，天、人眾中不脫，不出，不離，永住顛倒，亦不能自證得阿耨多羅三藐三菩提。「諸比丘，我以如實知此五受陰味是味⋯患是患⋯離是離故，我於諸天，若魔、若梵，沙門、婆羅門，天、人眾中，自證得脫，得出，得離，得解脫結縛，永不住顛倒，亦能自證得阿耨多羅三藐三菩提。」時，諸比丘聞佛所說歡喜，奉行。",
+    "english_sa_text": "Thus I have heard: One time, the Buddha was staying at Anāthapiṇḍada’s Park in Jeta’s Grove of Śrāvastī. It was then that the Bhagavān addressed the monks, “If sentient beings didn’t enjoy form, then they wouldn’t be affected by it. It’s because they do enjoy form that sentient beings are affected and attached to it. Thus, when sentient beings don’t enjoy feeling … conception … volition … awareness, they aren’t affected by it. It’s because sentient beings do enjoy feeling … conception … volition … awareness that they are affected and attached to it. “Monks, if form weren’t trouble for sentient beings, then sentient beings wouldn’t become disillusioned with it. It’s because form is trouble for sentient beings that they do become disillusioned with it. Thus, if feeling … conception … volition … awareness wasn’t trouble for sentient beings, they wouldn’t become disillusioned with it. It’s because feeling … perception … volition … awareness is trouble for sentient beings that they do become disillusioned with it. “Monks, if sentient beings had no escape from form, then sentient beings wouldn’t escape from it. It’s because sentient beings have an escape from form that they do escape from it. Thus, if sentient beings had no escape from feeling … conception … volition … awareness, they wouldn’t escape from it. It’s because sentient beings have an escape from feeling … conception … volition … awareness that they do escape from it. “Monks, if I didn’t truly know the enjoyment of the five acquired aggregates to be enjoyment … trouble to be trouble … escape to be escape, I wouldn’t be freed, escaped, and parted with them. I would have forever stood in delusion among gods like Māra or Brahmā, ascetics and priests, or the assemblies of gods and humans, and I couldn’t have realized my attainment of the unsurpassed and complete awakening. “Monks, it’s because I truly knew the enjoyment of the five acquired aggregates to be enjoyment … trouble to be trouble … escape to be escape that I was freed, escaped, parted, and liberated from bondage. I never again stood in delusion among gods like Māra or Brahmā, ascetics and priests, or the assemblies of gods and humans, and I could realize my attainment of the unsurpassed and complete awakening.” When the monks heard what the Buddha taught, they rejoiced and approved.",
+    "parallels": [
+      {
+        "uid": "sn22.28",
+        "acronym": "SN 22.28",
+        "root_lang": "pli",
+        "original_title": "Tatiyaassādasutta",
+        "translated_title": "Gratification (3)",
+        "type": "full",
+        "resembling": false,
+        "remark": null
+      }
+    ],
+    "primary_sn_uid": "sn22.28",
+    "pali_text": "Sāvatthinidānaṁ. “No cedaṁ, bhikkhave, rūpassa assādo abhavissa nayidaṁ sattā rūpasmiṁ sārajjeyyuṁ. Yasmā ca kho, bhikkhave, atthi rūpassa assādo, tasmā sattā rūpasmiṁ sārajjanti. No cedaṁ, bhikkhave, rūpassa ādīnavo abhavissa nayidaṁ sattā rūpasmiṁ nibbindeyyuṁ. Yasmā ca kho, bhikkhave, atthi rūpassa ādīnavo, tasmā sattā rūpasmiṁ nibbindanti. No cedaṁ, bhikkhave, rūpassa nissaraṇaṁ abhavissa nayidaṁ sattā rūpasmā nissareyyuṁ. Yasmā ca kho, bhikkhave, atthi rūpassa nissaraṇaṁ, tasmā sattā rūpasmā nissaranti. No cedaṁ, bhikkhave, vedanāya …pe… no cedaṁ, bhikkhave, saññāya … no cedaṁ, bhikkhave, saṅkhārānaṁ nissaraṇaṁ abhavissa, nayidaṁ sattā saṅkhārehi nissareyyuṁ. Yasmā ca kho, bhikkhave, atthi saṅkhārānaṁ nissaraṇaṁ, tasmā sattā saṅkhārehi nissaranti. No cedaṁ, bhikkhave, viññāṇassa assādo abhavissa, nayidaṁ sattā viññāṇasmiṁ sārajjeyyuṁ. Yasmā ca kho, bhikkhave, atthi viññāṇassa assādo, tasmā sattā viññāṇasmiṁ sārajjanti. No cedaṁ, bhikkhave, viññāṇassa ādīnavo abhavissa, nayidaṁ sattā viññāṇasmiṁ nibbindeyyuṁ. Yasmā ca kho, bhikkhave, atthi viññāṇassa ādīnavo, tasmā sattā viññāṇasmiṁ nibbindanti. No cedaṁ, bhikkhave, viññāṇassa nissaraṇaṁ abhavissa, nayidaṁ sattā viññāṇasmā nissareyyuṁ. Yasmā ca kho, bhikkhave, atthi viññāṇassa nissaraṇaṁ, tasmā sattā viññāṇasmā nissaranti. Yāvakīvañca, bhikkhave, sattā imesaṁ pañcannaṁ upādānakkhandhānaṁ assādañca assādato ādīnavañca ādīnavato nissaraṇañca nissaraṇato yathābhūtaṁ nābbhaññaṁsu; neva tāva, bhikkhave, sattā sadevakā lokā samārakā sabrahmakā sassamaṇabrāhmaṇiyā pajāya sadevamanussāya nissaṭā visaṁyuttā vippamuttā vimariyādīkatena cetasā vihariṁsu. Yato ca kho, bhikkhave, sattā imesaṁ pañcannaṁ upādānakkhandhānaṁ assādañca assādato ādīnavañca ādīnavato nissaraṇañca nissaraṇato yathābhūtaṁ abbhaññaṁsu; atha, bhikkhave, sattā sadevakā lokā samārakā sabrahmakā sassamaṇabrāhmaṇiyā pajāya sadevamanussāya nissaṭā visaṁyuttā vippamuttā vimariyādīkatena cetasā viharanti”. Sattamaṁ.",
+    "english_sn_text": "At Sāvatthī. “Mendicants, if there were no gratification in form, sentient beings wouldn’t be aroused by it. But since there is gratification in form, sentient beings are aroused by it. If form had no drawback, sentient beings wouldn’t grow disillusioned with it. But since form has a drawback, sentient beings do grow disillusioned with it. If there were no escape from form, sentient beings wouldn’t escape from it. But since there is an escape from form, sentient beings do escape from it. If there were no gratification in feeling … perception … choices … consciousness, sentient beings wouldn’t be aroused by it. But since there is gratification in consciousness, sentient beings are aroused by it. If consciousness had no drawback, sentient beings wouldn’t grow disillusioned with it. But since consciousness has a drawback, sentient beings do grow disillusioned with it. If there were no escape from consciousness, sentient beings wouldn’t escape from it. But since there is an escape from consciousness, sentient beings do escape from it. As long as sentient beings don’t truly understand these five grasping aggregates’ gratification, drawback, and escape for what they are, they haven’t escaped from this world—with its gods, Māras, and divinities, this population with its ascetics and brahmins, its gods and humans—and they don’t live detached, liberated, with mind free of limits. But when sentient beings truly understand these five grasping aggregates’ gratification, drawback, and escape for what they are, they’ve escaped from this world—with its gods, Māras, and divinities, this population with its ascetics and brahmins, its gods and humans—and they live detached, liberated, with mind free of limits.”",
+    "errors": [],
+    "kumarajiva_style_text": "",
+    "modern_psychology_text": "",
+    "notes": "",
+    "review_status": "raw"
+  },
+  {
+    "id": "SA_14",
+    "uid": "sa14",
+    "title": "雜阿含經  （一）陰相應  (一四) 味",
+    "chinese_text": "如是我聞：一時，佛住舍衞國、祇樹、給孤獨園。爾時，世尊告諸比丘：「我昔於色味有求，有行。若於色味隨順覺，則於色味以智慧如實見。如是，於受⋯想⋯行⋯識味有求，有行。若於受⋯想⋯行⋯識味隨順覺，則於識味以智慧如實見。「諸比丘，我於色患有求，有行。若於色患隨順覺，則於色患以智慧如實見。如是，受⋯想⋯行⋯識患有求，有行。若於識患隨順覺，則於識患以智慧如實見。「諸比丘，我於色離有求，有行。若於色離隨順覺，則於色離以智慧如實見。如是，受⋯想⋯行⋯識離有求，有行。若於受⋯想⋯行⋯識離隨順覺，則於受⋯想⋯行⋯識離以智慧如實見。「諸比丘，我於五受陰不如實知味是味⋯患是患⋯離是離者，我於諸天，若魔、若梵，沙門、婆羅門，天、人眾中不脫，不離，不出，永住顛倒，不能自證得阿耨多羅三藐三菩提。「諸比丘，我以如實知五受陰味是味⋯患是患⋯離是離，我於諸天若魔、若梵，沙門、婆羅門，天、人眾中以脫，以離，以出，永不住顛倒。能自證得阿耨多羅三藐三菩提。時，諸比丘聞佛所說歡喜，奉行。過去四種說、厭離、及解脫、二種說因縁、味亦復二種。",
+    "english_sa_text": "Thus I have heard: One time, the Buddha was staying at Anāthapiṇḍada’s Park in Jeta’s Grove of Śrāvastī. It was then that the Bhagavān addressed the monks, “In the past, I had pursued and practiced the enjoyment of form. When I realized the enjoyment of form as a result, I truly saw it with wisdom. Thus, I had pursued and practiced the enjoyment of feeling … conception … volition … awareness. When I realized the enjoyment of feeling … conception … volition … awareness as a result, I truly saw it with wisdom. “Monks, I pursued and practiced the trouble of form. When I realized form’s trouble as a result, I truly saw it with wisdom. Thus, I pursued and practiced the trouble of feeling … conception … volition … awareness. When I realized the trouble of awareness as a result, I truly saw it with wisdom. “Monks, I pursued and practiced the escape from form. When I realized the escape from form as a result, I truly saw it with wisdom. Thus, I pursued and practiced the escape from feeling … conception … volition … awareness. When I realized the escape from awareness as a result, I truly saw it with wisdom. “Monks, had I not truly known the enjoyment of the five acquired aggregates to be enjoyment … trouble to be trouble … escape to be escape, I wouldn’t be freed, escaped, and parted with them. I would have forever stood in delusion among gods like Māra or Brahmā, ascetics and priests, or the assemblies of gods and humans, and I couldn’t have realized my attainment of the unsurpassed and complete awakening. “Monks, it’s because I truly knew the enjoyment of the five acquired aggregates to be enjoyment … trouble to be trouble … escape to be escape that I was freed, escaped, parted, and liberated from bondage. I never again stood in delusion among gods like Māra or Brahmā, ascetics and priests, or the assemblies of gods and humans, and I could realize my attainment of the unsurpassed and complete awakening.” When the monks heard what the Buddha taught, they rejoiced and approved. Summary Verse [11-14] The past explained in four ways, [15] Disillusionment and [16] liberation, [17-18] Two ways of explaining causes and conditions, And [19-20] two kinds of enjoyment.",
+    "parallels": [
+      {
+        "uid": "sn22.27",
+        "acronym": "SN 22.27",
+        "root_lang": "pli",
+        "original_title": "Dutiyaassādasutta",
+        "translated_title": "Gratification (2)",
+        "type": "full",
+        "resembling": false,
+        "remark": null
+      },
+      {
+        "uid": "sn22.26",
+        "acronym": "SN 22.26",
+        "root_lang": "pli",
+        "original_title": "Assādasutta",
+        "translated_title": "Gratification (1)",
+        "type": "full",
+        "resembling": false,
+        "remark": null
+      }
+    ],
+    "primary_sn_uid": "sn22.26",
+    "pali_text": "Sāvatthinidānaṁ. “Pubbeva me, bhikkhave, sambodhā anabhisambuddhassa bodhisattasseva sato etadahosi: ‘ko nu kho rūpassa assādo, ko ādīnavo, kiṁ nissaraṇaṁ? Ko vedanāya assādo, ko ādīnavo, kiṁ nissaraṇaṁ? Ko saññāya assādo, ko ādīnavo, kiṁ nissaraṇaṁ? Ko saṅkhārānaṁ assādo, ko ādīnavo, kiṁ nissaraṇaṁ? Ko viññāṇassa assādo, ko ādīnavo, kiṁ nissaraṇan’ti? Tassa mayhaṁ, bhikkhave, etadahosi: ‘yaṁ kho rūpaṁ paṭicca uppajjati sukhaṁ somanassaṁ, ayaṁ rūpassa assādo. Yaṁ rūpaṁ aniccaṁ dukkhaṁ vipariṇāmadhammaṁ, ayaṁ rūpassa ādīnavo. Yo rūpasmiṁ chandarāgavinayo chandarāgappahānaṁ, idaṁ rūpassa nissaraṇaṁ. Yaṁ vedanaṁ paṭicca uppajjati sukhaṁ somanassaṁ, ayaṁ vedanāya assādo. Yaṁ vedanā aniccā dukkhā vipariṇāmadhammā, ayaṁ vedanāya ādīnavo. Yo vedanāya chandarāgavinayo chandarāgappahānaṁ, idaṁ vedanāya nissaraṇaṁ. Yaṁ saññaṁ paṭicca uppajjati …pe… yaṁ saṅkhāre paṭicca uppajjati sukhaṁ somanassaṁ, ayaṁ saṅkhārānaṁ assādo. Yaṁ saṅkhārā aniccā dukkhā vipariṇāmadhammā, ayaṁ saṅkhārānaṁ ādīnavo. Yo saṅkhāresu chandarāgavinayo chandarāgappahānaṁ, idaṁ saṅkhārānaṁ nissaraṇaṁ. Yaṁ viññāṇaṁ paṭicca uppajjati sukhaṁ somanassaṁ, ayaṁ viññāṇassa assādo. Yaṁ viññāṇaṁ aniccaṁ dukkhaṁ vipariṇāmadhammaṁ, ayaṁ viññāṇassa ādīnavo. Yo viññāṇasmiṁ chandarāgavinayo chandarāgappahānaṁ, idaṁ viññāṇassa nissaraṇaṁ’. Yāvakīvañcāhaṁ, bhikkhave, imesaṁ pañcannaṁ upādānakkhandhānaṁ evaṁ assādañca assādato ādīnavañca ādīnavato nissaraṇañca nissaraṇato yathābhūtaṁ nābbhaññāsiṁ, neva tāvāhaṁ, bhikkhave, ‘sadevake loke samārake sabrahmake sassamaṇabrāhmaṇiyā pajāya sadevamanussāya anuttaraṁ sammāsambodhiṁ abhisambuddho’ti paccaññāsiṁ. Yato ca khvāhaṁ, bhikkhave, imesaṁ pañcannaṁ upādānakkhandhānaṁ evaṁ assādañca assādato ādīnavañca ādīnavato nissaraṇañca nissaraṇato yathābhūtaṁ abbhaññāsiṁ; athāhaṁ, bhikkhave, sadevake loke samārake sabrahmake sassamaṇabrāhmaṇiyā pajāya sadevamanussāya anuttaraṁ sammāsambodhiṁ abhisambuddhoti paccaññāsiṁ. Ñāṇañca pana me dassanaṁ udapādi: ‘akuppā me vimutti; ayamantimā jāti; natthi dāni punabbhavo’”ti. Pañcamaṁ.",
+    "english_sn_text": "At Sāvatthī. “Mendicants, before my awakening—when I was still unawakened but intent on awakening—I thought: ‘What’s the gratification, the drawback, and the escape when it comes to form … feeling … perception … choices … and consciousness?’ Then it occurred to me: ‘The pleasure and happiness that arise from form: this is its gratification. That form is impermanent, suffering, and perishable: this is its drawback. Removing and giving up desire and greed for form: this is its escape. The pleasure and happiness that arise from feeling … perception … choices … consciousness: this is its gratification. That consciousness is impermanent, suffering, and perishable: this is its drawback. Removing and giving up desire and greed for consciousness: this is its escape.’ As long as I didn’t truly understand these five grasping aggregates’ gratification, drawback, and escape in this way for what they are, I didn’t announce my supreme perfect awakening in this world with its gods, Māras, and divinities, this population with its ascetics and brahmins, its gods and humans. But when I did truly understand these five grasping aggregates’ gratification, drawback, and escape in this way for what they are, I announced my supreme perfect awakening in this world with its gods, Māras, and divinities, this population with its ascetics and brahmins, its gods and humans. Knowledge and vision arose in me: ‘My freedom is unshakable; this is my last rebirth; now there’ll be no more future lives.’”",
+    "errors": [],
+    "kumarajiva_style_text": "",
+    "modern_psychology_text": "",
+    "notes": "",
+    "review_status": "raw"
+  },
+  {
+    "id": "SA_15",
+    "uid": "sa15",
+    "title": "雜阿含經  （一）陰相應  (一五) 使",
+    "chinese_text": "如是我聞：一時，佛住舍衞國、祇樹、給孤獨園。爾時，有異比丘來詣佛所。稽首佛足，却住一面，白佛言：「善哉，世尊！今當為我略說法要。我聞法已，當獨一靜處，修不放逸。修不放逸已，當復思惟：『所以善男子出家，剃除鬚髮，身著法服，信家非家，出家。為究竟無上梵行。現法作證：「我生已盡，梵行已立，所作已作。」自知不受後有。』」爾時，世尊告彼比丘：「善哉，善哉！比丘，快說此言：『云當為我略說法要？我聞法已，獨一靜處修不放逸⋯乃至⋯「自知不受後有。」』如是說耶？」比丘白佛：「如是，世尊。」佛告比丘：「諦聽，諦聽！善思念之。當為汝說。比丘，若隨使使者，即隨使死。若隨使死者，為取所縛。比丘，若不隨使使，則不隨使死。不隨使死者，則於取解脫。」比丘白佛：「知已，世尊！知已，善逝！」佛告比丘：「汝云何於我略說法中廣解其義？」比丘白佛言：「世尊，色隨使使，色隨使死。隨使使、隨使死者，則為取所縛。如是，受⋯想⋯行⋯識隨使使，隨使死。隨使使、隨使死者，為取所縛。「世尊，若色不隨使使，不隨使死。不隨使使、不隨使死者，則於取解脫。如是，受⋯想⋯行⋯識不隨使使，不隨使死。不隨使使、不隨使死者，則於取解脫。如是，世尊，略說法中廣解其義。」佛告比丘：「善哉！善哉，比丘，於我略說法中廣解其義。所以者何？色隨使使，隨使死。隨使使、隨使死者，則為取所縛。如是，受⋯想⋯行⋯識隨使使、隨使死。隨使使、隨使死者，則為取所縛。「比丘，色不隨使使，不隨使死。不隨使使、不隨使死者，則於取解脫。如是，受⋯想⋯行⋯識不隨使使，不隨使死。不隨使使、不隨使死者，則於取解脫。」時，彼比丘聞佛所說，心大歡喜。禮佛而退。獨在靜處，精勤修習，住不放逸。精勤修習，住不放逸已，思惟：「所以善男子出家，剃除鬚髮，身著法服，信家非家，出家⋯乃至⋯『自知不受後有。』」時，彼比丘即成羅漢，心得解脫。",
+    "english_sa_text": "Thus I have heard: One time, the Buddha was staying at Anāthapiṇḍada’s Park in Jeta’s Grove of Śrāvastī. At the time, a certain monk came to the Buddha. He bowed his head at the Buddha’s feet, withdrew to stand to one side, and then said, “It’d be good, Bhagavān, if you would briefly explain the Dharma for me now. After hearing the Dharma, I’ll go alone to a quiet place and cultivate it earnestly. After cultivating it earnestly, I’ll again contemplate: ‘A good son leaves home, cuts off his hair and beard, puts on the Dharma robes, is a believer in the homeless, and leaves home [to train on the path]. That’s the way he reaches the ultimate and unsurpassed religious practice. He’ll realize in the present life: “My births have been ended, the religious practice has been established, and the task has been accomplished.” He himself will know he won’t be subject to a later existence.’” The Bhagavān told that monk, “Good, good! Monk, I’m glad you’ve said, ‘[Bhagavān,] give me a brief explanation of the Dharma. From that brief explanation of the Dharma, I will get a full understanding of its meaning. I’ll go alone to a quiet place, focus on contemplation, and live earnestly … up to … “‘I myself know that I won’t be subject to a later existence.’”’ Is this what you said?” The monk said to the Buddha, “Yes, Bhagavān.” The Buddha told the monk, “Listen closely! Listen closely, and consider it well. I will explain this for you. Monk, if something brings about the tendencies, then it brings about death. If something brings about death, then it’s bound by grasping. Monk, if it doesn’t bring about the tendencies, then it won’t bring about death. If something doesn’t bring about death, then it’s freed from grasping.” The monk said to the Buddha, “I’ve understood, Bhagavān! I’ve understood, Sugata!” The Buddha asked the monk, “How do you understand the meaning of my brief explanation of the Dharma in full?” The monk said to the Buddha, “Bhagavān, form brings about the tendencies, and form brings about death. Something that brings about the tendencies and death is bound by grasping. Thus, feeling … conception … volition … awareness brings about the tendencies, and awareness brings about death. Something that brings about the tendencies and brings about death is bound by grasping. “Bhagavān, if form doesn’t bring about the tendencies, it won’t bring about death. Something that doesn’t bring about the tendencies and doesn’t bring about death is freed from grasping. Thus, if feeling … conception … volition … awareness doesn’t bring about the tendencies, it won’t bring about death. Something that doesn’t bring about the tendencies and doesn’t bring about death is freed from grasping. I understand the Bhagavān’s brief explanation of the Dharma in this way.” The Buddha told the monk, “Good! It’s good, monk, that you understand the meaning of my brief explanation of the Dharma in full. Why is that? If form brings about the tendencies, it brings about death. Something that brings about the tendencies and brings about death is bound by grasping. Thus, if feeling … conception … volition … awareness brings about the tendencies, it brings about death. Something that brings about the tendencies and brings about death is bound by grasping. “Monk, if form doesn’t bring about the tendencies, it won’t bring about death. Something that doesn’t bring about the tendencies and doesn’t bring about death is freed from grasping. Thus, if feeling … conception … volition … awareness doesn’t bring about the tendencies, it won’t bring about death. Something that doesn’t bring about the tendencies and doesn’t bring about death is freed from grasping.” When that monk heard what the Buddha taught, he felt great joy. He bowed to the Buddha and withdrew. He went alone to a quiet place where he diligently trained and lived earnestly. After diligently training and living earnestly, he thought, “A good son leaves home, cuts off his hair and beard, puts on the Dharma robes, is a believer in the homeless, and leaves home … up to … ‘I myself know that I won’t be subject to a later existence.’” That monk then became an arhat, and his mind was liberated.",
+    "parallels": [
+      {
+        "uid": "sn22.36",
+        "acronym": "SN 22.36",
+        "root_lang": "pli",
+        "original_title": "Dutiyaaññatarabhikkhusutta",
+        "translated_title": "A Certain Bhikkhu (2)",
+        "type": "full",
+        "resembling": true,
+        "remark": null
+      },
+      {
+        "uid": "sn22.65",
+        "acronym": "SN 22.65",
+        "root_lang": "pli",
+        "original_title": "Abhinandamānasutta",
+        "translated_title": "In Seeking Delight",
+        "type": "full",
+        "resembling": true,
+        "remark": null
+      },
+      {
+        "uid": "sn22.64",
+        "acronym": "SN 22.64",
+        "root_lang": "pli",
+        "original_title": "Maññamānasutta",
+        "translated_title": "In Conceiving",
+        "type": "full",
+        "resembling": true,
+        "remark": null
+      },
+      {
+        "uid": "sn22.63",
+        "acronym": "SN 22.63",
+        "root_lang": "pli",
+        "original_title": "Upādiyamānasutta",
+        "translated_title": "In Clinging",
+        "type": "full",
+        "resembling": true,
+        "remark": null
+      }
+    ],
+    "primary_sn_uid": "sn22.36",
+    "pali_text": "Sāvatthinidānaṁ. Atha kho aññataro bhikkhu yena bhagavā …pe… ekamantaṁ nisinno kho so bhikkhu bhagavantaṁ etadavoca: “sādhu me, bhante, bhagavā saṅkhittena dhammaṁ desetu yamahaṁ bhagavato dhammaṁ sutvā eko vūpakaṭṭho appamatto ātāpī pahitatto vihareyyan”ti. “Yaṁ kho, bhikkhu, anuseti taṁ anumīyati; yaṁ anumīyati tena saṅkhaṁ gacchati. Yaṁ nānuseti na taṁ anumīyati; yaṁ nānumīyati na tena saṅkhaṁ gacchatī”ti. “Aññātaṁ, bhagavā, aññātaṁ, sugatā”ti. “Yathā kathaṁ pana tvaṁ, bhikkhu, mayā saṅkhittena bhāsitassa vitthārena atthaṁ ājānāsī”ti? “Rūpañce, bhante, anuseti taṁ anumīyati; yaṁ anumīyati tena saṅkhaṁ gacchati. Vedanañce anuseti … saññañce anuseti … saṅkhāre ce anuseti … viññāṇañce anuseti taṁ anumīyati; yaṁ anumīyati tena saṅkhaṁ gacchati. Rūpañce, bhante, nānuseti na taṁ anumīyati; yaṁ nānumīyati na tena saṅkhaṁ gacchati. Vedanañce nānuseti … saññañce nānuseti … saṅkhāre ce nānuseti … viññāṇañce nānuseti na taṁ anumīyati; yaṁ nānumīyati na tena saṅkhaṁ gacchati. Imassa khvāhaṁ, bhante, bhagavatā saṅkhittena bhāsitassa evaṁ vitthārena atthaṁ ājānāmī”ti. “Sādhu sādhu, bhikkhu. Sādhu kho tvaṁ, bhikkhu, mayā saṅkhittena bhāsitassa vitthārena atthaṁ ājānāsi. Rūpañce, bhikkhu, anuseti taṁ anumīyati; yaṁ anumīyati tena saṅkhaṁ gacchati. Vedanañce, bhikkhu … saññañce, bhikkhu … saṅkhāre ce, bhikkhu … viññāṇañce, bhikkhu, anuseti taṁ anumīyati; yaṁ anumīyati tena saṅkhaṁ gacchati. Rūpañce, bhikkhu, nānuseti na taṁ anumīyati; yaṁ nānumīyati na tena saṅkhaṁ gacchati. Vedanañce nānuseti … saññañce nānuseti … saṅkhāre ce nānuseti … viññāṇañce nānuseti na taṁ anumīyati; yaṁ nānumīyati na tena saṅkhaṁ gacchati. Imassa kho, bhikkhu, mayā saṅkhittena bhāsitassa evaṁ vitthārena attho daṭṭhabbo”ti …pe… aññataro ca pana so bhikkhu arahataṁ ahosīti. Catutthaṁ.",
+    "english_sn_text": "At Sāvatthī. Then a mendicant went up to the Buddha … and asked him, “Sir, may the Buddha please teach me Dhamma in brief. When I’ve heard it, I’ll live alone, withdrawn, diligent, keen, and resolute.” “Mendicant, you’re measured against what you have an underlying tendency for, and you’re reckoned by what you’re measured against. You’re not measured against what you have no underlying tendency for, and you’re not reckoned by what you’re not measured against.” “Understood, Blessed One! Understood, Holy One!” “But how do you see the detailed meaning of my brief statement?” “If you have an underlying tendency for form, you’re measured against that, and you’re reckoned by what you’re measured against. If you have an underlying tendency for feeling … perception … choices … consciousness, you’re measured against that, and you’re reckoned by what you’re measured against. If you have no underlying tendency for form, you’re not measured against that, and you’re not reckoned by what you’re not measured against. If you have no underlying tendency for feeling … perception … choices … consciousness, you’re not measured against that, and you’re not reckoned by what you’re not measured against. That’s how I understand the detailed meaning of the Buddha’s brief statement.” “Good, good, mendicant! It’s good that you understand the detailed meaning of what I’ve said in brief like this. If you have an underlying tendency for form, you’re measured against that, and you’re reckoned by what you’re measured against. If you have an underlying tendency for feeling … perception … choices … consciousness, you’re measured against that, and you’re reckoned by what you’re measured against. If you have no underlying tendency for form, you’re not measured against that, and you’re not reckoned by what you’re not measured against. If you have no underlying tendency for feeling … perception … choices … consciousness, you’re not measured against that, and you’re not reckoned by what you’re not measured against. This is how to see the detailed meaning of what I said in brief.” … And that mendicant became one of the perfected.",
+    "errors": [],
+    "kumarajiva_style_text": "",
+    "modern_psychology_text": "",
+    "notes": "",
+    "review_status": "raw"
+  },
+  {
+    "id": "SA_16",
+    "uid": "sa16",
+    "title": "雜阿含經  （一）陰相應  (一六) 增諸數",
+    "chinese_text": "如是我聞：一時，佛住舍衞國、祇樹、給孤獨園。爾時，有異比丘來詣佛所⋯所問如上⋯差別者：「隨使使隨使死者，則增諸數。若不隨使使不隨使死者，則不增諸數。」佛告比丘：「汝云何於我略說法中。廣解其義？」時，彼比丘白佛言：「世尊，若色隨使使，隨使死。隨使使隨使死者，則增諸數。如是，受⋯想⋯行⋯識隨使使，隨使死。隨使使隨使死者，則增諸數。「世尊，若色不隨使使，不隨使死。不隨使使不隨使死者，則不增諸數。如是，受⋯想⋯行⋯識不隨使使，不隨使死。不隨使使不隨使死者，則不增諸數。如是，世尊，我於略說法中廣解其義。」如是⋯乃至⋯⋯得阿羅漢，心得解脫。",
+    "english_sa_text": "Thus I have heard: One time, the Buddha was staying at Anāthapiṇḍada’s Park in Jeta’s Grove of Śrāvastī. It was then that a certain monk came to the Buddha. [He bowed his head at the Buddha’s feet and withdrew to stand to one side. He then said, “It’d be good, Bhagavān, if you would briefly explain the Dharma for me now. After hearing the Dharma, I’ll go alone to a quiet place and cultivate it earnestly. After cultivating it earnestly, I’ll again contemplate: ‘A good son leaves home, cuts off his hair and beard, puts on the Dharma robes, believes at home in being homeless, and leaves home to train on the path. That’s the way he reaches the ultimate and unsurpassed religious practice. He’ll realize in the present life: “My births have been ended, the religious practice has been established, and the task has been accomplished. I myself know that I won’t be subject to a later existence.”’”] [The Bhagavān told that monk, “Good, good! Monk, I’m glad you’ve said, ‘Bhagavān, give me a brief explanation of the Dharma. From that brief explanation of the Dharma, I will get a full understanding of its meaning. I’ll go alone to a quiet place, focus on contemplation, and live earnestly … up to … “‘I myself know that I won’t be subject to a later existence.’”’ Is this what you said?”] [The monk said to the Buddha, “Yes, Bhagavān.”] [The Buddha told the monk, “Listen closely! Listen closely, and consider it well. I will explain this for you. Monk,] if something brings about the tendencies and brings about death, then it increases in number. Monk, if it doesn’t bring about the tendencies or bring about death, then it doesn’t increase in number.” [The monk said to the Buddha, “I’ve understood, Bhagavān! I’ve understood, Sugata!”] The Buddha asked the monk, “How do you understand the meaning of my brief explanation of the Dharma in full?” That monk then said to the Buddha, “Bhagavān, suppose form brings about the tendencies and brings about death. Something that brings about the tendencies and brings about death increases in number. Thus, suppose feeling … conception … volition … awareness brings about the tendencies and brings about death. Something that brings about the tendencies and brings about death increases in number. “Bhagavān, suppose form doesn’t bring about the tendencies and doesn’t bring about death. Something that doesn’t bring about the tendencies or bring about death doesn’t increase in number. Thus, suppose feeling … conception … volition … awareness doesn’t bring about the tendencies and doesn’t bring about death. Something that doesn’t bring about the tendencies or bring about death doesn’t increase in number. I understand the Bhagavān’s brief explanation of the Dharma in this way.” [The Buddha told the monk, “Good! It’s good, monk, that you understand the meaning of my brief explanation of the Dharma in full. Why is that? Suppose form brings about the tendencies and brings about death. Something that brings about the tendencies and brings about death increases in number. Thus, suppose feeling … conception … volition … awareness brings about the tendencies and brings about death. Something that brings about the tendencies and brings about death increases in number.] [“Suppose form doesn’t bring about the tendencies and doesn’t bring about death. Something that doesn’t bring about the tendencies or bring about death doesn’t increase in number. Thus, suppose feeling … conception … volition … awareness doesn’t bring about the tendencies and doesn’t bring about death. Something that doesn’t bring about the tendencies or bring about death doesn’t increase in number.”] [When that monk heard what the Buddha taught, he felt great joy. He bowed to the Buddha and withdrew. He went alone to a quiet place where he diligently trained and lived earnestly. After diligently training and living earnestly, he thought, “A good son leaves home, cuts off his hair and beard, puts on the Dharma robes, believes at home in being homeless, and leaves home … up to … ‘I myself know that I won’t be subject to a later existence.’”] [That monk then] became an arhat, and his mind was liberated.",
+    "parallels": [
+      {
+        "uid": "sn22.35",
+        "acronym": "SN 22.35",
+        "root_lang": "pli",
+        "original_title": "Aññatarabhikkhusutta",
+        "translated_title": "A Certain Bhikkhu (1)",
+        "type": "full",
+        "resembling": false,
+        "remark": null
+      }
+    ],
+    "primary_sn_uid": "sn22.35",
+    "pali_text": "Sāvatthinidānaṁ. Atha kho aññataro bhikkhu yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṁ abhivādetvā ekamantaṁ nisīdi. Ekamantaṁ nisinno kho so bhikkhu bhagavantaṁ etadavoca: “sādhu me, bhante, bhagavā saṅkhittena dhammaṁ desetu; yamahaṁ bhagavato dhammaṁ sutvā eko vūpakaṭṭho, appamatto ātāpī pahitatto vihareyyan”ti. “Yaṁ kho, bhikkhu, anuseti, tena saṅkhaṁ gacchati; yaṁ nānuseti, na tena saṅkhaṁ gacchatī”ti. “Aññātaṁ, bhagavā, aññātaṁ, sugatā”ti. “Yathā kathaṁ pana tvaṁ, bhikkhu, mayā saṅkhittena bhāsitassa vitthārena atthaṁ ājānāsī”ti? “Rūpañce, bhante, anuseti tena saṅkhaṁ gacchati. Vedanañce anuseti tena saṅkhaṁ gacchati. Saññañce anuseti tena saṅkhaṁ gacchati. Saṅkhāre ce anuseti tena saṅkhaṁ gacchati. Viññāṇañce anuseti tena saṅkhaṁ gacchati. Rūpañce, bhante, nānuseti na tena saṅkhaṁ gacchati. Vedanañce … saññañce … saṅkhāre ce … viññāṇañce nānuseti na tena saṅkhaṁ gacchati. Imassa khvāhaṁ, bhante, bhagavatā saṅkhittena bhāsitassa evaṁ vitthārena atthaṁ ājānāmī”ti. “Sādhu sādhu, bhikkhu. Sādhu kho tvaṁ, bhikkhu, mayā saṅkhittena bhāsitassa vitthārena atthaṁ ājānāsi. Rūpañce, bhikkhu, anuseti tena saṅkhaṁ gacchati. Vedanañce … saññañce … saṅkhāre ce … viññāṇañce anuseti tena saṅkhaṁ gacchati. Rūpañce, bhikkhu, nānuseti na tena saṅkhaṁ gacchati. Vedanañce … saññañce … saṅkhāre ce … viññāṇañce nānuseti na tena saṅkhaṁ gacchati. Imassa kho, bhikkhu, mayā saṅkhittena, bhāsitassa evaṁ vitthārena attho daṭṭhabbo”ti. Atha kho so bhikkhu bhagavato bhāsitaṁ abhinanditvā anumoditvā uṭṭhāyāsanā bhagavantaṁ abhivādetvā padakkhiṇaṁ katvā pakkāmi. Atha kho so bhikkhu eko vūpakaṭṭho appamatto ātāpī pahitatto viharanto nacirasseva—yassatthāya kulaputtā sammadeva agārasmā anagāriyaṁ pabbajanti, tadanuttaraṁ—brahmacariyapariyosānaṁ diṭṭheva dhamme sayaṁ abhiññā sacchikatvā upasampajja vihāsi. “Khīṇā jāti, vusitaṁ brahmacariyaṁ, kataṁ karaṇīyaṁ, nāparaṁ itthattāyā”ti abbhaññāsi. Aññataro ca pana so bhikkhu arahataṁ ahosīti. Tatiyaṁ.",
+    "english_sn_text": "At Sāvatthī. Then a mendicant went up to the Buddha, bowed, sat down to one side, and said to him, “Sir, may the Buddha please teach me Dhamma in brief. When I’ve heard it, I’ll live alone, withdrawn, diligent, keen, and resolute.” “Mendicant, you’re reckoned by what you have an underlying tendency for. You’re not reckoned by what you have no underlying tendency for.” “Understood, Blessed One! Understood, Holy One!” “But how do you see the detailed meaning of my brief statement?” “If you have an underlying tendency for form, you’re reckoned by that. If you have an underlying tendency for feeling … perception … choices … consciousness, you’re reckoned by that. If you have no underlying tendency for form, you’re not reckoned by that. If you have no underlying tendency for feeling … perception … choices … consciousness, you’re not reckoned by that. That’s how I understand the detailed meaning of the Buddha’s brief statement.” “Good, good, mendicant! It’s good that you understand the detailed meaning of what I’ve said in brief like this. If you have an underlying tendency for form, you’re reckoned by that. If you have an underlying tendency for feeling … perception … choices … consciousness, you’re reckoned by that. If you have no underlying tendency for form, you’re not reckoned by that. If you have no underlying tendency for feeling … perception … choices … consciousness, you’re not reckoned by that. This is how to see the detailed meaning of what I said in brief.” And then that mendicant approved and agreed with what the Buddha said. He got up from his seat, bowed and respectfully circled the Buddha, keeping him on his right, before leaving. Then that mendicant, living alone, withdrawn, diligent, keen, and resolute, soon realized the supreme culmination of the spiritual path in this very life. He lived having achieved with his own insight the goal for which gentlemen rightly go forth from the lay life to homelessness. He understood: “Rebirth is ended; the spiritual journey has been completed; what had to be done has been done; there is nothing further for this place.” And that mendicant became one of the perfected.",
+    "errors": [],
+    "kumarajiva_style_text": "",
+    "modern_psychology_text": "",
+    "notes": "",
+    "review_status": "raw"
+  },
+  {
+    "id": "SA_17",
+    "uid": "sa17",
+    "title": "雜阿含經  （一）陰相應  （一七） 非我",
+    "chinese_text": "如是我聞：一時，佛住舍衛國、祇樹、給孤獨園。有異比丘從座起。偏袒右肩，合掌白佛言：「善哉，世尊，為我略說法要。我聞法已，當獨一靜處，專精思惟，住不放逸：『所以善男子出家，剃除鬚髮，身著法服，信家非家，出家學道。為究竟無上梵行。現法身作證：「我生已盡，梵行已立，所作已作。」自知不受後有。』」爾時，世尊告彼比丘：「善哉，善哉！汝作是說：『世尊，為我略說法要。我於略說法中廣解其義。當獨一靜處，專精思惟，住不放逸⋯乃至⋯「自知不受後有。」』汝如是說耶？」比丘白佛：「如是，世尊。」佛告比丘：「諦聽！諦聽，善思念之。當為汝說。比丘，非汝所應之法，宜速斷除。斷彼法者，以義饒益，長夜安樂。」時，彼比丘白佛言：「知已，世尊！知已，善逝！」佛告比丘：「云何於我略說法中廣解其義？」比丘白佛言：「世尊，色非我所應，宜速斷除⋯受⋯想⋯行⋯識非我所應，宜速斷除。以義饒益，長夜安樂。是故，世尊，我於世尊略說法中廣解其義。」佛言：「善哉！善哉，比丘，汝於我略說法中廣解其義。所以者何？色者非汝所應，宜速斷除⋯如是，受⋯想⋯行⋯識非汝所應，宜速斷除。斷除已，以義饒益，長夜安樂。」時，彼比丘聞佛所說，心大歡喜。禮佛而退。獨一靜處，精勤修習，住不放逸。精勤修習，住不放逸已，思惟：「所以善男子出家，剃除鬚髮，身著法服，正信非家出家⋯乃至⋯自知不受後有。」時，彼比丘成阿羅漢，心得解脫。",
+    "english_sa_text": "Thus I have heard: One time, the Buddha was staying at Anāthapiṇḍada’s Park in Jeta’s Grove of Śrāvastī. There was then a certain monk who rose from his seat. He adjusted his robes to bare his right shoulder and saluted the Buddha with his palms together. He said, “It would be good, Bhagavān, if you were to give me a brief explanation of the Dharma. Having listened to the Dharma, I will go alone to a quiet place, focus on contemplation, and live earnestly. [I’ll then think:] ‘A good son leaves home, cuts off his hair and beard, puts on the Dharma robes, is a believer in the homeless, and leaves home to train on the path. That’s the way he reaches the ultimate and unsurpassed religious practice. He’ll personally realize in the present life: “My births have been ended, the religious practice has been established, and the task has been accomplished.” He himself will know he won’t be subject to a later existence.’” The Bhagavān told that monk, “Good! It’s good that you said, ‘Bhagavān, give me a brief explanation of the Dharma. From that brief explanation of the Dharma, I will get a full understanding of its meaning. I’ll go alone to a quiet place, focus on contemplation, and live earnestly … up to … “He himself knows that he won’t be subject to a later existence.”’ Is this what you said?” The monk said to the Buddha, “Yes, Bhagavān.” The Buddha addressed the monk, “Listen closely! Listen closely, and consider it well. I will explain this for you. Monk, you should quickly get rid of something that doesn’t belong to you. Someone who gets rid of that thing will be benefited by this doctrine, and they’ll find happiness for a long time.” That monk then said to the Buddha, “I’ve understood, Bhagavān! I’ve understood, Sugata!” The Buddha said to the monk, “How do you understand the meaning of my brief explanation of the Dharma in full?” The monk said to the Buddha, “Bhagavān, form doesn’t belong to me, so I should get rid of it quickly. [Having gotten rid of it, I will be benefited by this doctrine, and I’ll find happiness for a long time.] Feeling … conception … volition … awareness doesn’t belong to me, so I should get rid of it quickly. [Having gotten rid of it,] I will be benefited by this doctrine, and I’ll find happiness for a long time. Therefore, Bhagavān, I understand the meaning of the Bhagavān’s brief explanation of the Dharma in full.” The Buddha said, “Good! It’s good, monk, that you understand the meaning of my brief explanation of the Dharma in full. Why is that? Form doesn’t belong to you, so you should get rid of it quickly. [Having gotten rid of it, you will be benefited by this doctrine, and you’ll find happiness for a long time.] Thus, feeling … conception … volition … awareness doesn’t belong to you, so you should get rid of it quickly. [Having gotten rid of it,] you will be benefited by this doctrine, and you’ll find happiness for a long time.” When that monk heard what the Buddha taught, he felt great joy. He bowed to the Buddha and withdrew. He then went alone to a quiet place where he diligently trained and lived earnestly. After diligently training and living earnestly, he thought, “A good son leaves home, cuts off his hair and beard, puts on the Dharma robes, believes at home in being homeless, and leaves home … up to … He himself knows that he won’t be subject to a later existence.” That monk then became an arhat, and his mind was liberated.",
+    "parallels": [
+      {
+        "uid": "sn22.68",
+        "acronym": "SN 22.68",
+        "root_lang": "pli",
+        "original_title": "Anattasutta",
+        "translated_title": "Nonself",
+        "type": "full",
+        "resembling": false,
+        "remark": null
+      },
+      {
+        "uid": "up1.021",
+        "acronym": "Up 1.021",
+        "root_lang": "xct",
+        "original_title": "",
+        "translated_title": "Upāyikā 1.021",
+        "type": "full",
+        "resembling": false,
+        "remark": null
+      }
+    ],
+    "primary_sn_uid": "sn22.68",
+    "pali_text": "Sāvatthinidānaṁ. Atha kho aññataro bhikkhu …pe… ekamantaṁ nisinno kho so bhikkhu bhagavantaṁ etadavoca: “sādhu me, bhante, bhagavā saṅkhittena dhammaṁ desetu …pe… ātāpī pahitatto vihareyyan”ti. “Yo kho, bhikkhu, anattā; tatra te chando pahātabbo”ti. “Aññātaṁ, bhagavā, aññātaṁ, sugatā”ti. “Yathā kathaṁ pana tvaṁ, bhikkhu, mayā saṅkhittena bhāsitassa vitthārena atthaṁ ājānāsī”ti? “Rūpaṁ kho, bhante, anattā; tatra me chando pahātabbo. Vedanā … saññā … saṅkhārā … viññāṇaṁ anattā; tatra me chando pahātabbo. Imassa khvāhaṁ, bhante, bhagavatā saṅkhittena bhāsitassa evaṁ vitthārena atthaṁ ājānāmī”ti. “Sādhu sādhu, bhikkhu. Sādhu kho tvaṁ, bhikkhu, mayā saṅkhittena bhāsitassa vitthārena atthaṁ ājānāsi. Rūpaṁ kho, bhikkhu, anattā; tatra te chando pahātabbo. Vedanā … saññā … saṅkhārā … viññāṇaṁ anattā; tatra te chando pahātabbo. Imassa kho, bhikkhu, mayā saṅkhittena bhāsitassa evaṁ vitthārena attho daṭṭhabbo”ti …pe… aññataro ca pana so bhikkhu arahataṁ ahosīti. Chaṭṭhaṁ.",
+    "english_sn_text": "At Sāvatthī. Then a mendicant went up to the Buddha … and asked him, “Sir, may the Buddha please teach me Dhamma in brief. When I’ve heard it, I’ll live alone, withdrawn, diligent, keen, and resolute.” “Mendicant, give up desire for what is not-self.” “Understood, Blessed One! Understood, Holy One!” “But how do you see the detailed meaning of my brief statement?” “Sir, form is not-self; I should give up desire for it. Feeling … Perception … Choices … Consciousness is not-self; I should give up desire for it. That’s how I understand the detailed meaning of the Buddha’s brief statement.” “Good, good, mendicant! It’s good that you understand the detailed meaning of what I’ve said in brief like this. Form is not-self; you should give up desire for it. Feeling … Perception … Choices … Consciousness is not-self; you should give up desire for it. This is how to see the detailed meaning of what I said in brief.” … And that mendicant became one of the perfected.",
+    "errors": [],
+    "kumarajiva_style_text": "",
+    "modern_psychology_text": "",
+    "notes": "",
+    "review_status": "raw"
+  },
+  {
+    "id": "SA_18",
+    "uid": "sa18",
+    "title": "雜阿含經  （一）陰相應  （一八） 非彼",
+    "chinese_text": "如是我聞：一時，佛住舍衛國、祇樹、給孤獨園。爾時，有異比丘從座起。偏袒右肩，為佛作禮，却住一面。而白佛言：「善哉，世尊，為我略說法要。我聞法已，當獨一靜處，專精思惟，不放逸住⋯乃至⋯『自知不受後有。』」佛告比丘：「善哉，善哉！汝作如是說：『世尊，為我略說法要。我聞法已，當獨一靜處，專精思惟，不放逸住⋯乃至⋯「自知不受後有」』⋯耶？」時，彼比丘白佛言：「如是，世尊。」佛告比丘：「諦聽！諦聽，善思念之。當為汝說。若非汝所應，亦非餘人所應，此法宜速除斷。斷彼法已，以義饒益，長夜安樂。」時，彼比丘白佛言：「知已，世尊！知已，善逝！」佛告比丘：「云何於我略說法中廣解其義？」比丘白佛言：「世尊，色非我、非我所應、亦非餘人所應，是法宜速除斷。斷彼法已，以義饒益，長夜安樂。如是，受⋯想⋯行⋯識非我、非我所應、亦非餘人所應，宜速除斷。斷彼法已，以義饒益，長夜安樂。是故，我於如來略說法中，廣解其義。」佛告比丘：「善哉，善哉！汝於我略說法中廣解其義。所以者何？比丘，色非我、非我所應、亦非餘人所應，是法宜速除斷。斷彼法已，以義饒益，長夜安樂。如是，受⋯想⋯行⋯識非我、非我所應、亦非餘人所應，是法宜速除斷。斷彼法已，以義饒益，長夜安樂。」時，彼比丘聞佛所說，心大歡喜。禮佛而退。獨一靜處，精勤修習，不放逸住⋯乃至⋯自知不受後有。時，彼比丘心得解脫，成阿羅漢。",
+    "english_sa_text": "Thus I have heard: One time, the Buddha was staying at Anāthapiṇḍada’s Park in Jeta’s Grove of Śrāvastī. There was then a certain monk who rose from his seat. He adjusted his robes to bare his right shoulder, bowed to the Buddha, and withdrew to stand at one side. He then said to the Buddha, “It would be good, Bhagavān, if you were to give me a brief explanation of the Dharma. Having listened to the Dharma, I will go alone to a quiet place, focus on contemplation, and live earnestly … up to … ‘He himself knows that he won’t be subject to a later existence.’” The Bhagavān then told that monk, “Good! It’s good that you said, ‘Bhagavān, give me a brief explanation of the Dharma. Having listened to the Dharma, I’ll go alone to a quiet place, focus on contemplation, and live earnestly … up to … “He himself knows that he won’t be subject to a later existence.”’ [Is this what you said?]” The monk said to the Buddha, “Yes, Bhagavān.” The Buddha addressed the monk, “Listen closely! Listen closely, and consider it well. I will explain this for you. If something doesn’t belong to you and it doesn’t belong to someone else, then this is something to get rid of quickly. Once you’ve gotten rid of that thing, you will be benefited by this doctrine, and you’ll find happiness for a long time.” That monk then said to the Buddha, “I’ve understood, Bhagavān! I’ve understood, Sugata!” The Buddha said to the monk, “How do you understand the meaning of my brief explanation of the Dharma in full?” The monk said to the Buddha, “Bhagavān, form is not self, doesn’t belong to me, and doesn’t belong to someone else, so I should get rid of this thing quickly. Having gotten rid of it, I will benefit by this doctrine, and I’ll find happiness for a long time. Thus, feeling … conception … volition … awareness is not self, doesn’t belong to me, and doesn’t belong to someone else, so I should get rid of this thing quickly. Having gotten rid of it, I will benefit by this doctrine, and I’ll find happiness for a long time. Therefore, I understand the meaning of the Bhagavān’s brief explanation of the Dharma in full.” The Buddha said, “Good! It’s good, monk, that you understand the meaning of my brief explanation of the Dharma in full. Why is that? Monk, form is not self, doesn’t belong to us, and doesn’t belong to someone else, so one should get rid of this thing quickly. Having gotten rid of it, one will benefit by this doctrine, and they’ll find happiness for a long time. Thus, feeling … conception … volition … awareness is not self, doesn’t belong to us, and doesn’t belong to someone else, so one should get rid of this thing quickly. Having gotten rid of it, one will benefit by this doctrine, and they’ll find happiness for a long time.” When that monk heard what the Buddha taught, he felt great joy. He then bowed to the Buddha and withdrew. He went alone to a quiet place where he diligently trained and lived earnestly … up to … He himself knew that he wouldn’t be subject to a later existence. That monk’s mind was liberated, and he became an arhat.",
+    "parallels": [
+      {
+        "uid": "sn22.69",
+        "acronym": "SN 22.69",
+        "root_lang": "pli",
+        "original_title": "Anattaniyasutta",
+        "translated_title": "What Does Not Belong to Self",
+        "type": "full",
+        "resembling": false,
+        "remark": null
+      }
+    ],
+    "primary_sn_uid": "sn22.69",
+    "pali_text": "Sāvatthinidānaṁ. Atha kho aññataro bhikkhu …pe… ekamantaṁ nisinno kho so bhikkhu bhagavantaṁ etadavoca: “sādhu me, bhante, bhagavā saṅkhittena dhammaṁ desetu …pe… vihareyyan”ti. “Yaṁ kho, bhikkhu, anattaniyaṁ; tatra te chando pahātabbo”ti. “Aññātaṁ, bhagavā, aññātaṁ, sugatā”ti. “Yathā kathaṁ pana tvaṁ, bhikkhu, mayā saṅkhittena bhāsitassa vitthārena atthaṁ ājānāsī”ti? “Rūpaṁ kho, bhante, anattaniyaṁ; tatra me chando pahātabbo. Vedanā … saññā … saṅkhārā … viññāṇaṁ anattaniyaṁ; tatra me chando pahātabbo. Imassa khvāhaṁ, bhante, bhagavatā saṅkhittena bhāsitassa evaṁ vitthārena atthaṁ ājānāmī”ti. “Sādhu sādhu, bhikkhu. Sādhu kho tvaṁ, bhikkhu, mayā saṅkhittena bhāsitassa vitthārena atthaṁ ājānāsi. Rūpaṁ kho, bhikkhu, anattaniyaṁ; tatra te chando pahātabbo. Vedanā … saññā … saṅkhārā … viññāṇaṁ anattaniyaṁ; tatra te chando pahātabbo. Imassa kho, bhikkhu, mayā saṅkhittena bhāsitassa evaṁ vitthārena attho daṭṭhabbo”ti …pe… aññataro ca pana so bhikkhu arahataṁ ahosīti. Sattamaṁ.",
+    "english_sn_text": "At Sāvatthī. Then a mendicant went up to the Buddha … and asked him, “Sir, may the Buddha please teach me Dhamma in brief. When I’ve heard it, I’ll live alone, withdrawn, diligent, keen, and resolute.” “Mendicant, give up desire for whatever doesn’t belong to self.” “Understood, Blessed One! Understood, Holy One!” “But how do you see the detailed meaning of my brief statement?” “Sir, form doesn’t belong to self; I should give up desire for it. Feeling … Perception … Choices … Consciousness doesn’t belong to self; I should give up desire for it. That’s how I understand the detailed meaning of the Buddha’s brief statement.” “Good, good, mendicant! It’s good that you understand the detailed meaning of what I’ve said in brief like this. Form doesn’t belong to self; you should give up desire for it. Feeling … Perception … Choices … Consciousness doesn’t belong to self; you should give up desire for it. This is how to see the detailed meaning of what I said in brief.” … And that mendicant became one of the perfected.",
+    "errors": [],
+    "kumarajiva_style_text": "",
+    "modern_psychology_text": "",
+    "notes": "",
+    "review_status": "raw"
+  },
+  {
+    "id": "SA_19",
+    "uid": "sa19",
+    "title": "雜阿含經  （一）陰相應  （一九） 結繫",
+    "chinese_text": "如是我聞：一時，佛住舍衛國、祇樹、給孤獨園。爾時，有異比丘從座起⋯為佛作禮⋯。而白佛言：「⋯世尊，為我略說法要。我聞法已，當獨一靜處，專精思惟，不放逸住。不放逸住已，思惟：『所以善男子⋯正信家非家出家⋯乃至⋯自知不受後有。』」爾時，世尊告彼比丘：「善哉，善哉！汝今作是說：『善哉，世尊，為我略說法要。我聞法已，當獨一靜處，專精思惟，不放逸住⋯乃至⋯「自知不受後有」』⋯耶？」比丘白佛言：「如是，世尊。」佛告比丘：「諦聽！諦聽，善思念之。當為汝說。比丘，結所繫法宜速除斷。斷彼法已，以義饒益，長夜安樂。」時，彼比丘白佛言：「知已，世尊！知已，善逝！」佛告比丘：「汝云何於我略說法中廣解其義？」比丘白佛言：「世尊，色是結所繫法。是結所繫法宜速除斷。斷彼法已，以義饒益，長夜安樂。如是，受⋯想⋯行⋯識結所繫法。是結所繫法宜速除斷。斷彼法已，以義饒益，長夜安樂。是故，我於世尊略說法中，廣解其義。」佛告比丘：「善哉！善哉，汝於我略說法中廣解其義。所以者何？色是結所繫法。此法宜速除斷。斷彼法已，以義饒益，長夜安樂。如是，受⋯想⋯行⋯識是結所繫法。此法宜速除斷。斷彼法已，以義饒益，長夜安樂。」時，彼比丘聞佛所說，心大歡喜。禮佛而退。獨一靜處，專精思惟，不放逸住⋯乃至⋯心得解脫，成阿羅漢。",
+    "english_sa_text": "Thus I have heard: One time, the Buddha was staying at Anāthapiṇḍada’s Park in Jeta’s Grove of Śrāvastī. There was then a certain monk who rose from his seat. [He adjusted his robes to bare his right shoulder,] bowed to the Buddha, [and withdrew to stand at one side]. He then said to the Buddha, “[It would be good,] Bhagavān, if you were to give me a brief explanation of the Dharma. Having listened to the Dharma, I will go alone to a quiet place, focus on contemplation, and live earnestly. Having lived earnestly, I’ll then think, ‘A good son [leaves home, cuts off his hair and beard, puts on the Dharma robes,] is a believer in the homeless, and leaves home … up to … He himself knows that he won’t be subject to a later existence.’” The Bhagavān then told that monk, “Good! It’s good that you said, ‘It would be good, Bhagavān, if you were to give me a brief explanation of the Dharma. Having listened to the Dharma, I’ll go alone to a quiet place, focus on contemplation, and live earnestly … up to … “He himself knows that he won’t be subject to a later existence.”’ [Is this what you said?]” The monk said to the Buddha, “Yes, Bhagavān.” The Buddha addressed the monk, “Listen closely! Listen closely, and consider it well. I will explain this for you. Monk, one should quickly get rid of something that’s a tying bond. Once one gets rid of that, they will be benefited by this doctrine, and they’ll find happiness for a long time.” That monk then said to the Buddha, “I’ve understood, Bhagavān! I’ve understood, Sugata!” The Buddha said to the monk, “How do you understand the meaning of my brief explanation of the Dharma in full?” The monk said to the Buddha, “Bhagavān, form is something that’s a tying bond. I should quickly get rid of something that’s a tying bond. Having gotten rid of it, I will benefit by this doctrine, and I’ll find happiness for a long time. Thus, feeling … conception … volition … awareness is something that’s a tying bond. I should quickly get rid of something that’s a tying bond. Having gotten rid of it, I will benefit by this doctrine, and I’ll find happiness for a long time. Therefore, I understand the meaning of the Bhagavān’s brief explanation of the Dharma in full.” The Buddha said, “Good! It’s good, monk, that you understand the meaning of my brief explanation of the Dharma in full. Why is that? Form is something that’s a tying bond. One should quickly get rid of something that’s a tying bond. Having gotten rid of it, they will benefit by this doctrine, and they’ll find happiness for a long time. Feeling … conception … volition … awareness is something that’s a tying bond. One should quickly get rid of something that’s a tying bond. Having gotten rid of it, they will benefit from this doctrine, and they’ll find happiness for a long time.” When that monk heard what the Buddha taught, he felt great joy. He then bowed to the Buddha and withdrew. He went alone to a quiet place where he diligently trained and lived earnestly … up to … [That monk’s] mind was liberated, and he became an arhat.",
+    "parallels": [
+      {
+        "uid": "sn22.70",
+        "acronym": "SN 22.70",
+        "root_lang": "pli",
+        "original_title": "Rajanīyasaṇṭhitasutta",
+        "translated_title": "Whatever Appears Tantalizing",
+        "type": "full",
+        "resembling": false,
+        "remark": null
+      }
+    ],
+    "primary_sn_uid": "sn22.70",
+    "pali_text": "Sāvatthinidānaṁ. Atha kho aññataro bhikkhu …pe… ekamantaṁ nisinno kho so bhikkhu bhagavantaṁ etadavoca: “sādhu me, bhante, bhagavā saṅkhittena dhammaṁ desetu, yamahaṁ bhagavato dhammaṁ sutvā …pe… vihareyyan”ti. “Yaṁ kho, bhikkhu, rajanīyasaṇṭhitaṁ; tatra te chando pahātabbo”ti. “Aññātaṁ, bhagavā, aññātaṁ, sugatā”ti. “Yathā kathaṁ pana tvaṁ, bhikkhu, mayā saṅkhittena bhāsitassa vitthārena atthaṁ ājānāsī”ti? “Rūpaṁ kho, bhante, rajanīyasaṇṭhitaṁ; tatra me chando pahātabbo. Vedanā … saññā … saṅkhārā … viññāṇaṁ rajanīyasaṇṭhitaṁ; tatra me chando pahātabbo. Imassa khvāhaṁ, bhante, bhagavatā saṅkhittena bhāsitassa evaṁ vitthārena atthaṁ ājānāmī”ti. “Sādhu sādhu, bhikkhu. Sādhu kho tvaṁ, bhikkhu, mayā saṅkhittena bhāsitassa vitthārena atthaṁ ājānāsi. Rūpaṁ kho, bhikkhu, rajanīyasaṇṭhitaṁ; tatra te chando pahātabbo. Vedanā … saññā … saṅkhārā … viññāṇaṁ rajanīyasaṇṭhitaṁ; tatra te chando pahātabbo. Imassa kho, bhikkhu, mayā saṅkhittena bhāsitassa evaṁ vitthārena attho daṭṭhabbo”ti …pe… aññataro ca pana so bhikkhu arahataṁ ahosīti. Aṭṭhamaṁ.",
+    "english_sn_text": "At Sāvatthī. Then a mendicant went up to the Buddha … and asked him, “Sir, may the Buddha please teach me Dhamma in brief. When I’ve heard it, I’ll live alone, withdrawn, diligent, keen, and resolute.” “Mendicant, give up desire for whatever is shaped by arousal.” “Understood, Blessed One! Understood, Holy One!” “But how do you see the detailed meaning of my brief statement?” “Sir, form is shaped by arousal; I should give up desire for it. Feeling … Perception … Choices … Consciousness is shaped by arousal; I should give up desire for it. That’s how I understand the detailed meaning of the Buddha’s brief statement.” “Good, good, mendicant! It’s good that you understand the detailed meaning of what I’ve said in brief like this. Form is shaped by arousal; you should give up desire for it. Feeling … Perception … Choices … Consciousness is shaped by arousal; you should give up desire for it. This is how to see the detailed meaning of what I said in brief.” … And that mendicant became one of the perfected.",
+    "errors": [],
+    "kumarajiva_style_text": "",
+    "modern_psychology_text": "",
+    "notes": "",
+    "review_status": "raw"
+  },
+  {
+    "id": "SA_20",
+    "uid": "sa20",
+    "title": "雜阿含經  （一）陰相應  （二〇） 染",
+    "chinese_text": "染經亦如是說。",
+    "english_sa_text": "A sūtra about being affected was taught in the same way [as the previous sūtra].",
+    "parallels": [],
+    "primary_sn_uid": null,
+    "pali_text": "",
+    "english_sn_text": "",
+    "errors": [],
+    "kumarajiva_style_text": "",
+    "modern_psychology_text": "",
+    "notes": "",
+    "review_status": "raw"
+  },
+  {
+    "id": "SA_21",
+    "uid": "sa21",
+    "title": "雜阿含經  （一）陰相應  （二一） 動搖",
+    "chinese_text": "如是我聞：一時，佛住舍衛國、祇樹、給孤獨園。爾時，有異比丘從座起⋯為佛作禮⋯。而白佛言：「世尊，為我略說法要。我聞法已，當獨一靜處，專精思惟，不放逸住。不放逸住已，思惟：『所以善男子⋯正信非家、出家⋯乃至⋯自知不受後有。』」爾時，世尊告彼比丘：「善哉，善哉！汝今作是說：『善哉，世尊，為我略說法要。我聞法已，當獨一靜處，專精思惟，不放逸住⋯乃至⋯「自知不受後有」』⋯耶？」比丘白佛言：「如是，世尊。」佛告比丘：「諦聽！諦聽，善思念之。當為汝說。比丘，動搖時則為魔所縛。若不動者則解脫波旬。」比丘白佛言：「知已，世尊！知已，善逝！」佛告比丘：「汝云何於我略說法中廣解其義？」比丘白佛言：「世尊，色動搖時則為魔所縛。若不動者則解脫波旬。如是，受⋯想⋯行⋯識動搖時則為魔所縛。若不動者則解脫波旬。是故，我於世尊略說法中廣解其義。」佛告比丘：「善哉！善哉，汝於我略說法中廣解其義。所以者何？若色動搖時則為魔所縛。若不動者則解脫波旬。如是，受⋯想⋯行⋯識動搖時則為魔所縛。若不動者則解脫波旬。」⋯乃至⋯自知不受後有⋯心得解脫，成阿羅漢。",
+    "english_sa_text": "Thus I have heard: One time, the Buddha was staying at Anāthapiṇḍada’s Park in Jeta’s Grove of Śrāvastī. There was then a certain monk who rose from his seat, [adjusted his robes to bare his right shoulder,] bowed to the Buddha, [and withdrew to stand at one side]. He then said to the Buddha, “[It would be good,] Bhagavān, if you were to give me a brief explanation of the Dharma. Having listened to the Dharma, I will go alone to a quiet place, focus on contemplation, and live earnestly. Having lived earnestly, I’ll then think, ‘A good son [leaves home, cuts off his hair and beard, puts on the Dharma robes,] believes at home in being homeless, and leaves home … up to … He himself knows that he won’t be subject to a later existence.’” The Bhagavān then told that monk, “Good! It’s good that you said, ‘It would be good, Bhagavān, if you were to give me a brief explanation of the Dharma. Having listened to the Dharma, I’ll go alone to a quiet place, focus on contemplation, and live earnestly … up to … “He himself knows that he won’t be subject to a later existence.”’ [Is this what you said?]” The monk said to the Buddha, “Yes, Bhagavān.” The Buddha addressed the monk, “Listen closely! Listen closely, and consider it well. I will explain this for you. Monk, when one is shaken, they are tied up by Māra. If one isn’t shaken, then they are free of Māra.” That monk then said to the Buddha, “I’ve understood, Bhagavān! I’ve understood, Sugata!” The Buddha said to the monk, “How do you understand my brief explanation of the Dharma in full?” The monk said to the Buddha, “Bhagavān, when form shakes [a person], then they are tied up by Māra. If someone isn’t shaken by it, then they are free of Māra. Thus, when feeling … conception … volition … awareness shakes them, then they are tied up by Māra. If someone isn’t shaken by it, then they are free of Māra. Therefore, I understand the meaning of the Bhagavān’s brief explanation of the Dharma in full.” The Buddha said, “Good! It’s good that you understand the meaning of my brief explanation of the Dharma in full. Why is that? When form shakes a person, then they are tied up by Māra. If someone isn’t shaken by it, then they are free of Māra. Thus, when feeling … conception … volition … awareness shakes them, then they are tied up by Māra. If someone isn’t shaken by it, then they are free of Māra.” … up to … He himself knew that he wouldn’t be subject to a later existence. … mind was liberated, and he became an arhat.”",
+    "parallels": [
+      {
+        "uid": "sn22.64",
+        "acronym": "SN 22.64",
+        "root_lang": "pli",
+        "original_title": "Maññamānasutta",
+        "translated_title": "In Conceiving",
+        "type": "full",
+        "resembling": false,
+        "remark": null
+      }
+    ],
+    "primary_sn_uid": "sn22.64",
+    "pali_text": "Sāvatthinidānaṁ. Atha kho aññataro bhikkhu …pe… ekamantaṁ nisinno kho so bhikkhu bhagavantaṁ etadavoca: “sādhu me, bhante, bhagavā saṅkhittena dhammaṁ desetu …pe… ātāpī pahitatto vihareyyan”ti. “Maññamāno kho, bhikkhu, baddho mārassa; amaññamāno mutto pāpimato”ti. “Aññātaṁ, bhagavā, aññātaṁ, sugatā”ti. “Yathā kathaṁ pana tvaṁ, bhikkhu, mayā saṅkhittena bhāsitassa vitthārena atthaṁ ājānāsī”ti? “Rūpaṁ kho, bhante, maññamāno baddho mārassa; amaññamāno mutto pāpimato. Vedanaṁ … saññaṁ … saṅkhāre … viññāṇaṁ maññamāno baddho mārassa; amaññamāno mutto pāpimato. Imassa khvāhaṁ, bhante, bhagavatā saṅkhittena bhāsitassa evaṁ vitthārena atthaṁ ājānāmī”ti. “Sādhu sādhu, bhikkhu. Sādhu kho tvaṁ, bhikkhu, mayā saṅkhittena bhāsitassa vitthārena atthaṁ ājānāsi. Rūpaṁ kho, bhikkhu, maññamāno baddho mārassa; amaññamāno mutto pāpimato. Vedanaṁ … saññaṁ … saṅkhāre … viññāṇaṁ maññamāno baddho mārassa; amaññamāno mutto pāpimato. Imassa kho, bhikkhu, mayā saṅkhittena bhāsitassa evaṁ vitthārena attho daṭṭhabbo”ti …pe… aññataro ca pana so bhikkhu arahataṁ ahosīti. Dutiyaṁ.",
+    "english_sn_text": "At Sāvatthī. Then a mendicant went up to the Buddha … and asked him, “Sir, may the Buddha please teach me Dhamma in brief. When I’ve heard it, I’ll live alone, withdrawn, diligent, keen, and resolute.” “When you conceive, mendicant, you’re bound by Māra. Not conceiving, you’re free from the Wicked One.” “Understood, Blessed One! Understood, Holy One!” “But how do you see the detailed meaning of my brief statement?” “Sir, when you conceive form you’re bound by Māra. Not conceiving, you’re free from the Wicked One. When you conceive feeling … perception … choices … consciousness, you’re bound by Māra. Not conceiving, you’re free from the Wicked One. That’s how I understand the detailed meaning of the Buddha’s brief statement.” “Good, good, mendicant! It’s good that you understand the detailed meaning of what I’ve said in brief like this. When you conceive form you’re bound by Māra. Not conceiving, you’re free from the Wicked One. When you conceive feeling … perception … choices … consciousness, you’re bound by Māra. Not conceiving, you’re free from the Wicked One. This is how to see the detailed meaning of what I said in brief.” … And that mendicant became one of the perfected.",
+    "errors": [],
+    "kumarajiva_style_text": "",
+    "modern_psychology_text": "",
+    "notes": "",
+    "review_status": "raw"
+  },
+  {
+    "id": "SA_22",
+    "uid": "sa22",
+    "title": "雜阿含經  （一）陰相應  （二二） 劫波所問",
+    "chinese_text": "如是我聞：一時，佛住舍衛國、祇樹、給孤獨園。爾時，有比丘名劫波來詣佛所。頭面禮足，却住一面，白佛言：「如世尊說：『比丘心得善解脫。』世尊，云何比丘心得善解脫？」爾時，世尊告劫波曰：「善哉！善哉能問如來心善解脫。善哉，劫波！諦聽！諦聽，善思念之。當為汝說。「劫波，當觀知諸所有色，若過去、若未來、若現在，若內、若外，若麁、若細，若好、若醜，若遠、若近，彼一切悉皆無常。正觀無常已，色愛即除。色愛除已，心善解脫。「如是觀受⋯想⋯行⋯識，若過去、若未來、若現在，若內、若外、若麁、若細，若好、若醜，若遠、若近，彼一切悉皆無常。正觀無常已，識愛即除。識愛除已，我說心善解脫。「劫波，如是，比丘心善解脫者，如來說名心善解脫。所以者何？愛欲斷故。愛欲斷者，如來說名心善解脫。」時，劫波比丘聞佛所說，心大歡喜。禮佛而退。爾時，劫波比丘受佛教已，獨一靜處，專精思惟，不放逸住。⋯乃至⋯自知不受後有⋯心善解脫，成阿羅漢。",
+    "english_sa_text": "Thus I have heard: One time, the Buddha was staying at Anāthapiṇḍada’s Park in Jeta’s Grove of Śrāvastī. It was then that the monk Kappa came to visit the Buddha. He bowed his head at the Buddha’s feet, withdrew to stand at one side, and then said to the Buddha, “The Bhagavān says ‘a monk’s mind becomes well liberated.’ Bhagavān, how does a monk’s mind become well liberated?” The Bhagavān told Kappa, “Good! It’s good that you can ask the Tathāgata about one’s mind being well liberated. Good, Kappa! Listen closely! Listen closely, and consider it well. I will explain this for you. “Kappa, you should observe and know that whatever forms there are, whether they are past, future, or present, internal or external, crude or fine, beautiful or ugly, or distant or near, they are all impermanent. Having correctly observed that they are impermanent, craving for forms is eliminated. Once craving for forms is eliminated, one’s mind is well liberated. “In this way, observe whatever feelings … conceptions … volitions … instances of awareness there are, whether they are past, future, or present, internal or external, crude or fine, beautiful or ugly, or distant or near, they are all impermanent. Once one correctly observes that they are impermanent, craving for instances of awareness is eliminated. Once craving for instances of awareness is eliminated, I say one’s mind is well liberated. “Kappa, when a monk’s mind is well liberated in this way, the Tathāgata says that this is called one’s mind being well liberated. Why is that? Because his craving for desires is stopped. When craving for desires is stopped, the Tathāgata teaches that this is called one’s mind being well liberated.” When the monk Kappa heard what the Buddha taught, he felt great joy. He then bowed to the Buddha and withdrew. Once he had received the Buddha’s teaching, that monk Kappa went alone to a quiet place, focused on contemplation, and lived earnestly. … up to … He himself knew that he wouldn’t be subject to a later existence … mind was well liberated, and he became an arhat.",
+    "parallels": [
+      {
+        "uid": "sn22.125",
+        "acronym": "SN 22.125",
+        "root_lang": "pli",
+        "original_title": "Dutiyakappasutta",
+        "translated_title": null,
+        "type": "full",
+        "resembling": false,
+        "remark": null
+      },
+      {
+        "uid": "sn22.124",
+        "acronym": "SN 22.124",
+        "root_lang": "pli",
+        "original_title": "Kappasutta",
+        "translated_title": null,
+        "type": "full",
+        "resembling": false,
+        "remark": null
+      }
+    ],
+    "primary_sn_uid": "sn22.124",
+    "pali_text": "Sāvatthinidānaṁ. Atha kho āyasmā kappo yena bhagavā tenupasaṅkami …pe… ekamantaṁ nisinno kho āyasmā kappo bhagavantaṁ etadavoca: “kathaṁ nu kho, bhante, jānato kathaṁ passato imasmiñca saviññāṇake kāye bahiddhā ca sabbanimittesu ahaṅkāramamaṅkāramānānusayā na hontī”ti? “Yaṁ kiñci, kappa, rūpaṁ atītānāgatapaccuppannaṁ ajjhattaṁ vā bahiddhā vā oḷārikaṁ vā sukhumaṁ vā hīnaṁ vā paṇītaṁ vā yaṁ dūre santike vā, sabbaṁ rūpaṁ ‘netaṁ mama, nesohamasmi, na meso attā’ti evametaṁ yathābhūtaṁ sammappaññāya passati. Yā kāci vedanā …pe… yā kāci saññā … ye keci saṅkhārā … yaṁ kiñci viññāṇaṁ atītānāgatapaccuppannaṁ ajjhattaṁ vā bahiddhā vā oḷārikaṁ vā sukhumaṁ vā hīnaṁ vā paṇītaṁ vā yaṁ dūre santike vā, sabbaṁ viññāṇaṁ ‘netaṁ mama, nesohamasmi, na meso attā’ti evametaṁ yathābhūtaṁ sammappaññāya passati. Evaṁ kho, kappa, jānato evaṁ passato imasmiñca saviññāṇake kāye bahiddhā ca sabbanimittesu ahaṅkāramamaṅkāramānānusayā na hontī”ti. Dvādasamaṁ.",
+    "english_sn_text": "At Sāvatthī. Then Venerable Kappa went up to the Buddha, bowed, sat down to one side, and said to him: “Sir, how does one know and see so that there’s no I-making, mine-making, or underlying tendency to conceit for this conscious body and externally for all signs?” “Kappa, one truly sees any kind of form at all—past, future, or present; internal or external; solid or subtle; inferior or superior; far or near: all form—with right understanding: ‘This is not mine, I am not this, this is not my self.’ One truly sees any kind of feeling … perception … choices … consciousness at all—past, future, or present; internal or external; solid or subtle; inferior or superior; far or near: all consciousness—with right understanding: ‘This is not mine, I am not this, this is not my self.’ That’s how to know and see so that there’s no I-making, mine-making, or underlying tendency to conceit for this conscious body and externally for all signs.”",
+    "errors": [],
+    "kumarajiva_style_text": "",
+    "modern_psychology_text": "",
+    "notes": "",
+    "review_status": "raw"
+  },
+  {
+    "id": "SA_23",
+    "uid": "sa23",
+    "title": "雜阿含經  （一）陰相應  （二三） 羅睺羅所問",
+    "chinese_text": "如是我聞：一時，佛住王舍城、迦蘭陀竹園。爾時，尊者羅睺羅往詣佛所。頭面禮足，却住一面，白佛言：「世尊，云何知、云何見我此識身及外境界一切相能令無有我、我所見、我慢使繫著？」佛告羅睺羅：「善哉！善哉，能問如來：『云何知、云何見我此識身及外境界一切相令無有我、我所見、我慢使繫著耶？』」羅睺羅白佛言：「如是，世尊。」佛告羅睺羅：「善哉！諦聽！諦聽，善思念之。當為汝說。「羅睺羅，當觀若所有諸色，若過去、若未來、若現在，若內、若外，若麁、若細，若好、若醜，若遠、若近，彼一切悉皆非我、不異我、不相在。如是平等慧正觀。「如是，受⋯想⋯行⋯識，若過去、若未來、若現在，若內、若外，若麁、若細，若好、若醜，若遠、若近，彼一切非我、不異我、不相在。如是平等慧如實觀。「如是，羅睺羅，比丘如是知、如是見。如是知、如是見者，於此識身及外境界一切相，無有我、我所見、我慢使繫著。「羅睺羅，比丘若如是於此識身及外境界一切相，無有我、我所見、我慢使繫著者，比丘是名斷愛欲，轉去諸結。正無間等，究竟苦邊。」時，羅睺羅聞佛所說歡喜，奉行。",
+    "english_sa_text": "Thus I have heard: One time, the Buddha was staying at the Squirrels’ Bamboo Grove of Rājagṛha. It was then that Venerable Rāhula visited the Buddha. He bowed his head at the Buddha’s feet, withdrew to sit to one side, and then said to the Buddha, “Bhagavān, what way of knowing and seeing this body of awareness of mine and all the signs of the external world can cause me to have no binding attachments to views about self and what belongs to self or the tendency of self-conceit?” The Bhagavān then said to Rāhula, “Good! It’s good that you can ask the Tathāgata, ‘What way of knowing and seeing this body of awareness of mine and all the signs of the external world can cause me to have no binding attachments to views about self and what belongs to self or the tendency of self-conceit?’ [Is that what you asked?]” Rāhula said to the Buddha, “Yes, Bhagavān.” The Buddha told Rāhula, “Good! Listen closely! listen closely, and consider it well. I will explain this for you. “Rāhula, you should observe that whatever forms there are, whether they are past, future, or present, internal or external, crude or fine, beautiful or ugly, or distant or near, they are all not self, not different from self, and neither is present in the other. They are correctly observed with equitable wisdom in this way. “Thus, whatever feelings … conceptions … volitions … instances of awareness there are, whether they are past, future, or present, internal or external, crude or fine, beautiful or ugly, or distant or near, they are all not self, not different than self, and neither are present in the other. They are correctly observed with equitable wisdom in this way. “Thus, Rāhula, a monk who knows and sees this body of awareness and all the signs of the external world in this way will have no binding attachments to views of self and what belongs to self or to the tendency of self-conceit. “Rāhula, if a monk has no binding attachments to views of self and what belongs to self or to the tendency of self-conceit regarding this body of awareness and all the signs of the external world, that monk is called one who has stopped craving desires and turned away from the bonds. Right at that moment, he reaches the final end of suffering.” When Rāhula heard what the Buddha taught, he rejoiced and approved.",
+    "parallels": [
+      {
+        "uid": "sa198",
+        "acronym": "SA 198",
+        "root_lang": "lzh",
+        "original_title": "羅睺羅",
+        "translated_title": "[First Discourse to Rāhula]",
+        "type": "full",
+        "resembling": false,
+        "remark": null
+      },
+      {
+        "uid": "sn18.21",
+        "acronym": "SN 18.21",
+        "root_lang": "pli",
+        "original_title": "Anusayasutta",
+        "translated_title": null,
+        "type": "full",
+        "resembling": false,
+        "remark": null
+      },
+      {
+        "uid": "sn22.91",
+        "acronym": "SN 22.91",
+        "root_lang": "pli",
+        "original_title": "Rāhulasutta",
+        "translated_title": "Rahula (1)",
+        "type": "full",
+        "resembling": false,
+        "remark": null
+      }
+    ],
+    "primary_sn_uid": "sn18.21",
+    "pali_text": "Sāvatthiyaṁ viharati. Atha kho āyasmā rāhulo yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṁ abhivādetvā ekamantaṁ nisīdi. Ekamantaṁ nisinno kho āyasmā rāhulo bhagavantaṁ etadavoca: “kathaṁ nu kho, bhante, jānato kathaṁ passato imasmiñca saviññāṇake kāye bahiddhā ca sabbanimittesu ahaṅkāramamaṅkāramānānusayā na hontī”ti? “Yaṁ kiñci, rāhula, rūpaṁ atītānāgatapaccuppannaṁ ajjhattaṁ vā bahiddhā vā oḷārikaṁ vā sukhumaṁ vā hīnaṁ vā paṇītaṁ vā yaṁ dūre santike vā, sabbaṁ rūpaṁ ‘netaṁ mama, nesohamasmi, na meso attā’ti evametaṁ yathābhūtaṁ sammappaññāya passati. Yā kāci vedanā …pe… yā kāci saññā … ye keci saṅkhārā … yaṁ kiñci viññāṇaṁ atītānāgatapaccuppannaṁ ajjhattaṁ vā bahiddhā vā oḷārikaṁ vā sukhumaṁ vā hīnaṁ vā paṇītaṁ vā yaṁ dūre santike vā, sabbaṁ viññāṇaṁ ‘netaṁ mama, nesohamasmi, na meso attā’ti evametaṁ yathābhūtaṁ sammappaññāya passati. Evaṁ kho, rāhula, jānato evaṁ passato imasmiñca saviññāṇake kāye bahiddhā ca sabbanimittesu ahaṅkāramamaṅkāramānānusayā na hontī”ti. Ekādasamaṁ.",
+    "english_sn_text": "At Sāvatthī. Then Venerable Rāhula went up to the Buddha, bowed, sat down to one side, and said to him: “Sir, how does one know and see so that there’s no I-making, mine-making, or underlying tendency to conceit for this conscious body and externally for all signs?” “Rāhula, one truly sees any kind of form at all—past, future, or present; internal or external; solid or subtle; inferior or superior; far or near: all form—with right understanding: ‘This is not mine, I am not this, this is not my self.’ One truly sees any kind of feeling … perception … choices … consciousness at all—past, future, or present; internal or external; solid or subtle; inferior or superior; far or near: all consciousness—with right understanding: ‘This is not mine, I am not this, this is not my self.’ That’s how to know and see so that there’s no I-making, mine-making, or underlying tendency to conceit for this conscious body and externally for all signs.”",
+    "errors": [],
+    "kumarajiva_style_text": "",
+    "modern_psychology_text": "",
+    "notes": "",
+    "review_status": "raw"
+  },
+  {
+    "id": "SA_24",
+    "uid": "sa24",
+    "title": "雜阿含經  （一）陰相應  （二四） 羅睺羅所問",
+    "chinese_text": "如是我聞：一時，佛住王舍城、伽蘭陀竹園。爾時，世尊告羅睺羅：「比丘，云何知、云何見我此識身及外境界一切相無有我、我所見、我慢使繫著？」羅睺羅白佛言：「世尊為法主、為導、為覆。善哉，世尊當為諸比丘演說此義！諸比丘從佛聞已，當受持、奉行。」佛告羅睺羅：「諦聽！諦聽，善思念之。當為汝說。」羅睺羅白佛：「唯然，受教。」佛告羅睺羅：「當觀諸所有色，若過去、若未來、若現在，若內、若外，若麁、若細，若好、若醜，若遠、若近，彼一切非我、不異我、不相在。如是平等慧如實觀。「如是，受⋯想⋯行⋯識，若過去、若未來、若現在，若內、若外，若麁、若細，若好、若醜，若遠、若近，彼一切非我、不異我、不相在。如是平等慧如實觀。「比丘如是知、如是見我此識身及外境界一切相無有我、我所見、我慢使繫著。「羅睺羅，比丘如是識身及外境界一切相，無有我、我所見、我慢使繫著者，超越疑心，遠離諸相，寂靜解脫。是名比丘斷除愛欲，轉去諸結。正無間等，究竟苦邊。」時，羅睺羅聞佛所說歡喜，奉行。使、增諸數、非我、非彼、結繫、動搖、劫波所問、亦羅睺羅所問二經。",
+    "english_sa_text": "Thus I have heard: One time, the Buddha was staying at the Squirrels’ Bamboo Grove of Rājagṛha. It was then that the Bhagavān addressed Rāhula, “In what way does a monk know and see this body of awareness of ours and all the signs of the external world to have no binding attachments to views of self and what belongs to self or to the tendency of self-conceit?” Rāhula said to the Buddha, “The Bhagavān is the Dharma lord, the guide, and the refuge. It would be good, Bhagavān, if you would give a detailed discourse on this subject for the monks! After they hear it, the monks will accept and approve of it.” The Buddha told Rāhula, “Listen closely! Listen closely, and consider it well. I will explain it for you. Rāhula said to the Buddha, “Very well, I’ll accept the teaching.” The Buddha told Rāhula, “You should observe that whatever forms there are, whether they are past, future, or present, internal or external, crude or fine, beautiful or ugly, distant or near, they are all not self, not different from self, and neither is present in the other. They are truly observed with equitable wisdom in this way. “In this way, whatever feelings … conceptions … volitions … instances of awareness there are, whether they are past, future, or present, internal or external, crude or fine, beautiful or ugly, or distant or near, they are all not self, not different from self, and neither is present in the other. They are truly observed with equitable wisdom in this way. “A monk who knows and sees this body of awareness of ours and all the signs of the external world in this way will have no binding attachments to views of self and what belongs to self or to the tendency of self-conceit. “Rāhula, if a monk has no binding attachments to views of self and what belongs to self or to the tendency of self-conceit regarding this body of awareness of ours and all the signs of the external world, he goes beyond doubts, becomes free of these signs, and is peacefully liberated. That monk is called one who has stopped craving desires and turned away from the bonds. Right at that moment, he reaches the final end of suffering.” When Rāhula heard what the Buddha taught, he rejoiced and approved. Summary Verse [21] Tendencies, [22] increasing numbers, [23] Not mine, [24] not another’s, [25-26] Tying bonds, [what affects,] and [27] shaken, [28] Kappa’s question, And [29-30] two sūtras on Rāhula’s question.",
+    "parallels": [
+      {
+        "uid": "sa199",
+        "acronym": "SA 199",
+        "root_lang": "lzh",
+        "original_title": "羅睺羅",
+        "translated_title": "[Second Discourse to Rāhula]",
+        "type": "full",
+        "resembling": false,
+        "remark": null
+      },
+      {
+        "uid": "sn18.22",
+        "acronym": "SN 18.22",
+        "root_lang": "pli",
+        "original_title": "Apagatasutta",
+        "translated_title": null,
+        "type": "full",
+        "resembling": false,
+        "remark": null
+      },
+      {
+        "uid": "sn22.92",
+        "acronym": "SN 22.92",
+        "root_lang": "pli",
+        "original_title": "Dutiyarāhulasutta",
+        "translated_title": "Rahula (2)",
+        "type": "full",
+        "resembling": false,
+        "remark": null
+      }
+    ],
+    "primary_sn_uid": "sn18.22",
+    "pali_text": "Sāvatthinidānaṁ. Atha kho āyasmā rāhulo yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṁ abhivādetvā ekamantaṁ nisīdi. Ekamantaṁ nisinno kho āyasmā rāhulo bhagavantaṁ etadavoca: “kathaṁ nu kho, bhante, jānato kathaṁ passato imasmiṁ ca saviññāṇake kāye bahiddhā ca sabbanimittesu ahaṅkāramamaṅkāramānāpagataṁ mānasaṁ hoti vidhā samatikkantaṁ santaṁ suvimuttan”ti? “Yaṁ kiñci, rāhula, rūpaṁ atītānāgatapaccuppannaṁ ajjhattaṁ vā bahiddhā vā oḷārikaṁ vā sukhumaṁ vā hīnaṁ vā paṇītaṁ vā yaṁ dūre santike vā sabbaṁ rūpaṁ ‘netaṁ mama, nesohamasmi, na meso attā’ti evametaṁ yathābhūtaṁ sammappaññāya disvā anupādā vimutto hoti. Yā kāci vedanā …pe… yā kāci saññā … ye keci saṅkhārā … yaṁ kiñci viññāṇaṁ atītānāgatapaccuppannaṁ ajjhattaṁ vā bahiddhā vā oḷārikaṁ vā sukhumaṁ vā hīnaṁ vā paṇītaṁ vā yaṁ dūre santike vā, sabbaṁ viññāṇaṁ ‘netaṁ mama, nesohamasmi, na meso attā’ti evametaṁ yathābhūtaṁ sammappaññāya disvā anupādā vimutto hoti. Evaṁ kho, rāhula, jānato evaṁ passato imasmiñca saviññāṇake kāye bahiddhā ca sabbanimittesu ahaṅkāramamaṅkāramānāpagataṁ mānasaṁ hoti vidhā samatikkantaṁ santaṁ suvimuttan”ti. Dvādasamaṁ. Dutiyo vaggo. Tassuddānaṁ Cakkhu rūpañca viññāṇaṁ, Samphasso vedanāya ca; Saññā sañcetanā taṇhā, Dhātu khandhena te dasa; Anusayaṁ apagatañceva, Vaggo tena pavuccatīti. Rāhulasaṁyuttaṁ samattaṁ.",
+    "english_sn_text": "At Sāvatthī. Then Venerable Rāhula went up to the Buddha, bowed, sat down to one side, and said to him: “Sir, how does one know and see so that the heart is rid of I-making, mine-making, and conceit for this conscious body and externally for all signs; and going beyond discrimination, it’s peaceful and well freed?” “Rāhula, one truly sees any kind of form at all—past, future, or present; internal or external; solid or subtle; inferior or superior; far or near: all form—with right understanding: ‘This is not mine, I am not this, this is not my self,’ one is freed by not grasping. One truly sees any kind of feeling … perception … choices … One truly sees any kind of consciousness at all—past, future, or present; internal or external; solid or subtle; inferior or superior; far or near: all consciousness—with right understanding: ‘This is not mine, I am not this, this is not my self,’ one is freed by not grasping. That’s how to know and see so that the heart is rid of I-making, mine-making, and conceit for this conscious body and externally for all signs; and going beyond discrimination, it’s peaceful and well freed.” The Linked Discourses with Rāhula are complete.",
+    "errors": [],
+    "kumarajiva_style_text": "",
+    "modern_psychology_text": "",
+    "notes": "",
+    "review_status": "raw"
+  },
+  {
+    "id": "SA_25",
+    "uid": "sa25",
+    "title": "雜阿含經  （一）陰相應  （二五） 多聞",
+    "chinese_text": "如是我聞：一時，佛住舍衛國、祇樹、給孤獨園。時，有異比丘來詣佛所。為佛作禮，却住一面，白佛言：「如世尊說『多聞』。云何為多聞？」佛告比丘：「善哉，善哉！汝今問我多聞義耶？」比丘白佛：「唯然，世尊！」佛告比丘：「諦聽，善思。當為汝說。比丘，當知，若聞色是生厭、離欲、滅盡、寂靜法，是名多聞。如是，聞受⋯想⋯行⋯識是生厭、離欲、滅盡、寂靜法，是名多聞。比丘，是名如來所說多聞。」時，彼比丘聞佛所說踊躍，歡喜。作禮而去。",
+    "english_sa_text": "Thus I have heard: One time, the Buddha was staying at Anāthapiṇḍada’s Park in Jeta’s Grove of Śrāvastī. It was then that a certain monk came to visit the Buddha. He bowed to the Buddha, withdrew to stand at one side, and said to the Buddha, “The Bhagavān says ‘well versed.’ How is one well versed?” The Buddha said to that monk, “Good, good! Are you asking me now about the meaning of ‘well versed’?” The monk said to the Buddha, “Indeed, Bhagavān.” The Buddha told the monk, “[Listen closely!] Listen closely, and consider it well. I will explain it for you. Monk, you should know that if one learns about becoming disillusioned with form, becoming free of desire for it, completely ceasing it, and the state of peace, this is called being well versed. Thus, if one learns about becoming disillusioned with feeling … conception … volition … awareness, becoming free of desire for it, completely ceasing it, and the state of peace, this is called being well versed. Monk, this is what the Tathāgata says is being well versed.” When that monk heard what the Buddha taught, he celebrated and rejoiced. Then, he bowed and departed.",
+    "parallels": [],
+    "primary_sn_uid": null,
+    "pali_text": "",
+    "english_sn_text": "",
+    "errors": [],
+    "kumarajiva_style_text": "",
+    "modern_psychology_text": "",
+    "notes": "",
+    "review_status": "raw"
+  },
+  {
+    "id": "SA_26",
+    "uid": "sa26",
+    "title": "雜阿含經  （一）陰相應  （二六） 善說法",
+    "chinese_text": "如是我聞：一時，佛住舍衛國、祇樹、給孤獨園。爾時，有異比丘來詣佛所。頭面禮足，却住一面，白佛言：「如世尊所說『法師』。云何名為法師？」佛告比丘：「善哉，善哉！汝今欲知如來所說法師義耶？」比丘白佛：「唯然，世尊。」佛告比丘：「諦聽，善思。當為汝說。」佛告比丘：「若於色說是生厭、離欲、滅盡、寂靜法者，是名法師。若於受⋯想⋯行⋯識說是生厭、離欲、滅盡、寂靜法者，是名法師。是名如來所說法師。」時，彼比丘聞佛所說踊躍，歡喜。作禮而去。",
+    "english_sa_text": "Thus I have heard: One time, the Buddha was staying at Anāthapiṇḍada’s Park in Jeta’s Grove of Śrāvastī. It was then that a certain monk came to visit the Buddha. He bowed to the Buddha, withdrew to stand at one side, and said to the Buddha, “The Bhagavān says ‘Dharma teacher.’ What is a Dharma teacher?” The Buddha asked that monk, “Good, good! Do you want now to know about the meaning of what the Tathāgata says is a ‘Dharma teacher’?” That monk said to the Buddha, “Indeed, Bhagavān.” The Buddha told the monk, “[Listen closely!] Listen closely, and consider it well. I will explain it for you.” The Buddha told the monk, “If someone teaches about becoming disillusioned with form, becoming free of desire for it, completely ceasing it, and the state of peace, they are called a Dharma teacher. If they teach about becoming disillusioned with feeling … conception … volition … awareness, becoming free of desire for it, completely ceasing it, and the state of peace, they are called a Dharma teacher. This is what the Tathāgata calls a Dharma teacher.” When that monk heard what the Buddha taught, he celebrated and rejoiced. He then bowed and departed.",
+    "parallels": [
+      {
+        "uid": "sn22.116",
+        "acronym": "SN 22.116",
+        "root_lang": "pli",
+        "original_title": "Dutiyadhammakathikasutta",
+        "translated_title": null,
+        "type": "full",
+        "resembling": false,
+        "remark": null
+      },
+      {
+        "uid": "sn22.115",
+        "acronym": "SN 22.115",
+        "root_lang": "pli",
+        "original_title": "Dhammakathikasutta",
+        "translated_title": null,
+        "type": "full",
+        "resembling": false,
+        "remark": null
+      },
+      {
+        "uid": "sa29",
+        "acronym": "SA 29",
+        "root_lang": "lzh",
+        "original_title": "三密離提",
+        "translated_title": "Discourse on Samiddhi Asking How to Speak as a Dharma Teacher",
+        "type": "full",
+        "resembling": true,
+        "remark": null
+      },
+      {
+        "uid": "sa28",
+        "acronym": "SA 28",
+        "root_lang": "lzh",
+        "original_title": "見法涅槃",
+        "translated_title": "Discourse on Nirvāṇa",
+        "type": "full",
+        "resembling": true,
+        "remark": null
+      },
+      {
+        "uid": "sa1-100",
+        "acronym": null,
+        "root_lang": "lzh",
+        "original_title": "Saṁyuktāgama 1–100",
+        "translated_title": null,
+        "type": "full",
+        "resembling": true,
+        "remark": null
+      }
+    ],
+    "primary_sn_uid": "sn22.115",
+    "pali_text": "Sāvatthinidānaṁ. Ekamantaṁ nisinno kho so bhikkhu bhagavantaṁ etadavoca: “‘dhammakathiko, dhammakathiko’ti, bhante, vuccati; kittāvatā nu kho, bhante, dhammakathiko hotī”ti? “Rūpassa ce, bhikkhu, nibbidāya virāgāya nirodhāya dhammaṁ deseti ‘dhammakathiko bhikkhū’ti alaṁvacanāya. Rūpassa ce, bhikkhu, nibbidāya virāgāya nirodhāya paṭipanno hoti, ‘dhammānudhammappaṭipanno bhikkhū’ti alaṁvacanāya. Rūpassa ce, bhikkhu, nibbidā virāgā nirodhā anupādāvimutto hoti, ‘diṭṭhadhammanibbānappatto bhikkhū’ti alaṁvacanāya. Vedanāya ce, bhikkhu …pe… saññāya ce, bhikkhu … saṅkhārānañce, bhikkhu … viññāṇassa ce, bhikkhu, nibbidāya virāgāya nirodhāya dhammaṁ deseti, ‘dhammakathiko bhikkhū’ti alaṁvacanāya. Viññāṇassa ce, bhikkhu, nibbidāya virāgāya nirodhāya paṭipanno hoti, ‘dhammānudhammappaṭipanno bhikkhū’ti alaṁvacanāya. Viññāṇassa ce, bhikkhu, nibbidā virāgā nirodhā anupādāvimutto hoti, ‘diṭṭhadhammanibbānappatto bhikkhū’ti alaṁvacanāyā”ti. Tatiyaṁ.",
+    "english_sn_text": "At Sāvatthī. Seated to one side, that mendicant said to the Buddha: “Sir, they speak of a ‘Dhamma speaker’. How is a Dhamma speaker defined?” “Mendicant, if a mendicant teaches Dhamma for disillusionment, dispassion, and cessation regarding form, they’re qualified to be called ‘a mendicant who speaks on Dhamma’. If they practice for disillusionment, dispassion, and cessation regarding form, they’re qualified to be called ‘a mendicant who practices in line with the teaching’. If they’re freed by not grasping by disillusionment, dispassion, and cessation regarding form, they’re qualified to be called ‘a mendicant who has attained extinguishment in this very life’. If a mendicant teaches Dhamma for disillusionment with feeling … perception … choices … consciousness, for its fading away and cessation, they’re qualified to be called ‘a mendicant who speaks on Dhamma’. If they practice for disillusionment, dispassion, and cessation regarding consciousness, they’re qualified to be called ‘a mendicant who practices in line with the teaching’. If they’re freed by not grasping by disillusionment, dispassion, and cessation regarding consciousness, they’re qualified to be called ‘a mendicant who has attained extinguishment in this very life’.”",
+    "errors": [],
+    "kumarajiva_style_text": "",
+    "modern_psychology_text": "",
+    "notes": "",
+    "review_status": "raw"
+  },
+  {
+    "id": "SA_27",
+    "uid": "sa27",
+    "title": "雜阿含經  （一）陰相應  （二七） 法次法向",
+    "chinese_text": "如是我聞：一時，佛住舍衛國、祇樹、給孤獨園。爾時，有異比丘來詣佛所。頭面作禮，却住一面，白佛言：「如世尊說『法次法向』。云何法次法向？」佛告比丘：「善哉，善哉！汝今欲知法次法向耶？」比丘白佛：「唯然，世尊。」佛告比丘：「諦聽，善思。當為汝說。比丘，於色向厭、離欲、滅盡是名法次法向。如是受、想、行、識⋯於識向厭、離欲、滅盡是名法次法向。」時，彼比丘聞佛所說踊躍，歡喜。作禮而去。",
+    "english_sa_text": "Thus I have heard: One time, the Buddha was staying at Anāthapiṇḍada’s Park in Jeta’s Grove of Śrāvastī. There was then a certain monk who came to visit the Buddha. He bowed his head, withdrew to stand at one side, and said to the Buddha, “The Bhagavān says ‘going from one thing to the next.’ How does one go from one thing to the next?” The Buddha told the monk, “Good, good! Do you want now to know about going from one thing to the next?” The monk said to the Buddha, “Indeed, Bhagavān.” The Buddha told the monk, “[Listen closely!] Listen closely, and consider it well. I will explain this for you. Monk, heading for disillusionment with form, becoming free of desire for it, and completely ceasing it is called going from one thing to the next. It’s the same with feeling, conception, volition, and awareness … heading for disillusionment with awareness, becoming free of desire for it, and completely ceasing it is called going from one thing to the next.” When that monk heard what the Buddha taught, he celebrated and rejoiced. He then bowed and departed.",
+    "parallels": [
+      {
+        "uid": "sn22.42",
+        "acronym": "SN 22.42",
+        "root_lang": "pli",
+        "original_title": "Catutthaanudhammasutta",
+        "translated_title": "In Accordance with the Dhamma (4)",
+        "type": "full",
+        "resembling": false,
+        "remark": null
+      },
+      {
+        "uid": "sn22.41",
+        "acronym": "SN 22.41",
+        "root_lang": "pli",
+        "original_title": "Tatiyaanudhammasutta",
+        "translated_title": "In Accordance with the Dhamma (3)",
+        "type": "full",
+        "resembling": false,
+        "remark": null
+      },
+      {
+        "uid": "sn22.40",
+        "acronym": "SN 22.40",
+        "root_lang": "pli",
+        "original_title": "Dutiyaanudhammasutta",
+        "translated_title": "In Accordance with the Dhamma (2)",
+        "type": "full",
+        "resembling": false,
+        "remark": null
+      },
+      {
+        "uid": "sn22.39",
+        "acronym": "SN 22.39",
+        "root_lang": "pli",
+        "original_title": "Anudhammasutta",
+        "translated_title": "In Accordance with the Dhamma (1)",
+        "type": "full",
+        "resembling": false,
+        "remark": null
+      }
+    ],
+    "primary_sn_uid": "sn22.39",
+    "pali_text": "Sāvatthinidānaṁ. “Dhammānudhammappaṭipannassa, bhikkhave, bhikkhuno ayamanudhammo hoti yaṁ rūpe nibbidābahulo vihareyya, vedanāya nibbidābahulo vihareyya, saññāya nibbidābahulo vihareyya, saṅkhāresu nibbidābahulo vihareyya, viññāṇe nibbidābahulo vihareyya. Yo rūpe nibbidābahulo viharanto, vedanāya … saññāya … saṅkhāresu nibbidābahulo viharanto, viññāṇe nibbidābahulo viharanto rūpaṁ parijānāti, vedanaṁ … saññaṁ … saṅkhāre … viññāṇaṁ parijānāti, so rūpaṁ parijānaṁ, vedanaṁ … saññaṁ … saṅkhāre … viññāṇaṁ parijānaṁ parimuccati rūpamhā, parimuccati vedanāya, parimuccati saññāya, parimuccati saṅkhārehi, parimuccati viññāṇamhā, parimuccati jātiyā jarāmaraṇena sokehi paridevehi dukkhehi domanassehi upāyāsehi, ‘parimuccati dukkhasmā’ti vadāmī”ti. Sattamaṁ.",
+    "english_sn_text": "At Sāvatthī. “Mendicants, when a mendicant is practicing in line with the teaching, this is what’s in line with the teaching. They should live full of disillusionment for form, feeling, perception, choices, and consciousness. Living in this way, they completely understand form, feeling, perception, choices, and consciousness. Completely understanding form, feeling, perception, choices, and consciousness, they’re freed from these things. They’re freed from rebirth, old age, and death, from sorrow, lamentation, pain, sadness, and distress. They’re freed from suffering, I say.”",
+    "errors": [],
+    "kumarajiva_style_text": "",
+    "modern_psychology_text": "",
+    "notes": "",
+    "review_status": "raw"
+  },
+  {
+    "id": "SA_28",
+    "uid": "sa28",
+    "title": "雜阿含經  （一）陰相應  （二八） 涅槃",
+    "chinese_text": "如是我聞：一時，佛住舍衛國、祇樹、給孤獨園。爾時，有異比丘來詣佛所。頭面禮足，却住一面，白佛言：「世尊，如世尊所說『得見法涅槃』。云何比丘得見法涅槃？」佛告比丘：「善哉，善哉！汝今欲知見法涅槃耶？」比丘白佛：「唯然，世尊。」佛告比丘：「諦聽，善思。當為汝說。」佛告比丘：「於色生厭、離欲、滅盡，不起諸漏，心正解脫。是名比丘見法涅槃。如是受、想、行、識⋯於識生厭、離欲、滅盡，不起諸漏，心正解脫。是名比丘見法涅槃。」時，彼比丘聞佛所說踊躍，歡喜。作禮而去。",
+    "english_sa_text": "Thus I have heard: One time, the Buddha was staying at Anāthapiṇḍada’s Park in Jeta’s Grove of Śrāvastī. There was then a certain monk who came to visit the Buddha. He bowed his head at the Buddha’s feet, withdrew to stand at one side, and said to the Buddha, “Bhagavān, the Bhagavān says ‘attain nirvāṇa in the present life.’ How does a monk attain nirvāṇa in the present life?” The Buddha told the monk, “Good, good! Do you want now to know about nirvāṇa in the present life?” The monk said to the Buddha, “Indeed, Bhagavān.” The Buddha told the monk, “[Listen closely!] Listen closely, and consider it well. I will explain it for you.” The Buddha told the monk, “Becoming disillusioned with form, becoming free of desire for it, and completely ceasing it, the contaminants don’t arise, and the mind is properly liberated. This is called a monk who attains nirvāṇa in the present life. It’s the same with feeling, conception, volition, and awareness … becoming disillusioned with awareness, becoming free of desire for it, and completely ceasing it, the contaminants don’t arise, and the mind is properly liberated. This is called a monk who attains nirvāṇa in the present life.” When that monk heard what the Buddha taught, he celebrated and rejoiced. He then bowed and departed.",
+    "parallels": [
+      {
+        "uid": "up2.078",
+        "acronym": "Up 2.078",
+        "root_lang": "xct",
+        "original_title": "",
+        "translated_title": "Upāyikā 2.078",
+        "type": "full",
+        "resembling": false,
+        "remark": null
+      }
+    ],
+    "primary_sn_uid": null,
+    "pali_text": "",
+    "english_sn_text": "",
+    "errors": [],
+    "kumarajiva_style_text": "",
+    "modern_psychology_text": "",
+    "notes": "",
+    "review_status": "raw"
+  },
+  {
+    "id": "SA_29",
+    "uid": "sa29",
+    "title": "雜阿含經  （一）陰相應  （二九） 三蜜離提問",
+    "chinese_text": "如是我聞：一時，佛住舍衛國、祇樹、給孤獨園。爾時，有異比丘名三蜜離提，來詣佛所。頭面禮足，却住一面，白佛言：「如世尊說『說法師』。云何名為說法師？」佛告比丘：「汝今欲知『說法師』義耶？」比丘白佛：「唯然，世尊！」佛告比丘：「諦聽，善思。當為汝說。若比丘於色說厭、離欲、滅盡，是名說法師。如是於受、想、行、識⋯於識說厭、離欲、滅盡。是名說法師。」時，彼比丘聞佛所說踊躍，歡喜。作禮而去。多聞、善說法、向法、及涅槃、三蜜離提問、『云何說法師』。",
+    "english_sa_text": "Thus I have heard: One time, the Buddha was staying at Anāthapiṇḍada’s Park in Jeta’s Grove of Śrāvastī. There was then a certain monk named Samṛddhi who came to visit the Buddha. He bowed his head at the Buddha’s feet, withdrew to stand to one side, and said to the Buddha, “The Bhagavān says ‘the teaching of a Dharma teacher.’ What’s called the teaching of a Dharma teacher?” The Buddha said to the monk, “[Good, good!] Do you want now to know the meaning of ‘the teaching of a Dharma teacher’?” The monk said to the Buddha, “Indeed, Bhagavān.” The Buddha told the monk, “[Listen closely!] Listen closely, and consider it well. I will explain this for you. If a monk teaches disillusionment with form, being free of desire for it, and completely ceasing it, this is called the teaching of a Dharma teacher. It’s the same with feeling, conception, volition, and awareness … teaches disillusionment with awareness, being free of desire for it, and completely ceasing it. This is called the teaching of a Dharma teacher.” When that monk heard what the Buddha taught, he celebrated and rejoiced. He then bowed and departed. Summary Verse [31] Well versed, [32] the well taught Dharma, [33] Proceeding through principles, [34] nirvāṇa, And [35] Samṛddhi’s question, “What is the teaching of a Dharma teacher.”",
+    "parallels": [
+      {
+        "uid": "sa26",
+        "acronym": "SA 26",
+        "root_lang": "lzh",
+        "original_title": "善說法",
+        "translated_title": "Discourse on Teaching the Dharma Well",
+        "type": "full",
+        "resembling": true,
+        "remark": null
+      },
+      {
+        "uid": "sn22.116",
+        "acronym": "SN 22.116",
+        "root_lang": "pli",
+        "original_title": "Dutiyadhammakathikasutta",
+        "translated_title": null,
+        "type": "full",
+        "resembling": true,
+        "remark": null
+      },
+      {
+        "uid": "sn22.115",
+        "acronym": "SN 22.115",
+        "root_lang": "pli",
+        "original_title": "Dhammakathikasutta",
+        "translated_title": null,
+        "type": "full",
+        "resembling": true,
+        "remark": null
+      }
+    ],
+    "primary_sn_uid": "sn22.115",
+    "pali_text": "Sāvatthinidānaṁ. Ekamantaṁ nisinno kho so bhikkhu bhagavantaṁ etadavoca: “‘dhammakathiko, dhammakathiko’ti, bhante, vuccati; kittāvatā nu kho, bhante, dhammakathiko hotī”ti? “Rūpassa ce, bhikkhu, nibbidāya virāgāya nirodhāya dhammaṁ deseti ‘dhammakathiko bhikkhū’ti alaṁvacanāya. Rūpassa ce, bhikkhu, nibbidāya virāgāya nirodhāya paṭipanno hoti, ‘dhammānudhammappaṭipanno bhikkhū’ti alaṁvacanāya. Rūpassa ce, bhikkhu, nibbidā virāgā nirodhā anupādāvimutto hoti, ‘diṭṭhadhammanibbānappatto bhikkhū’ti alaṁvacanāya. Vedanāya ce, bhikkhu …pe… saññāya ce, bhikkhu … saṅkhārānañce, bhikkhu … viññāṇassa ce, bhikkhu, nibbidāya virāgāya nirodhāya dhammaṁ deseti, ‘dhammakathiko bhikkhū’ti alaṁvacanāya. Viññāṇassa ce, bhikkhu, nibbidāya virāgāya nirodhāya paṭipanno hoti, ‘dhammānudhammappaṭipanno bhikkhū’ti alaṁvacanāya. Viññāṇassa ce, bhikkhu, nibbidā virāgā nirodhā anupādāvimutto hoti, ‘diṭṭhadhammanibbānappatto bhikkhū’ti alaṁvacanāyā”ti. Tatiyaṁ.",
+    "english_sn_text": "At Sāvatthī. Seated to one side, that mendicant said to the Buddha: “Sir, they speak of a ‘Dhamma speaker’. How is a Dhamma speaker defined?” “Mendicant, if a mendicant teaches Dhamma for disillusionment, dispassion, and cessation regarding form, they’re qualified to be called ‘a mendicant who speaks on Dhamma’. If they practice for disillusionment, dispassion, and cessation regarding form, they’re qualified to be called ‘a mendicant who practices in line with the teaching’. If they’re freed by not grasping by disillusionment, dispassion, and cessation regarding form, they’re qualified to be called ‘a mendicant who has attained extinguishment in this very life’. If a mendicant teaches Dhamma for disillusionment with feeling … perception … choices … consciousness, for its fading away and cessation, they’re qualified to be called ‘a mendicant who speaks on Dhamma’. If they practice for disillusionment, dispassion, and cessation regarding consciousness, they’re qualified to be called ‘a mendicant who practices in line with the teaching’. If they’re freed by not grasping by disillusionment, dispassion, and cessation regarding consciousness, they’re qualified to be called ‘a mendicant who has attained extinguishment in this very life’.”",
+    "errors": [],
+    "kumarajiva_style_text": "",
+    "modern_psychology_text": "",
+    "notes": "",
+    "review_status": "raw"
+  },
+  {
+    "id": "SA_30",
+    "uid": "sa30",
+    "title": "雜阿含經  （一）陰相應  （三〇） 輸屢那",
+    "chinese_text": "如是我聞：一時，佛住王舍城、迦蘭陀竹園。爾時，尊者舍利弗在耆闍崛山中。時，有長者子名輸屢那，日日遊行。到耆闍崛山，詣尊者舍利弗。問訊起居已，却坐一面，語舍利弗言：「若諸沙門、婆羅門於無常色、變易、不安隱色言：『我勝』、『我等』、『我劣』。何故沙門、婆羅門作如是想而不見真實？若沙門、婆羅門於無常、變易、不安隱受⋯想⋯行⋯識而言：『我勝』、『我等』、『我劣』。何故沙門、婆羅門作如是想而不見真實？「若沙門、婆羅門於無常色、變易、不安隱色言：『我勝』、『我等』、『我劣』。何所計而不見真實？於無常、變易、不安隱受⋯想⋯行⋯識言：『我勝』、『我等』、『我劣』。何所計而不見真實？」「輸屢那，於汝意云何？色為常，為無常耶？」答言：「無常。」「輸屢那，若無常，為是苦耶？」答言：「是苦。」「輸屢那，若無常、苦，是變易法。於意云何？聖弟子於中見色是我、異我、相在不？」答言：「不也。」「輸屢那，於意云何？受⋯想⋯行⋯識為常、為無常？」答言：「無常。」「若無常，是苦耶？」答言：「是苦。」「輸屢那，識若無常、苦，是變易法。於意云何？聖弟子於中見識是我、異我、相在不？」答言：「不也。」「輸屢那，當知色，若過去、若未來、若現在，若內、若外，若麁、若細，若好、若醜，若遠、若近，彼一切色不是我、不異我、不相在。是名如實知。「如是受、想、行、識⋯若過去、若未來、若現在，若內、若外，若麁、若細，若好、若醜，若遠、若近，彼一切識不是我、不異我、不相在。是名如實知。「輸屢那，如是於色、受、想、行、識生厭，離欲、解脫。解脫知見：『我生已盡，梵行已立，所作已作。』自知不受後有。」時，舍利弗說是經已，長者子輸屢那遠塵離垢，得法眼淨。時，長者子輸屢那見法、得法，不由於他，於正法中，得無所畏。從坐起，偏袒右肩，胡跪合掌。白舍利弗言：「我今已度！我從今日歸依佛、歸依法、歸依僧，為優婆塞。我從今日已，盡壽命，清淨歸依三寶。」時，長者子輸屢那聞舍利弗所說歡喜，踊躍。作禮而去。",
+    "english_sa_text": "Thus I have heard: The Buddha was staying at the Squirrels’ Bamboo Grove of Rājagṛha. Venerable Śāriputra was on Mount Gṛdhrakūṭa at the time. There was then a prominent man’s son named Śroṇa who went for walks every day. He went to Mount Gṛdhrakūṭa and visited Venerable Śāriputra there. After asking how he were doing, Śroṇa withdrew to sit to one side and said to Śāriputra, “Suppose ascetics and brahmins say this about forms that are impermanent, changing, and insecure: ‘I am better,’ ‘I am equal,’ or ‘I am inferior.’ Why would an ascetic or brahmin form such an idea and not see them truly? Suppose an ascetic or brahmin says about feelings … conceptions … volitions … instances of awareness that are impermanent, changing, and insecure: ‘I am better,’ ‘I am equal,’ or ‘I am inferior.’ Why would an ascetic or brahmin form such an idea and not see them truly? “Suppose an ascetic or brahmin says about forms that are impermanent, changing, and insecure: ‘I am better,’ ‘I am equal,’ or ‘I am inferior.’ How do they imagine that and not see them truly? Suppose they say about feelings … conceptions … volitions … instances of awareness that are impermanent, changing, and insecure: ‘I am better,’ ‘I am equal,’ or ‘I am inferior.’ How do they imagine that and not see them truly?” “Śroṇa, what do you think? Is form permanent or impermanent?” He replied, “Impermanent.” “Śroṇa, if something is impermanent, is that painful?” He replied, “It’s painful.” “Śroṇa, if something is impermanent and painful, it’s subject to change. What do you think? Would a noble disciple see form as self, different from self, or that either is present in the other?” He replied, “No.” “Śroṇa, what do you think? Is feeling … conception … volition … awareness permanent or impermanent?” He replied, “Impermanent.” “If something is impermanent, is that painful?” He replied, “It’s painful.” “Śroṇa, if awareness is impermanent and painful, then it’s subject to change. What do you think? Would a noble disciple see awareness as self, different from self, or that either is present in the other?” He replied, “No.” “Śroṇa, you should know that whatever forms there are, whether past, future, or present, internal or external, crude or fine, beautiful or ugly, or distant or near, all those forms are not self, not different from self, and neither is present in the other. This is called truly knowing them. “Thus, whatever feelings … conceptions … volitions … instances of awareness there are, whether past, future, or present, internal or external, crude or fine, beautiful or ugly, or distant or near, all those instances of awareness are not self, not different from self, and neither is present in the other. This is called truly knowing them. “In this way, Śroṇa, one becomes disillusioned, becomes free of desire for, and becomes liberated from form, feeling, conception, volition, and awareness. Being liberated, they know and see: ‘My births have been ended, the religious practice has been established, and the task has been accomplished.’ They themselves know they won’t be subject to a later existence.” After Śāriputra taught this sūtra, that prominent man’s son Śroṇa was removed from dust, free of defilement, and his Dharma vision became clear. Śroṇa then saw and got the Dharma, and he became confident in the correct Dharma without relying on someone else. He rose from his seat, adjusted his robes to bare his right shoulder, and crouched with his palms together. He said to Śāriputra, “I’ve been freed today! From this day on, I take refuge in the Buddha, take refuge in the Dharma, and take refuge in the Saṅgha as a layman. From today until the end of my life, I will be pure in my devotion to these three jewels.” When the prominent man Śroṇa heard what Śāriputra had taught, he rejoiced and celebrated. He then bowed and departed.",
+    "parallels": [
+      {
+        "uid": "sn22.49",
+        "acronym": "SN 22.49",
+        "root_lang": "pli",
+        "original_title": "Soṇasutta",
+        "translated_title": "Soṇa (1)",
+        "type": "full",
+        "resembling": false,
+        "remark": null
+      },
+      {
+        "uid": "sf89",
+        "acronym": "SF 89",
+        "root_lang": "san",
+        "original_title": "Śroṇa (1st)",
+        "translated_title": "The Discourse to Śroṇa",
+        "type": "full",
+        "resembling": true,
+        "remark": null
+      }
+    ],
+    "primary_sn_uid": "sn22.49",
+    "pali_text": "Evaṁ me sutaṁ— ekaṁ samayaṁ bhagavā rājagahe viharati veḷuvane kalandakanivāpe. Atha kho soṇo gahapatiputto yena bhagavā tenupasaṅkami …pe… ekamantaṁ nisinnaṁ kho soṇaṁ gahapatiputtaṁ bhagavā etadavoca: “Ye hi keci, soṇa, samaṇā vā brāhmaṇā vā aniccena rūpena dukkhena vipariṇāmadhammena ‘seyyohamasmī’ti vā samanupassanti; ‘sadisohamasmī’ti vā samanupassanti; ‘hīnohamasmī’ti vā samanupassanti; kimaññatra yathābhūtassa adassanā? Aniccāya vedanāya dukkhāya vipariṇāmadhammāya ‘seyyohamasmī’ti vā samanupassanti; ‘sadisohamasmī’ti vā samanupassanti; ‘hīnohamasmī’ti vā samanupassanti; kimaññatra yathābhūtassa adassanā? Aniccāya saññāya … aniccehi saṅkhārehi dukkhehi vipariṇāmadhammehi ‘seyyohamasmī’ti vā samanupassanti; ‘sadisohamasmī’ti vā samanupassanti; ‘hīnohamasmī’ti vā samanupassanti; kimaññatra yathābhūtassa adassanā? Aniccena viññāṇena dukkhena vipariṇāmadhammena ‘seyyohamasmī’ti vā samanupassanti; ‘sadisohamasmī’ti vā samanupassanti; ‘hīnohamasmī’ti vā samanupassanti; kimaññatra yathābhūtassa adassanā? Ye ca kho keci, soṇa, samaṇā vā brāhmaṇā vā aniccena rūpena dukkhena vipariṇāmadhammena ‘seyyohamasmī’tipi na samanupassanti; ‘sadisohamasmī’tipi na samanupassanti; ‘hīnohamasmī’tipi na samanupassanti; kimaññatra yathābhūtassa dassanā? Aniccāya vedanāya … aniccāya saññāya … aniccehi saṅkhārehi … aniccena viññāṇena dukkhena vipariṇāmadhammena ‘seyyohamasmī’tipi na samanupassanti; ‘sadisohamasmī’tipi na samanupassanti; ‘hīnohamasmī’tipi na samanupassanti; kimaññatra yathābhūtassa dassanā? Taṁ kiṁ maññasi, soṇa, rūpaṁ niccaṁ vā aniccaṁ vā”ti? “Aniccaṁ, bhante”. “Yaṁ panāniccaṁ dukkhaṁ vā taṁ sukhaṁ vā”ti? “Dukkhaṁ, bhante”. “Yaṁ panāniccaṁ dukkhaṁ vipariṇāmadhammaṁ kallaṁ nu taṁ samanupassituṁ: ‘etaṁ mama, esohamasmi, eso me attā’”ti? “No hetaṁ, bhante”. “Vedanā niccā vā aniccā vā”ti? “Aniccā, bhante” … “saññā … saṅkhārā … viññāṇaṁ niccaṁ vā aniccaṁ vā”ti? “Aniccaṁ, bhante”. “Yaṁ panāniccaṁ dukkhaṁ vā taṁ sukhaṁ vā”ti? “Dukkhaṁ, bhante”. “Yaṁ panāniccaṁ dukkhaṁ vipariṇāmadhammaṁ kallaṁ nu taṁ samanupassituṁ: ‘etaṁ mama, esohamasmi, eso me attā’”ti? “No hetaṁ, bhante”. “Tasmātiha, soṇa, yaṁ kiñci rūpaṁ atītānāgatapaccuppannaṁ ajjhattaṁ vā bahiddhā vā oḷārikaṁ vā sukhumaṁ vā hīnaṁ vā paṇītaṁ vā yaṁ dūre santike vā, sabbaṁ rūpaṁ ‘netaṁ mama, nesohamasmi, na meso attā’ti evametaṁ yathābhūtaṁ sammappaññāya daṭṭhabbaṁ. Yā kāci vedanā … yā kāci saññā … ye keci saṅkhārā … yaṁ kiñci viññāṇaṁ atītānāgatapaccuppannaṁ ajjhattaṁ vā bahiddhā vā oḷārikaṁ vā sukhumaṁ vā hīnaṁ vā paṇītaṁ vā yaṁ dūre santike vā, sabbaṁ viññāṇaṁ ‘netaṁ mama, nesohamasmi, na meso attā’ti evametaṁ yathābhūtaṁ sammappaññāya daṭṭhabbaṁ. Evaṁ passaṁ, soṇa, sutavā ariyasāvako rūpasmimpi nibbindati, vedanāyapi nibbindati, saññāyapi nibbindati, saṅkhāresupi nibbindati, viññāṇasmimpi nibbindati. Nibbindaṁ virajjati; virāgā vimuccati. Vimuttasmiṁ vimuttamiti ñāṇaṁ hoti. ‘Khīṇā jāti, vusitaṁ brahmacariyaṁ, kataṁ karaṇīyaṁ, nāparaṁ itthattāyā’ti pajānātī”ti. Sattamaṁ.",
+    "english_sn_text": "So I have heard. At one time the Buddha was staying near Rājagaha in the Bamboo Grove, the squirrels’ feeding ground. Then the householder Soṇa went up to the Buddha … The Buddha said to him: “Soṇa, there are ascetics and brahmins who—based on form, which is impermanent, suffering, and perishable—regard themselves thus: ‘I’m better’, or ‘I’m equal’, or ‘I’m worse’. What is that but a failure to see truly? Based on feeling … perception … choices … consciousness, which is impermanent, suffering, and perishable, they regard themselves thus: ‘I’m better’, or ‘I’m equal’, or ‘I’m worse’. What is that but a failure to see truly? There are ascetics and brahmins who—based on form, which is impermanent, suffering, and perishable—don’t regard themselves thus: ‘I’m better’, or ‘I’m equal’, or ‘I’m worse’. What is that but seeing truly? Based on feeling … perception … choices … consciousness, which is impermanent, suffering, and perishable, they don’t regard themselves thus: ‘I’m better’, or ‘I’m equal’, or ‘I’m worse’. What is that but seeing truly? What do you think, Soṇa? Is form permanent or impermanent?” “Impermanent, sir.” “But if it’s impermanent, is it suffering or happiness?” “Suffering, sir.” “But if it’s impermanent, suffering, and perishable, is it fit to be regarded thus: ‘This is mine, I am this, this is my self’?” “No, sir.” “Is feeling … perception … choices … consciousness permanent or impermanent?” “Impermanent, sir.” “But if it’s impermanent, is it suffering or happiness?” “Suffering, sir.” “But if it’s impermanent, suffering, and perishable, is it fit to be regarded thus: ‘This is mine, I am this, this is my self’?” “No, sir.” “So, Soṇa, you should truly see any kind of form at all—past, future, or present; internal or external; solid or subtle; inferior or superior; far or near: all form—with right understanding: ‘This is not mine, I am not this, this is not my self.’ You should truly see any kind of feeling … perception … choices … consciousness at all—past, future, or present; internal or external; solid or subtle; inferior or superior; far or near: all consciousness—with right understanding: ‘This is not mine, I am not this, this is not my self.’ Seeing this, a learned noble disciple grows disillusioned with form, feeling, perception, choices, and consciousness. Being disillusioned, desire fades away. When desire fades away they’re freed. When they’re freed, they know they’re freed. They understand: ‘Rebirth is ended, the spiritual journey has been completed, what had to be done has been done, there is nothing further for this place.’”",
+    "errors": [],
+    "kumarajiva_style_text": "",
+    "modern_psychology_text": "",
+    "notes": "",
+    "review_status": "raw"
+  }
+]

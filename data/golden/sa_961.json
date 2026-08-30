@@ -1,0 +1,53 @@
+{
+  "id": "SA_961",
+  "uid": "sa961",
+  "title": "雜阿含經  卷第三十八  婆蹉外道相應  （961）  無我",
+  "chinese_text": "如是我聞：\n\n一時，佛住王舍城迦蘭陀竹園。\n\n時，有婆蹉種出家來詣佛所，合掌問訊，問訊已，退坐一面，白佛言：「云何？瞿曇！為有我耶？」\n\n爾時，世尊默然不答。\n\n如是再三。爾時，世尊亦再三不答。\n\n爾時，婆蹉種出家作是念：「我已三問沙門瞿曇，而不見答，但當還去。」\n\n時，尊者阿難住於佛後，執扇扇佛。爾時，阿難白佛言：「世尊！彼婆蹉種出家三問，世尊何故不答？豈不增彼婆蹉種出家惡邪見，言沙門不能答其所問？」\n\n佛告阿難：「我若答言有我，則增彼先來邪見；若答言無我，彼先癡惑豈不更增癡惑？言先有我從今斷滅。若先來有我則是常見，於今斷滅則是斷見。如來離於二邊，處中說法，所謂是事有故是事有，是事起故是事生，謂緣無明行，乃至生、老、病、死、憂、悲、惱、苦滅。」\n\n佛說此經已，尊者阿難聞佛所說，歡喜奉行。",
+  "english_sa_text": "",
+  "parallels": [
+    {
+      "uid": "sa-2.195",
+      "acronym": "SA2 195",
+      "root_lang": "lzh",
+      "original_title": "無我",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "sn44.10",
+      "acronym": "SN 44.10",
+      "root_lang": "pli",
+      "original_title": "Ānandasutta",
+      "translated_title": "Ānanda Is There a Self?",
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    }
+  ],
+  "primary_sn_uid": "sn44.10",
+  "pali_text": "Atha kho vacchagotto paribbājako yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavatā saddhiṁ sammodi. Sammodanīyaṁ kathaṁ sāraṇīyaṁ vītisāretvā ekamantaṁ nisīdi. Ekamantaṁ nisinno kho vacchagotto paribbājako bhagavantaṁ etadavoca: “kiṁ nu kho, bho gotama, atthattā”ti? Evaṁ vutte, bhagavā tuṇhī ahosi. “Kiṁ pana, bho gotama, natthattā”ti? Dutiyampi kho bhagavā tuṇhī ahosi. Atha kho vacchagotto paribbājako uṭṭhāyāsanā pakkāmi. Atha kho āyasmā ānando acirapakkante vacchagotte paribbājake bhagavantaṁ etadavoca: “kiṁ nu kho, bhante, bhagavā vacchagottassa paribbājakassa pañhaṁ puṭṭho na byākāsī”ti? “Ahañcānanda, vacchagottassa paribbājakassa ‘atthattā’ti puṭṭho samāno ‘atthattā’ti byākareyyaṁ, ye te, ānanda, samaṇabrāhmaṇā sassatavādā tesametaṁ saddhiṁ abhavissa. Ahañcānanda, vacchagottassa paribbājakassa ‘natthattā’ti puṭṭho samāno ‘natthattā’ti byākareyyaṁ, ye te, ānanda, samaṇabrāhmaṇā ucchedavādā tesametaṁ saddhiṁ abhavissa. Ahañcānanda, vacchagottassa paribbājakassa ‘atthattā’ti puṭṭho samāno ‘atthattā’ti byākareyyaṁ, api nu me taṁ, ānanda, anulomaṁ abhavissa ñāṇassa uppādāya: ‘sabbe dhammā anattā’”ti? “No hetaṁ, bhante”. “Ahañcānanda, vacchagottassa paribbājakassa ‘natthattā’ti puṭṭho samāno ‘natthattā’ti byākareyyaṁ, sammūḷhassa, ānanda, vacchagottassa paribbājakassa bhiyyo sammohāya abhavissa: ‘ahuvā me nūna pubbe attā, so etarahi natthī’”ti. Dasamaṁ.",
+  "english_sn_text": "Then the wanderer Vacchagotta went up to the Buddha and exchanged greetings with him. When the greetings and polite conversation were over, he sat down to one side and said to the Buddha: “Worthy Gotama, does the self survive?” But when he said this, the Buddha kept silent. “Then does the self not survive?” But for a second time the Buddha kept silent. Then the wanderer Vacchagotta rose from his seat and left. And then, not long after Vacchagotta had left, Venerable Ānanda said to the Buddha: “Sir, why didn’t you answer Vacchagotta’s question?” “Ānanda, when Vacchagotta asked me whether the self survives, if I had answered that ‘the self survives’ I would have been siding with the ascetics and brahmins who are eternalists. When Vacchagotta asked me whether the self does not survive, if I had answered that ‘the self does not survive’ I would have been siding with the ascetics and brahmins who are annihilationists. When Vacchagotta asked me whether the self survives, if I had answered that ‘the self survives’, would that have facilitated the arising of the knowledge that all things are not-self?” “No, sir.” “When Vacchagotta asked me whether the self does not survive, if I had answered that ‘the self does not survive’, Vacchagotta—who is already confused—would have got even more confused, thinking: ‘It seems that the self that I once had no longer survives.’”",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa901-1000/sa961_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa901-1000/sa961_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛住王舍城迦兰陀竹园。\n时有婆蹉种出家来诣佛所，问讯已，白佛言：「云何？瞿昙！为有我耶？」世尊默然。如是再三，世尊亦再三不答。婆蹉念：「我已三问而不见答，但当还去。」即便离去。\n时尊者阿难在后执扇。阿难白佛：「彼三问，世尊何故不答？岂不增彼恶邪见，谓沙门不能答其所问？」\n佛告阿难：「若答『有我』，则增彼先来常见；若答『无我』，彼先痴惑岂不更增——谓先有我、从今断灭？先来有我则是常见，于今断灭则是断见。如来离于二边，处中说法：此有故彼有，此生故彼生；谓缘无明有行，乃至生、老、病、死、忧、悲、恼、苦；此无故彼无，此灭故彼灭。」\n佛说此经已，尊者阿难闻佛所说，欢喜奉行。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在王舍城迦兰陀竹园。\n当时有婆蹉种出家人来到佛处，问讯后对佛说：「瞿昙！有我吗？」世尊沉默。这样问了三次，世尊也三次不答。婆蹉心想：「我已问三次都不回答，还是回去吧。」便离去了。\n那时尊者阿难在后面执扇。阿难对佛说：「他问了三次，世尊为什么不答？岂不会加重他的恶邪见，认为沙门答不出他的问题？」\n佛告诉阿难：「若答『有我』，就会加重他原有的常见；若答『无我』，他原有的痴惑岂不更重——以为先前有我、从现在断灭？原先执有我是常见，说现在断灭是断见。如来离开二边，说中道法：此有故彼有，此生故彼生；也就是缘无明而有行，一直到生、老、病、死、忧、悲、恼、苦；此无故彼无，此灭故彼灭。」\n佛说完这部经，尊者阿难听佛所说，欢喜奉行。",
+  "notes": "本经 SC 平行表所列平行及 `raw_aligned_data.json` 内之巴利本文、Sujato 英译并用以厘定法义；求那跋陀罗汉本用于定位经文与传统术语。confidence=high：primary SN44.10；默然避常见／断见；中道缘起。汉「无我」题＝巴利 attā／anattā 问答；Sujato：does the self survive / not survive。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "high",
+  "prior_review_status": "needs_revision",
+  "similarity_to_source": 0.274,
+  "paragraph_parallel": true
+}

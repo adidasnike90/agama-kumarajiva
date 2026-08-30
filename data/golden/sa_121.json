@@ -1,0 +1,43 @@
+{
+  "id": "SA_121",
+  "uid": "sa121",
+  "title": "雜阿含經  卷第六  羅睺羅相應  （121）  死法",
+  "chinese_text": "如是我聞：\n\n一時，佛住摩拘羅山。時，有侍者比丘名曰羅陀。\n\n爾時，世尊告羅陀比丘言：「諸所有色，若過去、若未來、若現在，若內、若外，若麁、若細，若好、若醜，若遠、若近，彼一切皆是死法；所有受、想、行、識，若過去、若未來、若現在，若內、若外，若麁、若細，若好、若醜，若遠、若近，彼一切皆是死法。」\n\n佛告羅陀：「色為常耶？為無常耶？」\n\n答曰：「無常。世尊！」\n\n復問：「若無常者，是苦耶？」\n\n答曰：「是苦。世尊！」\n\n「受、想、行、識，為常、為無常耶？」\n\n答曰：「無常。世尊！」\n\n復問：「若無常者，是苦耶？」\n\n答曰：「是苦。世尊！」\n\n復問：「若無常、苦者，是變易法，多聞聖弟子寧於中見是我、異我、相在不？」\n\n答曰：「不也，世尊！」\n\n佛告羅陀：「若多聞聖弟子於此五受陰如實觀察非我、非我所者，於諸世間都無所取，無所取者無所著，無所著故自覺涅槃：『我生已盡，梵行已立，所作已作，自知不受後有。』」\n\n佛說此經已，羅陀比丘聞佛所說，歡喜奉行。",
+  "english_sa_text": "Saṁyuktāgama\n\n121. [Discourse on Being of a Mortal Nature]\n\nThus have I heard. At one time the Buddha was staying at Mount Makula, at that time being with an attendant monk by the name of Rādha.\n\nThen the Blessed One said to the monk Rādha: “Whatever bodily form, whether past, future or present, internal or external, gross or subtle, sublime or repugnant, far or near, it is all completely of a mortal nature. Whatever feeling … perception … formations … consciousness, whether past, future or present, internal or external, gross or subtle, sublime or repugnant, far or near, it is all completely of a mortal nature.”\n\nThe Buddha said to Rādha: “Is bodily form permanent or is it impermanent?”\n\nHe replied: “It is impermanent, Blessed One.”\n\n[The Buddha] asked again: “What is impermanent, is it dukkha?”\n\nHe replied: “It is dukkha, Blessed One.”\n\n[The Buddha asked]: “Is feeling … perception … formations … consciousness permanent or is it impermanent?”\n\nHe replied: “It is impermanent, Blessed One.”\n\n[The Buddha] asked again: “What is impermanent, is it dukkha?”\n\nHe replied: “It is dukkha, Blessed One.”\n\n[The Buddha] asked again: “What is impermanent, dukkha, of a nature to change, would a learned noble disciple herein regard it as the self, as distinct from the self [in the sense of being owned by it], as existing [within the self, or the self] as existing [within it]?”\n\nHe replied: “No, Blessed One.”\n\nThe Buddha said to Rādha: “If a learned noble disciple examines these five aggregates of clinging as they really are as not self and not belonging to a self, he does not cling to anything in the whole world. Not clinging to anything, he is not attached to anything. Because of not being attached to anything, he personally realizes Nirvāṇa, [knowing]: 'Birth for me has been eradicated, the holy life has been established, what had to be done has been done, I myself know that there will be no receiving of any further existence.'”\n\nWhen the Buddha had spoken this discourse, hearing what the Buddha had said the monk Rādha was delighted and received it respectfully.\n\nTranslated by Bhikkhu Anālayo. Originally published in ‘On Rādha and Views – A Translation of Saṁyukta-āgama Discourses 111 to 138 (Fascicle 6)’, Dharma Drum Journal of Buddhist Studies, 2015, vol. 17 pp. 1–42.\n\nPrepared for SuttaCentral by Seniya Ariyakumara and Ayya Vimala.",
+  "parallels": [
+    {
+      "uid": "sn23.12",
+      "acronym": "SN 23.12",
+      "root_lang": "pli",
+      "original_title": "Māradhammasutta",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    }
+  ],
+  "primary_sn_uid": "sn23.12",
+  "pali_text": "Sāvatthinidānaṁ. Ekamantaṁ nisinno kho āyasmā rādho bhagavantaṁ etadavoca: “‘māradhammo, māradhammo’ti, bhante, vuccati. Katamo nu kho, bhante, māradhammo”ti? “Rūpaṁ kho, rādha, māradhammo, vedanā māradhammo, saññā māradhammo, saṅkhārā māradhammo, viññāṇaṁ māradhammo. Evaṁ passaṁ …pe… nāparaṁ itthattāyāti pajānātī”ti. Dutiyaṁ.",
+  "english_sn_text": "At Sāvatthī. Seated to one side, Venerable Rādha said to the Buddha: “Sir, they speak of ‘Māra nature’. What is of Māra nature?” “Rādha, form is of Māra nature. Feeling, perception, choices, and consciousness are of Māra nature. Seeing this … They understand: ‘… there is nothing further for this place.’”",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa101-200/sa121_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa101-200/sa121_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时佛住摩拘罗山，有侍者比丘名曰罗陀。\n尔时世尊告罗陀比丘言：诸所有色，过去、未来、现在，内外、粗细、好丑、远近，彼一切皆是魔法；受、想、行、识亦复如是。\n佛告罗陀：色为常耶？为无常耶？答曰：无常，世尊。复问：若无常者，是苦耶？答曰：是苦，世尊。受、想、行、识亦如是问答。复问：若无常、苦者是变易法，多闻圣弟子宁于中见是我、异我、相在不？答曰：不也，世尊。\n佛告罗陀：若多闻圣弟子于此五受阴如实观察非我、非我所者，于诸世间都无所取；无所取者无所著，无所著故自觉涅槃：我生已尽，梵行已立，所作已作，自知不受后有。\n佛说此经已，罗陀比丘闻佛所说，欢喜奉行。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在摩拘罗山，身边有位侍者比丘名叫罗陀。\n那时世尊对罗陀比丘说：一切色，不论过去、未来、现在，内在外在、粗糙细微、美好丑陋、远近，全都属于魔（是死之法）；受、想、行、识也是一样。\n佛问罗陀：色是常还是无常？答：无常，世尊。又问：无常的是苦吗？答：是苦，世尊。对受、想、行、识也这样一问一答。又问：既然无常、苦，是会变易的法，多闻的圣弟子会在其中看到「这是我」、「我在此之外」、「我与它互在」吗？答：不会，世尊。\n佛告诉罗陀：多闻的圣弟子若在这五受阴上如实观察到不是我、不是我所有，那么对世间的一切都无所取；无所取就无所执著，无所执著就自己觉证涅槃：我的生已尽，梵行已立，该做的已做，自知不再受后有。\n佛说完这部经，罗陀比丘听佛所说，欢喜奉行。",
+  "notes": "据 SN23.12（Māradhamma）：「rūpaṁ… māradhammaṁ」——色等五阴是「魔法」（属于魔者、魔之所摄）。汉译作「死法」，盖以 māra 训「死」而略其「属魔」之义；今文言作「魔法」以合巴利，白话兼出「是死之法」以存旧译语面。与 SA_120（魔）为一对：一言其体是魔，一言其属魔。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "high",
+  "similarity_to_source": 0.427,
+  "prior_review_status": "needs_revision",
+  "paragraph_parallel": true
+}

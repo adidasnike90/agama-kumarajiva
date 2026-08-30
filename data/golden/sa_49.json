@@ -1,0 +1,53 @@
+{
+  "id": "SA_49",
+  "uid": "sa49",
+  "title": "雜阿含經  卷第二  陰相應  （四九）  阿難",
+  "chinese_text": "如是我聞：\n\n一時，佛住舍衛國祇樹給孤獨園。\n\n爾時，世尊告尊者阿難曰：「若信心長者、長者子來問汝言：『於何等法知其生滅？』汝當云何答乎？」\n\n阿難白佛：「世尊！若有長者、長者子來問我者，我當答言：『知色是生滅法，知受、想、行、識是生滅法。』世尊！若長者、長者子如是問者，我當如是答。」\n\n佛告阿難：「善哉！善哉！應如是答。所以者何？色是生滅法，受、想、行、識是生滅法。知色是生滅法者，名為知色；知受、想、行、識是生滅法者，名為知識。」\n\n佛說此經已，諸比丘聞佛所說，歡喜奉行。",
+  "english_sa_text": "",
+  "parallels": [
+    {
+      "uid": "sn22.38",
+      "acronym": "SN 22.38",
+      "root_lang": "pli",
+      "original_title": "Dutiyaānandasutta",
+      "translated_title": "Ānanda (2)",
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "sn22.37",
+      "acronym": "SN 22.37",
+      "root_lang": "pli",
+      "original_title": "Ānandasutta",
+      "translated_title": "Ānanda (1)",
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    }
+  ],
+  "primary_sn_uid": "sn22.37",
+  "pali_text": "Sāvatthinidānaṁ. Atha kho āyasmā ānando …pe… ekamantaṁ nisinnaṁ kho āyasmantaṁ ānandaṁ bhagavā etadavoca: “Sace taṁ, ānanda, evaṁ puccheyyuṁ: ‘katamesaṁ, āvuso ānanda, dhammānaṁ uppādo paññāyati, vayo paññāyati, ṭhitassa aññathattaṁ paññāyatī’ti? Evaṁ puṭṭho tvaṁ, ānanda, kinti byākareyyāsī”ti? “Sace maṁ, bhante, evaṁ puccheyyuṁ: ‘katamesaṁ, āvuso ānanda, dhammānaṁ uppādo paññāyati, vayo paññāyati, ṭhitassa aññathattaṁ paññāyatī’ti? Evaṁ puṭṭhohaṁ, bhante, evaṁ byākareyyaṁ: ‘rūpassa kho, āvuso, uppādo paññāyati, vayo paññāyati, ṭhitassa aññathattaṁ paññāyati. Vedanāya … saññāya … saṅkhārānaṁ … viññāṇassa uppādo paññāyati, vayo paññāyati, ṭhitassa aññathattaṁ paññāyati. Imesaṁ kho, āvuso, dhammānaṁ uppādo paññāyati, vayo paññāyati, ṭhitassa aññathattaṁ paññāyatī’ti. Evaṁ puṭṭhohaṁ, bhante, evaṁ byākareyyan”ti. “Sādhu sādhu, ānanda. Rūpassa kho, ānanda, uppādo paññāyati, vayo paññāyati, ṭhitassa aññathattaṁ paññāyati. Vedanāya … saññāya … saṅkhārānaṁ … viññāṇassa uppādo paññāyati, vayo paññāyati, ṭhitassa aññathattaṁ paññāyati. Imesaṁ kho, ānanda, dhammānaṁ uppādo paññāyati, vayo paññāyati, ṭhitassa aññathattaṁ paññāyatīti. Evaṁ puṭṭho tvaṁ, ānanda, evaṁ byākareyyāsī”ti. Pañcamaṁ.",
+  "english_sn_text": "At Sāvatthī. And then Venerable Ānanda … sitting to one side, the Buddha said to him: “Ānanda, suppose they were to ask you: ‘Reverend Ānanda, what are the things for which arising is evident, vanishing is evident, and change while persisting is evident?’ How would you answer?” “Sir, suppose they were to ask me: ‘What are the things for which arising is evident, vanishing is evident, and change while persisting is evident?’ I’d answer like this: ‘Reverend, the arising of form is evident, its vanishing is evident, and change while persisting is evident. The arising of feeling … perception … choices … consciousness is evident, its vanishing is evident, and change while persisting is evident. These are the things for which arising is evident, vanishing is evident, and change while persisting is evident.’ That’s how I’d answer such a question.” “Good, good, Ānanda. The arising of form is evident, its vanishing is evident, and change while persisting is evident. The arising of feeling … perception … choices … consciousness is evident, its vanishing is evident, and change while persisting is evident. These are the things for which arising is evident, vanishing is evident, and change while persisting is evident. That’s how you should answer such a question.”",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa1-100/sa49_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa1-100/sa49_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时佛在舍卫国祇树给孤独园。\n尔时世尊告尊者阿难：若有信心长者、长者子来问汝言：于何等法知其生灭？汝当云何答？阿难白佛：若有人如是问，我当答言：知色是生灭法，知受、想、行、识是生灭法。佛告阿难：善哉，善哉！应如是答。所以者何？色是生灭法，受、想、行、识是生灭法。知色生灭，是名知色；知识生灭，是名知识。\n佛说此经已，诸比丘闻佛所说，欢喜奉行。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在舍卫国祇树给孤独园。\n那时，世尊告诉尊者阿难：如果有信心的长者、长者子来问你：在哪些法上可以了知其生灭？你应当怎样回答？阿难对佛说：若有人这样问，我应当回答：了知色是生灭法，了知受、想、行、识是生灭法。佛告诉阿难：很好，很好！应当这样答。为什么？因为色是生灭法，受、想、行、识是生灭法。了知色的生灭，才叫做知色；了知识的生灭，才叫做知识。\n佛说完这部经，比丘们听佛所说，都欢喜奉行。",
+  "notes": "据 SN22.37：知五蕴生灭乃名为知。删赘复，保留问答结构。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "confidence": "high",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "prior_review_status": "gold",
+  "revision_reason": null,
+  "similarity_to_source": 0.445
+}

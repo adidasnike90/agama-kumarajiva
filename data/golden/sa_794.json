@@ -1,0 +1,56 @@
+{
+  "id": "SA_794",
+  "uid": "sa794",
+  "title": "雜阿含經  卷第三十  聖道分相應  （794）  沙門及沙門果",
+  "chinese_text": "如是我聞：\n\n一時，佛住舍衛國祇樹給孤獨園。\n\n爾時，世尊告諸比丘：「有沙門及沙門法。諦聽，善思，當為汝說。何等為沙門法？謂八聖道——正見乃至正定。何等為沙門？若成就此法者，是名沙門。」\n\n佛說此經已，諸比丘聞佛所說，歡喜奉行。",
+  "english_sa_text": "",
+  "parallels": [
+    {
+      "uid": "sa798",
+      "acronym": "SA 798",
+      "root_lang": "lzh",
+      "original_title": "沙門法沙門義",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "sn45.36",
+      "acronym": "SN 45.36",
+      "root_lang": "pli",
+      "original_title": "Dutiyasāmaññasutta",
+      "translated_title": "Asceticism (2)",
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    }
+  ],
+  "primary_sn_uid": "sn45.36",
+  "pali_text": "Sāvatthinidānaṁ. “Sāmaññañca vo, bhikkhave, desessāmi, sāmaññatthañca. Taṁ suṇātha. Katamañca kho, bhikkhave, sāmaññaṁ? Ayameva ariyo aṭṭhaṅgiko maggo, seyyathidaṁ— sammādiṭṭhi …pe… sammāsamādhi. Idaṁ vuccati, bhikkhave, sāmaññaṁ. Katamo ca, bhikkhave, sāmaññattho? Yo kho, bhikkhave, rāgakkhayo dosakkhayo mohakkhayo— ayaṁ vuccati, bhikkhave, sāmaññattho”ti. Chaṭṭhaṁ.",
+  "english_sn_text": "At Sāvatthī. “Mendicants, I will teach you the ascetic life and the goal of the ascetic life. Listen … And what is the ascetic life? It is simply this noble eightfold path, that is: right view, right purpose, right speech, right action, right livelihood, right effort, right mindfulness, and right immersion. This is called the ascetic life. And what is the goal of the ascetic life? The ending of greed, hate, and delusion. This is called the goal of the ascetic life.”",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa701-800/sa794_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa701-800/sa794_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛住舍卫国祇树给孤独园。\n佛告比丘：「我当说沙门与沙门法。谛听。沙门法者，八圣道支——正见、正志、正语、正业、正命、正精进、正念、正定。成就此道者，是名沙门。」\n佛说此经已，诸比丘闻佛所说，欢喜奉行。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在舍卫国祇树给孤独园。\n佛告诉比丘们：「我要说沙门和沙门法。仔细听。沙门法，就是八圣道支——正见、正志、正语、正业、正命、正精进、正念、正定。成就这条道的人，叫做沙门。」\n佛说完这部经，比丘们听佛所说，都欢喜奉行。",
+  "notes": "本经 SC 平行表所列平行及 `raw_aligned_data.json` 内之巴利本文、Sujato 英译并用以厘定法义；求那跋陀罗汉本用于定位经文与传统术语。confidence=high：primary SN45.36 Sāmañña（沙门法／沙门义之姊妹；本经举「沙门」为成就道者，义近 SN 之 sāmañña 实践面）。卷属圣道分；与后「安那般那」卷标错置无涉。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "high",
+  "prior_review_status": "needs_revision",
+  "similarity_to_source": 0.243,
+  "paragraph_parallel": true,
+  "quality_gate_reasons": [
+    "lit_mod_gap=0.305>=0.1"
+  ]
+}

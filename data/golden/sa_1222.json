@@ -1,0 +1,63 @@
+{
+  "id": "SA_1222",
+  "uid": "sa1222",
+  "title": "雜阿含經  卷第五十  剎利相應  （1222）  鳥巢",
+  "chinese_text": "如是我聞：\n\n一時，佛住舍衛國祇樹給孤獨園。\n\n爾時，世尊告諸比丘：「過去世時，天、阿修羅對陣鬪戰，阿修羅勝，諸天不如。時，天帝釋軍壞退散，極生恐怖，乘車北馳，還歸天宮。\n\n「須彌山下道逕叢林，林下有金翅鳥巢，多有金翅鳥子。爾時，帝釋恐車馬過，踐殺鳥子，告御者言：『可回車還，勿殺鳥子。』御者白王：『阿修羅軍後來逐人，若回還者，為彼所困。』帝釋告言：『寧當回還為阿修羅殺，不以軍眾蹈殺眾生。』於道，御者轉乘南向。阿修羅軍遙見帝釋轉乘而還，謂為戰策，即還退走，眾大恐怖，壞陣流散，歸阿修羅宮。」\n\n佛告諸比丘：「彼天帝釋於三十三天為自在王，以慈心故，威力摧伏阿修羅軍，亦常讚嘆慈心功德。汝等比丘正信非家，出家學道，當修慈心，亦應讚嘆慈心功德。」\n\n佛說此經已，諸比丘聞佛所說，歡喜奉行。",
+  "english_sa_text": "",
+  "parallels": [
+    {
+      "uid": "ja31",
+      "acronym": "Ja 31",
+      "root_lang": "pli",
+      "original_title": "Kulāvakajātaka",
+      "translated_title": "Kulavaka Jātaka",
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "sa-2.49",
+      "acronym": "SA2 49",
+      "root_lang": "lzh",
+      "original_title": "鳥巢",
+      "translated_title": "Nestlings",
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "sn11.6",
+      "acronym": "SN 11.6",
+      "root_lang": "pli",
+      "original_title": "Kulāvakasutta",
+      "translated_title": "The Bird Nests",
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    }
+  ],
+  "primary_sn_uid": "sn11.6",
+  "pali_text": "Sāvatthiyaṁ. “Bhūtapubbaṁ, bhikkhave, devāsurasaṅgāmo samupabyūḷho ahosi. Tasmiṁ kho pana, bhikkhave, saṅgāme asurā jiniṁsu, devā parājiniṁsu. Parājitā ca kho, bhikkhave, devā apāyaṁsveva uttarenamukhā, abhiyaṁsveva ne asurā. Atha kho, bhikkhave, sakko devānamindo mātali saṅgāhakaṁ gāthāya ajjhabhāsi: ‘Kulāvakā mātali simbalismiṁ, Īsāmukhena parivajjayassu; Kāmaṁ cajāma asuresu pāṇaṁ, Māyime dijā vikulāvakā ahesun’ti. ‘Evaṁ, bhaddantavā’ti kho, bhikkhave, mātali saṅgāhako sakkassa devānamindassa paṭissutvā sahassayuttaṁ ājaññarathaṁ paccudāvattesi. Atha kho, bhikkhave, asurānaṁ etadahosi: ‘paccudāvatto kho dāni sakkassa devānamindassa sahassayutto ājaññaratho. Dutiyampi kho devā asurehi saṅgāmessantī’ti bhītā asurapurameva pāvisiṁsu. Iti kho, bhikkhave, sakkassa devānamindassa dhammena jayo ahosī”ti.",
+  "english_sn_text": "At Sāvatthī. “Once upon a time, mendicants, a battle was fought between the gods and the titans. In that battle the titans won and the gods lost. Defeated, the gods fled north with the titans in pursuit. Then Sakka, lord of gods, addressed his chariot handler Mātali in verse: ‘Mātali, don’t ram the bird nests in the Red Silk-Cotton Woods with your draft-pole. I’d rather give up our lives to the titans than deprive these birds of their nests.’ ‘Yes, lord,’ replied Mātali. And he turned the chariot back around, with its team of a thousand thoroughbreds. Then the titans thought, ‘Now Sakka’s chariot has turned back. The titans will have to fight the gods a second time!’ Terrified, they retreated right away to the citadel of the titans. And that’s how Sakka came to win victory by principle.”",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa1201-1300/sa1222_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa1201-1300/sa1222_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛住舍卫国祇树给孤独园。\n尔时世尊告诸比丘：「过去世时，天与阿修罗战，阿修罗胜，诸天不如。帝释军坏，乘车北驰。须弥山下林中有鸟巢。帝释告御者摩得梨：「宁回车为阿修罗所杀，勿以车辕坏鸟巢。」御者奉命回车。阿修罗见回，谓有战策，大怖退走，归阿修罗宫。帝释以法得胜。」\n「诸比丘！天帝释尚以慈心护生，亦赞慈德。汝等正信出家，当修慈心，亦应赞叹慈心。」\n佛说此经已，诸比丘闻佛所说，欢喜奉行。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在舍卫国祇树给孤独园。\n这时世尊告诉比丘们：「过去世时，天与阿修罗交战，阿修罗胜，诸天败了。帝释军队溃散，乘车向北逃。须弥山下林中有鸟巢。帝释告诉御者摩得梨：「宁可回车被阿修罗杀掉，也不要用车辕撞坏鸟巢。」御者遵命回车。阿修罗见他回转，以为另有战策，大为恐怖而退走，逃回阿修罗宫。帝释因法而获胜。」\n「比丘们！天帝释尚且以慈心护生，也赞叹慈德。你们正信出家，应当修慈心，也应赞叹慈心。」\n佛说完这部经，比丘们听佛所说，都欢喜奉行。",
+  "notes": "本经 SC 平行表所列平行及 `raw_aligned_data.json` 内之巴利本文、Sujato 英译并用以厘定法义；求那跋陀罗汉本用于定位经文与传统术语。confidence=high：primary SN11.6。据 SN：不毁鸟巢而回车，阿修罗误惧而退；以法得胜。劝比丘修慈。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "high",
+  "prior_review_status": "needs_revision",
+  "similarity_to_source": 0.14,
+  "paragraph_parallel": true
+}

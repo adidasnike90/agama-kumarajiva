@@ -1,0 +1,33 @@
+{
+  "id": "SA_668",
+  "uid": "sa668",
+  "title": "雜阿含經  卷第二十七  根力相應  （668）  四力",
+  "chinese_text": "如是我聞：\n\n一時，佛住舍衛國祇樹給孤獨園。\n\n爾時，世尊告諸比丘……如上說。差別者：「若最勝施者，謂法施。最勝愛語者，謂善男子樂聞，應時說法。行利最勝者，諸不信者能令入信，建立於信；立戒者以淨戒，慳者以施，惡智者以正智令入建立。同利最勝者，謂阿羅漢以阿羅漢、阿那含以阿那含、斯陀含以斯陀含、須陀洹以須陀洹、淨戒者以淨而授於彼。」\n\n佛說此經已，諸比丘聞佛所說，歡喜奉行。",
+  "english_sa_text": "",
+  "parallels": [],
+  "primary_sn_uid": null,
+  "pali_text": "",
+  "english_sn_text": "",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa601-700/sa668_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa601-700/sa668_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛住舍卫国祇树给孤独园。\n佛告比丘：「有四摄事——布施、爱语、利行、同事。」\n「最胜布施者，谓法施。最胜爱语者，谓应时为乐闻善男子说法。」\n「最胜利行者：令不信者入信、立信；持戒者以净戒，悭者以施，恶慧者以正智，令入、令立。」\n「最胜同事者：阿罗汉与阿罗汉，阿那含与阿那含，斯陀含与斯陀含，须陀洹与须陀洹，净戒者与净戒者——各以同德授彼。」\n佛说此经已，诸比丘闻佛所说，欢喜奉行。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在舍卫国祇树给孤独园。\n佛告比丘：「有四摄事——布施、爱语、利行、同事。」\n「最殊胜的布施，是法施。最殊胜的爱语，是应时为乐于听法的善男子说法。」\n「最殊胜的利行：让不信的人进入信仰、安立于信；对持戒的人以净戒，对悭吝的人以布施，对恶慧的人以正智，使他们进入、安立。」\n「最殊胜的同事：阿罗汉与阿罗汉，阿那含与阿那含，斯陀含与斯陀含，须陀洹与须陀洹，净戒者与净戒者——各以相同的德行授予对方。」\n佛说完这部经，比丘们听佛所说，都欢喜奉行。",
+  "notes": "SC 于本经未列可靠巴利平行，故唯以汉本为底，参同相应之巴利定型语厘义；依项目规约「无可靠平行时 confidence 降为 medium/low」。confidence=medium：四摄最胜分别；承 SA_667 摄力。gold_reconstructed：底本「如上说」交叉指示，补四摄开题。",
+  "review_status": "gold_reconstructed",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "medium",
+  "prior_review_status": "needs_revision",
+  "reconstruction_basis": "如上说 → 四摄最胜 from prior 摄力",
+  "similarity_to_source": 0.153,
+  "paragraph_parallel": true
+}

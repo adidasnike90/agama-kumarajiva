@@ -1,0 +1,53 @@
+{
+  "id": "SA_717",
+  "uid": "sa717",
+  "title": "雜阿含經  卷第二十九  覺支相應  （717）  一法",
+  "chinese_text": "如是我聞：\n\n一時，佛住舍衛國祇樹給孤獨園。\n\n爾時，世尊告諸比丘：「於外法中，我不見一法，未生惡不善法令生，已生者重生令增廣，未生善法令不生，已生者令退，如惡知識、惡伴黨。惡知識、惡伴黨者，未生貪欲蓋令生，已生者重生令增廣。未生瞋恚、睡眠、掉悔、疑蓋令生，已生者重生令增廣。未生念覺分令不生，已生者令退，未生擇法、精進、喜、猗、定、捨覺分令不生，已生者令退。\n\n「諸比丘！我不見一法，未生惡不善法令不生，已生者令斷，未生善法令生，已生者重生令增廣，所謂善知識、善伴黨、善隨從者，若善知識、善伴黨、善隨從者，未生貪欲蓋令不生，已生者令斷。未生瞋恚、睡眠、掉悔、疑蓋令不生，已生者令斷，未生念覺分令生，已生者重生令增廣。未生擇法、精進、喜、猗、定、捨覺分令生，已生者重生令增廣。」\n\n佛說此經已，諸比丘聞佛所說，歡喜奉行。",
+  "english_sa_text": "",
+  "parallels": [
+    {
+      "uid": "sn46.50",
+      "acronym": "SN 46.50",
+      "root_lang": "pli",
+      "original_title": "Bāhiraṅgasutta",
+      "translated_title": "External Factor",
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "sn46.49",
+      "acronym": "SN 46.49",
+      "root_lang": "pli",
+      "original_title": "Ajjhattikaṅgasutta",
+      "translated_title": "Internal Factor",
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    }
+  ],
+  "primary_sn_uid": "sn46.49",
+  "pali_text": "“Ajjhattikaṁ, bhikkhave, aṅganti karitvā nāññaṁ ekaṅgampi samanupassāmi sattannaṁ bojjhaṅgānaṁ uppādāya, yathayidaṁ—bhikkhave, yonisomanasikāro. Yonisomanasikārasampannassetaṁ, bhikkhave, bhikkhuno pāṭikaṅkhaṁ—satta bojjhaṅge bhāvessati, satta bojjhaṅge bahulīkarissati. Kathañca, bhikkhave, bhikkhu yonisomanasikārasampanno satta bojjhaṅge bhāveti, satta bojjhaṅge bahulīkaroti? Idha, bhikkhave, bhikkhu satisambojjhaṅgaṁ bhāveti vivekanissitaṁ …pe… upekkhāsambojjhaṅgaṁ bhāveti vivekanissitaṁ virāganissitaṁ nirodhanissitaṁ vossaggapariṇāmiṁ. Evaṁ kho, bhikkhave, bhikkhu yonisomanasikārasampanno satta bojjhaṅge bhāveti, satta bojjhaṅge bahulīkarotī”ti. Navamaṁ.",
+  "english_sn_text": "“Taking into account interior factors, mendicants, I do not see a single one that gives rise to the seven awakening factors like rational application of mind. …”",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa701-800/sa717_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa701-800/sa717_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛住舍卫国祇树给孤独园。\n佛告比丘：「于外法中，我不见一法，能令未生恶不善法生、已生者增广，未生善法不生、已生者退，如恶知识、恶伴党。」\n「恶知识者：未生五盖令生，已生令增；未生七觉支令不生，已生令退。」\n「我不见一法，能令未生恶法不生、已生者断，未生善法生、已生者增广，如善知识、善伴党、善随从。」\n「善知识者：未生五盖令不生，已生令断；未生七觉支令生，已生令增。」\n佛说此经已，诸比丘闻佛所说，欢喜奉行。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在舍卫国祇树给孤独园。\n佛告诉比丘：「在外法之中，我看不见有哪一法，能使未生的恶不善法生起、已生的增长，未生的善法不生、已生的退失，像恶知识、恶同伴这样。」\n「恶知识：未生的五盖使它生起，已生的使它增长；未生的七觉支使它不生，已生的使它退失。」\n「我看不见有哪一法，能使未生的恶法不生、已生的断除，未生的善法生起、已生的增长，像善知识、善同伴、善随从这样。」\n「善知识：未生的五盖使它不生，已生的使它断除；未生的七觉支使它生起，已生的使它增长。」\n佛说完这部经，比丘们听佛所说，都欢喜奉行。",
+  "notes": "本经 SC 平行表所列平行及 `raw_aligned_data.json` 内之巴利本文、Sujato 英译并用以厘定法义；求那跋陀罗汉本用于定位经文与传统术语。confidence=high：primary SN46.50 Bāhiraṅga（外支＝kalyāṇamitta）；与 SA_716 内／外相对。罗什风压缩对称句。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "high",
+  "prior_review_status": "needs_revision",
+  "similarity_to_source": 0.24,
+  "paragraph_parallel": true
+}

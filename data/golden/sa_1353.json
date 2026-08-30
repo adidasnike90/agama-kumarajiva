@@ -1,0 +1,32 @@
+{
+  "id": "SA_1353",
+  "uid": "sa1353",
+  "title": "雜阿含經  卷第五十  林相應  （1353）  頻陀",
+  "chinese_text": "如是我聞：\n\n一時，佛住迦蘭陀竹園。\n\n時，有異比丘住頻陀山。\n\n爾時，山林大火卒起，舉山洞然。時，有俗人而說偈言：\n\n「今此頻陀山，　　大火洞熾然，\n\n　焚燒彼竹林，　　亦燒竹苑實。」\n\n時，彼比丘作是念：「今彼俗人能說此偈，我今何不說偈答之？」即說偈言：\n\n「一切有熾然，　　無慧能救滅，\n\n　焚燒諸受欲，　　亦燒不作苦。」\n\n時，彼比丘說此偈已，默然而住。",
+  "english_sa_text": "",
+  "parallels": [],
+  "primary_sn_uid": null,
+  "pali_text": "",
+  "english_sn_text": "",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa1301-1400/sa1353_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa1301-1400/sa1353_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛住迦兰陀竹园。\n时有异比丘住频陀山。山林大火猝起，举山洞然。\n有俗人说偈：「今此频陀山，大火洞然炽；焚烧彼竹林，亦烧竹苑实。」\n比丘念：「彼俗人能说偈，我何不答？」即说偈：「一切有炽然，无慧莫能灭；焚烧诸爱欲，亦灭不作苦。」\n比丘说此偈已，默然而住。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在迦兰陀竹园。\n当时有一位比丘住在频陀山。山林大火忽然烧起，整座山一片通红。\n有个俗人说偈：「如今这座频陀山，大火洞然炽盛；烧掉那边的竹林，也烧掉竹苑的果实。」\n比丘心想：「那俗人都能说偈，我为什么不答？」便说偈：「一切有为都在炽然，没有智慧便不能灭；烧掉各种爱欲，也灭掉造作之苦。」\n比丘说完这首偈，便默然而住。",
+  "notes": "SC 于本经未列可靠巴利平行，故唯以汉本为底，参林相应／Vanasaṃyutta 定型语及早期教理厘义；依项目规约「无可靠平行时 confidence 降为 medium/low」。求那跋陀罗汉本用于定位经文与传统术语。confidence=medium：无 SC 专经。俗人咏山火，比丘以「一切有炽然」答——近火喻／āditta 义；「不作苦」作灭除造作之苦解，非「不喜欢」。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "medium",
+  "prior_review_status": "needs_revision",
+  "similarity_to_source": 0.244,
+  "paragraph_parallel": true
+}

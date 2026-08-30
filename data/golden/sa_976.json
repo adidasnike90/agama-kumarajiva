@@ -1,0 +1,43 @@
+{
+  "id": "SA_976",
+  "uid": "sa976",
+  "title": "雜阿含經  卷第三十九  雜相應  （976）  尸婆",
+  "chinese_text": "如是我聞：\n\n一時，佛住王舍城迦蘭陀竹園。\n\n時，有外道出家，名曰尸婆，來詣佛所，與世尊面相問訊慰勞已，退坐一面，白佛言：「瞿曇！云何為學？所謂學者，云何學？」\n\n佛告尸婆：「學其所學，故名為學。」\n\n尸婆白佛：「何所學？」\n\n佛告尸婆：「隨時學增上戒，增上意，學增上慧。」\n\n尸婆白佛：「若阿羅漢比丘諸漏已盡，所作已作，捨諸重擔，逮得己利，盡諸有結，正智善解脫，當於爾時，復何所學？」\n\n佛告尸婆：「若阿羅漢比丘諸漏已盡，乃至正智善解脫，當於爾時，覺知貪欲永盡無餘；覺知瞋恚、愚癡永盡無餘，故不復更造諸惡，常行諸善。尸婆！是名為學其所學。」\n\n時，尸婆外道出家聞佛所說，歡喜隨喜，從坐起去。",
+  "english_sa_text": "",
+  "parallels": [
+    {
+      "uid": "sa-2.210",
+      "acronym": "SA2 210",
+      "root_lang": "lzh",
+      "original_title": "尸婆",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    }
+  ],
+  "primary_sn_uid": null,
+  "pali_text": "",
+  "english_sn_text": "",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa901-1000/sa976_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa901-1000/sa976_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛住王舍城迦兰陀竹园。\n外道尸婆问：「云何为学？」佛告：「学其所学，故名为学。」问：「何所学？」答：「随时学增上戒、增上心、增上慧。」\n复问：「阿罗汉漏尽、所作已作、正智解脱，复何所学？」佛告：「尔时觉知贪瞋痴永尽无余，故不复造恶、常行诸善——是名学其所学。」\n尸婆欢喜随喜而去。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在王舍城迦兰陀竹园。\n外道尸婆问：「什么叫作学？」佛说：「学他所该学的，所以叫学。」问：「学什么？」答：「随时学增上戒、增上心、增上慧。」\n又问：「阿罗汉漏已尽、所作已作、正智解脱，还学什么？」佛说：「那时觉知贪瞋痴永远尽净，所以不再造恶、常行诸善——这叫学他所该学的。」\n尸婆欢喜随喜后离去。",
+  "notes": "SC 于本经未列可靠巴利平行，故唯以汉本为底，参同相应之巴利定型语厘义；依项目规约「无可靠平行时 confidence 降为 medium/low」。confidence=medium：无可靠巴利；三增上学及罗汉不造恶常行善，依汉。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "medium",
+  "prior_review_status": "needs_revision",
+  "similarity_to_source": 0.088,
+  "paragraph_parallel": true
+}

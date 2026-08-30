@@ -1,0 +1,63 @@
+{
+  "id": "SA_1155",
+  "uid": "sa1155",
+  "title": "雜阿含經  卷第五十  婆羅門相應  （1155）  返戾",
+  "chinese_text": "如是我聞：\n\n一時，佛在拘薩羅人間遊行，至舍衛國祇樹給孤獨園。\n\n時，有婆羅門名曰違義，聞沙門瞿曇從拘薩羅國人間遊行，至舍衛國祇樹給孤獨園。聞已，作是念：「我當往詣沙門瞿曇所，聞所說法，當反其義。」作是念已，往詣精舍，至世尊所。\n\n爾時，世尊無量眷屬圍繞說法。世尊遙見違義婆羅門來，即默然住。\n\n違義婆羅門白佛言：「瞿曇說法，樂欲聞之！」\n\n爾時，世尊即說偈言：\n\n「違義婆羅門，　　未能解深義，\n\n　內懷嫉恚心，　　欲為法留難。\n\n　調伏違反心，　　諸不信樂意，\n\n　息諸障礙垢，　　則解深妙說。」\n\n時，違義婆羅門作是念：「沙門瞿曇已知我心。」聞佛所說，歡喜隨喜，從座起而去。",
+  "english_sa_text": "",
+  "parallels": [
+    {
+      "uid": "sa-3.7",
+      "acronym": "SA3 7",
+      "root_lang": "lzh",
+      "original_title": "返戾",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "sa-2.78",
+      "acronym": "SA2 78",
+      "root_lang": "lzh",
+      "original_title": "返戾",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "sn7.16",
+      "acronym": "SN 7.16",
+      "root_lang": "pli",
+      "original_title": "Paccanīkasutta",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    }
+  ],
+  "primary_sn_uid": "sn7.16",
+  "pali_text": "Sāvatthinidānaṁ. Tena kho pana samayena paccanīkasāto nāma brāhmaṇo sāvatthiyaṁ paṭivasati. Atha kho paccanīkasātassa brāhmaṇassa etadahosi: “yannūnāhaṁ yena samaṇo gotamo tenupasaṅkameyyaṁ. Yaṁ yadeva samaṇo gotamo bhāsissati taṁ tadevassāhaṁ paccanīkāssan”ti. Tena kho pana samayena bhagavā abbhokāse caṅkamati. Atha kho paccanīkasāto brāhmaṇo yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṁ caṅkamantaṁ etadavoca: “bhaṇa samaṇadhamman”ti. “Na paccanīkasātena, suvijānaṁ subhāsitaṁ; Upakkiliṭṭhacittena, sārambhabahulena ca. Yo ca vineyya sārambhaṁ, appasādañca cetaso; Āghātaṁ paṭinissajja, sa ve jaññā subhāsitan”ti. Evaṁ vutte, paccanīkasāto brāhmaṇo bhagavantaṁ etadavoca: “abhikkantaṁ, bho gotama, abhikkantaṁ, bho gotama …pe… upāsakaṁ maṁ bhavaṁ gotamo dhāretu ajjatagge pāṇupetaṁ saraṇaṁ gatan”ti.",
+  "english_sn_text": "At Sāvatthī. Now at that time a brahmin named Contraphile, who loved contradiction, was residing in Sāvatthī. Then Contraphile thought, “Why don’t I go to the ascetic Gotama and contradict everything he says?” At that time the Buddha was walking mindfully in the open air. Then the brahmin Contraphile went up to the Buddha, and said to him as he was walking, “Ascetic, preach the Dhamma.” “Fine words aren’t easy to understand by a lover of contradiction, whose mind is tainted and full of aggression. But when you’ve dispelled aggression, and your suspicious mind, and you’ve got rid of resentment, then you’ll understand fine words.” When he had spoken, the brahmin Contraphile said to the Buddha, “Excellent, worthy Gotama! Excellent! … From this day forth, may the worthy Gotama remember me as a lay follower who has gone for refuge for life.”",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa1101-1200/sa1155_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa1101-1200/sa1155_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛在拘萨罗人间游行，至舍卫国祇树给孤独园。\n时有婆罗门名违义，闻沙门瞿昙至此，作是念：「我当往听其法，悉反其义。」即便往诣。世尊正为无量众说法，遥见彼来，默然住。\n违义白佛：「瞿昙说法，我乐欲闻！」\n世尊说偈：「好违义者，难解深说；内怀嫉恚，欲作留难。若调违反心，息不信乐；除诸障垢，乃解深妙。」\n违义念：「沙门已知我心。」闻已欢喜，从座起而去。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛在拘萨罗人间游行，来到舍卫国祇树给孤独园。\n有个名叫违义的婆罗门，听说沙门瞿昙到了，心想：「我去听他说法，句句反驳。」于是前来。佛正为大众说法，远远看见他来，便默然停下。\n违义对佛说：「瞿昙说法，我想听！」\n佛说偈：「爱抬杠的人，难懂深法；心里怀着嫉恚，只想刁难。若调伏好辩之心，息掉不信；除障去垢，才能领会深妙。」\n违义心想：「沙门已经知道我的心。」听完欢喜，起身离去。",
+  "notes": "本经 SC 平行表所列平行及 `raw_aligned_data.json` 内之巴利本文、Sujato 英译并用以厘定法义；求那跋陀罗汉本用于定位经文与传统术语。confidence=high：primary SN7.16。据 SN：好违义者难解善说；除瞋嫉与疑，乃解深语。汉「返戾／违义」与 Contraphile 同轨。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "high",
+  "prior_review_status": "needs_revision",
+  "similarity_to_source": 0.149,
+  "paragraph_parallel": true
+}

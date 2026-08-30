@@ -1,0 +1,53 @@
+{
+  "id": "SA_873",
+  "uid": "sa873",
+  "title": "雜阿含經  卷第三十三  修證相應  （873）  四種調伏",
+  "chinese_text": "如是我聞：\n\n一時，佛住舍衛國祇樹給孤獨園。\n\n爾時，世尊告諸比丘：「有四種善好調伏眾。何等為四？謂比丘調伏、比丘尼調伏、優婆塞調伏、優婆夷調伏，是名四眾。」\n\n爾時，世尊即說偈言：\n\n「若才辯無畏，　　多聞通達法，\n\n　行法次法向，　　是則為善眾。\n\n　比丘持淨戒，　　比丘尼多聞，\n\n　優婆塞淨信，　　優婆夷亦然，\n\n　是名為善眾。　　如日光自照，\n\n　如則善好僧，　　是則僧中好，\n\n　是法令僧好，　　如日光自照。」\n\n佛說此經已，諸比丘聞佛所說，歡喜奉行。\n\n如調伏，如是辯、柔和、無畏、多聞、通達法、說法、法次法向、隨順法行，亦如是說。",
+  "english_sa_text": "",
+  "parallels": [
+    {
+      "uid": "an4.7",
+      "acronym": "AN 4.7",
+      "root_lang": "pli",
+      "original_title": "Sobhanasutta",
+      "translated_title": "They Adorn",
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "ea27.7",
+      "acronym": "EA 27.7",
+      "root_lang": "lzh",
+      "original_title": "",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    }
+  ],
+  "primary_sn_uid": null,
+  "pali_text": "",
+  "english_sn_text": "",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa801-900/sa873_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa801-900/sa873_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛住舍卫国祇树给孤独园。\n尔时世尊告诸比丘：「有四种善调伏众，能庄严僧伽。何等为四？比丘善调伏、比丘尼善调伏、优婆塞善调伏、优婆夷善调伏——聪明无畏、多闻持法、行法次法向，是名四众，能令僧伽光显。」\n尔时世尊说偈言：\n「才辩且无畏，多闻能持法，\n　行法次法向，是则僧中好。\n　比丘持净戒，比丘尼多闻，\n　信士与信女，净信亦复然；\n　如是名善众，如日能自照。」\n佛说此经已，诸比丘闻佛所说，欢喜奉行。\n如调伏，辩才、柔和、无畏、多闻、通达法、能说法、法次法向、随顺法行，亦如是说。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在舍卫国祇树给孤独园。\n那时世尊告诉比丘们：「有四种善加调伏的众，能够庄严僧伽。哪四种？比丘善调伏、比丘尼善调伏、优婆塞善调伏、优婆夷善调伏——聪明无畏、多闻持法、依照法而实行法，叫做四众，能使僧伽光显。」\n那时世尊说偈：\n「才辩且无畏，多闻能持法，\n　行法次法向，是则僧中好。\n　比丘持净戒，比丘尼多闻，\n　信士与信女，净信亦复然；\n　如是名善众，如日能自照。」\n佛说完这部经，比丘们听佛所说，都欢喜奉行。\n如同「调伏」这样说，辩才、柔和、无畏、多闻、通达法、能说法、法次法向、随顺法行，也是这样说。",
+  "notes": "本经 SC 平行表所列平行及 `raw_aligned_data.json` 内之巴利本文、Sujato 英译并用以厘定法义；求那跋陀罗汉本用于定位经文与传统术语。confidence=high：平行 AN4.7 Sobhana；据巴利校正：vinītā／viyattā／visāradā／bahussutā／dhammadharā／dhammānudhammappaṭipannā → 善调伏、聪明无畏、多闻持法、行法次法向；saṅghaṁ sobhenti → 庄严／光显僧伽（汉「善众」「日光自照」保留）。末 peyyāla 异门从汉。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "high",
+  "prior_review_status": "needs_revision",
+  "similarity_to_source": 0.309,
+  "paragraph_parallel": true
+}

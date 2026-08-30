@@ -1,0 +1,43 @@
+{
+  "id": "SA_982",
+  "uid": "sa982",
+  "title": "雜阿含經  卷第四十  雜相應  （982）  阿難舍利弗",
+  "chinese_text": "如是我聞：\n\n一時，佛住娑枳國安闍那林中。\n\n爾時，世尊告尊者舍利弗：「我能於法略說、廣說，但知者難。」\n\n尊者舍利弗白佛言：「唯願世尊略說、廣說、法說，於法實有解知者。」\n\n佛告舍利弗：「若有眾生於自識身及外境界一切相，無我、我所、我慢繫著使，乃至心解脫、慧解脫，現法自知作證具足住者；於此識身及外境界一切相，無有我、我所、我慢使繫著，故我心解脫、慧解脫，現法自知作證具足住。\n\n「舍利弗！彼比丘於此識身及外境界一切相，無有我、我所見、我慢繫著使，及心解脫、慧解脫，現法自知作證具足住；於此識身及外境界一切相，無有我、我所見、我慢繫著使，彼心解脫、慧解脫，現法自知作證具足住。\n\n「舍利弗！若復比丘於此識身及外境界一切相，無有我、我所見、我慢繫著使，彼心解脫、慧解脫，現法自知作證具足住。\n\n「舍利弗！若復比丘於此識身及外境界一切相，無我、我所見、我慢繫著使，彼心解脫、慧解脫，現法自知作證具足住；於此識身及外境界一切相，無我、我所見、我慢繫著使，彼心解脫、慧解脫，現法自知作證具足住。舍利弗！是名比丘斷愛縛結，慢無間等，究竟苦邊。\n\n「舍利弗！我於此有餘說，答波羅延富隣尼迦所問：\n\n「世間數差別，　　安所遇不動，\n\n　寂靜離諸塵，　　拔根無悕望，\n\n　已度三有海，　　無復老死患。」\n\n佛說是經已，尊者舍利弗聞佛所說，歡喜隨喜，即從坐起，作禮而去。",
+  "english_sa_text": "",
+  "parallels": [
+    {
+      "uid": "an3.32",
+      "acronym": "AN 3.32",
+      "root_lang": "pli",
+      "original_title": "Ānandasutta",
+      "translated_title": "Ānanda",
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    }
+  ],
+  "primary_sn_uid": null,
+  "pali_text": "",
+  "english_sn_text": "",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa901-1000/sa982_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa901-1000/sa982_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛住娑枳国安阇那林中。\n佛告舍利弗：「我能略说广说法，但知者难。」舍利弗请说。\n佛告：「若于内识身及外一切相，断我、我所、我慢随眠，得心解脱、慧解脱，现法自知作证——是名比丘断爱结、慢无余，究竟苦边。\n我于此有余说，答波罗延富邻尼迦所问：世间数差别，安处而不动；寂静离诸尘，拔根无希望；已度三有海，无复老死患。」\n舍利弗欢喜随喜，作礼而去。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在娑枳国安阇那林中。\n佛告诉舍利弗：「我能略说、广说各种法，但真正了知的人难得。」舍利弗请佛说。\n佛说：「若对内在的识身以及外在一切相，断除我、我所、我慢的随眠，得到心解脱、慧解脱，现法自己证知——这就叫比丘断尽爱的结缚、慢无余，究竟苦边。\n我在这里还有余义，就是回答波罗延中富邻尼迦所问：世间有种种差别，安住而不动；寂静离开尘垢，拔除根本不再渴求；已经度过三有之海，不再有老死的患。」\n舍利弗欢喜随喜，行礼离去。",
+  "notes": "本经 SC 平行表所列平行及 `raw_aligned_data.json` 内之巴利本文、Sujato 英译并用以厘定法义；求那跋陀罗汉本用于定位经文与传统术语。confidence=high：primary AN3.32；据 AN 压缩汉本『识身／外相／我慢系着使』多重复句；心解脱慧解脱、断爱慢究竟苦边为准。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "high",
+  "prior_review_status": "needs_revision",
+  "similarity_to_source": 0.151,
+  "paragraph_parallel": true
+}

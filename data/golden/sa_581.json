@@ -1,0 +1,67 @@
+{
+  "id": "SA_581",
+  "uid": "sa581",
+  "title": "雜阿含經  卷第二十五  天相應  （581）  羅漢",
+  "chinese_text": "如是我聞：\n\n一時，佛在舍衛國祇樹給孤獨園。\n\n時，有天子容色絕妙，於後夜時來詣佛所，稽首佛足，身諸光明遍照祇樹給孤獨園。\n\n時，彼天子說偈問佛：\n\n「若羅漢比丘，　　自所作已作，\n\n　一切諸漏盡，　　持此後邊身，\n\n　記說言有我，　　及說我所不？」\n\n爾時，世尊即說偈答：\n\n「若羅漢比丘，　　自所作已作，\n\n　一切諸漏盡，　　持此後邊身，\n\n　正復說有我，　　我所亦無咎。」\n\n時，彼天子復說偈言：\n\n「若羅漢比丘，　　自所作已作，\n\n　一切漏已盡，　　持此最後身，\n\n　心依於我慢，　　而說言有我，\n\n　及說於我所，　　有如是說不。」\n\n爾時，世尊說偈答言：\n\n「已離於我慢，　　無復我慢心，\n\n　超越我我所，　　我說為漏盡。\n\n　於彼我我所，　　心已永不著，\n\n　善解世名字，　　平等假名說。」\n\n時，彼天子復說偈言：\n\n「久見婆羅門，　　逮得般涅槃，\n\n　一切怖已過，　　永超世恩愛。」\n\n時，彼天子聞佛所說，歡喜隨喜，稽首佛足，即沒不現。",
+  "english_sa_text": "",
+  "parallels": [
+    {
+      "uid": "sa-2.166",
+      "acronym": "SA2 166",
+      "root_lang": "lzh",
+      "original_title": "羅漢",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "sn1.25",
+      "acronym": "SN 1.25",
+      "root_lang": "pli",
+      "original_title": "Arahantasutta",
+      "translated_title": "The Arahant",
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "t1509.1b",
+      "acronym": "T 1509.1b",
+      "root_lang": "lzh",
+      "original_title": "大智度論",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    }
+  ],
+  "primary_sn_uid": "sn1.25",
+  "pali_text": "“Yo hoti bhikkhu arahaṁ katāvī, Khīṇāsavo antimadehadhārī; Ahaṁ vadāmītipi so vadeyya, Mamaṁ vadantītipi so vadeyyā”ti. “Yo hoti bhikkhu arahaṁ katāvī, Khīṇāsavo antimadehadhārī; Ahaṁ vadāmītipi so vadeyya, Mamaṁ vadantītipi so vadeyya; Loke samaññaṁ kusalo viditvā, Vohāramattena so vohareyyā”ti. “Yo hoti bhikkhu arahaṁ katāvī, Khīṇāsavo antimadehadhārī; Mānaṁ nu kho so upagamma bhikkhu, Ahaṁ vadāmītipi so vadeyya; Mamaṁ vadantītipi so vadeyyā”ti. “Pahīnamānassa na santi ganthā, Vidhūpitā mānaganthassa sabbe; Sa vītivatto maññataṁ sumedho, Ahaṁ vadāmītipi so vadeyya. Mamaṁ vadantītipi so vadeyya, Loke samaññaṁ kusalo viditvā; Vohāramattena so vohareyyā”ti.",
+  "english_sn_text": "“When a mendicant is perfected, well-versed, with defilements ended, bearing the final body: would they say, ‘I speak’, or even ‘they speak to me’?” “When a mendicant is perfected, well-versed, with defilements ended, bearing the final body: they would say, ‘I speak’, and also ‘they speak to me’. Skillful, understanding the world’s labels, they’d use these terms as mere expressions.” “When a mendicant is perfected, well-versed, with defilements ended, bearing the final body: is such a mendicant drawing close to conceit if they’d say, ‘I speak’, or even ‘they speak to me’?” “Someone who has given up conceit has no ties, the ties of conceit are all dissipated. Though that intelligent person has passed beyond conceiving, they’d still say, ‘I speak’, and also ‘they speak to me’. Skillful, understanding the world’s labels, they’d use these terms as mere expressions.”",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa501-600/sa581_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa501-600/sa581_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛在舍卫国祇树给孤独园。时，有一天子容色绝妙，于后夜时来诣佛所，稽首佛足，退坐一面。身诸光明遍照祇树给孤独园。\n时，彼天子说偈问佛：「漏尽比丘，所作已办，持此残身，可说『我』、『我所』不？」\n尔时，世尊说偈答言：「漏尽比丘，所作已办，持此残身，正可说『我』，说『我所』亦无过。」\n时，彼天子复说偈言：「既离我慢，何复依慢，而说言有我、及我所耶？」\n尔时，世尊说偈答言：「已离我慢，无慢心所依，超越我我所，我说名漏尽；于世名字善，平等假名说。」\n时，彼天子复说偈言：「久见婆罗门，逮得般涅槃，一切怖已过，永超世恩爱。」\n时，彼天子闻佛所说，欢喜随喜，稽首佛足，即没不现。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在舍卫国祇树给孤独园。当时，有一位天子容色绝妙，在后夜来到佛处，顶礼佛足，退坐一面。身放光明遍照祇树给孤独园。\n时，彼天子说偈问佛：「漏尽比丘，所作已办，持此残身，可说『我』、『我所』不？」\n尔时，世尊说偈答言：「漏尽比丘，所作已办，持此残身，正可说『我』，说『我所』亦无过。」\n时，彼天子复说偈言：「既离我慢，何复依慢，而说言有我、及我所耶？」\n尔时，世尊说偈答言：「已离我慢，无慢心所依，超越我我所，我说名漏尽；于世名字善，平等假名说。」\n时，彼天子复说偈言：「久见婆罗门，逮得般涅槃，一切怖已过，永超世恩爱。」\n时，彼天子闻佛所说，欢喜随喜，稽首佛足，即没不现。",
+  "notes": "本经 SC 平行表所列平行及 `raw_aligned_data.json` 内之巴利本文、Sujato 英译并用以厘定法义；求那跋陀罗汉本用于定位经文与传统术语。confidence=high：primary SN1.25（阿罗汉假名说我／我所；离我慢）。据 SN 校正：三轮问答，从巴利 conceit／labels。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "high",
+  "prior_review_status": "needs_revision",
+  "similarity_to_source": 0.322,
+  "paragraph_parallel": true,
+  "quality_gate_reasons": [
+    "sim_lit=0.585>=0.5",
+    "lit_mod_gap=0.350>=0.1"
+  ]
+}

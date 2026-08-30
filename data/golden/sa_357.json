@@ -1,0 +1,43 @@
+{
+  "id": "SA_357",
+  "uid": "sa357",
+  "title": "雜阿含經  卷第十四  因緣相應  （357）  種智",
+  "chinese_text": "如是我聞：\n\n一時，佛住舍衛國祇樹給孤獨園。\n\n爾時，世尊告諸比丘：「有七十七種智。諦聽，善思，當為汝說。云何七十七種智，生緣老死智，非餘生緣老死智；過去生緣老死智，非餘過去生緣老死智；未來生緣老死智，非餘未來生緣老死智；及法住智，無常、有為、心所緣生、盡法、變易法、離欲法、滅法斷知智。如是生、有、取、愛、受、觸、六入處、名色、識、行、無明緣行智，非餘無明緣行智；過去無明緣行智，非餘過去無明緣行智；未來無明緣行智，非餘未來無明緣行智；及法住智，無常、有為、心所緣生、盡法、變易法、無欲法、滅法斷智，是名七十七種智。」\n\n佛說此經已，諸比丘聞佛所說，歡喜奉行。",
+  "english_sa_text": "",
+  "parallels": [
+    {
+      "uid": "sn12.34",
+      "acronym": "SN 12.34",
+      "root_lang": "pli",
+      "original_title": "Dutiyañāṇavatthusutta",
+      "translated_title": "Cases of Knowledge (2)",
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    }
+  ],
+  "primary_sn_uid": "sn12.34",
+  "pali_text": "Sāvatthiyaṁ viharati. “Sattasattari vo, bhikkhave, ñāṇavatthūni desessāmi. Taṁ suṇātha, sādhukaṁ manasi karotha, bhāsissāmī”ti. “Evaṁ, bhante”ti kho te bhikkhū bhagavato paccassosuṁ. Bhagavā etadavoca: “Katamāni, bhikkhave, sattasattari ñāṇavatthūni? Jātipaccayā jarāmaraṇanti ñāṇaṁ; asati jātiyā natthi jarāmaraṇanti ñāṇaṁ; atītampi addhānaṁ jātipaccayā jarāmaraṇanti ñāṇaṁ, asati jātiyā natthi jarāmaraṇanti ñāṇaṁ; anāgatampi addhānaṁ jātipaccayā jarāmaraṇanti ñāṇaṁ, asati jātiyā natthi jarāmaraṇanti ñāṇaṁ; yampissa taṁ dhammaṭṭhitiñāṇaṁ tampi khayadhammaṁ vayadhammaṁ virāgadhammaṁ nirodhadhammanti ñāṇaṁ. Bhavapaccayā jātīti ñāṇaṁ …pe… upādānapaccayā bhavoti ñāṇaṁ … taṇhāpaccayā upādānanti ñāṇaṁ … vedanāpaccayā taṇhāti ñāṇaṁ … phassapaccayā vedanāti ñāṇaṁ … saḷāyatanapaccayā phassoti ñāṇaṁ … nāmarūpapaccayā saḷāyatananti ñāṇaṁ … viññāṇapaccayā nāmarūpanti ñāṇaṁ … saṅkhārapaccayā viññāṇanti ñāṇaṁ; avijjāpaccayā saṅkhārāti ñāṇaṁ, asati avijjāya natthi saṅkhārāti ñāṇaṁ; atītampi addhānaṁ avijjāpaccayā saṅkhārāti ñāṇaṁ, asati avijjāya natthi saṅkhārāti ñāṇaṁ; anāgatampi addhānaṁ avijjāpaccayā saṅkhārāti ñāṇaṁ, asati avijjāya natthi saṅkhārāti ñāṇaṁ; yampissa taṁ dhammaṭṭhitiñāṇaṁ tampi khayadhammaṁ vayadhammaṁ virāgadhammaṁ nirodhadhammanti ñāṇaṁ. Imāni vuccanti, bhikkhave, sattasattari ñāṇavatthūnī”ti. Catutthaṁ.",
+  "english_sn_text": "At Sāvatthī. “Mendicants, I will teach seventy-seven grounds for knowledge. Listen and apply your mind well, I will speak.” “Yes, sir,” they replied. The Buddha said this: “And what are the seventy-seven grounds for knowledge? The knowledge that rebirth is a requirement for old age and death, and the knowledge that when rebirth doesn’t exist, there is no old age and death. Also regarding the past: the knowledge that rebirth is a requirement for old age and death, and the knowledge that when rebirth doesn’t exist, there is no old age and death. Also regarding the future: the knowledge that rebirth is a requirement for old age and death, and the knowledge that when rebirth doesn’t exist, there is no old age and death. And also their knowledge that even this knowledge of the stability of natural principles is liable to end, vanish, fade away, and cease. The knowledge that continued existence is a requirement for rebirth … The knowledge that ignorance is a requirement for choices, and the knowledge that when ignorance doesn’t exist, there are no choices. Also regarding the past: the knowledge that ignorance is a requirement for choices, and the knowledge that when ignorance doesn’t exist, there are no choices. Also regarding the future: the knowledge that ignorance is a requirement for choices, and the knowledge that when ignorance doesn’t exist, there are no choices. And also their knowledge that even this knowledge of the stability of natural principles is liable to end, vanish, fade away, and cease. These are called the seventy-seven grounds for knowledge.”",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa301-400/sa357_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa301-400/sa357_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛在舍卫国祇树给孤独园。\n尔时，世尊告诸比丘：「有七十七种智。谛听，善思，当为汝说。」\n「云何七十七？生缘老死智，及非余缘老死智；过去生缘老死智，及非余过去缘智；未来生缘老死智，及非余未来缘智；复于法住智，知彼亦是无常、有为、心所缘生、尽法、变易法、离欲法、灭法。」\n「如是有乃至无明缘行，亦各有现、过、未正缘智与非余缘智，及于法住智作尽灭断知——是名七十七种智。」\n佛说此经已，诸比丘闻佛所说，欢喜奉行。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在舍卫国祇树给孤独园。\n那时，世尊告诉比丘们：「有七十七种智。仔细听，好好想，我为你们说。」\n「什么是七十七？知道生是老死之缘，也知道没有生就没有老死；对过去：知道生是老死之缘，也知道无生则无老死；对未来：同样如此；再者，对这法住之智，也知道它本身无常、有为、由心所缘而生，是尽法、变易法、离欲法、灭法。」\n「同样，从有一直到无明缘行，也各有现在、过去、未来的正缘之智与非余缘之智，并对法住之智作尽灭的了知——这叫做七十七种智。」\n佛说完这部经，比丘们听佛所说，都欢喜奉行。",
+  "notes": "本经 SC 平行表所列平行及 `raw_aligned_data.json` 内之巴利本文、Sujato 英译并用以厘定法义；求那跋陀罗汉本用于定位经文与传统术语。confidence=high：primary SN12.34（Dutiyañāṇavatthu）。信-校正：「非余…缘」＝无彼缘则无果；法住智亦观无常尽灭——据 SN：even this knowledge of the stability of natural principles is liable to cease。11×7＝77。非「第一义空」类后出空义。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "high",
+  "prior_review_status": "needs_revision",
+  "similarity_to_source": 0.324,
+  "paragraph_parallel": true
+}

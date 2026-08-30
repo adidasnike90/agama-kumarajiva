@@ -1,0 +1,33 @@
+{
+  "id": "SA_789",
+  "uid": "sa789",
+  "title": "雜阿含經  卷第三十  聖道分相應  （789）  生聞",
+  "chinese_text": "如是我聞：\n\n一時，佛住舍衛國祇樹給孤獨園。\n\n時，有生聞婆羅門來詣佛所，稽首佛足，與世尊面相問訊慰勞已，退坐一面，白佛言：「瞿曇！所謂正見者，何等為正見？」\n\n佛告婆羅門：「正見有二種。有正見，世、俗，有漏、有取，轉向善趣；有正見，是聖、出世間，無漏、不取，正盡苦，轉向苦邊。何等為正見世、俗，有漏、有取，轉向善趣？謂正見有施、有說、有齋，乃至自知不受後有。婆羅門！是名正見世、俗，有漏、有取，向於善趣。婆羅門！何等為正見是聖、出世間，無漏、不取，正盡苦，轉向苦邊？謂聖弟子苦苦思惟，集、滅、道道思惟，無漏思惟相應，於法選擇，分別求覺，巧便黠慧觀察，是名正見是聖、出世間，無漏、不取，正盡苦，轉向苦邊。」\n\n佛說此經已，生聞婆羅門聞佛所說，歡喜隨喜，從座起去。\n\n如正見，如是正志、正語、正業、正命、正方便、正念、正定，一一經如上說。",
+  "english_sa_text": "",
+  "parallels": [],
+  "primary_sn_uid": null,
+  "pali_text": "",
+  "english_sn_text": "",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa701-800/sa789_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa701-800/sa789_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛住舍卫国祇树给孤独园。\n时有生闻婆罗门来诣佛所，稽首问讯已，退坐一面，白佛言：「瞿昙！何等为正见？」\n佛告婆罗门：「正见有二种。有正见世俗、有漏、有取，转向善趣；有正见是圣、出世间、无漏、不取，正尽苦，转向苦边。」\n「世间正见者，谓知有施、有说、有斋，乃至自知不受后有，是世俗、有漏、有取，转向善趣。出世间正见者，谓圣弟子于苦、集、灭、道如理思惟，无漏思惟相应，于法简择、分别、求觉、巧慧观察，是圣、出世间、无漏、不取，正尽苦，转向苦边。」\n生闻婆罗门闻已，欢喜随喜，从座起去。\n「如正见，正志、正语、正业、正命、正方便、正念、正定——一一经如上说。」",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在舍卫国祇树给孤独园。\n那时有生闻婆罗门来到佛所，叩头问讯后坐在一边，对佛说：「瞿昙！什么是正见？」\n佛告诉婆罗门：「正见有两种。有一种正见是世俗、有漏、有取，转向善趣；有一种正见是圣、出世间、无漏、不取，正尽苦，转向苦边。」\n「世间正见，就是知道有布施、有教说、有斋戒，乃至自己知道不受后有，这属世俗、有漏、有取，转向善趣。出世间正见，就是圣弟子对苦、集、灭、道如理思惟，与无漏思惟相应，对法简择、分别、求觉、善巧观察，这属圣、出世间、无漏、不取，正尽苦，转向苦边。」\n生闻婆罗门听完，欢喜随喜，从座位起身离去。\n「就像正见这样，正志、正语、正业、正命、正方便、正念、正定——每一经都如上说。」",
+  "notes": "SC 于本经未列可靠巴利平行，故唯以汉本为底，参同相应之巴利定型语厘义；依项目规约「无可靠平行时 confidence 降为 medium/low」。confidence=medium：承 MN117／SA785 二种正见；问者作生闻婆罗门。余七支「如上说」peyyāla。reconstruction=正志乃至正定 peyyāla。",
+  "review_status": "gold_reconstructed",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "medium",
+  "prior_review_status": "needs_revision",
+  "reconstruction_basis": "正志乃至正定二种定义 peyyāla",
+  "similarity_to_source": 0.333,
+  "paragraph_parallel": true
+}

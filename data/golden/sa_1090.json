@@ -1,0 +1,53 @@
+{
+  "id": "SA_1090",
+  "uid": "sa1090",
+  "title": "雜阿含經  卷第四十七  魔相應  （1090）  無所為",
+  "chinese_text": "如是我聞：\n\n一時，佛住王舍城毘婆羅山七葉樹林石室中。\n\n爾時，世尊夜起露地，或坐或經行。至後夜時，洗足入室，安身臥息，右脇著地，足足相累，繫念明相，正念正智，作起覺想。\n\n時，魔波旬作是念：「沙門瞿曇住王舍城毘婆羅山七葉樹林石室中，夜起露地若坐若行，至後夜時，洗足入室而坐，右脇臥息，足足相累，繫念明相，正念正智，作起覺想。我今當往，為作留難。」化作年少，往住佛前，而說偈言：\n\n「為因我故眠，　　為是後邊故，\n\n　多有錢財寶，　　何故守空閑？\n\n　獨一無等侶，　　而著於睡眠。」\n\n爾時，世尊作是念：「惡魔波旬欲作嬈亂。」即說偈言：\n\n「不因汝故眠，　　非為最後邊，\n\n　亦無多錢財，　　唯集無憂寶。\n\n　哀愍世間故，　　右脇而臥息，\n\n　覺亦不疑惑，　　眠亦不恐怖。\n\n　若晝若復夜，　　無增亦無損，\n\n　為哀眾生眠，　　故無有損減。\n\n　正復以百槍，　　貫身常掘動，\n\n　猶得安隱眠，　　已離內槍故。」\n\n時，魔波旬作是念：「沙門瞿曇已知我心。」內懷憂慼，即沒不現。",
+  "english_sa_text": "",
+  "parallels": [
+    {
+      "uid": "sa-2.29",
+      "acronym": "SA2 29",
+      "root_lang": "lzh",
+      "original_title": "無所為",
+      "translated_title": "Māra disturbs the Buddha’s rest",
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "sn4.13",
+      "acronym": "SN 4.13",
+      "root_lang": "pli",
+      "original_title": "Sakalikasutta",
+      "translated_title": "The Splinter",
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    }
+  ],
+  "primary_sn_uid": "sn4.13",
+  "pali_text": "Evaṁ me sutaṁ— ekaṁ samayaṁ bhagavā rājagahe viharati maddakucchismiṁ migadāye. Tena kho pana samayena bhagavato pādo sakalikāya khato hoti, bhusā sudaṁ bhagavato vedanā vattanti sārīrikā dukkhā tibbā kharā kaṭukā asātā amanāpā. Tā sudaṁ bhagavā sato sampajāno adhivāseti avihaññamāno. Atha kho bhagavā catugguṇaṁ saṅghāṭiṁ paññapetvā dakkhiṇena passena sīhaseyyaṁ kappesi pāde pādaṁ accādhāya sato sampajāno. Atha kho māro pāpimā yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṁ gāthāya ajjhabhāsi: “Mandiyā nu kho sesi udāhu kāveyyamatto, Atthā nu te sampacurā na santi; Eko vivitte sayanāsanamhi, Niddāmukho kimidaṁ soppase vā”ti. “Na mandiyā sayāmi nāpi kāveyyamatto, Atthaṁ sameccāhamapetasoko; Eko vivitte sayanāsanamhi, Sayāmahaṁ sabbabhūtānukampī. Yesampi sallaṁ urasi paviṭṭhaṁ, Muhuṁ muhuṁ hadayaṁ vedhamānaṁ; Tepīdha soppaṁ labhare sasallā, Tasmā ahaṁ na supe vītasallo. Jaggaṁ na saṅke napi bhemi sottuṁ, Rattindivā nānutapanti māmaṁ; Hāniṁ na passāmi kuhiñci loke, Tasmā supe sabbabhūtānukampī”ti. Atha kho māro pāpimā “jānāti maṁ bhagavā, jānāti maṁ sugato”ti dukkhī dummano tatthevantaradhāyīti.",
+  "english_sn_text": "So I have heard. At one time the Buddha was staying near Rājagaha in the Maddakucchi deer park. Now at that time the Buddha’s foot had been cut by a wooden splinter. The Buddha was stricken by harrowing pains; physical feelings that were painful, sharp, severe, acute, unpleasant, and disagreeable. But he endured unbothered, with mindfulness and situational awareness. And then he spread out his outer robe folded in four and laid down in the lion’s posture—on the right side, placing one foot on top of the other—mindful and aware. Then Māra the Wicked went up to the Buddha and addressed him in verse: “Are you feeble that you lie down? Or are you drunk on poetry? Are your goals not amply satisfied? Alone in a secluded lodging, why this sleeping, sleepyhead?” “I’m not feeble that I lie down, nor am I drunk on poetry. Having reached the goal, I’m rid of sorrow. Alone in a secluded lodging, I lie down full of sympathy for all living creatures. Even those with a dart stuck in the breast, piercing the heart moment by moment, are able to get some sleep. So why not I, whose dart is drawn out? I don’t lie awake tense, nor do I fear to sleep. The days and nights don’t disturb me, as I see no decline for myself in the world. That’s why I lie down full of sympathy for all living creatures.” Then Māra the Wicked, thinking, “The Buddha knows me! The Holy One knows me!” miserable and sad, vanished right there.",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa1001-1100/sa1090_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa1001-1100/sa1090_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛住王舍城毗婆罗山七叶树林石室中。\n世尊夜于露地坐行，后夜右胁而卧，足累足，系念明相，正念正智。\n魔讥：「因我故眠耶？为最后边耶？多财而守空闲、独眠耶？」\n佛答：「不因汝眠，非为边际，亦非多财；唯集无忧之宝。哀愍世间故右胁卧；觉不疑、眠不怖；昼夜无损。纵百枪贯身，犹得安眠——以拔内枪故。」\n魔波旬念：「沙门已知我心。」忧惭即没。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在王舍城毗婆罗山七叶树林的石室中。\n世尊夜里在露地或坐或经行，到后夜右侧卧，两足相叠，系念黎明之相，保持正念正知。\n魔讥讽：「是因为我你才睡吗？是到了尽头吗？有许多财宝却守着空闲处独自睡吗？」\n佛答：「不是因为你才睡，也不是到了尽头，更不是为了财宝；我只积集无忧之宝。出于哀愍世间而右侧卧；醒时不疑惑，睡时不恐怖；昼夜都没有减损。纵使有百支枪刺入身体，也还能安睡——因为内在的毒箭已经拔除。」\n魔波旬心想：「沙门已经知道我的心。」忧愁惭愧，随即隐没不见。",
+  "notes": "本经 SC 平行表所列平行及 `raw_aligned_data.json` 内之巴利本文、Sujato 英译并用以厘定法义；求那跋陀罗汉本用于定位经文与传统术语。据 SN4.13 Sakalika：哀愍众生而卧；内枪（爱箭）已拔故安眠。巴利有足刺木片剧痛之缘起，汉略——法义以拔箭／哀愍为准。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "high",
+  "prior_review_status": "needs_revision",
+  "similarity_to_source": 0.088,
+  "paragraph_parallel": true
+}

@@ -1,0 +1,43 @@
+{
+  "id": "SA_408",
+  "uid": "sa408",
+  "title": "雜阿含經  卷第十七  界相應  （408）  思惟",
+  "chinese_text": "如是我聞：\n\n一時，佛住王舍城迦蘭陀竹園。\n\n時，有眾多比丘集於食堂，作如是論，或謂世間有常，或謂世間無常、世間有常無常、世間非有常非無常，世間有邊、世間無邊、世間有邊無邊、世間非有邊非無邊，是命是身、命異身異，如來死後有、如來死後無、如來死後有無、如來死後非有非無。\n\n爾時，世尊一處坐禪，以天耳聞諸比丘集於食堂論議之聲。聞已，往詣食堂，於大眾前敷座而坐，告諸比丘：「汝等比丘眾多聚集，何所言說？」\n\n時，諸比丘白佛言：「世尊！我等眾多比丘集此食堂，作如是論，或說有常，或說無常……」如上廣說。\n\n佛告比丘：「汝等莫作如是論議。所以者何？如此論者，非義饒益，非法饒益，非梵行饒益，非智、非正覺，非正向涅槃。汝等比丘應如是論議：『此苦聖諦、此苦集聖諦、此苦滅聖諦、此苦滅道跡聖諦。』所以者何？如是論議，是義饒益、法饒益、梵行饒益、正智、正覺、正向涅槃。是故，比丘！於四聖諦未無間等，當勤方便，起增上欲，學無間等。」\n\n佛說此經已，諸比丘聞佛所說，歡喜奉行。",
+  "english_sa_text": "",
+  "parallels": [
+    {
+      "uid": "sn56.8",
+      "acronym": "SN 56.8",
+      "root_lang": "pli",
+      "original_title": "Cintasutta",
+      "translated_title": "Reflection",
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    }
+  ],
+  "primary_sn_uid": "sn56.8",
+  "pali_text": "“Mā, bhikkhave, pāpakaṁ akusalaṁ cittaṁ cinteyyātha: ‘sassato loko’ti vā ‘asassato loko’ti vā, ‘antavā loko’ti vā ‘anantavā loko’ti vā, ‘taṁ jīvaṁ taṁ sarīran’ti vā ‘aññaṁ jīvaṁ aññaṁ sarīran’ti vā, ‘hoti tathāgato paraṁ maraṇā’ti vā ‘na hoti tathāgato paraṁ maraṇā’ti vā, ‘hoti ca na ca hoti tathāgato paraṁ maraṇā’ti vā, ‘neva hoti na na hoti tathāgato paraṁ maraṇā’ti vā. Taṁ kissa hetu? Nesā, bhikkhave, cintā atthasaṁhitā nādibrahmacariyakā na nibbidāya na virāgāya na nirodhāya na upasamāya na abhiññāya na sambodhāya na nibbānāya saṁvattati. Cintentā ca kho tumhe, bhikkhave, ‘idaṁ dukkhan’ti cinteyyātha, ‘ayaṁ dukkhasamudayo’ti cinteyyātha, ‘ayaṁ dukkhanirodho’ti cinteyyātha, ‘ayaṁ dukkhanirodhagāminī paṭipadā’ti cinteyyātha. Taṁ kissa hetu? Esā, bhikkhave, cintā atthasaṁhitā, esā ādibrahmacariyakā, esā nibbidāya virāgāya nirodhāya upasamāya abhiññāya sambodhāya nibbānāya saṁvattati. Tasmātiha, bhikkhave, ‘idaṁ dukkhan’ti yogo karaṇīyo …pe… ‘ayaṁ dukkhanirodhagāminī paṭipadā’ti yogo karaṇīyo”ti. Aṭṭhamaṁ.",
+  "english_sn_text": "“Mendicants, don’t think up a bad, unskillful idea. For example: the cosmos is eternal, or not eternal, or finite, or infinite; the soul and the body are one and the same, or the soul is one thing, the body another; after death, a realized one still exists, or no longer exists, or both still exists and no longer exists, or neither still exists nor no longer exists. Why is that? Because those thoughts aren’t beneficial or relevant to the fundamentals of the spiritual life. They don’t lead to disillusionment, dispassion, cessation, peace, insight, awakening, and extinguishment. When you think something up, you should think: ‘This is suffering’ … ‘This is the origin of suffering’ … ‘This is the cessation of suffering’ … ‘This is the practice that leads to the cessation of suffering’. Why is that? Because those thoughts are beneficial and relevant to the fundamentals of the spiritual life. They lead to disillusionment, dispassion, cessation, peace, insight, awakening, and extinguishment. That’s why you should practice meditation …”",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa401-500/sa408_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa401-500/sa408_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛在王舍城迦兰陀竹园。\n时有众多比丘集于食堂，论议：世间有常、无常，有边、无边，命即身、命异身，如來死后有、无、亦有亦无、非有非无。\n世尊以天耳闻已，往诣食堂，问：「汝等集此，何所言说？」比丘具白如上。\n佛言：「莫作如是论。所以者何？如此论非义饶益，非法饶益，非梵行饶益，非智、非觉，不向涅槃。应当论：『此苦圣谛……此苦灭道迹圣谛。』如是论则义饶益、法饶益、梵行饶益，正智、正觉、正向涅槃。」\n「是故比丘于四圣谛未无间等者，当勤方便，起增上欲，精进修学。何等为四？谓苦圣谛、苦集圣谛、苦灭圣谛、苦灭道迹圣谛。」\n佛说此经已，诸比丘闻佛所说，欢喜奉行。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在王舍城迦兰陀竹园。\n当时有许多比丘聚集在食堂里讨论：世间有常、无常，有边、无边，命就是身、命与身异，如来死后有、无、亦有亦无、非有非无。\n世尊用天耳听见以后，来到食堂，问：「你们聚在这里，在说什么？」比丘们把上面的讨论都禀告了。\n佛说：「不要作这样的议论。为什么？这样的议论没有义饶益，没有法饶益，没有梵行饶益，不是正智、正觉，不向涅槃。应当讨论：『这是苦圣谛……这是苦灭道迹圣谛。』这样讨论就有义饶益、法饶益、梵行饶益，能得正智、正觉，正向涅槃。」\n「所以比丘对四圣谛还没有无间等的，应当勤加方便，发起强盛愿欲，精进修学。哪四种？就是苦圣谛、苦集圣谛、苦灭圣谛、苦灭道迹圣谛。」\n佛说完这部经，比丘们听佛所说，都欢喜奉行。",
+  "notes": "本经 SC 平行表所列平行及 `raw_aligned_data.json` 内之巴利本文、Sujato 英译并用以厘定法义；求那跋陀罗汉本用于定位经文与传统术语。confidence=high：primary SN56.8。十无记式恶不善寻思；当以四谛代替。汉食堂叙事情节保留。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "high",
+  "prior_review_status": "needs_revision",
+  "similarity_to_source": 0.202,
+  "paragraph_parallel": true
+}

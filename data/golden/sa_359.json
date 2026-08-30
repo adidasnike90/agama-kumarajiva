@@ -1,0 +1,53 @@
+{
+  "id": "SA_359",
+  "uid": "sa359",
+  "title": "雜阿含經  卷第十四  因緣相應  （359）  思量",
+  "chinese_text": "如是我聞：\n\n一時，佛住舍衛國祇樹給孤獨園。\n\n爾時，世尊告諸比丘：「若思量、若妄想生，彼使攀緣識住；有攀緣識住故，有未來世生、老、病、死、憂、悲、惱、苦。如是純大苦聚集。若不思量、不妄想，無使無攀緣識住；無攀緣識住故，於未來世生、老、病、死、憂、悲、惱、苦滅，如是純大苦聚滅。」\n\n佛說此經已，諸比丘聞佛所說，歡喜奉行。",
+  "english_sa_text": "",
+  "parallels": [
+    {
+      "uid": "sn12.38",
+      "acronym": "SN 12.38",
+      "root_lang": "pli",
+      "original_title": "Cetanāsutta",
+      "translated_title": "Volition (1)",
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "ne37",
+      "acronym": "Ne 37",
+      "root_lang": "pli",
+      "original_title": "Sāsanapaṭṭhāna",
+      "translated_title": "Chapter iv The Pattern Of The Dispensation",
+      "type": "mention",
+      "resembling": false,
+      "remark": null
+    }
+  ],
+  "primary_sn_uid": "sn12.38",
+  "pali_text": "Sāvatthiyaṁ viharati. “Yañca, bhikkhave, ceteti yañca pakappeti yañca anuseti, ārammaṇametaṁ hoti viññāṇassa ṭhitiyā. Ārammaṇe sati patiṭṭhā viññāṇassa hoti. Tasmiṁ patiṭṭhite viññāṇe virūḷhe āyatiṁ punabbhavābhinibbatti hoti. Āyatiṁ punabbhavābhinibbattiyā sati āyatiṁ jāti jarāmaraṇaṁ sokaparidevadukkhadomanassupāyāsā sambhavanti. Evametassa kevalassa dukkhakkhandhassa samudayo hoti. No ce, bhikkhave, ceteti no ce pakappeti, atha ce anuseti, ārammaṇametaṁ hoti viññāṇassa ṭhitiyā. Ārammaṇe sati patiṭṭhā viññāṇassa hoti. Tasmiṁ patiṭṭhite viññāṇe virūḷhe āyatiṁ punabbhavābhinibbatti hoti. Āyatiṁ punabbhavābhinibbattiyā sati āyatiṁ jāti jarāmaraṇaṁ sokaparidevadukkhadomanassupāyāsā sambhavanti. Evametassa kevalassa dukkhakkhandhassa samudayo hoti. Yato ca kho, bhikkhave, no ceva ceteti no ca pakappeti no ca anuseti, ārammaṇametaṁ na hoti viññāṇassa ṭhitiyā. Ārammaṇe asati patiṭṭhā viññāṇassa na hoti. Tadappatiṭṭhite viññāṇe avirūḷhe āyatiṁ punabbhavābhinibbatti na hoti. Āyatiṁ punabbhavābhinibbattiyā asati āyatiṁ jāti jarāmaraṇaṁ sokaparidevadukkhadomanassupāyāsā nirujjhanti. Evametassa kevalassa dukkhakkhandhassa nirodho hotī”ti. Aṭṭhamaṁ.",
+  "english_sn_text": "At Sāvatthī. “Mendicants, what you intend or plan, and what you have underlying tendencies for become a support for the continuation of consciousness. When this support exists, consciousness becomes established. When consciousness is established and grows, there is regeneration into a new state of existence in the future. When there is regeneration into a new state of existence in the future, future rebirth, old age, and death come to be, as do sorrow, lamentation, pain, sadness, and distress. That is how this entire mass of suffering originates. If you don’t intend or plan, but still have underlying tendencies, this becomes a support for the continuation of consciousness. When this support exists, consciousness becomes established. When consciousness is established and grows, there is regeneration into a new state of existence in the future. When there is regeneration into a new state of existence in the future, future rebirth, old age, and death come to be, as do sorrow, lamentation, pain, sadness, and distress. That is how this entire mass of suffering originates. If you don’t intend or plan or have underlying tendencies, this doesn’t become a support for the continuation of consciousness. With no support, consciousness is not established. When consciousness is not established and doesn’t grow, there’s no regeneration into a new state of existence in the future. When there is no regeneration into a new state of existence in the future, future rebirth, old age, and death cease, as do sorrow, lamentation, pain, sadness, and distress. That is how this entire mass of suffering ceases.”",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa301-400/sa359_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa301-400/sa359_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛在舍卫国祇树给孤独园。\n尔时，世尊告诸比丘：「若有思量、有计画，又有使——则成攀缘，识得住立；识住立增长故，有未来有再生；有再生故，有未来生老病死忧悲恼苦——如是纯大苦聚集。」\n「若不思量、不计画，而犹有使——亦成攀缘，识得住立；乃至纯大苦聚集，亦复如是。」\n「若不思量、不计画、无使——则无攀缘，识不住立；识不住不增长故，无未来再生；无再生故，未来生老病死忧悲恼苦灭——如是纯大苦聚灭。」\n佛说此经已，诸比丘闻佛所说，欢喜奉行。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在舍卫国祇树给孤独园。\n那时，世尊告诉比丘们：「若有意乐、有计画，又有随眠——就成了攀缘，识得以住立；识住立增长，就有未来的再生；有再生，就有未来的生老病死忧悲恼苦——这样纯大苦聚集。」\n「若没有意乐、没有计画，但还有随眠——也成攀缘，识得以住立；乃至纯大苦聚集，也是一样。」\n「若没有意乐、没有计画、也没有随眠——就没有攀缘，识不住立；识不住不增长，就没有未来再生；没有再生，未来生老病死忧悲恼苦就灭——这样纯大苦聚灭。」\n佛说完这部经，比丘们听佛所说，都欢喜奉行。",
+  "notes": "本经 SC 平行表所列平行及 `raw_aligned_data.json` 内之巴利本文、Sujato 英译并用以厘定法义；求那跋陀罗汉本用于定位经文与传统术语。confidence=high：primary SN12.38（Cetanā）。信-校正：汉本省「不思量而犹有使」中案；据 Pāli 三句补全——ceteti／pakappeti／anuseti → 思量／计画／使（随眠）。「攀缘识住」＝consciousness established on a support。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "high",
+  "prior_review_status": "needs_revision",
+  "similarity_to_source": 0.229,
+  "paragraph_parallel": true
+}

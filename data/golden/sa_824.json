@@ -1,0 +1,53 @@
+{
+  "id": "SA_824",
+  "uid": "sa824",
+  "title": "雜阿含經  卷第三十一  學相應  （824）  學",
+  "chinese_text": "如是我聞：\n\n一時，佛住舍衛國祇樹給孤獨園。\n\n爾時，世尊告諸比丘：「有二學。何等為二？謂上威儀學、上波羅提木叉學。」\n\n爾時，世尊即說偈言：\n\n「學者學戒時，　　直道隨順行，\n\n　專審勤方便，　　善自護其身，\n\n　得初漏盡智，　　次究竟無知，\n\n　得無知解脫，　　知見悉已度。\n\n　成不動解脫，　　諸有結滅盡，\n\n　彼諸根具足，　　諸根寂靜樂，\n\n　持此後邊身，　　摧伏眾魔怨。」\n\n佛說此經已，諸比丘聞佛所說，歡喜奉行。",
+  "english_sa_text": "",
+  "parallels": [
+    {
+      "uid": "an3.85",
+      "acronym": "AN 3.85",
+      "root_lang": "pli",
+      "original_title": "Sekkhasutta",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "sa642",
+      "acronym": "SA 642",
+      "root_lang": "lzh",
+      "original_title": "學",
+      "translated_title": null,
+      "type": "full",
+      "resembling": true,
+      "remark": null
+    }
+  ],
+  "primary_sn_uid": null,
+  "pali_text": "",
+  "english_sn_text": "",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa801-900/sa824_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa801-900/sa824_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛住舍卫国祇树给孤独园。\n尔时世尊告诸比丘：「有二学。何等为二？谓增上威仪学、增上波罗提木叉学。」\n尔时世尊即说偈言：「学者学戒时，直道随顺行；专审勤方便，善自护其身。得初漏尽智，次究竟无知；得无知解脱，知见悉已度。成不动解脱，诸有结灭尽；彼诸根具足，诸根寂静乐；持此后边身，摧伏众魔怨。」\n佛说此经已，诸比丘闻佛所说，欢喜奉行。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在舍卫国祇树给孤独园。\n那时世尊告诉比丘们：「有二学。哪二学？就是增上威仪学、增上波罗提木叉学。」\n那时世尊便说偈：「有学的人学戒时，沿直道随顺而行；专精审慎勤方便，善于护持自身。先得漏尽的初智，其次得究竟的无知；得无知相应的解脱，知见都已度脱。成就不动的解脱，诸有结灭尽；诸根具足，诸根寂静安乐；持此最后边身，摧伏一切魔怨。」\n佛说完这部经，比丘们听佛所说，都欢喜奉行。",
+  "notes": "本经 SC 平行表所列平行及 `raw_aligned_data.json` 内之巴利本文、Sujato 英译并用以厘定法义；求那跋陀罗汉本用于定位经文与传统术语。confidence=high：primary AN3.85 Sekha（有学）；汉开「二学」（威仪／波罗提木叉）为戒学开合，偈与 AN 有学→漏尽→不动解脱相应；「无知」＝aññā（究竟智），非愚痴。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "high",
+  "prior_review_status": "needs_revision",
+  "similarity_to_source": 0.382,
+  "paragraph_parallel": true
+}

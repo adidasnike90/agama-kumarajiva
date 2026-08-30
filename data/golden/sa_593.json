@@ -1,0 +1,127 @@
+{
+  "id": "SA_593",
+  "uid": "sa593",
+  "title": "雜阿含經  卷第二十五  天相應  （593）  須達生天",
+  "chinese_text": "如是我聞：\n\n一時，佛住舍衛國祇樹給孤獨園。\n\n時，給孤獨長者疾病命終，生兜率天，為兜率天子，作是念：「我不應久住於此，當往見世尊。」作是念已，如力士屈申臂頃，於兜率天沒，現於佛前，稽首佛足，退坐一面。時，給孤獨天子身放光明，遍照祇樹給孤獨園。\n\n時，給孤獨天子而說偈言：\n\n「於此祇桓林，　　仙人僧住止，\n\n　諸王亦住此，　　增我歡喜心，\n\n　深信淨戒業，　　智慧為勝壽，\n\n　以此淨眾生，　　非族姓財物，\n\n　大智舍利弗，　　正念常寂默，\n\n　閑居修遠離，　　初建業良友。」\n\n說此偈已，即沒不現。\n\n爾時，世尊其夜過已，入於僧中，敷尼師壇，於眾前坐，告諸比丘：「今此夜中，有一天子，容色絕妙，來詣我所，稽首我足，退坐一面。而說偈言：\n\n「於此祇桓林，　　仙人僧住止，\n\n　諸王亦住此，　　增我歡喜心，\n\n　深信淨戒業，　　智慧為勝壽，\n\n　以此淨眾生，　　非族姓財物，\n\n　大智舍利弗，　　正念常寂默，\n\n　閑居修遠離，　　初建業良友。」\n\n爾時，尊者阿難白佛言：「世尊！如我解世尊所說，給孤獨長者生彼天上，來見世尊，然彼給孤獨長者於尊者舍利弗極相敬重。」\n\n佛告阿難：「如是，如是。阿難！給孤獨長者生彼天上，來見於我。」\n\n爾時，世尊以尊者舍利弗故，而說偈言：\n\n「一切世間智，　　唯除於如來，\n\n　比舍利弗智，　　十六不及一。\n\n　如舍利弗智，　　天人悉同等，\n\n　比於如來智，　　十六不及一。」\n\n佛說此經已，諸比丘聞佛所說，歡喜奉行。",
+  "english_sa_text": "",
+  "parallels": [
+    {
+      "uid": "sa-2.187",
+      "acronym": "SA2 187",
+      "root_lang": "lzh",
+      "original_title": "須達生天",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "sn2.20",
+      "acronym": "SN 2.20",
+      "root_lang": "pli",
+      "original_title": "Anāthapiṇḍikasutta",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "ea51.8",
+      "acronym": "EA 51.8",
+      "root_lang": "lzh",
+      "original_title": "",
+      "translated_title": null,
+      "type": "full",
+      "resembling": true,
+      "remark": null
+    },
+    {
+      "uid": "ma28",
+      "acronym": "MA 28",
+      "root_lang": "lzh",
+      "original_title": "教化病",
+      "translated_title": null,
+      "type": "full",
+      "resembling": true,
+      "remark": null
+    },
+    {
+      "uid": "mn143",
+      "acronym": "MN 143",
+      "root_lang": "pli",
+      "original_title": "Anāthapiṇḍikovādasutta",
+      "translated_title": "The Exhortation to Anāthapiṇḍika",
+      "type": "full",
+      "resembling": true,
+      "remark": null
+    },
+    {
+      "uid": "sa1032",
+      "acronym": "SA 1032",
+      "root_lang": "lzh",
+      "original_title": "給孤獨",
+      "translated_title": null,
+      "type": "full",
+      "resembling": true,
+      "remark": null
+    },
+    {
+      "uid": "sht-sutta66",
+      "acronym": "SHT Sutta 66",
+      "root_lang": "san",
+      "original_title": "",
+      "translated_title": null,
+      "type": "full",
+      "resembling": true,
+      "remark": null
+    },
+    {
+      "uid": "sn1.48",
+      "acronym": "SN 1.48",
+      "root_lang": "pli",
+      "original_title": "Jetavanasutta",
+      "translated_title": "Jeta’s Grove",
+      "type": "full",
+      "resembling": true,
+      "remark": null
+    },
+    {
+      "uid": "sn55.26",
+      "acronym": "SN 55.26",
+      "root_lang": "pli",
+      "original_title": "Paṭhamaanāthapiṇḍikasutta",
+      "translated_title": null,
+      "type": "full",
+      "resembling": true,
+      "remark": null
+    }
+  ],
+  "primary_sn_uid": "sn2.20",
+  "pali_text": "Ekamantaṁ ṭhito kho anāthapiṇḍiko devaputto bhagavato santike imā gāthāyo abhāsi: “Idañhi taṁ jetavanaṁ, isisaṅghanisevitaṁ; Āvutthaṁ dhammarājena, pītisañjananaṁ mama. Kammaṁ vijjā ca dhammo ca, sīlaṁ jīvitamuttamaṁ; Etena maccā sujjhanti, na gottena dhanena vā. Tasmā hi paṇḍito poso, sampassaṁ atthamattano; Yoniso vicine dhammaṁ, evaṁ tattha visujjhati. Sāriputtova paññāya, sīlena upasamena ca; Yopi pāraṅgato bhikkhu, etāvaparamo siyā”ti. Idamavoca anāthapiṇḍiko devaputto. Idaṁ vatvā bhagavantaṁ abhivādetvā padakkhiṇaṁ katvā tatthevantaradhāyi. Atha kho bhagavā tassā rattiyā accayena bhikkhū āmantesi: “imaṁ, bhikkhave, rattiṁ aññataro devaputto abhikkantāya rattiyā abhikkantavaṇṇo kevalakappaṁ jetavanaṁ obhāsetvā yenāhaṁ tenupasaṅkami; upasaṅkamitvā maṁ abhivādetvā ekamantaṁ aṭṭhāsi. Ekamantaṁ ṭhito kho, bhikkhave, so devaputto mama santike imā gāthāyo abhāsi: ‘Idañhi taṁ jetavanaṁ, isisaṅghanisevitaṁ; Āvutthaṁ dhammarājena, pītisañjananaṁ mama. Kammaṁ vijjā ca dhammo ca, sīlaṁ jīvitamuttamaṁ; Etena maccā sujjhanti, na gottena dhanena vā. Tasmā hi paṇḍito poso, sampassaṁ atthamattano; Yoniso vicine dhammaṁ, evaṁ tattha visujjhati. Sāriputtova paññāya, sīlena upasamena ca; Yopi pāraṅgato bhikkhu, etāvaparamo siyā’ti. Idamavoca, bhikkhave, so devaputto. Idaṁ vatvā maṁ abhivādetvā padakkhiṇaṁ katvā tatthevantaradhāyī”ti. Evaṁ vutte, āyasmā ānando bhagavantaṁ etadavoca: “so hi nūna, bhante, anāthapiṇḍiko devaputto bhavissati. Anāthapiṇḍiko gahapati āyasmante sāriputte abhippasanno ahosī”ti. “Sādhu sādhu, ānanda, yāvatakaṁ kho, ānanda, takkāya pattabbaṁ anuppattaṁ taṁ tayā. Anāthapiṇḍiko hi so, ānanda, devaputto”ti. Anāthapiṇḍikavaggo dutiyo. Tassuddānaṁ Candimaso ca veṇḍu ca, Dīghalaṭṭhi ca nandano; Candano vāsudatto ca, Subrahmā kakudhena ca; Uttaro navamo vutto, Dasamo anāthapiṇḍikoti.",
+  "english_sn_text": "Standing to one side, the godling Anāthapiṇḍika recited these verses in the Buddha’s presence: “This is indeed that Jeta’s Grove, frequented by the Saṅgha of seers, where the King of Dhamma stayed: it brings me joy! Deeds, knowledge, and principle; ethical conduct, an excellent livelihood; by these are mortals purified, not by clan or wealth. That’s why an astute person, seeing what’s good for themselves, would examine the teaching rationally, that’s how they become purified in that. Sāriputta is full of wisdom, ethics, and peace. Even a mendicant who has crossed over might at best equal him.” That is what the godling Anāthapiṇḍika said. Then he bowed and respectfully circled the Buddha, keeping him on his right, before vanishing right there. Then, when the night had passed, the Buddha addressed the mendicants: “Mendicants, tonight, a certain glorious godling, lighting up the entire Jeta’s Grove, came to me, bowed, stood to one side, and recited these verses in my presence.” The Buddha then repeated the verses in full. When he said this, Venerable Ānanda said to the Buddha, “Sir, that godling must surely have been Anāthapiṇḍika. For the householder Anāthapiṇḍika was devoted to Venerable Sāriputta.” “Good, good, Ānanda. You’ve reached the logical conclusion, as far as logic goes. For that was indeed the godling Anāthapiṇḍika.”",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa501-600/sa593_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa501-600/sa593_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛住舍卫国祇树给孤独园。\n给孤独长者病终生兜率，为天子。念言：「不宜久留，当见世尊。」如屈伸臂，兜率没，现佛前，礼足却坐；身光满祇园。\n说偈：「于此祇桓林，仙人僧住止，诸王亦住此，增我欢喜心，深信净戒业，智慧为胜寿，以此净众生，非族姓财物，大智舍利弗，正念常寂默，闲居修远离，初建业良友。」\n说已即没。\n夜过，佛入僧中敷座，告比丘：「此夜有天子，容色绝妙，来我前说如上偈。」\n阿难白佛：「应是给孤独长者生彼来见；彼于舍利弗极敬重。」\n佛告阿难：「正是。给孤独长者生彼天，来见我。」\n佛为舍利弗说偈：「一切世间智，唯除于如来，比舍利弗智，十六不及一。如舍利弗智，天人悉同等，比于如来智，十六不及一。」\n佛说此经已，诸比丘闻佛所说，欢喜奉行。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在舍卫国祇树给孤独园。\n给孤独长者病终生兜率，为天子。念言：「不宜久留，当见世尊。」如屈伸臂，兜率没，现佛前，礼足却坐；身光满祇园。\n说偈：「于此祇桓林，仙人僧住止，诸王亦住此，增我欢喜心，深信净戒业，智慧为胜寿，以此净众生，非族姓财物，大智舍利弗，正念常寂默，闲居修远离，初建业良友。」\n说已即没。\n夜过，佛入僧中敷座，告比丘：「此夜有天子，容色绝妙，来我前说如上偈。」\n阿难白佛：「应是给孤独长者生彼来见；彼于舍利弗极敬重。」\n佛告阿难：「正是。给孤独长者生彼天，来见我。」\n佛为舍利弗说偈：「一切世间智，唯除于如来，比舍利弗智，十六不及一。如舍利弗智，天人悉同等，比于如来智，十六不及一。」\n佛说完这部经，比丘们听佛所说，都欢喜奉行。",
+  "notes": "本经 SC 平行表所列平行及 `raw_aligned_data.json` 内之巴利本文、Sujato 英译并用以厘定法义；求那跋陀罗汉本用于定位经文与传统术语。confidence=high：primary SN2.20（Anāthapiṇḍika devaputta 赞祇园、戒慧、舍利弗）。据 SN 校正：业／慧／律净众生，非族姓财；末偈比智十六分一。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "high",
+  "prior_review_status": "needs_revision",
+  "similarity_to_source": 0.238,
+  "paragraph_parallel": true,
+  "quality_gate_reasons": [
+    "sim_lit=0.544>=0.45",
+    "lit_mod_gap=0.325>=0.1"
+  ]
+}

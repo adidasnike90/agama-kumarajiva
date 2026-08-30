@@ -1,0 +1,53 @@
+{
+  "id": "SA_1076",
+  "uid": "sa1076",
+  "title": "雜阿含經  卷第四十五  比丘相應  （1076）  陀驃",
+  "chinese_text": "如是我聞：\n\n一時，佛住王舍城迦蘭陀竹園。\n\n爾時，尊者陀驃摩羅子詣佛所，稽首佛足，退住一面，白佛言：「世尊！我願於佛前取般涅槃。」\n\n世尊默然。如是三啟，佛告陀驃摩羅子：「此有為諸行，法應如是！」\n\n爾時，尊者陀驃摩羅子即於佛前，入於三昧，如其正受，向於東方，昇虛空行，現四威儀，行、住、坐、臥，入火三昧，身下出火，舉身洞然，光焰四布，青、黃、赤、白、頗梨紅色。身下出火，還燒其身，身上出水，以灑其身，或身上出火，下燒其身，身下出水，上灑其身。周向十方，種種現化已，即於空中，內身出火，還自焚其身，取無餘涅槃，消盡寂滅，令無遺塵。譬如空中然燈，油炷俱盡，陀驃摩羅子空中涅槃，身心俱盡，亦復如是。爾時，世尊即說偈言：\n\n「譬如燒鐵丸，　　其焰洞熾然，\n\n　熱勢漸息滅，　　莫知其所歸。\n\n　如是等解脫，　　度煩惱淤泥，\n\n　諸流永已斷，　　莫知其所之。\n\n　逮得不動跡，　　入無餘涅槃。」\n\n佛說此經已，諸比丘聞佛所說，歡喜奉行。",
+  "english_sa_text": "",
+  "parallels": [
+    {
+      "uid": "sa-2.15",
+      "acronym": "SA2 15",
+      "root_lang": "lzh",
+      "original_title": "陀驃",
+      "translated_title": "Dabba enters Nirvāṇa",
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "ud8.9",
+      "acronym": "Ud 8.9",
+      "root_lang": "pli",
+      "original_title": "Paṭhamadabbasutta",
+      "translated_title": "The First Discourse about Dabba",
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    }
+  ],
+  "primary_sn_uid": null,
+  "pali_text": "",
+  "english_sn_text": "",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa1001-1100/sa1076_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa1001-1100/sa1076_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛住王舍城迦兰陀竹园。\n尊者陀骠摩罗子诣佛，三请于佛前取般涅槃。佛曰：「有为诸行，法应如是。」\n彼即入定，东向升空，现四威仪及火光水灌；于空中内火自焚，取无余涅槃，身心俱尽，如灯油炷俱尽。\n佛说偈：「如烧铁丸，焰炽渐冷，莫知所归；等解脱者，出烦恼淤，诸流永断，入无余涅槃，亦复如是。」\n佛说此经已，诸比丘闻佛所说，欢喜奉行。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在王舍城迦兰陀竹园。\n尊者陀骠摩罗子来见佛，三次请求在佛前入般涅槃。佛说：「有为诸行，法本如此。」\n他随即入定，向东方升上空中，示现行住坐卧和火光、水灌；又在空中从身内出火自焚，证入无余涅槃，身心都尽，如同空中油灯油与灯芯一起燃尽。\n佛说偈：「好比烧红的铁丸，火焰炽热后渐渐冷却，不知归向何处；同样，已得解脱的人，出离烦恼淤泥，诸流永断，入无余涅槃，也是如此。」\n佛说完这部经，比丘们听佛所说，都欢喜奉行。",
+  "notes": "本经 SC 平行表所列平行及 `raw_aligned_data.json` 内之巴利本文、Sujato 英译并用以厘定法义；求那跋陀罗汉本用于定位经文与传统术语。据 Ud8.9 Dabba：于空中火界入无余涅槃；铁丸喻与汉本相应。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "high",
+  "prior_review_status": "needs_revision",
+  "similarity_to_source": 0.133,
+  "paragraph_parallel": true
+}

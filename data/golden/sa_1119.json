@@ -1,0 +1,53 @@
+{
+  "id": "SA_1119",
+  "uid": "sa1119",
+  "title": "雜阿含經  卷第四十八  帝釋相應  （1119）  婆稚",
+  "chinese_text": "如是我聞：\n\n一時，佛住舍衛國祇樹給孤獨園。\n\n爾時，世尊告諸比丘：「時，有天帝釋及鞞盧闍那子婆稚阿修羅王，有絕妙之容，於晨朝時，俱詣佛所，稽首佛足，退坐一面。時，天帝釋及鞞盧闍那子婆稚阿修羅王，身諸光明，普照祇樹給孤獨園。」\n\n爾時，鞞盧闍那阿修羅王說偈白佛：\n\n「人當勤方便，　　必令利滿足，\n\n　是利滿足已，　　何須復方便。」\n\n時，天帝釋復說偈言：\n\n「若人勤方便，　　必令利滿足，\n\n　是利滿足已，　　修忍無過上。」\n\n說是偈已，俱白佛言：「世尊！何者善說？」世尊告言：「汝等所說，二說俱善。」\n\n然今汝等復聽我說。\n\n「一切眾生類，　　悉皆求己利，\n\n　彼彼諸眾生，　　各自求所應。\n\n　世間諸和合，　　及與第一義，\n\n　當知世和合，　　則為非常法。\n\n　若人勤方便，　　必令利滿足，\n\n　是利滿足已，　　修忍無過上。」\n\n爾時，天帝釋及鞞盧闍那子婆稚阿修羅王聞佛所說，歡喜隨喜，作禮而去。\n\n爾時，世尊告諸比丘：「釋提桓因於三十三天為自在王，修行於忍，讚歎於忍。汝等比丘正信非家，出家學道，亦應如是修行於忍，讚歎於忍！」\n\n佛說此經已，諸比丘聞佛所說，歡喜奉行。",
+  "english_sa_text": "",
+  "parallels": [
+    {
+      "uid": "sa-2.50",
+      "acronym": "SA2 50",
+      "root_lang": "lzh",
+      "original_title": "婆稚",
+      "translated_title": "Sakka and Verocana",
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "sn11.8",
+      "acronym": "SN 11.8",
+      "root_lang": "pli",
+      "original_title": "Verocanaasurindasutta",
+      "translated_title": "Verocana, Lord of the Asuras",
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    }
+  ],
+  "primary_sn_uid": "sn11.8",
+  "pali_text": "Sāvatthiyaṁ jetavane. Tena kho pana samayena bhagavā divāvihāragato hoti paṭisallīno. Atha kho sakko ca devānamindo verocano ca asurindo yena bhagavā tenupasaṅkamiṁsu; upasaṅkamitvā paccekaṁ dvārabāhaṁ nissāya aṭṭhaṁsu. Atha kho verocano asurindo bhagavato santike imaṁ gāthaṁ abhāsi: “Vāyametheva puriso, yāva atthassa nipphadā; Nipphannasobhano attho, verocanavaco idan”ti. “Vāyametheva puriso, yāva atthassa nipphadā; Nipphannasobhano attho, khantyā bhiyyo na vijjatī”ti. “Sabbe sattā atthajātā, tattha tattha yathārahaṁ; Saṁyogaparamā tveva, sambhogā sabbapāṇinaṁ; Nipphannasobhano attho, verocanavaco idan”ti. “Sabbe sattā atthajātā, tattha tattha yathārahaṁ; Saṁyogaparamā tveva, sambhogā sabbapāṇinaṁ; Nipphannasobhano attho, khantyā bhiyyo na vijjatī”ti.",
+  "english_sn_text": "Near Sāvatthī in Jeta’s Grove. Now at that time the Buddha had gone into retreat for the day’s meditation. Then Sakka, lord of gods, and Verocana, lord of titans, approached the Buddha and stationed themselves one by each door-post. Then Verocana spoke this verse in the Buddha’s presence: “A man should make an effort until his goal is accomplished. A goal is splendid when accomplished— this is the word of Verocana!” “A man should make an effort until his goal is accomplished. For the goal that’s splendid when accomplished, naught better than patience is found.” “All beings are in need, as they deserve in each case. But even so, harnessed work is the highest thing of value for all living creatures. A goal is splendid when accomplished— this is the word of Verocana!” “All beings are in need, as they deserve in each case. But rather than harnessed work being the highest thing of value for all living creatures, for the goal that’s splendid when accomplished, naught better than patience is found.”",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa1101-1200/sa1119_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa1101-1200/sa1119_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛住舍卫国祇树给孤独园。\n时天帝释与鞞卢阇那子婆稚阿修罗王，晨朝俱诣佛所，身光普照祇园，退坐一面。\n婆稚说偈：「人当勤方便，必令利满足；利满足已，何须复方便。」帝释说偈：「若人勤方便，必令利满足；利满足已，修忍无过上。」俱问：「何者善说？」佛言：「二说俱善。且复听我：」\n「一切众生各求己利。世间和合与第一义——当知世和合是无常法。若人勤方便令利满足，利满足已，修忍无过上。」\n二人欢喜作礼而去。佛告比丘：「帝释修行于忍、赞叹于忍；汝等亦应修忍、赞叹忍。」\n佛说此经已，诸比丘闻佛所说，欢喜奉行。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在舍卫国祇树给孤独园。\n那天帝释与鞞卢阇那之子婆稚阿修罗王清晨一同来到佛前，身光普照祇园，退坐一面。\n婆稚说偈：「人应当努力，一定要使利益圆满；利益圆满了，何必再努力。」帝释说偈：「人若努力使利益圆满；利益圆满之后，修忍才是最上。」两人问：「谁说得更好？」佛说：「两种都好。再听我说：」\n「一切众生各自求自己的利益。世间的和合与第一义——要知道世间和合是无常法。人若努力使利益圆满，圆满之后，修忍才是最上。」\n两人欢喜作礼离去。佛告诉比丘们：「帝释修行忍、赞叹忍；你们也应当修忍、赞叹忍。」\n佛说完这部经，比丘们听佛所说，都欢喜奉行。",
+  "notes": "本经 SC 平行表所列平行及 `raw_aligned_data.json` 内之巴利本文、Sujato 英译并用以厘定法义；求那跋陀罗汉本用于定位经文与传统术语。confidence=high：primary SN11.8 Verocana／Vepacitti-or-Veroca；阿修罗主勤方便，帝释以忍为上；佛双印并归于无常与忍。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "high",
+  "prior_review_status": "needs_revision",
+  "similarity_to_source": 0.185,
+  "paragraph_parallel": true
+}

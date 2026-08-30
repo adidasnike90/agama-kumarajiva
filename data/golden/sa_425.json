@@ -1,0 +1,44 @@
+{
+  "id": "SA_425",
+  "uid": "sa425",
+  "title": "雜阿含經  卷第十七  界相應  （425）  千世界",
+  "chinese_text": "如是我聞：\n\n一時，佛住王舍城迦蘭陀竹園。\n\n爾時，世尊告諸比丘：「從小千世界數滿至千，是名中千世界。於是中千世界，中間闇冥，如前所說，乃至於四聖諦未無間等者，當勤方便，起增上欲，學無間等。」\n\n佛說此經已，諸比丘聞佛所說，歡喜奉行。",
+  "english_sa_text": "",
+  "parallels": [
+    {
+      "uid": "an3.80",
+      "acronym": "AN 3.80",
+      "root_lang": "pli",
+      "original_title": "Cūḷanikāsutta",
+      "translated_title": null,
+      "type": "full",
+      "resembling": true,
+      "remark": null
+    }
+  ],
+  "primary_sn_uid": null,
+  "pali_text": "",
+  "english_sn_text": "",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa401-500/sa425_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa401-500/sa425_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛在王舍城迦兰陀竹园。\n尔时，世尊告诸比丘：「从小千世界数满至千，是名中千世界。中千世界中间亦有大闇冥——日月威光所不能照；而不如实知四圣谛者，堕生、老、病、死、忧、悲、恼、苦大闇，过彼中千中间之闇。是故当于四圣谛勤修无间等。」\n佛说此经已，诸比丘闻佛所说，欢喜奉行。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在王舍城迦兰陀竹园。\n那时，世尊告诉比丘们：「从小千世界数满到一千，叫做中千世界。中千世界中间也有大黑暗——日月的威光也照不到；而不能如实了知四圣谛的人，堕入生、老、病、死、忧、悲、恼、苦的大黑暗，超过那中千中间的黑暗。所以应当对四圣谛勤修无间等。」\n佛说完这部经，比丘们听佛所说，都欢喜奉行。",
+  "notes": "SC 于本经未列可靠巴利平行，故唯以汉本为底，参同相应之巴利定型语厘义；依项目规约「无可靠平行时 confidence 降为 medium/low」，本经作 medium。底本『如前所说，乃至……学无间等』为交叉指示；依 SA_424 小千闇冥＋四谛框，差别改为中千世界。",
+  "review_status": "gold_reconstructed",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "medium",
+  "prior_review_status": "needs_revision",
+  "reconstruction_basis": "底本『如前所说，乃至……学无间等』为交叉指示；依 SA_424 小千闇冥＋四谛框，差别改为中千世界",
+  "similarity_to_source": 0.24,
+  "paragraph_parallel": true
+}

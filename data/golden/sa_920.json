@@ -1,0 +1,83 @@
+{
+  "id": "SA_920",
+  "uid": "sa920",
+  "title": "雜阿含經  卷第三十六  釋氏相應  （920）  三",
+  "chinese_text": "如是我聞：\n\n一時，佛住王舍城迦蘭陀竹園。\n\n爾時，世尊告諸比丘：「世有三種良馬，王所服乘。何等為三？謂良馬色具足、力具足、捷疾具足。如是於正法、律有三種善男子，世所奉事、供養、恭敬，為無上福田。何等為三？謂善男子色具足、力具足、捷疾具足。\n\n「何等為色具足？謂善男子住於淨戒波羅提木叉律儀，威儀行處具足，見微細罪，能生怖畏，受持學戒，是名色具足。\n\n「何等力具足？已生惡不善法令斷，生欲、精勤方便，攝受增長；未生惡不善法不起，生欲、精勤方便，攝受增長。未生善法令起，生欲、精勤方便，攝受增長；已生善法住不忘失，生欲、精勤方便，攝受增長，是名力具足。\n\n「何等為捷疾具足？謂此苦聖諦如實知，乃至得阿羅漢，不受後有，是名捷疾具足。是名善男子色具足、力具足、捷疾具足。」\n\n佛說此經已，諸比丘聞佛所說，歡喜奉行。",
+  "english_sa_text": "",
+  "parallels": [
+    {
+      "uid": "an3.98",
+      "acronym": "AN 3.98",
+      "root_lang": "pli",
+      "original_title": "Tatiyaājānīyasutta",
+      "translated_title": "The Thoroughbred",
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "an3.97",
+      "acronym": "AN 3.97",
+      "root_lang": "pli",
+      "original_title": "Dutiyaājānīyasutta",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "an3.96",
+      "acronym": "AN 3.96",
+      "root_lang": "pli",
+      "original_title": "Paṭhamaājānīyasutta",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "sa-2.146",
+      "acronym": "SA2 146",
+      "root_lang": "lzh",
+      "original_title": "三",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "t114",
+      "acronym": "T 114",
+      "root_lang": "lzh",
+      "original_title": "佛說馬有三相",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    }
+  ],
+  "primary_sn_uid": null,
+  "pali_text": "",
+  "english_sn_text": "",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa901-1000/sa920_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa901-1000/sa920_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛住王舍城迦兰陀竹园。\n尔时世尊告诸比丘：「世有三种良马，王所服乘：色具足、力具足、捷疾具足。正法律中善男子亦有三德，世所奉事，为无上福田。\n「色具足：住净戒波罗提木叉律仪，威仪行处具足，见微细罪生怖畏，受持学戒。「力具足：已生恶不善法令断，未生令不生；未生善法令生，已生令增广——生欲精勤。「捷疾具足：苦圣谛如实知，苦集、苦灭、苦灭道迹圣谛如实知，乃至得阿罗汉，不受后有。」\n佛说此经已，诸比丘闻佛所说，欢喜奉行。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在王舍城迦兰陀竹园。\n那时世尊告诉比丘们：「世上有三种良马，是国王所驾乘的：毛色好、力气足、跑得快。正法律里的善男子也有三德，为世间所奉事，是无上福田。\n「毛色完备：安住清净戒与波罗提木叉律仪，威仪举止完备，见微细罪就生怖畏，受持学处。「力气完备：已生的恶不善法使其断除，未生的使其不生；未生的善法使其生起，已生的使其增长——生起欲乐而精勤。「速度完备：如实知苦圣谛，以及苦集、苦灭、苦灭道迹圣谛，一直到得阿罗汉，不受后有。」\n佛说完这部经，比丘们听佛所说，都欢喜奉行。",
+  "notes": "本经 SC 平行表所列平行及 `raw_aligned_data.json` 内之巴利本文、Sujato 英译并用以厘定法义；求那跋陀罗汉本用于定位经文与传统术语。confidence=high：parallels AN3.96–98；色=戒律仪；力=四正勤；捷疾=见谛至漏尽。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "high",
+  "prior_review_status": "needs_revision",
+  "similarity_to_source": 0.251,
+  "paragraph_parallel": true
+}

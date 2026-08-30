@@ -1,0 +1,43 @@
+{
+  "id": "SA_51",
+  "uid": "sa51",
+  "title": "雜阿含經  卷第二  陰相應  （五一）  壞法",
+  "chinese_text": "如是我聞：\n\n一時，佛住舍衛國祇樹給孤獨園。\n\n爾時，世尊告諸比丘：「我今為汝說壞、不壞法。諦聽，善思，當為汝說。諸比丘！色是壞法，彼色滅涅槃是不壞法；受、想、行、識是壞法，彼識滅涅槃是不壞法。」\n\n佛說此經已，諸比丘聞佛所說，歡喜奉行。",
+  "english_sa_text": "",
+  "parallels": [
+    {
+      "uid": "sn22.32",
+      "acronym": "SN 22.32",
+      "root_lang": "pli",
+      "original_title": "Pabhaṅgusutta",
+      "translated_title": "The Fragile",
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    }
+  ],
+  "primary_sn_uid": "sn22.32",
+  "pali_text": "Sāvatthinidānaṁ. “Pabhaṅguñca, bhikkhave, desessāmi appabhaṅguñca. Taṁ suṇātha. Kiñca, bhikkhave, pabhaṅgu, kiṁ appabhaṅgu? Rūpaṁ, bhikkhave, pabhaṅgu. Yo tassa nirodho vūpasamo atthaṅgamo, idaṁ appabhaṅgu. Vedanā pabhaṅgu. Yo tassā nirodho vūpasamo atthaṅgamo, idaṁ appabhaṅgu. Saññā pabhaṅgu … saṅkhārā pabhaṅgu. Yo tesaṁ nirodho vūpasamo atthaṅgamo, idaṁ appabhaṅgu. Viññāṇaṁ pabhaṅgu. Yo tassa nirodho vūpasamo atthaṅgamo, idaṁ appabhaṅgū”ti. Ekādasamaṁ. Bhāravaggo tatiyo. Tassuddānaṁ Bhāraṁ pariññaṁ abhijānaṁ, chandarāgaṁ catutthakaṁ; Assādā ca tayo vuttā, abhinandanamaṭṭhamaṁ; Uppādaṁ aghamūlañca, ekādasamo pabhaṅgūti.",
+  "english_sn_text": "At Sāvatthī. “Mendicants, I will teach you what is brittle and what is not brittle. Listen … And what is brittle? What is not brittle? Form is brittle, but its cessation, settling, and disappearance is not brittle. Feeling … perception … choices … consciousness is brittle, but its cessation, settling, and disappearance is not brittle.”",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa1-100/sa51_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa1-100/sa51_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时佛在舍卫国祇树给孤独园。\n尔时世尊告诸比丘：我今说坏法、不坏法。谛听，善思念之。色是坏法，色灭涅槃是不坏法；受、想、行、识是坏法，识灭涅槃是不坏法。\n佛说此经已，诸比丘闻佛所说，欢喜奉行。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在舍卫国祇树给孤独园。\n那时，世尊告诉比丘们：我现在说坏法与不坏法。仔细听，好好思维。色是会坏灭的法，色灭尽而证的涅槃才是不坏之法；受、想、行、识也是会坏灭的法，识灭尽而证的涅槃才是不坏之法。\n佛说完这部经，比丘们听佛所说，都欢喜奉行。",
+  "notes": "据 SN22.32：坏法＝五蕴可坏；不坏法＝彼灭之涅槃。雅化删「彼色灭／彼识灭」赘复。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "high",
+  "prior_review_status": "needs_revision",
+  "revision_reason": "信达雅 v1：据巴利平行重译，去繁转简稿",
+  "similarity_to_source": 0.386
+}

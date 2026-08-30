@@ -1,0 +1,53 @@
+{
+  "id": "SA_560",
+  "uid": "sa560",
+  "title": "雜阿含經  卷第二十四  阿難相應  （560）  度量",
+  "chinese_text": "如是我聞：\n\n一時，佛住俱睒彌國瞿師羅園。爾時，尊者阿難亦在彼住。\n\n時，尊者阿難告諸比丘：「若比丘！比丘尼於我前自記說，我當善哉慰勞問訊，或求以四道。何等為四？若比丘、比丘尼坐，作如是住心、善住心、局住心、調伏心、止、觀、一心、等受，分別於法量度，修習多修習已，得斷諸使。若有比丘、比丘尼於我前自記說，我則如是善哉慰喻，或求是，名說初道。\n\n「復次，比丘、比丘尼正坐思惟，於法選擇，思量住心，善住、局住，調伏止觀，一心等受。如是正向多住，得離諸使，若有比丘、比丘尼於我前自記說，我當如是善哉慰喻，或求是，名第二說道。\n\n「復次，比丘、比丘尼為掉亂所持，以調伏心坐、正坐，住心、善住心、局住心，調伏止觀，一心等受化。如是正向多住已，則斷諸使，若有比丘、比丘尼於我前自記說，我則如是善哉慰喻，或求是，名第三說道。\n\n「復次，比丘、比丘尼止觀和合俱行，作如是正向多住，則斷諸使。若比丘、比丘尼於我前自記說者，我則如是善哉慰喻教誡，或求是，名第四說道。」\n\n時，諸比丘聞尊者阿難所說，歡喜奉行。",
+  "english_sa_text": "",
+  "parallels": [
+    {
+      "uid": "an4.170",
+      "acronym": "AN 4.170",
+      "root_lang": "pli",
+      "original_title": "Yuganaddhasutta",
+      "translated_title": "In Tandem",
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "ps2.1",
+      "acronym": "Ps 2.1",
+      "root_lang": "pli",
+      "original_title": "Yuganaddhakathā",
+      "translated_title": "Treatise on Coupling",
+      "type": "mention",
+      "resembling": false,
+      "remark": null
+    }
+  ],
+  "primary_sn_uid": null,
+  "pali_text": "",
+  "english_sn_text": "",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa501-600/sa560_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa501-600/sa560_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛在俱睒弥国瞿师罗园。尔时，尊者阿难亦在彼住。\n阿难告诸比丘：「若比丘、比丘尼于我前自记说，我当善哉慰劳，或求以四道。何等为四？正坐，于法量度、选择、思惟，修止观、一心、等受，多修习，得断诸使——名初道。复次，正坐思惟，于法选择、思量，修止观、一心、等受，正向多住，得离诸使——名第二道。复次，为掉乱所持，以调伏心正坐，修止观、一心、等受，断诸使——名第三道。复次，止观和合俱行，正向多住，断诸使——名第四道。」\n尊者阿难说是经已，诸比丘闻其所说，欢喜奉行。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在俱睒弥国瞿师罗园。那时，阿难尊者也在那里住。\n阿难告诉比丘们：「如果比丘、比丘尼在我面前自己记说，我会善哉慰劳，或者依四道来求。哪四种？正坐，对法量度、选择、思惟，修止观、一心、等受，多修习，能断诸使——叫做初道。其次，正坐思惟，对法选择、思量，修止观、一心、等受，正向多住，能离诸使——叫做第二道。其次，被掉乱所持，以调伏心正坐，修止观、一心、等受，断诸使——叫做第三道。其次，止观和合俱行，正向多住，断诸使——叫做第四道。」\n阿难尊者说完这部经，比丘们听其所说，都欢喜奉行。",
+  "notes": "本经 SC 平行表所列平行及 `raw_aligned_data.json` 内之巴利本文、Sujato 英译并用以厘定法义；求那跋陀罗汉本用于定位经文与传统术语。confidence=medium：parallel AN4.170（四道度量自记）；亦列 ps2.1。从汉本四道次第，据 AN 厘义。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "medium",
+  "prior_review_status": "needs_revision",
+  "similarity_to_source": 0.23,
+  "paragraph_parallel": true
+}

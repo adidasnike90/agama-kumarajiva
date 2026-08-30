@@ -1,0 +1,53 @@
+{
+  "id": "SA_1008",
+  "uid": "sa1008",
+  "title": "雜阿含經  卷第四十一  諸天相應  （1008）  種子",
+  "chinese_text": "如是我聞：\n\n一時，佛住舍衛國祇樹給孤獨園。\n\n時，有天子容色絕妙，來詣佛所，稽首佛足，身諸光明遍照祇樹給孤獨園。\n\n時，彼天子而說偈言：\n\n「從地起眾生，　　何者為最勝？\n\n　於空墮落者，　　復以何勝上？\n\n　凡所祈請處，　　何者最第一？\n\n　於諸言語中，　　何者為上辯？」\n\n時，有一天子本為田家子，今得生天上，以本習故，即便說偈答彼天子：\n\n「五穀從地生，　　是則為最勝，\n\n　種子於空中，　　落地為最勝。\n\n　特牛資養人，　　是則依中勝，\n\n　愛子有所說，　　是則言中勝。」\n\n彼發問天子語答者言：「我不問汝，何故多言輕躁妄說，我自說偈問世尊言：\n\n「從地起眾生，　　何者為最勝？\n\n　於空墮地者，　　復以何為勝？\n\n　凡所祈請處，　　何者為最勝？\n\n　於諸言語中，　　何者為上辯？」\n\n爾時，世尊說偈答言：\n\n「從下踊出者，　　三明為最上，\n\n　從空流下者，　　三明亦第一，\n\n　賢聖弟子僧，　　是師依之上，\n\n　如來之所說，　　諸說之最辯。」\n\n時，彼天子復說偈言：\n\n「世間幾法起？　　幾法相順可？\n\n　世幾法取愛？　　世幾法損減？」\n\n爾時，世尊說偈答言：\n\n「世六法等起，　　世六法順可，\n\n　世六法取愛，　　世六法損減。」\n\n時，彼天子復說偈言：\n\n「久見婆羅門，　　逮得般涅槃，\n\n　一切怖已過，　　永超世恩愛。」\n\n時，彼天子聞佛所說，歡喜隨喜，稽首佛足，即沒不現。",
+  "english_sa_text": "",
+  "parallels": [
+    {
+      "uid": "sa-2.234",
+      "acronym": "SA2 234",
+      "root_lang": "lzh",
+      "original_title": "種子",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "sn1.74",
+      "acronym": "SN 1.74",
+      "root_lang": "pli",
+      "original_title": "Vuṭṭhisutta",
+      "translated_title": "Rain",
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    }
+  ],
+  "primary_sn_uid": "sn1.74",
+  "pali_text": "“Kiṁsu uppatataṁ seṭṭhaṁ, kiṁsu nipatataṁ varaṁ; Kiṁsu pavajamānānaṁ, kiṁsu pavadataṁ varan”ti. “Bījaṁ uppatataṁ seṭṭhaṁ, vuṭṭhi nipatataṁ varā; Gāvo pavajamānānaṁ, putto pavadataṁ varo”ti. “Vijjā uppatataṁ seṭṭhā, avijjā nipatataṁ varā; Saṅgho pavajamānānaṁ, buddho pavadataṁ varo”ti.",
+  "english_sn_text": "“What’s the best of things that rise? And what’s the finest thing to fall? And what of the things that go forth? And who’s the finest speaker?” “A seed’s the best of things that rise. Rain’s the finest thing to fall. Cattle, of things that go forth. And a child is the finest speaker.” “Knowledge is best of things that rise. Ignorance the finest thing to fall. The Saṅgha, of things that go forth. And the Buddha is the finest speaker.”",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa1001-1100/sa1008_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa1001-1100/sa1008_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛住舍卫国祇树给孤独园。\n后夜分，有天子来诣佛所，容色绝妙，稽首礼足；身光遍照祇园。\n天子问偈：「从地起者何最胜？于空堕落何为上？何所依止最为胜？诸说之中谁上辩？」\n有天子本为田家，以宿习答：「五谷从地起最胜，种子于空落为上，特牛依止最为胜，爱子所说为上辩。」\n问者斥曰：「我不问汝。」复以偈问佛。\n世尊答：「明从下踊出最胜，无明于空落为上，僧为依止最为胜，佛说诸说之上辩。」\n天子复问：「世间几法起？几法相随顺？几法取于爱？几法当损减？」\n佛答：「世六法等起，世六法随顺，世六法取爱，世六法损减。」\n天子说偈：「久见婆罗门，逮得般涅槃，一切怖已过，永超世恩爱。」闻已欢喜，礼足即没。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在舍卫国祇树给孤独园。\n后夜分，有一位天子来到佛前，容色绝妙，顶礼佛足；身光遍照祇园。\n天子问偈：「从地涌起的什么最上？从空中落下的什么最上？什么依止最上？什么说法最上？」\n有位前世务农的天子凭旧习回答：「五谷从地起最上，种子从空落下最上，壮牛是依止中最上，爱子的话是言语中最上。」\n发问的天子斥责说：「我不是问你。」再以偈问佛。\n世尊答：「明从下涌起最上，无明从空落下最上，僧伽是依止最上，佛说是最上辩才。」\n天子又问：「世间几法俱起？几法相随顺？几法取著为爱？几法应当减损？」\n佛答：「世间六法俱起，六法随顺，六法取爱，六法损减。」\n天子又说偈：「久见婆罗门，逮得般涅槃，一切怖已过，永超世恩爱。」听完欢喜随喜，顶礼佛足，随即隐没不见。",
+  "notes": "本经 SC 平行表所列平行及 `raw_aligned_data.json` 内之巴利本文、Sujato 英译并用以厘定法义；求那跋陀罗汉本用于定位经文与传统术语。confidence=high：primary SN1.74 Bīja。据 SN：田家答种子／雨／牛／子；佛答 vijjā／avijjā／saṅgha／buddha。汉「三明」作踊出／落下，今作明／无明；末段六法问答为汉本所有，SN1.74 无，保留并志异。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "high",
+  "prior_review_status": "needs_revision",
+  "similarity_to_source": 0.12,
+  "paragraph_parallel": true
+}

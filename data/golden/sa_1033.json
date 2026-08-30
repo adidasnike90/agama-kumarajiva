@@ -1,0 +1,44 @@
+{
+  "id": "SA_1033",
+  "uid": "sa1033",
+  "title": "雜阿含經  卷第四十三  業報相應  （1033）  達摩提離",
+  "chinese_text": "達磨提離長者修多羅亦如世尊為給孤獨長者初修多羅廣說，第二修多羅亦如是說。差別者：「若復長者依此四不壞淨已，於上修習六念：謂念如來事，乃至念天。」\n\n長者白佛言：「世尊！依四不壞淨，於上修六隨念，我今悉成就，我常修念如來事，乃至念天。」\n\n佛告長者：「善哉！善哉！汝今自記阿那含果。」\n\n長者白佛：「唯願世尊受我請食。」爾時，世尊默然受請。\n\n長者知佛受請已，即具種種淨美飲食，恭敬供養，世尊食已，復為長者種種說法，示、教、照、喜已，從坐起而去。",
+  "english_sa_text": "",
+  "parallels": [
+    {
+      "uid": "sn55.53",
+      "acronym": "SN 55.53",
+      "root_lang": "pli",
+      "original_title": "Dhammadinnasutta",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    }
+  ],
+  "primary_sn_uid": "sn55.53",
+  "pali_text": "Ekaṁ samayaṁ bhagavā bārāṇasiyaṁ viharati isipatane migadāye. Atha kho dhammadinno upāsako pañcahi upāsakasatehi saddhiṁ yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṁ abhivādetvā ekamantaṁ nisīdi. Ekamantaṁ nisinno kho dhammadinno upāsako bhagavantaṁ etadavoca: “ovadatu no, bhante, bhagavā; anusāsatu no, bhante, bhagavā yaṁ amhākaṁ assa dīgharattaṁ hitāya sukhāyā”ti. “Tasmātiha vo, dhammadinna, evaṁ sikkhitabbaṁ: ‘ye te suttantā tathāgatabhāsitā gambhīrā gambhīratthā lokuttarā suññatapaṭisaṁyuttā te kālena kālaṁ upasampajja viharissāmā’ti. Evañhi vo, dhammadinna, sikkhitabban”ti. “Na kho netaṁ, bhante, sukaraṁ amhehi puttasambādhasayanaṁ ajjhāvasantehi kāsikacandanaṁ paccanubhontehi mālāgandhavilepanaṁ dhārayantehi jātarūparajataṁ sādiyantehi— ye te suttantā tathāgatabhāsitā gambhīrā gambhīratthā lokuttarā suññatapaṭisaṁyuttā te kālena kālaṁ upasampajja viharituṁ. Tesaṁ no, bhante, bhagavā amhākaṁ pañcasu sikkhāpadesu ṭhitānaṁ uttaridhammaṁ desetū”ti. “Tasmātiha vo, dhammadinna, evaṁ sikkhitabbaṁ: ‘buddhe aveccappasādena samannāgatā bhavissāma— itipi so bhagavā …pe… satthā devamanussānaṁ buddho bhagavāti. Dhamme …pe… saṅghe …pe… ariyakantehi sīlehi samannāgatā bhavissāma akhaṇḍehi …pe… samādhisaṁvattanikehī’ti. Evañhi vo, dhammadinna, sikkhitabban”ti. “Yānimāni, bhante, bhagavatā cattāri sotāpattiyaṅgāni desitāni, saṁvijjante dhammā amhesu, mayañca tesu dhammesu sandissāma. Mayañhi, bhante, buddhe aveccappasādena samannāgatā— itipi so bhagavā …pe… satthā devamanussānaṁ buddho bhagavāti. Dhamme …pe… saṅghe …pe… ariyakantehi sīlehi samannāgatā akhaṇḍehi …pe… samādhisaṁvattanikehī”ti. “Lābhā vo, dhammadinna, suladdhaṁ vo, dhammadinna. Sotāpattiphalaṁ tumhehi byākatan”ti. Tatiyaṁ.",
+  "english_sn_text": "At one time the Buddha was staying near Varanasi in the deer park at Isipatana. Then the lay follower Dhammadinna, together with five hundred lay followers, went up to the Buddha, bowed, sat down to one side, and said to him: “May the Buddha please advise and instruct us. It will be for our lasting welfare and happiness.” “So, Dhammadinna, you should all train like this: ‘From time to time we will undertake and dwell upon the discourses spoken by the Realized One that are deep, profound, transcendent, dealing with emptiness.’ That’s how you should train yourselves.” “Sir, we live at home with our children, using sandalwood imported from Kāsi, wearing garlands, fragrance, and makeup, and accepting gold and currency. It’s not easy for us to undertake and dwell from time to time upon the discourses spoken by the Realized One that are deep, profound, transcendent, dealing with emptiness. Since we are established in the five training rules, please teach us further.” “So, Dhammadinna, you should all train like this: ‘We will have experiential confidence in the Buddha … the teaching … the Saṅgha … And we will have the ethical conduct loved by the noble ones … leading to immersion.’ That’s how you should train yourselves.” “Sir, these four factors of stream-entry that were taught by the Buddha are found in us, and we embody them. For we have experiential confidence in the Buddha … the teaching … the Saṅgha … And we have the ethical conduct loved by the noble ones … leading to immersion.” “You’re all fortunate, Dhammadinna, so very fortunate! You’ve all declared the fruit of stream-entry.”",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa1001-1100/sa1033_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa1001-1100/sa1033_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛住舍卫国祇树给孤独园。\n尔时达摩提离长者身遭苦患。世尊往看，问安三受，乃至苦增不减。佛告言：「当依于佛不坏净、于法不坏净、于僧不坏净、圣戒成就；于上更修六念——念佛、念法、念僧、念戒、念施、念天。」\n长者白言：「于佛不坏净、于法不坏净、于僧不坏净、圣戒成就及六念，我今悉成就，常修不离。」\n佛言：「善哉！汝自记阿那含果。」请佛受食，默然许之。设供已，说法示教照喜，从坐起去。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在舍卫国祇树给孤独园。\n那时达摩提离长者身患重病。世尊前去探望，问起三受，一直到病苦加重不减。佛告诉他：「应当依止对佛不坏净、对法不坏净、对僧不坏净，以及圣戒成就；再往上修习六念——念佛、念法、念僧、念戒、念施、念天。」\n长者说：「对佛不坏净、对法不坏净、对僧不坏净，以及圣戒成就和六念，我现在都成就了，常常修习不离。」\n佛说：「很好！你自己记说了阿那含果。」他请佛用餐，佛默然答应。供养后，又为他说法开示鼓励，然后起身离去。",
+  "notes": "本经 SC 平行表所列平行及 `raw_aligned_data.json` 内之巴利本文、Sujato 英译并用以厘定法义；求那跋陀罗汉本用于定位经文与传统术语。confidence=medium：gold_reconstructed——汉「如给孤独初经／第二经广说」peeyāla，差别为四不坏净上修六念、记阿那含；SN55.53 Dhammadinna 在鹿野苑劝修甚深空相应说，后以四预流支记须陀洹，叙事异；本经依汉位次补视疾＋六念纲，果位从汉。reconstruction：peeyāla 视疾＋六念。",
+  "review_status": "gold_reconstructed",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "medium",
+  "prior_review_status": "needs_revision",
+  "reconstruction_basis": "「如给孤独经广说」peeyāla → 视疾＋四不坏净＋六念＋阿那含",
+  "similarity_to_source": 0.059,
+  "paragraph_parallel": true
+}

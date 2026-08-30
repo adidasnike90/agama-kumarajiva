@@ -1,0 +1,32 @@
+{
+  "id": "SA_349",
+  "uid": "sa349",
+  "title": "雜阿含經  卷第十四  因緣相應  （349）  聖處",
+  "chinese_text": "如是我聞：\n\n一時，佛住王舍城迦蘭陀竹園。\n\n爾時，世尊告諸比丘：「善來比丘！善出家、善得己利，曠世時時得生聖處，諸根具足，不愚不癡，不須手語，好說、惡說堪能解義。我今於此世作佛——如來、應、等正覺、明行足、善逝、世間解、無上士、調御丈夫、天人師、佛世尊，說法寂滅、涅槃、菩提正向、善逝、等正覺。所謂此有故彼有，此起故彼起，謂緣無明行，緣行識，乃至純大苦聚集，無明滅則行滅，乃至純大苦聚滅。\n\n「諸比丘！難得之處已得，生於聖處，諸根具足，乃至純大苦聚集，純大苦滅。是故，比丘！當如是學，自利、利他、自他俱利。如是出家，不愚不癡，有果有樂，有樂果報，供養衣服、飲食、臥具、湯藥者，悉得大果、大福、大利。是故，比丘！當如是學。」\n\n佛說此經已，諸比丘聞佛所說，歡喜奉行。",
+  "english_sa_text": "",
+  "parallels": [],
+  "primary_sn_uid": null,
+  "pali_text": "",
+  "english_sn_text": "",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa301-400/sa349_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa301-400/sa349_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛在王舍城迦兰陀竹园。\n尔时，世尊告诸比丘：「善来比丘！善出家、善得己利——旷世时乃得生圣处，诸根具足，不愚不痴，不须手语，善说恶说皆能解义。」\n「我今于此世作佛——如来、应、等正觉，说寂灭涅槃、菩提正向。所谓此有故彼有，此起故彼起——缘无明行，缘行识，缘识名色，缘名色六入处，缘六入处触，缘触受，缘受爱，缘爱取，缘取有，缘有生，缘生老死忧悲恼苦——如是纯大苦聚集。无明灭则行灭——无明灭则行灭，行灭则识灭，乃至生灭则老死忧悲恼苦灭——如是纯大苦聚灭。」\n「难得之处已得，生于圣处。是故当学自利、利他、自他俱利——如是出家，不愚不惑，有果有乐；供养衣食卧具汤药者，悉得大果、大福、大利。当如是学。」\n佛说此经已，诸比丘闻佛所说，欢喜奉行。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在王舍城迦兰陀竹园。\n那时，世尊告诉比丘们：「善来，比丘们！你们善出家、善得自己的利益——旷世难得才生在圣者之处，诸根具足，不愚不痴，不必靠手语，好话坏话都能懂得意思。」\n「我如今在这世上成佛——如来、应、等正觉，说寂灭涅槃、正确趋向菩提。也就是此有故彼有，此起故彼起——无明缘行，行缘识，识缘名色，名色缘六入处，六入处缘触，触缘受，受缘爱，爱缘取，取缘有，有缘生，生缘老死忧悲恼苦——这样纯大苦聚集。无明灭则行灭——无明灭则行灭，行灭则识灭，乃至生灭则老死忧悲恼苦灭——这样纯大苦聚灭。」\n「难得的地方已经得到了，生在圣处。所以应当学自利、利他、自他都利——这样出家，不愚不惑，有果有乐；供养衣食卧具汤药的人，都能得大果、大福、大利。应当这样学。」\n佛说完这部经，比丘们听佛所说，都欢喜奉行。",
+  "notes": "SC 于本经未列可靠巴利平行，故唯以汉本为底，参同相应之巴利定型语厘义；依项目规约「无可靠平行时 confidence 降为 medium/low」，本经作 medium。劝勉「生圣处」已得，当依缘起精勤；十号略存，删叠床架屋之称号串。confidence=medium。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "medium",
+  "prior_review_status": "needs_revision",
+  "similarity_to_source": 0.295,
+  "paragraph_parallel": true
+}

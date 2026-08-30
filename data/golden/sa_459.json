@@ -1,0 +1,43 @@
+{
+  "id": "SA_459",
+  "uid": "sa459",
+  "title": "雜阿含經  卷第十九  受相應  （459）  自作",
+  "chinese_text": "如是我聞：\n\n一時，佛住舍衛國祇樹給孤獨園。\n\n時，有婆羅門來詣佛所，與世尊面相慰勞已，於一面住，白佛言：「眾生非自作、非他作？」\n\n佛告婆羅門：「如是論者，我不與相見，汝今自來，而言我非自作、非他作？」\n\n婆羅門言：「云何？瞿曇！眾生為自作、為他作耶？」\n\n佛告婆羅門：「我今問汝，隨意答我。婆羅門！於意云何？有眾生方便界，令諸眾生知作方便耶？」\n\n婆羅門言：「瞿曇！有眾生方便界，令諸眾生知作方便也。」\n\n佛告婆羅門：「若有方便界，令諸眾生知有方便者，是則眾生自作、是則他作。婆羅門！於意云何？有眾生安住界、堅固界、出界、造作界，令彼眾生知有造作耶？」\n\n婆羅門白佛：「有眾生安住界、堅固界、出界、造作界，令諸眾生知有造作。」\n\n佛告婆羅門：「若彼安住界、堅固界、出界、造作界，令諸眾生知有造作者，是則眾生自作、是則他作。」\n\n婆羅門白佛：「有眾生自作、有他作，瞿曇！世間多事，今當請辭。」\n\n佛告婆羅門：「世間多事，宜知是時。」\n\n時，彼婆羅門聞佛所說，歡喜隨喜，從座起去。",
+  "english_sa_text": "",
+  "parallels": [
+    {
+      "uid": "an6.38",
+      "acronym": "AN 6.38",
+      "root_lang": "pli",
+      "original_title": "Attakārīsutta",
+      "translated_title": "The Self-Doer",
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    }
+  ],
+  "primary_sn_uid": null,
+  "pali_text": "",
+  "english_sn_text": "",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa401-500/sa459_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa401-500/sa459_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛在舍卫国祇树给孤独园。\n时有婆罗门来诣佛所，与世尊面相慰劳已，于一面住，白佛言：「瞿昙！我作是说、作是见：众生无自作、无他作。」\n佛告婆罗门：「如是论者，我未曾见、未曾闻。云何自身进止来去，而言无自作、无他作？婆罗门！于意云何？有方便界（发起界），令诸众生知作方便耶？」\n婆罗门言：「有。」\n佛言：「若有方便界，令诸众生知有方便者，是则众生自作，是则他作。复次，有精进界、勇猛界、坚固界、安住界、造作界——令诸众生知有造作耶？」\n婆罗门言：「有。」\n佛言：「若有此诸界，令诸众生知有造作者，是则众生自作，是则他作。」\n婆罗门白佛：「有众生自作、有他作。瞿昙！世间多事，今当请辞。」\n佛告婆罗门：「世间多事，宜知是时。」\n时彼婆罗门闻佛所说，欢喜随喜，从座起去。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在舍卫国祇树给孤独园。\n当时有一位婆罗门来到佛处，与世尊互相问候完毕，站在一面，对佛说：「瞿昙！我这样说、这样见：众生没有自作、没有他作。」\n佛告诉婆罗门：「持这种言论的人，我不曾见过、也不曾听说过。怎么能自己进退来去，却说没有自作、没有他作？婆罗门！你怎么想？有没有方便界（发起界），让众生知道可以发起作为？」\n婆罗门说：「有。」\n佛说：「如果有方便界，让众生知道有方便，那就是众生的自作，也是他作。再者，有精进界、勇猛界、坚固界、安住界、造作界——让众生知道有造作吗？」\n婆罗门说：「有。」\n佛说：「如果有这些界，让众生知道有造作，那就是众生的自作，也是他作。」\n婆罗门对佛说：「有众生自作、有他作。瞿昙！世间事多，现在告辞。」\n佛告诉婆罗门：「世间事多，你自己知道时候。」\n当时那位婆罗门听佛所说，欢喜随喜，从座位起来离去。",
+  "notes": "本经 SC 平行表所列平行及 `raw_aligned_data.json` 内之巴利本文、Sujato 英译并用以厘定法义；求那跋陀罗汉本用于定位经文与传统术语。confidence=high：SC 列 AN6.38 Attakārī（aligned 无巴利正文，据 Sujato／Nizamis 厘义）。信：汉问句『众生非自作…』改为婆罗门自持『无自作无他作』见（natthi attakāro）；六界≈ārabbha／nikkama／parakkama／thāma／ṭhiti／upakkama——汉『方便、安住、坚固、出、造作』据 AN 整理为方便／精进／勇猛／坚固／安住／造作。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "high",
+  "prior_review_status": "needs_revision",
+  "similarity_to_source": 0.278,
+  "paragraph_parallel": true
+}

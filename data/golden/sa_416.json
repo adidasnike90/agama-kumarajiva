@@ -1,0 +1,43 @@
+{
+  "id": "SA_416",
+  "uid": "sa416",
+  "title": "雜阿含經  卷第十七  界相應  （416）  受持",
+  "chinese_text": "如是我聞：\n\n一時，佛住王舍城迦蘭陀竹園。\n\n爾時，世尊告諸比丘：「汝等持我所說四聖諦不？」\n\n時，有異比丘從座起，正衣服，為佛作禮，合掌白佛：「唯然，世尊所說四聖諦，我悉受持。」\n\n佛告比丘：「汝云何受持四聖諦？」\n\n比丘白佛言：「世尊說言：『此是苦聖諦，我即受持，此苦集聖諦、此苦滅聖諦、此苦滅道跡聖諦。』如是世尊說四聖諦，我即受持。」\n\n佛告比丘：「善哉！善哉！我說苦聖諦，汝真實受持；我說苦集聖諦、苦滅聖諦、苦滅道跡聖諦，汝真實受持。」\n\n佛說此經已，諸比丘聞佛所說，歡喜奉行。",
+  "english_sa_text": "",
+  "parallels": [
+    {
+      "uid": "sn56.15",
+      "acronym": "SN 56.15",
+      "root_lang": "pli",
+      "original_title": "Paṭhamadhāraṇasutta",
+      "translated_title": "Remembrance (1)",
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    }
+  ],
+  "primary_sn_uid": "sn56.15",
+  "pali_text": "“Dhāretha no tumhe, bhikkhave, mayā cattāri ariyasaccāni desitānī”ti? Evaṁ vutte, aññataro bhikkhu bhagavantaṁ etadavoca: “ahaṁ kho, bhante, dhāremi bhagavatā cattāri ariyasaccāni desitānī”ti. “Yathā kathaṁ pana tvaṁ, bhikkhu, dhāresi mayā cattāri ariyasaccāni desitānī”ti? “Dukkhaṁ khvāhaṁ, bhante, bhagavatā paṭhamaṁ ariyasaccaṁ desitaṁ dhāremi; dukkhasamudayaṁ khvāhaṁ, bhante, bhagavatā dutiyaṁ ariyasaccaṁ desitaṁ dhāremi; dukkhanirodhaṁ khvāhaṁ, bhante, bhagavatā tatiyaṁ ariyasaccaṁ desitaṁ dhāremi; dukkhanirodhagāminiṁ paṭipadaṁ khvāhaṁ, bhante, bhagavatā catutthaṁ ariyasaccaṁ desitaṁ dhāremi. Evaṁ khvāhaṁ, bhante, dhāremi bhagavatā cattāri ariyasaccāni desitānī”ti. “Sādhu sādhu, bhikkhu. Sādhu kho tvaṁ, bhikkhu, dhāresi mayā cattāri ariyasaccāni desitānīti. Dukkhaṁ kho, bhikkhu, mayā paṭhamaṁ ariyasaccaṁ desitaṁ, tathā naṁ dhārehi; dukkhasamudayaṁ kho, bhikkhu, mayā dutiyaṁ ariyasaccaṁ desitaṁ, tathā naṁ dhārehi; dukkhanirodhaṁ kho, bhikkhu, mayā tatiyaṁ ariyasaccaṁ desitaṁ, tathā naṁ dhārehi; dukkhanirodhagāminī paṭipadā kho, bhikkhu, mayā catutthaṁ ariyasaccaṁ desitaṁ, tathā naṁ dhārehi. Evaṁ kho, bhikkhu, dhārehi mayā cattāri ariyasaccāni desitānīti. Tasmātiha, bhikkhu, ‘idaṁ dukkhan’ti yogo karaṇīyo …pe… ‘ayaṁ dukkhanirodhagāminī paṭipadā’ti yogo karaṇīyo”ti. Pañcamaṁ.",
+  "english_sn_text": "“Mendicants, do you remember the four noble truths that I taught?” When he said this, one of the mendicants said to the Buddha: “I do, sir.” “How so, mendicant?” “Sir, I remember that suffering is the first noble truth you’ve taught; the origin of suffering is the second; the cessation of suffering is the third; and the practice that leads to the cessation of suffering is the fourth. That’s how I remember the four noble truths as you’ve taught them.” “Good, good, mendicant! It’s good that you remember the four noble truths as I’ve taught them. Suffering is the first noble truth I’ve taught, and that’s how you should remember it. The origin of suffering is the second; the cessation of suffering is the third; and the practice that leads to the cessation of suffering is the fourth. That’s how you should remember the four noble truths as I’ve taught them. That’s why you should practice meditation …”",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa401-500/sa416_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa401-500/sa416_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛在王舍城迦兰陀竹园。\n尔时，世尊告诸比丘：「汝等持我所说四圣谛不？」\n时有异比丘从座起，正衣服，礼佛合掌白言：「唯然，世尊所说四圣谛，我悉受持。」\n佛问：「汝云何受持？」比丘白言：「世尊说此苦圣谛，我即受持；此苦集圣谛、此苦灭圣谛、此苦灭道迹圣谛，我亦如是受持。」\n佛言：「善哉！善哉！我所说四圣谛，汝真实受持。」\n佛说此经已，诸比丘闻佛所说，欢喜奉行。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在王舍城迦兰陀竹园。\n那时，世尊告诉比丘们：「你们受持我所讲说的四圣谛吗？」\n当时有一位比丘从座位上起来，整理衣服，礼佛合掌说：「是的，世尊所说的四圣谛，我都受持。」\n佛问：「你怎么受持？」比丘回答：「世尊说这是苦圣谛，我就受持；这是苦集圣谛、这是苦灭圣谛、这是苦灭道迹圣谛，我也这样受持。」\n佛说：「很好！很好！我所讲的四圣谛，你真实地受持了。」\n佛说完这部经，比丘们听佛所说，都欢喜奉行。",
+  "notes": "本经 SC 平行表所列平行及 `raw_aligned_data.json` 内之巴利本文、Sujato 英译并用以厘定法义；求那跋陀罗汉本用于定位经文与传统术语。confidence=high：primary SN56.15 Paṭhamadhāraṇa。dhāreti＝受持／忆持四谛次第；汉对话框与 SN 合。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "high",
+  "prior_review_status": "needs_revision",
+  "similarity_to_source": 0.379,
+  "paragraph_parallel": true
+}

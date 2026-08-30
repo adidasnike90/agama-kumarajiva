@@ -1,0 +1,37 @@
+# Preferred early-Buddhist Chinese terms for restyling.
+# Keep stable across the corpus; prefer these over ad-hoc synonyms.
+
+aggregates:
+  色: 色
+  受: 受
+  想: 想
+  行: 行
+  识: 识
+  五蕴: 五阴 / 五蕴  # 旧译多用「阴」；罗什风可读「蕴」或保留「阴」，全本统一即可
+
+marks:
+  无常: 无常
+  苦: 苦
+  空: 空
+  非我: 非我
+  无我: 无我
+
+path:
+  正观: 正观 / 正见  # 罗什语境常作「正见」；若底本为「正观」可保留
+  厌离: 厌离
+  喜贪: 贪爱 / 喜贪
+  心解脱: 心解脱 / 心得解脱
+
+nirvana_stock:
+  我生已尽: 我生已尽
+  梵行已立: 梵行已立
+  所作已作: 所作已作
+  不受后有: 不受后有
+
+preferred_literary:
+  - 谛观
+  - 明见无常
+  - 贪爱永灭
+  - 心无所染
+  - 得大自在
+  - 心涉无碍

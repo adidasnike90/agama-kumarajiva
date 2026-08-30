@@ -1,0 +1,32 @@
+{
+  "id": "SA_1352",
+  "uid": "sa1352",
+  "title": "雜阿含經  卷第五十  林相應  （1352）  那婆佉多",
+  "chinese_text": "如是我聞：\n\n一時，佛住王舍城迦蘭陀竹園。\n\n時，有眾多比丘住支提山，一切皆修阿練若行，著糞掃衣，常行乞食。爾時，那娑佉多河岸崩，殺三營事比丘。\n\n時，支提山住天神而說偈言：\n\n「乞食阿蘭若，　　慎莫營造立，\n\n　不見佉多河，　　傍岸卒崩倒。\n\n　壓殺彼造立，　　營事三比丘，\n\n　糞掃衣比丘，　　慎莫營造立。\n\n　不見佉多河，　　傍岸卒崩倒，\n\n　壓殺彼造立，　　營事三比丘。\n\n　依樹下比丘，　　慎莫營造立，\n\n　不見佉多河，　　傍岸卒崩倒。\n\n　壓殺彼造立，　　營事三比丘。」\n\n時，彼天神說此偈已，即默然住。",
+  "english_sa_text": "",
+  "parallels": [],
+  "primary_sn_uid": null,
+  "pali_text": "",
+  "english_sn_text": "",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa1301-1400/sa1352_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa1301-1400/sa1352_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛住王舍城迦兰陀竹园。\n时有众多比丘住支提山，皆修阿练若、著粪扫衣、常行乞食。尔时那娑佉多河岸崩圮，压杀三营事比丘。\n支提山天神说偈言：「乞食住阿练若，慎莫营造立舍；不见佉多河岸，猝然崩倒压杀。压杀彼造立者，营事三比丘；粪扫衣比丘，慎莫营造立舍。不见佉多河岸，猝然崩倒；压杀彼造立者，营事三比丘。依树下比丘，慎莫营造立舍；不见佉多河岸，猝然崩倒，压杀营事三比丘。」\n天神说此偈已，即默然住。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在王舍城迦兰陀竹园。\n当时有许多比丘住在支提山，都修阿练若、穿粪扫衣、常去乞食。那时那娑佉多河岸崩塌，压死了三位营事比丘。\n支提山的天神说偈：「乞食而住阿练若，切莫营建房舍；不见佉多河岸，忽然崩塌压死。压死那些营造的人——三位营事比丘；穿粪扫衣的比丘，切莫营建房舍。不见佉多河岸忽然崩塌；压死那些营造的人——三位营事比丘。依树下住的比丘，切莫营建房舍；不见佉多河岸忽然崩塌，压死三位营事比丘。」\n天神说完这首偈，便默然而住。",
+  "notes": "SC 于本经未列可靠巴利平行，故唯以汉本为底，参林相应／Vanasaṃyutta 定型语及早期教理厘义；依项目规约「无可靠平行时 confidence 降为 medium/low」。求那跋陀罗汉本用于定位经文与传统术语。confidence=medium：无 SC 专经。天神诫头陀比丘勿营建；以河岸崩压杀三营事比丘为诫。题「那婆佉多」、正文「那娑佉多」存汉本异写。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "medium",
+  "prior_review_status": "needs_revision",
+  "similarity_to_source": 0.291,
+  "paragraph_parallel": true
+}

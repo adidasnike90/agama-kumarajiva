@@ -1,0 +1,63 @@
+{
+  "id": "SA_704",
+  "uid": "sa704",
+  "title": "雜阿含經  卷第二十八  覺支相應  （704）  不正思惟",
+  "chinese_text": "如是我聞：\n\n一時，佛住舍衛國祇樹給孤獨園。\n\n爾時，世尊告諸比丘：「若不正思惟者，未起貪欲蓋則起，已起貪欲蓋重生令增廣；未起瞋恚、睡眠、掉悔、疑蓋則起，已起瞋恚、睡眠、掉悔、疑蓋重生令增廣。未起念覺支不起，已起念覺支則退；未起擇法、精進、猗、喜、定、捨覺支不起，已起擇法、精進、猗、喜、定、捨覺支則退。\n\n「若比丘正思惟者，未起貪欲蓋不起，已起貪欲蓋令滅；未起瞋恚、睡眠、掉悔、疑蓋不起，已起瞋恚、睡眠、掉悔、疑蓋則斷。未起念覺支則起，已起者重生令增廣；未起擇法、精進、猗、喜、定、捨覺支則起，已起者重生令增廣。」\n\n佛說此經已，諸比丘聞佛所說，歡喜奉行。",
+  "english_sa_text": "",
+  "parallels": [
+    {
+      "uid": "sn46.24",
+      "acronym": "SN 46.24",
+      "root_lang": "pli",
+      "original_title": "Ayonisomanasikārasutta",
+      "translated_title": "Careless Attention",
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "sn46.35",
+      "acronym": "SN 46.35",
+      "root_lang": "pli",
+      "original_title": "Yonisomanasikārasutta",
+      "translated_title": "Careful Attention",
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "sn46.23",
+      "acronym": "SN 46.23",
+      "root_lang": "pli",
+      "original_title": "Ṭhāniyasutta",
+      "translated_title": "A Basis",
+      "type": "full",
+      "resembling": true,
+      "remark": null
+    }
+  ],
+  "primary_sn_uid": "sn46.24",
+  "pali_text": "“Ayoniso, bhikkhave, manasikaroto anuppanno ceva kāmacchando uppajjati, uppanno ca kāmacchando bhiyyobhāvāya vepullāya saṁvattati; anuppanno ceva byāpādo uppajjati, uppanno ca byāpādo bhiyyobhāvāya vepullāya saṁvattati; anuppannañceva thinamiddhaṁ uppajjati, uppannañca thinamiddhaṁ bhiyyobhāvāya vepullāya saṁvattati; anuppannañceva uddhaccakukkuccaṁ uppajjati, uppannañca uddhaccakukkuccaṁ bhiyyobhāvāya vepullāya saṁvattati; anuppannā ceva vicikicchā uppajjati, uppannā ca vicikicchā bhiyyobhāvāya vepullāya saṁvattati; anuppanno ceva satisambojjhaṅgo nuppajjati, uppanno ca satisambojjhaṅgo nirujjhati …pe… anuppanno ceva upekkhāsambojjhaṅgo nuppajjati, uppanno ca upekkhāsambojjhaṅgo nirujjhati. Yoniso ca kho, bhikkhave, manasikaroto anuppanno ceva kāmacchando nuppajjati, uppanno ca kāmacchando pahīyati; anuppanno ceva byāpādo nuppajjati, uppanno ca byāpādo pahīyati; anuppannañceva thinamiddhaṁ nuppajjati, uppannañca thinamiddhaṁ pahīyati; anuppannañceva uddhaccakukkuccaṁ nuppajjati, uppannañca uddhaccakukkuccaṁ pahīyati; anuppannā ceva vicikicchā nuppajjati, uppannā ca vicikicchā pahīyati. Anuppanno ceva satisambojjhaṅgo uppajjati, uppanno ca satisambojjhaṅgo bhāvanāpāripūriṁ gacchati …pe… anuppanno ceva upekkhāsambojjhaṅgo uppajjati, uppanno ca upekkhāsambojjhaṅgo bhāvanāpāripūriṁ gacchatī”ti. Catutthaṁ.",
+  "english_sn_text": "“Mendicants, when you apply the mind irrationally, sensual desire, ill will, dullness and drowsiness, restlessness and remorse, and doubt arise, and once arisen they increase and grow. And the awakening factors of mindfulness, investigation of principles, energy, rapture, tranquility, immersion, and equanimity don’t arise, or if they’ve already arisen, they cease. When you apply the mind rationally, sensual desire, ill will, dullness and drowsiness, restlessness and remorse, and doubt don’t arise, or if they’ve already arisen they’re given up. And the awakening factors of mindfulness, investigation of principles, energy, rapture, tranquility, immersion, and equanimity arise, and once they’ve arisen, they’re fully developed.”",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa701-800/sa704_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa701-800/sa704_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛住舍卫国祇树给孤独园。\n佛告比丘：「若不正思惟，未起贪欲、瞋恚、睡眠、掉悔、疑盖则起，已起则增广；未起念、择法、精进、喜、猗、定、舍觉支则不起，已起则退失。」\n「若正思惟，未起贪欲、瞋恚、睡眠、掉悔、疑盖则不起，已起则断；未起念、择法、精进、喜、猗、定、舍觉支则起，已起则增广。」\n佛说此经已，诸比丘闻佛所说，欢喜奉行。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在舍卫国祇树给孤独园。\n佛告比丘：「如果不正思惟，未生起的贪欲、瞋恚、昏沉睡眠、掉举后悔、疑盖就会生起，已生起的就会增广；未生起的念、择法、精进、喜、猗、定、舍觉支就不会生起，已生起的就会退失。」\n「如果正思惟，未生起的贪欲、瞋恚、昏沉睡眠、掉举后悔、疑盖就不会生起，已生起的就会断除；未生起的念、择法、精进、喜、猗、定、舍觉支就会生起，已生起的就会增广。」\n佛说完这部经，比丘们听佛所说，都欢喜奉行。",
+  "notes": "本经 SC 平行表所列平行及 `raw_aligned_data.json` 内之巴利本文、Sujato 英译并用以厘定法义；求那跋陀罗汉本用于定位经文与传统术语。confidence=high：primary SN46.24 Ayonisomanasikāra。据 SN 校正觉支次第：喜先于猗（passaddhi）；压缩五盖／七觉各别重复。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "high",
+  "prior_review_status": "needs_revision",
+  "similarity_to_source": 0.281,
+  "paragraph_parallel": true
+}

@@ -1,0 +1,33 @@
+{
+  "id": "SA_663",
+  "uid": "sa663",
+  "title": "雜阿含經  卷第二十七  根力相應  （663）  二力",
+  "chinese_text": "如是我聞：\n\n一時，佛住舍衛國祇樹給孤獨園。\n\n爾時，世尊告諸比丘……如上說。差別者：「何等為修力？謂修四念處。」\n\n佛說此經已，諸比丘聞佛所說，歡喜奉行。\n\n如四念處，如是修四正斷、四如意足、五根、五力、七覺分、八聖道分、四道、四法句、止觀，亦如是說。",
+  "english_sa_text": "",
+  "parallels": [],
+  "primary_sn_uid": null,
+  "pali_text": "",
+  "english_sn_text": "",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa601-700/sa663_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa601-700/sa663_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛住舍卫国祇树给孤独园。\n佛告比丘：「有二种力——思择力、修习力。何等修习力？谓修四念处。」\n「如四念处，修四正断、四如意足、五根、五力、七觉分、八圣道分，乃至止观，亦如是说。」\n佛说此经已，诸比丘闻佛所说，欢喜奉行。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在舍卫国祇树给孤独园。\n佛告比丘：「有二种力——思择力、修习力。什么是修习力？就是修四念处。」\n「如同四念处，修四正断、四如意足、五根、五力、七觉分、八圣道分，乃至止观，也是这样说。」\n佛说完这部经，比丘们听佛所说，都欢喜奉行。",
+  "notes": "SC 于本经未列可靠巴利平行，故唯以汉本为底，参同相应之巴利定型语厘义；依项目规约「无可靠平行时 confidence 降为 medium/low」。confidence=medium：修力＝四念处及道品 peyyāla；补开经。gold_reconstructed：底本「如上说」＋道品串列交叉指示。",
+  "review_status": "gold_reconstructed",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "medium",
+  "prior_review_status": "needs_revision",
+  "reconstruction_basis": "peyyāla 如上说 → 修力＝四念处 + path-factor list",
+  "similarity_to_source": 0.372,
+  "paragraph_parallel": true
+}

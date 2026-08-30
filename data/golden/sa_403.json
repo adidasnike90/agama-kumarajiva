@@ -1,0 +1,63 @@
+{
+  "id": "SA_403",
+  "uid": "sa403",
+  "title": "雜阿含經  卷第十六  諦相應  （403）  如實知",
+  "chinese_text": "如是我聞：\n\n一時，佛在摩竭國人間遊行，於王舍城波羅利弗是中間竹林聚落，國王於中造福德舍。爾時，世尊與諸大眾於中宿止。\n\n爾時，世尊告諸比丘：「我與汝等於四聖諦無知、無見、無隨順覺、無隨順受者，應當長夜驅馳生死。何等為四？謂苦聖諦、苦集聖諦、苦滅聖諦、苦滅道跡聖諦。我與汝等於四聖諦無知、無見、無隨順覺、無隨順受者，應當長夜驅馳生死。以我及汝於此苦聖諦順知、順入，斷諸有流，盡諸生死，不受後有。於苦集聖諦、苦滅聖諦、苦滅道跡聖諦順知、順入，斷諸有流，盡諸生死，不受後有。是故，比丘！於四聖諦未無間等者，當勤方便，起增上欲，修無間等。」\n\n爾時，世尊即說偈言：\n\n「我常與汝等，　　長夜涉生死，\n\n　不見聖諦故，　　大苦日增長。\n\n　若見四聖諦，　　斷有大流海，\n\n　生死永已除，　　不復受後生。」\n\n佛說此經已，諸比丘聞佛所說，歡喜奉行。",
+  "english_sa_text": "",
+  "parallels": [
+    {
+      "uid": "d316",
+      "acronym": "D 316",
+      "root_lang": "xct",
+      "original_title": "འཕགས་པ་བདེན་པ་བཞིའི་མདོ། (Ārya-catuḥsatya-sūtra)",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "ea25.1",
+      "acronym": "EA 25.1",
+      "root_lang": "lzh",
+      "original_title": "諦",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "sn56.21",
+      "acronym": "SN 56.21",
+      "root_lang": "pli",
+      "original_title": "Paṭhamakoṭigāmasutta",
+      "translated_title": "Koṭigama (1)",
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    }
+  ],
+  "primary_sn_uid": "sn56.21",
+  "pali_text": "Ekaṁ samayaṁ bhagavā vajjīsu viharati koṭigāme. Tatra kho bhagavā bhikkhū āmantesi: “catunnaṁ, bhikkhave, ariyasaccānaṁ ananubodhā appaṭivedhā evamidaṁ dīghamaddhānaṁ sandhāvitaṁ saṁsaritaṁ mamañceva tumhākañca. Katamesaṁ catunnaṁ? Dukkhassa, bhikkhave, ariyasaccassa ananubodhā appaṭivedhā evamidaṁ dīghamaddhānaṁ sandhāvitaṁ saṁsaritaṁ mamañceva tumhākañca. Dukkhasamudayassa ariyasaccassa …pe… dukkhanirodhassa ariyasaccassa …pe… dukkhanirodhagāminiyā paṭipadāya ariyasaccassa ananubodhā appaṭivedhā evamidaṁ dīghamaddhānaṁ sandhāvitaṁ saṁsaritaṁ mamañceva tumhākañca. Tayidaṁ, bhikkhave, dukkhaṁ ariyasaccaṁ anubuddhaṁ paṭividdhaṁ, dukkhasamudayaṁ ariyasaccaṁ anubuddhaṁ paṭividdhaṁ, dukkhanirodhaṁ ariyasaccaṁ anubuddhaṁ paṭividdhaṁ, dukkhanirodhagāminī paṭipadā ariyasaccaṁ anubuddhaṁ paṭividdhaṁ; ucchinnā bhavataṇhā, khīṇā bhavanetti; natthi dāni punabbhavo”ti. Idamavoca bhagavā. Idaṁ vatvāna sugato athāparaṁ etadavoca satthā: “Catunnaṁ ariyasaccānaṁ, Yathābhūtaṁ adassanā; Saṁsitaṁ dīghamaddhānaṁ, Tāsu tāsveva jātisu. Tāni etāni diṭṭhāni, bhavanetti samūhatā; Ucchinnaṁ mūlaṁ dukkhassa, natthi dāni punabbhavo”ti. Paṭhamaṁ.",
+  "english_sn_text": "At one time the Buddha was staying in the land of the Vajjis at the village of Koṭi. There the Buddha addressed the mendicants: “Mendicants, due to not understanding and not penetrating four noble truths, both you and I have wandered and transmigrated for such a very long time. What four? The noble truths of suffering, the origin of suffering, the cessation of suffering, and the practice that leads to the cessation of suffering. These noble truths of suffering, origin, cessation, and the path have been understood and comprehended. Craving for continued existence has been cut off; the leash to existence is ended; now there’ll be no more future lives.” That is what the Buddha said. Then the Holy One, the Teacher, went on to say: “Because of not truly seeing the four noble truths, we have transmigrated for a long time from one rebirth to the next. But now that these truths have been seen, the leash to existence is eradicated. The root of suffering is cut off, now there’ll be no more future lives.”",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa401-500/sa403_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa401-500/sa403_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛在跋耆国拘利村。\n尔时，世尊告诸比丘：「我与汝等，以于四圣谛不知、不觉、不随顺解、不现观故，长夜驰骋生死。何等为四？谓苦圣谛、苦集圣谛、苦灭圣谛、苦灭道迹圣谛。」\n「今此四圣谛已知、已觉、已现观——有爱已断，有结已尽，更不受后有。」\n尔时，世尊说偈言：\n「不见四圣谛，　长夜涉生死；\n　既见诸谛已，　有结悉已除；\n　苦根已永断，　更不受后有。」\n佛说此经已，诸比丘闻佛所说，欢喜奉行。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在跋耆国拘利村。\n那时，世尊告诉比丘们：「我和你们，因为对四圣谛不知、不觉、不能随顺理解、不能现观，所以长夜奔驰在生死里。哪四种？就是苦圣谛、苦集圣谛、苦灭圣谛、苦灭道迹圣谛。」\n「现在这四圣谛已经知道、已经觉了、已经现观——有爱已经断，有结已经尽，更不再受后有。」\n那时，世尊说偈颂：\n「不见四圣谛，　长夜流转生死；\n　既已见诸谛，　有结全都除去；\n　苦的根已永断，　更不再受后有。」\n佛说完这部经，比丘们听佛所说，都欢喜奉行。",
+  "notes": "本经 SC 平行表所列平行及 `raw_aligned_data.json` 内之巴利本文、Sujato 英译并用以厘定法义；求那跋陀罗汉本用于定位经文与传统术语。confidence=high：primary SN56.21。信-校正：汉『摩竭…竹林聚落福德舍』处所与 SN 不合；据 Pāli／Sujato 作跋耆拘利村（Koṭigāma）。『有爱／有结』＝bhavataṇhā／bhavanetti；不读作大乘有结使玄义。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "high",
+  "prior_review_status": "needs_revision",
+  "similarity_to_source": 0.14,
+  "paragraph_parallel": true
+}

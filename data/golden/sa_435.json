@@ -1,0 +1,53 @@
+{
+  "id": "SA_435",
+  "uid": "sa435",
+  "title": "雜阿含經  卷第十七  界相應  （435）  須達多",
+  "chinese_text": "如是我聞：\n\n一時，佛住舍衛國祇樹給孤獨園。\n\n時，須達長者往詣佛所，稽首佛足，於一面坐。白佛言：「世尊！此四聖諦為漸次無間等？為一頓無間等？」\n\n佛告長者：「此四聖諦漸次無間，非頓無間等。」\n\n佛告長者：「若有說言於苦聖諦未無間等，而於彼苦集聖諦、苦滅聖諦、苦滅道跡聖諦無間等者，此說不應。所以者何？若於苦聖諦未無間等，而欲於苦集聖諦、苦滅聖諦、苦滅道跡聖諦無間等者，無有是處。\n\n「猶如有人，兩細樹葉連合為器，盛水持行，無有是處。如是於苦聖諦未無間等，而欲於苦集聖諦、苦滅聖諦、苦滅道跡聖諦無間等者，無有是處。\n\n「譬如有人，取蓮華葉連合為器，盛水遊行，斯有是處。如是，長者！於苦聖諦無間等已，而欲於苦集聖諦、苦滅聖諦、苦滅道跡聖諦無間等者，斯有是處。是故，長者！於四聖諦未無間等者，當勤方便，起增上欲，學無間等。」\n\n佛說此經已，諸比丘聞佛所說，歡喜奉行。",
+  "english_sa_text": "",
+  "parallels": [
+    {
+      "uid": "sa397",
+      "acronym": "SA 397",
+      "root_lang": "lzh",
+      "original_title": "佉提羅",
+      "translated_title": null,
+      "type": "full",
+      "resembling": true,
+      "remark": null
+    },
+    {
+      "uid": "sn56.32",
+      "acronym": "SN 56.32",
+      "root_lang": "pli",
+      "original_title": "Khadirapattasutta",
+      "translated_title": "Acacia",
+      "type": "full",
+      "resembling": true,
+      "remark": null
+    }
+  ],
+  "primary_sn_uid": "sn56.32",
+  "pali_text": "“Yo, bhikkhave, evaṁ vadeyya: ‘ahaṁ dukkhaṁ ariyasaccaṁ yathābhūtaṁ anabhisamecca, dukkhasamudayaṁ ariyasaccaṁ yathābhūtaṁ anabhisamecca, dukkhanirodhaṁ ariyasaccaṁ yathābhūtaṁ anabhisamecca, dukkhanirodhagāminiṁ paṭipadaṁ ariyasaccaṁ yathābhūtaṁ anabhisamecca sammā dukkhassantaṁ karissāmī’ti— netaṁ ṭhānaṁ vijjati. Seyyathāpi, bhikkhave, yo evaṁ vadeyya: ‘ahaṁ khadirapattānaṁ vā saralapattānaṁ vā āmalakapattānaṁ vā puṭaṁ karitvā udakaṁ vā tālapattaṁ vā āharissāmī’ti— netaṁ ṭhānaṁ vijjati; evameva kho, bhikkhave, yo evaṁ vadeyya: ‘ahaṁ dukkhaṁ ariyasaccaṁ yathābhūtaṁ anabhisamecca …pe… dukkhanirodhagāminiṁ paṭipadaṁ ariyasaccaṁ yathābhūtaṁ anabhisamecca sammā dukkhassantaṁ karissāmī’ti— netaṁ ṭhānaṁ vijjati. Yo ca kho, bhikkhave, evaṁ vadeyya: ‘ahaṁ dukkhaṁ ariyasaccaṁ yathābhūtaṁ abhisamecca, dukkhasamudayaṁ ariyasaccaṁ yathābhūtaṁ abhisamecca, dukkhanirodhaṁ ariyasaccaṁ yathābhūtaṁ abhisamecca, dukkhanirodhagāminiṁ paṭipadaṁ ariyasaccaṁ yathābhūtaṁ abhisamecca sammā dukkhassantaṁ karissāmī’ti— ṭhānametaṁ vijjati. Seyyathāpi, bhikkhave, yo evaṁ vadeyya: ‘ahaṁ padumapattānaṁ vā palāsapattānaṁ vā māluvapattānaṁ vā puṭaṁ karitvā udakaṁ vā tālapattaṁ vā āharissāmī’ti— ṭhānametaṁ vijjati; evameva kho, bhikkhave, yo evaṁ vadeyya: ‘ahaṁ dukkhaṁ ariyasaccaṁ yathābhūtaṁ abhisamecca …pe… dukkhanirodhagāminiṁ paṭipadaṁ ariyasaccaṁ yathābhūtaṁ abhisamecca sammā dukkhassantaṁ karissāmī’ti— ṭhānametaṁ vijjati. Tasmātiha, bhikkhave, ‘idaṁ dukkhan’ti yogo karaṇīyo …pe… ‘ayaṁ dukkhanirodhagāminī paṭipadā’ti yogo karaṇīyo”ti. Dutiyaṁ.",
+  "english_sn_text": "“Mendicants, suppose someone were to say: ‘Without truly comprehending the noble truths of suffering, its origin, its cessation, and the path, I will completely make an end of suffering.’ That is not possible. It’s as if someone were to say: ‘I’ll make a basket out of acacia leaves or pine needles or myrobalan leaves, and use it to carry water or ripe palmyra fruit.’ That is not possible. In the same way, suppose someone were to say: ‘Without truly comprehending the noble truths of suffering, its origin, its cessation, and the path, I will completely make an end of suffering.’ That is not possible. But suppose someone were to say: ‘After truly comprehending the noble truths of suffering, its origin, its cessation, and the path, I will completely make an end of suffering.’ That is possible. It’s as if someone were to say: ‘I’ll make a basket out of lotus leaves or flame-of-the-forest leaves or camel’s foot creeper leaves, and use it to carry water or ripe palmyra fruit.’ That is possible. In the same way, suppose someone were to say: ‘After truly comprehending the noble truths of suffering, its origin, its cessation, and the path, I will completely make an end of suffering.’ That is possible. That’s why you should practice meditation …”",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa401-500/sa435_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa401-500/sa435_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛在舍卫国祇树给孤独园。\n时须达多长者诣佛，稽首，一面坐，白言：「世尊！四圣谛为渐次无间等？为一顿无间等？」佛告长者：「四圣谛渐次无间等，非一顿无间等。」\n「若言于苦圣谛未无间等，而于苦集、苦灭、苦灭道迹圣谛得无间等者——无有是处。譬如细叶联合作器，盛水持行——无有是处。若于苦圣谛已无间等，次第于苦集、苦灭、苦灭道迹圣谛无间等者——斯有是处。譬如莲叶联合作器，盛水游行——斯有是处。是故长者于四圣谛未无间等者，当勤方便，起增上欲，学无间等。」\n佛说此经已，诸比丘闻佛所说，欢喜奉行。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在舍卫国祇树给孤独园。\n当时须达多长者来见佛，顶礼后坐在一边，问：「世尊！四圣谛是渐次无间等，还是一口气顿得无间等？」佛告诉长者：「四圣谛是渐次无间等，不是一口气顿得无间等。」\n「如果有人说：对苦圣谛还没有无间等，却能对苦集、苦灭、苦灭道迹圣谛得到无间等——没有这回事。好比用细叶子拼成器皿去盛水行走——没有这回事。如果对苦圣谛已经无间等，再依次对苦集、苦灭、苦灭道迹圣谛无间等——这是有的。好比用莲叶拼成器皿盛水行走——这是有的。所以长者对四圣谛还没有无间等的，应当勤加方便，发起强盛愿欲，修学无间等。」\n佛说完这部经，比丘们听佛所说，都欢喜奉行。",
+  "notes": "本经 SC 平行表所列平行及 `raw_aligned_data.json` 内之巴利本文、Sujato 英译并用以厘定法义；求那跋陀罗汉本用于定位经文与传统术语。confidence=high：SC 列 SN56.32 resembling（Khadirapatta）。信：叶器盛水可否，喻未无间等则不能尽苦／得后谛；Sujato 作『未如实通达四谛而尽苦——无是处』，汉以须达多问渐次／一顿为叙，并明须先苦谛而后余谛——据 SN 义保留『无是处／有是处』，叙事情节依汉。细叶≈khadera 等；莲叶≈paduma。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "high",
+  "prior_review_status": "needs_revision",
+  "similarity_to_source": 0.209,
+  "paragraph_parallel": true
+}

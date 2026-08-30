@@ -1,0 +1,32 @@
+{
+  "id": "SA_720",
+  "uid": "sa720",
+  "title": "雜阿含經  卷第二十九  覺支相應  （720）  阿那律",
+  "chinese_text": "如是我聞：\n\n一時，佛住舍衛國祇樹給孤獨園。爾時，尊者阿那律亦住舍衛國松林精舍。\n\n時，有眾多比丘詣阿那律所，共相問訊慰勞，問訊慰勞已，退坐一面，語尊者阿那律：「尊者知方便修七覺分時生樂住不？」\n\n尊者阿那律語諸比丘言：「我知比丘方便修七覺分時生樂住。」\n\n諸比丘問尊者阿那律：「云何知比丘方便修七覺分時生樂住？」\n\n尊者阿那律語諸比丘：「比丘方便修念覺分，善知思惟，我心善解脫，善害睡眠，善調伏掉悔。如此念覺分處法思惟已，精勤方便，心不懈怠，身猗息不動亂，繫心令住，不起亂念，一心正受。如是擇法、精進、猗、定、捨覺分亦如是說，是名知比丘方便修七覺分時生樂住。」\n\n時，眾多比丘聞尊者阿那律所說，歡喜隨喜，從座起而去。",
+  "english_sa_text": "",
+  "parallels": [],
+  "primary_sn_uid": null,
+  "pali_text": "",
+  "english_sn_text": "",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa701-800/sa720_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa701-800/sa720_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛住舍卫国祇树给孤独园。\n尊者阿那律住松林精舍。众多比丘来问：「知方便修七觉支时生乐住不？」\n阿那律言：「知。修念觉支时善思惟：心善解脱，善害睡眠，善调掉悔；精勤不怠，身轻安不动乱，系心而住，一心正受。择法、精进、喜、轻安、定、舍，亦如是。是名乐住。」\n诸比丘欢喜随喜而去。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在舍卫国祇树给孤独园。\n尊者阿那律住在松林精舍。许多比丘前来问：「知道方便修七觉支时能生起乐住吗？」\n阿那律说：「知道。修念觉支时好好思惟：心已善解脱，已善除睡眠，已善调掉悔；精勤不懈怠，身体轻安不动乱，把心系住，一心正受。择法、精进、喜、轻安、定、舍，也是一样。这叫做乐住。」\n比丘们欢喜随喜后离去。",
+  "notes": "SC 于本经未列可靠巴利平行，故唯以汉本为底，参同相应之巴利定型语厘义；依项目规约「无可靠平行时 confidence 降为 medium/low」。confidence=medium：无 SC 专经平行；与 SA_719 同系（知方便→乐住），说者为阿那律，唯正面乐住、不及苦住。参 SN46.8 定型语。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "medium",
+  "prior_review_status": "needs_revision",
+  "similarity_to_source": 0.17,
+  "paragraph_parallel": true
+}

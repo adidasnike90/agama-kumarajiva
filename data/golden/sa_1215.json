@@ -1,0 +1,54 @@
+{
+  "id": "SA_1215",
+  "uid": "sa1215",
+  "title": "雜阿含經  卷第五十  比丘尼相應  （1215）  出離",
+  "chinese_text": "如是我聞：\n\n一時，佛住舍衛國祇樹給孤獨園。\n\n時，有一長者請佛及僧就其舍食。入其舍已，尊者婆耆舍直日住守，請其食分。\n\n時，有眾多長者婦女從聚落出，往詣精舍。時，尊者婆耆舍見年少女人容色端正，貪欲心起。\n\n時，尊者婆耆舍作是念：「我今不利，不得利，得苦不得樂，見他女人容色端正，貪欲心生。我今當說厭離偈。」念已，而說偈言：\n\n「我已得出離，　　非家而出家，\n\n　貪欲隨逐我，　　如牛念他苗。\n\n　當如大將子，　　大力執強弓，\n\n　能破彼重陣，　　一人摧伏千。\n\n　今於日種胤，　　面前聞所說，\n\n　正趣涅槃道，　　決定心樂住。\n\n　如是不放逸，　　寂滅正受住，\n\n　無能於我心，　　幻惑欺誑者。\n\n　決定善觀察，　　安住於正法，\n\n　正使無量數，　　欲來欺惑我。\n\n　如是等惡魔，　　莫能見於我。」\n\n時，尊者婆耆舍說是偈已，心得安住。",
+  "english_sa_text": "",
+  "parallels": [
+    {
+      "uid": "sa-2.250",
+      "acronym": "SA2 250",
+      "root_lang": "lzh",
+      "original_title": "出離",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "sn8.1",
+      "acronym": "SN 8.1",
+      "root_lang": "pli",
+      "original_title": "Nikkhantasutta",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    }
+  ],
+  "primary_sn_uid": "sn8.1",
+  "pali_text": "Evaṁ me sutaṁ— ekaṁ samayaṁ āyasmā vaṅgīso āḷaviyaṁ viharati aggāḷave cetiye āyasmatā nigrodhakappena upajjhāyena saddhiṁ. Tena kho pana samayena āyasmā vaṅgīso navako hoti acirapabbajito ohiyyako vihārapālo. Atha kho sambahulā itthiyo samalaṅkaritvā yena aggāḷavako ārāmo tenupasaṅkamiṁsu vihārapekkhikāyo. Atha kho āyasmato vaṅgīsassa tā itthiyo disvā anabhirati uppajjati, rāgo cittaṁ anuddhaṁseti. Atha kho āyasmato vaṅgīsassa etadahosi: “alābhā vata me, na vata me lābhā; dulladdhaṁ vata me, na vata me suladdhaṁ; yassa me anabhirati uppannā, rāgo cittaṁ anuddhaṁseti, taṁ kutettha labbhā, yaṁ me paro anabhiratiṁ vinodetvā abhiratiṁ uppādeyya. Yannūnāhaṁ attanāva attano anabhiratiṁ vinodetvā abhiratiṁ uppādeyyan”ti. Atha kho āyasmā vaṅgīso attanāva attano anabhiratiṁ vinodetvā abhiratiṁ uppādetvā tāyaṁ velāyaṁ imā gāthāyo abhāsi: “Nikkhantaṁ vata maṁ santaṁ, agārasmānagāriyaṁ; Vitakkā upadhāvanti, pagabbhā kaṇhato ime. Uggaputtā mahissāsā, sikkhitā daḷhadhammino; Samantā parikireyyuṁ, sahassaṁ apalāyinaṁ. Sacepi etato bhiyyo, āgamissanti itthiyo; Neva maṁ byādhayissanti, dhamme samhi patiṭṭhitaṁ. Sakkhī hi me sutaṁ etaṁ, buddhassādiccabandhuno; Nibbānagamanaṁ maggaṁ, tattha me nirato mano. Evañce maṁ viharantaṁ, pāpima upagacchasi; Tathā maccu karissāmi, na me maggampi dakkhasī”ti.",
+  "english_sn_text": "So I have heard. At one time Venerable Vaṅgīsa was staying near Āḷavī, at Āḷavī’s premier shrine, together with his mentor, Venerable Nigrodhakappa. Now at that time Vaṅgīsa was junior, recently gone forth. He had been left behind to look after the dwelling. Then several women dressed in all their finery went to the monastery at Āḷavī’s premier shrine in order to inspect the dwelling. When Vaṅgīsa saw them he became dissatisfied, with lust infecting his mind. Then he thought, “It’s my loss, my misfortune, that I’ve become dissatisfied, with lust infecting my mind. How is it possible for someone else to dispel my discontent and give rise to satisfaction? Why don’t I do it myself?” Then, on the occasion of dispelling his own discontent and giving rise to satisfaction, he recited these verses: “Now that I’ve renounced the lay life for homelessness, I’m overrun by the rude thoughts of the Dark One. Even if a thousand warrior chiefs and great archers, well trained, with strong bows, were to completely surround me; I would never flee. And even if women come, many more than that, they won’t bother me, for I stand firm in the teaching. I heard with my own ears from the Buddha, Kinsman of the Sun, about the path going to extinguishment; that’s what delights my mind. Wicked One, if you come near me as I meditate like this, I’ll make sure that you, Death, won’t even see the path I take.”",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa1201-1300/sa1215_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa1201-1300/sa1215_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，尊者婆耆舍住阿勒毗国阿勒毗塔庙，与和尚尼拘律劫宾俱。时婆耆舍出家未久，留守精舍。\n有众多妇女严饰来看精舍。婆耆舍见已，欲心染着，心生不乐。作是念：「我今不利。谁能除我不乐？我当自除。」\n即为自除不乐故说偈：「我已非家出家，黑魔恶觉犹逐；纵有千武勇弯强弓围我，我终不退走。设复女人倍此而来，亦不能扰——我住正法故。亲闻日种所说，灭苦趣涅槃，心生欣乐。我如是不放逸正受；恶魔若来近，令汝不见我所行道。」\n说偈已，不乐灭、欣乐生；厌故离贪，心得安住。",
+  "modern_psychology_text": "我是这样听说的：有一次，尊者婆耆舍住在阿勒毗国的阿勒毗塔庙，与和尚尼拘律劫宾一起。当时婆耆舍出家不久，留守精舍。\n有许多妇女妆饰齐整来看精舍。婆耆舍见了，欲心染着，心生不乐。他心想：「我现在不利。谁能除去我不乐？我应当自己除去。」\n于是为了自己除去不乐说偈：「我已从非家出家，黑魔的恶觉还跟着；就算有上千武勇弯强弓围住我，我也绝不退走。即使女人比这更多地涌来，也不能扰我——因为我安住正法。我亲耳听日种所说灭苦趣涅槃的道，心生欣乐。我这样不放逸地正受；恶魔若走近，会让你连我走的道都看不见。」\n说完偈后，不乐灭、欣乐生；厌故离贪，心得安住。",
+  "notes": "本经 SC 平行表所列平行及 `raw_aligned_data.json` 内之巴利本文、Sujato 英译并用以厘定法义；求那跋陀罗汉本用于定位经文与传统术语。confidence=high：primary SN8.1。据 SN：场景阿勒毗留守；妇女来观精舍起欲；自以偈除不乐。汉「祇园请食留守」系异缘，不从；收束「厌故离贪」。",
+  "review_status": "gold_reconstructed",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "high",
+  "prior_review_status": "needs_revision",
+  "reconstruction_basis": "场景据 SN8.1 改阿勒毗留守；汉祇园请食缘不从。",
+  "similarity_to_source": 0.068,
+  "paragraph_parallel": true
+}

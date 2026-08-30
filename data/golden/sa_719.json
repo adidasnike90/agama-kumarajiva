@@ -1,0 +1,43 @@
+{
+  "id": "SA_719",
+  "uid": "sa719",
+  "title": "雜阿含經  卷第二十九  覺支相應  （719）  優波摩",
+  "chinese_text": "如是我聞：\n\n一時，佛住巴連弗邑。爾時，尊者優波摩、尊者阿提目多住巴連弗邑鷄林精舍。\n\n爾時，尊者阿提目多晡時從禪覺，詣尊者優波摩所，共相問訊慰勞已，退坐一面，問尊者優波摩：「尊者！能知七覺分方便，如是樂住正受，如是苦住正受？」\n\n優波摩答言：「尊者阿提目多！比丘善知方便修七覺分，如是樂住正受，如是苦住正受。」\n\n復問：「云何比丘善知方便修七覺分？」\n\n優波摩答言：「比丘方便修念覺分時知思惟：『彼心不善解脫，不害睡眠，不善調伏掉悔，不害睡眠，如我念覺處法思惟，精進方便，不得平等。』如是擇法、精進、喜、猗、定、捨覺分，亦如是說。若比丘念覺分方便時先思惟：『心善解脫，正害睡眠，調伏掉悔，如我於此念覺處法思惟已，不勤方便，而得平等。』如是。阿提目多！比丘知方便修七覺分，如是樂住正受，如是不樂住正受。」\n\n時，二正士共論義已，各從座起而去。",
+  "english_sa_text": "",
+  "parallels": [
+    {
+      "uid": "sn46.8",
+      "acronym": "SN 46.8",
+      "root_lang": "pli",
+      "original_title": "Upavānasutta",
+      "translated_title": "Upavaṇa",
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    }
+  ],
+  "primary_sn_uid": "sn46.8",
+  "pali_text": "Ekaṁ samayaṁ āyasmā ca upavāno āyasmā ca sāriputto kosambiyaṁ viharanti ghositārāme. Atha kho āyasmā sāriputto sāyanhasamayaṁ paṭisallānā vuṭṭhito yenāyasmā upavāno tenupasaṅkami; upasaṅkamitvā āyasmatā upavānena saddhiṁ sammodi. Sammodanīyaṁ kathaṁ sāraṇīyaṁ vītisāretvā ekamantaṁ nisīdi. Ekamantaṁ nisinno kho āyasmā sāriputto āyasmantaṁ upavānaṁ etadavoca: “Jāneyya nu kho, āvuso upavāna, bhikkhu ‘paccattaṁ yonisomanasikārā evaṁ susamāraddhā me satta bojjhaṅgā phāsuvihārāya saṁvattantī’”ti? “Jāneyya kho, āvuso sāriputta, bhikkhu ‘paccattaṁ yonisomanasikārā evaṁ susamāraddhā me satta bojjhaṅgā phāsuvihārāya saṁvattantī’”ti. “Satisambojjhaṅgaṁ kho, āvuso, bhikkhu ārabbhamāno pajānāti ‘cittañca me suvimuttaṁ, thinamiddhañca me susamūhataṁ, uddhaccakukkuccañca me suppaṭivinītaṁ, āraddhañca me vīriyaṁ, aṭṭhiṁ katvā manasi karomi, no ca līnan’ti …pe… upekkhāsambojjhaṅgaṁ āvuso, bhikkhu ārabbhamāno pajānāti ‘cittañca me suvimuttaṁ, thinamiddhañca me susamūhataṁ, uddhaccakukkuccañca me suppaṭivinītaṁ, āraddhañca me vīriyaṁ, aṭṭhiṁ katvā manasi karomi, no ca līnan’”ti. “Evaṁ kho, āvuso sāriputta, bhikkhu jāneyya ‘paccattaṁ yonisomanasikārā evaṁ susamāraddhā me satta bojjhaṅgā phāsuvihārāya saṁvattantī’”ti. Aṭṭhamaṁ.",
+  "english_sn_text": "At one time the venerables Upavāṇa and Sāriputta were staying near Kosambī in Ghosita’s monastery. Then in the late afternoon, Venerable Sāriputta came out of retreat, went to Venerable Upavāṇa and exchanged greetings with him. When the greetings and polite conversation were over, he sat down to one side and said to Upavāṇa: “Reverend Upavāṇa, can a mendicant know that by investigating inside themselves, the seven awakening factors have been properly implemented so that they lead to living at ease?” “They can, Reverend Sāriputta. As a mendicant rouses up the awakening factor of mindfulness, they understand: ‘My mind is well freed. I’ve eradicated dullness and drowsiness, and eliminated restlessness and remorse. My energy is roused up, and my mind is sharply focused, not sluggish.’ … As they rouse up the awakening factor of equanimity, they understand: ‘My mind is well freed. I’ve eradicated dullness and drowsiness, and eliminated restlessness and remorse. My energy is roused up, and my mind is sharply focused, not sluggish.’ That’s how a mendicant can know that by investigating inside themselves, the seven awakening factors are properly implemented so that they lead to living at ease.”",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa701-800/sa719_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa701-800/sa719_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛住巴连弗邑。尊者优波摩、尊者阿提目多住鸡林精舍。\n晡时，阿提目多从禅觉，诣优波摩所，问言：「能知方便修七觉支，如是乐住正受、如是苦住正受不？」\n优波摩言：「能。若修念觉支时思惟：心未善解脱，睡眠未害，掉悔未调，精进不得平等——如是苦住。择法乃至舍，亦如是。」\n「若思惟：心已善解脱，睡眠已害，掉悔已调，不待强勤而得平等——如是乐住。知方便修七觉支，则知乐住与苦住。」\n二尊者论已，各从座起而去。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在巴连弗邑。尊者优波摩、尊者阿提目多住在鸡林精舍。\n下午，阿提目多从禅定出来，到优波摩那里，问：「能不能知道方便修七觉支时，怎样是乐住正受、怎样是苦住正受？」\n优波摩说：「能。若修念觉支时这样想：心还没善解脱，睡眠还没除掉，掉悔还没调伏，精进不得平等——这就是苦住。择法一直到舍，也是一样。」\n「若这样想：心已经善解脱，睡眠已经除掉，掉悔已经调伏，不必强求就得平等——这就是乐住。知道方便修七觉支，就知道乐住与苦住。」\n两位尊者讨论完，各自起座离去。",
+  "notes": "本经 SC 平行表所列平行及 `raw_aligned_data.json` 内之巴利本文、Sujato 英译并用以厘定法义；求那跋陀罗汉本用于定位经文与传统术语。confidence=high：primary SN46.8 Upavāna；汉作优波摩／阿提目多、巴连弗，SN 作 Upavāna／Sāriputta、憍赏弥——从汉地人事。义据 SN：心善解脱、害睡眠、调掉悔、精进平等 → 乐住。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "high",
+  "prior_review_status": "needs_revision",
+  "similarity_to_source": 0.134,
+  "paragraph_parallel": true
+}

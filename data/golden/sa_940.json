@@ -1,0 +1,53 @@
+{
+  "id": "SA_940",
+  "uid": "sa940",
+  "title": "雜阿含經  卷第三十七  婆蹉外道相應  （940）  土丸",
+  "chinese_text": "如是我聞：\n\n一時，佛住舍衛國祇樹給孤獨園。\n\n爾時，世尊告諸比丘：「眾生無始生死，長夜輪轉，不知苦之本際。諸比丘！於意云何？若此大地一切草木，以四指量，斬以為籌，以數汝等長夜輪轉生死所依父母；籌數已盡，其諸父母數猶不盡。諸比丘！如是無始生死，長夜輪轉，不知苦之本際。是故，比丘！當如是學：『當勤精進，斷除諸有，莫令增長。』」\n\n佛說此經已，諸比丘聞佛所說，歡喜奉行。",
+  "english_sa_text": "",
+  "parallels": [
+    {
+      "uid": "sa-2.333",
+      "acronym": "SA2 333",
+      "root_lang": "lzh",
+      "original_title": "土丸",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "sn15.1",
+      "acronym": "SN 15.1",
+      "root_lang": "pli",
+      "original_title": "Tiṇakaṭṭhasutta",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    }
+  ],
+  "primary_sn_uid": "sn15.1",
+  "pali_text": "Evaṁ me sutaṁ— ekaṁ samayaṁ bhagavā sāvatthiyaṁ viharati jetavane anāthapiṇḍikassa ārāme. Tatra kho bhagavā bhikkhū āmantesi: “bhikkhavo”ti. “Bhadante”ti te bhikkhū bhagavato paccassosuṁ. Bhagavā etadavoca: “Anamataggoyaṁ, bhikkhave, saṁsāro. Pubbā koṭi na paññāyati avijjānīvaraṇānaṁ sattānaṁ taṇhāsaṁyojanānaṁ sandhāvataṁ saṁsarataṁ. Seyyathāpi, bhikkhave, puriso yaṁ imasmiṁ jambudīpe tiṇakaṭṭhasākhāpalāsaṁ taṁ chetvā ekajjhaṁ saṁharitvā caturaṅgulaṁ caturaṅgulaṁ ghaṭikaṁ katvā nikkhipeyya: ‘ayaṁ me mātā, tassā me mātu ayaṁ mātā’ti, apariyādinnāva, bhikkhave, tassa purisassa mātumātaro assu, atha imasmiṁ jambudīpe tiṇakaṭṭhasākhāpalāsaṁ parikkhayaṁ pariyādānaṁ gaccheyya. Taṁ kissa hetu? Anamataggoyaṁ, bhikkhave, saṁsāro. Pubbā koṭi na paññāyati avijjānīvaraṇānaṁ sattānaṁ taṇhāsaṁyojanānaṁ sandhāvataṁ saṁsarataṁ. Evaṁ dīgharattaṁ vo, bhikkhave, dukkhaṁ paccanubhūtaṁ tibbaṁ paccanubhūtaṁ byasanaṁ paccanubhūtaṁ, kaṭasī vaḍḍhitā. Yāvañcidaṁ, bhikkhave, alameva sabbasaṅkhāresu nibbindituṁ alaṁ virajjituṁ alaṁ vimuccitun”ti. Paṭhamaṁ.",
+  "english_sn_text": "So I have heard. At one time the Buddha was staying near Sāvatthī in Jeta’s Grove, Anāthapiṇḍika’s monastery. There the Buddha addressed the mendicants, “Mendicants!” “Venerable sir,” they replied. The Buddha said this: “Mendicants, this transmigration has no known beginning. No first point is found of sentient beings roaming and transmigrating, shrouded by ignorance and fettered by craving. Suppose a person was to strip all the grass, sticks, branches, and leaves in the Black Plum Tree Land, gather them together into one pile, and chop them each into four inch pieces. They’d lay them down, saying: ‘This is my mother, this is my grandmother.’ The grass, sticks, branches, and leaves of the Black Plum Tree Land would run out before that person’s mothers and grandmothers. Why is that? This transmigration has no known beginning. No first point is found of sentient beings roaming and transmigrating, shrouded by ignorance and fettered by craving. For such a long time you have undergone suffering, agony, and disaster, swelling the cemeteries. This is quite enough for you to become disillusioned, dispassionate, and freed regarding all conditions.”",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa901-1000/sa940_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa901-1000/sa940_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛住舍卫国祇树给孤独园。\n尔时世尊告诸比丘：「众生无始生死，无明所盖，爱系其颈，长夜轮转，不知苦之本际。若此阎浮提一切草木，斩为四指筹，以数长夜所经之母及母之母；筹尽而母数犹不尽。如是无始生死。是故比丘当如是学：『当勤精进，断除诸有，莫令增长。』」是故于一切行，当生厌离；厌故离贪；离贪故解脱。\n佛说此经已，诸比丘闻佛所说，欢喜奉行。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在舍卫国祇树给孤独园。\n那时世尊告诉比丘们：「众生无始以来生死，被无明覆盖、爱结系住脖子，长夜轮转，不知苦的本际。假如把这阎浮提一切草木，砍成四指长的筹，用来数长夜以来所经历的母亲和母亲的母亲；筹数完了，母亲的数目还数不尽。无始生死就是这样。所以比丘应当这样学：『应当勤加精进，断除诸有，不要让它增长。』」所以对一切行，应当生起厌离；厌离所以离贪；离贪所以解脱。\n佛说完这部经，比丘们听佛所说，都欢喜奉行。",
+  "notes": "本经 SC 平行表所列平行及 `raw_aligned_data.json` 内之巴利本文、Sujato 英译并用以厘定法义；求那跋陀罗汉本用于定位经文与传统术语。confidence=high：primary SN15.1 Tiṇakaṭṭha；据巴利数母／祖母（汉「父母」校正为母系）；四指筹。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "high",
+  "prior_review_status": "needs_revision",
+  "similarity_to_source": 0.243,
+  "paragraph_parallel": true
+}

@@ -1,0 +1,32 @@
+{
+  "id": "SA_1356",
+  "uid": "sa1356",
+  "title": "雜阿含經  卷第五十  林相應  （1356）  沙彌",
+  "chinese_text": "如是我聞：\n\n一時，佛住舍衛國祇樹給孤獨園。\n\n時，有異比丘在拘薩羅人間，住一林中。\n\n時，有沙彌而說偈言：\n\n「云何名為常？　　乞食則為常。\n\n　云何為無常？　　僧食為無常。\n\n　云何名為直？　　唯因陀羅幢。\n\n　云何名為曲？　　曲者唯見鉤。」\n\n時，彼比丘作是念：「此沙彌能說斯偈，我今何不說偈而答？」即說偈言：\n\n「云何名為常？　　常者唯涅槃。\n\n　云何為無常？　　謂諸有為法。\n\n　云何名為直？　　謂聖八正道。\n\n　云何名為曲？　　曲者唯惡徑。」\n\n時，彼比丘說此偈已，默然而住。",
+  "english_sa_text": "",
+  "parallels": [],
+  "primary_sn_uid": null,
+  "pali_text": "",
+  "english_sn_text": "",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa1301-1400/sa1356_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa1301-1400/sa1356_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛住舍卫国祇树给孤独园。\n时有异比丘在拘萨罗人间，住一林中。\n有沙弥说偈：「云何名为常？乞食则为常。云何为无常？僧食为无常。云何名为直？唯因陀罗幢。云何名为曲？曲者唯见钩。」\n比丘念：「沙弥能说此偈，我何不答？」即说偈：「云何名为常？常者唯涅槃。云何为无常？谓诸有为法。云何名为直？谓圣八正道。云何名为曲？曲者唯恶径。」\n比丘说此偈已，默然而住。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在舍卫国祇树给孤独园。\n当时有一位比丘在拘萨罗人间，住在一片林中。\n有个沙弥说偈：「什么叫作常？乞食才是常。什么叫作无常？僧团共食是无常。什么叫作直？只有因陀罗幢。什么叫作曲？弯曲的只有见钩。」\n比丘心想：「沙弥都能说这偈，我为什么不答？」便说偈：「什么叫作常？常的只有涅槃。什么叫作无常？是指一切有为法。什么叫作直？是指圣八正道。什么叫作曲？弯曲的只有恶径。」\n比丘说完这首偈，便默然而住。",
+  "notes": "SC 于本经未列可靠巴利平行，故唯以汉本为底，参林相应／Vanasaṃyutta 定型语及早期教理厘义；依项目规约「无可靠平行时 confidence 降为 medium/low」。求那跋陀罗汉本用于定位经文与传统术语。confidence=medium：无 SC 专经。沙弥以乞食／僧食、幢／钩为常无常直曲；比丘以涅槃／有为、八正道／恶径校正。因陀罗幢＝帝释之幢（直）。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "medium",
+  "prior_review_status": "needs_revision",
+  "similarity_to_source": 0.394,
+  "paragraph_parallel": true
+}

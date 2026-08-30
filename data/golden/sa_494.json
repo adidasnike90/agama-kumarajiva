@@ -1,0 +1,43 @@
+{
+  "id": "SA_494",
+  "uid": "sa494",
+  "title": "雜阿含經  卷第二十  舍利弗相應  （494）  枯樹",
+  "chinese_text": "如是我聞：\n\n一時，佛住王舍城迦蘭陀竹園。尊者舍利弗在耆闍崛山中。\n\n爾時，尊者舍利弗晨朝著衣持鉢，出耆闍崛山，入王舍城乞食，於路邊見一大枯樹，即於樹下敷坐具，歛身正坐，語諸比丘：「若有比丘修習禪思，得神通力，心得自在，欲令此枯樹成地，即時為地。所以者何？謂此枯樹中有地界。是故，比丘得神通力，心作地解，即成地不異。\n\n「若有比丘得神通力，自在如意，欲令此樹為水、火、風、金、銀等物，悉皆成就不異。所以者何？謂此枯樹有水界故。是故，比丘！禪思得神通力，自在如意，欲令枯樹成金，即時成金不異，及餘種種諸物，悉成不異。所以者何？以彼枯樹有種種界故。是故，比丘！禪思得神通力，自在如意，為種種物悉成不異，比丘當知，比丘禪思神通境界不可思議。是故，比丘！當勤禪思，學諸神通。」\n\n舍利弗說是經已，諸比丘聞其所說，歡喜奉行。",
+  "english_sa_text": "",
+  "parallels": [
+    {
+      "uid": "an6.41",
+      "acronym": "AN 6.41",
+      "root_lang": "pli",
+      "original_title": "Dārukkhandhasutta",
+      "translated_title": "The Wood Pile",
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    }
+  ],
+  "primary_sn_uid": null,
+  "pali_text": "",
+  "english_sn_text": "",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa401-500/sa494_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa401-500/sa494_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛在王舍城迦兰陀竹园。尊者舍利弗在耆闍崛山中。\n晨朝著衣持钵，出耆闍崛山入王舍城乞食，路见一大枯树，即于树下敷坐具，敛身正坐，语诸比丘：「若有比丘修习禅思得神通力、心得自在，欲令此枯树成地，即时为地——以彼枯树有地界故；欲令成水、火、风、金、银等，悉皆成就，以有种种界故。禅思得神通、自在如意，种种物悉成不异——神通境界不可思议，当勤禅思。」\n尊者舍利弗说是经已，诸比丘闻其所说，欢喜奉行。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在王舍城迦兰陀竹园。舍利弗尊者在耆闍崛山中。\n早晨穿衣持钵，出耆闍崛山入王舍城乞食，路上看见一棵大枯树，就在树下铺坐具，收身正坐，告诉比丘们：「如果有比丘修习禅思证得神通力、心得自在，想让这棵枯树变成地，立刻就成地——因为枯树中有地界；想让成水、火、风、金、银等，都能成就，因为有种种界。」\n舍利弗尊者说完这部经，比丘们听其所说，都欢喜奉行。",
+  "notes": "SC 于本经未列可靠巴利平行，故唯以汉本为底，参同相应之巴利定型语厘义；依项目规约「无可靠平行时 confidence 降为 medium/low」，本经作 medium。义据 SN39.19 Kaḷārokkaka 及 AN6.41 枯树神通喻；删汉广列重复，medium。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "medium",
+  "prior_review_status": "needs_revision",
+  "similarity_to_source": 0.317,
+  "paragraph_parallel": true
+}

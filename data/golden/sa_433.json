@@ -1,0 +1,32 @@
+{
+  "id": "SA_433",
+  "uid": "sa433",
+  "title": "雜阿含經  卷第十七  界相應  （433）  增上說法",
+  "chinese_text": "如是我聞：\n\n一時，佛住王舍城迦蘭陀竹園。\n\n爾時，世尊告諸比丘：「如來、應、等正覺增上說法，謂四聖諦，開示、施設、建立、分別、散說、顯現、表露。何等為四？謂苦聖諦、苦集聖諦、苦滅聖諦、苦滅道跡聖諦。是故，比丘！於四聖諦未無間等者，當勤方便，起增上欲，學無間等。」\n\n佛說此經已，諸比丘聞佛所說，歡喜奉行。",
+  "english_sa_text": "",
+  "parallels": [],
+  "primary_sn_uid": null,
+  "pali_text": "",
+  "english_sn_text": "",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa401-500/sa433_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa401-500/sa433_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛在王舍城迦兰陀竹园。\n尔时，世尊告诸比丘：「如来、应、等正觉增上说法，谓四圣谛——开示、施設、建立、分别、显说。何等为四？谓苦圣谛、苦集圣谛、苦灭圣谛、苦灭道迹圣谛。是故当于四圣谛勤修无间等。」\n佛说此经已，诸比丘闻佛所说，欢喜奉行。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在王舍城迦兰陀竹园。\n那时，世尊告诉比丘们：「如来、应供、等正觉的增上说法，就是四圣谛——开示、施設、建立、分别、清楚讲说。哪四种？就是苦圣谛、苦集圣谛、苦灭圣谛、苦灭道迹圣谛。所以应当对四圣谛勤修无间等。」\n佛说完这部经，比丘们听佛所说，都欢喜奉行。",
+  "notes": "SC 于本经未列可靠巴利平行，故唯以汉本为底，参同相应之巴利定型语厘义；依项目规约「无可靠平行时 confidence 降为 medium/low」，本经作 medium。删汉『散说、显现、表露』冗列，留开示／施設／建立／分别／显说；无平行，medium。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "medium",
+  "prior_review_status": "needs_revision",
+  "similarity_to_source": 0.327,
+  "paragraph_parallel": true
+}

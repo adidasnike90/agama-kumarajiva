@@ -1,0 +1,32 @@
+{
+  "id": "SA_864",
+  "uid": "sa864",
+  "title": "雜阿含經  卷第三十二  天相應  （864）  第一禪",
+  "chinese_text": "如是我聞：\n\n一時，佛住舍衛國祇樹給孤獨園。\n\n爾時，世尊告諸比丘：「若比丘若行、若形、若相，離欲、惡不善法，有覺有觀，離生喜樂，初禪具足住。彼不憶念如是行、如是形、如是相，然於彼色、受、想、行、識法；作如病、如癰、如刺、如殺、無常、苦、空、非我思惟，於彼法生厭、怖畏、防護；生厭、怖畏、防護已，以甘露門而自饒益，如是寂靜，如是勝妙，所謂捨離，餘愛盡、無欲、滅盡、涅槃。」\n\n佛說此經已，諸比丘聞佛所說，歡喜奉行。",
+  "english_sa_text": "",
+  "parallels": [],
+  "primary_sn_uid": null,
+  "pali_text": "",
+  "english_sn_text": "",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa801-900/sa864_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa801-900/sa864_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛住舍卫国祇树给孤独园。\n尔时世尊告诸比丘：\n「若比丘如是行、如是形、如是相：离欲、离恶不善法，有觉有观，离生喜乐，初禅具足住。彼若不忆念如是行、如是形、如是相，而于色、受、想、行、识，作如病、如痈、如刺、如杀、无常、苦、空、非我思惟；于彼法生厌、怖畏、防护。生厌、怖畏、防护已，以甘露法而自饶益——所谓寂静、胜妙、舍离，爱尽、离欲、灭尽、涅槃。」\n佛说此经已，诸比丘闻佛所说，欢喜奉行。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在舍卫国祇树给孤独园。\n那时世尊告诉比丘们：\n「如果比丘这样行、这样形、这样相：离欲、离恶不善法，有觉有观，离生喜乐，初禅具足而住。他如果不忆念这样的行、形、相，而对色、受、想、行、识，作如病、如痈、如刺、如杀、无常、苦、空、非我的思惟；对这些法生起厌离、怖畏、防护。厌离、怖畏、防护之后，以甘露法饶益自身——就是寂静、胜妙、舍离，爱尽、离欲、灭尽、涅槃。」\n佛说完这部经，比丘们听佛所说，都欢喜奉行。",
+  "notes": "SC 于本经未列可靠巴利平行，故唯以汉本为底，参同相应之巴利定型语厘义；依项目规约「无可靠平行时 confidence 降为 medium/low」。confidence=medium：初禅＋五蕴过患观→甘露／涅槃；「甘露门」→「甘露法」；余爱尽→爱尽。无专 SN，参禅定＋观定型语。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "medium",
+  "prior_review_status": "needs_revision",
+  "similarity_to_source": 0.396,
+  "paragraph_parallel": true
+}

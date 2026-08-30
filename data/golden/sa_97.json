@@ -1,0 +1,51 @@
+{
+  "id": "SA_97",
+  "uid": "sa97",
+  "title": "雜阿含經  卷第四  陰相應  （九七）  乞食",
+  "chinese_text": "如是我聞：\n\n一時，佛住舍衛國祇樹給孤獨園。\n\n爾時，世尊晨朝著衣持鉢，入舍衛城乞食。\n\n時，有異婆羅門年耆根熟，攝杖持鉢，家家乞食。彼婆羅門遙見世尊而作是念：「沙門瞿曇攝杖持鉢，家家乞食，我亦攝杖持鉢，家家乞食，我與瞿曇俱是比丘。」\n\n爾時，世尊說偈答曰：\n\n「所謂比丘者，　　非但以乞食，\n\n　受持在家法，　　是何名比丘。\n\n　於功德過惡，　　俱離修正行，\n\n　其心無所畏，　　是則名比丘。」\n\n佛說是經已，彼婆羅門聞佛所說，歡喜隨喜，作禮而去。",
+  "english_sa_text": "",
+  "parallels": [
+    {
+      "uid": "sa-2.263",
+      "acronym": "SA2 263",
+      "root_lang": "lzh",
+      "original_title": "乞食",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "sn7.20",
+      "acronym": "SN 7.20",
+      "root_lang": "pli",
+      "original_title": "Bhikkhakasutta",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    }
+  ],
+  "primary_sn_uid": "sn7.20",
+  "pali_text": "Sāvatthinidānaṁ. Atha kho bhikkhako brāhmaṇo yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavatā saddhiṁ sammodi. Sammodanīyaṁ kathaṁ sāraṇīyaṁ vītisāretvā ekamantaṁ nisīdi. Ekamantaṁ nisinno kho bhikkhako brāhmaṇo bhagavantaṁ etadavoca: “ahampi kho, bho gotama, bhikkhako, bhavampi bhikkhako, idha no kiṁ nānākaraṇan”ti? “Na tena bhikkhako hoti, yāvatā bhikkhate pare; Vissaṁ dhammaṁ samādāya, bhikkhu hoti na tāvatā. Yodha puññañca pāpañca, bāhitvā brahmacariyaṁ; Saṅkhāya loke carati, sa ve bhikkhūti vuccatī”ti. Evaṁ vutte, bhikkhako brāhmaṇo bhagavantaṁ etadavoca: “abhikkantaṁ, bho gotama, abhikkantaṁ, bho gotama …pe… upāsakaṁ maṁ bhavaṁ gotamo dhāretu ajjatagge pāṇupetaṁ saraṇaṁ gatan”ti.",
+  "english_sn_text": "At Sāvatthī. Then a brahmin almsman went up to the Buddha, and exchanged greetings with him. When the greetings and polite conversation were over, he sat down to one side and said to the Buddha, “Worthy Gotama, both you and I are almsmen. What, then, is the difference between us?” “You don’t become an almsman just by begging alms from others. One who has undertaken domestic duties has not yet become a mendicant. But one living a spiritual life who has banished both merit and evil, and wanders having appraised the world, is said to be a mendicant.” When he had spoken, the brahmin almsman said to the Buddha, “Excellent, worthy Gotama! Excellent! … From this day forth, may the worthy Gotama remember me as a lay follower who has gone for refuge for life.”",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa1-100/sa97_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa1-100/sa97_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时佛在舍卫国祇树给孤独园。\n尔时世尊晨朝著衣持钵，入舍卫城乞食。\n时有一婆罗门，年耆根熟，持杖执钵，家家乞食。彼婆罗门遥见世尊，而作是念：沙门瞿昙持杖执钵，家家乞食；我亦持杖执钵，家家乞食——我与瞿昙俱是比丘。\n尔时世尊说偈答曰：\n所谓比丘者，非但以乞食；若受在家法，是何名比丘。福恶俱已离，梵行审谛修，以慧观世间，是则名比丘。\n佛说是经已，彼婆罗门闻佛所说，欢喜随喜，作礼而去。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在舍卫国祇树给孤独园。\n那天早上，世尊穿衣持钵进舍卫城乞食。\n当时有位婆罗门，年老体衰，拿着拐杖和钵，挨家挨户讨饭。他远远看见世尊，心想：沙门瞿昙拿着杖和钵挨家乞食，我也拿着杖和钵挨家乞食——我和瞿昙一样都是比丘（乞食者）。\n那时，世尊以偈回答他：\n所谓比丘，并不是光靠向人乞食就算数；若还奉行在家人的那一套，凭什么叫比丘？把福与恶两边都抛下，切实地修梵行，以智慧审视世间，这样的人才叫比丘。\n佛说完这部经，那位婆罗门听佛所说，欢喜随喜，礼拜后离去。",
+  "notes": "据 SN7.20（Bhikkhaka）：na tena bhikkhako hoti yāvatā bhikkhate pare（非因向人乞食即成比丘）；vissaṁ dhammaṁ samādāya bhikkhu hoti na tāvatā（受在家／腥秽之法者，未足名比丘）；yodha puññañca pāpañca bāhitvā brahmacariyaṁ, saṅkhāya loke carati（离福与恶、修梵行、以慧审量而行世间）。汉译「于功德过恶，俱离修正行」即「福恶俱离」，「其心无所畏」句巴利作「saṅkhāya loke carati」（审量世间而行），今取巴利义作「以慧观世间」，兼存汉译之「审谛」语面。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "high",
+  "similarity_to_source": 0.297
+}

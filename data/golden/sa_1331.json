@@ -1,0 +1,73 @@
+{
+  "id": "SA_1331",
+  "uid": "sa1331",
+  "title": "雜阿含經  卷第五十  林相應  （1331）  不樂",
+  "chinese_text": "如是我聞：\n\n一時，佛住舍衛國祇樹給孤獨園。\n\n時，有眾多比丘於拘薩羅國人間遊行，住一林中夏安居。彼林中有天神住，知十五日諸比丘受歲，極生憂慼。\n\n有餘天神語彼天神言：「汝何卒生愁憂苦惱？汝當歡喜諸比丘持戒清淨，今日受歲。」\n\n林中天神答言：「我知比丘今日受歲，不同無羞外道受歲，然精進比丘受歲，持衣鉢，明日至餘處去，此林當空。」\n\n比丘去後，林中天神而說偈言：\n\n「今我心不樂，　　但見空林樹，\n\n　清淨心說法，　　多聞諸比丘，\n\n　瞿曇之弟子，　　今悉何處去？」\n\n時，有異天子而說偈言：\n\n「有至摩伽陀，　　有至拘薩羅，\n\n　亦至金剛地，　　處處修遠離，\n\n　猶如野禽獸，　　隨所樂而遊。」",
+  "english_sa_text": "",
+  "parallels": [
+    {
+      "uid": "ja403",
+      "acronym": "Ja 403",
+      "root_lang": "pli",
+      "original_title": "Aṭṭhisenakajātaka",
+      "translated_title": "Atthisena Jātaka",
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "sa-2.351",
+      "acronym": "SA2 351",
+      "root_lang": "lzh",
+      "original_title": "不樂",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "san-lo-mvu107",
+      "acronym": "San Lo Mvu 107",
+      "root_lang": "san",
+      "original_title": "The Jātaka of Asthisena",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "sn9.4",
+      "acronym": "SN 9.4",
+      "root_lang": "pli",
+      "original_title": "Sambahulasutta",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    }
+  ],
+  "primary_sn_uid": "sn9.4",
+  "pali_text": "Ekaṁ samayaṁ sambahulā bhikkhū kosalesu viharanti aññatarasmiṁ vanasaṇḍe. Atha kho te bhikkhū vassaṁvuṭṭhā temāsaccayena cārikaṁ pakkamiṁsu. Atha kho yā tasmiṁ vanasaṇḍe adhivatthā devatā te bhikkhū apassantī paridevamānā tāyaṁ velāyaṁ imaṁ gāthaṁ abhāsi: “Arati viya mejja khāyati, Bahuke disvāna vivitte āsane; Te cittakathā bahussutā, Kome gotamasāvakā gatā”ti. Evaṁ vutte, aññatarā devatā taṁ devataṁ gāthāya paccabhāsi: “Māgadhaṁ gatā kosalaṁ gatā, Ekacciyā pana vajjibhūmiyā; Magā viya asaṅgacārino, Aniketā viharanti bhikkhavo”ti.",
+  "english_sn_text": "At one time several mendicants were staying in the land of the Kosalans in a certain forest grove. Then after completing the three months of the rainy season residence, those mendicants set out wandering. Not seeing those mendicants, the deity haunting that forest cried. And on that occasion they spoke this verse: “Dissatisfaction, it seems to me today, seeing so many vacated seats. They were so learned, such brilliant speakers! Where have these disciples of Gotama gone?” When they had spoken, another deity replied with this verse: “They’ve gone to Magadha, they’ve gone to Kosala, and some are in the Vajjian lands. Like deer that wander free of ties, the mendicants live with no abode.”",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa1301-1400/sa1331_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa1301-1400/sa1331_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛住舍卫国祇树给孤独园。\n时有众多比丘于拘萨罗人间，住一林中夏安居。彼林中天神知十五日诸比丘受岁，深生忧戚。余天神语之曰：「汝何卒生愁忧？当喜比丘持戒清净，今日受岁。」林神答言：「我知今日受岁，不同无惭外道。然精进比丘受岁已，持衣钵，明日当去，此林当空。」\n比丘去后，林神说偈：「今我心不乐，但见空林树；清辩多闻众，瞿昙诸弟子，今悉何处去？」异天子说偈：「或至摩伽陀，或至拘萨罗，或在跋耆地，处处修远离；犹如野禽兽，随乐而无家。」",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在舍卫国祇树给孤独园。\n那时有许多比丘在拘萨罗人间，住在一座林中过夏安居。林中的天神知道十五日比丘们要受岁，心里非常忧愁。别的天神对他说：「你为什么忽然这么愁苦？应当欢喜——比丘们持戒清净，今天受岁。」林神回答：「我知道今天受岁，和那些无惭的外道受岁不同。可是精进的比丘受岁之后，会拿着衣钵，明天就到别处去，这座林子就要空了。」\n比丘们离开后，林神说偈：「今天我心里不乐，只看见空空的林木；那些心净善说法、多闻的比丘，瞿昙的弟子们，如今都到哪里去了？」另一位天子说偈：「有的到了摩伽陀，有的到了拘萨罗，有的在跋耆地，处处修习远离；就像野兽一样，随所乐而无家。」",
+  "notes": "本经 SC 平行表所列平行及 `raw_aligned_data.json` 内之巴利本文、Sujato 英译并用以厘定法义；求那跋陀罗汉本用于定位经文与传统术语。confidence=high：primary SN9.4。信-校正：汉「金刚地」据巴利 vajjibhūmiyā 作「跋耆地」；「不乐」＝arati（不乐／不满），非 virāga，偈中存「不乐」不改「离贪」。汉有受岁问答为汉本增广，巴利直叙安居竟即遊行，叙事情节存汉而义据 SN。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "high",
+  "prior_review_status": "needs_revision",
+  "similarity_to_source": 0.266,
+  "paragraph_parallel": true
+}

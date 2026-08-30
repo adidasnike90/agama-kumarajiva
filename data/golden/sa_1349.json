@@ -1,0 +1,32 @@
+{
+  "id": "SA_1349",
+  "uid": "sa1349",
+  "title": "雜阿含經  卷第五十  林相應  （1349）  優樓鳥",
+  "chinese_text": "如是我聞：\n\n一時，佛在拘薩羅國人間遊行，住一林中。\n\n時，有天神，依彼林者，見佛行跡，低頭諦觀，修於佛念。時，有優樓鳥住於道中，行欲蹈佛足跡。\n\n爾時，天神即說偈言：\n\n「汝今優樓鳥，　　團目栖樹間，\n\n　莫亂如來跡，　　壞我念佛境。」\n\n時，彼天神說此偈已，默然念佛。",
+  "english_sa_text": "",
+  "parallels": [],
+  "primary_sn_uid": null,
+  "pali_text": "",
+  "english_sn_text": "",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa1301-1400/sa1349_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa1301-1400/sa1349_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛在拘萨罗人间遊行，住一林中。\n林中天神见佛行迹，低头谛观，修念佛。时有鸺鹠欲蹈佛足迹。天神说偈：「鸺鹠团目鸟，栖止在树间；莫乱如来迹，坏我念佛境。」说是偈已，默然念佛。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛在拘萨罗人间遊行，住在一座林中。\n林中的天神看见佛的足迹，低头仔细观看，修习念佛。这时有一只鸺鹠想踏佛的足迹。天神说偈：「团眼的鸺鹠鸟，栖息在树间；不要扰乱如来的足迹，破坏我念佛的境界。」说完这偈，默默地念佛。",
+  "notes": "SC 于本经未列可靠巴利平行，故唯以汉本为底，参同相应之巴利定型语厘义；依项目规约「无可靠平行时 confidence 降为 medium/low」。confidence=medium：无 SC 专经；「念佛」＝早期 buddhānussati（念佛功德），非净土称名。「优楼」＝鸺鹠一类。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "medium",
+  "prior_review_status": "needs_revision",
+  "similarity_to_source": 0.157,
+  "paragraph_parallel": true
+}

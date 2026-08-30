@@ -1,0 +1,116 @@
+{
+  "id": "SA_862",
+  "uid": "sa862",
+  "title": "雜阿含經  卷第三十二  天相應  （862）  化樂",
+  "chinese_text": "如是我聞：\n\n一時，佛住舍衛國祇樹給孤獨園。\n\n爾時，世尊告諸比丘：「人間八百歲是化樂天上一日一夜。如是三十日一月，十二月一歲，化樂天壽八千歲。愚癡無聞凡夫於彼命終，生地獄、畜生、餓鬼中；多聞聖弟子於彼命終，不生地獄、畜生、餓鬼中。」\n\n佛說此經已，諸比丘聞佛所說，歡喜奉行。",
+  "english_sa_text": "",
+  "parallels": [
+    {
+      "uid": "an3.70",
+      "acronym": "AN 3.70",
+      "root_lang": "pli",
+      "original_title": "Uposathasutta",
+      "translated_title": "The Roots of the Uposatha",
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "ma202",
+      "acronym": "MA 202",
+      "root_lang": "lzh",
+      "original_title": "持齋",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "t87",
+      "acronym": "T 87",
+      "root_lang": "lzh",
+      "original_title": "齋",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "an8.42",
+      "acronym": "AN 8.42",
+      "root_lang": "pli",
+      "original_title": "Vitthatūposathasutta",
+      "translated_title": "In Detail",
+      "type": "full",
+      "resembling": true,
+      "remark": null
+    },
+    {
+      "uid": "an8.43",
+      "acronym": "AN 8.43",
+      "root_lang": "pli",
+      "original_title": "Visākhāsutta",
+      "translated_title": "Visākhā (1)",
+      "type": "full",
+      "resembling": true,
+      "remark": null
+    },
+    {
+      "uid": "ea24.6",
+      "acronym": "EA 24.6",
+      "root_lang": "lzh",
+      "original_title": "齋戒",
+      "translated_title": "The Three Fasting Days",
+      "type": "full",
+      "resembling": true,
+      "remark": null
+    },
+    {
+      "uid": "t88",
+      "acronym": "T 88",
+      "root_lang": "lzh",
+      "original_title": "優陂夷墮舍迦",
+      "translated_title": null,
+      "type": "full",
+      "resembling": true,
+      "remark": null
+    },
+    {
+      "uid": "t89",
+      "acronym": "T 89",
+      "root_lang": "lzh",
+      "original_title": "八關齋",
+      "translated_title": null,
+      "type": "full",
+      "resembling": true,
+      "remark": null
+    }
+  ],
+  "primary_sn_uid": null,
+  "pali_text": "",
+  "english_sn_text": "",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa801-900/sa862_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa801-900/sa862_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛住舍卫国祇树给孤独园。\n尔时世尊告诸比丘：\n「人间八百岁，当化乐天一日一夜；三十日为一月，十二月为一岁，彼天寿量八千岁。无闻凡夫于彼命终，或堕地狱、畜生、饿鬼；多闻圣弟子于彼命终，不堕三恶趣。」\n佛说此经已，诸比丘闻佛所说，欢喜奉行。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在舍卫国祇树给孤独园。\n那时世尊告诉比丘们：\n「人间八百岁，相当于化乐天的一日一夜；三十日为一月，十二月为一岁，那一天寿有八千岁。无闻凡夫在那里命终，或堕地狱、畜生、饿鬼；多闻圣弟子在那里命终，不堕三恶趣。」\n佛说完这部经，比丘们听佛所说，都欢喜奉行。",
+  "notes": "本经 SC 平行表所列平行及 `raw_aligned_data.json` 内之巴利本文、Sujato 英译并用以厘定法义；求那跋陀罗汉本用于定位经文与传统术语。confidence=high：同 AN3.70 系化乐天寿；与 SA_861 同型。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "high",
+  "prior_review_status": "needs_revision",
+  "similarity_to_source": 0.309,
+  "paragraph_parallel": true,
+  "quality_gate_reasons": [
+    "lit_mod_gap=0.254>=0.1"
+  ]
+}

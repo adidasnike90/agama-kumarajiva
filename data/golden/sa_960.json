@@ -1,0 +1,43 @@
+{
+  "id": "SA_960",
+  "uid": "sa960",
+  "title": "雜阿含經  卷第三十八  婆蹉外道相應  （960）  未曾有",
+  "chinese_text": "如是我聞：\n\n一時，佛住王舍城迦蘭陀竹園。\n\n時，有婆蹉種出家來詣佛所，合掌問訊，問訊已，退坐一面，白佛言：「瞿曇！欲有所問，寧有閑暇為解說不？」\n\n佛告婆蹉種出家：「隨所欲問，當為汝說。」\n\n婆蹉種出家白佛言：「瞿曇！何因、何緣有人來問如來有後死、無後死、有無後死、非有非無後死，而不為記說耶？」\n\n佛告婆蹉種出家……如上詵陀迦旃延廣說，乃至「非有非無後死。」\n\n婆蹉種出家白佛言：「奇哉！瞿曇！師及弟子義義同，句句同，味味同，其理悉合，所謂第一句說。瞿曇！我為小緣事至那利伽聚落，營事訖已，暫過沙門迦旃延，以如是義、如是句、如是味問沙門迦旃延，彼亦以如是義、如是句、如是味答我所問，如今沙門瞿曇所說。是故當知，實為奇特！師及弟子義、句、味，義、句、味悉同。」\n\n時，婆蹉種出家聞佛所說，歡喜隨喜，從坐起而去。",
+  "english_sa_text": "",
+  "parallels": [
+    {
+      "uid": "sa-2.194",
+      "acronym": "SA2 194",
+      "root_lang": "lzh",
+      "original_title": "未曾有",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    }
+  ],
+  "primary_sn_uid": null,
+  "pali_text": "",
+  "english_sn_text": "",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa901-1000/sa960_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa901-1000/sa960_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛住王舍城迦兰陀竹园。\n时有婆蹉种出家来诣佛所，问讯已，白佛言：「瞿昙！何因何缘，有人来问如来死后有无等，而不为记说？」佛告婆蹉：如上詵陀迦旃延广说。\n婆蹉白佛：「奇哉！师与弟子，义同、句同、味同，其理悉合。我曾至那利伽聚落，过访沙门迦旃延，以如是义句味问彼，彼亦如是答，如今沙门瞿昙所说。实为奇特！」闻已欢喜随喜，从坐起而去。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在王舍城迦兰陀竹园。\n当时有婆蹉种出家人来到佛处，问讯后对佛说：「瞿昙！什么因缘，有人来问如来死后有无等，却不为记说？」佛告诉婆蹉：如同前面詵陀迦旃延所广说的那样。\n婆蹉对佛说：「希有！师与弟子，义同、句同、味同，道理完全相合。我曾到那利伽聚落，顺便拜访沙门迦旃延，用这样的义、句、味问他，他也这样答，正像沙门瞿昙现在说的。实在奇特！」听完欢喜随喜，从座起身离去。",
+  "notes": "SC 于本经未列可靠巴利平行，故唯以汉本为底，参同相应之巴利定型语厘义；依项目规约「无可靠平行时 confidence 降为 medium/low」。confidence=medium：汉本「如上詵陀迦旃延广说」，与 SA_959／SN44.11 互文；无独立巴利主平行，据汉压缩。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "medium",
+  "prior_review_status": "needs_revision",
+  "similarity_to_source": 0.183,
+  "paragraph_parallel": true
+}

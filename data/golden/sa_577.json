@@ -1,0 +1,66 @@
+{
+  "id": "SA_577",
+  "uid": "sa577",
+  "title": "雜阿含經  卷第二十五  天相應  （577）  鉤錙",
+  "chinese_text": "如是我聞：\n\n一時，佛住舍衛國祇樹給孤獨園。\n\n時，有一天子，容色絕妙，於後夜時來詣佛所，稽首佛足，退坐一面。身諸光明遍照祇樹給孤獨園。\n\n時，彼天子即說偈言：\n\n「斷一切鉤鏁，　　牟尼無有家，\n\n　沙門著教化，　　我不說善哉。」\n\n爾時，世尊說偈答言：\n\n「一切眾生類，　　悉共相纏縛，\n\n　其有智慧者，　　孰能不愍傷？\n\n　善逝哀愍故，　　常教授眾生，\n\n　哀愍眾生者，　　是法之所應。」\n\n時，彼天子復說偈言：\n\n「久見婆羅門，　　逮得般涅槃，\n\n　一切怖已過，　　永超世恩愛。」\n\n時，彼天子聞佛所說，歡喜隨喜，即沒不現。",
+  "english_sa_text": "",
+  "parallels": [
+    {
+      "uid": "sa-2.299",
+      "acronym": "SA2 299",
+      "root_lang": "lzh",
+      "original_title": "釋迦",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "sa-2.162",
+      "acronym": "SA2 162",
+      "root_lang": "lzh",
+      "original_title": "鉤錙",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "sn10.2",
+      "acronym": "SN 10.2",
+      "root_lang": "pli",
+      "original_title": "Sakkanāmasutta",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    }
+  ],
+  "primary_sn_uid": "sn10.2",
+  "pali_text": "Ekaṁ samayaṁ bhagavā rājagahe viharati gijjhakūṭe pabbate. Atha kho sakkanāmako yakkho yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṁ gāthāya ajjhabhāsi: “Sabbaganthappahīnassa, vippamuttassa te sato; Samaṇassa na taṁ sādhu, yadaññamanusāsasī”ti. “Yena kenaci vaṇṇena, saṁvāso sakka jāyati; Na taṁ arahati sappañño, manasā anukampituṁ. Manasā ce pasannena, yadaññamanusāsati; Na tena hoti saṁyutto, yānukampā anuddayā”ti.",
+  "english_sn_text": "At one time the Buddha was staying near Rājagaha, on the Vulture’s Peak Mountain. Then a spirit who was Sakka in name only went up to the Buddha, and addressed him in verse: “You’ve given up all ties, and are fully freed. It’s not a good idea for you, ascetic, to be instructing others.” “No matter how you explain why people gather together, Sakka, it’s unworthy for a wise person not to think of the other with sympathy. If you instruct others with a mind clear and confident, your compassion and empathy don’t create attachments.”",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa501-600/sa577_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa501-600/sa577_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛在舍卫国祇树给孤独园。时，有一天子容色绝妙，于后夜时来诣佛所，稽首佛足，身诸光明遍照祇树给孤独园。\n时，彼天子说偈言：「断诸钩锁，牟尼无家宅，沙门教众生，我说非善哉。」\n尔时，世尊说偈答言：「众生互相缚，智谁不悯伤？善逝以哀愍，常教示众生；哀愍众生者，是法之所应。」\n时，彼天子复说偈言：「久见婆罗门，逮得般涅槃，一切怖已过，永超世恩爱。」\n时，彼天子闻佛所说，欢喜随喜，即没不现。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在舍卫国祇树给孤独园。当时，有一位天子容色绝妙，在后夜来到佛处，顶礼佛足，身放光明遍照祇树给孤独园。\n天子说偈言：「断诸钩锁，牟尼无家宅，沙门教众生，我说非善哉。」\n世尊说偈答：「众生互相缚，智谁不悯伤？善逝以哀愍，常教示众生；哀愍众生者，是法之所应。」\n天子又说偈：「久见婆罗门，逮得般涅槃，一切怖惧已过，永超世间恩爱。」\n当时，那位天子听佛所说，欢喜随喜，随即消失。",
+  "notes": "本经 SC 平行表所列平行及 `raw_aligned_data.json` 内之巴利本文、Sujato 英译并用以厘定法义；求那跋陀罗汉本用于定位经文与传统术语。confidence=high：parallel SN10.2（Sakka 问教示；哀愍应教授）。据 SN 校正：钩锁／缠缚；汉本置舍卫园，从汉。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "high",
+  "prior_review_status": "needs_revision",
+  "similarity_to_source": 0.336,
+  "paragraph_parallel": true,
+  "quality_gate_reasons": [
+    "sim_lit=0.527>=0.5"
+  ]
+}

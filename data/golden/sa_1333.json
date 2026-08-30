@@ -1,0 +1,53 @@
+{
+  "id": "SA_1333",
+  "uid": "sa1333",
+  "title": "雜阿含經  卷第五十  林相應  （1333）  遠離",
+  "chinese_text": "如是我聞：\n\n一時，佛住舍衛國祇樹給孤獨園。\n\n時，有異比丘在拘薩羅住林中，入晝正受，心起不善覺，依於惡貪。\n\n時，彼林中住止天神作是念：「非比丘法，止住林中，入晝正受，心生不善覺，依於惡貪，我今當往開悟之。」\n\n時，彼天神即說偈言：\n\n「其心欲遠離，　　正於空閑林，\n\n　放心隨外緣，　　亂想而流馳。\n\n　調伏樂世心，　　常樂心解脫，\n\n　當捨不樂心，　　執受安樂住。\n\n　思非於正念，　　莫著我我所，\n\n　如以塵頭染，　　是著極難遣。\n\n　莫令染樂著，　　欲心所濁亂，\n\n　如釋君馳象，　　奮迅去塵穢。\n\n　比丘於自身，　　正念除塵垢，\n\n　塵者謂貪欲，　　非世間塵土。\n\n　黠慧明智者，　　當悟彼諸塵，\n\n　於如來法律，　　持心莫放逸。\n\n　塵垢謂瞋恚，　　非世間塵土，\n\n　黠慧明智者，　　當悟彼諸塵。\n\n　於如來法律，　　持心莫放逸，\n\n　塵垢謂愚癡，　　非世間塵土。\n\n　明智黠慧者，　　當捨彼諸塵，\n\n　於如來法律，　　持心莫放逸。」\n\n時，彼天神說是偈已，彼比丘聞其所說，專精思惟，斷諸煩惱心，得阿羅漢。",
+  "english_sa_text": "",
+  "parallels": [
+    {
+      "uid": "sa-2.353",
+      "acronym": "SA2 353",
+      "root_lang": "lzh",
+      "original_title": "遠離",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "sn9.1",
+      "acronym": "SN 9.1",
+      "root_lang": "pli",
+      "original_title": "Vivekasutta",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    }
+  ],
+  "primary_sn_uid": "sn9.1",
+  "pali_text": "Evaṁ me sutaṁ— ekaṁ samayaṁ aññataro bhikkhu kosalesu viharati aññatarasmiṁ vanasaṇḍe. Tena kho pana samayena so bhikkhu divāvihāragato pāpake akusale vitakke vitakketi gehanissite. Atha kho yā tasmiṁ vanasaṇḍe adhivatthā devatā tassa bhikkhuno anukampikā atthakāmā taṁ bhikkhuṁ saṁvejetukāmā yena so bhikkhu tenupasaṅkami; upasaṅkamitvā taṁ bhikkhuṁ gāthāhi ajjhabhāsi: “Vivekakāmosi vanaṁ paviṭṭho, Atha te mano niccharatī bahiddhā; Jano janasmiṁ vinayassu chandaṁ, Tato sukhī hohisi vītarāgo. Aratiṁ pajahāsi sato, Bhavāsi sataṁ taṁ sārayāmase; Pātālarajo hi duttaro, Mā taṁ kāmarajo avāhari. Sakuṇo yathā paṁsukunthito, Vidhunaṁ pātayati sitaṁ rajaṁ; Evaṁ bhikkhu padhānavā satimā, Vidhunaṁ pātayati sitaṁ rajan”ti. Atha kho so bhikkhu tāya devatāya saṁvejito saṁvegamāpādīti.",
+  "english_sn_text": "So I have heard. At one time one of the mendicants was staying in the land of the Kosalans in a certain forest grove. Now at that time that mendicant, during their day’s meditation, was thinking bad, unskillful thoughts to do with the domestic life. The deity haunting that forest had sympathy for that mendicant, and wanted what’s best for them. So they approached that mendicant wanting to stir them up, and addressed them in verse: “You entered the woods desiring seclusion, yet your mind strays to outward things. As a person, dispel the desire for people; then you’ll be happy, free of greed. Give up discontent; be mindful; let us remind you to be mindful. The dusty abyss is so hard to cross; don’t let sensual dust drag you down. Just as a bird strewn with dirt sheds that clingy dust with a shake; so too, an energetic, mindful mendicant sheds that clingy dust with a shake.” Impelled by that deity, that mendicant was struck with a sense of urgency.",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa1301-1400/sa1333_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa1301-1400/sa1333_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛住舍卫国祇树给孤独园。\n时有异比丘在拘萨罗林中，昼入正受，心起不善觉，依于恶贪。林中天神念：「非比丘法——住林正受而起不善觉、依恶贪，我当往开悟。」即说偈言：\n「汝欲修远离，乃住空闲林；而心随外缘，乱想驰不息。当伏乐世心，常乐心解脱；舍彼不乐想，安住寂静乐。正念莫散乱，勿著我我所；欲尘深难渡，莫令欲所漂。如鸟振尘土，精进正念者，亦当振欲尘——尘谓贪瞋痴，非世间土尘；于如来法律，持心莫放逸。」\n比丘闻已，专精思惟，断诸烦恼，得阿罗汉。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在舍卫国祇树给孤独园。\n那时有一位比丘在拘萨罗的林中，白天入定，心里生起不善的寻思，依着恶贪。林中的天神心想：「这不是比丘该做的——住在林中入定，却生不善寻思、依着恶贪，我应当去开导他。」便说偈：\n「你想修远离，才住进空闲林；可心却随外境，乱想奔驰不停。应当调伏乐著世间的心，常乐于心解脱；舍掉不乐的想法，安住在寂静之乐。保持正念，不要散乱，不要执著我、我所；欲的尘垢深而难渡，不要被欲漂走。就像鸟抖落尘土，精进而正念的人，也应当抖落欲尘——所谓尘，是贪、瞋、痴，不是世间的土尘；在如来的法律中，把持其心，不要放逸。」\n比丘听了，专精思惟，断除烦恼，证得阿罗汉。",
+  "notes": "本经 SC 平行表所列平行及 `raw_aligned_data.json` 内之巴利本文、Sujato 英译并用以厘定法义；求那跋陀罗汉本用于定位经文与传统术语。confidence=high：primary SN9.1。巴利偈较短（舍人欲、舍不乐、欲尘、振尘）；汉广开贪瞋痴三尘，义不违，存汉广说而压缩罗什风。「不善觉／恶贪」据 SN pāpake akusale vitakke … gehanissite（依家居之不善寻）。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "high",
+  "prior_review_status": "needs_revision",
+  "similarity_to_source": 0.147,
+  "paragraph_parallel": true
+}

@@ -1,0 +1,43 @@
+{
+  "id": "SA_319",
+  "uid": "sa319",
+  "title": "雜阿含經  卷第十二  因緣相應  （319）  生聞一切",
+  "chinese_text": "如是我聞：\n\n一時，佛住舍衛國祇樹給孤獨園。\n\n時，有生聞婆羅門往詣佛所，共相問訊，問訊已，退坐一面，白佛言：「瞿曇！所謂一切者，云何名一切？」\n\n佛告婆羅門：「一切者，謂十二入處，眼色、耳聲、鼻香、舌味、身觸、意法，是名一切。若復說言此非一切，沙門瞿曇所說一切，我今捨，別立餘一切者，彼但有言說，問已不知，增其疑惑。所以者何？非其境界故。」\n\n時，生聞婆羅門聞佛所說，歡喜隨喜奉行。",
+  "english_sa_text": "",
+  "parallels": [
+    {
+      "uid": "sn35.23",
+      "acronym": "SN 35.23",
+      "root_lang": "pli",
+      "original_title": "Sabbasutta",
+      "translated_title": "The All",
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    }
+  ],
+  "primary_sn_uid": "sn35.23",
+  "pali_text": "Sāvatthinidānaṁ. “Sabbaṁ vo, bhikkhave, desessāmi. Taṁ suṇātha. Kiñca, bhikkhave, sabbaṁ? Cakkhuñceva rūpā ca, sotañca saddā ca, ghānañca gandhā ca, jivhā ca rasā ca, kāyo ca phoṭṭhabbā ca, mano ca dhammā ca— idaṁ vuccati, bhikkhave, sabbaṁ. Yo, bhikkhave, evaṁ vadeyya: ‘ahametaṁ sabbaṁ paccakkhāya aññaṁ sabbaṁ paññāpessāmī’ti, tassa vācāvatthukamevassa; puṭṭho ca na sampāyeyya, uttariñca vighātaṁ āpajjeyya. Taṁ kissa hetu? Yathā taṁ, bhikkhave, avisayasmin”ti. Paṭhamaṁ.",
+  "english_sn_text": "At Sāvatthī. “Mendicants, I will teach you the all. Listen … And what is the all? It’s just the eye and sights, the ear and sounds, the nose and smells, the tongue and tastes, the body and touches, and the mind and ideas. This is called the all. Mendicants, suppose someone was to say: ‘I’ll deny this all and describe another all.’ They’d have no grounds for that claim, they’d be stumped by questions, and, in addition, they’d get frustrated. Why is that? Because they’re out of their element.”",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa301-400/sa319_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa301-400/sa319_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛在舍卫国祇树给孤独园。\n时，有生闻婆罗门往诣佛所，共相问讯，退坐一面，白佛言：「瞿昙！所谓一切——云何名一切？」\n佛告婆罗门：「一切者，谓十二入处：眼与色、耳与声、鼻与香、舌与味、身与触、意与法——是名一切。若有人言：『此非一切；沙门瞿昙所说一切，我今捨之，别立余一切』——彼唯有言说，问已不知，徒增疑惑。所以者何？非其境界故。」\n生闻婆罗门闻佛所说，欢喜随喜，从座起去。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在舍卫国祇树给孤独园。\n那时，有生闻婆罗门来见佛，互相问候后退坐一面，问：「瞿昙！所谓『一切』——怎样叫一切？」\n佛告诉婆罗门：「一切，就是十二入处：眼与色、耳与声、鼻与香、舌与味、身与触、意与法——这叫做一切。若有人说：『这不是一切；沙门瞿昙所说的一切，我今捨掉，另立别的一切』——他只有空话，问了也不知，徒增疑惑。为什么？因为那不是他的境界。」\n生闻婆罗门听佛所说，欢喜随喜，从座而起离去。",
+  "notes": "本经 SC 平行表所列平行及 `raw_aligned_data.json` 内之巴利本文、Sujato 英译并用以厘定法义；求那跋陀罗汉本用于定位经文与传统术语。confidence=high：SN35.23（Sabba）为 `full` 平行。一切＝十二入处；拒立「余一切」者「非其境界」——据 Pāli／Sujato。汉本对话者为生闻婆罗门（巴利告诸比丘），场次从汉本，法义据 SN。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "high",
+  "prior_review_status": "needs_revision",
+  "similarity_to_source": 0.277,
+  "paragraph_parallel": true
+}

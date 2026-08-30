@@ -1,0 +1,43 @@
+{
+  "id": "SA_225",
+  "uid": "sa225",
+  "title": "雜阿含經  卷第九  六入處相應  （225）  斷",
+  "chinese_text": "如是我聞：\n\n一時，佛住舍衛國祇樹給孤獨園。\n\n爾時，世尊告諸比丘：「我不說一法不知、不斷而究竟苦邊。云何不說一法不知、不斷而究竟苦邊？謂不說眼不知、不斷而究竟苦邊，若色、眼識、眼觸、眼觸因緣生受，內覺若苦、若樂、不苦不樂，彼一切不說不知、不斷而究竟苦邊。耳、鼻、舌、身、意亦復如是。」\n\n佛說此經已，諸比丘聞佛所說，歡喜奉行。",
+  "english_sa_text": "Saṁyuktāgama\n\n225. [Second Discourse on Abandoning]\n\nThus have I heard. At one time the Buddha was staying at Sāvatthī in Jeta’s Grove, Anāthapiṇḍika’s Park.\n\nAt that time the Blessed One said to the monks: “I do not say that, without understanding and without abandoning one thing, one [attains] the unsurpassed transcendence of dukkha. What is the one thing of which I do not say that, without understanding and without abandoning it, one [attains] the unsurpassed transcendence of dukkha? That is, I do not say that, without understanding and without abandoning the eye, one [attains] the unsurpassed transcendence of dukkha.\n\n“I do not say of forms, eye-consciousness, eye-contact, and feeling arisen in dependence on eye-contact and experienced within, be it painful, pleasant, or neutral, that, without understanding and without abandoning all these, one [attains] the unsurpassed transcendence of dukkha.\n\n“The ear … the nose … the tongue … the body … the mind is also like that.”\n\nWhen the Buddha had spoken this discourse, hearing what the Buddha had said the monks were delighted and received it respectfully.\n\nTranslated by Bhikkhu Anālayo. Originally published in \"On the Six Sense-spheres (1) ―A Translation of Saṁyukta-āgama Discourses 188 to 229 (Fascicle 8)\", Dharma Drum Journal of Buddhist Studies, 2016, vol. 18 pp. 1–61.\n\nPrepared for SuttaCentral by Ayya Vimala.",
+  "parallels": [
+    {
+      "uid": "sn35.25",
+      "acronym": "SN 35.25",
+      "root_lang": "pli",
+      "original_title": "Abhiññāpariññāpahānasutta",
+      "translated_title": "Abandonment (2)",
+      "type": "full",
+      "resembling": true,
+      "remark": null
+    }
+  ],
+  "primary_sn_uid": "sn35.25",
+  "pali_text": "“Sabbaṁ abhiññā pariññā pahānāya vo, bhikkhave, dhammaṁ desessāmi. Taṁ suṇātha. Katamo ca, bhikkhave, sabbaṁ abhiññā pariññā pahānāya dhammo? Cakkhuṁ, bhikkhave, abhiññā pariññā pahātabbaṁ, rūpā abhiññā pariññā pahātabbā, cakkhuviññāṇaṁ abhiññā pariññā pahātabbaṁ, cakkhusamphasso abhiññā pariññā pahātabbo, yampidaṁ cakkhusamphassapaccayā uppajjati vedayitaṁ sukhaṁ vā dukkhaṁ vā adukkhamasukhaṁ vā tampi abhiññā pariññā pahātabbaṁ …pe… jivhā abhiññā pariññā pahātabbā, rasā abhiññā pariññā pahātabbā, jivhāviññāṇaṁ abhiññā pariññā pahātabbaṁ, jivhāsamphasso abhiññā pariññā pahātabbo, yampidaṁ jivhāsamphassapaccayā uppajjati vedayitaṁ sukhaṁ vā dukkhaṁ vā adukkhamasukhaṁ vā tampi abhiññā pariññā pahātabbaṁ. Kāyo abhiññā pariññā pahātabbo … mano abhiññā pariññā pahātabbo, dhammā abhiññā pariññā pahātabbā, manoviññāṇaṁ abhiññā pariññā pahātabbaṁ, manosamphasso abhiññā pariññā pahātabbo, yampidaṁ manosamphassapaccayā uppajjati vedayitaṁ sukhaṁ vā dukkhaṁ vā adukkhamasukhaṁ vā tampi abhiññā pariññā pahātabbaṁ. Ayaṁ kho, bhikkhave, sabbaṁ abhiññā pariññā pahānāya dhammo”ti. Tatiyaṁ.",
+  "english_sn_text": "“Mendicants, I will teach you the principle for giving up the all by direct knowledge and complete understanding. Listen … And what is the principle for giving up the all by direct knowledge and complete understanding? The eye should be given up by direct knowledge and complete understanding. Sights should be given up by direct knowledge and complete understanding. Eye consciousness should be given up by direct knowledge and complete understanding. Eye contact should be given up by direct knowledge and complete understanding. The painful, pleasant, or neutral feeling that arises dependent on eye contact should be given up by direct knowledge and complete understanding. The ear … nose … tongue … body … mind should be given up by direct knowledge and complete understanding. Ideas should be given up by direct knowledge and complete understanding. Mind consciousness should be given up by direct knowledge and complete understanding. Mind contact should be given up by direct knowledge and complete understanding. The painful, pleasant, or neutral feeling that arises dependent on mind contact should be given up by direct knowledge and complete understanding. This is the principle for giving up the all by direct knowledge and complete understanding.”",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa201-300/sa225_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa201-300/sa225_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时佛在舍卫国祇树给孤独园。\n尔时世尊告诸比丘：我不说有一法，于彼不知、不断，而得究竟苦边。云何不说？谓不说于眼不知、不断而得究竟苦边；于色、眼识、眼触，及眼触因缘所生受——内所觉受，若苦、若乐、不苦不乐，亦复不说不知、不断而得究竟苦边。耳、鼻、舌、身、意亦复如是。\n佛说此经已，诸比丘闻佛所说，欢喜奉行。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在舍卫国祇树给孤独园。\n那时，世尊告诉比丘们：我不说：对任何一法若不知、不断，也能达到苦的究竟边际。怎样不这样说呢？就是：我不说对眼不知、不断而能达到苦的究竟边际；对色、眼识、眼触，以及依眼触为缘而生起的感受——内心所领受的，无论是苦、是乐、还是不苦不乐，也一样不说不知、不断而能达到苦的究竟边际。耳、鼻、舌、身、意也是一样。\n佛说完这部经，比丘们听佛所说，都欢喜奉行。",
+  "notes": "本经 SC 平行表所列平行及 `raw_aligned_data.json` 内之巴利本文、Sujato 英译，与 Anālayo 之 SA 英译（DDJBS 18, 2016, Fascicle 8）并用以厘定法义；求那跋陀罗汉本用于定位经文与传统术语。confidence=high：SN35.25（Abhiññāpariññāpahāna）为 `full` 平行（SC 标 `resembling`，盖与 SN35.24 为一组语面近同之经，非疑法义，沿 SA_188／196 之例不因该标降级）。巴利作 `sabbaṁ abhiññā pariññā pahātabbaṁ`（当以证知、遍知而断一切），本经汉本为反说「不知、不断则不得究竟苦边」，所对仍是知＋断二门。信-校正：巴利为三支（abhiññā／pariññā／pahāna），汉本唯「知」「断」二支而省遍知；今存汉本之二支，不据巴利增入「遍知」——此为汉本一系与 SA_223（知／识）成对之体裁。「究竟苦边」同前经。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "high",
+  "prior_review_status": "needs_revision",
+  "similarity_to_source": 0.355,
+  "paragraph_parallel": true
+}

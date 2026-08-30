@@ -1,0 +1,53 @@
+{
+  "id": "SA_1085",
+  "uid": "sa1085",
+  "title": "雜阿含經  卷第四十七  魔相應  （1085）  河帝",
+  "chinese_text": "如是我聞：\n\n一時，佛住王舍城寒林中丘塚間。\n\n爾時，世尊告諸比丘：「一切行無常，一切行不恒、不安，非穌息，變易之法，乃至當止一切有為行，厭離、不樂、解脫。」\n\n時，魔波旬作是念：「今沙門瞿曇住王舍城寒林中，為諸聲聞說如是法：『一切行無常、不恒，非穌息，變易之法，乃至當止一切有為，厭離、不樂、解脫。』我當往彼，為作嬈亂。」即化作年少，往詣佛所，住於佛前，而說偈言：\n\n「壽命日夜流，　　無有窮盡時，\n\n　壽命當來去，　　猶如車輪轉。」\n\n爾時，世尊作是念：「此是惡魔欲作嬈亂。」即說偈言：\n\n「日夜常遷流，　　壽亦隨損減，\n\n　人命漸消亡，　　猶如小河水。\n\n　我知汝惡魔，　　便自消滅去。」\n\n時，魔波旬作是念：「沙門瞿曇已知我心。」慚愧憂慼，即沒不現。",
+  "english_sa_text": "",
+  "parallels": [
+    {
+      "uid": "sa-2.24",
+      "acronym": "SA2 24",
+      "root_lang": "lzh",
+      "original_title": "河帝",
+      "translated_title": "Māra says life is eternal",
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "sn4.10",
+      "acronym": "SN 4.10",
+      "root_lang": "pli",
+      "original_title": "Dutiyaāyusutta",
+      "translated_title": "Life Span (2)",
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    }
+  ],
+  "primary_sn_uid": "sn4.10",
+  "pali_text": "Evaṁ me sutaṁ— ekaṁ samayaṁ bhagavā rājagahe viharati veḷuvane kalandakanivāpe. Tatra kho bhagavā …pe… etadavoca: “Appamidaṁ, bhikkhave, manussānaṁ āyu. Gamanīyo samparāyo, kattabbaṁ kusalaṁ, caritabbaṁ brahmacariyaṁ. Natthi jātassa amaraṇaṁ. Yo, bhikkhave, ciraṁ jīvati, so vassasataṁ appaṁ vā bhiyyo”ti. Atha kho māro pāpimā yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṁ gāthāya ajjhabhāsi: “Nāccayanti ahorattā, Jīvitaṁ nūparujjhati; Āyu anupariyāyati maccānaṁ, Nemīva rathakubbaran”ti. “Accayanti ahorattā, jīvitaṁ uparujjhati; Āyu khīyati maccānaṁ, kunnadīnaṁva odakan”ti. Atha kho māro pāpimā “jānāti maṁ bhagavā, jānāti maṁ sugato”ti dukkhī dummano tatthevantaradhāyīti. Paṭhamo vaggo. Tassuddānaṁ Tapokammañca nāgo ca, subhaṁ pāsena te duve; Sappo supati nandanaṁ, āyunā apare duveti.",
+  "english_sn_text": "So I have heard. At one time the Buddha was staying near Rājagaha in the Bamboo Grove, the squirrels’ feeding ground. There the Buddha … said: “Mendicants, the lifespan of humans is short. We are headed for lives to come. We must do what is skillful, we must practice the spiritual life. No one born is immortal. A long life is a hundred years or a little more.” Then Māra the Wicked went up to the Buddha and addressed him in verse: “The days and nights don’t rush by, and life isn’t cut short. The life of mortals keeps rolling on, like a chariot’s rim around the hub.” “The days and nights rush by, and then life is cut short. The life of mortals wastes away, like the water in tiny streams.” Then Māra the Wicked, thinking, “The Buddha knows me! The Holy One knows me!” miserable and sad, vanished right there.",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa1001-1100/sa1085_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa1001-1100/sa1085_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛住王舍城寒林丘塚间。\n佛告比丘：「诸行无常，不安非憩，是变易法；当止有为，生厌、离贪、解脱。」\n魔化年少说偈：「寿命日夜流，无有穷尽；来去如轮转。」\n佛答：「日夜迁流，寿随损减；人命消亡，如小河水。波旬，灭去！」\n魔波旬念：「沙门已知我心。」忧惭即没。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在王舍城寒林的丘塚之间。\n佛告诉比丘们：「一切行无常，不安稳、不是憩息处，是变易之法；应当止息有为，生起厌离、离贪、而得解脱。」\n魔化作少年说偈：「寿命日夜流转，没有穷尽；来来去去像车轮转。」\n佛答：「日夜不停迁流，寿命随之减损；人命渐渐消亡，如同小河的水。波旬，走开！」\n魔波旬心想：「沙门已经知道我的心。」忧愁惭愧，随即隐没不见。",
+  "notes": "本经 SC 平行表所列平行及 `raw_aligned_data.json` 内之巴利本文、Sujato 英译并用以厘定法义；求那跋陀罗汉本用于定位经文与传统术语。据 SN4.10 Dutiyaāyu：魔说寿无穷，佛说如溪水日减。汉「厌离、不乐、解脱」据巴利 nibbindati／virajjati／vimuccati 作「生厌、离贪、解脱」（厌故离贪）。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "high",
+  "prior_review_status": "needs_revision",
+  "similarity_to_source": 0.097,
+  "paragraph_parallel": true
+}

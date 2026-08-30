@@ -1,0 +1,53 @@
+{
+  "id": "SA_942",
+  "uid": "sa942",
+  "title": "雜阿含經  卷第三十七  婆蹉外道相應  （942）  喜樂",
+  "chinese_text": "如是我聞：\n\n一時，佛住舍衛國祇樹給孤獨園。\n\n爾時，世尊告諸比丘：「眾生無始生死，長夜輪轉，不知苦之本際。諸比丘！汝等見諸眾生安隱諸樂，當作是念：『我等長夜輪轉生死，亦曾受斯樂，其趣無量。』是故，比丘！當如是學：『無始生死，長夜輪轉，不知苦之本際，當勤精進，斷除諸有，莫令增長。』」\n\n佛說此經已，諸比丘聞佛所說，歡喜奉行。",
+  "english_sa_text": "",
+  "parallels": [
+    {
+      "uid": "sa-2.335",
+      "acronym": "SA2 335",
+      "root_lang": "lzh",
+      "original_title": "喜樂",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "sn15.12",
+      "acronym": "SN 15.12",
+      "root_lang": "pli",
+      "original_title": "Sukhitasutta",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    }
+  ],
+  "primary_sn_uid": "sn15.12",
+  "pali_text": "Sāvatthiyaṁ viharati. “Anamataggoyaṁ, bhikkhave, saṁsāro …pe… yaṁ, bhikkhave, passeyyātha sukhitaṁ susajjitaṁ, niṭṭhamettha gantabbaṁ: ‘amhehipi evarūpaṁ paccanubhūtaṁ iminā dīghena addhunā’ti. Taṁ kissa hetu? Anamataggoyaṁ, bhikkhave, saṁsāro. Pubbā koṭi na paññāyati …pe… alaṁ vimuccitun”ti. Dutiyaṁ.",
+  "english_sn_text": "At Sāvatthī. “Mendicants, this transmigration has no known beginning. … When you see someone in a good way, in a happy state, you should conclude: ‘In all this long time, we too have undergone the same thing.’ Why is that? This transmigration has no known beginning. … This is quite enough for you to become disillusioned, dispassionate, and freed regarding all conditions.”",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa901-1000/sa942_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa901-1000/sa942_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛住舍卫国祇树给孤独园。\n尔时世尊告诸比丘：「众生无始生死，无明所盖，爱系其颈，长夜轮转，不知苦之本际。若见众生安隐喜乐，当作是念：『我等长夜轮转，亦曾受如是乐，其数无量。』是故当如是学：『当勤精进，断除诸有，莫令增长。』」是故于一切行，当生厌离；厌故离贪；离贪故解脱。\n佛说此经已，诸比丘闻佛所说，欢喜奉行。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在舍卫国祇树给孤独园。\n那时世尊告诉比丘们：「众生无始以来生死，被无明覆盖、爱结系住脖子，长夜轮转，不知苦的本际。如果看见众生安隐喜乐，应当这样想：『我们长夜轮转，也曾受过这样的乐，次数无量。』所以应当这样学：『应当勤加精进，断除诸有，不要让它增长。』」所以对一切行，应当生起厌离；厌离所以离贪；离贪所以解脱。\n佛说完这部经，比丘们听佛所说，都欢喜奉行。",
+  "notes": "本经 SC 平行表所列平行及 `raw_aligned_data.json` 内之巴利本文、Sujato 英译并用以厘定法义；求那跋陀罗汉本用于定位经文与传统术语。confidence=high：primary SN15.12 Sukhita；见喜乐众生则念：『我亦曾尔』。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "high",
+  "prior_review_status": "needs_revision",
+  "similarity_to_source": 0.327,
+  "paragraph_parallel": true
+}

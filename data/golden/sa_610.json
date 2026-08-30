@@ -1,0 +1,47 @@
+{
+  "id": "SA_610",
+  "uid": "sa610",
+  "title": "雜阿含經  卷第二十六  念處相應  （610）  正念",
+  "chinese_text": "如是我聞：\n\n一時，佛住舍衛國祇樹給孤獨園。\n\n爾時，世尊告諸比丘：「我當說修四念處。諦聽，善思。云何修四念處？謂內身身觀念住，精勤方便，正智正念，調伏世間憂悲，外身、內外身觀住，精勤方便，正念正知，調伏世間憂悲。如是受、心、法，內法、外法、內外法觀念住，精勤方便，正念正知，調伏世間憂悲，是名比丘修四念處。」\n\n佛說此經已，諸比丘聞佛所說，歡喜奉行。\n\n過去、未來修四念處亦如是說。",
+  "english_sa_text": "",
+  "parallels": [
+    {
+      "uid": "sn47.39",
+      "acronym": "SN 47.39",
+      "root_lang": "pli",
+      "original_title": "Bhāvanāsutta",
+      "translated_title": "Development",
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    }
+  ],
+  "primary_sn_uid": "sn47.39",
+  "pali_text": "“Catunnaṁ, bhikkhave, satipaṭṭhānānaṁ bhāvanaṁ desessāmi. Taṁ suṇātha. Katamā, bhikkhave, catunnaṁ satipaṭṭhānānaṁ bhāvanā? Idha, bhikkhave, bhikkhu kāye kāyānupassī viharati ātāpī sampajāno satimā, vineyya loke abhijjhādomanassaṁ; vedanāsu …pe… citte …pe… dhammesu dhammānupassī viharati ātāpī sampajāno satimā, vineyya loke abhijjhādomanassaṁ. Ayaṁ kho, bhikkhave, catunnaṁ satipaṭṭhānānaṁ bhāvanā”ti. Navamaṁ.",
+  "english_sn_text": "“Mendicants, I will teach you the development of the four kinds of mindfulness meditation. Listen … And what is the development of the four kinds of mindfulness meditation? It’s when a mendicant meditates by observing an aspect of the body—keen, aware, and mindful, rid of covetousness and displeasure for the world. They meditate observing an aspect of feelings … mind … principles—keen, aware, and mindful, rid of covetousness and displeasure for the world. This is the development of the four kinds of mindfulness meditation.”",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa601-700/sa610_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa601-700/sa610_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛住舍卫国祇树给孤独园。\n佛告比丘：「当说修四念处：内身外身内外身，受心法亦内外；精勤方便，正念正知，调伏世间忧悲。过去未来亦同。」\n佛说此经已，诸比丘闻佛所说，欢喜奉行。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在舍卫国祇树给孤独园。\n佛告比丘：「当说修四念处：内身外身内外身，受心法亦内外；精勤方便，正念正知，调伏世间忧悲。过去未来亦同。」\n佛说完这部经，比丘们听佛所说，都欢喜奉行。",
+  "notes": "本经 SC 平行表所列平行及 `raw_aligned_data.json` 内之巴利本文、Sujato 英译并用以厘定法义；求那跋陀罗汉本用于定位经文与传统术语。confidence=high：primary SN47.39（四念处修习）。汉本增内外身法与过去未来句，从汉保留；义同 SN bhāvanā。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "high",
+  "prior_review_status": "needs_revision",
+  "similarity_to_source": 0.237,
+  "paragraph_parallel": true,
+  "quality_gate_reasons": [
+    "sim_lit=0.574>=0.5",
+    "lit_mod_gap=0.340>=0.1"
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "id": "SA_76",
+  "uid": "sa76",
+  "title": "雜阿含經  卷第三  陰相應  （七六）  欲",
+  "chinese_text": "如是我聞：\n\n一時，佛住舍衛國祇樹給孤獨園。\n\n爾時，世尊告諸比丘：「有五受陰。何等為五？色受陰，受、想、行、識受陰。汝等比丘當觀察於色，觀察色已，見有我、異我、相在不？」\n\n諸比丘白佛言：「不也，世尊！」\n\n佛告比丘：「善哉！善哉！色無我，無我者則無常，無常者則是苦。若苦者，彼一切非我、不異我、不相在，當作是觀。受、想、行、識亦復如是。多聞聖弟子於此五受陰觀察非我、非我所。如是觀察已，於世間都無所取；無所取者，則無所著；無所著者，自覺涅槃：『我生已盡，梵行已立，所作已作，自知不受後有。』」\n\n佛說此經已，諸比丘聞佛所說，歡喜奉行。",
+  "english_sa_text": "Saṁyuktāgama\n\n76. Discourse on Contemplation\n\nThus have I heard. At one time the Buddha was staying at Sāvatthī in Jeta’s Grove, Anāthapiṇḍika’s Park.\n\nAt that time the Blessed One said to the monks: “There are five aggregates of clinging. What are the five? They are the bodily form aggregate of clinging … the feeling … the perception … the formations … the consciousness aggregate of clinging. Monks, you should examine bodily form. Having examined bodily form, do you see it as being the self, as distinct from the self in the sense of being owned by it, as existing within the self, or a self as existing within bodily form?”\n\nThe monks said to the Buddha: “No, Blessed One.”\n\nThe Buddha said to the monks: “It is well, it is well. Bodily form is not self. What is not self is impermanent. What is impermanent is dukkha. If it is dukkha, then it is entirely without a self, it is not distinct from the self in the sense of being owned by it, and it does not exist within the self, nor does a self exist within it. This is how it should be contemplated. Feeling … perception … formations … consciousness are also like this.\n\n“A learned noble disciple examines these five aggregates of clinging as being without a self and without what belongs to a self. Having examined them in this way, he does not cling to anything in the world. One who does not cling to anything is not attached to anything. One who is not attached to anything personally realizes Nirvāṇa, knowing: ‘Birth for me has been eradicated, the holy life has been established, what had to be done has been done, I myself know that there will be no receiving of further existence.’”\n\nWhen the Buddha had spoken this discourse, the monks, hearing what the Buddha had said, were delighted and received it respectfully.\n\nTranslated by Bhikkhu Anālayo. Originally published in ‘On the Five Aggregates (3)—A Translation of Saṁyukta-āgama Discourses 59 to 87’. Dharma Drum Journal of Buddhist Studies, vol. 13, pp. 1–65 (2013). New Taipei City: Dharma Drum Buddhist College.\n\nPrepared for SuttaCentral by Bhikkhu Sujato.",
+  "parallels": [
+    {
+      "uid": "sn22.119",
+      "acronym": "SN 22.119",
+      "root_lang": "pli",
+      "original_title": "Dutiyaparipucchitasutta",
+      "translated_title": null,
+      "type": "full",
+      "resembling": true,
+      "remark": null
+    },
+    {
+      "uid": "sn22.118",
+      "acronym": "SN 22.118",
+      "root_lang": "pli",
+      "original_title": "Paripucchitasutta",
+      "translated_title": null,
+      "type": "full",
+      "resembling": true,
+      "remark": null
+    }
+  ],
+  "primary_sn_uid": "sn22.118",
+  "pali_text": "Sāvatthinidānaṁ. “Taṁ kiṁ maññatha, bhikkhave, rūpaṁ ‘etaṁ mama, esohamasmi, eso me attā’ti samanupassathā”ti? “No hetaṁ, bhante”. “Sādhu, bhikkhave. Rūpaṁ, bhikkhave, ‘netaṁ mama, nesohamasmi, na meso attā’ti evametaṁ yathābhūtaṁ sammappaññāya daṭṭhabbaṁ. Vedanaṁ … saññaṁ … saṅkhāre … viññāṇaṁ ‘etaṁ mama, esohamasmi, eso me attā’ti samanupassathā”ti? “No hetaṁ, bhante”. “Sādhu, bhikkhave. Viññāṇaṁ, bhikkhave, ‘netaṁ mama, nesohamasmi, na meso attā’ti evametaṁ yathābhūtaṁ sammappaññāya daṭṭhabbaṁ …pe… evaṁ passaṁ …pe… nāparaṁ itthattāyāti pajānātī”ti. Chaṭṭhaṁ.",
+  "english_sn_text": "At Sāvatthī. “What do you think, mendicants? Do you regard form like this: ‘This is mine, I am this, this is my self’?” “No, sir.” “Good, mendicants! Form should be truly seen with right understanding like this: ‘This is not mine, I am not this, this is not my self.’ Do you regard feeling … perception … choices … consciousness like this: ‘This is mine, I am this, this is my self’?” “No, sir.” “Good, mendicants! Consciousness should be truly seen with right understanding like this: ‘This is not mine, I am not this, this is not my self.’ Seeing this … They understand: ‘… there is nothing further for this place.’”",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa1-100/sa76_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa1-100/sa76_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时佛在舍卫国祇树给孤独园。\n尔时世尊告诸比丘：有五受阴——色，受、想、行、识。汝等当观色：于色见有我、异我、相在不？诸比丘白佛：不也，世尊。佛言：善哉！色非我；非我故无常，无常故苦。苦者，当观非我、不异我、不相在。受、想、行、识亦复如是。圣弟子于五受阴观非我、非我所已，于世间无所取；不取故不著；不著故自觉涅槃：我生已尽，梵行已立，所作已作，自知不受后有。\n佛说此经已，诸比丘闻佛所说，欢喜奉行。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在舍卫国祇树给孤独园。\n那时，世尊告诉比丘们：有五受阴——色，以及受、想、行、识。你们应当观察色：在色上见到有我、异我、或彼此相在吗？比丘们答：没有，世尊。佛说：很好！色不是我；不是我，所以无常；无常，所以是苦。既然是苦，应当观为非我、不异我、不相在。受、想、行、识也是一样。圣弟子对五受阴观为非我、非我所之后，对世间就无所取；不取就不著；不著就自己证知涅槃：我生已尽，梵行已立，所作已作，自知不受后有。\n佛说完这部经，比丘们听佛所说，都欢喜奉行。",
+  "notes": "据 SN22.118/119（Paripucchita）：问「汝等观色为我所、我、我之我耶」，答「不也」，乃令以正慧如实见「非我所、非我、非我之我」。汉本推论次第作「无我→无常→苦」，与巴利常式「无常→苦→非我」相反，属本经特有语序，仍依汉本保留，不作调换。雅：压缩问答与结证。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "high"
+}

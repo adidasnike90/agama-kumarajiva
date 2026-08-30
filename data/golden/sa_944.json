@@ -1,0 +1,43 @@
+{
+  "id": "SA_944",
+  "uid": "sa944",
+  "title": "雜阿含經  卷第三十七  婆蹉外道相應  （944）  恐怖",
+  "chinese_text": "如是我聞：\n\n一時，佛住舍衛國祇樹給孤獨園。\n\n爾時，世尊告諸比丘：「眾生無始生死，長夜輪轉，不知苦之本際。諸比丘！汝等見諸眾生而生恐怖，衣毛為竪，當作是念：『我等過去必曾殺生，為傷害者，為惡知識，於無始生死長夜輪轉，不知苦之本際。』諸比丘！當作是學，斷除諸有，莫令增長。」\n\n佛說此經已，諸比丘聞佛所說，歡喜奉行。",
+  "english_sa_text": "",
+  "parallels": [
+    {
+      "uid": "sa-2.337",
+      "acronym": "SA2 337",
+      "root_lang": "lzh",
+      "original_title": "恐怖",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    }
+  ],
+  "primary_sn_uid": null,
+  "pali_text": "",
+  "english_sn_text": "",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa901-1000/sa944_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa901-1000/sa944_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛住舍卫国祇树给孤独园。\n尔时世尊告诸比丘：「众生无始生死，无明所盖，爱系其颈，长夜轮转，不知苦之本际。若见众生而生恐怖，衣毛为竖，当作是念：『我等过去必曾杀生，为伤害者、为恶知识；于无始生死长夜轮转，不知苦之本际。』是故当如是学：『当勤精进，断除诸有，莫令增长。』」\n佛说此经已，诸比丘闻佛所说，欢喜奉行。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在舍卫国祇树给孤独园。\n那时世尊告诉比丘们：「众生无始以来生死，被无明覆盖、爱结系住脖子，长夜轮转，不知苦的本际。如果看见众生就生起恐怖，汗毛竖起，应当这样想：『我们过去一定曾经杀生，做过伤害者、恶知识；在无始生死中长夜轮转，不知苦的本际。』所以应当这样学：『应当勤加精进，断除诸有，不要让它增长。』」\n佛说完这部经，比丘们听佛所说，都欢喜奉行。",
+  "notes": "SC 于本经未列可靠巴利平行，故唯以汉本为底，参同相应之巴利定型语厘义；依项目规约「无可靠平行时 confidence 降为 medium/low」。confidence=medium：无专 SC 巴利平行；无始＋见生恐怖定型，参 SN15 族。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "medium",
+  "prior_review_status": "needs_revision",
+  "similarity_to_source": 0.346,
+  "paragraph_parallel": true
+}

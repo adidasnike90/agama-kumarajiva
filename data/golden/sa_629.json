@@ -1,0 +1,43 @@
+{
+  "id": "SA_629",
+  "uid": "sa629",
+  "title": "雜阿含經  卷第二十六  念處相應  （629）  行",
+  "chinese_text": "如是我聞：\n\n一時，佛住巴連弗邑鷄林精舍。爾時，尊者阿難、尊者跋陀羅亦在彼住。\n\n時，尊者跋陀羅問尊者阿難言：「頗有法修習多修習，得不退轉耶？」\n\n尊者阿難語尊者跋陀羅：「有法修習多修習，能令行者得不退轉，謂四念處。何等為四？身身觀念住，受、心、法法觀念住。」\n\n時，二正士共論說已，各還本處。",
+  "english_sa_text": "",
+  "parallels": [
+    {
+      "uid": "sn47.23",
+      "acronym": "SN 47.23",
+      "root_lang": "pli",
+      "original_title": "Parihānasutta",
+      "translated_title": "Decline",
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    }
+  ],
+  "primary_sn_uid": "sn47.23",
+  "pali_text": "Ekaṁ samayaṁ āyasmā ca ānando āyasmā ca bhaddo pāṭaliputte viharanti kukkuṭārāme. Atha kho āyasmā bhaddo sāyanhasamayaṁ paṭisallānā vuṭṭhito yenāyasmā ānando tenupasaṅkami; upasaṅkamitvā āyasmatā ānandena saddhiṁ sammodi. Sammodanīyaṁ kathaṁ sāraṇīyaṁ vītisāretvā ekamantaṁ nisīdi. Ekamantaṁ nisinno kho āyasmā bhaddo āyasmantaṁ ānandaṁ etadavoca: “ko nu kho, āvuso ānanda, hetu, ko paccayo yena saddhammaparihānaṁ hoti? Ko nu kho, āvuso ānanda, hetu, ko paccayo yena saddhammaaparihānaṁ hotī”ti? “Sādhu sādhu, āvuso bhadda. Bhaddako kho te, āvuso bhadda, ummaṅgo, bhaddakaṁ paṭibhānaṁ, kalyāṇī paripucchā. Evañhi tvaṁ, āvuso bhadda, pucchasi: ‘ko nu kho, āvuso ānanda, hetu, ko paccayo yena saddhammaparihānaṁ hoti? Ko panāvuso ānanda, hetu, ko paccayo yena saddhammaaparihānaṁ hotī’”ti? “Evamāvuso”ti. “Catunnaṁ kho, āvuso, satipaṭṭhānānaṁ abhāvitattā abahulīkatattā saddhammaparihānaṁ hoti. Catunnañca kho, āvuso, satipaṭṭhānānaṁ bhāvitattā bahulīkatattā saddhammaaparihānaṁ hoti. Katamesaṁ catunnaṁ? Idhāvuso, bhikkhu kāye kāyānupassī viharati ātāpī sampajāno satimā, vineyya loke abhijjhādomanassaṁ; vedanāsu …pe… citte …pe… dhammesu dhammānupassī viharati ātāpī sampajāno satimā, vineyya loke abhijjhādomanassaṁ. Imesaṁ kho, āvuso, catunnaṁ satipaṭṭhānānaṁ abhāvitattā abahulīkatattā saddhammaparihānaṁ hoti. Imesañca kho, āvuso, catunnaṁ satipaṭṭhānānaṁ bhāvitattā bahulīkatattā saddhammaaparihānaṁ hotī”ti. Tatiyaṁ.",
+  "english_sn_text": "At one time the venerables Ānanda and Bhadda were staying near Pāṭaliputta, in the Chicken Monastery. Then in the late afternoon, Venerable Bhadda came out of retreat, went to Venerable Ānanda, and exchanged greetings with him. When the greetings and polite conversation were over, he sat down to one side and said to Ānanda: “What’s the cause, Reverend Ānanda, what’s the reason why the true teaching declines? And what’s the cause, what’s the reason why the true teaching doesn’t decline?” “Good, good, Reverend Bhadda! Your approach and eloquence are excellent, and it’s a good question. For you asked: ‘What’s the cause, what’s the reason why the true teaching declines? And what’s the cause, what’s the reason why the true teaching doesn’t decline?’” “Yes, reverend.” “It’s because of not developing and cultivating the four kinds of mindfulness meditation that the true teaching declines. It’s because of developing and cultivating the four kinds of mindfulness meditation that the true teaching doesn’t decline. What four? It’s when a mendicant meditates by observing an aspect of the body—keen, aware, and mindful, rid of covetousness and displeasure for the world. They meditate observing an aspect of feelings … mind … principles—keen, aware, and mindful, rid of covetousness and displeasure for the world. It’s because of not developing and cultivating these four kinds of mindfulness meditation that the true teaching declines. And it’s because of developing and cultivating these four kinds of mindfulness meditation that the true teaching doesn’t decline.”",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa601-700/sa629_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa601-700/sa629_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛住巴连弗邑鸡林精舍。\n尊者阿难、尊者跋陀罗亦在彼住。跋陀罗问阿难：「有法多修习，能令行者不退转否？」\n阿难答：「有——修四念处则不退转；不修则退减。谓身身观念住，受、心、法法观念住。」\n二正士论已，各还本处。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在巴连弗邑鸡林精舍。\n阿难尊者、跋陀罗尊者也住在那里。跋陀罗问阿难：「有没有一种法，多多修习能使修行人不退转？」\n阿难答：「有——修四念处就不退转；不修就会退减。就是身、受、心、法四念处。」\n两位正士讨论完毕，各自回住处。",
+  "notes": "本经 SC 平行表所列平行及 `raw_aligned_data.json` 内之巴利本文、Sujato 英译并用以厘定法义；求那跋陀罗汉本用于定位经文与传统术语。confidence=high：primary SN47.23（parihāna 正法衰退／不衰退）。据 SN 校正：不修四念处则衰退，修则不衰退；汉问「不退转」与 SN 不衰退同趣。人名跋陀罗与 SN Bhadda 合。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "high",
+  "prior_review_status": "needs_revision",
+  "similarity_to_source": 0.207,
+  "paragraph_parallel": true
+}

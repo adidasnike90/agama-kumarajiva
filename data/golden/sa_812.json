@@ -1,0 +1,64 @@
+{
+  "id": "SA_812",
+  "uid": "sa812",
+  "title": "雜阿含經  卷第三十一  安那般那念相應  （812）  比丘",
+  "chinese_text": "如是異比丘所問，佛問諸比丘亦如上說。",
+  "english_sa_text": "",
+  "parallels": [
+    {
+      "uid": "mn118",
+      "acronym": "MN 118",
+      "root_lang": "pli",
+      "original_title": "Ānāpānassatisutta",
+      "translated_title": "Mindfulness of Breathing",
+      "type": "full",
+      "resembling": true,
+      "remark": null
+    },
+    {
+      "uid": "sa815",
+      "acronym": "SA 815",
+      "root_lang": "lzh",
+      "original_title": "布薩",
+      "translated_title": null,
+      "type": "full",
+      "resembling": true,
+      "remark": null
+    },
+    {
+      "uid": "sht-sutta84",
+      "acronym": "SHT Sutta 84",
+      "root_lang": "san",
+      "original_title": "",
+      "translated_title": null,
+      "type": "full",
+      "resembling": true,
+      "remark": null
+    }
+  ],
+  "primary_sn_uid": null,
+  "pali_text": "",
+  "english_sn_text": "",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa801-900/sa812_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa801-900/sa812_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛住舍卫国祇树给孤独园。\n尔时世尊告诸比丘：「谛听，善思，当为汝说。有一法，修习多修习，能令四念处满足；四念处满足已，七觉支满足；七觉支满足已，明与解脱满足。何等一法？谓安那般那念。云何修安那般那念令四念处满足？若比丘依止聚落、城邑，晨朝著衣持钵入村乞食，善护其身，守诸根门，善系心住。乞食已还，举衣钵、洗足已，入林中闲房树下，或空露地，端身正坐，系念在前。断世贪爱，离欲清净；瞋恚、昏沉睡眠、掉举后悔、疑皆断，度诸疑惑，于善法心得决定。远离五盖——于心令慧力羸、为障碍分、不趣涅槃者。圣弟子入息时如入息而学，出息时如出息而学；若长若短，觉知一切身，止息身行——如是学。尔时于身循身观住，是名身念处。若时觉知喜、觉知乐、觉知心行、止息心行——如是学。尔时于受循受观住，是名受念处。若时觉知心、悦心、定心、解脱心——如是学。尔时于心循心观住，是名心念处。若时观察无常、离贪、灭、舍遣——如是学。尔时于法循法观住，是名法念处。是名修安那般那念，满足四念处。四念处满足已，七觉支满足；七觉支满足已，明与解脱满足——法法相类、法法相润，次第增进，修习满足。」\n佛说此经已，诸比丘闻佛所说，欢喜奉行。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在舍卫国祇树给孤独园。\n那时世尊告诉比丘们：「仔细听，好好想，我当为你们说。有一种法，修习多多修习，能使四念处满足；四念处满足后，七觉支满足；七觉支满足后，明与解脱满足。哪一种法？就是入出息念。怎样修习入出息念使四念处满足？如果比丘依止聚落、城邑，清晨著衣持钵入村乞食，善护自身，守住根门，善系其心。乞食回来，收衣钵、洗足后，入林中闲房树下，或空露地，端身正坐，把念安住在前。断除世间贪爱，离欲清净；瞋恚、昏沉睡眠、掉举后悔、疑都断除，度过疑惑，于善法心得决定。远离五盖——那些使心中慧力衰弱、成障碍分、不趋向涅槃的。圣弟子入息时依入息而学，出息时依出息而学；或长或短，觉知整个身体，止息身行——这样学。那时在身上循身观察而住，这叫做身念处。若有时觉知喜、觉知乐、觉知心行、止息心行——这样学。那时在受上循受观察而住，这叫做受念处。若有时觉知心、使心喜悦、使心入定、使心解脱——这样学。那时在心上循心观察而住，这叫做心念处。若有时观察无常、离贪、灭、舍遣——这样学。那时在法上循法观察而住，这叫做法念处。这叫做修习入出息念，满足四念处。四念处满足后，七觉支满足；七觉支满足后，明与解脱满足——法与法相类、法与法相润，次第增进，修习满足。」\n佛说完这部经，比丘们听佛所说，都欢喜奉行。",
+  "notes": "本经 SC 平行表所列平行及 `raw_aligned_data.json` 内之巴利本文、Sujato 英译并用以厘定法义；求那跋陀罗汉本用于定位经文与传统术语。confidence=high：汉本「佛问诸比丘亦如上说」peyyāla；据 SN54.14／MN118 比丘众说，补告诸比丘本。与 SA_811 法同、对众异。reconstruction。",
+  "review_status": "gold_reconstructed",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "high",
+  "prior_review_status": "needs_revision",
+  "reconstruction_basis": "汉本「佛问诸比丘亦如上说」→ 据 SN54.14／MN118 补告诸比丘本",
+  "similarity_to_source": 0.002,
+  "paragraph_parallel": true
+}

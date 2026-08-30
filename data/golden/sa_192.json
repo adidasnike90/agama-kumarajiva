@@ -1,0 +1,53 @@
+{
+  "id": "SA_192",
+  "uid": "sa192",
+  "title": "雜阿含經  卷第九  六入處相應  （192）  不離欲",
+  "chinese_text": "如是我聞：\n\n一時，佛住舍衛國祇樹給孤獨園。\n\n爾時，世尊告諸比丘：「若於眼不離欲，心不解脫者，不堪任正盡苦。於耳、鼻、舌、身、意不離欲，心不解脫者，不堪任正盡苦。諸比丘！若於眼色離欲，心解脫者，彼堪任正盡苦。於耳、鼻、舌、身、意離欲，心解脫者，堪任正盡苦。」\n\n佛說此經已，諸比丘聞佛所說，歡喜奉行。",
+  "english_sa_text": "Saṁyuktāgama\n\n192. [First Discourse on not Being Free from Desire]\n\nThus have I heard. At one time the Buddha was staying at Sāvatthī in Jeta’s Grove, Anāthapiṇḍika’s Park.\n\nAt that time the Blessed One said to the monks: “If one is not free from desire for the eye, one’s mind is not liberated and one is not capable of rightly eradicating dukkha. [If] one is not free from desire for the ear … the nose … the tongue … the body … the mind, one’s mind is not liberated and one is not capable of rightly eradicating dukkha.\n\n“Monks, if one is free from desire for the eye, one’s mind is liberated and one is capable of rightly eradicating dukkha. [If] one is free from desire for the ear … the nose … the tongue … the body … the mind, one’s mind is liberated and one is capable of rightly eradicating dukkha.”\n\nWhen the Buddha had spoken this discourse, hearing what the Buddha had said the monks were delighted and received it respectfully.\n\nTranslated by Bhikkhu Anālayo. Originally published in \"On the Six Sense-spheres (1) ―A Translation of Saṁyukta-āgama Discourses 188 to 229 (Fascicle 8)\", Dharma Drum Journal of Buddhist Studies, 2016, vol. 18 pp. 1–61.\n\nPrepared for SuttaCentral by Ayya Vimala.",
+  "parallels": [
+    {
+      "uid": "sn35.22",
+      "acronym": "SN 35.22",
+      "root_lang": "pli",
+      "original_title": "Dutiyadukkhuppādasutta",
+      "translated_title": "Arising of Suffering (2)",
+      "type": "full",
+      "resembling": true,
+      "remark": null
+    },
+    {
+      "uid": "sn35.21",
+      "acronym": "SN 35.21",
+      "root_lang": "pli",
+      "original_title": "Paṭhamadukkhuppādasutta",
+      "translated_title": "Arising of Suffering (1)",
+      "type": "full",
+      "resembling": true,
+      "remark": null
+    }
+  ],
+  "primary_sn_uid": "sn35.21",
+  "pali_text": "“Yo, bhikkhave, cakkhussa uppādo ṭhiti abhinibbatti pātubhāvo, dukkhasseso uppādo, rogānaṁ ṭhiti, jarāmaraṇassa pātubhāvo. Yo sotassa …pe… yo ghānassa … yo jivhāya … yo kāyassa … yo manassa uppādo ṭhiti abhinibbatti pātubhāvo, dukkhasseso uppādo, rogānaṁ ṭhiti, jarāmaraṇassa pātubhāvo. Yo ca kho, bhikkhave, cakkhussa nirodho vūpasamo atthaṅgamo, dukkhasseso nirodho, rogānaṁ vūpasamo, jarāmaraṇassa atthaṅgamo. Yo sotassa … yo ghānassa … yo jivhāya … yo kāyassa … yo manassa nirodho vūpasamo atthaṅgamo, dukkhasseso nirodho, rogānaṁ vūpasamo, jarāmaraṇassa atthaṅgamo”ti. Navamaṁ.",
+  "english_sn_text": "“Mendicants, the arising, continuation, and manifestation and regeneration of the eye is the arising of suffering, the continuation of diseases, and the manifestation of old age and death. The arising, continuation, and manifestation and regeneration of the ear … nose … tongue … body … and mind is the arising of suffering, the continuation of diseases, and the manifestation of old age and death. The cessation, settling, and disappearance of the eye is the cessation of suffering, the settling of diseases, and the disappearance of old age and death. The cessation, settling, and disappearance of the ear, nose, tongue, body, and mind is the cessation of suffering, the settling of diseases, and the disappearance of old age and death.”",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa101-200/sa192_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa101-200/sa192_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时佛在舍卫国祇树给孤独园。\n尔时世尊告诸比丘：于眼不离欲，心不解脱者，不堪任正尽诸苦；于耳、鼻、舌、身、意不离欲，心不解脱者，亦不堪任正尽诸苦。\n诸比丘！于眼离欲，心得解脱者，则堪任正尽诸苦；于耳、鼻、舌、身、意离欲，心得解脱者，亦堪任正尽诸苦。\n佛说此经已，诸比丘闻佛所说，欢喜奉行。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在舍卫国祇树给孤独园。\n那时，世尊告诉比丘们：对于眼不能离欲，心便不得解脱，也就不堪能真正灭尽众苦；对耳、鼻、舌、身、意不能离欲，心不得解脱的人，也不堪能真正灭尽众苦。\n比丘们！对于眼能够离欲，心便得解脱，也就堪能真正灭尽众苦；对耳、鼻、舌、身、意能够离欲，心得解脱的人，也堪能真正灭尽众苦。\n佛说完这部经，比丘们听佛所说，都欢喜奉行。",
+  "notes": "本经 SC 平行表所列巴利平行及 `raw_aligned_data.json` 内之巴利本文、Sujato 英译，与 Anālayo 之 SA 英译（DDJBS 18, 2016, Fascicle 8）并用以厘定法义；求那跋陀罗汉本用于定位经文与传统术语。SC 于本经列 SN35.21／35.22（Dukkhuppāda，苦之生起）为 resembling 平行，然彼二经所说为「眼之生、住、现起即苦之生、病之住、老死之现起」，与本经「于眼不离欲、心不解脱则不堪任尽苦」之式实不相当，无单一巴利经可覆盖本经正文，故 confidence 降为 medium。校勘：底本正说作「若于眼、色离欲」而反说唯作「于眼不离欲」，前后不齐；「色」一字当为涉次经（SA_193 通篇作「眼、色」）而衍，Anālayo 亦仅读作 the eye，今删之，使本经专说六内入处，次经乃兼说内外，二经之别乃明。「不堪任正尽苦」即「不堪能真正灭尽众苦」（`abhabbo dukkhakkhayāya`），同 SA_190。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "medium",
+  "prior_review_status": "needs_revision",
+  "similarity_to_source": 0.425,
+  "paragraph_parallel": true
+}

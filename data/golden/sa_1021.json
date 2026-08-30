@@ -1,0 +1,54 @@
+{
+  "id": "SA_1021",
+  "uid": "sa1021",
+  "title": "雜阿含經  卷第四十三  諸天相應  （1021）  偈者何者初",
+  "chinese_text": "如是我聞：\n\n一時，佛在舍衛國祇樹給孤獨園。\n\n時，有天子容色絕妙，於後夜時來詣佛所，稽首佛足，身諸光明遍照祇樹給孤獨園。\n\n時，彼天子說偈問佛：\n\n「何法為偈因？　　以何莊嚴偈？\n\n　偈者何所依？　　何者為偈體？」\n\n爾時，世尊說偈答言：\n\n「欲者是偈因，　　文字莊嚴偈，\n\n　名者偈所依，　　造作為偈體。」\n\n時，彼天子復說偈言：\n\n「久見婆羅門，　　逮得般涅槃，\n\n　一切怖已過，　　永超世恩愛。」\n\n時，彼天子聞佛所說，歡喜隨喜，稽首佛足，即沒不現。",
+  "english_sa_text": "",
+  "parallels": [
+    {
+      "uid": "sa-2.248",
+      "acronym": "SA2 248",
+      "root_lang": "lzh",
+      "original_title": "偈者何者初",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "sn1.60",
+      "acronym": "SN 1.60",
+      "root_lang": "pli",
+      "original_title": "Kavisutta",
+      "translated_title": "Poetry",
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    }
+  ],
+  "primary_sn_uid": "sn1.60",
+  "pali_text": "“Kiṁsu nidānaṁ gāthānaṁ, kiṁsu tāsaṁ viyañjanaṁ; Kiṁsu sannissitā gāthā, kiṁsu gāthānamāsayo”ti. “Chando nidānaṁ gāthānaṁ, akkharā tāsaṁ viyañjanaṁ; Nāmasannissitā gāthā, kavi gāthānamāsayo”ti. Jarāvaggo chaṭṭho. Tassuddānaṁ Jarā ajarasā mittaṁ, vatthu tīṇi janāni ca; Uppatho ca dutiyo ca, kavinā pūrito vaggoti.",
+  "english_sn_text": "“What’s the source of verses? What constitutes their phrasing? What do verses depend upon? What underlies verses?” “Metre is the source of verses. Syllables constitute their phrasing. Verses depend on names. A poet underlies verses.”",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa1001-1100/sa1021_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa1001-1100/sa1021_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛住舍卫国祇树给孤独园。\n后夜分，有天子来诣佛所，容色绝妙，稽首礼足，退坐一面；身诸光明遍照祇园。\n天子说偈问：「何法为诸偈之因？以何庄严于诸偈？诸偈何所依而住？何者名为偈之体？」\n世尊说偈答：「韵律为诸偈之因，文字庄严于诸偈，名者偈之所依住，诗人名为偈之体。」\n天子说偈：「久见婆罗门，逮得般涅槃，一切怖已过，永超世恩爱。」闻已欢喜，礼足即没。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在舍卫国祇树给孤独园。\n后夜分，有一位天子，容色绝妙，来到佛前，顶礼佛足，退坐一面；身上的光明遍照祇树给孤独园。\n天子说偈问：「什么是偈颂的因？用什么庄严偈颂？偈颂依止什么？什么是偈颂的主体？」\n世尊说偈答：「韵律是偈颂的因，文字庄严偈颂，名是偈颂所依，诗人是偈颂的主体。」\n天子又说偈：「久见婆罗门，逮得般涅槃，一切怖已过，永超世恩爱。」听完欢喜随喜，顶礼佛足，随即隐没不见。",
+  "notes": "本经 SC 平行表所列平行及 `raw_aligned_data.json` 内之巴利本文、Sujato 英译并用以厘定法义；求那跋陀罗汉本用于定位经文与传统术语。confidence=high：primary SN1.60；据巴利：chanda＝韵律（非「欲」）、akkharā＝文字、nāma＝名、kavi＝诗人（汉「欲／造作」已校正）。",
+  "review_status": "gold_reconstructed",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "high",
+  "prior_review_status": "needs_revision",
+  "reconstruction_basis": "汉『欲／造作』；据 SN1.60 chanda＝韵律、kavi＝诗人校正。",
+  "similarity_to_source": 0.201,
+  "paragraph_parallel": true
+}

@@ -1,0 +1,43 @@
+{
+  "id": "SA_44",
+  "uid": "sa44",
+  "title": "雜阿含經  卷第二  陰相應  （四四）  繫著",
+  "chinese_text": "如是我聞：\n\n一時，佛住舍衛國祇樹給孤獨園。\n\n爾時，世尊告諸比丘：「若生則繫著，不生則不繫著。諦聽，善思，當為汝說。\n\n「云何若生則繫著？愚癡無聞凡夫於色集、色滅、色味、色患、色離不如實知故，於色愛喜、讚歎、取著，於色是我、我所而取；取已，彼色若變、若異，心隨變異；心隨變異故，則攝受心住，攝受心住故，則生恐怖、障礙、顧念，以生繫著故。受、想、行、識亦復如是。是名生繫著。\n\n「云何不生不繫著？多聞聖弟子色集、色滅、色味、色患、色離如實知。如實知故，不愛喜、讚歎、取著，不繫我、我所而取；以不取故，彼色若變、若異，心不隨變異；心不隨變異故，心不繫著攝受心住；不攝受心住故，心不恐怖、障礙、顧念，以不生不著故。受、想、行、識亦復如是。是名不生不繫著。」\n\n佛說此經已，諸比丘聞佛所說，歡喜奉行。",
+  "english_sa_text": "",
+  "parallels": [
+    {
+      "uid": "sn22.8",
+      "acronym": "SN 22.8",
+      "root_lang": "pli",
+      "original_title": "Dutiyaupādāparitassanāsutta",
+      "translated_title": "Agitation through Clinging (2)",
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    }
+  ],
+  "primary_sn_uid": "sn22.8",
+  "pali_text": "Sāvatthinidānaṁ. “Upādāparitassanañca vo, bhikkhave, desessāmi anupādāaparitassanañca. Taṁ suṇātha …pe… kathañca, bhikkhave, upādāparitassanā hoti? Idha, bhikkhave, assutavā puthujjano rūpaṁ ‘etaṁ mama, esohamasmi, eso me attā’ti samanupassati. Tassa taṁ rūpaṁ vipariṇamati aññathā hoti. Tassa rūpavipariṇāmaññathābhāvā uppajjanti sokaparidevadukkhadomanassupāyāsā. Vedanaṁ etaṁ mama …pe… saññaṁ etaṁ mama … saṅkhāre etaṁ mama … viññāṇaṁ ‘etaṁ mama, esohamasmi, eso me attā’ti samanupassati. Tassa taṁ viññāṇaṁ vipariṇamati aññathā hoti. Tassa viññāṇavipariṇāmaññathābhāvā uppajjanti sokaparidevadukkhadomanassupāyāsā. Evaṁ kho, bhikkhave, upādāparitassanā hoti. Kathañca, bhikkhave, anupādāaparitassanā hoti? Idha, bhikkhave, sutavā ariyasāvako rūpaṁ ‘netaṁ mama, nesohamasmi, na meso attā’ti samanupassati. Tassa taṁ rūpaṁ vipariṇamati aññathā hoti. Tassa rūpavipariṇāmaññathābhāvā nuppajjanti sokaparidevadukkhadomanassupāyāsā. Vedanaṁ netaṁ mama … saññaṁ netaṁ mama … saṅkhāre netaṁ mama … viññāṇaṁ ‘netaṁ mama, nesohamasmi, na meso attā’ti samanupassati. Tassa taṁ viññāṇaṁ vipariṇamati aññathā hoti. Tassa viññāṇavipariṇāmaññathābhāvā nuppajjanti sokaparidevadukkhadomanassupāyāsā. Evaṁ kho, bhikkhave, anupādāaparitassanā hotī”ti. Aṭṭhamaṁ.",
+  "english_sn_text": "At Sāvatthī. “Mendicants, I will teach you how grasping leads to anxiety, and how not grasping leads to freedom from anxiety. Listen and apply your mind well, I will speak. And how does grasping lead to anxiety? It’s when an unlearned ordinary person regards form like this: ‘This is mine, I am this, this is my self.’ But that form of theirs decays and perishes, which gives rise to sorrow, lamentation, pain, sadness, and distress. They regard feeling … perception … choices … consciousness like this: ‘This is mine, I am this, this is my self.’ But that consciousness of theirs decays and perishes, which gives rise to sorrow, lamentation, pain, sadness, and distress. That’s how grasping leads to anxiety. And how does not grasping lead to freedom from anxiety? It’s when a learned noble disciple regards form like this: ‘This is not mine, I am not this, this is not my self.’ When that form of theirs decays and perishes, it doesn’t give rise to sorrow, lamentation, pain, sadness, and distress. They regard feeling … perception … choices … consciousness like this: ‘This is not mine, I am not this, this is not my self.’ When that consciousness of theirs decays and perishes, it doesn’t give rise to sorrow, lamentation, pain, sadness, and distress. That’s how not grasping leads to freedom from anxiety.”",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa1-100/sa44_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa1-100/sa44_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时佛在舍卫国祇树给孤独园。\n尔时世尊告诸比丘：有生则系，无生则不系。谛听，善思，当为汝说。云何有生则系？愚痴凡夫于色集、灭、味、患、离不如实知，遂爱喜赞叹而取，执为我、我所；色若变易，心随变异，摄受心住，生恐怖、障碍、顾念——以生系故。受、想、行、识亦复如是。是名生系著。云何无生不系？圣弟子于色集、灭、味、患、离如实知，不爱喜赞叹，不执我、我所；色虽变易，心不随转，不摄受住，不生恐怖、障碍、顾念——以不生不著故。受、想、行、识亦复如是。是名不生不系著。\n佛说此经已，诸比丘闻佛所说，欢喜奉行。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在舍卫国祇树给孤独园。\n那时，世尊告诉比丘们：有生起（爱取）就会系缚，无生起就不会系缚。仔细听，好好思惟，我为你们说。怎样是有生起就系缚？愚痴凡夫对色的集、灭、味、患、离不能如实知，便爱喜赞叹而取，执为我、我所；色一旦变易，心跟着变，摄受心住，生恐怖、障碍、顾念——因为生起了系著。受、想、行、识也是一样。这叫做生系著。怎样是无生就不系？圣弟子对色的集、灭、味、患、离如实知，不爱喜赞叹，不执我、我所；色虽变易，心不跟着转，不摄受心住，不生恐怖、障碍、顾念——因为不生起执著。受、想、行、识也是一样。这叫做不生不系著。\n佛说完这部经，比丘们听佛所说，都欢喜奉行。",
+  "notes": "信：与 SA_43 同组；本经以「生／不生」及集灭味患离如实知为枢。据 SN22.8。雅：压缩正反两门。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "confidence": "high",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "prior_review_status": "gold",
+  "revision_reason": "信标准已纠正为对巴利/梵本之义；旧稿偏忠于求那跋陀罗字句，待按平行重做罗什风",
+  "similarity_to_source": 0.241
+}

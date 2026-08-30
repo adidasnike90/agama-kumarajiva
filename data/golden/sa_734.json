@@ -1,0 +1,54 @@
+{
+  "id": "SA_734",
+  "uid": "sa734",
+  "title": "雜阿含經  卷第二十九  覺支相應  （734）  果報",
+  "chinese_text": "如是我聞：\n\n一時，佛住舍衛國祇樹給孤獨園。\n\n爾時，世尊告彼比丘，如上。差別者：「若比丘如是修習七覺分已，當得二種果，現法得漏盡無餘涅槃，或得阿那含果。」\n\n佛說此經已，諸比丘聞佛所說，歡喜奉行。",
+  "english_sa_text": "",
+  "parallels": [
+    {
+      "uid": "sa738",
+      "acronym": "SA 738",
+      "root_lang": "lzh",
+      "original_title": "果報",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "sn48.65",
+      "acronym": "SN 48.65",
+      "root_lang": "pli",
+      "original_title": "Paṭhamaphalasutta",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    }
+  ],
+  "primary_sn_uid": "sn48.65",
+  "pali_text": "“Pañcimāni, bhikkhave, indriyāni. Katamāni pañca? Saddhindriyaṁ …pe… paññindriyaṁ— imāni kho, bhikkhave, pañcindriyāni. Imesaṁ kho, bhikkhave, pañcannaṁ indriyānaṁ bhāvitattā bahulīkatattā dvinnaṁ phalānaṁ aññataraṁ phalaṁ pāṭikaṅkhaṁ— diṭṭheva dhamme aññā, sati vā upādisese anāgāmitā”ti. Pañcamaṁ.",
+  "english_sn_text": "“Mendicants, there are these five faculties. What five? The faculties of faith, energy, mindfulness, immersion, and wisdom. These are the five faculties. Because of developing and cultivating these five faculties, one of two results can be expected: enlightenment in this very life, or if there’s residue left behind, non-return.”",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa701-800/sa734_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa701-800/sa734_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛住舍卫国祇树给孤独园。\n时有异比丘来问觉支。佛为说七觉支渐次满足已，告言：\n「若修习七觉支——念觉支、择法觉支、精进觉支、喜觉支、轻安觉支、定觉支、舍觉支——多修习已，当期二果：或现法得智、漏尽；或有余依而得阿那含果。」\n佛说此经已，诸比丘闻佛所说，欢喜奉行。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在舍卫国祇树给孤独园。\n那时有一位比丘来问觉支。佛为他说了七觉支渐渐满足之后，告诉他：\n「若修习七觉支——念觉支、择法觉支、精进觉支、喜觉支、轻安觉支、定觉支、舍觉支——多多修习，可以期望两种果：或者现法得智、漏尽；或者还有余依而证得阿那含果。」\n佛说完这部经，比丘们听佛所说，都欢喜奉行。",
+  "notes": "本经 SC 平行表所列平行及 `raw_aligned_data.json` 内之巴利本文、Sujato 英译并用以厘定法义；求那跋陀罗汉本用于定位经文与传统术语。confidence=high：果报结构合 SN48.65 系二果（diṭṭheva dhamme aññā／upādisese anāgāmitā），所修为七觉支（本相应）。据 SN 校正汉「无余涅槃／阿那含」交错；gold_reconstructed：汉「如上。差别者」→补问答框与七支。",
+  "review_status": "gold_reconstructed",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "high",
+  "prior_review_status": "needs_revision",
+  "reconstruction_basis": "peyyāla「如上」→ 异比丘问＋七支＋二果（据 SN 校）",
+  "similarity_to_source": 0.205,
+  "paragraph_parallel": true
+}

@@ -1,0 +1,44 @@
+{
+  "id": "SA_130",
+  "uid": "sa130",
+  "title": "雜阿含經  卷第七  斷知相應  （130）  求大師",
+  "chinese_text": "如是我聞：\n\n一時，佛住舍衛國祇樹給孤獨園。\n\n爾時，世尊告諸比丘：「欲斷五受陰者，當求大師。何等為五？謂色受陰，受、想、行、識受陰，欲斷此五受陰，當求大師。」\n\n佛說此經已，諸比丘聞佛所說，歡喜奉行。\n\n如當斷，如是當知、當吐、當息、當捨，亦復如是。如求大師，如是勝師者、順次師者、教誡者、勝教誡者、順次教誡者、通者、廣通者、圓通者、導者、廣導者、究竟導者、說者、廣說者、順次說者、正者、伴者、真知識者、親者、愍者、悲者、崇義者、安慰者、崇樂者、崇觸者、崇安慰者、欲者、精進者、方便者、勤者、勇猛者、固者、強者、堪能者、專者、心不退者、堅執持者、常習者、不放逸者、和合者、思量者、憶念者、覺者、知者、明者、慧者、受者、思惟者、梵行者、念處者、正勤者、如意足者、根者、力者、覺分者、道分者、止者、觀者、念身者、正憶念者，亦復如是。",
+  "english_sa_text": "Saṁyuktāgama\n\n130. [Discourse on Seeking Out the Great Teacher]\n\nThus have I heard. At one time the Buddha was staying at Sāvatthī in Jeta's Grove, Anāthapiṇḍika's Park.\n\nAt that time the Blessed One said to the monks: “One who wishes to abandon the five aggregates of clinging should seek out the Great Teacher. What are the five? That is, they are the bodily form aggregate of clinging … the feeling … the perception … the formations … the consciousness aggregate of clinging. Wishing to abandon these five aggregates of clinging, one should seek out the Great Teacher.”\n\nWhen the Buddha had spoken this discourse, hearing what the Buddha had said the monks were delighted and received it respectfully.\n\nJust as “one should abandon”, in the same way “one should understand”, “one should vomit out”, “one should appease”, “one should give up” is also like this.\n\nJust as seeking out “the great teacher”, in the same way [seeking out] “the superior teacher”, “the teacher of the proper sequence”, “the instructor”, “the superior instructor”, “the instructor of the proper sequence”, “the one who has penetrated”, “the one who has widely penetrated”, “the one who has fully penetrated”, “the one who guides”, “the one who widely guides”, “the one who ultimately guides”, “the one who explains”, “the one who widely explains”, “the one who explains in proper sequence”, “the one who is upright”, “the one whois a companion”, “the one who truly is a friend”, “the one who is [as if he were one's] relative”, “the one with empathy”, “the compassionate one”, “the guide to meaning”, “the one who comforts”, “the guide to happiness”, “the guide to experience”, “the guide to comfort”, “the one who wishes [one's welfare]”, “the energetic one”, “the expedient one”, “the diligent one”, “the brave one”, “the firm one”, “the strong one”, “the capable one”, “the expert”, “the one whose mind does not regress”, “the stable one”, “the one who constantly practices”, “the never negligent one”, “the harmonious one”, “the considerate one”, “the recollected one”, “the awakened one”, “the understanding one”, “the knowing one”, “the wise one”, “the receptive one”, “the attentive one”, “the one who practices the holy life”, “the one established in mindfulness”, “the one with right effort”, “the one with the bases of supernormal power”, “the one with the faculties”, “the one with the powers”, “the one with the awakening factors”, “the one with the factors of the path”, “the tranquilized one”, “the insightful one”, “the one with mindfulness of the body”, “the one with right recollection”, is also like this.\n\nTranslated by Bhikkhu Anālayo. Originally published in ‘On Rādha and Views – A Translation of Saṁyukta-āgama Discourses 111 to 138 (Fascicle 6)’, Dharma Drum Journal of Buddhist Studies, 2015, vol. 17 pp. 1–42.\n\nPrepared for SuttaCentral by Seniya Ariyakumara and Ayya Vimala.",
+  "parallels": [
+    {
+      "uid": "sn23.35-45",
+      "acronym": "SN 23.35–45",
+      "root_lang": "pli",
+      "original_title": "Mārādisuttaekādasaka",
+      "translated_title": null,
+      "type": "full",
+      "resembling": true,
+      "remark": null
+    }
+  ],
+  "primary_sn_uid": "sn23.35-45",
+  "pali_text": "",
+  "english_sn_text": "",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa101-200/sa130_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa101-200/sa130_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback",
+    "Unsupported SN uid: sn23.35-45"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时佛在舍卫国祇树给孤独园。\n尔时世尊告诸比丘：欲断五受阴者，当求大师。何等为五？谓色受阴，受、想、行、识受阴。欲断此五受阴，当求大师。\n佛说此经已，诸比丘闻佛所说，欢喜奉行。\n如说「当断」，如是「当知、当吐、当息、当舍」亦复如是。如说「当求大师」，如是当求胜师、次师，及教诫者、胜教诫者、次教诫者；当求通达者、广通者、圆通者；当求引导者、广导者、究竟导者；当求宣说者、广说者、次第说者；当求正直者、同伴者、真善知识、可亲近者；当求哀愍者、悲念者、崇义者、崇乐者、安慰者；当发欲、精进、方便、勤策、勇猛、坚固、强毅、堪能、专一，心不退转，坚执不舍，常习不放逸；当修和合、思量、忆念、觉察、知、明、慧、领受、思惟；当修梵行——所谓四念处、四正勤、四如意足、五根、五力、七觉分、八圣道分，及止、观、念身、正忆念，亦复如是。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在舍卫国祇树给孤独园。\n那时，世尊告诉比丘们：想要断除五受阴的人，应当寻求大师。哪五种？就是色受阴，以及受、想、行、识受阴。想要断除这五受阴，应当寻求大师。\n佛说完这部经，比丘们听佛所说，都欢喜奉行。\n像说「应当断」一样，说「应当了知、应当吐尽、应当止息、应当舍离」也是这样。像说「应当寻求大师」一样，也应当寻求更胜的老师、依次的老师，以及教诫者、更胜的教诫者、依次的教诫者；寻求通达的人、广通的人、圆通的人；寻求引导者、广为引导者、彻底引导者；寻求宣说者、广说者、次第宣说者；寻求正直的人、同行的伴侣、真实的善知识、可亲近的人；寻求哀愍者、悲念者、崇尚法义者、崇尚法乐者、给予安慰者；也应当生起欲、精进、方便、勤策、勇猛、坚固、强毅、堪能、专一，心不退转，坚持不舍，常常修习而不放逸；应当修习和合、思量、忆念、觉察、知、明、慧、领受、思惟；应当修习梵行——也就是四念处、四正勤、四如意足、五根、五力、七觉分、八圣道分，以及止、观、念身、正忆念，也都是这样。",
+  "notes": "SC 标平行 SN23.35–45（罗陀相应重说）：为断／遍知五蕴，当求大师（satthā pariyesitabbo），次第广列学、欲、精进、勤、念、正知、不放逸等门。汉本广列六十余名，多为近义叠加（崇义／崇乐／崇触／崇安慰、固／强／堪能等），今依罗什例并为师、导、说、伴、愍、勤、念、慧、道品九门，删其冗复而义无所减。末列「念处、正勤、如意足、根、力、觉分、道分、止、观、念身」即三十七道品，故显作道品名目。摄颂不入正文。confidence=medium。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "medium",
+  "prior_review_status": "needs_revision",
+  "similarity_to_source": 0.2,
+  "paragraph_parallel": true
+}

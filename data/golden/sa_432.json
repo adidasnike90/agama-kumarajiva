@@ -1,0 +1,32 @@
+{
+  "id": "SA_432",
+  "uid": "sa432",
+  "title": "雜阿含經  卷第十七  界相應  （432）  五節",
+  "chinese_text": "如是我聞：\n\n一時，佛住王舍城迦蘭陀竹園。\n\n爾時，佛告諸比丘：「譬如五節相續輪，大力士夫令速旋轉。如是，沙門、婆羅門於此苦聖諦不如實知，此苦集聖諦、苦滅聖諦、苦滅道跡聖諦不如實知，輪迴五趣，而速旋轉，或墮地獄，或墮畜生，或墮餓鬼，或人、或天，還墮惡道，長夜輪轉。是故，比丘！於四聖諦未無間等者，當勤方便，起增上欲，學無間等。」\n\n佛說此經已，諸比丘聞佛所說，歡喜奉行。",
+  "english_sa_text": "",
+  "parallels": [],
+  "primary_sn_uid": null,
+  "pali_text": "",
+  "english_sn_text": "",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa401-500/sa432_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa401-500/sa432_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛在王舍城迦兰陀竹园。\n尔时，佛告诸比丘：「譬如五节相续之轮，大力士令速旋转。如是沙门、婆罗门于苦圣谛、苦集圣谛、苦灭圣谛、苦灭道迹圣谛不如实知，轮回五趣而速旋转——或堕地狱、畜生、饿鬼，或人、或天，还堕恶道，长夜轮转。是故当于四圣谛勤修无间等。」\n佛说此经已，诸比丘闻佛所说，欢喜奉行。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在王舍城迦兰陀竹园。\n那时，佛告诉比丘们：「好比有五个节相连的轮，大力士让它飞快旋转。同样，沙门、婆罗门对苦圣谛、苦集圣谛、苦灭圣谛、苦灭道迹圣谛不能如实了知，在五趣中飞快轮转——或堕地狱、畜生、饿鬼，或生人、天，又还堕恶道，长夜轮转。所以应当对四圣谛勤修无间等。」\n佛说完这部经，比丘们听佛所说，都欢喜奉行。",
+  "notes": "SC 于本经未列可靠巴利平行，故唯以汉本为底，参同相应之巴利定型语厘义；依项目规约「无可靠平行时 confidence 降为 medium/low」，本经作 medium。五节轮喻五趣速转；无 SN 平行，依汉本保守改写。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "medium",
+  "prior_review_status": "needs_revision",
+  "similarity_to_source": 0.207,
+  "paragraph_parallel": true
+}

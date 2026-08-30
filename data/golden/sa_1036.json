@@ -1,0 +1,43 @@
+{
+  "id": "SA_1036",
+  "uid": "sa1036",
+  "title": "雜阿含經  卷第四十三  業報相應  （1036）  沙羅",
+  "chinese_text": "如是我聞：\n\n一時，佛住迦毘羅衛國尼拘律園中。\n\n時，有釋氏沙羅疾病委篤。\n\n爾時，世尊聞釋氏沙羅疾病委篤，晨朝著衣持鉢，入迦維羅衛國乞食，次到釋氏沙羅舍。釋氏沙羅遙見世尊，扶床欲起……乃至說三受，如差摩迦修多羅廣說，乃至「患苦但增不損。是故，釋氏沙羅，當如是學：『於佛不壞淨，於法、僧不壞淨，聖戒成就。』」\n\n釋氏沙羅白佛言：「如世尊說：『於佛不壞淨，於法、僧不壞淨，聖戒成就。』我悉有之，我常於佛不壞淨，於法、僧不壞淨，聖戒成就。」\n\n佛告釋氏沙羅：「是故，汝當依佛不壞淨，法、僧不壞淨，聖戒成就，於上修習五喜處。何等為五？謂念如來事，乃至自所施法。」\n\n釋氏沙羅白佛言：「如世尊說，依四不壞淨，修五喜處，我亦有之，我常念如來事，乃至自所施法。」\n\n佛言：「善哉！善哉！汝今自記斯陀含果。」\n\n沙羅白佛：「唯願世尊今我舍食。」爾時，世尊默然而許。\n\n沙羅長者即辦種種淨美飲食，恭敬供養，世尊食已，復為沙羅長者種種說法，示、教、照、喜已，從坐起而去。",
+  "english_sa_text": "",
+  "parallels": [
+    {
+      "uid": "sn55.39",
+      "acronym": "SN 55.39",
+      "root_lang": "pli",
+      "original_title": "Kāḷigodhasutta",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    }
+  ],
+  "primary_sn_uid": "sn55.39",
+  "pali_text": "Ekaṁ samayaṁ bhagavā sakkesu viharati kapilavatthusmiṁ nigrodhārāme. Atha kho bhagavā pubbaṇhasamayaṁ nivāsetvā pattacīvaramādāya yena kāḷigodhāya sākiyāniyā nivesanaṁ tenupasaṅkami; upasaṅkamitvā paññatte āsane nisīdi. Atha kho kāḷigodhā sākiyānī yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṁ abhivādetvā ekamantaṁ nisīdi. Ekamantaṁ nisinnaṁ kho kāḷigodhaṁ sākiyāniṁ bhagavā etadavoca: “Catūhi kho, godhe, dhammehi samannāgatā ariyasāvikā sotāpannā hoti avinipātadhammā niyatā sambodhiparāyaṇā. Katamehi catūhi? Idha, godhe, ariyasāvikā buddhe aveccappasādena samannāgatā hoti— itipi so bhagavā …pe… satthā devamanussānaṁ buddho bhagavāti. Dhamme …pe… saṅghe …pe… vigatamalamaccherena cetasā agāraṁ ajjhāvasati muttacāgā payatapāṇinī vossaggaratā yācayogā dānasaṁvibhāgaratā. Imehi kho, godhe, catūhi dhammehi samannāgatā ariyasāvikā sotāpannā hoti avinipātadhammā niyatā sambodhiparāyaṇā”ti. “Yānimāni, bhante, bhagavatā cattāri sotāpattiyaṅgāni desitāni, saṁvijjante dhammā mayi, ahañca tesu dhammesu sandissāmi. Ahañhi, bhante, buddhe aveccappasādena samannāgatā— itipi so bhagavā …pe… satthā devamanussānaṁ buddho bhagavāti. Dhamme …pe… saṅghe …pe… yaṁ kho pana kiñci kule deyyadhammaṁ sabbaṁ taṁ appaṭivibhattaṁ sīlavantehi kalyāṇadhammehī”ti. “Lābhā te, godhe, suladdhaṁ te, godhe. Sotāpattiphalaṁ tayā, godhe, byākatan”ti. Navamaṁ.",
+  "english_sn_text": "At one time the Buddha was staying in the land of the Sakyans, near Kapilavatthu in the Banyan Tree Monastery. Then the Buddha robed up in the morning and, taking his bowl and robe, went to the home of Kāḷigodhā the Sakyan lady, where he sat down on the seat spread out. Then Kāḷigodhā went up to the Buddha, bowed, and sat down to one side. The Buddha said to her: “Godhā, a female noble disciple who has four things is a stream-enterer, not liable to be reborn in the underworld, assured, destined for awakening. What four? It’s when a female noble disciple has experiential confidence in the Buddha … the teaching … the Saṅgha … And she lives at home with heart rid of the stain of stinginess, freely generous, open-handed, loving to let go, committed to charity, loving to give and to share. A female noble disciple who has these four things is a stream-enterer, not liable to be reborn in the underworld, assured, destined for awakening.” “Sir, these four factors of stream-entry that were taught by the Buddha are found in me, and I exhibit them. For I have experiential confidence in the Buddha … the teaching … the Saṅgha … And I share without reservation all the gifts available to give in our family with those who are ethical and of good character.” “You’re fortunate, Godhā, so very fortunate, You have declared the fruit of stream-entry.”",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa1001-1100/sa1036_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa1001-1100/sa1036_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛住迦毗罗卫国尼拘律园中。\n时释氏沙罗疾病委笃。世尊晨朝乞食，次到其舍。问言：「长者！苦患可安忍不？为减为增？」答言：「尊者！苦受增剧，但增不减。」佛告言：「当如是学：于佛不坏净、于法不坏净、于僧不坏净、圣戒成就。」沙罗白言：「此四法我悉有之。」\n佛言：「当依四不坏净，于上修五喜处——念如来乃至念自所施。」沙罗白言：「五喜处我亦常修。」\n佛言：「善哉！汝自记斯陀含果。」请佛受食，默许。设供说法已，从坐起去。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在迦毗罗卫国尼拘律园中。\n当时释迦族的沙罗病得很重。世尊清晨乞食，依次到他家。问道：「长者！痛苦还能忍受吗？是在减轻还是加重？」答道：「尊者！苦受很重，只增不减。」佛告诉他：「应当这样学：对佛不坏净、对法不坏净、对僧不坏净，以及圣戒成就。」沙罗说：「这四法我都有。」\n佛说：「应当依四不坏净，再修五喜之处——念如来乃至念自己的布施。」沙罗说：「五喜之处我也常常修。」\n佛说：「很好！你自己记说了斯陀含果。」他请佛用餐，佛默然答应。供养说法后，佛起身离去。",
+  "notes": "本经 SC 平行表所列平行及 `raw_aligned_data.json` 内之巴利本文、Sujato 英译并用以厘定法义；求那跋陀罗汉本用于定位经文与传统术语。confidence=medium：平行 SN55.39 Kāḷigodhā（释女、四预流支含无悭施，记须陀洹）；汉作释氏沙罗男众、五喜处（念佛等）、记斯陀含——保留汉叙事位次，法义以四不坏净＋喜施／念处为共核。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "medium",
+  "prior_review_status": "needs_revision",
+  "similarity_to_source": 0.112,
+  "paragraph_parallel": true
+}

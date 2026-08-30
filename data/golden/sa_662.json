@@ -1,0 +1,33 @@
+{
+  "id": "SA_662",
+  "uid": "sa662",
+  "title": "雜阿含經  卷第二十七  根力相應  （662）  二力",
+  "chinese_text": "如是我聞：\n\n一時，佛住舍衛國祇樹給孤獨園。\n\n爾時，世尊告諸比丘……如上說。差別者：「聖弟子學數力成就已，貪、恚、癡若節若盡。如是聖弟子依於數力，盡立數力，隨得修力，得修力已，修力滿足。」\n\n佛說此經已，諸比丘聞佛所說，歡喜奉行。",
+  "english_sa_text": "",
+  "parallels": [],
+  "primary_sn_uid": null,
+  "pali_text": "",
+  "english_sn_text": "",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa601-700/sa662_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa601-700/sa662_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛住舍卫国祇树给孤独园。\n佛告比丘：「有二种力——思择力、修习力。」\n「圣弟子思择力成就已，贪、恚、痴或节或尽。依于思择力，安立思择力，随得修习力；得已，修习力满足。」\n佛说此经已，诸比丘闻佛所说，欢喜奉行。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在舍卫国祇树给孤独园。\n佛告比丘：「有二种力——思择力、修习力。」\n「圣弟子思择力成就之后，贪、瞋、痴或减弱或尽除。依于思择力，安立思择力，随之得到修习力；得到以后，修习力满足。」\n佛说完这部经，比丘们听佛所说，都欢喜奉行。",
+  "notes": "SC 于本经未列可靠巴利平行，故唯以汉本为底，参同相应之巴利定型语厘义；依项目规约「无可靠平行时 confidence 降为 medium/low」。confidence=medium：SA_661 差别句 peyyāla；补开经名目。gold_reconstructed：底本「如上说」交叉指示，据 SA_661 框补。",
+  "review_status": "gold_reconstructed",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "medium",
+  "prior_review_status": "needs_revision",
+  "reconstruction_basis": "peyyāla 如上说 → frame from SA_661 + greed/hate/delusion difference",
+  "similarity_to_source": 0.22,
+  "paragraph_parallel": true
+}

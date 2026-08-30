@@ -1,0 +1,63 @@
+{
+  "id": "SA_538",
+  "uid": "sa538",
+  "title": "雜阿含經  卷第二十二  阿難相應  （538）  松林",
+  "chinese_text": "如是我聞：\n\n一時，佛住舍衛國祇樹給孤獨園。尊者舍利弗、尊者大目犍連、尊者阿難、尊者阿那律住舍衛國。\n\n爾時，尊者大目犍連詣尊者阿那律所，共相問訊慰勞已，於一面坐。時，尊者大目犍連問尊者阿那律：「於何功德修習多修習，成此大德神力？」\n\n尊者阿那律語尊者大目犍連：「我於四念處修習多修習，成此大德神力。何等為四？內身身觀繫心住，精勤方便，正念正知，除世間貪憂，外身、內外身，內受、外受、內外受，內心、外心、內外心，內法、外法、內外法，觀繫心住，精進方便，除世間貪憂，是名四念處修習多修習。成此大德神力，於千須彌山以少方便悉能觀察，如明目士夫登高山頂，觀下千多羅樹林。如是我於四念處修習多修習，成此大德神力，以少方便見千須彌山。如是，尊者大目犍連！我於四念處修習多修習，成此大德神力。」\n\n時二正士共論議已，各從座起而去。",
+  "english_sa_text": "",
+  "parallels": [
+    {
+      "uid": "sa537",
+      "acronym": "SA 537",
+      "root_lang": "lzh",
+      "original_title": "松林",
+      "translated_title": null,
+      "type": "full",
+      "resembling": true,
+      "remark": null
+    },
+    {
+      "uid": "sn47.28",
+      "acronym": "SN 47.28",
+      "root_lang": "pli",
+      "original_title": "Lokasutta",
+      "translated_title": "The World",
+      "type": "full",
+      "resembling": true,
+      "remark": null
+    },
+    {
+      "uid": "sn52.6",
+      "acronym": "SN 52.6",
+      "root_lang": "pli",
+      "original_title": "Tatiyakaṇḍakīsutta",
+      "translated_title": null,
+      "type": "full",
+      "resembling": true,
+      "remark": null
+    }
+  ],
+  "primary_sn_uid": "sn47.28",
+  "pali_text": "Taṁyeva nidānaṁ. Ekamantaṁ nisinno kho āyasmā sāriputto āyasmantaṁ anuruddhaṁ etadavoca: “katamesaṁ, āvuso anuruddha, dhammānaṁ bhāvitattā bahulīkatattā mahābhiññataṁ patto”ti? “Catunnaṁ, āvuso, satipaṭṭhānānaṁ bhāvitattā bahulīkatattā mahābhiññataṁ patto. Katamesaṁ catunnaṁ? Idhāhaṁ, āvuso, kāye kāyānupassī viharāmi ātāpī sampajāno satimā, vineyya loke abhijjhādomanassaṁ; vedanāsu …pe… citte …pe… dhammesu dhammānupassī viharāmi ātāpī sampajāno satimā, vineyya loke abhijjhādomanassaṁ. Imesaṁ khvāhaṁ, āvuso, catunnaṁ satipaṭṭhānānaṁ bhāvitattā bahulīkatattā mahābhiññataṁ patto. Imesañca panāhaṁ, āvuso, catunnaṁ satipaṭṭhānānaṁ bhāvitattā bahulīkatattā sahassaṁ lokaṁ abhijānāmī”ti. Aṭṭhamaṁ.",
+  "english_sn_text": "The same setting. “Reverend Anuruddha, what things have you developed and cultivated to attain great direct knowledge?” “Reverend, I attained great direct knowledge by developing and cultivating the four kinds of mindfulness meditation. What four? It’s when I meditate observing an aspect of the body—keen, aware, and mindful, rid of covetousness and displeasure for the world. I meditate observing an aspect of feelings … mind … principles—keen, aware, and mindful, rid of covetousness and displeasure for the world. I attained great direct knowledge by developing and cultivating these four kinds of mindfulness meditation. And it’s because of developing and cultivating these four kinds of mindfulness meditation that I directly know the thousandfold galaxy.”",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa501-600/sa538_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa501-600/sa538_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛在舍卫国祇树给孤独园。尊者舍利弗、尊者大目犍连、尊者阿难、尊者阿那律住舍卫国。\n大目犍连诣阿那律所，共相问讯慰劳已，于一面坐，问：「于何功德修习多修习，成此大德神力？」\n阿那律答：「我于四念处修习多修习，成此大德神力。内身身观系心住，精勤方便，正念正知，除世间贪忧；外身、内外身，内受、外受、内外受，内心、外心、内外心，内法、外法、内外法，观系心住，精进方便，除世间贪忧，是名四念处修习多修习。」\n「成此大德神力，于千须弥山以少方便悉能观察，如明目士夫登高山顶，观下千多罗树林；我于四念处修习多修习，以少方便见千须弥山亦如是。」\n时，二正士共论议已，各从座起而去。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在舍卫国祇树给孤独园。舍利弗、大目犍连、阿难、阿那律四位尊者住在舍卫国。\n大目犍连来到阿那律处，互相问讯慰劳后，在一旁坐下，问：「修习什么功德多修习，能成就此大德神力？」\n阿那律回答：「我于四念处修习多修习，成就此大德神力。于内身作身观而系心而住，精勤用功，正念正知，断除世间贪忧；外身、内外身，内受、外受、内外受，内心、外心、内外心，内法、外法、内外法，也观而系心而住，精勤用功，断除世间贪忧，这就叫做四念处修习多修习。」\n「成就此大德神力，对一千座须弥山稍用功力就能全部观察，就像眼明的人登上高山顶，观下面千株多罗树林；我于四念处修习多修习，稍用功力就能看见千须弥山，也是这样。」\n当时，两位正士讨论完毕，各自从座位起来离去。",
+  "notes": "本经 SC 平行表所列平行及 `raw_aligned_data.json` 内之巴利本文、Sujato 英译并用以厘定法义；求那跋陀罗汉本用于定位经文与传统术语。confidence=high：resembling SN47.28／SN52.6；汉本以目连问、千须弥为异文，从汉。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "high",
+  "prior_review_status": "needs_revision",
+  "similarity_to_source": 0.357,
+  "paragraph_parallel": true
+}

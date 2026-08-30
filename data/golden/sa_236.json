@@ -1,0 +1,53 @@
+{
+  "id": "SA_236",
+  "uid": "sa236",
+  "title": "雜阿含經  卷第十  六入處相應  （236）  清淨乞食住",
+  "chinese_text": "如是我聞：\n\n一時，佛住舍衛國祇樹給孤獨園。\n\n爾時，尊者舍利弗晨朝著衣持鉢，入舍衛城乞食。乞食已，還精舍，舉衣鉢，洗足已，持尼師檀，入林中，晝日坐禪。時，舍利弗從禪覺，詣世尊所，稽首禮足，退坐一面。\n\n爾時，佛告舍利弗：「汝從何來？」\n\n舍利弗答言：「世尊！從林中晝日坐禪來。」\n\n佛告舍利弗：「今入何等禪住？」\n\n舍利弗白佛言：「世尊！我今於林中入空三昧禪住。」\n\n佛告舍利弗：「善哉！善哉！舍利弗，汝今入上座禪住而坐禪。若諸比丘欲入上座禪者，當如是學：\n\n『若入城時、若行乞食時、若出城時，當作是思惟：「我今眼見色，頗起欲、恩愛、愛念著不？」』\n\n「舍利弗！比丘作如是觀時，若眼識於色有愛念染著者，彼比丘為斷惡不善故，當勤欲方便，堪能繫念修學。譬如有人，火燒頭衣，為盡滅故，當起增上方便，勤教令滅。彼比丘亦復如是，當起增上勤欲方便，繫念修學。\n\n「若比丘觀察時，若於道路、若聚落中行乞食、若出聚落，於其中間，眼識於色，無有愛念染著者，彼比丘願以此喜樂善根，日夜精勤，繫念修習，是名比丘於行、住、坐、臥淨除乞食，是故此經名清淨乞食住。」\n\n佛說此經已，尊者舍利弗聞佛所說，歡喜奉行。",
+  "english_sa_text": "",
+  "parallels": [
+    {
+      "uid": "mn151",
+      "acronym": "MN 151",
+      "root_lang": "pli",
+      "original_title": "Piṇḍapātapārisuddhisutta",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "ea45.6",
+      "acronym": "EA 45.6",
+      "root_lang": "lzh",
+      "original_title": "",
+      "translated_title": null,
+      "type": "full",
+      "resembling": true,
+      "remark": null
+    }
+  ],
+  "primary_sn_uid": null,
+  "pali_text": "",
+  "english_sn_text": "",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa201-300/sa236_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa201-300/sa236_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时佛在舍卫国祇树给孤独园。\n尔时尊者舍利弗晨朝著衣持钵，入舍卫城乞食。食讫还精舍，收衣钵，洗足已，持坐具入林，昼日坐禅。从禅起，诣佛所，稽首礼足，退坐一面。\n佛问舍利弗：汝从何来？\n答言：世尊，从林中昼禅而来。\n佛问：今入何等禅住？\n答言：世尊，我于林中入空三昧而住。\n佛言：善哉！善哉！此即上座禅住。诸比丘欲入上座禅者，当如是学：\n入城、乞食、出城时，当自省察：眼见诸色，颇起欲贪、爱念染著不？\n若见有染著，为断恶不善故，当起增上欲、勤方便，系念修学；如人头衣火燃，急求扑灭。\n若行路、入聚、出聚之间，眼识于色都无染著，当以此喜乐善根，昼夜精勤系念，是名行住坐卧净除乞食。是故此经名清净乞食住。\n佛说此经已，尊者舍利弗闻佛所说，欢喜奉行。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在舍卫国祇树给孤独园。\n那时，舍利弗尊者清晨披衣持钵，入舍卫城乞食。食毕回到精舍，收好衣钵，洗足之后，拿着坐具入林，白昼坐禅。从禅定起来，来到佛前，头面礼足，退坐一面。\n佛问舍利弗：你从哪里来？\n答：世尊，我从林中昼禅那里来。\n佛问：你现在入于什么禅定而住？\n答：世尊，我在林中入空三昧而住。\n佛说：好啊！好啊！这就是上座禅住。诸比丘若欲入上座禅，应当这样学：\n入城、乞食、出城时，都要自我省察：眼见诸色，是否生起欲贪、爱念染著？\n若见仍有染著，为断恶不善，当起增上欲、勤方便，系念修学；如同头上衣裳着火，急求扑灭。\n若行路、入聚落、出聚落之间，眼识对色都无染著，当以此喜乐善根昼夜精勤系念，这叫做行住坐卧净除乞食。所以这部经名为清净乞食住。\n佛说完这部经，舍利弗尊者听佛所说，都欢喜奉行。",
+  "notes": "本经 SC 平行表所列平行及 `raw_aligned_data.json` 内之巴利本文、Sujato 英译并用以厘定法义；求那跋陀罗汉本用于定位经文与传统术语。Anālayo 之 SA 英译（DDJBS 18, 2016）止于 SA 229，本批无其逐经英译。confidence=high：MN151（Piṇḍapātapārisuddhi）为 `full` 平行，舍利弗入林坐禅—佛问—教以乞食时观色是否染著—头衣着火譬，逐段相符。信-校正：（一）底本「欲、恩愛、爱念著」之「恩」当作「贪」——巴利作 chanda／rāga 一类之欲、贪，「恩愛」为讹。（二）「勤欲方便」之「方便」＝ padhāna／yoga（精勤、努力），非「方法手段」。（三）「上座禅住」＝ thero vihāra（上座、资深比丘之住法），指于乞食道中亦能不染，非专指某种三昧名。雅：压缩叙事套语与「舍利弗！」呼告，删引号嵌套之求那体。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "high",
+  "prior_review_status": "needs_revision",
+  "similarity_to_source": 0.205,
+  "paragraph_parallel": true
+}

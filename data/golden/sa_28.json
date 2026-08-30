@@ -1,0 +1,36 @@
+{
+  "id": "SA_28",
+  "uid": "sa28",
+  "title": "雜阿含經  卷第一  陰相應  （二八）  見法涅槃",
+  "chinese_text": "如是我聞：一時，佛住舍衛國、祇樹、給孤獨園。爾時，有異比丘來詣佛所。頭面禮足，却住一面，白佛言：「世尊，如世尊所說『得見法涅槃』。云何比丘得見法涅槃？」佛告比丘：「善哉，善哉！汝今欲知見法涅槃耶？」比丘白佛：「唯然，世尊。」佛告比丘：「諦聽，善思。當為汝說。」佛告比丘：「於色生厭、離欲、滅盡，不起諸漏，心正解脫。是名比丘見法涅槃。如是受、想、行、識⋯於識生厭、離欲、滅盡，不起諸漏，心正解脫。是名比丘見法涅槃。」時，彼比丘聞佛所說踊躍，歡喜。作禮而去。",
+  "english_sa_text": "Thus I have heard: One time, the Buddha was staying at Anāthapiṇḍada’s Park in Jeta’s Grove of Śrāvastī. There was then a certain monk who came to visit the Buddha. He bowed his head at the Buddha’s feet, withdrew to stand at one side, and said to the Buddha, “Bhagavān, the Bhagavān says ‘attain nirvāṇa in the present life.’ How does a monk attain nirvāṇa in the present life?” The Buddha told the monk, “Good, good! Do you want now to know about nirvāṇa in the present life?” The monk said to the Buddha, “Indeed, Bhagavān.” The Buddha told the monk, “[Listen closely!] Listen closely, and consider it well. I will explain it for you.” The Buddha told the monk, “Becoming disillusioned with form, becoming free of desire for it, and completely ceasing it, the contaminants don’t arise, and the mind is properly liberated. This is called a monk who attains nirvāṇa in the present life. It’s the same with feeling, conception, volition, and awareness … becoming disillusioned with awareness, becoming free of desire for it, and completely ceasing it, the contaminants don’t arise, and the mind is properly liberated. This is called a monk who attains nirvāṇa in the present life.” When that monk heard what the Buddha taught, he celebrated and rejoiced. He then bowed and departed.",
+  "parallels": [
+    {
+      "uid": "up2.078",
+      "acronym": "Up 2.078",
+      "root_lang": "xct",
+      "original_title": "",
+      "translated_title": "Upāyikā 2.078",
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    }
+  ],
+  "primary_sn_uid": null,
+  "pali_text": "",
+  "english_sn_text": "",
+  "errors": [],
+  "kumarajiva_style_text": "如是我闻：一时佛在舍卫国祇树给孤独园。\n尔时有异比丘来诣佛所，头面礼足，却住一面，白佛言：世尊说「得见法涅槃」，云何比丘得见法涅槃？佛告比丘：善哉！谛听，善思，当为汝说。于色生厌、离欲、灭尽，不起诸漏，心正解脱，是名见法涅槃。于受、想、行、识生厌、离欲、灭尽，不起诸漏，心正解脱，是名见法涅槃。\n时彼比丘闻法踊跃，作礼而去。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在舍卫国祇树给孤独园。\n那时，有一位比丘来到佛那里，头面礼足，站在一边，对佛说：世尊所说的「得见法涅槃」，比丘怎样才算得见法涅槃？佛告诉比丘：很好！仔细听，好好思惟，我为你说。对色生起厌离、离欲、灭尽，不起诸漏，心正确解脱，这就叫见法涅槃。对受、想、行、识生起厌离、离欲、灭尽，不起诸漏，心正确解脱，这也叫见法涅槃。\n那位比丘听法踊跃，作礼而去。",
+  "notes": "见法涅槃＝现法中于五蕴厌、离欲、灭尽，无漏、心正解脱。无可靠主平行；依汉本雅化，confidence=medium。非大乘涅槃玄谈。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "confidence": "medium",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": []
+}

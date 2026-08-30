@@ -1,0 +1,43 @@
+{
+  "id": "SA_609",
+  "uid": "sa609",
+  "title": "雜阿含經  卷第二十六  念處相應  （609）  集",
+  "chinese_text": "如是我聞：\n\n一時，佛住舍衛國祇樹給孤獨園。\n\n爾時，世尊告諸比丘：「我今當說四念處集、四念處沒。諦聽，善思。何等為四念處集、四念處沒？食集則身集、食滅則身沒。如是隨身集觀住，隨身滅觀住，隨身集滅觀住，則無所依住，於諸世間永無所取。\n\n「如是觸集則受集，觸滅則受沒。如是隨集法觀受住，隨滅法觀受住，隨集滅法觀受住，則無所依住，於諸世間都無所取。\n\n「名色集則心集，名色滅則心沒。隨集法觀心住，隨滅法觀心住，隨集滅法觀心住，則無所依住，於諸世間則無所取。\n\n「憶念集則法集，憶念滅則法沒。隨集法觀法住，隨滅法觀法住，隨集滅法觀法住，則無所依住，於諸世間則無所取。是名四念處集、四念處沒。」\n\n佛說此經已，諸比丘聞佛所說，歡喜奉行。",
+  "english_sa_text": "",
+  "parallels": [
+    {
+      "uid": "sn47.42",
+      "acronym": "SN 47.42",
+      "root_lang": "pli",
+      "original_title": "Samudayasutta",
+      "translated_title": "Origination",
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    }
+  ],
+  "primary_sn_uid": "sn47.42",
+  "pali_text": "“Catunnaṁ, bhikkhave, satipaṭṭhānānaṁ samudayañca atthaṅgamañca desessāmi. Taṁ suṇātha. Ko ca, bhikkhave, kāyassa samudayo? Āhārasamudayā kāyassa samudayo; āhāranirodhā kāyassa atthaṅgamo. Phassasamudayā vedanānaṁ samudayo; phassanirodhā vedanānaṁ atthaṅgamo. Nāmarūpasamudayā cittassa samudayo; nāmarūpanirodhā cittassa atthaṅgamo. Manasikārasamudayā dhammānaṁ samudayo; manasikāranirodhā dhammānaṁ atthaṅgamo”ti. Dutiyaṁ.",
+  "english_sn_text": "“Mendicants, I will teach you the origin and disappearance of the four kinds of mindfulness meditation. Listen … What is the origin of the body? The body originates from fuel. When fuel ceases, the body disappears. Feelings originate from contact. When contact ceases, feelings disappear. The mind originates from name and form. When name and form cease, the mind disappears. Principles originate from application of mind. When application of mind disappears, principles disappear.”",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa601-700/sa609_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa601-700/sa609_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛住舍卫国祇树给孤独园。\n尔时，世尊告诸比丘：「我今当说四念处集、四念处没。谛听，善思。何等为四念处集、四念处没？食集则身集、食灭则身没。如是随身集观住，随身灭观住，随身集灭观住，则无所依住，于诸世间永无所取。」\n「如是触集则受集，触灭则受没。如是随集法观受住，随灭法观受住，随集灭法观受住，则无所依住，于诸世间都无所取。」\n「名色集则心集，名色灭则心没。随集法观心住，随灭法观心住，随集灭法观心住，则无所依住，于诸世间则无所取。」\n「忆念集则法集，忆念灭则法没。随集法观法住，随灭法观法住，随集灭法观法住，则无所依住，于诸世间则无所取。是名四念处集、四念处没。」\n佛说此经已，诸比丘闻佛所说，欢喜奉行。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在舍卫国祇树给孤独园。\n那时，世尊告诉比丘们：「我现在要说四念处的集与没。谛听，善思惟。什么是四念处集、四念处没？食集则身集，食灭则身没。这样随身的集而观住，随身的灭而观住，随身的集灭而观住，就无所依住，于世间永无所取。」\n「同样，触集则受集，触灭则受没。这样随受的集而观住，随受的灭而观住，随受的集灭而观住，就无所依住，于世间都无所取。」\n「名色集则心集，名色灭则心没。随心的集而观住，随心的灭而观住，随心的集灭而观住，就无所依住，于世间无所取。」\n「忆念集则法集，忆念灭则法没。随法的集而观住，随法的灭而观住，随法的集灭而观住，就无所依住，于世间无所取。这叫做四念处集、四念处没。」\n佛说完这部经，比丘们听佛所说，都欢喜奉行。",
+  "notes": "本经 SC 平行表所列平行及 `raw_aligned_data.json` 内之巴利本文、Sujato 英译并用以厘定法义；求那跋陀罗汉本用于定位经文与传统术语。confidence=high：primary SN47.42（食／触／名色／忆念集没）。据 SN 校正：汉「忆念」≈ manasikāra 作意；四支各随集灭观住。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "high",
+  "prior_review_status": "needs_revision",
+  "similarity_to_source": 0.394,
+  "paragraph_parallel": true
+}

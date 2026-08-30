@@ -1,0 +1,43 @@
+{
+  "id": "SA_1059",
+  "uid": "sa1059",
+  "title": "雜阿含經  卷第四十四  業報相應  （1059）  四十法",
+  "chinese_text": "如是我聞：\n\n一時，佛住舍衛國祇樹給孤獨園。\n\n爾時，世尊告諸比丘：「有四十法成就，如鐵槍投水，身壞命終，下生惡趣泥犁中。何等為四十法？謂手自殺生，教人令殺，讚歎殺生，見人殺生心隨歡喜，乃至自行邪見，教人令行，讚歎邪見，見行邪見心隨歡喜，是名四十法成就。如鐵槍投水，身壞命終，下生惡趣泥犁中。有四十法成就，如鐵槍鑽空，身壞命終，上生天上。何等為四十？謂不殺生，教人不殺，口常讚歎不殺功德，見不殺者心隨歡喜；乃至自行正見，教人令行，亦常讚歎正見功德，見人行者心隨歡喜，是名四十法成就。如鐵槍鑽空，身壞命終，上生天上。」\n\n佛說此經已，諸比丘聞佛所說，歡喜奉行。",
+  "english_sa_text": "",
+  "parallels": [
+    {
+      "uid": "an10.224",
+      "acronym": "AN 10.224",
+      "root_lang": "pli",
+      "original_title": "~ ",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    }
+  ],
+  "primary_sn_uid": null,
+  "pali_text": "",
+  "english_sn_text": "",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa1001-1100/sa1059_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa1001-1100/sa1059_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛住舍卫国祇树给孤独园。\n尔时世尊告诸比丘：「若成就四十法，如铁矛投水，直沉不浮，身坏命终，下生恶趣泥犁。何等四十？谓手自杀生，教人令杀，赞叹杀生，见他杀生心随欢喜；乃至自行邪见，教人令行，赞叹邪见，见行邪见心随欢喜——自作、教作、赞叹、随喜各十，合为四十。「若成就四十法，如铁矛仰投虚空，轻扬而上，身坏命终，上生天上。何等四十？谓不杀生，教人不杀，口赞不杀，见不杀者心随欢喜；乃至自行正见，教人令行，赞叹正见，见行正见心随欢喜。」\n佛说此经已，诸比丘闻佛所说，欢喜奉行。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在舍卫国祇树给孤独园。\n那时世尊告诉比丘们：「若成就四十法，像铁矛投进水里，直沉下去浮不起来，身体坏灭命终后，下生恶趣地狱。哪四十种？就是亲手杀生，教人杀，称赞杀生，看见别人杀生心里跟着欢喜；乃至自己行邪见，教人行，称赞邪见，看见别人行邪见心里跟着欢喜——自作、教作、赞叹、随喜各十，合为四十。「若成就四十法，像铁矛向上投向虚空，轻扬而起，身体坏灭命终后，上生天上。哪四十种？就是不杀生，教人不杀，口称赞不杀，看见不杀的人心里跟着欢喜；乃至自己行正见，教人行，称赞正见，看见别人行正见心里跟着欢喜。」\n佛说完这部经，比丘们听佛所说，都欢喜奉行。",
+  "notes": "本经 SC 平行表所列平行及 `raw_aligned_data.json` 内之巴利本文、Sujato 英译并用以厘定法义；求那跋陀罗汉本用于定位经文与传统术语。confidence=high：primary AN10.224；四十＝自作＋教作＋赞叹＋随喜。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "high",
+  "prior_review_status": "needs_revision",
+  "similarity_to_source": 0.242,
+  "paragraph_parallel": true
+}

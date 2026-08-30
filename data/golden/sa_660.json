@@ -1,0 +1,32 @@
+{
+  "id": "SA_660",
+  "uid": "sa660",
+  "title": "雜阿含經  卷第二十七  根力相應  （660）  信",
+  "chinese_text": "如是我聞：\n\n一時，佛住舍衛國祇樹給孤獨園。\n\n爾時，世尊告諸比丘：「有五根。何等為五？謂信根、精進根、念根、定根、慧根。於此五根修習多修習，過去、未來、現在一切苦斷。」\n\n佛說此經已，諸比丘聞佛所說，歡喜奉行。\n\n如苦斷，如是究竟苦邊、苦盡、苦息、苦沒，度苦流，於縛得解，害諸色，過去、未來、現在一切漏盡，亦如是說。",
+  "english_sa_text": "",
+  "parallels": [],
+  "primary_sn_uid": null,
+  "pali_text": "",
+  "english_sn_text": "",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa601-700/sa660_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa601-700/sa660_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛住舍卫国祇树给孤独园。\n佛告比丘：「有五根——信、精进、念、定、慧。于此五根修习多修习，能断过去、未来、现在一切苦。」\n「如苦断，究竟苦边、苦尽、苦息、苦没，度苦流，于缚得解，害诸有，一切漏尽，亦如是说。」\n佛说此经已，诸比丘闻佛所说，欢喜奉行。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在舍卫国祇树给孤独园。\n佛告比丘：「有五根——信、精进、念、定、慧。对这些五根修习多修习，能断过去、未来、现在一切苦。」\n「如同苦断，究竟苦边、苦尽、苦息、苦没，度苦流，于束缚得解脱，灭诸有，一切漏尽，也是这样说。」\n佛说完这部经，比丘们听佛所说，都欢喜奉行。",
+  "notes": "SC 于本经未列可靠巴利平行，故唯以汉本为底，参同相应之巴利定型语厘义；依项目规约「无可靠平行时 confidence 降为 medium/low」。confidence=medium：五根修习断三世苦＋果德 peyyāla 压缩；无 SN 专经。「害诸色」从早期「害有／尽有」义作「害诸有」，避色身误读。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "medium",
+  "prior_review_status": "needs_revision",
+  "similarity_to_source": 0.346,
+  "paragraph_parallel": true
+}

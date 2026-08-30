@@ -1,0 +1,43 @@
+{
+  "id": "SA_1263",
+  "uid": "sa1263",
+  "title": "雜阿含經  卷第五十  譬喻相應  （1263）  尿糞",
+  "chinese_text": "如是我聞：\n\n一時，佛住王舍城迦蘭陀竹園。\n\n爾時，世尊告諸比丘：「我不讚歎受少有身，況復多受？所以者何？受有者苦。譬如糞屎，少亦臭穢，何況於多？如是諸有，少亦不歎，乃至剎那，況復於多？所以者何？有者，苦故。是故，比丘！當如是學：『斷除諸有，莫增長有。』當如是學。」\n\n佛說此經已，諸比丘聞佛所說，歡喜奉行。",
+  "english_sa_text": "",
+  "parallels": [
+    {
+      "uid": "sn17.5",
+      "acronym": "SN 17.5",
+      "root_lang": "pli",
+      "original_title": "Mīḷhakasutta",
+      "translated_title": null,
+      "type": "full",
+      "resembling": true,
+      "remark": null
+    }
+  ],
+  "primary_sn_uid": "sn17.5",
+  "pali_text": "Sāvatthiyaṁ viharati. “Dāruṇo, bhikkhave, lābhasakkārasiloko …pe… adhigamāya. Seyyathāpi, bhikkhave, mīḷhakā gūthādī gūthapūrā puṇṇā gūthassa. Purato cassa mahāgūthapuñjo. Sā tena aññā mīḷhakā atimaññeyya: ‘ahamhi gūthādī gūthapūrā puṇṇā gūthassa, purato ca myāyaṁ mahāgūthapuñjo’ti. Evameva kho, bhikkhave, idhekacco bhikkhu lābhasakkārasilokena abhibhūto pariyādiṇṇacitto pubbaṇhasamayaṁ nivāsetvā pattacīvaramādāya gāmaṁ vā nigamaṁ vā piṇḍāya pavisati. So tattha bhuttāvī ca hoti yāvadattho, nimantito ca svātanāya, piṇḍapāto cassa pūro. So ārāmaṁ gantvā bhikkhugaṇassa majjhe vikatthati: ‘bhuttāvī camhi yāvadattho, nimantito camhi svātanāya, piṇḍapāto ca myāyaṁ pūro, lābhī camhi cīvarapiṇḍapātasenāsanagilānappaccayabhesajjaparikkhārānaṁ, ime panaññe bhikkhū appapuññā appesakkhā na lābhino cīvarapiṇḍapātasenāsanagilānappaccayabhesajjaparikkhārānan’ti. So tena lābhasakkārasilokena abhibhūto pariyādiṇṇacitto aññe pesale bhikkhū atimaññati. Tañhi tassa, bhikkhave, moghapurisassa hoti dīgharattaṁ ahitāya dukkhāya. Evaṁ dāruṇo kho, bhikkhave, lābhasakkārasiloko …pe… evañhi vo bhikkhave, sikkhitabban”ti. Pañcamaṁ.",
+  "english_sn_text": "At Sāvatthī. “Possessions, honor, and popularity are grim … Suppose there was a dung-eating beetle full of dung, stuffed with dung, and before her was a big pile of dung. She’d look down on other beetles, thinking: ‘For I am a dung-eating beetle full of dung, stuffed with dung, and before me is a big pile of dung.’ In the same way, take a certain mendicant whose mind is overcome and overwhelmed by possessions, honor, and popularity. They robe up in the morning and, taking their bowl and robe, enter the village or town for alms. There they eat as much as they like, get invited back tomorrow, and have plenty of almsfood. When they get back to the monastery, they boast in the middle of a group of mendicants: ‘I ate as much as I liked, got invited back tomorrow, and had plenty of almsfood. I get robes, almsfood, lodgings, and medicines and supplies for the sick. But these other mendicants have little merit or significance, so they don’t get these things.’ With a mind overcome and overwhelmed by possessions, honor, and popularity, they look down on other good-hearted mendicants. This will be for their lasting harm and suffering. So grim are possessions, honor, and popularity. …”",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa1201-1300/sa1263_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa1201-1300/sa1263_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛住王舍城迦兰陀竹园。\n尔时世尊告诸比丘：「我不赞叹受少有身，何况多受？所以者何？受有则苦。譬如粪秽，少亦臭恶，何况于多？诸有亦尔，少亦不赞，乃至刹那，何况于多？是故当如是学：『断除诸有，莫增长有。』」\n佛说此经已，诸比丘闻佛所说，欢喜奉行。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在王舍城迦兰陀竹园。\n那时世尊告诉比丘们：「我连稍微受有都不称赞，何况多受？为什么？受有就是苦。好比粪便，少也臭秽，何况多？一切有也是这样，少也不赞叹，哪怕一刹那，何况多？所以应当这样学：『断除诸有，不要增长有。』」\n佛说完这部经，比丘们听佛所说，都欢喜奉行。",
+  "notes": "本经 SC 平行表所列平行及 `raw_aligned_data.json` 内之巴利本文、Sujato 英译并用以厘定法义；求那跋陀罗汉本用于定位经文与传统术语。confidence=medium：SC resembling SN17.5 Mīḷhaka（粪甲虫／利养憍慢），主题不同；本经汉义为 bhava 如粪、少有亦不赞——保守依汉，不改写为利养相应。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "medium",
+  "prior_review_status": "needs_revision",
+  "similarity_to_source": 0.312,
+  "paragraph_parallel": true
+}

@@ -1,0 +1,53 @@
+{
+  "id": "SA_543",
+  "uid": "sa543",
+  "title": "雜阿含經  卷第二十二  阿難相應  （543）  阿漢羅比丘",
+  "chinese_text": "如是我聞：\n\n一時，佛住舍衛國祇樹給孤獨園。時，尊者阿那律在舍衛國松林精舍住。\n\n時，有眾多比丘詣尊者阿那律所，與尊者阿那律共相問訊慰勞已，於一面坐。語尊者阿那律言：「若阿羅漢比丘諸漏已盡，所作已作，捨離重擔，離諸有結，正智心善解脫，亦修四念處耶？」\n\n尊者阿那律語比丘言：「若比丘諸漏已盡，所作已作，捨離重擔，離諸有結，正智心善解脫，彼亦修四念處也。所以者何？不得者得，不證者證，為現法樂住故。所以者何？我亦離諸有漏，得阿羅漢，所作已作，心善解脫，亦修四念處故。不得者得，不到者到，不證者證，乃至現法安樂住。」\n\n時，諸正士共論議已，歡喜隨喜，各從座起而去。",
+  "english_sa_text": "",
+  "parallels": [
+    {
+      "uid": "sn52.5",
+      "acronym": "SN 52.5",
+      "root_lang": "pli",
+      "original_title": "Dutiyakaṇḍakīsutta",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "sn52.4",
+      "acronym": "SN 52.4",
+      "root_lang": "pli",
+      "original_title": "Paṭhamakaṇḍakīsutta",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    }
+  ],
+  "primary_sn_uid": "sn52.4",
+  "pali_text": "Ekaṁ samayaṁ āyasmā ca anuruddho āyasmā ca sāriputto āyasmā ca mahāmoggallāno sākete viharanti kaṇḍakīvane. Atha kho āyasmā ca sāriputto āyasmā ca mahāmoggallāno sāyanhasamayaṁ paṭisallānā vuṭṭhitā yenāyasmā anuruddho tenupasaṅkamiṁsu; upasaṅkamitvā āyasmatā anuruddhena saddhiṁ sammodiṁsu. Sammodanīyaṁ kathaṁ sāraṇīyaṁ vītisāretvā ekamantaṁ nisīdiṁsu. Ekamantaṁ nisinno kho āyasmā sāriputto āyasmantaṁ anuruddhaṁ etadavoca: “sekhenāvuso anuruddha, bhikkhunā katame dhammā upasampajja vihātabbā”ti? “Sekhenāvuso sāriputta, bhikkhunā cattāro satipaṭṭhānā upasampajja vihātabbā. Katame cattāro? Idhāvuso, bhikkhu kāye kāyānupassī viharati ātāpī sampajāno satimā, vineyya loke abhijjhādomanassaṁ; vedanāsu …pe… citte …pe… dhammesu dhammānupassī viharati ātāpī sampajāno satimā, vineyya loke abhijjhādomanassaṁ— sekhenāvuso sāriputta, bhikkhunā ime cattāro satipaṭṭhānā upasampajja vihātabbā”ti. Catutthaṁ.",
+  "english_sn_text": "At one time the venerables Anuruddha, Sāriputta, and Mahāmoggallāna were staying near Sāketa in the Thorny Wood. Then in the late afternoon, Sāriputta and Mahāmoggallāna came out of retreat, went to Anuruddha, and exchanged greetings with him. When the greetings and polite conversation were over, they sat down to one side. Sāriputta said to Anuruddha: “Reverend Anuruddha, what things should a trainee mendicant enter and remain in?” “Reverend Sāriputta, a trainee mendicant should enter and remain in the four kinds of mindfulness meditation. What four? It’s when a mendicant meditates by observing an aspect of the body—keen, aware, and mindful, rid of covetousness and displeasure for the world. They meditate observing an aspect of feelings … mind … principles—keen, aware, and mindful, rid of covetousness and displeasure for the world. A trainee mendicant should enter and remain in these four kinds of mindfulness meditation.”",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa501-600/sa543_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa501-600/sa543_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛在舍卫国祇树给孤独园。时，尊者阿那律在舍卫国松林精舍住。\n有众多比丘诣阿那律所，共相问讯慰劳已，于一面坐，问：「若阿罗汉比丘诸漏已尽，所作已作，舍离重担，离诸有结，正智心善解脱，亦修四念处耶？」\n阿那律答：「若比丘诸漏已尽，所作已作，舍离重担，离诸有结，正智心善解脱，彼亦修四念处。所以者何？不得者得，不证者证，为现法乐住故。我亦离诸有漏，得阿罗汉，所作已作，心善解脱，亦修四念处故。」\n时，诸正士共论议已，欢喜随喜，各从座起而去。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在舍卫国祇树给孤独园。当时，阿那律尊者在舍卫国松林精舍住。\n有许多比丘来到阿那律处，互相问讯慰劳后，在一旁坐下，问：「若阿罗汉比丘诸漏已尽，所作已作，舍离重担，离诸有结，正智心善巧解脱，也修习四念处吗？」\n阿那律回答：「若有比丘诸漏已尽，所作已作，舍离重担，离诸有结，正智心善巧解脱，他也修习四念处。为什么呢？让未得者得，让未证者证，为了现法乐住。我也离诸有漏，得阿罗汉，所作已作，心善巧解脱，也修习四念处。」\n当时，诸位正士讨论完毕，欢喜随喜，各自从座位起来离去。",
+  "notes": "本经 SC 平行表所列平行及 `raw_aligned_data.json` 内之巴利本文、Sujato 英译并用以厘定法义；求那跋陀罗汉本用于定位经文与传统术语。confidence=high：resembling SN52.5 Dutiyakaṇḍakī（无学亦修四念处）；SC 表列 SN52.4 而汉义近 SN52.5，从汉。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "high",
+  "prior_review_status": "needs_revision",
+  "similarity_to_source": 0.393,
+  "paragraph_parallel": true
+}

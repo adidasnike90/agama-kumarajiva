@@ -1,0 +1,32 @@
+{
+  "id": "SA_1362",
+  "uid": "sa1362",
+  "title": "雜阿含經  卷第五十  林相應  （1362）  鴿鳥",
+  "chinese_text": "如是我聞：\n\n一時佛住舍衛國祇樹給孤獨園。\n\n時，有異比丘在拘薩羅人間，住一林中。\n\n時，有天神見諸鴿鳥而說偈言：\n\n「鴿鳥當積聚，　　胡麻米粟等，\n\n　於山頂樹上，　　高顯作巢窟，\n\n　若當天雨時，　　安極飲食宿。」\n\n時，彼比丘作是念：「彼亦覺悟我！」即說偈言：\n\n「凡夫積善法，　　恭敬於三寶，\n\n　身壞命終時，　　資神心安樂。」\n\n時，彼比丘說此偈已，以即覺悟，專精思惟，除諸煩惱，得阿羅漢。",
+  "english_sa_text": "",
+  "parallels": [],
+  "primary_sn_uid": null,
+  "pali_text": "",
+  "english_sn_text": "",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa1301-1400/sa1362_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa1301-1400/sa1362_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛住舍卫国祇树给孤独园。\n时有异比丘在拘萨罗人间，住一林中。\n有天神见诸鸽鸟，说偈言：「鸽鸟当积聚，胡麻米粟等；于山顶树上，高显作巢窟；若当天雨时，安稳得饮食宿。」\n比丘念：「彼亦觉悟我！」即说偈：「凡夫积善法，恭敬于三宝；身坏命终时，资神心安乐。」\n比丘说此偈已，即得觉悟，专精思惟，除诸烦恼，得阿罗汉。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在舍卫国祇树给孤独园。\n当时有一位比丘在拘萨罗人间，住在一片林中。\n有位天神看见许多鸽子，说偈：「鸽子应当积聚胡麻、米、粟等；在山顶树上高高筑巢；若到天下雨时，便能安稳饮食住宿。」\n比丘心想：「那也是在唤醒我！」便说偈：「凡夫积聚善法，恭敬于三宝；身坏命终之时，资益心神安乐。」\n比丘说完这首偈，便得觉悟，专精思惟，除去烦恼，证得阿罗汉。",
+  "notes": "SC 于本经未列可靠巴利平行，故唯以汉本为底，参林相应／Vanasaṃyutta 定型语及早期教理厘义；依项目规约「无可靠平行时 confidence 降为 medium/low」。求那跋陀罗汉本用于定位经文与传统术语。confidence=medium：无 SC 专经。全库末经；删「杂阿含经卷第五十」卷末题记（藏经 paratext）。天神咏鸽积粮，比丘以积善敬三宝为对；「资神」＝资益心神，非神我。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "medium",
+  "prior_review_status": "needs_revision",
+  "similarity_to_source": 0.285,
+  "paragraph_parallel": true
+}

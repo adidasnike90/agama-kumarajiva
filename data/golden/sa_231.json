@@ -1,0 +1,43 @@
+{
+  "id": "SA_231",
+  "uid": "sa231",
+  "title": "雜阿含經  卷第十  六入處相應  （231）  三彌離提",
+  "chinese_text": "如是我聞：\n\n一時，佛住舍衛國祇樹給孤獨園。\n\n時，有比丘名三彌離提，往詣佛所，稽首佛足，退坐一面，白佛言：「世尊！所謂世間者，云何名世間？」\n\n佛告三彌離提：「危脆敗壞，是名世間。云何危脆敗壞？三彌離提！眼是危脆敗壞法，若色、眼識、眼觸、眼觸因緣生受，內覺若苦、若樂、不苦不樂，彼一切亦是危脆敗壞。耳、鼻、舌、身、意亦復如是。是說危脆敗壞法，名為世間。」\n\n佛說此經已，三彌離提比丘聞佛所說，歡喜奉行。",
+  "english_sa_text": "",
+  "parallels": [
+    {
+      "uid": "sn35.82",
+      "acronym": "SN 35.82",
+      "root_lang": "pli",
+      "original_title": "Lokapañhāsutta",
+      "translated_title": "The World",
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    }
+  ],
+  "primary_sn_uid": "sn35.82",
+  "pali_text": "Atha kho aññataro bhikkhu yena bhagavā …pe… ekamantaṁ nisinno kho so bhikkhu bhagavantaṁ etadavoca: “‘Loko, loko’ti, bhante, vuccati. Kittāvatā nu kho, bhante, lokoti vuccatī”ti? “‘Lujjatī’ti kho, bhikkhu, tasmā lokoti vuccati. Kiñca lujjati? Cakkhu kho, bhikkhu, lujjati. Rūpā lujjanti, cakkhuviññāṇaṁ lujjati, cakkhusamphasso lujjati, yampidaṁ cakkhusamphassapaccayā uppajjati vedayitaṁ sukhaṁ vā dukkhaṁ vā adukkhamasukhaṁ vā tampi lujjati …pe… jivhā lujjati …pe… mano lujjati, dhammā lujjanti, manoviññāṇaṁ lujjati, manosamphasso lujjati, yampidaṁ manosamphassapaccayā uppajjati vedayitaṁ sukhaṁ vā dukkhaṁ vā adukkhamasukhaṁ vā tampi lujjati. Lujjatīti kho, bhikkhu, tasmā lokoti vuccatī”ti. Navamaṁ.",
+  "english_sn_text": "Then a mendicant went up to the Buddha … and said to him: “Sir, they speak of this thing called ‘the world’. How is the world defined?” “It wears away, mendicant, that’s why it’s called ‘the world’. And what is wearing away? The eye is wearing away. Sights … eye consciousness … eye contact is wearing away. The painful, pleasant, or neutral feeling that arises dependent on eye contact is also wearing away. The ear … nose … tongue … body …. The mind … ideas … mind consciousness … mind contact is wearing away. The painful, pleasant, or neutral feeling that arises dependent on mind contact is also wearing away. It wears away, mendicant, that’s why it’s called ‘the world’.”",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa201-300/sa231_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa201-300/sa231_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时佛在舍卫国祇树给孤独园。\n时，有比丘名三弥离提，往诣佛所，稽首佛足，退坐一面，白佛言：世尊！所谓世间者，云何名世间？\n佛告三弥离提：败坏崩坏，是名世间。云何败坏崩坏？三弥离提！眼是败坏崩坏法；色、眼识、眼触，及眼触因缘所生受——内心所领受，若苦、若乐、不苦不乐——彼一切亦是败坏崩坏。耳、鼻、舌、身、意亦复如是。是说败坏崩坏法，名为世间。\n佛说此经已，三弥离提比丘闻佛所说，欢喜奉行。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在舍卫国祇树给孤独园。\n那时，有一位名叫三弥离提的比丘来到佛前，以头面礼佛足，退到一旁坐下，对佛说：世尊！所谓「世间」，怎样才叫世间？\n佛告诉三弥离提：败坏崩坏，就叫做世间。怎样是败坏崩坏呢？三弥离提！眼是败坏崩坏之法；色、眼识、眼触，以及依眼触为缘而生起的感受——内心所领受的，无论是苦、是乐、还是不苦不乐——也都是败坏崩坏的。耳、鼻、舌、身、意也是一样。这样解说败坏崩坏之法，就名为世间。\n佛说完这部经，三弥离提比丘听佛所说，都欢喜奉行。",
+  "notes": "本经 SC 平行表所列平行及 `raw_aligned_data.json` 内之巴利本文、Sujato 英译并用以厘定法义；求那跋陀罗汉本用于定位经文与传统术语。Anālayo 之 SA 英译（DDJBS 18, 2016）止于 SA 229，本批无其逐经英译。confidence=high：SN35.82（Lokapañhā）为 `full` 平行，巴利逐支可对。「败坏崩坏」译 `lujjati`（崩坏、瓦解）；佛以语源释「世间」：「lujjatīti kho tasmā lokoti vuccati」——因其败坏，故名世间。「内觉」＝ vedayita（所受）非「觉悟」，沿 SA_195／219 之例，作「内心所领受」。人名：巴利作 aññataro bhikkhu（某比丘），汉本作三弥离提（Samimilitthi），存汉本。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "high",
+  "prior_review_status": "needs_revision",
+  "similarity_to_source": 0.379,
+  "paragraph_parallel": true
+}

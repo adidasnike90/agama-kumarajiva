@@ -1,0 +1,126 @@
+{
+  "id": "SA_952",
+  "uid": "sa952",
+  "title": "雜阿含經  卷第三十七  婆蹉外道相應  （952）  無不是",
+  "chinese_text": "如是我聞：\n\n一時，佛住舍衛國祇樹給孤獨園。\n\n爾時，世尊告諸比丘：「眾生無始生死，長夜輪轉，不知苦之本際，無有一處無父母、兄弟、妻子、眷屬、宗親、師長者。如是，比丘！無始生死，長夜輪轉，不知苦之本際。是故，比丘！當如是學：『斷除諸有，莫令增長。』」\n\n佛說此經已，諸比丘聞佛所說，歡喜奉行。",
+  "english_sa_text": "",
+  "parallels": [
+    {
+      "uid": "sa-2.345",
+      "acronym": "SA2 345",
+      "root_lang": "lzh",
+      "original_title": "無不是",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "sa-2.338",
+      "acronym": "SA2 338",
+      "root_lang": "lzh",
+      "original_title": "彼愛",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "sa945",
+      "acronym": "SA 945",
+      "root_lang": "lzh",
+      "original_title": "彼愛",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "sn15.19",
+      "acronym": "SN 15.19",
+      "root_lang": "pli",
+      "original_title": "Dhītusutta",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "sn15.18",
+      "acronym": "SN 15.18",
+      "root_lang": "pli",
+      "original_title": "Puttasutta",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "sn15.17",
+      "acronym": "SN 15.17",
+      "root_lang": "pli",
+      "original_title": "Bhaginisutta",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "sn15.16",
+      "acronym": "SN 15.16",
+      "root_lang": "pli",
+      "original_title": "Bhātusutta",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "sn15.15",
+      "acronym": "SN 15.15",
+      "root_lang": "pli",
+      "original_title": "Pitusutta",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "sn15.14",
+      "acronym": "SN 15.14",
+      "root_lang": "pli",
+      "original_title": "Mātusutta",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    }
+  ],
+  "primary_sn_uid": "sn15.14",
+  "pali_text": "Sāvatthiyaṁ viharati. “Anamataggoyaṁ, bhikkhave, saṁsāro …pe… na so, bhikkhave, satto sulabharūpo yo namātābhūtapubbo iminā dīghena addhunā. Taṁ kissa hetu? Anamataggoyaṁ, bhikkhave, saṁsāro …pe… alaṁ vimuccitun”ti. Catutthaṁ.",
+  "english_sn_text": "At Sāvatthī. “Mendicants, this transmigration has no known beginning. … It’s not easy to find a sentient being who in all this long time has not previously been your mother. Why is that? This transmigration has no known beginning. … This is quite enough for you to become disillusioned, dispassionate, and freed regarding all conditions.”",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa901-1000/sa952_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa901-1000/sa952_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛住舍卫国祇树给孤独园。\n尔时，世尊告诸比丘：「生死无始，长夜流转，苦际叵得；求一人，未曾为汝父母、兄弟、妻子、眷属、宗亲、师长者，了不可得。是故当学：断诸有，勿令增长。」\n佛说此经已，诸比丘闻佛所说，欢喜奉行。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在舍卫国祇树给孤独园。\n那时，世尊告诉比丘们：「生死没有起始，长夜流转，苦的边际难以得到；想找一个人，从未做过你的父母、兄弟、妻子、眷属、宗亲、师长，根本找不到。所以应当学：断除诸有，不要让它增长。」\n佛说完这部经，比丘们听佛所说，都欢喜奉行。",
+  "notes": "本经 SC 平行表所列平行及 `raw_aligned_data.json` 内之巴利本文、Sujato 英译并用以厘定法义；求那跋陀罗汉本用于定位经文与传统术语。confidence=high：primary SN15.14（及 15.15–19 眷属系列）；汉「无不是」＝巴利「难得以非母等」；结劝断有，存汉定型。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "high",
+  "prior_review_status": "needs_revision",
+  "similarity_to_source": 0.277,
+  "paragraph_parallel": true,
+  "quality_gate_reasons": [
+    "lit_mod_gap=0.281>=0.1"
+  ]
+}

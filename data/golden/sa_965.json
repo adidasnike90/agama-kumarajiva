@@ -1,0 +1,53 @@
+{
+  "id": "SA_965",
+  "uid": "sa965",
+  "title": "雜阿含經  卷第三十八  婆蹉外道相應  （965）  優陟",
+  "chinese_text": "如是我聞：\n\n一時，佛住王舍城迦蘭陀竹園。\n\n時，有外道出家名曰欝低迦，來詣佛所，與世尊面相問訊慰勞已，退坐一面，白佛言：「瞿曇！云何？瞿曇！世有邊耶？」\n\n佛告欝低迦：「此是無記。」\n\n欝低迦白佛：「云何？瞿曇！世無邊耶？有邊無邊耶？非有邊非無邊耶？」\n\n佛告欝低迦：「此是無記。」\n\n欝低迦白佛：「云何？瞿曇！世有邊耶？答言『無記。』世無邊耶？世有邊無邊耶？世非有邊非無邊耶？答言『無記。』瞿曇！於何等法而可記說？」\n\n佛告欝低迦：「知者，智者，我為諸弟子而記說道，令正盡苦，究竟苦邊。」\n\n欝低迦白佛：「云何？瞿曇！為諸弟子說道，令正盡苦，究竟苦邊？為一切世間從此道出，為少分耶？」\n\n爾時，世尊默然不答。\n\n第二、第三問，佛亦第二、第三默然不答。\n\n爾時，尊者阿難住於佛後，執扇扇佛。尊者阿難語欝低迦外道出家：「汝初已問此義，今復以異說而問，是故，世尊不為記說。欝低迦！今當為汝說譬，夫智者因譬得解。\n\n「譬如國王，有邊境城，四周堅固，巷陌平正，唯有一門。立守門者聰明黠慧，善能籌量，外有人來，應入者聽入，不應入者不聽。周匝遶城，求第二門，都不可得，都無猫狸出入之處，況第二門？彼守門者都不覺悟入者、出者，然彼士夫知一切人唯從此門若出若入，更無餘處。如是，世尊雖不用心覺悟眾生，一切世間從此道出，及以少分，然知眾生正盡苦，究竟苦邊者，一切皆悉從此道出。」\n\n時，欝低迦外道出家聞佛所說，歡喜隨喜，從坐起而去。",
+  "english_sa_text": "",
+  "parallels": [
+    {
+      "uid": "an10.95",
+      "acronym": "AN 10.95",
+      "root_lang": "pli",
+      "original_title": "Uttiyasutta",
+      "translated_title": "To Uttiya",
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "sa-2.199",
+      "acronym": "SA2 199",
+      "root_lang": "lzh",
+      "original_title": "優陟",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    }
+  ],
+  "primary_sn_uid": null,
+  "pali_text": "",
+  "english_sn_text": "",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa901-1000/sa965_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa901-1000/sa965_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛住王舍城迦兰陀竹园。\n时有外道出家名欝低迦，来诣佛所，问讯已，白佛言：「瞿昙！世有边耶？」佛言：「此是无记。」「世无边耶？亦有边亦无边耶？非有边非无边耶？」佛言：「皆是无记。」\n「于何等法而可记说？」「知者智者，我为诸弟子记说道，令正尽苦，究竟苦边。」\n「为一切世间从此道出，为少分耶？」世尊默然。再三问，亦再三默然。\n尊者阿难在后执扇，语欝低迦：「汝初问此义，今复以异辞重问，故世尊不记。当为汝说譬。譬如国王边境有城，四周坚固，巷陌平正，唯有一门；守门者聪明，应入者听入，不应入者不听。周匝求第二门，都不可得，乃至猫狸出入处亦无。守门者不必尽知一切出入之人，然知凡有出入，唯从此门。如是，世尊虽不一一检点众生，然知凡正尽苦、究竟苦边者，皆从此道出。」\n欝低迦闻已，欢喜随喜，从坐起而去。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在王舍城迦兰陀竹园。\n当时有外道出家人名叫欝低迦，来到佛处，问讯后对佛说：「瞿昙！世间有边吗？」佛说：「这是无记。」「世间无边吗？亦有边亦无边吗？非有边非无边吗？」佛说：「都是无记。」\n「那么对什么法可以记说？」「作为知者、智者，我为弟子们记说道路，使正确尽苦，究竟到达苦的尽头。」\n「是一切世间都从这条道出去，还是只有少分？」世尊沉默。问了三次，也三次沉默。\n尊者阿难在后面执扇，对欝低迦说：「你起初已问过这义，现在又换个说法重问，所以世尊不记说。我给你说个譬喻。好比国王边境有座城，四周坚固，街巷平正，只有一道门；守门人聪明，该进的让进，不该进的不让。绕城找第二道门，根本找不到，连猫狸出入的缝隙也没有。守门人不一定知道每一个进出的人，但知道凡是进出，都只从这道门。同样，世尊虽不一一检点众生，但知道凡是正确尽苦、到达苦边的，都从这条道出去。」\n欝低迦听完，欢喜随喜，从座起身离去。",
+  "notes": "本经 SC 平行表所列平行及 `raw_aligned_data.json` 内之巴利本文、Sujato 英译并用以厘定法义；求那跋陀罗汉本用于定位经文与传统术语。confidence=high：primary AN10.95；世界边无记；说尽苦道；一城一门喻——不答「一切／少分」而明唯此道出。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "high",
+  "prior_review_status": "needs_revision",
+  "similarity_to_source": 0.192,
+  "paragraph_parallel": true
+}

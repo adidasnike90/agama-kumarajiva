@@ -1,0 +1,32 @@
+{
+  "id": "SA_987",
+  "uid": "sa987",
+  "title": "雜阿含經  卷第四十  雜相應  （987）  二法",
+  "chinese_text": "如是我聞：\n\n一時，佛住舍衛國祇樹給孤獨園。\n\n爾時，世尊告諸比丘：「我於二法依止多住。云何為二？於諸善法未曾知足，於斷未曾遠離，於善法不知足故，於諸斷法未曾遠離故，乃至肌消肉盡，筋連骨立，終不捨離精勤方便，不捨善法，不得未得，終不休息，未曾於劣心生歡喜，常樂增進，昇上上道。如是精進住故，疾得阿耨多羅三藐三菩提等。比丘！當於二法依止多住，於諸善法不生足想；依於諸斷，未曾捨離，乃至肌消肉盡，筋連骨立，精勤方便，堪能修習善法不息。是故，比丘！於諸下劣，生歡喜想，當修上上昇進多住。如是修習不久，當得速盡諸漏，無漏心解脫、慧解脫，現法自知作證：『我生已盡，梵行已立，所作已作，自知不受後有。』」\n\n佛說此經已，諸比丘聞佛所說，歡喜奉行。",
+  "english_sa_text": "",
+  "parallels": [],
+  "primary_sn_uid": null,
+  "pali_text": "",
+  "english_sn_text": "",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa901-1000/sa987_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa901-1000/sa987_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛住舍卫国祇树给孤独园。\n佛告诸比丘：「我于二法依止多住：于诸善法不知足，于断法不远离。以不知足、不远离故，乃至肌消骨立，终不舍精勤；未得不得息，不喜劣心，常乐上进。如是精进，疾得无上正等觉。汝等亦当依此二法：不于善法生足想，于断不舍，精勤不息；勿喜下劣，当修上上。不久当尽诸漏，心慧解脱，现法作证：『我生已尽，梵行已立，所作已作，自知不受后有。』」\n佛说此经已，诸比丘闻佛所说，欢喜奉行。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在舍卫国祇树给孤独园。\n佛告诉比丘们：「我依止两种法而多安住：对各种善法不满足，对断除不善不远离。因为不满足、不远离，哪怕肌肉消尽、只剩筋骨，也不放弃精勤；还没得到的绝不休息，不以劣弱为喜，常乐向上。这样精进，很快得无上正等觉。你们也应当依止这两种法：不对善法生满足想，对断除不放弃，精勤不停；不要喜欢下劣，应当修习层层向上。不久就能尽诸漏，心解脱、慧解脱，现法作证：『我生已尽，梵行已立，所作已作，自知不受后有。』」\n佛说完这部经，比丘们听佛所说，都欢喜奉行。",
+  "notes": "SC 于本经未列可靠巴利平行，故唯以汉本为底，参同相应之巴利定型语厘义；依项目规约「无可靠平行时 confidence 降为 medium/low」。confidence=medium：无可靠巴利；汉『阿耨多罗三藐三菩提』作无上正等觉（早期用语）；不知足于善、不离于断。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "medium",
+  "prior_review_status": "needs_revision",
+  "similarity_to_source": 0.245,
+  "paragraph_parallel": true
+}

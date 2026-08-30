@@ -1,0 +1,83 @@
+{
+  "id": "SA_1193",
+  "uid": "sa1193",
+  "title": "雜阿含經  卷第五十  梵天相應  （1193）  瞿迦黎",
+  "chinese_text": "如是我聞：\n\n一時，佛住王舍城迦蘭陀竹園。時，有娑婆世界主梵天王，日日精勤，往詣佛所，尊重供養。\n\n時，娑婆世界主作是念：「今旦太早而來見佛，正值世尊入大三昧，我等且當入提婆達多伴黨瞿迦梨比丘房中。」作是念已，即入彼房，至房戶中，以指扣戶，口說是言：「瞿迦梨！瞿迦梨！於舍利弗、目連所起淨信心，汝莫長夜得不饒益苦！」\n\n瞿迦梨言：「汝是誰？」\n\n梵天答言：「娑婆世界主梵天王。」\n\n瞿迦梨言：「世尊不記汝得阿那含耶？」\n\n梵天王言：「如是，比丘！」\n\n瞿迦梨言：「汝何故來？」\n\n娑婆世界主梵天王答言：「此不可治。」即說偈言：\n\n「於無量處所，　　生心欲籌量；\n\n　何有黠慧者，　　而生此覺想？\n\n　無量而欲量，　　是陰蓋凡夫。」\n\n時，娑婆世界主梵天王往詣佛所，稽首禮足，退坐一面，白佛言：「世尊！我常日日勤到佛所，親覲供養，我作是念：『今旦太早來見世尊，正值世尊入大三昧，我且當入提婆達多伴黨瞿迦梨比丘房中。』即住戶中，徐徐扣戶，口說是言：『瞿迦梨！瞿迦梨！當於舍利弗、目揵連賢善智慧者所起淨信心，莫長夜得不饒益苦！』瞿迦梨言：『汝是誰？』我即答言：『是娑婆世界主梵天王。』瞿迦梨言：『世尊不記汝得阿那含耶？』我即答言：『如是。』瞿迦梨復言：『汝何故來？』我作是念：『此不可治。』即說偈言：\n\n「『於不可量處，　　發心欲籌量，\n\n　　不可量欲量，　　是陰蓋凡夫。』」\n\n佛語梵王：「如是，如是。梵王！\n\n「於不可量處，　　而發心欲量；\n\n　何有智慧人，　　而生此妄想？\n\n　不可量欲量，　　是陰蓋凡夫。」\n\n佛說此經已，娑婆世界主梵天王聞佛所說，歡喜隨喜，從座起，為佛作禮，即沒不現。",
+  "english_sa_text": "",
+  "parallels": [
+    {
+      "uid": "sa-3.5",
+      "acronym": "SA3 5",
+      "root_lang": "lzh",
+      "original_title": "瞿迦黎",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "sa-2.106",
+      "acronym": "SA2 106",
+      "root_lang": "lzh",
+      "original_title": "瞿迦黎",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "sn6.9",
+      "acronym": "SN 6.9",
+      "root_lang": "pli",
+      "original_title": "Turūbrahmasutta",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "sn6.8",
+      "acronym": "SN 6.8",
+      "root_lang": "pli",
+      "original_title": "Katamodakatissasutta",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "sn6.7",
+      "acronym": "SN 6.7",
+      "root_lang": "pli",
+      "original_title": "Kokālikasutta",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    }
+  ],
+  "primary_sn_uid": "sn6.7",
+  "pali_text": "Sāvatthinidānaṁ. Tena kho pana samayena bhagavā divāvihāragato hoti paṭisallīno. Atha kho subrahmā ca paccekabrahmā suddhāvāso ca paccekabrahmā yena bhagavā tenupasaṅkamiṁsu; upasaṅkamitvā paccekaṁ dvārabāhaṁ nissāya aṭṭhaṁsu. Atha kho subrahmā paccekabrahmā kokālikaṁ bhikkhuṁ ārabbha bhagavato santike imaṁ gāthaṁ abhāsi: “Appameyyaṁ paminanto, Kodha vidvā vikappaye; Appameyyaṁ pamāyinaṁ, Nivutaṁ taṁ maññe puthujjanan”ti.",
+  "english_sn_text": "At Sāvatthī. Now at that time the Buddha had gone into retreat for the day’s meditation. Then the independent divinities Subrahmā and Suddhāvāsa went to the Buddha and stationed themselves one by each door-post. Then Subrahmā spoke this verse about the mendicant Kokālika in the Buddha’s presence: “What wise person here would judge the immeasurable by measuring them? I think anyone who’d do such a thing is an ordinary person, shrouded.”",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa1101-1200/sa1193_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa1101-1200/sa1193_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛住王舍城迦兰陀竹园。\n时世尊昼日宴坐。有别梵天子梵、净居别梵，各依门柱而立。子梵即于佛前，就瞿迦梨比丘说偈：\n「欲以有量测无量，智者岂作此计量？量彼不可量者，我观彼是覆障凡夫。」\n（汉本广说：娑婆主梵天以世尊宴坐故，入提婆达多党瞿迦梨房，扣户告言：「于舍利弗、目连当起净信，莫长夜得不饶益。」瞿迦梨反诘梵天既得阿那含何故来；梵天谓「不可治」，说上偈已，往白世尊；佛印可之。）\n佛告梵天：「如是。于不可量处而欲筹量，是阴盖凡夫。」\n梵天闻已，欢喜随喜，作礼即没。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在王舍城迦兰陀竹园。\n那时佛白天在静坐。有独立梵天子梵和净居独立梵，各自靠着门柱站立。子梵就在佛前，针对瞿迦梨比丘说偈：\n「想用有限的尺度去量那不可量的，有智慧的人怎么会这样计量？去量那不可量者的人，我认为他是被障覆的凡夫。」\n（汉译本写得更细：娑婆世界主梵天因为世尊在静坐，便走进提婆达多一党瞿迦梨的房，敲门告诉他：「对舍利弗、目连应当起清净信心，不要长夜受苦。」瞿迦梨反问梵天既已证阿那含为什么还来；梵天觉得「不可救药」，说了上面的偈，再去禀告世尊；佛加以印可。）\n佛对梵天说：「正是这样。在不可量处却想去筹量，那是被盖障的凡夫。」\n梵天听完，欢喜随喜，作礼后隐没不见。",
+  "notes": "本经 SC 平行表所列平行及 `raw_aligned_data.json` 内之巴利本文、Sujato 英译并用以厘定法义；求那跋陀罗汉本用于定位经文与传统术语。confidence=high：primary SN6.7 Kokālikasutta（SC 亦列 SN6.8／6.9 相近）。据 SN 核心偈：不可量而欲量＝覆障凡夫；汉入房对话保留为平行叙事，义不违。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "high",
+  "prior_review_status": "needs_revision",
+  "similarity_to_source": 0.073,
+  "paragraph_parallel": true
+}

@@ -1,0 +1,53 @@
+{
+  "id": "SA_706",
+  "uid": "sa706",
+  "title": "雜阿含經  卷第二十八  覺支相應  （706）  蓋",
+  "chinese_text": "如是我聞：\n\n一時，佛住舍衛國祇樹給孤獨園。\n\n爾時，世尊告諸比丘：「有五法，能為黑闇，能為無目，能為無智，能羸智慧，非明、非等覺，不轉趣涅槃。何等為五？謂貪欲、瞋恚、睡眠、掉悔、疑。如此五法能為黑闇，能為無目，能為無智，非明、非正覺，不轉趣涅槃。\n\n「若有七覺支，能作大明，能為目，增長智慧，為明、為正覺，轉趣涅槃。何等為七？謂念覺支、擇法覺支、精進覺支、猗覺支、喜覺支、定覺支、捨覺支。為明、為目，增長智慧，為明、為正覺，轉趣涅槃。」\n\n佛說此經已，諸比丘聞佛所說，歡喜奉行。",
+  "english_sa_text": "",
+  "parallels": [
+    {
+      "uid": "sn46.40",
+      "acronym": "SN 46.40",
+      "root_lang": "pli",
+      "original_title": "Nīvaraṇasutta",
+      "translated_title": "Hindrances",
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "iti87",
+      "acronym": "Iti 87",
+      "root_lang": "pli",
+      "original_title": "Andhakaraṇasutta",
+      "translated_title": "Producing Blindness",
+      "type": "full",
+      "resembling": true,
+      "remark": null
+    }
+  ],
+  "primary_sn_uid": "sn46.40",
+  "pali_text": "“Pañcime, bhikkhave, nīvaraṇā andhakaraṇā acakkhukaraṇā aññāṇakaraṇā paññānirodhikā vighātapakkhiyā anibbānasaṁvattanikā. Katame pañca? Kāmacchandanīvaraṇaṁ, bhikkhave, andhakaraṇaṁ acakkhukaraṇaṁ aññāṇakaraṇaṁ paññānirodhikaṁ vighātapakkhiyaṁ anibbānasaṁvattanikaṁ. Byāpādanīvaraṇaṁ, bhikkhave …pe… thinamiddhanīvaraṇaṁ, bhikkhave …pe… uddhaccakukkuccanīvaraṇaṁ, bhikkhave …pe… vicikicchānīvaraṇaṁ, bhikkhave, andhakaraṇaṁ acakkhukaraṇaṁ aññāṇakaraṇaṁ paññānirodhikaṁ vighātapakkhiyaṁ anibbānasaṁvattanikaṁ. Ime kho, bhikkhave, pañca nīvaraṇā andhakaraṇā acakkhukaraṇā aññāṇakaraṇā paññānirodhikā vighātapakkhiyā anibbānasaṁvattanikā. Sattime, bhikkhave, bojjhaṅgā cakkhukaraṇā ñāṇakaraṇā paññābuddhiyā avighātapakkhiyā nibbānasaṁvattanikā. Katame satta? Satisambojjhaṅgo, bhikkhave, cakkhukaraṇo ñāṇakaraṇo paññābuddhiyo avighātapakkhiyo nibbānasaṁvattaniko …pe… upekkhāsambojjhaṅgo, bhikkhave, cakkhukaraṇo ñāṇakaraṇo paññābuddhiyo avighātapakkhiyo nibbānasaṁvattaniko. Ime kho, bhikkhave, satta bojjhaṅgā cakkhukaraṇā ñāṇakaraṇā paññābuddhiyā avighātapakkhiyā nibbānasaṁvattanikā”ti. Dasamaṁ. Nīvaraṇavaggo catuttho. Tassuddānaṁ Dve kusalā kilesā ca, Dve yoniso ca buddhi ca; Āvaraṇā nīvaraṇā rukkhaṁ, Nīvaraṇañca te dasāti.",
+  "english_sn_text": "“Mendicants, these five hindrances are destroyers of sight, vision, and knowledge. They block wisdom, they’re on the side of distress, and they don’t lead to extinguishment. What five? Sensual desire, ill will, dullness and drowsiness, restlessness and remorse, and doubt. These five hindrances are destroyers of sight, vision, and knowledge. They block wisdom, they’re on the side of distress, and they don’t lead to extinguishment. These seven awakening factors are creators of vision and knowledge. They grow wisdom, they’re on the side of solace, and they lead to extinguishment. What seven? The awakening factors of mindfulness, investigation of principles, energy, rapture, tranquility, immersion, and equanimity. These seven awakening factors are creators of vision and knowledge. They grow wisdom, they’re on the side of solace, and they lead to extinguishment.”",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa701-800/sa706_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa701-800/sa706_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛住舍卫国祇树给孤独园。\n佛告比丘：「有五法能为黑暗、能盲无目、能作无智、能羸智慧，非明、非等觉，不转趣涅槃——谓贪欲、瞋恚、睡眠、掉悔、疑。」\n「有七觉支能作大明、能为目、增长智慧，为明、为正觉，转趣涅槃——谓念觉支、择法觉支、精进觉支、喜觉支、猗觉支、定觉支、舍觉支。」\n佛说此经已，诸比丘闻佛所说，欢喜奉行。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在舍卫国祇树给孤独园。\n佛告比丘：「有五种法能造成黑暗、能使人盲目、能造成无智、能削弱智慧，不是明、不是等觉，不导向涅槃——就是贪欲、瞋恚、昏沉睡眠、掉举后悔、疑。」\n「有七觉支能造成大光明、能成为眼睛、增长智慧，是明、是正觉，导向涅槃——就是念觉支、择法觉支、精进觉支、喜觉支、猗觉支、定觉支、舍觉支。」\n佛说完这部经，比丘们听佛所说，都欢喜奉行。",
+  "notes": "本经 SC 平行表所列平行及 `raw_aligned_data.json` 内之巴利本文、Sujato 英译并用以厘定法义；求那跋陀罗汉本用于定位经文与传统术语。confidence=high：primary SN46.40 Nīvaraṇa（五盖黑暗／七觉明）。据 SN：盖→障慧、不趣涅槃；觉支→生明见、趣涅槃。压缩汉重复套语。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "high",
+  "prior_review_status": "needs_revision",
+  "similarity_to_source": 0.372,
+  "paragraph_parallel": true
+}

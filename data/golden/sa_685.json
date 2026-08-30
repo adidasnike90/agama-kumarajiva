@@ -1,0 +1,33 @@
+{
+  "id": "SA_685",
+  "uid": "sa685",
+  "title": "雜阿含經  卷第二十八  根力相應  （685）  乳母",
+  "chinese_text": "如是我聞：\n\n一時，佛住舍衛國祇樹給孤獨園。\n\n爾時，世尊告諸比丘：「譬如嬰兒，父母生已，付其乳母，隨時摩拭，隨時沐浴，隨時乳哺，隨時消息。若乳母不謹慎者，兒或以草、以土諸不淨物著其口中，乳母當即教令除去。能時除却者善，兒不能自却者，乳母當以左手持其頭，右手探其哽，嬰兒當時雖苦，乳母要當苦探其哽，為欲令其子長夜安樂故。」\n\n佛告諸比丘：「若嬰兒長大，有所識別，復持草、土諸不淨物著口中不？」\n\n比丘白佛：「不也，世尊！嬰兒長大，有所別知，尚不以脚觸諸不淨物，況著口中。」\n\n佛告比丘：「嬰兒小時，乳母隨時料理消息，及其長大，智慧成就，乳母放捨，不勤消息，以其長大不自放逸故。如是，比丘！若諸聲聞始學，智慧未足，如來以法隨時教授而消息之；若久學智慧深固，如來放捨，不復隨時慇懃教授，以其智慧成就不放逸故。是故，聲聞五種學力，如來成就十種智力……」如上廣說。\n\n佛說此經已，諸比丘聞佛所說，歡喜奉行。",
+  "english_sa_text": "",
+  "parallels": [],
+  "primary_sn_uid": null,
+  "pali_text": "",
+  "english_sn_text": "",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa601-700/sa685_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa601-700/sa685_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛住舍卫国祇树给孤独园。\n佛告比丘：「譬如婴儿，父母生已付乳母，随时摩拭、沐浴、乳哺、调护。若不慎，儿或以草土不净着物入口，乳母当即令除去；能自除者善，不能者，乳母左手持头、右手探哽——儿虽苦，乳母必苦探，欲令长夜安乐故。」\n「若儿长大有识别，复持不净着物入口否？」诸比丘白：「不也。长大尚不以足触，况入口。」\n「小时乳母勤护；长大智慧成，乳母放舍，以其不自放逸故。如是，始学声闻慧未足，如来以法随时教授；久学慧深固，如来放舍不复殷勤——以其智慧成就、不放逸故。」\n「是故声闻有五学力，如来成就十力——如上说。」\n佛说此经已，诸比丘闻佛所说，欢喜奉行。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在舍卫国祇树给孤独园。\n佛告比丘：「好比婴儿，父母生下后交给乳母，随时擦洗、沐浴、喂乳、调护。若不小心，孩子或许把草土等不净物放进嘴里，乳母应当立刻让他除去；能自己除掉就好，不能的话，乳母左手扶头、右手掏出口中哽住的东西——孩子当时虽苦，乳母仍要苦苦掏出，为的是让他长夜安乐。」\n「孩子长大有了分别，还会把不净物放进嘴里吗？」比丘们答：「不会。长大了连脚都不去碰，何况放进嘴里。」\n「小时乳母勤加护持；长大智慧成就，乳母就放手，因为他已不放逸。同样，初学声闻智慧不足时，如来用法随时教导；久学智慧深固，如来就放手不再殷勤督促——因为他智慧已成、自己不放逸。」\n「所以声闻有五种学力，如来成就十力——如同前面所说。」\n佛说完这部经，比丘们听佛所说，都欢喜奉行。",
+  "notes": "SC 于本经未列可靠巴利平行，故唯以汉本为底，参同相应之巴利定型语厘义；依项目规约「无可靠平行时 confidence 降为 medium/low」。confidence=medium：乳母譬喻学力／十力；SC 无专平行。gold_reconstructed：「如上广说」交叉指示 SA_684 十力与学力差别，不重录全表。",
+  "review_status": "gold_reconstructed",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "medium",
+  "prior_review_status": "needs_revision",
+  "reconstruction_basis": "十力／学力如上广说 → 交叉指示 SA_684，不重录",
+  "similarity_to_source": 0.179,
+  "paragraph_parallel": true
+}

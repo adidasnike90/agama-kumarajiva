@@ -1,0 +1,44 @@
+{
+  "id": "SA_436",
+  "uid": "sa436",
+  "title": "雜阿含經  卷第十七  界相應  （436）  殿堂",
+  "chinese_text": "如須達長者所問，有異比丘問，亦如是說，唯譬有差別：「如有四登階道，昇於殿堂，若有說言不登初階，而登第二、第三、第四階昇堂殿者，無有是處。所以者何？要由初階，然後次登第二、第三、第四階得昇殿堂。如是，比丘！於苦聖諦未無間等，而欲於苦集聖諦、苦滅聖諦、苦滅道跡聖諦無間等者，無有是處。\n\n「譬如，比丘！若有人言：『以四階道昇於殿堂，要由初階，然後次登第二、第三、第四階得昇殿堂，應作是說。』所以者何？要由初階，然後次登第二、第三、第四階昇於殿堂，有是處故。如是，比丘！若言於苦聖諦無間等已，然後次第於苦集聖諦、苦滅聖諦、苦滅道跡聖諦無間等者，應作是說。所以者何？若於苦聖諦無間等已，然後次第於苦集聖諦、苦滅聖諦、苦滅道跡聖諦無間等者，有是處故。」\n\n佛說此經已，諸比丘聞佛所說，歡喜奉行。",
+  "english_sa_text": "",
+  "parallels": [
+    {
+      "uid": "sn56.44",
+      "acronym": "SN 56.44",
+      "root_lang": "pli",
+      "original_title": "Kūṭāgārasutta",
+      "translated_title": "Peaked House",
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    }
+  ],
+  "primary_sn_uid": "sn56.44",
+  "pali_text": "“Yo hi, bhikkhave, evaṁ vadeyya: ‘ahaṁ dukkhaṁ ariyasaccaṁ yathābhūtaṁ anabhisamecca …pe… dukkhanirodhagāminiṁ paṭipadaṁ ariyasaccaṁ yathābhūtaṁ anabhisamecca sammā dukkhassantaṁ karissāmī’ti— netaṁ ṭhānaṁ vijjati. Seyyathāpi, bhikkhave, yo evaṁ vadeyya: ‘ahaṁ kūṭāgārassa heṭṭhimaṁ gharaṁ akaritvā uparimaṁ gharaṁ āropessāmī’ti— netaṁ ṭhānaṁ vijjati; evameva kho, bhikkhave, yo evaṁ vadeyya: ‘ahaṁ dukkhaṁ ariyasaccaṁ yathābhūtaṁ anabhisamecca …pe… dukkhanirodhagāminiṁ paṭipadaṁ ariyasaccaṁ yathābhūtaṁ anabhisamecca sammā dukkhassantaṁ karissāmī’ti— netaṁ ṭhānaṁ vijjati. Yo ca kho, bhikkhave, evaṁ vadeyya: ‘ahaṁ dukkhaṁ ariyasaccaṁ yathābhūtaṁ abhisamecca …pe… dukkhanirodhagāminiṁ paṭipadaṁ ariyasaccaṁ yathābhūtaṁ abhisamecca sammā dukkhassantaṁ karissāmī’ti— ṭhānametaṁ vijjati. Seyyathāpi, bhikkhave, yo evaṁ vadeyya: ‘ahaṁ kūṭāgārassa heṭṭhimaṁ gharaṁ karitvā uparimaṁ gharaṁ āropessāmī’ti— ṭhānametaṁ vijjati; evameva kho, bhikkhave, yo evaṁ vadeyya: ‘ahaṁ dukkhaṁ ariyasaccaṁ yathābhūtaṁ abhisamecca …pe… dukkhanirodhagāminiṁ paṭipadaṁ ariyasaccaṁ yathābhūtaṁ abhisamecca sammā dukkhassantaṁ karissāmī’ti— ṭhānametaṁ vijjati. Tasmātiha, bhikkhave, ‘idaṁ dukkhan’ti yogo karaṇīyo …pe… ‘ayaṁ dukkhanirodhagāminī paṭipadā’ti yogo karaṇīyo”ti. Catutthaṁ.",
+  "english_sn_text": "“Mendicants, suppose someone were to say: ‘Without truly comprehending the noble truths of suffering, its origin, its cessation, and the path, I will completely make an end of suffering.’ That is not possible. It’s as if someone were to say: ‘Before the lower story of a bungalow is built, I will hoist up the upper story.’ That is not possible. In the same way, suppose someone were to say: ‘Without truly comprehending the noble truths of suffering, its origin, its cessation, and the path, I will completely make an end of suffering.’ That is not possible. But suppose someone were to say: ‘After truly comprehending the noble truths of suffering, its origin, its cessation, and the path, I will completely make an end of suffering.’ That is possible. It’s as if someone were to say: ‘After the lower story of a bungalow is built, I will hoist up the upper story.’ That is possible. In the same way, suppose someone were to say: ‘After truly comprehending the noble truths of suffering, its origin, its cessation, and the path, I will completely make an end of suffering.’ That is possible. That’s why you should practice meditation …”",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa401-500/sa436_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa401-500/sa436_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛在舍卫国祇树给孤独园。\n时有异比丘问四圣谛无间等，佛亦如须达多长者所答而说，唯譬有别。\n佛告比丘：「譬如四阶之道升于殿堂。若言不登初阶，而登第二、第三、第四阶升堂——无有是处；要由初阶，然后次登余阶，乃得升堂。如是于苦圣谛未无间等，而欲于苦集、苦灭、苦灭道迹圣谛无间等——无有是处。若于苦圣谛无间等已，次第于余三谛无间等——斯有是处。是故当于四圣谛勤修无间等。」\n佛说此经已，诸比丘闻佛所说，欢喜奉行。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在舍卫国祇树给孤独园。\n当时有一位比丘请问四圣谛的无间等，佛也像回答须达多长者那样讲说，只是比喻不同。\n佛告诉比丘：「好比有四层台阶通向殿堂。如果有人说不登第一阶，却登第二、第三、第四阶上堂——没有这回事；必须先登第一阶，再依次登其余阶，才能上到殿堂。同样，对苦圣谛还没有无间等，却想对苦集、苦灭、苦灭道迹圣谛无间等——没有这回事。如果对苦圣谛已经无间等，再依次对其余三谛无间等——这是有的。所以应当对四圣谛勤修无间等。」\n佛说完这部经，比丘们听佛所说，都欢喜奉行。",
+  "notes": "本经 SC 平行表所列平行及 `raw_aligned_data.json` 内之巴利本文、Sujato 英译并用以厘定法义；求那跋陀罗汉本用于定位经文与传统术语。底本『如须达长者所问，有异比丘问，亦如是说，唯譬有差别』为交叉指示；依 SA_435／SN56.44 重建。SN 以楼阁下层未建不可架上层为喻；汉本四阶升堂义同『须次第』，保留汉喻。confidence=high（平行可靠；文面重建）。",
+  "review_status": "gold_reconstructed",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "high",
+  "prior_review_status": "needs_revision",
+  "reconstruction_basis": "底本『如须达长者所问，有异比丘问，亦如是说，唯譬有差别』为交叉指示；依 SA_435／SN56.44 四阶升堂＋渐次无间等框重建",
+  "similarity_to_source": 0.153,
+  "paragraph_parallel": true
+}

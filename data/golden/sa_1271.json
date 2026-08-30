@@ -1,0 +1,45 @@
+{
+  "id": "SA_1271",
+  "uid": "sa1271",
+  "title": "雜阿含經  卷第五十  雜相應  （1271）  四句法經",
+  "chinese_text": "如是我聞：\n\n一時，佛住王舍城山谷精舍。\n\n爾時，尊者阿難告諸比丘：「我今當說四句法經。諦聽，善思，當為汝說何等為四句法經。」\n\n爾時，尊者阿難即說偈言：\n\n「其心不為惡，　　及身口世間，\n\n　五欲悉虛空，　　正智正繫念。\n\n　不習近眾苦，　　非義和合者。\n\n「諸比丘！是名四句法經。」\n\n爾時，有一異婆羅門，去尊者阿難不遠，為諸年少婆羅門受誦經。時，彼婆羅門作是念：「若沙門阿難所說偈，於我所說經，便是非人所說。」\n\n時，彼婆羅門即往詣佛所，與世尊面相問訊慰勞已，退坐一面，白佛言：「瞿曇！沙門阿難所說偈言：\n\n「其心不為惡，　　及身口世間，\n\n　五欲悉虛空，　　正智正繫念。\n\n　不習近眾苦，　　非義和合者。\n\n「如是等所說，則是非人語，非為人語。」\n\n佛告婆羅門：「如是，如是，婆羅門！是非人語，非為人語也。時，有拘迦尼天女來詣我所，稽首我足，退坐一面而說偈言：\n\n「其心不為惡，　　及身口世間，\n\n　五欲悉虛空，　　正智正繫念。\n\n　不習近眾苦，　　非義和合者。」\n\n「我時答言：『如是，如是，如天女所言：\n\n「『「其心不為惡，　　及身口世間，\n\n　　　五欲悉虛空，　　正智正繫念。\n\n　　　不習近眾苦，　　非義和合者。」』\n\n「是故，婆羅門！當知此所說偈，是非人所說，非是人所說也。」\n\n佛說此經已，彼婆羅門聞佛所說，歡喜隨喜，禮佛足而去。",
+  "english_sa_text": "",
+  "parallels": [
+    {
+      "uid": "sa-2.270",
+      "acronym": "SA2 270",
+      "root_lang": "lzh",
+      "original_title": "四句法經",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    }
+  ],
+  "primary_sn_uid": null,
+  "pali_text": "",
+  "english_sn_text": "",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa1201-1300/sa1271_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa1201-1300/sa1271_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛住王舍城山谷精舍。\n尊者阿难告诸比丘：「我当说四句法。谛听，善思。」即说偈：「于一切世间，身口意莫作恶；舍诸欲，正念正知，勿习近无益之苦。」「比丘！是名四句法。」\n时有异婆罗门在侧为年少受诵，作念：「阿难此偈，于我所诵，乃是非人语。」即诣佛所，问讯已白言：「瞿昙！阿难所说，是非人语，非人说。」\n佛言：「如是，婆罗门！此是非人语。昔有拘迦尼天女来诣我所，礼足说此偈；我亦印可：『于一切世间，身口意莫作恶；舍诸欲，正念正知，勿习近无益之苦。』是故当知：此偈非人所说，非人所说。」\n彼婆罗门闻佛所说，欢喜随喜，礼足而去。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在王舍城山谷精舍。\n尊者阿难对比丘们说：「我要说四句法。仔细听，好好想。」便说偈：「在一切世间，身、口、意都不要作恶；舍离诸欲，保持正念正知，不要习近那无益的苦。」「比丘们！这叫做四句法。」\n当时有位婆罗门在旁边教少年诵经，心想：「阿难这偈，对照我教的经，竟是非人说的话。」便到佛前，问讯后说：「瞿昙！阿难所说，是非人的话，不是人说的。」\n佛说：「是的，婆罗门！这是非人说的。从前拘迦尼天女来到我这里，顶礼后说了这偈；我也印可：『在一切世间，身、口、意都不要作恶；舍离诸欲，保持正念正知，不要习近那无益的苦。』所以应当知道：这偈是非人说的，不是人说的。」\n那位婆罗门听佛所说，欢喜随喜，顶礼佛足后离去。",
+  "notes": "SC 于本经未列可靠巴利平行，故唯以汉本为底，参同相应之巴利定型语厘义；依项目规约「无可靠平行时 confidence 降为 medium/low」。confidence=medium：无 SC 专经；偈与 SN1.39–40 Kokanadā／Pajjunna 女所说同轨（身口意不作恶、舍欲正念、不习无益苦）。汉「其心不为恶／五欲悉虚空」据 SN 作身口意莫作恶、舍诸欲。「非人语」＝非人（天）所说，非「鬼话」义。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "warn",
+    "issues": [],
+    "warnings": [
+      "mark_not_in_output:空"
+    ],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "medium",
+  "prior_review_status": "needs_revision",
+  "similarity_to_source": 0.131,
+  "paragraph_parallel": true
+}

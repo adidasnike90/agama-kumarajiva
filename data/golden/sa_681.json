@@ -1,0 +1,43 @@
+{
+  "id": "SA_681",
+  "uid": "sa681",
+  "title": "雜阿含經  卷第二十八  根力相應  （681）  白法",
+  "chinese_text": "如是我聞：\n\n一時，佛住舍衛國祇樹給孤獨園。\n\n爾時，世尊告諸比丘：「若比丘於善法若變、若退、若不久住者，他人當以五種白法來呵責汝。何等為五？言汝不以信入於善法，若依信者，能離不善法，修諸善法。汝無精進、無慚、無愧、無慧入於善法故。若依慧者，能離諸不善法，修諸善法。\n\n「若比丘於正法不變、不退、久住者，他人當以五種白法來慶慰汝。何等為五？正信入於善法，若依信者，離不善法，修諸善法，精進、慚、愧、慧入於善法，若依慧者，離不善法，修諸善法。」\n\n佛說此經已，諸比丘聞佛所說，歡喜奉行。",
+  "english_sa_text": "",
+  "parallels": [
+    {
+      "uid": "an5.5",
+      "acronym": "AN 5.5",
+      "root_lang": "pli",
+      "original_title": "Sikkhāsutta",
+      "translated_title": "Training",
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    }
+  ],
+  "primary_sn_uid": null,
+  "pali_text": "",
+  "english_sn_text": "",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa601-700/sa681_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa601-700/sa681_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛住舍卫国祇树给孤独园。\n佛告比丘：「若比丘于善法变易、退失、不久住，他人当以五白法呵责：汝不以信入于善法——依信则能离不善、修诸善；亦无精进、无惭、无愧、无慧入于善法——依慧则能离不善、修诸善。」\n「若于正法不变、不退、久住，他人当以五白法庆慰：正信入于善法，依信离不善、修诸善；精进、惭、愧、慧入于善法，依慧离不善、修诸善。」\n佛说此经已，诸比丘闻佛所说，欢喜奉行。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在舍卫国祇树给孤独园。\n佛告比丘：「如果比丘在善法上变易、退失、不能久住，别人会用五种白法来责备：你不是靠信进入善法——靠信就能离不善、修诸善；也没有精进、惭、愧、慧进入善法——靠慧就能离不善、修诸善。」\n「如果在正法上不变、不退、能久住，别人会用五种白法来庆贺安慰：正信进入善法，靠信离不善、修诸善；精进、惭、愧、慧进入善法，靠慧离不善、修诸善。」\n佛说完这部经，比丘们听佛所说，都欢喜奉行。",
+  "notes": "本经 SC 平行表所列平行及 `raw_aligned_data.json` 内之巴利本文、Sujato 英译并用以厘定法义；求那跋陀罗汉本用于定位经文与传统术语。confidence=high：primary AN5.5 Sikkhā 系（白法呵责／庆慰）；本经主题为善法退失与久住，五支同 sekhabala。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "high",
+  "prior_review_status": "needs_revision",
+  "similarity_to_source": 0.298,
+  "paragraph_parallel": true
+}

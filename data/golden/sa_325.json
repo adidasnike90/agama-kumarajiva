@@ -1,0 +1,87 @@
+{
+  "id": "SA_325",
+  "uid": "sa325",
+  "title": "雜阿含經  卷第十三  因緣相應  （325）  六識身",
+  "chinese_text": "如是我聞：\n\n一時，佛住舍衛國祇樹給孤獨園。\n\n爾時，世尊告諸比丘：「有六識身。云何為六？謂眼識身、耳識身、鼻識身、舌識身、身識身、意識身，是名六識身。」\n\n佛說此經已，諸比丘聞佛所說，歡喜奉行。",
+  "english_sa_text": "",
+  "parallels": [
+    {
+      "uid": "mn148",
+      "acronym": "MN 148",
+      "root_lang": "pli",
+      "original_title": "Chachakkasutta",
+      "translated_title": "The Six Sets of Six",
+      "type": "full",
+      "resembling": true,
+      "remark": null
+    },
+    {
+      "uid": "sa304",
+      "acronym": "SA 304",
+      "root_lang": "lzh",
+      "original_title": "六六",
+      "translated_title": null,
+      "type": "full",
+      "resembling": true,
+      "remark": null
+    },
+    {
+      "uid": "sht-sutta71",
+      "acronym": "SHT Sutta 71",
+      "root_lang": "san",
+      "original_title": "",
+      "translated_title": null,
+      "type": "full",
+      "resembling": true,
+      "remark": null
+    },
+    {
+      "uid": "sn35.60",
+      "acronym": "SN 35.60",
+      "root_lang": "pli",
+      "original_title": "Sabbupādānapariññāsutta",
+      "translated_title": "The Full Understanding of All Clinging",
+      "type": "full",
+      "resembling": true,
+      "remark": null
+    },
+    {
+      "uid": "up3.059",
+      "acronym": "Up 3.059",
+      "root_lang": "xct",
+      "original_title": "",
+      "translated_title": null,
+      "type": "full",
+      "resembling": true,
+      "remark": null
+    }
+  ],
+  "primary_sn_uid": "sn35.60",
+  "pali_text": "“Sabbupādānapariññāya vo, bhikkhave, dhammaṁ desessāmi. Taṁ suṇātha. Katamo ca, bhikkhave, sabbupādānapariññāya dhammo? Cakkhuñca paṭicca rūpe ca uppajjati cakkhuviññāṇaṁ. Tiṇṇaṁ saṅgati phasso. Phassapaccayā vedanā. Evaṁ passaṁ, bhikkhave, sutavā ariyasāvako cakkhusmimpi nibbindati, rūpesupi nibbindati, cakkhuviññāṇepi nibbindati, cakkhusamphassepi nibbindati, vedanāyapi nibbindati. Nibbindaṁ virajjati; virāgā vimuccati; vimokkhā ‘pariññātaṁ me upādānan’ti pajānāti. Sotañca paṭicca sadde ca uppajjati … ghānañca paṭicca gandhe ca … jivhañca paṭicca rase ca … kāyañca paṭicca phoṭṭhabbe ca … manañca paṭicca dhamme ca uppajjati manoviññāṇaṁ. Tiṇṇaṁ saṅgati phasso. Phassapaccayā vedanā. Evaṁ passaṁ, bhikkhave, sutavā ariyasāvako manasmimpi nibbindati, dhammesupi nibbindati, manoviññāṇepi nibbindati, manosamphassepi nibbindati, vedanāyapi nibbindati. Nibbindaṁ virajjati; virāgā vimuccati; vimokkhā ‘pariññātaṁ me upādānan’ti pajānāti. Ayaṁ kho, bhikkhave, sabbupādānapariññāya dhammo”ti. Aṭṭhamaṁ.",
+  "english_sn_text": "“Mendicants, I will teach you the principle for the complete understanding of all grasping. Listen … And what is the principle for the complete understanding of all grasping? Eye consciousness arises dependent on the eye and sights. The meeting of the three is contact. Contact is a requirement for feeling. Seeing this, a learned noble disciple grows disillusioned with the eye, sights, eye consciousness, eye contact, and feeling. Being disillusioned, desire fades away. When desire fades away they’re freed. When they are liberated, they understand: ‘I have completely understood grasping.’ Ear consciousness arises dependent on the ear and sounds. … Nose consciousness arises dependent on the nose and smells. … Tongue consciousness arises dependent on the tongue and tastes. … Body consciousness arises dependent on the body and touches. … Mind consciousness arises dependent on the mind and ideas. The meeting of the three is contact. Contact is a requirement for feeling. Seeing this, a learned noble disciple grows disillusioned with the mind, ideas, mind consciousness, mind contact, and feeling. Being disillusioned, desire fades away. When desire fades away they’re freed. When they are liberated, they understand: ‘I have completely understood grasping.’ This is the principle for the complete understanding of all grasping.”",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa301-400/sa325_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa301-400/sa325_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛在舍卫国祇树给孤独园。\n尔时，世尊告诸比丘：「识身有六：眼识、耳识、鼻识、舌识、身识、意识——是名六识身。」\n佛说此经已，诸比丘闻佛所说，欢喜奉行。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在舍卫国祇树给孤独园。\n那时，世尊告诉比丘们：「识身有六种：眼识、耳识、鼻识、舌识、身识、意识——这叫做六识身。」\n佛说完这部经，比丘们听佛所说，都欢喜奉行。",
+  "notes": "本经 SC 平行表所列平行及 `raw_aligned_data.json` 内之巴利本文、Sujato 英译并用以厘定法义；求那跋陀罗汉本用于定位经文与传统术语。同 SA_323：SC resembling SN35.60，汉本仅列六识身。confidence=medium。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "medium",
+  "prior_review_status": "needs_revision",
+  "similarity_to_source": 0.395,
+  "paragraph_parallel": true,
+  "quality_gate_reasons": [
+    "sim_lit=0.618>=0.5",
+    "lit_mod_gap=0.356>=0.1"
+  ]
+}

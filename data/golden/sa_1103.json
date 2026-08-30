@@ -1,0 +1,43 @@
+{
+  "id": "SA_1103",
+  "uid": "sa1103",
+  "title": "雜阿含經  卷第四十七  魔相應  （1103）  入處",
+  "chinese_text": "如是我聞：\n\n一時，佛住王舍城多眾踐蹈曠野中，與六百比丘眾俱，為諸比丘說六觸入處集、六觸集、六觸滅。\n\n時，魔波旬作是念：「今沙門瞿曇住王舍城多眾踐蹈曠野，為六百比丘說六觸入處是集法、是滅法，我今當往，為作留難。」化作壯士，大身勇盛，力能動地，來詣佛所。\n\n彼諸比丘遙見壯士，身大勇盛，見生怖畏，身毛皆竪，共相謂言：「彼為何等，形狀可畏？」\n\n爾時，世尊告諸比丘：「此是惡魔，欲作嬈亂。」\n\n爾時，世尊即說偈言：\n\n「色聲香味觸，　　及第六諸法，\n\n　愛念適可意，　　世間唯有此。\n\n　此是最惡貪，　　能繫著凡夫，\n\n　超越斯等者，　　是佛聖弟子。\n\n　度於魔境界，　　如日無雲翳。」\n\n時，魔波旬作是念：「沙門瞿曇已知我心。」內懷憂慼，即沒不現。",
+  "english_sa_text": "",
+  "parallels": [
+    {
+      "uid": "sn4.17",
+      "acronym": "SN 4.17",
+      "root_lang": "pli",
+      "original_title": "Chaphassāyatanasutta",
+      "translated_title": "Six Bases for Contact",
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    }
+  ],
+  "primary_sn_uid": "sn4.17",
+  "pali_text": "Ekaṁ samayaṁ bhagavā vesāliyaṁ viharati mahāvane kūṭāgārasālāyaṁ. Tena kho pana samayena bhagavā channaṁ phassāyatanānaṁ upādāya bhikkhūnaṁ dhammiyā kathāya sandasseti samādapeti samuttejeti sampahaṁseti. Te ca bhikkhū aṭṭhiṁ katvā manasi katvā sabbacetasā samannāharitvā ohitasotā dhammaṁ suṇanti. Atha kho mārassa pāpimato etadahosi: “ayaṁ kho samaṇo gotamo channaṁ phassāyatanānaṁ upādāya bhikkhūnaṁ dhammiyā kathāya sandasseti samādapeti samuttejeti sappahaṁseti. Te ca bhikkhū aṭṭhiṁ katvā manasi katvā sabbacetasā samannāharitvā ohitasotā dhammaṁ suṇanti. Yannūnāhaṁ yena samaṇo gotamo tenupasaṅkameyyaṁ vicakkhukammāyā”ti. Atha kho māro pāpimā yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavato avidūre mahantaṁ bhayabheravaṁ saddamakāsi, apissudaṁ pathavī maññe undrīyati. Atha kho aññataro bhikkhu aññataraṁ bhikkhuṁ etadavoca: “bhikkhu bhikkhu, esā pathavī maññe undrīyatī”ti. Evaṁ vutte, bhagavā taṁ bhikkhuṁ etadavoca: “nesā, bhikkhu, pathavī undrīyati. Māro eso pāpimā tumhākaṁ vicakkhukammāya āgato”ti. Atha kho bhagavā “māro ayaṁ pāpimā” iti viditvā māraṁ pāpimantaṁ gāthāya ajjhabhāsi: “Rūpā saddā rasā gandhā, phassā dhammā ca kevalā; Etaṁ lokāmisaṁ ghoraṁ, ettha loko vimucchito. Etañca samatikkamma, sato buddhassa sāvako; Māradheyyaṁ atikkamma, ādiccova virocatī”ti. Atha kho māro pāpimā …pe… tatthevantaradhāyīti.",
+  "english_sn_text": "At one time the Buddha was staying near Vesālī, at the Great Wood, in the hall with the peaked roof. Now at that time the Buddha was educating, encouraging, firing up, and inspiring the mendicants with a Dhamma talk on the topic of the six fields of contact. And those mendicants were paying attention, applying the mind, concentrating wholeheartedly, and actively listening. Then Māra thought, “This ascetic Gotama is educating, encouraging, firing up, and inspiring the mendicants with a Dhamma talk on the topic of the six fields of contact. And those mendicants are paying attention, applying the mind, concentrating wholeheartedly, and actively listening. Why don’t I go and pull the wool over their eyes?” Then Māra the Wicked went up to the Buddha and made a terrifyingly loud noise close by him. It seemed as if the earth were shattering, so that one of the mendicants said to another, “Mendicant, mendicant, it seems like the earth is shattering!” When this was said, the Buddha said to that mendicant, “Mendicant, that’s not the earth shattering. That’s Māra the Wicked come to pull the wool over your eyes!” Then the Buddha, knowing that this was Māra the Wicked, addressed him in verse: “Sights, sounds, tastes, smells, touches, and ideas, the lot of them— this is the terrible bait that the world’s infatuated by. But a mindful disciple of the Buddha has transcended all that. Having slipped free of Māra’s dominion, they dazzle like the sun.” Then Māra … vanished right there.",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa1101-1200/sa1103_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa1101-1200/sa1103_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛住王舍城多众践蹈旷野中。与六百比丘俱，说六触入处集、灭。\n魔化大身怖人，比丘毛竖。佛言：「此是恶魔。」说偈：「色声香味触，及法为第六；世间所贪著，是为最恶饵。佛弟子正念，超越此一切；已出魔境界，如日无云翳。」\n时魔波旬作是念：「沙门已知我心。」内怀忧慼，即没不现。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在王舍城多众践蹈的旷野中。与六百比丘在一起，讲六触入处的集起与灭尽。\n魔化作高大可怕的身形，比丘们汗毛直竖。佛说：「这是恶魔。」说偈：「色声香味触，以及第六的法；世间所贪着的，就是最坏的诱饵。佛的弟子保持正念，超越这一切；已经离开魔的境界，像太阳没有云翳。」\n那时魔波旬心里想：「沙门已经知道我的心。」内心忧恼，随即隐没不见。",
+  "notes": "本经 SC 平行表所列平行及 `raw_aligned_data.json` 内之巴利本文、Sujato 英译并用以厘定法义；求那跋陀罗汉本用于定位经文与传统术语。confidence=high：SN4.17；六境为饵、正念弟子出魔界，据巴利。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "high",
+  "prior_review_status": "needs_revision",
+  "similarity_to_source": 0.103,
+  "paragraph_parallel": true
+}

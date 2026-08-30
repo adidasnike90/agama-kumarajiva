@@ -1,0 +1,33 @@
+{
+  "id": "SA_745",
+  "uid": "sa745",
+  "title": "雜阿含經  卷第二十九  覺支相應  （745）  滅",
+  "chinese_text": "如是我聞：\n\n一時，佛住舍衛國祇樹給孤獨園。\n\n爾時，世尊告諸比丘：「若比丘修空入處，多修習已，得大果大福利。云何比丘修空入處，多修習已，得大果大福利？是比丘心與空入處俱，修念覺分，依遠離、依無欲、依滅、向於捨；乃至修捨覺分，依遠離、依無欲、依滅、向於捨。」\n\n佛說此經已，諸比丘聞佛所說，歡喜奉行。\n\n如修空入處，如是識入處、無所有入處、非想非非想入處三經，亦如上說。",
+  "english_sa_text": "",
+  "parallels": [],
+  "primary_sn_uid": null,
+  "pali_text": "",
+  "english_sn_text": "",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa701-800/sa745_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa701-800/sa745_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛住舍卫国祇树给孤独园。\n佛告比丘：「当修空无边处，多修习已，得大果大福利。」\n「云何修习？心与空无边处俱，修念觉支，依远离、依离欲、依灭、向于舍；择法、精进、喜、轻安、定、舍觉支，亦依远离、依离欲、依灭、向于舍。」\n佛说此经已，诸比丘闻佛所说，欢喜奉行。\n如空无边处，识无边处、无所有处、非想非非想处——三经亦如上说。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在舍卫国祇树给孤独园。\n佛告诉比丘：「应当修空无边处，多多修习，能得大果大福利。」\n「怎样修习？心与空无边处一起，修念觉支，依于远离、依于离欲、依于灭、而趋向舍；择法、精进、喜、轻安、定、舍觉支，也依于远离、依于离欲、依于灭、而趋向舍。」\n佛说完这部经，比丘们听佛所说，都欢喜奉行。\n像空无边处这样，识无边处、无所有处、非想非非想处——三部经也如同上面所说。",
+  "notes": "SC 于本经未列可靠巴利平行，故唯以汉本为底，参同相应之巴利定型语厘义；依项目规约「无可靠平行时 confidence 降为 medium/low」。confidence=medium：题作「灭」，正文为空等至与觉支俱修；参 SN46 想品定型（saññā／āyatana＋bojjhaṅga）。gold_reconstructed：汉「入处」统一为「处」；peyyāla 三经注记保留。",
+  "review_status": "gold_reconstructed",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "medium",
+  "prior_review_status": "needs_revision",
+  "reconstruction_basis": "空等至＋peyyāla 三处注记；无专平行",
+  "similarity_to_source": 0.305,
+  "paragraph_parallel": true
+}

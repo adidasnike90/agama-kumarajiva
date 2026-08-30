@@ -1,0 +1,54 @@
+{
+  "id": "SA_1006",
+  "uid": "sa1006",
+  "title": "雜阿含經  卷第四十一  諸天相應  （1006）  所愛無過子",
+  "chinese_text": "如是我聞：\n\n一時，佛住舍衛國祇樹給孤獨園。\n\n時，有天子容色絕妙，來詣佛所，稽首佛足，身諸光明遍照祇樹給孤獨園。\n\n時，彼天子而說偈言：\n\n「所愛無過子，　　財無貴於牛，\n\n　光明無過日，　　薩羅無過海。」\n\n爾時，世尊說偈答言：\n\n「愛無過於己，　　財無過於穀，\n\n　光明無過慧，　　薩羅無過見。」\n\n時，彼天子復說偈言：\n\n「久見婆羅門，　　逮得般涅槃，\n\n　一切怖已過，　　永超世恩愛。」\n\n時，彼天子聞佛所說，歡喜隨喜，稽首佛足，即沒不現。",
+  "english_sa_text": "",
+  "parallels": [
+    {
+      "uid": "sa-2.232",
+      "acronym": "SA2 232",
+      "root_lang": "lzh",
+      "original_title": "所愛無過子",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "sn1.13",
+      "acronym": "SN 1.13",
+      "root_lang": "pli",
+      "original_title": "Natthiputtasamasutta",
+      "translated_title": "None Equal to That for a Son",
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    }
+  ],
+  "primary_sn_uid": "sn1.13",
+  "pali_text": "Sāvatthinidānaṁ. Ekamantaṁ ṭhitā kho sā devatā bhagavato santike imaṁ gāthaṁ abhāsi: “Natthi puttasamaṁ pemaṁ, natthi gosamitaṁ dhanaṁ; Natthi sūriyasamā ābhā, samuddaparamā sarā”ti. “Natthi attasamaṁ pemaṁ, natthi dhaññasamaṁ dhanaṁ; Natthi paññāsamā ābhā, vuṭṭhi ve paramā sarā”ti.",
+  "english_sn_text": "At Sāvatthī. Standing to one side, that deity spoke this verse in the Buddha’s presence: “There’s no fondness like that for a child, no wealth equal to cattle, no light like that of the sun, and of streams the ocean is paramount.” “There’s no fondness like that for oneself, no wealth equal to grain, no light like that of wisdom, and of streams the rain is paramount.”",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa1001-1100/sa1006_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa1001-1100/sa1006_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛住舍卫国祇树给孤独园。\n后夜分，有天子来诣佛所，容色绝妙，稽首礼足，退坐一面；身诸光明遍照祇园。\n天子说偈问：「所爱无过子，财无贵于牛，光明无过日，水流无过海。」\n世尊说偈答：「爱无过于己，财无过于谷，光明无过慧，水流无过雨。」\n天子说偈：「久见婆罗门，逮得般涅槃，一切怖已过，永超世恩爱。」闻已欢喜，礼足即没。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在舍卫国祇树给孤独园。\n后夜分，有一位天子，容色绝妙，来到佛前，顶礼佛足，退坐一面；身上的光明遍照祇树给孤独园。\n天子说偈问：「爱著没有超过子女的，财富没有贵过牛的，光明没有超过太阳的，水流没有超过海的。」\n世尊说偈答：「爱著没有超过自己的，财富没有超过谷物的，光明没有超过智慧的，水流没有超过雨的。」\n天子又说偈：「久见婆罗门，逮得般涅槃，一切怖已过，永超世恩爱。」听完欢喜随喜，顶礼佛足，随即隐没不见。",
+  "notes": "本经 SC 平行表所列平行及 `raw_aligned_data.json` 内之巴利本文、Sujato 英译并用以厘定法义；求那跋陀罗汉本用于定位经文与传统术语。confidence=high：primary SN1.13 Natthiputtasama。据 SN 校正答偈：己／谷／慧／雨（vuṭṭhi）；汉「见」误，从巴利。",
+  "review_status": "gold_reconstructed",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "high",
+  "prior_review_status": "needs_revision",
+  "reconstruction_basis": "汉答「见」；据 SN1.13 校正为雨（vuṭṭhi）。",
+  "similarity_to_source": 0.215,
+  "paragraph_parallel": true
+}

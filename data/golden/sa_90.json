@@ -1,0 +1,61 @@
+{
+  "id": "SA_90",
+  "uid": "sa90",
+  "title": "雜阿含經  卷第四  陰相應  （九〇）  優波迦",
+  "chinese_text": "如是我聞：\n\n一時，佛住舍衛國祇樹給孤獨園……廣說如上。差別者，謂隨說異偈言：\n\n「無為無諸難，　　邪盛時清淨，\n\n　如法隨順行，　　攝護諸梵行。\n\n　馨香歸世界，　　超過諸凡鄙，\n\n　佛於邪盛善，　　稱歎此邪盛。\n\n　惠施修供養，　　邪盛隨所應，\n\n　淨信平等施，　　梵行良福田。\n\n　彼作如是施，　　是施羅漢田，\n\n　如是廣大施，　　諸天所稱歎。\n\n　自行恭敬請，　　自手而供養，\n\n　等攝自他故，　　邪盛得大果。\n\n　慧者如是施，　　淨信心解脫，\n\n　於無罪世界，　　智者往生彼。」\n\n佛說此經已，優波迦婆羅門聞佛所說，歡喜作禮而去。",
+  "english_sa_text": "",
+  "parallels": [
+    {
+      "uid": "an4.40",
+      "acronym": "AN 4.40",
+      "root_lang": "pli",
+      "original_title": "Udāyīsutta",
+      "translated_title": "Udāyī",
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "sa-2.90",
+      "acronym": "SA2 90",
+      "root_lang": "lzh",
+      "original_title": "優波迦",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "sf23",
+      "acronym": "SF 23",
+      "root_lang": "san",
+      "original_title": "",
+      "translated_title": null,
+      "type": "full",
+      "resembling": true,
+      "remark": null
+    }
+  ],
+  "primary_sn_uid": null,
+  "pali_text": "",
+  "english_sn_text": "",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa1-100/sa90_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa1-100/sa90_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时佛在舍卫国祇树给孤独园……余如上说，所差别者，唯世尊随说异偈：\n无为无诸难，祭祀时清净；如法随顺行，摄护诸梵行。馨香归世界，超过诸凡鄙；佛于善祀中，称叹如是祀。惠施修供养，随所应而祀；净信平等施，梵行良福田。彼作如是施，是施罗汉田；如是广大施，诸天所称叹。躬自恭敬请，自手而供养，等摄自他故，此祀得大果。慧者如是施，净信心解脱；于无罪世界，智者往生彼。\n佛说此经已，优波迦婆罗门闻佛所说，欢喜作礼而去。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在舍卫国祇树给孤独园……其余与上一经相同，差别只在世尊所说的偈颂不同：\n不造作、无祸难，这样的祭祀当下就清净；如法随顺而行，护持诸梵行者。芬芳的名声传遍世间，超过种种鄙陋之事；在一切祭祀中，佛只赞叹这样的祭祀。以布施行供养，随其所应而祭；以清净信心平等布施，梵行者是良好的福田。这样布施，就是施于阿罗汉之田；如此广大的布施，诸天都称叹。亲自恭敬邀请，亲手供养，自他都被摄受，所以这样的祭祀得大果报。有智慧的人这样布施，以清净的信心而心得解脱；那无罪的世界，智者往生其中。\n佛说完这部经，优波迦婆罗门听佛所说，欢喜礼拜后离去。",
+  "notes": "底本作「广说如上，差别者，谓随说异偈言」，本为承前省文，今如实保留省文体例，不补造情节。SC 列 AN4.40（Udāyī）为平行：亦以「无害之祀」为佛所赞。confidence=medium（底本省文，叙事框架不全）。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "medium",
+  "similarity_to_source": 0.243
+}

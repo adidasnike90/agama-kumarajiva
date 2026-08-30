@@ -1,0 +1,53 @@
+{
+  "id": "SA_1344",
+  "uid": "sa1344",
+  "title": "雜阿含經  卷第五十  林相應  （1344）  嬉戲",
+  "chinese_text": "如是我聞：\n\n一時，佛在舍衛國祇樹給孤獨園。\n\n時，有異比丘在拘薩羅人間，住一林中。時，彼比丘與長者婦女嬉戲，起惡名聲。\n\n時，彼比丘作是念：「我今不類，共他婦女起惡名聲，我今欲於此林中自殺。」\n\n時，彼林中止住天神作是思念：「不善不類，此比丘不壞、無過，而於林中欲自殺身，我今當作方便開悟。」\n\n時，彼天神化作長者女身，語比丘言：「於諸巷路四衢道中，世間諸人為我及汝起惡名聲，言我與汝共相習近，作不正事。已有惡名，今可還俗，共相娛樂。」\n\n比丘答言：「以彼里巷四衢道中，為我與汝起惡名聲，共相習近，為不正事。我今且自殺身！」\n\n時，彼天神還復天身，而說偈言：\n\n「雖聞多惡名，　　苦行者忍之，\n\n　不應苦自苦，　　亦不應起惱。\n\n　聞聲恐怖者，　　是則林中獸，\n\n　是輕躁眾生，　　不成出家法。\n\n　仁者當堪耐，　　不中住惡聲，\n\n　執心堅住者，　　是則出家法。\n\n　不由他人語，　　令汝成劫賊，\n\n　亦不由他語，　　令汝得羅漢。\n\n　如汝自知已，　　諸天亦復知。」\n\n爾時，比丘為彼天神所開悟已，專精思惟，斷除煩惱，得阿羅漢。",
+  "english_sa_text": "",
+  "parallels": [
+    {
+      "uid": "sa-2.364",
+      "acronym": "SA2 364",
+      "root_lang": "lzh",
+      "original_title": "嬉戲",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "sn9.8",
+      "acronym": "SN 9.8",
+      "root_lang": "pli",
+      "original_title": "Kulagharaṇīsutta",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    }
+  ],
+  "primary_sn_uid": "sn9.8",
+  "pali_text": "Ekaṁ samayaṁ aññataro bhikkhu kosalesu viharati aññatarasmiṁ vanasaṇḍe. Tena kho pana samayena so bhikkhu aññatarasmiṁ kule ativelaṁ ajjhogāḷhappatto viharati. Atha kho yā tasmiṁ vanasaṇḍe adhivatthā devatā tassa bhikkhuno anukampikā atthakāmā taṁ bhikkhuṁ saṁvejetukāmā yā tasmiṁ kule kulagharaṇī, tassā vaṇṇaṁ abhinimminitvā yena so bhikkhu tenupasaṅkami; upasaṅkamitvā taṁ bhikkhuṁ gāthāya ajjhabhāsi: “Nadītīresu saṇṭhāne, sabhāsu rathiyāsu ca; Janā saṅgamma mantenti, mañca tañca kimantaran”ti. “Bahūhi saddā paccūhā, khamitabbā tapassinā; Na tena maṅku hotabbaṁ, na hi tena kilissati. Yo ca saddaparittāsī, vane vātamigo yathā; Lahucittoti taṁ āhu, nāssa sampajjate vatan”ti.",
+  "english_sn_text": "At one time one of the monks was staying in the land of the Kosalans in a certain forest grove. Now at that time that monk had become too closely involved in the affairs of a certain family. The deity haunting that forest had sympathy for that monk, wanting what’s best for him. So, wanting to stir him up, they manifested in the appearance of the mistress of that family, approached the monk, and addressed him in verse: “At river banks and guest houses, hotels and highways, people gather to gossip about what’s going on between you and me.” “There are many sounds echoing that a fervent ascetic must endure. They ought not be dismayed by that, for that’s not what defiles you. If you’re startled by every little sound, like a wind-deer in the wood, they’ll call you ‘flighty minded’; and your practice won’t succeed.”",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa1301-1400/sa1344_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa1301-1400/sa1344_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛住舍卫国祇树给孤独园。\n时有异比丘在拘萨罗林中，与长者妇过从，恶名流布。比丘念：「我不类，宁自杀。」\n林中天神念：「此比丘实无破戒大过，而欲自害，我当方便开悟。」化作长者女，语比丘言：「里巷已为我与汝作恶名，可还俗共相娱乐。」比丘曰：「既有恶名，我当自杀！」\n天神复天身，说偈：「多闻恶名者，苦行当堪忍；不应自逼恼。闻声即怖者，如林中野兽，不成出家法。心坚住忍者，乃名真出家。他语不能使汝成盗，亦不能使他语令汝成罗汉；如汝自知，诸天亦知。」\n比丘闻已，专精思惟，断诸烦恼，得阿罗汉。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在舍卫国祇树给孤独园。\n那时有一位比丘在拘萨罗的林中，与长者的妇女来往过密，恶名传开。比丘心想：「我不像话，宁可自杀。」\n林中的天神心想：「这位比丘其实没有破戒的大过，却想自杀，我应当方便开导。」便化作长者女，对比丘说：「街坊已经给我们编了恶名，不如还俗一起享乐。」比丘说：「既然已有恶名，我应当自杀！」\n天神恢复天身，说偈：「听到许多恶名，修行人应当忍耐；不该自己折磨自己。一听见声音就害怕，像林中的野兽，那不成出家法。内心坚定能忍耐的，才是真正的出家。别人的话不能把你变成盗贼，也不能单靠别人的话使你成为阿罗汉；你自己怎样知道，诸天也怎样知道。」\n比丘听了，专精思惟，断除烦恼，证得阿罗汉。",
+  "notes": "本经 SC 平行表所列平行及 `raw_aligned_data.json` 内之巴利本文、Sujato 英译并用以厘定法义；求那跋陀罗汉本用于定位经文与传统术语。confidence=high：primary SN9.8。巴利天神化作家主妇激将；汉有自杀情节为汉本增，义据 SN「忍恶名、莫自害」。禁将「不乐」与 virāga 定型混读；本经「恶名」非厌离道次第。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "high",
+  "prior_review_status": "needs_revision",
+  "similarity_to_source": 0.092,
+  "paragraph_parallel": true
+}

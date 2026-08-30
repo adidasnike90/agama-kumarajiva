@@ -1,0 +1,32 @@
+{
+  "id": "SA_1351",
+  "uid": "sa1351",
+  "title": "雜阿含經  卷第五十  林相應  （1351）  孔雀",
+  "chinese_text": "如是我聞：\n\n一時，佛住王舍城迦蘭陀竹園。\n\n時，有眾多比丘住支提山側，皆是阿練若比丘，著糞掃衣，常行乞食。\n\n時，山神，依彼山住者，而說偈言：\n\n「孔雀文繡身，　　處鞞提醯山，\n\n　隨時出妙聲，　　覺乞食比丘。\n\n　孔雀文繡身，　　處鞞提醯山，\n\n　隨時出妙聲，　　覺糞掃衣者。\n\n　孔雀文繡身，　　處鞞提醯山，\n\n　隨時出妙聲，　　覺依樹坐者。」\n\n時，彼天神說此偈已，即默然住。",
+  "english_sa_text": "",
+  "parallels": [],
+  "primary_sn_uid": null,
+  "pali_text": "",
+  "english_sn_text": "",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa1301-1400/sa1351_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa1301-1400/sa1351_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛住王舍城迦兰陀竹园。\n时有众多比丘住支提山侧，皆修阿练若、著粪扫衣、常行乞食。\n依彼山住之山神说偈言：「孔雀文绣身，栖鞞提醯山；随时出妙音，唤醒乞食者。孔雀文绣身，栖鞞提醯山；随时出妙音，唤醒粪扫衣。孔雀文绣身，栖鞞提醯山；随时出妙音，唤醒依树坐。」\n天神说此偈已，即默然住。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在王舍城迦兰陀竹园。\n当时有许多比丘住在支提山侧，都修阿练若、穿粪扫衣、常去乞食。\n住在那座山上的山神说偈：「孔雀身披文彩，栖在鞞提醯山；按时发出妙音，唤醒去乞食的比丘。孔雀身披文彩，栖在鞞提醯山；按时发出妙音，唤醒穿粪扫衣的人。孔雀身披文彩，栖在鞞提醯山；按时发出妙音，唤醒依树而坐的人。」\n天神说完这首偈，便默然而住。",
+  "notes": "SC 于本经未列可靠巴利平行，故唯以汉本为底，参林相应／Vanasaṃyutta 定型语及早期教理厘义；依项目规约「无可靠平行时 confidence 降为 medium/low」。求那跋陀罗汉本用于定位经文与传统术语。confidence=medium：无 SC 专经。山神以孔雀鸣唤醒头陀三事比丘（乞食／粪扫衣／依树）；「觉」＝唤醒，非证悟。删卷首 Saṁyuktāgama 标记。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "medium",
+  "prior_review_status": "needs_revision",
+  "similarity_to_source": 0.262,
+  "paragraph_parallel": true
+}

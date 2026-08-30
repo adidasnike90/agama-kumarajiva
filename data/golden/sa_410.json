@@ -1,0 +1,44 @@
+{
+  "id": "SA_410",
+  "uid": "sa410",
+  "title": "雜阿含經  卷第十七  界相應  （410）  覺",
+  "chinese_text": "如是我聞：\n\n一時……如上廣說。差別者，起親里覺、國土人民覺、不死覺，乃至聞佛所說，歡喜奉行。",
+  "english_sa_text": "",
+  "parallels": [
+    {
+      "uid": "sn56.7",
+      "acronym": "SN 56.7",
+      "root_lang": "pli",
+      "original_title": "Vitakkasutta",
+      "translated_title": "Thoughts",
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    }
+  ],
+  "primary_sn_uid": "sn56.7",
+  "pali_text": "“Mā, bhikkhave, pāpake akusale vitakke vitakkeyyātha, seyyathidaṁ— kāmavitakkaṁ, byāpādavitakkaṁ, vihiṁsāvitakkaṁ. Taṁ kissa hetu? Nete, bhikkhave, vitakkā atthasaṁhitā nādibrahmacariyakā na nibbidāya na virāgāya na nirodhāya na upasamāya na abhiññāya na sambodhāya na nibbānāya saṁvattanti. Vitakkentā ca kho tumhe, bhikkhave, ‘idaṁ dukkhan’ti vitakkeyyātha, ‘ayaṁ dukkhasamudayo’ti vitakkeyyātha, ‘ayaṁ dukkhanirodho’ti vitakkeyyātha, ‘ayaṁ dukkhanirodhagāminī paṭipadā’ti vitakkeyyātha. Taṁ kissa hetu? Ete, bhikkhave, vitakkā atthasaṁhitā ete ādibrahmacariyakā ete nibbidāya virāgāya nirodhāya upasamāya abhiññāya sambodhāya nibbānāya saṁvattanti. Tasmātiha, bhikkhave, ‘idaṁ dukkhan’ti yogo karaṇīyo …pe… ‘ayaṁ dukkhanirodhagāminī paṭipadā’ti yogo karaṇīyo”ti. Sattamaṁ.",
+  "english_sn_text": "“Mendicants, don’t think bad, unskillful thoughts, such as sensual, malicious, and cruel thoughts. Why is that? Because those thoughts aren’t beneficial or relevant to the fundamentals of the spiritual life. They don’t lead to disillusionment, dispassion, cessation, peace, insight, awakening, and extinguishment. When you think, you should think: ‘This is suffering’ … ‘This is the origin of suffering’ … ‘This is the cessation of suffering’ … ‘This is the practice that leads to the cessation of suffering’. Why is that? Because those thoughts are beneficial and relevant to the fundamentals of the spiritual life. They lead to disillusionment, dispassion, cessation, peace, insight, awakening, and extinguishment. That’s why you should practice meditation …”",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa401-500/sa410_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa401-500/sa410_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛在王舍城迦兰陀竹园。\n时有众多比丘集于食堂，或起亲里觉，或起国土人民觉，或起不死觉。世尊知已，往诣食堂，告言：「莫起亲里觉、国土人民觉、不死觉。所以者何？此诸觉非义饶益，非法饶益，非梵行饶益，非智、非觉，不向涅槃。当起苦圣谛觉、苦集圣谛觉、苦灭圣谛觉、苦灭道迹圣谛觉——此则义饶益、法饶益、梵行饶益，正智、正觉、正向涅槃。」\n「是故比丘于四圣谛未无间等者，当勤方便，起增上欲，精进修学。何等为四？谓苦圣谛、苦集圣谛、苦灭圣谛、苦灭道迹圣谛。」\n佛说此经已，诸比丘闻佛所说，欢喜奉行。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在王舍城迦兰陀竹园。\n当时有许多比丘聚集在食堂里，有的起亲里觉，有的起国土人民觉，有的起不死觉。世尊知道以后，来到食堂，告诉他们：「不要起亲里觉、国土人民觉、不死觉。为什么？这些觉没有义饶益，没有法饶益，没有梵行饶益，不是正智、正觉，不向涅槃。应当起苦圣谛觉、苦集圣谛觉、苦灭圣谛觉、苦灭道迹圣谛觉——这些才有义饶益、法饶益、梵行饶益，能得正智、正觉，正向涅槃。」\n「所以比丘对四圣谛还没有无间等的，应当勤加方便，发起强盛愿欲，精进修学。哪四种？就是苦圣谛、苦集圣谛、苦灭圣谛、苦灭道迹圣谛。」\n佛说完这部经，比丘们听佛所说，都欢喜奉行。",
+  "notes": "本经 SC 平行表所列平行及 `raw_aligned_data.json` 内之巴利本文、Sujato 英译并用以厘定法义；求那跋陀罗汉本用于定位经文与传统术语。底本『一时……如上广说。差别者』为交叉指示；依 SA_409／SN56.7 框式重建，差别保留汉本『亲里觉、国土人民觉、不死觉』（ñāti／janapada／amara-vitakka 一类，非 SN56.7 贪瞋害）。confidence=high（框式有平行；差别据汉）。",
+  "review_status": "gold_reconstructed",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "high",
+  "prior_review_status": "needs_revision",
+  "reconstruction_basis": "底本『一时……如上广说。差别者』为交叉指示；依 SA_409／SN56.7 框式 + 汉本『亲里／国土人民／不死觉』差别重建",
+  "similarity_to_source": 0.085,
+  "paragraph_parallel": true
+}

@@ -1,0 +1,43 @@
+{
+  "id": "SA_502",
+  "uid": "sa502",
+  "title": "雜阿含經  卷第二十  目連相應  （502）  無相",
+  "chinese_text": "如是我聞：\n\n一時，佛住王舍城迦蘭陀竹園。爾時，尊者大目揵連在王舍城耆闍崛山中。\n\n爾時，尊者大目揵連告諸比丘：「一時，世尊住王舍城，我住耆闍崛山中。我獨一靜處，作如是念：『云何名為聖住？』復作是念：『若有比丘不念一切相，無相心正受，身作證具足住，是名聖住。』我作是念：『我當於此聖住，不念一切相、無相心正受。身作證具足住多住，多住已，取相心生。』爾時，世尊知我心念，如力士屈申臂頃，以神通力，於竹園精舍沒，於耆闍崛山中現於我前，語我言：『目揵連！汝當住於聖住，莫生放逸。』我聞世尊教已，即離一切相，無相心正受，身作證具足住。如是至三，世尊亦三來教我：『汝當住於聖住，莫生放逸。』我聞教已，離一切相，無相心正受，身作證具足住。\n\n「諸大德！若正說佛子者，則我身是從佛口生，從法化生，得佛法分。所以者何？我是佛子，從佛口生，從法化生，得佛法分，以少方便，得禪、解脫、三昧、正受。譬如轉輪聖王太子，雖未灌頂，已得王法，不勤方便，能得五欲功德。我亦如是。為佛之子，不勤方便，得禪、解脫、三昧、正受，於一日中，世尊以神通力三至我所，三教授我，以大人處建立於我。」\n\n尊者大目揵連說此經已，諸比丘聞其所說，歡喜奉行。",
+  "english_sa_text": "",
+  "parallels": [
+    {
+      "uid": "sn40.9",
+      "acronym": "SN 40.9",
+      "root_lang": "pli",
+      "original_title": "Animittapañhāsutta",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    }
+  ],
+  "primary_sn_uid": "sn40.9",
+  "pali_text": "“‘Animitto cetosamādhi, animitto cetosamādhī’ti vuccati. Katamo nu kho animitto cetosamādhīti? Tassa mayhaṁ, āvuso, etadahosi: ‘idha bhikkhu sabbanimittānaṁ amanasikārā animittaṁ cetosamādhiṁ upasampajja viharati. Ayaṁ vuccati animitto cetosamādhī’ti. So khvāhaṁ, āvuso, sabbanimittānaṁ amanasikārā animittaṁ cetosamādhiṁ upasampajja viharāmi. Tassa mayhaṁ, āvuso, iminā vihārena viharato nimittānusāri viññāṇaṁ hoti. Atha kho maṁ, āvuso, bhagavā iddhiyā upasaṅkamitvā etadavoca: ‘moggallāna, moggallāna. Mā, brāhmaṇa, animittaṁ cetosamādhiṁ pamādo, animitte cetosamādhismiṁ cittaṁ saṇṭhapehi, animitte cetosamādhismiṁ cittaṁ ekodiṁ karohi, animitte cetosamādhismiṁ cittaṁ samādahā’ti. So khvāhaṁ, āvuso, aparena samayena sabbanimittānaṁ amanasikārā animittaṁ cetosamādhiṁ upasampajja vihāsiṁ. Yañhi taṁ, āvuso, sammā vadamāno vadeyya: ‘satthārānuggahito sāvako mahābhiññataṁ patto’ti, mamaṁ taṁ sammā vadamāno vadeyya: ‘satthārānuggahito sāvako mahābhiññataṁ patto’”ti. Navamaṁ.",
+  "english_sn_text": "“They speak of this thing called the ‘signless immersion of the heart’. What is the signless immersion of the heart? It occurred to me: ‘It’s when a mendicant, not focusing on any signs, enters and remains in the signless immersion of the heart. This is called the signless immersion of the heart.’ And so … I was entering and remaining in the signless immersion of the heart. While I was in that meditation, my consciousness followed after signs. Then the Buddha came up to me with his psychic power and said, ‘Moggallāna, Moggallāna! Don’t neglect the signless immersion of the heart, brahmin! Settle your mind in the signless immersion of the heart; unify your mind and immerse it in the signless immersion of the heart.’ And so, after some time … I entered and remained in the signless immersion of the heart. So if anyone should be rightly called a disciple who attained to great direct knowledge with help from the Teacher, it’s me.”",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa501-600/sa502_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa501-600/sa502_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛在王舍城迦兰陀竹园。尊者大目揵连在耆闍崛山中。\n大目揵连告诸比丘：「昔世尊住王舍城，我住耆闍崛山，独一静处作念：『云何圣住？』复念：『不念一切相、无相心正受，身作证具足住，是名圣住。』我即于圣住、无相正受多住；多住已，取相生。世尊以神通知我心，于竹园没、于山中现我前，语我：『目揵连！汝当住圣住，莫放逸。』我闻教已，即离一切相、无相心正受具足住。如是再三，佛亦再三教。若正说佛子，则我身是从佛口生、从法化生、得佛法分——以少方便得禅、解脱、三昧、正受，如转轮太子得王法喻。」\n尊者大目揵连说是经已，诸比丘闻其所说，欢喜奉行。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在王舍城迦兰陀竹园。大目揵连尊者在耆闍崛山中。\n大目揵连告诉比丘们：「以前世尊住在王舍城，我住在耆闍崛山，独自静处作念：『什么是圣住？』又想到：『不念一切相、无相心正受、以身作证具足而住，这叫做圣住。』我就在圣住、无相正受中多住；多住以后，取相的心又生起。世尊以神通知道我的心，从竹园消失、在山中出现在我面前，对我说：『目揵连！你应当住于圣住，不要放逸。』我听教以后，立刻离一切相、无相心正受具足而住。这样三次，佛也三次教导。如果正确地说佛子，我就是从佛口生、从法化生、得佛法分——以少许方便得禅、解脱、三昧、正受，就像转轮太子得王法的比喻。」\n大目揵连尊者说完这部经，比丘们听其所说，都欢喜奉行。",
+  "notes": "本经 SC 平行表所列平行及 `raw_aligned_data.json` 内之巴利本文、Sujato 英译并用以厘定法义；求那跋陀罗汉本用于定位经文与传统术语。confidence=high：primary SN40.2 Dutiya／SN40.9 Animitta。圣住＝无相心正受；据 Pali 校正取相生／佛三教。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "high",
+  "prior_review_status": "needs_revision",
+  "similarity_to_source": 0.222,
+  "paragraph_parallel": true
+}

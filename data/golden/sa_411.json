@@ -1,0 +1,43 @@
+{
+  "id": "SA_411",
+  "uid": "sa411",
+  "title": "雜阿含經  卷第十七  界相應  （411）  論",
+  "chinese_text": "如是我聞：\n\n一時，佛住王舍城迦蘭陀竹園。時，有眾多比丘集於食堂，作如是論：「或論王事、賊事、鬪戰事、錢財事、衣被事、飲食事、男女事、世間言語事、事業事、諸海中事。」\n\n爾時，世尊於禪定中，以天耳聞諸比丘論說之聲，即從座起，往詣食堂，敷坐具於眾前坐，告諸比丘：「汝等比丘眾多聚集，為何所說？」\n\n諸比丘白佛言：「世尊！我等於此聚集，或論說王事……」如上廣說。\n\n佛告比丘：「汝等莫作是論，論說王事，乃至不向涅槃。若論說者，應當論說：『此苦聖諦、苦集聖諦、苦滅聖諦、苦滅道跡聖諦。』所以者何？此四聖諦以義饒益、法饒益、梵行饒益、正智、正覺、正向涅槃。」\n\n佛說此經已，諸比丘聞佛所說，歡喜奉行。",
+  "english_sa_text": "",
+  "parallels": [
+    {
+      "uid": "sn56.10",
+      "acronym": "SN 56.10",
+      "root_lang": "pli",
+      "original_title": "Tiracchānakathāsutta",
+      "translated_title": "Pointless Talk",
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    }
+  ],
+  "primary_sn_uid": "sn56.10",
+  "pali_text": "“Mā, bhikkhave, anekavihitaṁ tiracchānakathaṁ katheyyātha, seyyathidaṁ— rājakathaṁ corakathaṁ mahāmattakathaṁ senākathaṁ, bhayakathaṁ yuddhakathaṁ, annakathaṁ pānakathaṁ vatthakathaṁ sayanakathaṁ mālākathaṁ gandhakathaṁ, ñātikathaṁ yānakathaṁ gāmakathaṁ nigamakathaṁ nagarakathaṁ janapadakathaṁ itthikathaṁ sūrakathaṁ visikhākathaṁ kumbhaṭṭhānakathaṁ, pubbapetakathaṁ nānattakathaṁ, lokakkhāyikaṁ samuddakkhāyikaṁ itibhavābhavakathaṁ iti vā. Taṁ kissa hetu? Nesā, bhikkhave, kathā atthasaṁhitā nādibrahmacariyakā na nibbidāya na virāgāya na nirodhāya na upasamāya na abhiññāya na sambodhāya na nibbānāya saṁvattati. Kathentā ca kho tumhe, bhikkhave, ‘idaṁ dukkhan’ti katheyyātha, ‘ayaṁ dukkhasamudayo’ti katheyyātha, ‘ayaṁ dukkhanirodho’ti katheyyātha, ‘ayaṁ dukkhanirodhagāminī paṭipadā’ti katheyyātha. Taṁ kissa hetu? Esā, bhikkhave, kathā atthasaṁhitā, esā ādibrahmacariyakā, esā nibbidāya virāgāya nirodhāya upasamāya abhiññāya sambodhāya nibbānāya saṁvattati. Tasmātiha, bhikkhave, ‘idaṁ dukkhan’ti yogo karaṇīyo …pe… ‘ayaṁ dukkhanirodhagāminī paṭipadā’ti yogo karaṇīyo”ti. Dasamaṁ. Samādhivaggo paṭhamo. Tassuddānaṁ Samādhi paṭisallānā, kulaputtā apare duve; Samaṇabrāhmaṇā vitakkaṁ, cintā viggāhikā kathāti.",
+  "english_sn_text": "“Mendicants, don’t engage in all kinds of low talk, such as talk about kings, bandits, and chief ministers; talk about armies, threats, and wars; talk about food, drink, clothes, and beds; talk about garlands and fragrances; talk about family, vehicles, villages, towns, cities, and countries; talk about women and heroes; talk at the street market and the place for water pots; talk about the departed; motley talk; tales of land and sea; and talk about being reborn in this or that place. Why is that? Because those discussions aren’t beneficial or relevant to the fundamentals of the spiritual life. They don’t lead to disillusionment, dispassion, cessation, peace, insight, awakening, and extinguishment. When you discuss, you should discuss: ‘This is suffering’ … ‘This is the origin of suffering’ … ‘This is the cessation of suffering’ … ‘This is the practice that leads to the cessation of suffering’. … That’s why you should practice meditation …”",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa401-500/sa411_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa401-500/sa411_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛在王舍城迦兰陀竹园。\n时有众多比丘集于食堂，共作议论：王事、贼事、战斗、钱财、衣食、男女、世语、行业、海中事。\n世尊于定中以天耳闻已，往诣食堂，敷座而坐，问：「汝等集此，何所言说？」比丘具白如上。\n佛言：「莫作如是无益之论。所以者何？如此论非义饶益，非法饶益，非梵行饶益，非智、非觉，不向涅槃。应当论说：『此苦圣谛、此苦集圣谛、此苦灭圣谛、此苦灭道迹圣谛。』所以者何？此四圣谛义饶益、法饶益、梵行饶益，正智、正觉、正向涅槃。」\n「是故比丘于四圣谛未无间等者，当勤方便，起增上欲，精进修学。何等为四？谓苦圣谛、苦集圣谛、苦灭圣谛、苦灭道迹圣谛。」\n佛说此经已，诸比丘闻佛所说，欢喜奉行。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在王舍城迦兰陀竹园。\n当时有许多比丘聚集在食堂里，一起议论：国王、盗贼、战争、钱财、衣食、男女、世俗闲谈、行业、海里的事。\n世尊在定中用天耳听见以后，来到食堂，敷座坐下，问：「你们聚在这里，在说什么？」比丘们把上面的议论都禀告了。\n佛说：「不要作这类无益的议论。为什么？这样的议论没有义饶益，没有法饶益，没有梵行饶益，不是正智、正觉，不向涅槃。应当讨论：『这是苦圣谛、这是苦集圣谛、这是苦灭圣谛、这是苦灭道迹圣谛。』为什么？这四圣谛有义饶益、法饶益、梵行饶益，能得正智、正觉，正向涅槃。」\n「所以比丘对四圣谛还没有无间等的，应当勤加方便，发起强盛愿欲，精进修学。哪四种？就是苦圣谛、苦集圣谛、苦灭圣谛、苦灭道迹圣谛。」\n佛说完这部经，比丘们听佛所说，都欢喜奉行。",
+  "notes": "本经 SC 平行表所列平行及 `raw_aligned_data.json` 内之巴利本文、Sujato 英译并用以厘定法义；求那跋陀罗汉本用于定位经文与传统术语。confidence=high：primary SN56.10 Tiracchānakathā。低劣戏论（tiracchānakathā）当以四谛论代之；汉食堂叙事情节保留。Sujato 列举更广，汉本略列已足达意，不另增花鬘／街市等项。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "high",
+  "prior_review_status": "needs_revision",
+  "similarity_to_source": 0.157,
+  "paragraph_parallel": true
+}

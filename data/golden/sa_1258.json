@@ -1,0 +1,43 @@
+{
+  "id": "SA_1258",
+  "uid": "sa1258",
+  "title": "雜阿含經  卷第五十  譬喻相應  （1258）  鼓",
+  "chinese_text": "如是我聞：\n\n一時，佛住波羅㮈國仙人住處鹿野苑中。\n\n爾時，世尊告諸比丘：「過去世時，有一人名陀舍羅訶，彼陀舍羅訶有鼓名阿能訶，好聲、美聲、深聲，徹四十里。彼鼓既久，處處裂壞。爾時，鼓士裁割牛皮，周匝纏縛；雖復纏縛，鼓猶無復高聲、美聲、深聲。彼於後時，轉復朽壞，皮大剝落，唯有聚木。\n\n「如是，比丘！修身、修戒、修心、修慧，以彼修身、修戒、修心、修慧故，於如來所說修多羅甚深明照，難見難覺，不可思量，微密決定，明智所知，彼則頓受、周備受，聞其所說，歡喜崇習，出離饒益。當來比丘不修身、不修戒、不修心、不修慧，聞如來所說修多羅甚深明照空相應隨順緣起法，彼不頓受持，不至到受。聞彼說者，不歡喜崇習，而於世間眾雜異論、文辭綺飾、世俗雜句，專心頂受，聞彼說者，歡喜崇習，不得出離饒益。於彼如來所說甚深明照空相要法隨順緣起者，於此則滅，猶如彼鼓，朽故壞裂，唯有聚木。是故，諸比丘！當勤方便修身、修戒、修心、修慧，於如來所說甚深明照空相要法隨順緣起，頓受、遍受。聞彼說者，歡喜崇習，出離饒益。」\n\n佛說此經已，諸比丘聞佛所說，歡喜奉行。",
+  "english_sa_text": "",
+  "parallels": [
+    {
+      "uid": "sn20.7",
+      "acronym": "SN 20.7",
+      "root_lang": "pli",
+      "original_title": "Āṇisutta",
+      "translated_title": "The Drum-Peg",
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    }
+  ],
+  "primary_sn_uid": "sn20.7",
+  "pali_text": "Sāvatthiyaṁ viharati. “Bhūtapubbaṁ, bhikkhave, dasārahānaṁ ānako nāma mudiṅgo ahosi. Tassa dasārahā ānake ghaṭite aññaṁ āṇiṁ odahiṁsu. Ahu kho so, bhikkhave, samayo yaṁ ānakassa mudiṅgassa porāṇaṁ pokkharaphalakaṁ antaradhāyi. Āṇisaṅghāṭova avasissi. Evameva kho, bhikkhave, bhavissanti bhikkhū anāgatamaddhānaṁ, ye te suttantā tathāgatabhāsitā gambhīrā gambhīratthā lokuttarā suññatappaṭisaṁyuttā, tesu bhaññamānesu na sussūsissanti na sotaṁ odahissanti na aññā cittaṁ upaṭṭhāpessanti na ca te dhamme uggahetabbaṁ pariyāpuṇitabbaṁ maññissanti. Ye pana te suttantā kavikatā kāveyyā cittakkharā cittabyañjanā bāhirakā sāvakabhāsitā, tesu bhaññamānesu sussūsissanti, sotaṁ odahissanti, aññā cittaṁ upaṭṭhāpessanti, te ca dhamme uggahetabbaṁ pariyāpuṇitabbaṁ maññissanti. Evametesaṁ, bhikkhave, suttantānaṁ tathāgatabhāsitānaṁ gambhīrānaṁ gambhīratthānaṁ lokuttarānaṁ suññatappaṭisaṁyuttānaṁ antaradhānaṁ bhavissati. Tasmātiha, bhikkhave, evaṁ sikkhitabbaṁ: ‘ye te suttantā tathāgatabhāsitā gambhīrā gambhīratthā lokuttarā suññatappaṭisaṁyuttā, tesu bhaññamānesu sussūsissāma, sotaṁ odahissāma, aññā cittaṁ upaṭṭhāpessāma, te ca dhamme uggahetabbaṁ pariyāpuṇitabbaṁ maññissāmā’ti. Evañhi vo, bhikkhave, sikkhitabban”ti. Sattamaṁ.",
+  "english_sn_text": "At Sāvatthī. “Once upon a time, mendicants, the Dasārahas had a mridangam drum called the Plugger. When the Plugger cracked, the Dasārahas patched it with another plug. Eventually, there came a time when the old wooden shell for the drumskin disappeared and all that was left of the mridangam Plugger was a mass of plugs. In the same way, in a future time there will be mendicants who won’t want to listen when discourses spoken by the Realized One—deep, profound, transcendent, dealing with emptiness—are being recited. They won’t actively listen or try to understand, nor will they think those teachings are worth learning and memorizing. But when discourses composed by poets—poetry, with fancy words and phrases, composed by outsiders or spoken by disciples—are being recited they will want to listen. They’ll actively listen and try to understand, and they’ll think those teachings are worth learning and memorizing. And that is how the discourses spoken by the Realized One—deep, profound, transcendent, dealing with emptiness—will disappear. So you should train like this: ‘When discourses spoken by the Realized One—deep, profound, transcendent, dealing with emptiness—are being recited we will want to listen. We will actively listen and try to understand, and we will think those teachings are worth learning and memorizing.’ That’s how you should train.”",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa1201-1300/sa1258_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa1201-1300/sa1258_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛住波罗奈仙人住处鹿野苑中。\n尔时世尊告诸比丘：「过去世时，陀舍罗诃人有鼓名阿能诃，声好深远。鼓久裂坏，裁皮补钉，展转增钉；后时木壳尽坏，唯余钉聚。」\n「如是，当来比丘闻如来所说甚深、出世间、空相应修多罗，不肯谛听受持；而于文辞绮饰、外道弟子所造杂论，专心顶受。由是如来甚深空相应法便当隐没，如彼鼓坏，唯余钉聚。是故当如是学：『于如来所说甚深空相应法，谛听受持，欢喜崇习。』」\n佛说此经已，诸比丘闻佛所说，欢喜奉行。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在波罗奈仙人住处鹿野苑中。\n那时世尊告诉比丘们：「过去世时，陀舍罗诃人有一面鼓名叫阿能诃，声音好听又传得远。鼓用久了裂坏，就裁皮打钉修补，钉子越补越多；后来木壳都坏尽了，只剩下一堆钉子。」\n「同样，将来比丘听到如来所说甚深、出世间、与空相应的经典，不肯好好听受持；却对外道弟子所作、文辞华丽的杂论，专心奉持。这样一来，如来甚深空相应的法就会隐没，像那面鼓坏了，只剩钉堆。所以应当这样学：『对如来所说甚深空相应法，要谛听受持，欢喜崇习。』」\n佛说完这部经，比丘们听佛所说，都欢喜奉行。",
+  "notes": "本经 SC 平行表所列平行及 `raw_aligned_data.json` 内之巴利本文、Sujato 英译并用以厘定法义；求那跋陀罗汉本用于定位经文与传统术语。confidence=high：primary SN20.7 Āṇisutta。āṇi→钉／补钉；suññatappaṭisaṁyutta→空相应；外道诗偈文辞 vs 如来甚深空法隐没——据 SN；住处汉波罗奈，义从巴利。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "high",
+  "prior_review_status": "needs_revision",
+  "similarity_to_source": 0.115,
+  "paragraph_parallel": true
+}

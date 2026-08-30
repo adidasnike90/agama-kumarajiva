@@ -1,0 +1,47 @@
+{
+  "id": "SA_597",
+  "uid": "sa597",
+  "title": "雜阿含經  卷第二十五  天相應  （597）  顏色",
+  "chinese_text": "如是我聞：\n\n一時，佛住舍衛國祇樹給孤獨園。\n\n時，有一天子，容色絕妙，於後夜時來詣佛所，稽首佛足，退坐一面。身諸光明遍照祇樹給孤獨園。\n\n時，彼天子說偈問佛：\n\n「云何諸眾生，　　受身得妙色？\n\n　云何修方便，　　而得乘出道？\n\n　眾生住何法，　　為何所修習，\n\n　為何等眾生，　　諸天所供養。」\n\n爾時，世尊說偈答言：\n\n「持戒明智慧，　　自修習正受，\n\n　正直心繫念，　　熾然憂悉滅，\n\n　得平等智慧，　　其心善解脫，\n\n　斯等因緣故，　　受身得妙色，\n\n　成就乘出道，　　心住於中學，\n\n　如是德備者，　　為諸天供養。」\n\n時，彼天子復說偈言：\n\n「久見婆羅門，　　逮得般涅槃，\n\n　一切怖已過，　　永超世恩愛。」\n\n時，彼天子聞佛所說，歡喜隨喜，稽首佛足，即沒不現。",
+  "english_sa_text": "",
+  "parallels": [
+    {
+      "uid": "sn2.14",
+      "acronym": "SN 2.14",
+      "root_lang": "pli",
+      "original_title": "Nandanasutta",
+      "translated_title": null,
+      "type": "full",
+      "resembling": true,
+      "remark": null
+    }
+  ],
+  "primary_sn_uid": "sn2.14",
+  "pali_text": "Ekamantaṁ ṭhito kho nandano devaputto bhagavantaṁ gāthāya ajjhabhāsi: “Pucchāmi taṁ gotama bhūripañña, Anāvaṭaṁ bhagavato ñāṇadassanaṁ; Kathaṁvidhaṁ sīlavantaṁ vadanti, Kathaṁvidhaṁ paññavantaṁ vadanti; Kathaṁvidho dukkhamaticca iriyati, Kathaṁvidhaṁ devatā pūjayantī”ti. “Yo sīlavā paññavā bhāvitatto, Samāhito jhānarato satīmā; Sabbassa sokā vigatā pahīnā, Khīṇāsavo antimadehadhārī. Tathāvidhaṁ sīlavantaṁ vadanti, Tathāvidhaṁ paññavantaṁ vadanti; Tathāvidho dukkhamaticca iriyati, Tathāvidhaṁ devatā pūjayantī”ti.",
+  "english_sn_text": "Standing to one side, the godling Nandana addressed the Buddha in verse: “I ask you, Gotama, whose wisdom is vast, the Blessed One of unhindered knowledge and vision. What sort do they call ethical? What sort do they call wise? What sort lives on after transcending suffering? What sort is worshiped by the deities?” “Someone who is ethical, wise, evolved, becomes serene, loving absorption, mindful, who’s gotten rid of and given up all sorrows, with defilements ended, they bear their final body. That sort they call ethical. That sort they call wise. That sort lives on after transcending suffering. That sort is worshiped by the deities.”",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa501-600/sa597_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa501-600/sa597_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛住舍卫国祇树给孤独园。\n后夜分，有天子来诣佛所，容色绝妙，稽首礼足，退坐一面；身诸光明遍照祇园。\n天子说偈问：「云何诸众生，受身得妙色？云何修方便，而得乘出道？众生住何法，为何所修习，为何等众生，诸天所供养。」\n世尊说偈答：「持戒明智慧，自修习正受，正直心系念，炽然忧悉灭，得平等智慧，其心善解脱，斯等因缘故，受身得妙色，成就乘出道，心住于中学，如是德备者，为诸天供养。」\n天子说偈：「久见婆罗门，逮得般涅槃，一切怖已过，永超世恩爱。」闻已欢喜，礼足即没。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在舍卫国祇树给孤独园。\n后夜分，有一位天子，容色绝妙，来到佛前，顶礼佛足，退坐一面；身上的光明遍照祇树给孤独园。\n天子说偈问：「云何诸众生，受身得妙色？云何修方便，而得乘出道？众生住何法，为何所修习，为何等众生，诸天所供养。」\n世尊说偈答：「持戒明智慧，自修习正受，正直心系念，炽然忧悉灭，得平等智慧，其心善解脱，斯等因缘故，受身得妙色，成就乘出道，心住于中学，如是德备者，为诸天供养。」\n天子又说偈：「久见婆罗门，逮得般涅槃，一切怖已过，永超世恩爱。」听完欢喜随喜，顶礼佛足，随即隐没不见。",
+  "notes": "本经 SC 平行表所列平行及 `raw_aligned_data.json` 内之巴利本文、Sujato 英译并用以厘定法义；求那跋陀罗汉本用于定位经文与传统术语。confidence=high：primary SN2.14（Nandana 问戒慧定）。据 SN 校正：伦理／慧／ evolved、最后一身、诸天礼。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "high",
+  "prior_review_status": "needs_revision",
+  "similarity_to_source": 0.404,
+  "paragraph_parallel": true,
+  "quality_gate_reasons": [
+    "sim_lit=0.575>=0.5",
+    "lit_mod_gap=0.338>=0.1"
+  ]
+}

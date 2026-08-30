@@ -1,0 +1,43 @@
+{
+  "id": "SA_423",
+  "uid": "sa423",
+  "title": "雜阿含經  卷第十七  界相應  （423）  大闇",
+  "chinese_text": "如是我聞：\n\n一時，佛住王舍城迦蘭陀竹園。\n\n爾時，世尊告諸比丘：「有大闇地獄，彼諸眾生，生彼中者，不見自身分。」\n\n時，有異比丘從座起，整衣服，為佛作禮，合掌白佛言：「世尊！此則大闇，唯此大闇，復更有餘大闇，甚可怖畏，過於此不？」\n\n佛告比丘：「如是，更有大闇，甚可怖畏，過於此者，謂沙門、婆羅門於四聖諦不如實知，乃至墮於生、老、病、死、憂、悲、惱、苦大闇之中。是故，比丘！於四聖諦未無間等者，當勤方便，起增上欲，學無間等。」\n\n佛說此經已，諸比丘聞佛所說，歡喜奉行。",
+  "english_sa_text": "",
+  "parallels": [
+    {
+      "uid": "sn56.46",
+      "acronym": "SN 56.46",
+      "root_lang": "pli",
+      "original_title": "Andhakārasutta",
+      "translated_title": "Darkness",
+      "type": "full",
+      "resembling": true,
+      "remark": null
+    }
+  ],
+  "primary_sn_uid": "sn56.46",
+  "pali_text": "“Atthi, bhikkhave, lokantarikā aghā asaṁvutā andhakārā andhakāratimisā, yatthamimesaṁ candimasūriyānaṁ evaṁmahiddhikānaṁ evaṁ mahānubhāvānaṁ ābhāya nānubhontī”ti. Evaṁ vutte, aññataro bhikkhu bhagavantaṁ etadavoca: “mahā vata so, bhante, andhakāro, sumahā vata so, bhante, andhakāro. Atthi nu kho, bhante, etamhā andhakārā añño andhakāro mahantataro ca bhayānakataro cā”ti? “Atthi kho, bhikkhu, etamhā andhakārā añño andhakāro mahantataro ca bhayānakataro cā”ti. “Katamo pana, bhante, etamhā andhakārā añño andhakāro mahantataro ca bhayānakataro cā”ti? “Ye hi keci, bhikkhu, samaṇā vā brāhmaṇā vā ‘idaṁ dukkhan’ti yathābhūtaṁ nappajānanti …pe… ‘ayaṁ dukkhanirodhagāminī paṭipadā’ti yathābhūtaṁ nappajānanti, te jātisaṁvattanikesu saṅkhāresu abhiramanti …pe… abhiratā …pe… abhisaṅkharonti …pe… abhisaṅkharitvā jātandhakārampi papatanti, jarandhakārampi papatanti, maraṇandhakārampi papatanti, sokaparidevadukkhadomanassupāyāsandhakārampi papatanti. Te na parimuccanti jātiyā jarāya maraṇena sokehi paridevehi dukkhehi domanassehi upāyāsehi. ‘Na parimuccanti dukkhasmā’ti vadāmi. Ye ca kho keci, bhikkhu, samaṇā vā brāhmaṇā vā ‘idaṁ dukkhan’ti yathābhūtaṁ pajānanti …pe… ‘ayaṁ dukkhanirodhagāminī paṭipadā’ti yathābhūtaṁ pajānanti, te jātisaṁvattanikesu saṅkhāresu nābhiramanti …pe… anabhiratā …pe… nābhisaṅkharonti …pe… anabhisaṅkharitvā jātandhakārampi nappapatanti, jarandhakārampi nappapatanti, maraṇandhakārampi nappapatanti, sokaparidevadukkhadomanassupāyāsandhakārampi nappapatanti. Te parimuccanti jātiyā jarāya maraṇena sokehi paridevehi dukkhehi domanassehi upāyāsehi. ‘Parimuccanti dukkhasmā’ti vadāmi. Tasmātiha, bhikkhave, ‘idaṁ dukkhan’ti yogo karaṇīyo …pe… ‘ayaṁ dukkhanirodhagāminī paṭipadā’ti yogo karaṇīyo”ti. Chaṭṭhaṁ.",
+  "english_sn_text": "“Mendicants, the boundless gloom of interstellar space is so utterly dark that even the luminosity of the moon and the sun, so mighty and powerful, makes no impression.” When he said this, one of the mendicants said to the Buddha, “Sir, that darkness really is mighty, so very mighty. Is there any other darkness more mighty and terrifying than this one?” “There is, mendicant.” “But sir, what is it?” “There are ascetics and brahmins who don’t truly understand about suffering, its origin, its cessation, and the path. They take pleasure in choices that lead to rebirth … They continue to make such choices … Having made such choices, they fall into the darkness of rebirth, old age, and death, of sorrow, lamentation, pain, sadness, and distress. They’re not freed from rebirth, old age, and death, from sorrow, lamentation, pain, sadness, and distress. They’re not freed from suffering, I say. There are ascetics and brahmins who truly understand about suffering, its origin, its cessation, and the path. They don’t take pleasure in choices that lead to rebirth … They stop making such choices … Having stopped making such choices, they don’t fall into the darkness of rebirth, old age, and death, of sorrow, lamentation, pain, sadness, and distress. They’re freed from rebirth, old age, and death, from sorrow, lamentation, pain, sadness, and distress. They’re freed from suffering, I say. That’s why you should practice meditation …”",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa401-500/sa423_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa401-500/sa423_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛在王舍城迦兰陀竹园。\n尔时，世尊告诸比丘：「有世界中间大闇——日月虽有大威德大光明，其光不照彼处；生彼中者，不见自身分。」\n时有异比丘白佛：「此则大闇——更有大闇过此、甚可怖畏者不？」\n佛言：「有。谓沙门、婆罗门于四圣谛不如实知——乐著造作趣生诸行，故堕生、老、病、死、忧、悲、恼、苦大闇之中。此则大闇，过彼世界中间。是故当于四圣谛勤修无间等。」\n佛说此经已，诸比丘闻佛所说，欢喜奉行。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在王舍城迦兰陀竹园。\n那时，世尊告诉比丘们：「有世界与世界中间的大黑暗——日月虽有大威德、大光明，光照也到不了那里；生在那里的众生，连自己的肢体都看不见。」\n当时有一位比丘对佛说：「这已经是大黑暗了——还有比这更大、更可怕的黑暗吗？」\n佛说：「有。就是沙门、婆罗门对四圣谛不能如实了知——乐著造作通向生的诸行，因而堕入生、老、病、死、忧、悲、恼、苦的大黑暗中。这才是更大的黑暗，超过那世界中间的黑暗。所以应当对四圣谛勤修无间等。」\n佛说完这部经，比丘们听佛所说，都欢喜奉行。",
+  "notes": "本经 SC 平行表所列平行及 `raw_aligned_data.json` 内之巴利本文、Sujato 英译并用以厘定法义；求那跋陀罗汉本用于定位经文与传统术语。confidence=high：primary SN56.46 Andhakāra（SC resembling；本文／英译可用）。信-校正：汉『大闇地狱』据 SN lokantarikā andhakāra 改写为『世界中间大闇』；日月威光不及、不见自身——与后 SA_424 千世界闇冥衔接。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "high",
+  "prior_review_status": "needs_revision",
+  "similarity_to_source": 0.233,
+  "paragraph_parallel": true
+}

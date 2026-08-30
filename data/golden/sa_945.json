@@ -1,0 +1,123 @@
+{
+  "id": "SA_945",
+  "uid": "sa945",
+  "title": "雜阿含經  卷第三十七  婆蹉外道相應  （945）  彼愛",
+  "chinese_text": "如是我聞：\n\n一時，佛住舍衛國祇樹給孤獨園。\n\n爾時，世尊告諸比丘：「眾生無始生死，長夜輪轉，不知苦之本際。諸比丘！若見眾生愛念歡喜者，當作是念：『如是眾生過去世時，必為我等父母、兄弟、妻子、親屬、師友、知識，如是長夜生死輪轉，無明所蓋，愛繫其頸，故長夜輪轉，不知苦之本際。』是故，諸比丘！當如是學，精勤方便，斷除諸有，莫令增長。」\n\n佛說此經已，諸比丘聞佛所說，歡喜奉行。",
+  "english_sa_text": "",
+  "parallels": [
+    {
+      "uid": "sa-2.345",
+      "acronym": "SA2 345",
+      "root_lang": "lzh",
+      "original_title": "無不是",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "sa-2.338",
+      "acronym": "SA2 338",
+      "root_lang": "lzh",
+      "original_title": "彼愛",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "sa952",
+      "acronym": "SA 952",
+      "root_lang": "lzh",
+      "original_title": "無不是",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "sn15.19",
+      "acronym": "SN 15.19",
+      "root_lang": "pli",
+      "original_title": "Dhītusutta",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "sn15.18",
+      "acronym": "SN 15.18",
+      "root_lang": "pli",
+      "original_title": "Puttasutta",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "sn15.17",
+      "acronym": "SN 15.17",
+      "root_lang": "pli",
+      "original_title": "Bhaginisutta",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "sn15.16",
+      "acronym": "SN 15.16",
+      "root_lang": "pli",
+      "original_title": "Bhātusutta",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "sn15.15",
+      "acronym": "SN 15.15",
+      "root_lang": "pli",
+      "original_title": "Pitusutta",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "sn15.14",
+      "acronym": "SN 15.14",
+      "root_lang": "pli",
+      "original_title": "Mātusutta",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    }
+  ],
+  "primary_sn_uid": "sn15.14",
+  "pali_text": "Sāvatthiyaṁ viharati. “Anamataggoyaṁ, bhikkhave, saṁsāro …pe… na so, bhikkhave, satto sulabharūpo yo namātābhūtapubbo iminā dīghena addhunā. Taṁ kissa hetu? Anamataggoyaṁ, bhikkhave, saṁsāro …pe… alaṁ vimuccitun”ti. Catutthaṁ.",
+  "english_sn_text": "At Sāvatthī. “Mendicants, this transmigration has no known beginning. … It’s not easy to find a sentient being who in all this long time has not previously been your mother. Why is that? This transmigration has no known beginning. … This is quite enough for you to become disillusioned, dispassionate, and freed regarding all conditions.”",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa901-1000/sa945_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa901-1000/sa945_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛住舍卫国祇树给孤独园。\n尔时世尊告诸比丘：「众生无始生死，无明所盖，爱系其颈，长夜轮转，不知苦之本际。若见众生爱念欢喜，当作是念：『如是众生过去世时，必曾为我父母、兄弟、妻子、亲属、师友、知识。长夜无明所盖、爱系其颈，故轮转不知苦之本际。』是故当精勤方便：『当勤精进，断除诸有，莫令增长。』」是故于一切行，当生厌离；厌故离贪；离贪故解脱。\n佛说此经已，诸比丘闻佛所说，欢喜奉行。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在舍卫国祇树给孤独园。\n那时世尊告诉比丘们：「众生无始以来生死，被无明覆盖、爱结系住脖子，长夜轮转，不知苦的本际。如果看见众生令人爱念欢喜，应当这样想：『这样的众生在过去世，一定曾经是我的父母、兄弟、妻子、亲属、师友、知识。长夜被无明覆盖、爱结系住脖子，所以轮转不知苦的本际。』所以应当精勤方便：『应当勤加精进，断除诸有，不要让它增长。』」所以对一切行，应当生起厌离；厌离所以离贪；离贪所以解脱。\n佛说完这部经，比丘们听佛所说，都欢喜奉行。",
+  "notes": "本经 SC 平行表所列平行及 `raw_aligned_data.json` 内之巴利本文、Sujato 英译并用以厘定法义；求那跋陀罗汉本用于定位经文与传统术语。confidence=high：parallels SN15.14–19（母父兄弟姊妹子女分经）；汉合为一经『必为我等亲友』；义从巴利『不易得未曾为母等者』。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "high",
+  "prior_review_status": "needs_revision",
+  "similarity_to_source": 0.321,
+  "paragraph_parallel": true
+}

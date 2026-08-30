@@ -1,0 +1,33 @@
+{
+  "id": "SA_881",
+  "uid": "sa881",
+  "title": "雜阿含經  卷第三十三  修證相應  （881）  斷貪等",
+  "chinese_text": "如是我聞：\n\n一時，佛住舍衛國祇樹給孤獨園。\n\n爾時，世尊告諸比丘……如上說。差別者：「如是比丘能斷貪欲、瞋恚、愚癡。」\n\n佛說此經已，諸比丘聞佛所說，歡喜奉行。\n\n如斷貪欲、瞋恚、愚癡，如是調伏貪欲、瞋恚、愚癡；貪欲究竟，瞋恚、愚癡究竟，出要、遠離、涅槃，亦如是說。",
+  "english_sa_text": "",
+  "parallels": [],
+  "primary_sn_uid": null,
+  "pali_text": "",
+  "english_sn_text": "",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa801-900/sa881_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa801-900/sa881_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛住舍卫国祇树给孤独园。\n尔时世尊告诸比丘：「譬如有人于世间有所建立，一切皆依于地；如是比丘修习诸禅，皆依不放逸为根本，不放逸集、不放逸生、不放逸转；比丘不放逸者，能修诸善，乃至出要、远离、涅槃。如是比丘能断贪欲、瞋恚、愚癡。」\n佛说此经已，诸比丘闻佛所说，欢喜奉行。\n如断贪欲、瞋恚、愚癡，调伏贪瞋癡、贪瞋癡究竟，出要、远离、涅槃，亦如是说。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在舍卫国祇树给孤独园。\n那时世尊告诉比丘们：「好比有人在世间有所建立，一切都依靠大地；同样，比丘修习诸禅，都依不放逸为根本，由不放逸而集、而生、而转；比丘若不放逸，就能修习种种善法，一直到出要、远离、涅槃。这样，比丘就能断除贪欲、瞋恚、愚癡。」\n佛说完这部经，比丘们听佛所说，都欢喜奉行。\n如同断除贪欲、瞋恚、愚癡，调伏贪瞋癡、贪瞋癡究竟，以及出要、远离、涅槃，也是这样说。",
+  "notes": "SC 于本经未列可靠巴利平行，故唯以汉本为底，参同相应之巴利定型语厘义；依项目规约「无可靠平行时 confidence 降为 medium/low」。confidence=medium：底本「如上说」peyyāla；据 SA_880 不放逸依地譬补纲，差别句为断／调伏／究竟贪瞋痴及出要等。",
+  "review_status": "gold_reconstructed",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "medium",
+  "prior_review_status": "needs_revision",
+  "reconstruction_basis": "peyyāla「如上说」→ SA_880 不放逸依地譬＋断贪瞋痴差别",
+  "similarity_to_source": 0.314,
+  "paragraph_parallel": true
+}

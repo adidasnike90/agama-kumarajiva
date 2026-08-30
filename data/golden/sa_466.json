@@ -1,0 +1,43 @@
+{
+  "id": "SA_466",
+  "uid": "sa466",
+  "title": "雜阿含經  卷第十九  受相應  （466）  觸因",
+  "chinese_text": "如是我聞：\n\n一時，佛住王舍城迦蘭陀竹園。\n\n爾時，尊者羅睺羅往詣佛所，稽首禮足，退坐一面，白佛言：「世尊！云何知、云何見我此識身及外境界一切相，得無有我、我所見、我慢繫著使？」\n\n佛告羅睺羅：「有三受——苦受、樂受、不苦不樂受。此三受何因、何集、何生、何轉？謂此三受，觸因、觸集、觸生、觸轉；彼彼觸因、彼彼受生，若彼彼觸滅，彼彼受亦滅、止、清涼、沒。如是知、如是見我此識及外境界一切相，得無有我、我所見、我慢繫著使。」\n\n佛說此經已，尊者羅睺羅聞佛所說，歡喜奉行。",
+  "english_sa_text": "",
+  "parallels": [
+    {
+      "uid": "sn36.10",
+      "acronym": "SN 36.10",
+      "root_lang": "pli",
+      "original_title": "Phassamūlakasutta",
+      "translated_title": "Rooted in Contact",
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    }
+  ],
+  "primary_sn_uid": "sn36.10",
+  "pali_text": "“Tisso imā, bhikkhave, vedanā phassajā phassamūlakā phassanidānā phassapaccayā. Katamā tisso? Sukhā vedanā, dukkhā vedanā, adukkhamasukhā vedanā. Sukhavedaniyaṁ, bhikkhave, phassaṁ paṭicca uppajjati sukhā vedanā. Tasseva sukhavedaniyassa phassassa nirodhā, yaṁ tajjaṁ vedayitaṁ sukhavedaniyaṁ phassaṁ paṭicca uppannā sukhā vedanā, sā nirujjhati, sā vūpasammati. Dukkhavedaniyaṁ, bhikkhave, phassaṁ paṭicca uppajjati dukkhā vedanā. Tasseva dukkhavedaniyassa phassassa nirodhā, yaṁ tajjaṁ vedayitaṁ dukkhavedaniyaṁ phassaṁ paṭicca uppannā dukkhā vedanā, sā nirujjhati, sā vūpasammati. Adukkhamasukhavedaniyaṁ, bhikkhave, phassaṁ paṭicca uppajjati adukkhamasukhā vedanā. Tasseva adukkhamasukhavedaniyassa phassassa nirodhā, yaṁ tajjaṁ vedayitaṁ adukkhamasukhavedaniyaṁ phassaṁ paṭicca uppannā adukkhamasukhā vedanā, sā nirujjhati, sā vūpasammati. Seyyathāpi, bhikkhave, dvinnaṁ kaṭṭhānaṁ saṅghaṭṭanasamodhānā usmā jāyati, tejo abhinibbattati. Tesaṁyeva kaṭṭhānaṁ nānābhāvā vinikkhepā, yā tajjā usmā, sā nirujjhati, sā vūpasammati. Evameva kho, bhikkhave, imā tisso vedanā phassajā phassamūlakā phassanidānā phassapaccayā. Tajjaṁ phassaṁ paṭicca tajjā vedanā uppajjanti. Tajjassa phassassa nirodhā tajjā vedanā nirujjhantī”ti. Dasamaṁ. Vedanāsaṁyuttassa sagāthāvaggo paṭhamo. Tassuddānaṁ Samādhi sukhaṁ pahānena, pātālaṁ daṭṭhabbena ca; Sallena ceva gelaññā, anicca phassamūlakāti.",
+  "english_sn_text": "“Mendicants, these three feelings are born, rooted, sourced, and dependent on contact. What three? Pleasant, painful, and neutral feeling. Pleasant feeling arises dependent on a contact to be experienced as pleasant. With the cessation of that contact to be experienced as pleasant, the corresponding pleasant feeling ceases and stops. Painful feeling arises dependent on a contact to be experienced as painful. With the cessation of that contact to be experienced as painful, the corresponding painful feeling ceases and stops. Neutral feeling arises dependent on a contact to be experienced as neutral. With the cessation of that contact to be experienced as neutral, the corresponding neutral feeling ceases and stops. When you rub two sticks together, heat is generated and fire is produced. But when you part the sticks and lay them aside, any corresponding heat ceases and stops. In the same way, these three feelings are born, rooted, sourced, and dependent on contact. The appropriate feeling arises dependent on the corresponding contact. When the corresponding contact ceases, the appropriate feeling ceases.”",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa401-500/sa466_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa401-500/sa466_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛在王舍城迦兰陀竹园。\n尔时，尊者罗睺罗诣世尊所，稽首礼足，退坐一面，白佛言：「世尊！云何知、云何见，于此识身及外境界一切相，得无有我、我所见、我慢系着使？」\n佛告罗睺罗：「有三受——苦受、乐受、不苦不乐受。此三受何因、何集、何生、何转？谓触因、触集、触生、触转。彼彼触因，彼彼受生；若彼彼触灭，彼彼受亦灭、止、清凉、没。譬如两木相揩，则生火热；若分开放置，火热则灭。如是三受，皆依触生；随触而生，触灭则受灭。如是知、如是见，于此识身及外境界一切相，得无有我、我所见、我慢系着使。」\n佛说此经已，尊者罗睺罗闻佛所说，欢喜奉行。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在王舍城迦兰陀竹园。\n那时，罗睺罗尊者来到世尊处，顶礼佛足，退坐一面，对佛说：「世尊！怎样知、怎样见，对于这个有识之身以及外境界的一切相，才能没有我、我所见、我慢系着使？」\n佛告诉罗睺罗：「有三种受——苦受、乐受、不苦不乐受。这三种受以什么为因、为集、为生、为转？就是以触为因、为集、为生、为转。有那样的触为因，就有那样的受生起；如果那样的触灭了，那样的受也灭、止息、清凉、沉没。好比两根木头互相摩擦，就会生起火热；如果分开放置，火热就灭了。同样，这三种受都依触而生；随着相应的触而生，触灭了受也就灭。这样知、这样见，对于这个有识之身以及外境界的一切相，就能没有我、我所见、我慢系着使。」\n佛说完这部经，罗睺罗尊者听佛所说，欢喜奉行。",
+  "notes": "本经 SC 平行表所列平行及 `raw_aligned_data.json` 内之巴利本文、Sujato 英译并用以厘定法义；求那跋陀罗汉本用于定位经文与传统术语。confidence=high：primary SN36.10 Phassamūlaka。据 SN 补两木相揩生火喻；汉以罗睺罗无我问发端，SN 直告比丘——保留问端以定位本经，法义据 SN。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "high",
+  "prior_review_status": "needs_revision",
+  "similarity_to_source": 0.378,
+  "paragraph_parallel": true
+}

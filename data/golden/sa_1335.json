@@ -1,0 +1,73 @@
+{
+  "id": "SA_1335",
+  "uid": "sa1335",
+  "title": "雜阿含經  卷第五十  林相應  （1335）  安住",
+  "chinese_text": "如是我聞：\n\n一時，佛住舍衛國祇樹給孤獨園。\n\n時，有異比丘於拘薩羅人間，住一林中，入晝正受。時，彼比丘日中時，不樂心生，而說偈言：\n\n「於此日中時，　　眾鳥悉靜默，\n\n　空野忽有聲，　　令我心恐怖。」\n\n時，彼林中住止天神而說偈言：\n\n「於今日中時，　　眾鳥悉寂靜，\n\n　空野忽有聲，　　應汝不樂心，\n\n　汝當捨不樂，　　專樂修正受。」\n\n時，彼天子說偈覺悟彼比丘已，時，彼比丘專精思惟，捨除煩惱，得阿羅漢。",
+  "english_sa_text": "",
+  "parallels": [
+    {
+      "uid": "sa-2.355",
+      "acronym": "SA2 355",
+      "root_lang": "lzh",
+      "original_title": "安住",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "sn1.15",
+      "acronym": "SN 1.15",
+      "root_lang": "pli",
+      "original_title": "Saṇamānasutta",
+      "translated_title": "Murmuring",
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "sn9.12",
+      "acronym": "SN 9.12",
+      "root_lang": "pli",
+      "original_title": "Majjhanhikasutta",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "ja547",
+      "acronym": "Ja 547",
+      "root_lang": "pli",
+      "original_title": "Vessantarajātaka",
+      "translated_title": "Vessantara Jātaka",
+      "type": "full",
+      "resembling": true,
+      "remark": null
+    }
+  ],
+  "primary_sn_uid": "sn1.15",
+  "pali_text": "“Ṭhite majjhanhike kāle, sannisīvesu pakkhisu; Saṇateva brahāraññaṁ, taṁ bhayaṁ paṭibhāti man”ti. “Ṭhite majjhanhike kāle, sannisīvesu pakkhisu; Saṇateva brahāraññaṁ, sā rati paṭibhāti man”ti.",
+  "english_sn_text": "“In the still of high noon, when the birds have settled down, the mighty forest itself resounds— that strikes me as so scary!” “In the still of high noon, when the birds have settled down, the mighty forest itself resounds— that strikes me as so delightful!”",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa1301-1400/sa1335_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa1301-1400/sa1335_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛住舍卫国祇树给孤独园。\n时有异比丘于拘萨罗人间，住一林中，昼入正受。日中时，不乐心生，说偈言：「日中鸟声寂，空林忽作响，令我心生怖。」\n林中天神说偈答：「日中鸟声寂，空林自作响——此响令我悦。汝当舍不乐，专修于正受。」\n比丘闻已，专精思惟，舍诸烦恼，得阿罗汉。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在舍卫国祇树给孤独园。\n那时有一位比丘在拘萨罗人间，住在一座林中，白天入定。到了正午，心里生起不乐，说偈：「正午众鸟静默，空林忽然响起声音，使我心里害怕。」\n林中的天神用偈回答：「正午众鸟静默，空林自己响起声音——这声音使我感到喜悦。你应当舍掉不乐，专心修习正定。」\n比丘听了，专精思惟，舍离烦恼，证得阿罗汉。",
+  "notes": "本经 SC 平行表所列平行及 `raw_aligned_data.json` 内之巴利本文、Sujato 英译并用以厘定法义；求那跋陀罗汉本用于定位经文与传统术语。confidence=high：primary SN1.15（及林相应近经 SN9.12）。信-校正：汉「应汝不乐心」据巴利 sā rati paṭibhāti maṁ（空林之响于我为可喜）改作天神自陈「此响令我悦」；劝舍 arati（不乐）而修定，与 SN 一致。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "high",
+  "prior_review_status": "needs_revision",
+  "similarity_to_source": 0.178,
+  "paragraph_parallel": true
+}

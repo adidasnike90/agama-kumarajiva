@@ -1,0 +1,47 @@
+{
+  "id": "SA_607",
+  "uid": "sa607",
+  "title": "雜阿含經  卷第二十六  念處相應  （607）  淨",
+  "chinese_text": "如是我聞：\n\n一時，佛住舍衛國祇樹給孤獨園。\n\n爾時，世尊告諸比丘：「有一乘道，淨諸眾生，令越憂悲，滅惱苦，得如實法，所謂四念處。何等為四？身身觀念處，受、心、法法觀念處。」\n\n佛說此經已，諸比丘聞佛所說，歡喜奉行。",
+  "english_sa_text": "",
+  "parallels": [
+    {
+      "uid": "sn47.1",
+      "acronym": "SN 47.1",
+      "root_lang": "pli",
+      "original_title": "Ambapālisutta",
+      "translated_title": "Ambapali",
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    }
+  ],
+  "primary_sn_uid": "sn47.1",
+  "pali_text": "Evaṁ me sutaṁ— ekaṁ samayaṁ bhagavā vesāliyaṁ viharati ambapālivane. Tatra kho bhagavā bhikkhū āmantesi: “bhikkhavo”ti. “Bhadante”ti te bhikkhū bhagavato paccassosuṁ. Bhagavā etadavoca: “Ekāyanvāyaṁ, bhikkhave, maggo sattānaṁ visuddhiyā sokaparidevānaṁ samatikkamāya dukkhadomanassānaṁ atthaṅgamāya ñāyassa adhigamāya nibbānassa sacchikiriyāya, yadidaṁ—cattāro satipaṭṭhānā. Katame cattāro? Idha, bhikkhave, bhikkhu kāye kāyānupassī viharati ātāpī sampajāno satimā, vineyya loke abhijjhādomanassaṁ; vedanāsu vedanānupassī viharati ātāpī sampajāno satimā, vineyya loke abhijjhādomanassaṁ; citte cittānupassī viharati ātāpī sampajāno satimā, vineyya loke abhijjhādomanassaṁ; dhammesu dhammānupassī viharati ātāpī sampajāno satimā, vineyya loke abhijjhādomanassaṁ. Ekāyanvāyaṁ, bhikkhave, maggo sattānaṁ visuddhiyā sokaparidevānaṁ samatikkamāya dukkhadomanassānaṁ atthaṅgamāya ñāyassa adhigamāya nibbānassa sacchikiriyāya, yadidaṁ—cattāro satipaṭṭhānā”ti. Idamavoca bhagavā. Attamanā te bhikkhū bhagavato bhāsitaṁ abhinandunti. Paṭhamaṁ.",
+  "english_sn_text": "So I have heard. At one time the Buddha was staying near Vesālī in Ambapālī’s Mango Grove. There the Buddha addressed the mendicants, “Mendicants!” “Venerable sir,” they replied. The Buddha said this: “Mendicants, the four kinds of mindfulness meditation are the path to convergence. They are in order to purify sentient beings, to get past sorrow and crying, to make an end of pain and sadness, to discover the system, and to realize extinguishment. What four? It’s when a mendicant meditates by observing an aspect of the body—keen, aware, and mindful, rid of covetousness and displeasure for the world. They meditate observing an aspect of feelings—keen, aware, and mindful, rid of covetousness and displeasure for the world. They meditate observing an aspect of the mind—keen, aware, and mindful, rid of covetousness and displeasure for the world. They meditate observing an aspect of principles—keen, aware, and mindful, rid of covetousness and displeasure for the world. The four kinds of mindfulness meditation are the path to convergence. They are in order to purify sentient beings, to get past sorrow and crying, to make an end of pain and sadness, to discover the system, and to realize extinguishment.” That is what the Buddha said. Satisfied, the mendicants approved what the Buddha said.",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa601-700/sa607_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa601-700/sa607_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛住舍卫国祇树给孤独园。\n佛告比丘：「唯一直行，净众有情，越忧悲、灭恼苦、得实法——谓四念处：身、受、心、法。」\n佛说此经已，诸比丘闻佛所说，欢喜奉行。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在舍卫国祇树给孤独园。\n佛告比丘：「唯一直行，净众有情，越忧悲、灭恼苦、得实法——谓四念处：身、受、心、法。」\n佛说完这部经，比丘们听佛所说，都欢喜奉行。",
+  "notes": "本经 SC 平行表所列平行及 `raw_aligned_data.json` 内之巴利本文、Sujato 英译并用以厘定法义；求那跋陀罗汉本用于定位经文与传统术语。confidence=high：primary SN47.1（ekāyano maggo 一乘道）。SN 作 Vesālī 芒果园，汉作舍卫祇园，地点从汉本，义从 SN。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "high",
+  "prior_review_status": "needs_revision",
+  "similarity_to_source": 0.268,
+  "paragraph_parallel": true,
+  "quality_gate_reasons": [
+    "sim_lit=0.717>=0.5",
+    "lit_mod_gap=0.414>=0.1"
+  ]
+}

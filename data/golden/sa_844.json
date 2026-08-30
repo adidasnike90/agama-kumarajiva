@@ -1,0 +1,43 @@
+{
+  "id": "SA_844",
+  "uid": "sa844",
+  "title": "雜阿含經  卷第三十二  學相應  （844）  舍利弗",
+  "chinese_text": "如是我聞：\n\n一時，佛住舍衛國祇樹給孤獨園。\n\n爾時，尊者舍利弗詣尊者阿難所，問訊慰勞已，退住一面。尊者舍利弗語尊者阿難：「欲有所問，寧有閑暇為記說不？」\n\n尊者阿難語舍利弗：「隨意所問，知者當答。」\n\n舍利弗問尊者阿難：「為斷幾法，如來、應、等正覺所知所見，記說彼人得須陀洹，不墮惡趣法，決定向正覺，七有天人往生，究竟苦邊？」\n\n尊者阿難語尊者舍利弗：「斷四法、成就四法，如來、應、等正覺記說彼人得須陀洹，不墮惡趣法，決定向三菩提，七有天人往生，究竟苦邊。何等為四？謂聖弟子於佛不信住，則已斷已知，成就於佛不壞淨；於法、僧不信惡戒，彼則已斷已知，成就法、僧不壞淨及聖戒成就。如是四法斷、四法成就，如來、應、等正覺所知所見，記說彼人得須陀洹，不墮惡趣法，決定正向三菩提，七有天人往生，究竟苦邊。」\n\n尊者阿難尊者舍利弗：「如是！如是！四法斷、四法成就，如來、應、等正覺所知所見，記說彼人得須陀洹，決定正向三菩提，七有天人往生，究竟苦邊。」\n\n時，二正士共論議已，展轉隨喜，從座起去。",
+  "english_sa_text": "",
+  "parallels": [
+    {
+      "uid": "sn55.4",
+      "acronym": "SN 55.4",
+      "root_lang": "pli",
+      "original_title": "Paṭhamasāriputtasutta",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    }
+  ],
+  "primary_sn_uid": "sn55.4",
+  "pali_text": "Ekaṁ samayaṁ āyasmā ca sāriputto āyasmā ca ānando sāvatthiyaṁ viharanti jetavane anāthapiṇḍikassa ārāme. Atha kho āyasmā ānando sāyanhasamayaṁ paṭisallānā vuṭṭhito …pe… ekamantaṁ nisinno kho āyasmā ānando āyasmantaṁ sāriputtaṁ etadavoca: “katinaṁ nu kho, āvuso sāriputta, dhammānaṁ samannāgamanahetu evamayaṁ pajā bhagavatā byākatā sotāpannā avinipātadhammā niyatā sambodhiparāyaṇā”ti? “Catunnaṁ kho, āvuso, dhammānaṁ samannāgamanahetu evamayaṁ pajā bhagavatā byākatā sotāpannā avinipātadhammā niyatā sambodhiparāyaṇā. Katamesaṁ catunnaṁ? Idhāvuso, ariyasāvako buddhe aveccappasādena samannāgato hoti— itipi so bhagavā …pe… satthā devamanussānaṁ buddho bhagavāti. Dhamme …pe… saṅghe …pe… ariyakantehi sīlehi samannāgato hoti akhaṇḍehi …pe… samādhisaṁvattanikehi. Imesaṁ kho, āvuso, catunnaṁ dhammānaṁ samannāgamanahetu evamayaṁ pajā bhagavatā byākatā sotāpannā avinipātadhammā niyatā sambodhiparāyaṇā”ti. Catutthaṁ.",
+  "english_sn_text": "At one time Venerable Sāriputta was staying near Sāvatthī in Jeta’s Grove, Anāthapiṇḍika’s monastery. Then in the late afternoon, Venerable Ānanda came out of retreat … and said to Sāriputta: “Reverend, how many things do people have to possess in order for the Buddha to declare that they’re a stream-enterer, not liable to be reborn in the underworld, assured, destined for awakening?” “Reverend, people have to possess four things in order for the Buddha to declare that they’re a stream-enterer, not liable to be reborn in the underworld, assured, destined for awakening. What four? It’s when a noble disciple has experiential confidence in the Buddha … the teaching … the Saṅgha … And they have the ethical conduct loved by the noble ones … leading to immersion. People have to possess these four things in order for the Buddha to declare that they’re a stream-enterer, not liable to be reborn in the underworld, assured, destined for awakening.”",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa801-900/sa844_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa801-900/sa844_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛住舍卫国祇树给孤独园。\n尔时尊者阿难诣尊者舍利弗所，问讯已，退坐一面，言：「舍利弗！成就几法，如来记说彼人得须陀洹，不堕恶趣，决定正向正觉，极七有天人往来，究竟苦边？」\n舍利弗言：「阿难！成就四法，如来记说彼人得须陀洹，不堕恶趣，决定正向正觉，极七有天人往来，究竟苦边。何等为四？谓于佛不坏净、于法不坏净、于僧不坏净、圣戒成就。成就此四，如来记说得须陀洹，不堕恶趣，决定正向正觉，究竟苦边。」\n阿难言：「如是，如是！」\n时二尊者共论已，展转随喜，从座起去。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在舍卫国祇树给孤独园。\n那时尊者阿难到尊者舍利弗那里，问讯后，退坐一面，说：「舍利弗！要成就几法，如来才会记说那人得须陀洹，不堕恶趣，决定正向正觉，最多七次天人往来，究竟苦边？」\n舍利弗说：「阿难！成就四法，如来记说那人得须陀洹，不堕恶趣，决定正向正觉，最多七次天人往来，究竟苦边。哪四种？就是于佛不坏净、于法不坏净、于僧不坏净、以及圣戒成就。成就这四种，如来记说得须陀洹，不堕恶趣，决定正向正觉，究竟苦边。」\n阿难说：「正是这样！」\n当时两位尊者讨论完毕，互相随喜，从座位起来离去。",
+  "notes": "本经 SC 平行表所列平行及 `raw_aligned_data.json` 内之巴利本文、Sujato 英译并用以厘定法义；求那跋陀罗汉本用于定位经文与传统术语。confidence=high：SN55.4 Paṭhamasāriputta；据 SN 校正：问答主从——阿难问、舍利弗答（汉互倒）；删「断四法」对扬，唯取「成就四法」；七有／究竟苦边从汉须陀洹定型。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "high",
+  "prior_review_status": "needs_revision",
+  "similarity_to_source": 0.155,
+  "paragraph_parallel": true
+}

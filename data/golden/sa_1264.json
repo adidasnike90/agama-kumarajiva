@@ -1,0 +1,43 @@
+{
+  "id": "SA_1264",
+  "uid": "sa1264",
+  "title": "雜阿含經  卷第五十  譬喻相應  （1264）  野狐",
+  "chinese_text": "如是我聞：\n\n一時，佛住王舍城迦蘭陀竹園。爾時，世尊夜後分時聞野狐鳴。\n\n是夜過已，於大眾前敷座而坐，告諸比丘：「汝等於夜後分聞野狐鳴不？」\n\n比丘白佛：「如是，世尊！」\n\n佛告比丘：「彼野狐者，疥瘡所困，是故鳴喚。若能有人為彼野狐治疥瘡者，野狐必當知恩報恩。而今有一愚癡之人，無有知恩報恩。是故，諸比丘！當如是學：『知恩報恩。』其有小恩尚報，終不忘失，況復大恩？」\n\n佛說此經已，諸比丘聞佛所說，歡喜奉行。",
+  "english_sa_text": "",
+  "parallels": [
+    {
+      "uid": "sn17.8",
+      "acronym": "SN 17.8",
+      "root_lang": "pli",
+      "original_title": "Siṅgālasutta",
+      "translated_title": null,
+      "type": "full",
+      "resembling": true,
+      "remark": null
+    }
+  ],
+  "primary_sn_uid": "sn17.8",
+  "pali_text": "Sāvatthiyaṁ viharati. “Dāruṇo, bhikkhave, lābhasakkārasiloko …pe… adhigamāya. Assuttha no tumhe, bhikkhave, rattiyā paccūsasamayaṁ jarasiṅgālassa vassamānassā”ti? “Evaṁ, bhante”. “Eso kho, bhikkhave, jarasiṅgālo ukkaṇḍakena nāma rogajātena phuṭṭho neva bilagato ramati, na rukkhamūlagato ramati, na ajjhokāsagato ramati; yena yena gacchati, yattha yattha tiṭṭhati, yattha yattha nisīdati, yattha yattha nipajjati; tattha tattha anayabyasanaṁ āpajjati. Evameva kho, bhikkhave, idhekacco bhikkhu lābhasakkārasilokena abhibhūto pariyādiṇṇacitto neva suññāgāragato ramati, na rukkhamūlagato ramati, na ajjhokāsagato ramati; yena yena gacchati, yattha yattha tiṭṭhati, yattha yattha nisīdati, yattha yattha nipajjati; tattha tattha anayabyasanaṁ āpajjati. Evaṁ dāruṇo kho, bhikkhave, lābhasakkārasiloko …pe… evañhi vo, bhikkhave, sikkhitabban”ti. Aṭṭhamaṁ.",
+  "english_sn_text": "At Sāvatthī. “Possessions, honor, and popularity are grim … Mendicants, did you hear an old jackal howling at the crack of dawn?” “Yes, sir.” “That old jackal has the disease called mange. He’s not happy in his den, or at the root of a tree, or out in the open. Wherever he goes, stands, sits, or lies down he meets with tragedy and disaster. In the same way, take a certain mendicant whose mind is overcome and overwhelmed by possessions, honor, and popularity. They’re not happy in an empty hut, at the root of a tree, or out in the open. Wherever they go, stand, sit, or lie down they meet with tragedy and disaster. So grim are possessions, honor, and popularity. …”",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa1201-1300/sa1264_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa1201-1300/sa1264_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛住王舍城迦兰陀竹园。尔时世尊夜后分闻野狐鸣。\n夜过，于众前坐，告诸比丘：「汝等夜后分闻野狐鸣不？」白佛：「如是，世尊！」\n「彼野狐为疥疮所困，是故鸣唤。若有人为治其疮，彼必知恩报恩。今有愚人，不知恩报恩。是故当如是学：『知恩报恩；小恩尚报，况复大恩？』」\n佛说此经已，诸比丘闻佛所说，欢喜奉行。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在王舍城迦兰陀竹园。那时世尊后夜听见野狐叫。\n夜过，在大众前坐下，告诉比丘们：「你们后夜听见野狐叫了吗？」回答：「听见了，世尊！」\n「那野狐被疥疮所困，所以叫唤。如果有人给它治疮，它一定会知恩报恩。可现在有愚人，不知恩报恩。所以应当这样学：『知恩报恩；小恩尚且要报，何况大恩？』」\n佛说完这部经，比丘们听佛所说，都欢喜奉行。",
+  "notes": "本经 SC 平行表所列平行及 `raw_aligned_data.json` 内之巴利本文、Sujato 英译并用以厘定法义；求那跋陀罗汉本用于定位经文与传统术语。confidence=medium：SC resembling SN17.8（疥狐／利养不安），主题不同；本经汉义为知恩报恩——保守依汉，不改写为利养相应。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "medium",
+  "prior_review_status": "needs_revision",
+  "similarity_to_source": 0.268,
+  "paragraph_parallel": true
+}

@@ -1,0 +1,54 @@
+{
+  "id": "SA_667",
+  "uid": "sa667",
+  "title": "雜阿含經  卷第二十七  根力相應  （667）  四力",
+  "chinese_text": "如是我聞：\n\n一時，佛住舍衛國祇樹給孤獨園。\n\n爾時，世尊告諸比丘：「有四力。何等為四？謂信力、精進力、念力、慧力。復次四力——信力、念力、定力、慧力。復次四力——覺力、精進力、無罪力、攝力。」\n\n此諸經如上三力說。差別者：「何等為覺力？於善、不善法如實知，有罪、無罪，習近、不習近，卑法、勝法，黑法、白法，有分別法、無分別法，緣起法、非緣起法如實知，是名覺力。何等為精進力？謂四正斷……」如前廣說。「何等為無罪力？謂無罪身、口、意，是名無罪力。何等為攝力？謂四攝事，惠施、愛語、行利、同利。」\n\n佛說此經已，諸比丘聞佛所說，歡喜奉行。",
+  "english_sa_text": "",
+  "parallels": [
+    {
+      "uid": "an4.152",
+      "acronym": "AN 4.152",
+      "root_lang": "pli",
+      "original_title": "Saddhābalasutta",
+      "translated_title": null,
+      "type": "full",
+      "resembling": true,
+      "remark": null
+    },
+    {
+      "uid": "sa-3.18",
+      "acronym": "SA3 18",
+      "root_lang": "lzh",
+      "original_title": "四力",
+      "translated_title": null,
+      "type": "full",
+      "resembling": true,
+      "remark": null
+    }
+  ],
+  "primary_sn_uid": null,
+  "pali_text": "",
+  "english_sn_text": "",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa601-700/sa667_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa601-700/sa667_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛住舍卫国祇树给孤独园。\n佛告比丘：「有四力——信力、精进力、念力、慧力。复有四力——信力、念力、定力、慧力。复有四力——觉力、精进力、无罪力、摄力。」\n「何等觉力？于善不善、有罪无罪、宜习不宜习、劣胜、黑白、有分别无分别、缘起非缘起，皆如实知，是名觉力。」\n「何等精进力？谓四正断。何等无罪力？谓身、口、意无罪。何等摄力？谓四摄事——布施、爱语、利行、同事。」\n佛说此经已，诸比丘闻佛所说，欢喜奉行。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在舍卫国祇树给孤独园。\n佛告比丘：「有四力——信力、精进力、念力、慧力。又有四力——信力、念力、定力、慧力。又有四力——觉力、精进力、无罪力、摄力。」\n「什么是觉力？对善与不善、有罪与无罪、宜习与不宜习、劣与胜、黑与白、有分别与无分别、缘起与非缘起，都能如实知，这叫觉力。」\n「什么是精进力？就是四正断。什么是无罪力？就是身、口、意无罪。什么是摄力？就是四摄事——布施、爱语、利行、同事。」\n佛说完这部经，比丘们听佛所说，都欢喜奉行。",
+  "notes": "本经 SC 平行表所列平行及 `raw_aligned_data.json` 内之巴利本文、Sujato 英译并用以厘定法义；求那跋陀罗汉本用于定位经文与传统术语。confidence=high：resembling AN4.152（四力名目）；觉／无罪／摄三力从汉本分别，义属早期（四正断、三业清净、四摄）。gold_reconstructed：底本「如上三力说／如前广说」交叉指示，据名目补纲。",
+  "review_status": "gold_reconstructed",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "high",
+  "prior_review_status": "needs_revision",
+  "reconstruction_basis": "如上三力说／如前广说 → named tetrads + brief definitions",
+  "similarity_to_source": 0.246,
+  "paragraph_parallel": true
+}

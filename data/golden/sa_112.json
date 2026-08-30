@@ -1,0 +1,43 @@
+{
+  "id": "SA_112",
+  "uid": "sa112",
+  "title": "雜阿含經  卷第六  羅睺羅相應  （112）  斷知",
+  "chinese_text": "如是我聞：\n\n一時，佛住摩拘羅山。\n\n時，有侍者比丘名羅陀，晡時從禪覺，往詣佛所，禮佛足，退坐一面，白佛言：「世尊！如世尊說色斷知，受、想、行、識斷知。世尊！云何色斷知，受、想、行、識斷知？」\n\n佛告羅陀：「善哉所問，當為汝說。於色憂、悲、苦、惱盡，離欲、滅、息、沒，是名色斷知；於受、想、行、識，憂、悲、惱、苦盡，離欲、滅、息、沒，是名受、想、行、識斷知。」\n\n佛說此經已，羅陀比丘聞佛所說，歡喜奉行。",
+  "english_sa_text": "Saṁyuktāgama\n\n112. [Discourse on Penetrative Knowledge]\n\nThus have I heard. At one time the Buddha was staying at Mount Makula. Then an attendant monk by the name of Rādha, rising from meditation in the afternoon, approached the Buddha, paid respect at the Buddha's feet, withdrew to sit at one side, and said to the Buddha: “Blessed One, as the Blessed One has taught, there is penetrative understanding of bodily form, penetrative understanding of feeling …perception … formations … consciousness. Blessed One, what is penetrative understanding of bodily form, penetrative understanding of feeling … perception … formations … consciousness?”\n\nThe Buddha said to Rādha: “It is well for you to be asking this. I shall explain it to you. The eradication, fading away, cessation, appeasement, and vanishing of worry, sorrow, pain and vexation in relation to bodily form, this is called the penetrative understanding of bodily form. The eradication, fading away, cessation, appeasement, and vanishing of worry, sorrow, pain and vexation in relation to feeling … perception … formations … consciousness, this is called the penetrative understanding of feeling …perception … formations … consciousness.”\n\nWhen the Buddha had spoken this discourse, hearing what the Buddha had said the monk Rādha was delighted and received it respectfully.\n\nTranslated by Bhikkhu Anālayo. Originally published in ‘On Rādha and Views – A Translation of Saṁyukta-āgama Discourses 111 to 138 (Fascicle 6)’, Dharma Drum Journal of Buddhist Studies, 2015, vol. 17 pp. 1–42.\n\nPrepared for SuttaCentral by Seniya Ariyakumara and Ayya Vimala.",
+  "parallels": [
+    {
+      "uid": "sn23.4",
+      "acronym": "SN 23.4",
+      "root_lang": "pli",
+      "original_title": "Pariññeyyasutta",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    }
+  ],
+  "primary_sn_uid": "sn23.4",
+  "pali_text": "Sāvatthinidānaṁ. Āyasmā rādho yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṁ abhivādetvā ekamantaṁ nisīdi. Ekamantaṁ nisinnaṁ kho āyasmantaṁ rādhaṁ bhagavā etadavoca: “Pariññeyye ca, rādha, dhamme desessāmi pariññañca pariññātāviṁ puggalañca. Taṁ suṇāhi, sādhukaṁ manasi karohi; bhāsissāmī”ti. “Evaṁ, bhante”ti kho āyasmā rādho bhagavato paccassosi. Bhagavā etadavoca: “katame ca, rādha, pariññeyyā dhammā? Rūpaṁ kho, rādha, pariññeyyo dhammo, vedanā pariññeyyo dhammo, saññā pariññeyyo dhammo, saṅkhārā pariññeyyo dhammo, viññāṇaṁ pariññeyyo dhammo. Ime vuccanti, rādha, pariññeyyā dhammā. Katamā ca, rādha, pariññā? Yo kho, rādha, rāgakkhayo dosakkhayo mohakkhayo— ayaṁ vuccati, rādha, pariññā. Katamo ca, rādha, pariññātāvī puggalo? ‘Arahā’tissa vacanīyaṁ. Yvāyaṁ āyasmā evaṁnāmo evaṅgotto— ayaṁ vuccati, rādha, pariññātāvī puggalo”ti. Catutthaṁ.",
+  "english_sn_text": "At Sāvatthī. Venerable Rādha went up to the Buddha, bowed, and sat down to one side. The Buddha said to him: “Rādha, I will teach you the things that should be completely understood, complete understanding, and the individual who has completely understood. Listen and apply your mind well, I will speak.” “Yes, sir,” Rādha replied. The Buddha said this: “And what things should be completely understood? Form, feeling, perception, choices, and consciousness. These are called the things that should be completely understood. And what is complete understanding? The ending of greed, hate, and delusion. This is called complete understanding. And what is the individual who has completely understood? It should be said: a perfected one, the venerable of such name and such clan. This is called the individual who has completely understood.”",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa101-200/sa112_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa101-200/sa112_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时佛住摩拘罗山，有侍者比丘名曰罗陀。\n时罗陀比丘晡时从禅觉，往诣佛所，礼佛足，退坐一面，白佛言：世尊，如世尊说色断知，受、想、行、识断知。云何色断知？云何受、想、行、识断知？\n佛告罗陀：善哉所问，当为汝说。所应断知者，谓五受阴——色受阴，受、想、行、识受阴。云何断知？于色，忧、悲、恼、苦尽，离欲、灭、息、没，是名色断知；于受、想、行、识，忧、悲、恼、苦尽，离欲、灭、息、没，是名受、想、行、识断知。断知者谁？谓贪、恚、痴尽，是名阿罗汉。\n佛说此经已，罗陀比丘闻佛所说，欢喜奉行。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在摩拘罗山，身边有位侍者比丘名叫罗陀。\n傍晚，罗陀比丘从禅坐中起身，来到佛前，礼佛足后退坐一旁，问：世尊，如世尊所说「色断知」，以及受、想、行、识的断知——什么是色的断知？什么是受、想、行、识的断知？\n佛告诉罗陀：问得好，我为你说。所应断知（彻底了知）的，就是五受阴——色受阴，以及受、想、行、识受阴。什么叫断知？在色上，忧、悲、恼、苦都尽了，离欲、消灭、止息、消没，这就叫色的断知；在受、想、行、识上，忧、悲、恼、苦都尽了，离欲、消灭、止息、消没，这就叫受、想、行、识的断知。谁是断知了的人？就是贪、瞋、痴都尽的人，那就是阿罗汉。\n佛说完这部经，罗陀比丘听佛所说，欢喜奉行。",
+  "notes": "据 SN23.4（Pariññeyya）：所应遍知之法（pariññeyyā dhammā）＝五取蕴；遍知（pariññā）＝ rāgakkhayo（贪尽）；遍知者（pariññātāvī）＝阿罗汉。汉译「断知」当为 pariññā（遍知）之译而杂以「断」义，其所释「离欲、灭、息、没」正当巴利之「贪尽」，故语面虽异而义合；今文言存旧语「断知」以便定位，白话出注作「彻底了知」。又底本仅出「断知」之释而脱其所依之三分架构，今据 SN23.4 补出「所应断知者（五阴）／断知（贪恚痴尽）／断知者（阿罗汉）」三节，仍存汉本「忧悲恼苦尽」之语面。SC 虽标 full parallel，然「断知」译名与所对不能确指，confidence=medium。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "medium",
+  "similarity_to_source": 0.364,
+  "prior_review_status": "needs_revision",
+  "paragraph_parallel": true
+}

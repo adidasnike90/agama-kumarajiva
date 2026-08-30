@@ -1,0 +1,32 @@
+{
+  "id": "SA_1354",
+  "uid": "sa1354",
+  "title": "雜阿含經  卷第五十  林相應  （1354）  恒河",
+  "chinese_text": "如是我聞：\n\n一時，佛住迦蘭陀竹園。\n\n時，有異比丘在恒河側，住一林中。\n\n時，有一族姓女，常為舅姑所責，至恒水岸邊，而說偈言：\n\n「恒水我今欲，　　隨流徐入海，\n\n　不復令舅姑，　　數數見嫌責。」\n\n時，彼比丘見族姓女，聞其說偈，作是念：「彼族姓女尚能說偈，我今何為不說偈答耶？」即說偈言：\n\n「淨信我今欲，　　隨彼八聖水，\n\n　徐流入涅槃，　　不見魔自在。」\n\n時，彼比丘說此偈已，默然而住。",
+  "english_sa_text": "",
+  "parallels": [],
+  "primary_sn_uid": null,
+  "pali_text": "",
+  "english_sn_text": "",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa1301-1400/sa1354_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa1301-1400/sa1354_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛住迦兰陀竹园。\n时有异比丘在恒河侧，住一林中。\n有一族姓女常为舅姑所责，至恒水岸边说偈：「我今欲随恒水，徐流入于大海；不复令舅与姑，数数见我嫌责。」\n比丘闻已念：「彼女尚能说偈，我何不答？」即说偈：「我今欲以净信，随彼八圣之水；徐流入于涅槃，不见魔得自在。」\n比丘说此偈已，默然而住。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在迦兰陀竹园。\n当时有一位比丘在恒河边，住在一片林中。\n有一位族姓女子常被公婆责骂，来到恒水岸边说偈：「我如今想随着恒水，缓缓流入大海；好让公婆不再一次次嫌责我。」\n比丘听了心想：「那女子都能说偈，我为什么不答？」便说偈：「我如今想以净信，随着那八圣之水；缓缓流入涅槃，不再见魔得自在。」\n比丘说完这首偈，便默然而住。",
+  "notes": "SC 于本经未列可靠巴利平行，故唯以汉本为底，参林相应／Vanasaṃyutta 定型语及早期教理厘义；依项目规约「无可靠平行时 confidence 降为 medium/low」。求那跋陀罗汉本用于定位经文与传统术语。confidence=medium：无 SC 专经。女欲随恒流入海避责；比丘以净信随八支圣道流入涅槃对答。「八圣水」＝八圣道。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "medium",
+  "prior_review_status": "needs_revision",
+  "similarity_to_source": 0.23,
+  "paragraph_parallel": true
+}

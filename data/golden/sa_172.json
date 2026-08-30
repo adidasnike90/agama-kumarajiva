@@ -1,0 +1,32 @@
+{
+  "id": "SA_172",
+  "uid": "sa172",
+  "title": "雜阿含經  卷第八  斷知相應  （172）  無常法當斷",
+  "chinese_text": "如是我聞：\n\n一時，佛住舍衛國祇樹給孤獨園。\n\n爾時，世尊告諸比丘：「若法無常者當斷，斷彼法已，以義饒益，長夜安樂。何法無常？色無常，受、想、行、識無常。」\n\n佛說此經已，諸比丘聞佛所說，歡喜奉行。",
+  "english_sa_text": "Saṁyuktāgama\n\n172. [First Discourse on Eradicating Impermanent Things]\n\nThus have I heard. At one time the Buddha was staying at Sāvatthī in Jeta's Grove, Anāthapiṇḍika's Park.\n\nAt that time the Blessed One said to the monks: “You should eradicate those things that are impermanent. Having eradicated those things will be for your benefit and welfare, for your peace and happiness for a long time. What things are impermanent? Bodily form is impermanent, feeling … perception … formations … consciousness is impermanent.”\n\nWhen the Buddha had spoken this discourse, hearing what the Buddha had said the monks were delighted and received it respectfully.\n\nTranslated by Bhikkhu Anālayo. Originally published in ‘On Views and Penetrative Knowledge – A Translation of Saṁyukta-āgama Discourses 139 to 187 (Fascicle 7)’, Dharma Drum Journal of Buddhist Studies, 2015, vol. 17 pp. 43–100.\n\nPrepared for SuttaCentral by Seniya Ariyakumara and Ayya Vimala.",
+  "parallels": [],
+  "primary_sn_uid": null,
+  "pali_text": "",
+  "english_sn_text": "",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa101-200/sa172_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa101-200/sa172_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时佛在舍卫国祇树给孤独园。\n尔时世尊告诸比丘：诸法无常者，一切当断。断彼法已，则得义利，长夜安乐。何法无常？色是无常，受、想、行、识是无常。\n佛说此经已，诸比丘闻佛所说，欢喜奉行。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在舍卫国祇树给孤独园。\n那时，世尊告诉比丘们：凡是无常的法，都应当断除。断除了它，便得到真实的利益，长久安乐。什么是无常的？色是无常的，受、想、行、识是无常的。\n佛说完这部经，比丘们听佛所说，都欢喜奉行。",
+  "notes": "SuttaCentral 平行表于断知相应（SA 172–187）未列任何巴利平行，故不托 SN 某经；今以汉本为底，参 Anālayo 英译（DDJBS 17, 2015）及道品巴利定型语厘定法义。「以义饶益，长夜安乐」为巴利 atthāya hitāya sukhāya 一类定型语（Anālayo：for your benefit and welfare, for your peace and happiness for a long time），今作「则得义利，长夜安乐」，取其义而去其calque。「若法无常者当断」之「断」（pahāna）所断非色法自身，乃于无常法之欲贪，此意由次经（SA_173）「过去色是无常法，过去欲是无常法」显之，故本经存其略而不增字。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "medium",
+  "prior_review_status": "needs_revision",
+  "similarity_to_source": 0.412,
+  "paragraph_parallel": true
+}

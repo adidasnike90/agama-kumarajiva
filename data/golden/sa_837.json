@@ -1,0 +1,32 @@
+{
+  "id": "SA_837",
+  "uid": "sa837",
+  "title": "雜阿含經  卷第三十一  學相應  （837）  過患",
+  "chinese_text": "如是我聞：\n\n一時，佛住舍衛國祇樹給孤獨園。\n\n爾時，世尊告諸比丘：「若信人者，生五種過患，彼人或時犯戒違律，為眾所棄。恭敬其人者，當作是念：『此是我師，我所重敬，眾僧棄薄，我今何緣入彼塔寺？』不入塔寺已，不敬眾僧；不敬僧已，不得聞法；不聞法已，退失善法，不得久住於正法中。是名信敬人生初過患。\n\n「復次，敬信人者，所敬之人犯戒違律，眾僧為作不見舉。敬信彼人者，當作是念：『此是我師，我所敬重，而今眾僧作不見舉，我今何緣復入塔寺？』不入塔寺已，不敬眾僧；不敬眾僧已，不得聞法；不聞法已，退失善法，不得久住於正法中。是名敬信人故生第二過患。\n\n「復次，彼人若持衣鉢，餘方遊行。敬彼人者，而作是念：『我所敬人著衣持鉢，人間遊行，我今何緣入彼塔寺？』不入塔寺已，不得恭敬眾僧；不敬眾僧已，不得聞法；不聞法已，退失善法，不得久住於正法中。是名敬信人故生第三過患。\n\n「復次，彼所信敬人捨戒還俗。敬信彼人者，而作是念：『彼是我師，我所敬重，捨戒還俗，我今不應入彼塔寺。』不入寺已，不敬眾僧；不敬僧已，不得聞法；不聞法已，退失善法，不得久住於正法中。是名敬信人故生第四過患。\n\n「復次，彼所信敬人身壞命終。敬信彼人者，而作是念：『彼是我師，我所敬重，今已命終，我今何緣入彼塔寺？』不入寺故，不得敬僧；不敬僧已，不得聞法；不聞法故，退失善法，不得久住於正法中。是名敬信人故生第五過患。\n\n「是故，諸比丘！當如是學：『我當成就於佛不壞淨，於法、僧不壞淨，聖戒成就。』」\n\n佛說此經已，諸比丘聞佛所說，歡喜奉行。",
+  "english_sa_text": "",
+  "parallels": [],
+  "primary_sn_uid": null,
+  "pali_text": "",
+  "english_sn_text": "",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa801-900/sa837_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa801-900/sa837_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛住舍卫国祇树给孤独园。\n尔时世尊告诸比丘：「若唯信敬于人，生五过患。彼或犯戒违律，为众摈弃；敬者念言：『我所重师，众已弃薄，我何缘入寺？』不入寺则不敬僧，不敬僧则不闻法，不闻法退失善法，不久住正法——是为初患。或众作不见举；或彼持衣钵游方；或捨戒还俗；或身坏命终——敬者皆以是故不入寺、不敬僧、不闻法、退失善法，不得久住——是为五患。是故当如是学：『我当成就于佛不坏净、于法不坏净、于僧不坏净、圣戒成就。』」\n佛说此经已，诸比丘闻佛所说，欢喜奉行。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在舍卫国祇树给孤独园。\n那时世尊告诉比丘们：「如果只信敬某一个人，会生五种过患。那人或犯戒违律，被僧众摈弃；敬重他的人会想：『我所敬重的师，已被众弃薄，我何必再入寺？』不入寺就不敬僧，不敬僧就听不到法，听不到法就退失善法，不能久住正法——这是第一种过患。或者僧众对他作不见举；或者他持衣钵游方；或者捨戒还俗；或者身坏命终——敬重他的人都因此不入寺、不敬僧、不闻法、退失善法，不能久住——这就是五种过患。所以应当这样学：『我应当成就于佛不坏净、于法不坏净、于僧不坏净、以及圣戒成就。』」\n佛说完这部经，比丘们听佛所说，都欢喜奉行。",
+  "notes": "SC 于本经未列可靠巴利平行，故唯以汉本为底，参同相应之巴利定型语厘义；依项目规约「无可靠平行时 confidence 降为 medium/low」。confidence=medium：无 SC 专经；压缩五患同型反复（犯戒摈／不见举／游方／还俗／命终），结归四不坏净——与前后须陀洹支相应一致。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "medium",
+  "prior_review_status": "needs_revision",
+  "similarity_to_source": 0.154,
+  "paragraph_parallel": true
+}

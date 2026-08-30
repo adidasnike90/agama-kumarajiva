@@ -1,0 +1,44 @@
+{
+  "id": "SA_730",
+  "uid": "sa730",
+  "title": "雜阿含經  卷第二十九  覺支相應  （730）  分",
+  "chinese_text": "如是我聞：\n\n一時，佛住舍衛國祇樹給孤獨園。\n\n爾時，世尊告諸比丘……如上說。差別者：「諸比丘！過去已如是修七覺分，未來亦當如是修七覺分。」\n\n佛說此經已，諸比丘聞佛所說，歡喜奉行。",
+  "english_sa_text": "",
+  "parallels": [
+    {
+      "uid": "sn46.41",
+      "acronym": "SN 46.41",
+      "root_lang": "pli",
+      "original_title": "Vidhāsutta",
+      "translated_title": "Discriminations",
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    }
+  ],
+  "primary_sn_uid": "sn46.41",
+  "pali_text": "Sāvatthinidānaṁ. “Ye hi keci, bhikkhave, atītamaddhānaṁ samaṇā vā brāhmaṇā vā tisso vidhā pajahiṁsu, sabbe te sattannaṁ bojjhaṅgānaṁ bhāvitattā bahulīkatattā. Ye hi keci, bhikkhave, anāgatamaddhānaṁ samaṇā vā brāhmaṇā vā tisso vidhā pajahissanti, sabbe te sattannaṁ bojjhaṅgānaṁ bhāvitattā bahulīkatattā. Ye hi keci, bhikkhave, etarahi samaṇā vā brāhmaṇā vā tisso vidhā pajahanti, sabbe te sattannaṁ bojjhaṅgānaṁ bhāvitattā bahulīkatattā. Katamesaṁ sattannaṁ bojjhaṅgānaṁ? Satisambojjhaṅgassa …pe… upekkhāsambojjhaṅgassa. Ye hi keci, bhikkhave, atītamaddhānaṁ samaṇā vā brāhmaṇā vā tisso vidhā pajahiṁsu …pe… pajahissanti …pe… pajahanti, sabbe te imesaṁyeva sattannaṁ bojjhaṅgānaṁ bhāvitattā bahulīkatattā”ti. Paṭhamaṁ.",
+  "english_sn_text": "At Sāvatthī. “Mendicants, all the ascetics and brahmins in the past who have given up the three discriminations have done so by developing and cultivating the seven awakening factors. All the ascetics and brahmins in the future who will give up the three discriminations will do so by developing and cultivating the seven awakening factors. All the ascetics and brahmins in the present who are giving up the three discriminations do so by developing and cultivating the seven awakening factors. What seven? The awakening factors of mindfulness, investigation of principles, energy, rapture, tranquility, immersion, and equanimity. All the ascetics and brahmins in the past … future … and present who give up the three discriminations do so by developing and cultivating the seven awakening factors.”",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa701-800/sa730_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa701-800/sa730_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛住舍卫国祇树给孤独园。\n佛告比丘：「过去诸沙门、婆罗门，凡能舍三种分别——我胜、我等、我劣——皆由修习七觉支故；未来、现在能舍者，亦复如是。」\n「何等七？念觉支、择法觉支、精进觉支、喜觉支、轻安觉支、定觉支、舍觉支。修此七支，则能舍彼三分。」\n佛说此经已，诸比丘闻佛所说，欢喜奉行。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在舍卫国祇树给孤独园。\n佛告诉比丘：「过去的沙门、婆罗门，凡是能舍掉三种分别——我更胜、我相等、我更劣——都是因为修习七觉支；未来、现在能舍的，也是一样。」\n「哪七支？念觉支、择法觉支、精进觉支、喜觉支、轻安觉支、定觉支、舍觉支。修这七支，就能舍掉那三种分别。」\n佛说完这部经，比丘们听佛所说，都欢喜奉行。",
+  "notes": "本经 SC 平行表所列平行及 `raw_aligned_data.json` 内之巴利本文、Sujato 英译并用以厘定法义；求那跋陀罗汉本用于定位经文与传统术语。confidence=high：primary SN46.41 Vidhā（舍三分别／三慢靠七觉支）。gold_reconstructed：汉仅「过去未来修七觉分」peyyāla → 据 SN 补 tisso vidhā（我胜／我等／我劣）及三世句。",
+  "review_status": "gold_reconstructed",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "high",
+  "prior_review_status": "needs_revision",
+  "reconstruction_basis": "peyyāla「过去未来修」→ SN46.41 三分别＋三世",
+  "similarity_to_source": 0.175,
+  "paragraph_parallel": true
+}

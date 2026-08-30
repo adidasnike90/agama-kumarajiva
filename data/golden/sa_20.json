@@ -1,0 +1,25 @@
+{
+  "id": "SA_20",
+  "uid": "sa20",
+  "title": "雜阿含經  卷第一  陰相應  （二〇）  深",
+  "chinese_text": "染經亦如是說。",
+  "english_sa_text": "A sūtra about being affected was taught in the same way [as the previous sūtra].",
+  "parallels": [],
+  "primary_sn_uid": null,
+  "pali_text": "",
+  "english_sn_text": "",
+  "errors": [],
+  "kumarajiva_style_text": "（底本略写）染经亦如是说。\n【依前「可染」经例，以「染」重建，义当作：】\n如是我闻：一时佛在舍卫国祇树给孤独园。有异比丘请佛略说法要。佛言：染所染法，于彼欲贪宜速除断；除断已，以义饶益，长夜安乐。比丘广解：色是染所染法，于色欲贪宜速除断；受、想、行、识亦复如是。佛印可之。彼比丘精勤不放逸，乃至心得解脱，成阿罗汉。",
+  "modern_psychology_text": "（底本只有一句：染经也是这样说的。）\n【按照前一部「可染」经的格式，用「染」重建，意思应是：】\n我是这样听说的：有一次，佛住在舍卫国祇树给孤独园。有一位比丘请佛略说法要。佛说：被染所染着的法，对它的欲贪应当迅速除断；除断之后，便能得到义利，长夜安乐。比丘广解：色是染所染法，对色的欲贪应当迅速除断；受、想、行、识也是一样。佛予以印可。那位比丘精勤不放逸，直到心得解脱，成阿罗汉。",
+  "notes": "底本仅「染经亦如是说」。【】内为依 SA_19 同组略说例＋关键词「染」所作明示补叙，非底本逐字；review_status=gold_reconstructed，confidence=medium。无 SC 主平行；与 SN22.70 rajanīya 义近。",
+  "review_status": "gold_reconstructed",
+  "translator": "cursor-agent",
+  "confidence": "medium",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": []
+}

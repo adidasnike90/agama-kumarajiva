@@ -1,0 +1,43 @@
+{
+  "id": "SA_842",
+  "uid": "sa842",
+  "title": "雜阿含經  卷第三十二  學相應  （842）  婆羅門",
+  "chinese_text": "如是我聞：\n\n一時，佛住舍衛國祇樹給孤獨園。\n\n爾時，世尊告諸比丘：「婆羅門者，說虛偽道，愚癡惡邪，不正趣向，非智等覺向於涅槃。彼作如是化諸弟子：於十五日，以胡麻屑、菴羅摩羅屑沐浴身體，著新劫貝，頭垂長縷，牛屎塗地而臥於上，言：『善男子！晨朝早起，脫衣舉著一處，躶其形體，向東方馳走，正使道路逢兇象、惡馬、狂牛、猘狗、棘刺、叢林、坑澗、深水，直前莫避，遇害死者，必生梵天。』是名外道愚癡邪見，非智等覺向於涅槃。我為弟子說平正路，非愚癡，向智慧等覺，向於涅槃，謂八聖道——正見乃至正定。」\n\n佛說此經已，諸比丘聞佛所說，歡喜奉行。",
+  "english_sa_text": "",
+  "parallels": [
+    {
+      "uid": "sn55.12",
+      "acronym": "SN 55.12",
+      "root_lang": "pli",
+      "original_title": "Brāhmaṇasutta",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    }
+  ],
+  "primary_sn_uid": "sn55.12",
+  "pali_text": "Sāvatthinidānaṁ. “Brāhmaṇā, bhikkhave, udayagāminiṁ nāma paṭipadaṁ paññapenti. Te sāvakaṁ evaṁ samādapenti: ‘ehi tvaṁ, ambho purisa, kālasseva uṭṭhāya pācīnamukho yāhi. So tvaṁ mā sobbhaṁ parivajjehi, mā papātaṁ, mā khāṇuṁ, mā kaṇḍakaṭhānaṁ, mā candaniyaṁ, mā oḷigallaṁ. Yattha papateyyāsi tattheva maraṇaṁ āgameyyāsi. Evaṁ tvaṁ, ambho purisa, kāyassa bhedā paraṁ maraṇā sugatiṁ saggaṁ lokaṁ upapajjissasī’ti. Taṁ kho panetaṁ, bhikkhave, brāhmaṇānaṁ bālagamanametaṁ mūḷhagamanametaṁ na nibbidāya na virāgāya na nirodhāya na upasamāya na abhiññāya na sambodhāya na nibbānāya saṁvattati. Ahañca kho, bhikkhave, ariyassa vinaye udayagāminiṁ paṭipadaṁ paññāpemi; yā ekantanibbidāya virāgāya nirodhāya upasamāya abhiññāya sambodhāya nibbānāya saṁvattati. Katamā ca sā, bhikkhave, udayagāminī paṭipadā; yā ekantanibbidāya …pe… nibbānāya saṁvattati? Idha, bhikkhave, ariyasāvako buddhe aveccappasādena samannāgato hoti— itipi so bhagavā arahaṁ sammāsambuddho …pe… satthā devamanussānaṁ buddho bhagavāti; dhamme …pe… saṅghe …pe… ariyakantehi sīlehi samannāgato hoti akhaṇḍehi …pe… samādhisaṁvattanikehi. Ayaṁ kho sā, bhikkhave, udayagāminī paṭipadā ekantanibbidāya …pe… nibbānāya saṁvattatī”ti. Dutiyaṁ.",
+  "english_sn_text": "At Sāvatthī. “Mendicants, the brahmins advocate a practice called ‘get up and go’. They encourage their disciple: ‘Please, my man, rising early you should face east and walk. Do not avoid a pit, a cliff, a stump, thorny ground, a swamp, or a sewer. You should await death in the place that you fall. And when your body breaks up, after death, you’ll be reborn in a good place, a heaven realm.’ But this practice of the brahmins is a foolish procedure, a stupid procedure. It doesn’t lead to disillusionment, dispassion, cessation, peace, insight, awakening, or extinguishment. But in the training of the Noble One I advocate a ‘get up and go’ practice which does lead solely to disillusionment, dispassion, cessation, peace, insight, awakening, and extinguishment. And what is that ‘get up and go’ practice? It’s when a noble disciple has experiential confidence in the Buddha … the teaching … the Saṅgha … And they have the ethical conduct loved by the noble ones … leading to immersion. This is that ‘get up and go’ practice which does lead solely to disillusionment, dispassion, cessation, peace, insight, awakening, and extinguishment.”",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa801-900/sa842_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa801-900/sa842_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛住舍卫国祇树给孤独园。\n尔时世尊告诸比丘：「婆罗门说『起而行』之道，劝弟子：『善男子！晨朝东向直行，坑堑、棘刺、沼泽、污水皆莫避；随所颠仆，即待其死——身坏命终，当生善趣、天上。』此是愚行、迷行，不趣厌、离贪、灭、寂、通智、等觉、涅槃。我于圣律中说『起而行』之道，能趣一向厌、离贪、灭、寂、通智、等觉、涅槃——谓圣弟子成就于佛不坏净、于法不坏净、于僧不坏净、圣戒成就。此是『起而行』道，能趣涅槃。」\n佛说此经已，诸比丘闻佛所说，欢喜奉行。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在舍卫国祇树给孤独园。\n那时世尊告诉比丘们：「婆罗门宣说一种叫『起而行』的道，劝弟子：『善男子！清晨向东方一直走，坑堑、棘刺、沼泽、污水都不要躲；在哪里跌倒，就在那里等死——身坏命终，会生到善趣、天上。』这是愚行、迷行，不导向厌离、离贪、灭、寂静、通智、等觉、涅槃。我在圣律中宣说『起而行』之道，能导向一向厌离、离贪、灭、寂静、通智、等觉、涅槃——就是圣弟子成就于佛不坏净、于法不坏净、于僧不坏净、以及圣戒成就。这才是『起而行』之道，能趣向涅槃。」\n佛说完这部经，比丘们听佛所说，都欢喜奉行。",
+  "notes": "本经 SC 平行表所列平行及 `raw_aligned_data.json` 内之巴利本文、Sujato 英译并用以厘定法义；求那跋陀罗汉本用于定位经文与传统术语。confidence=high：SN55.12 Brāhmaṇa（udayagāminī）；据 SN 校正：汉「八圣道」→四不坏净（须陀洹支）为「起而行」正道；删胡麻屑／牛屎卧等外道仪轨铺排，义从巴利直行不顾险。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "high",
+  "prior_review_status": "needs_revision",
+  "similarity_to_source": 0.128,
+  "paragraph_parallel": true
+}

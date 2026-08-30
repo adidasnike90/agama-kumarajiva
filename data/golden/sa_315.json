@@ -1,0 +1,46 @@
+{
+  "id": "SA_315",
+  "uid": "sa315",
+  "title": "雜阿含經  卷第十二  因緣相應  （315）  眼生",
+  "chinese_text": "如是我聞：\n\n一時，佛住舍衛國祇樹給孤獨園。\n\n爾時，世尊告諸比丘：「若眼生、住、轉出，則苦生、病住、老死出。耳、鼻、舌、身、意亦如是說。若眼滅、息、沒，苦生則滅，病則息，死則沒。耳、鼻、舌、身、意亦如是說。」\n\n佛說此經已，諸比丘聞佛所說，歡喜奉行。",
+  "english_sa_text": "",
+  "parallels": [
+    {
+      "uid": "sn26.1",
+      "acronym": "SN 26.1",
+      "root_lang": "pli",
+      "original_title": "Cakkhusutta",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    }
+  ],
+  "primary_sn_uid": "sn26.1",
+  "pali_text": "Sāvatthinidānaṁ. “Yo kho, bhikkhave, cakkhussa uppādo ṭhiti abhinibbatti pātubhāvo, dukkhasseso uppādo, rogānaṁ ṭhiti, jarāmaraṇassa pātubhāvo. Yo sotassa uppādo ṭhiti …pe… yo ghānassa uppādo ṭhiti … yo jivhāya uppādo ṭhiti … yo kāyassa uppādo ṭhiti … yo manassa uppādo ṭhiti abhinibbatti pātubhāvo, dukkhasseso uppādo, rogānaṁ ṭhiti, jarāmaraṇassa pātubhāvo. Yo ca, bhikkhave, cakkhussa nirodho vūpasamo atthaṅgamo, dukkhasseso nirodho, rogānaṁ vūpasamo, jarāmaraṇassa atthaṅgamo. Yo sotassa nirodho …pe… yo ghānassa nirodho … yo jivhāya nirodho … yo kāyassa nirodho … yo manassa nirodho vūpasamo atthaṅgamo, dukkhasseso nirodho, rogānaṁ vūpasamo, jarāmaraṇassa atthaṅgamo”ti. Paṭhamaṁ.",
+  "english_sn_text": "At Sāvatthī. “Mendicants, the arising, continuation, and manifestation and regeneration of the eye is the arising of suffering, the continuation of diseases, and the manifestation of old age and death. The arising, continuation, and manifestation and regeneration of the ear, nose, tongue, body, and mind is the arising of suffering, the continuation of diseases, and the manifestation of old age and death. The cessation, settling, and disappearance of the eye is the cessation of suffering, the settling of diseases, and the disappearance of old age and death. The cessation, settling, and disappearance of the ear, nose, tongue, body, and mind is the cessation of suffering, the settling of diseases, and the disappearance of old age and death.”",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa301-400/sa315_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa301-400/sa315_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛在舍卫国祇树给孤独园。\n尔时，世尊告诸比丘：「眼若生起、安住、显现，苦亦生起，病亦安住，老死亦显现。」耳、鼻、舌、身、意亦复如是。\n「眼若息灭、止息、沉没，苦亦息灭，病亦止息，老死亦沉没。」耳、鼻、舌、身、意亦复如是。\n佛说此经已，诸比丘闻佛所说，欢喜奉行。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在舍卫国祇树给孤独园。\n那时，世尊告诉比丘们：「眼若生起、安住、显现，苦也随之生起，病也随之安住，老死也随之显现。」耳、鼻、舌、身、意也是一样。\n「眼若息灭、止息、沉没，苦也随之息灭，病也随之止息，老死也随之沉没。」耳、鼻、舌、身、意也是一样。\n佛说完这部经，比丘们听佛所说，都欢喜奉行。",
+  "notes": "本经 SC 平行表所列平行及 `raw_aligned_data.json` 内之巴利本文、Sujato 英译并用以厘定法义；求那跋陀罗汉本用于定位经文与传统术语。confidence=high：SN26.1（Cakkhu）为 `full` 平行。据巴利 uppādo/ṭhiti/pātubhāvo 与 nirodho/vūpasamo/atthaṅgamo，作生起安住显现／息灭止息沉没，与苦、病、老死相对。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "high",
+  "prior_review_status": "needs_revision",
+  "similarity_to_source": 0.272,
+  "paragraph_parallel": true,
+  "quality_gate_reasons": [
+    "lit_mod_gap=0.279>=0.1"
+  ]
+}

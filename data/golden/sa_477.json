@@ -1,0 +1,35 @@
+{
+  "id": "SA_477",
+  "uid": "sa477",
+  "title": "雜阿含經  卷第十九  受相應  （477）  禪思",
+  "chinese_text": "如異比丘問經，尊者阿難所問經亦如是。",
+  "english_sa_text": "",
+  "parallels": [],
+  "primary_sn_uid": null,
+  "pali_text": "",
+  "english_sn_text": "",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa401-500/sa477_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa401-500/sa477_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如异比丘问经，尊者阿难所问经亦如是。",
+  "modern_psychology_text": "如同那位比丘所问的经，阿难尊者所问的经也是这样。",
+  "notes": "SC 于本经未列可靠巴利平行，故唯以汉本为底，参同相应之巴利定型语厘义；依项目规约「无可靠平行时 confidence 降为 medium/low」，本经作 medium。底本为交叉指示，指向 SA474 阿难版；gold_reconstructed 保留指示句。",
+  "review_status": "gold_reconstructed",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "warn",
+    "issues": [],
+    "warnings": [
+      "literary_suspiciously_short"
+    ],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "medium",
+  "prior_review_status": "needs_revision",
+  "reconstruction_basis": "底本『如异比丘问经，尊者阿难所问经亦如是』为交叉指示；指向 SA474 阿难止息经",
+  "similarity_to_source": 0.143,
+  "paragraph_parallel": true
+}

@@ -1,0 +1,43 @@
+{
+  "id": "SA_1101",
+  "uid": "sa1101",
+  "title": "雜阿含經  卷第四十七  魔相應  （1101）  師子",
+  "chinese_text": "如是我聞：\n\n一時，佛住波羅㮈國仙人住處鹿野苑中。\n\n爾時，世尊告諸比丘：「如來聲聞作師子吼，說言：『已知！已知！』不知如來聲聞於何等法已知、已知故作師子吼？謂苦聖諦、苦集聖諦、苦滅聖諦、苦滅道跡聖諦。」\n\n時，天魔波旬作是念：「沙門瞿曇住波羅㮈國仙人住處鹿野苑中，為諸聲聞說法，乃至已知四聖諦。我今當往，為作留難。」化作年少，住於佛前，而說偈言：\n\n「何於大眾中，　　無畏師子吼，\n\n　謂呼無有敵，　　望調伏一切？」\n\n爾時，世尊作是念：「惡魔波旬欲作嬈亂。」即說偈言：\n\n「如來於一切，　　甚深正法律，\n\n　方便師子吼，　　於法無所畏。\n\n　若有智慧者，　　何故自憂怖？」\n\n時，魔波旬作是念：「沙門瞿曇已知我心。」內懷憂慼，即沒不現。",
+  "english_sa_text": "",
+  "parallels": [
+    {
+      "uid": "sn4.12",
+      "acronym": "SN 4.12",
+      "root_lang": "pli",
+      "original_title": "Kinnusīhasutta",
+      "translated_title": "Lion",
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    }
+  ],
+  "primary_sn_uid": "sn4.12",
+  "pali_text": "Ekaṁ samayaṁ bhagavā sāvatthiyaṁ viharati jetavane anāthapiṇḍikassa ārāme. Tena kho pana samayena bhagavā mahatiyā parisāya parivuto dhammaṁ deseti. Atha kho mārassa pāpimato etadahosi: “ayaṁ kho samaṇo gotamo mahatiyā parisāya parivuto dhammaṁ deseti. Yannūnāhaṁ yena samaṇo gotamo tenupasaṅkameyyaṁ vicakkhukammāyā”ti. Atha kho māro pāpimā yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṁ gāthāya ajjhabhāsi: “Kinnu sīhova nadasi, parisāyaṁ visārado; Paṭimallo hi te atthi, vijitāvī nu maññasī”ti. “Nadanti ve mahāvīrā, parisāsu visāradā; Tathāgatā balappattā, tiṇṇā loke visattikan”ti. Atha kho māro pāpimā “jānāti maṁ bhagavā, jānāti maṁ sugato”ti dukkhī dummano tatthevantaradhāyīti.",
+  "english_sn_text": "At one time the Buddha was staying near Sāvatthī in Jeta’s Grove, Anāthapiṇḍika’s monastery. Now, at that time the Buddha was teaching Dhamma, surrounded by a large assembly. Then Māra thought, “The ascetic Gotama is teaching Dhamma, surrounded by a large assembly. Why don’t I go and pull the wool over their eyes?” Then Māra the Wicked went up to the Buddha and addressed him in verse: “Why now do you roar like a lion? You’re so self-assured in the assembly! For there is someone who’ll wrestle with you, so why do you imagine you’re the victor?” “The great heroes they roar, self-assured in the assemblies. The Realized One, attained to power, has crossed over clinging to the world.” Then Māra the Wicked, thinking, “The Buddha knows me! The Holy One knows me!” miserable and sad, vanished right there.",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa1101-1200/sa1101_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa1101-1200/sa1101_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛住波罗奈国仙人住处鹿野苑中。\n佛告诸比丘：「如来声闻作师子吼，言『已知！已知！』——于苦、集、灭、道四圣谛。魔化年少说偈：「大众中无畏，作师子吼者，谓无有敌手耶？」佛答：「如来于甚深法律，方便师子吼，于法无所畏；大英雄于众中，已度诸取着。」\n时魔波旬作是念：「沙门已知我心。」内怀忧慼，即没不现。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在波罗奈国仙人住处鹿野苑中。\n佛告诉比丘们：「如来的声闻作师子吼，说『已知！已知！』——所知就是苦、集、灭、道四圣谛。魔化成年少说偈：「在大众里无所畏惧地作师子吼，是以为没有对手吗？」佛回答：「如来在甚深法律中方便作师子吼，于法无所畏；大英雄在众中，已经度过各种取着。」\n那时魔波旬心里想：「沙门已经知道我的心。」内心忧恼，随即隐没不见。",
+  "notes": "本经 SC 平行表所列平行及 `raw_aligned_data.json` 内之巴利本文、Sujato 英译并用以厘定法义；求那跋陀罗汉本用于定位经文与传统术语。confidence=high：SN4.12；四谛为汉本明示师子吼内容，与巴利『已度诸取』并存；住处汉鹿野苑、巴利或标舍卫，存汉。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "high",
+  "prior_review_status": "needs_revision",
+  "similarity_to_source": 0.144,
+  "paragraph_parallel": true
+}

@@ -1,0 +1,32 @@
+{
+  "id": "SA_238",
+  "uid": "sa238",
+  "title": "雜阿含經  卷第十  六入處相應  （238）  因",
+  "chinese_text": "如是我聞：\n\n一時，佛住毘舍離獼猴池側重閣講堂。\n\n時，有異比丘往詣佛所，稽首佛足，退坐一面，白佛言：「世尊！何因何緣眼識生？何因何緣耳、鼻、舌、身、意識生？」\n\n佛告比丘：「眼因緣色，眼識生。所以者何？若眼識生，一切眼色因緣故。耳聲因緣、鼻香因緣、舌味因緣、意法因緣意識生。所以者何？諸所有意識，彼一切皆意法因緣生故。是名比丘眼識因緣生，乃至意識因緣生。」\n\n時，彼比丘聞佛所說，歡喜隨喜，作禮而去。",
+  "english_sa_text": "",
+  "parallels": [],
+  "primary_sn_uid": null,
+  "pali_text": "",
+  "english_sn_text": "",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa201-300/sa238_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa201-300/sa238_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时佛在毗舍离猕猴池侧重阁讲堂。\n时，有异比丘往诣佛所，稽首佛足，退坐一面，白佛言：世尊！何因何缘眼识生？何因何缘耳、鼻、舌、身、意识生？\n佛告比丘：眼因缘色，眼识生。所以者何？一切眼识，皆因眼色因缘故。耳声因缘、鼻香因缘、舌味因缘、身触因缘、意法因缘，意识生。所以者何？一切意识，皆因意法因缘生故。是名眼识因缘生，乃至意识因缘生。\n时彼比丘闻佛所说，欢喜作礼而去。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在毗舍离猕猴池旁的重阁讲堂。\n那时，有一位比丘来到佛前，以头面礼佛足，退到一旁坐下，对佛说：世尊！是什么因、什么缘，眼识才生起？是什么因、什么缘，耳、鼻、舌、身、意识才生起？\n佛告诉那位比丘：眼以无色为缘，眼识生起。为什么呢？一切眼识，皆因眼色因缘故。耳声因缘、鼻香因缘、舌味因缘、身触因缘、意法因缘，意识生。所以者何？一切意识，皆因意法因缘生故。是名眼识因缘生，乃至意识因缘生。\n那时，那位比丘听佛所说，心生欢喜，礼佛而去。",
+  "notes": "本经 SC 平行表所列平行及 `raw_aligned_data.json` 内之巴利本文、Sujato 英译并用以厘定法义；求那跋陀罗汉本用于定位经文与传统术语。Anālayo 之 SA 英译（DDJBS 18, 2016）止于 SA 229，本批无其逐经英译。SC 于本经未列任何平行（`parallels` 空、巴利本文阙），故唯以汉本为底，参六入處相應之巴利定型语厘义；依项目规约「无可靠平行时 confidence 降为 medium/low」，本经作 medium。信-校正：底本列举「耳声因缘、鼻香因缘、舌味因缘、意法因缘」而脱「身触因缘」，于六入之式不成；今补「身触因缘」以齐六根，法义本即如此，非增情节。「眼因缘色」即 `cakkhuñca paṭicca rūpe ca uppajjati cakkhuviññāṇaṁ` 之汉本简式。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "medium",
+  "prior_review_status": "needs_revision",
+  "similarity_to_source": 0.329,
+  "paragraph_parallel": true
+}

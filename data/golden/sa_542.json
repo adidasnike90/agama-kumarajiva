@@ -1,0 +1,53 @@
+{
+  "id": "SA_542",
+  "uid": "sa542",
+  "title": "雜阿含經  卷第二十二  阿難相應  （542）  盡諸漏",
+  "chinese_text": "如是我聞：\n\n一時，佛住舍衛國祇樹給孤獨園。時，尊者阿那律在舍衛國松林精舍。\n\n時，有眾多比丘詣尊者阿那律所，共相問訊慰勞已，於一面坐，問尊者阿那律：「若比丘在於學地，上求安隱涅槃住，聖弟子云何修習多修習，於此法、律得盡諸漏，無漏心解脫、慧解脫，現法自知作證：『我生已盡，梵行已立，所作已作，自知不受後有。』？」\n\n尊者阿那律語諸比丘言：「若比丘在於學地，上求安隱涅槃心住，聖弟子云何修習多修習？於此法、律得盡諸漏，無漏心解脫、慧解脫，現法自知作證：『我生已盡，梵行已立，所作已作，自知不受後有。』者？當住四念處。何等為四？謂內身身觀念處，乃至法法觀念處。如是四念處修習多修習，於此法、律得盡諸漏，無漏心解脫、慧解脫，現法自知作證：『我生已盡，梵行已立，所作已作，自知不受後有。』」\n\n時，諸比丘共聞尊者阿那律所說，歡喜隨喜，各從座起而去。",
+  "english_sa_text": "",
+  "parallels": [
+    {
+      "uid": "sn52.5",
+      "acronym": "SN 52.5",
+      "root_lang": "pli",
+      "original_title": "Dutiyakaṇḍakīsutta",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "sn52.4",
+      "acronym": "SN 52.4",
+      "root_lang": "pli",
+      "original_title": "Paṭhamakaṇḍakīsutta",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    }
+  ],
+  "primary_sn_uid": "sn52.4",
+  "pali_text": "Ekaṁ samayaṁ āyasmā ca anuruddho āyasmā ca sāriputto āyasmā ca mahāmoggallāno sākete viharanti kaṇḍakīvane. Atha kho āyasmā ca sāriputto āyasmā ca mahāmoggallāno sāyanhasamayaṁ paṭisallānā vuṭṭhitā yenāyasmā anuruddho tenupasaṅkamiṁsu; upasaṅkamitvā āyasmatā anuruddhena saddhiṁ sammodiṁsu. Sammodanīyaṁ kathaṁ sāraṇīyaṁ vītisāretvā ekamantaṁ nisīdiṁsu. Ekamantaṁ nisinno kho āyasmā sāriputto āyasmantaṁ anuruddhaṁ etadavoca: “sekhenāvuso anuruddha, bhikkhunā katame dhammā upasampajja vihātabbā”ti? “Sekhenāvuso sāriputta, bhikkhunā cattāro satipaṭṭhānā upasampajja vihātabbā. Katame cattāro? Idhāvuso, bhikkhu kāye kāyānupassī viharati ātāpī sampajāno satimā, vineyya loke abhijjhādomanassaṁ; vedanāsu …pe… citte …pe… dhammesu dhammānupassī viharati ātāpī sampajāno satimā, vineyya loke abhijjhādomanassaṁ— sekhenāvuso sāriputta, bhikkhunā ime cattāro satipaṭṭhānā upasampajja vihātabbā”ti. Catutthaṁ.",
+  "english_sn_text": "At one time the venerables Anuruddha, Sāriputta, and Mahāmoggallāna were staying near Sāketa in the Thorny Wood. Then in the late afternoon, Sāriputta and Mahāmoggallāna came out of retreat, went to Anuruddha, and exchanged greetings with him. When the greetings and polite conversation were over, they sat down to one side. Sāriputta said to Anuruddha: “Reverend Anuruddha, what things should a trainee mendicant enter and remain in?” “Reverend Sāriputta, a trainee mendicant should enter and remain in the four kinds of mindfulness meditation. What four? It’s when a mendicant meditates by observing an aspect of the body—keen, aware, and mindful, rid of covetousness and displeasure for the world. They meditate observing an aspect of feelings … mind … principles—keen, aware, and mindful, rid of covetousness and displeasure for the world. A trainee mendicant should enter and remain in these four kinds of mindfulness meditation.”",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa501-600/sa542_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa501-600/sa542_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛在舍卫国祇树给孤独园。时，尊者阿那律在舍卫国松林精舍。\n有众多比丘诣阿那律所，共相问讯慰劳已，于一面坐，问：「若比丘在于学地，上求安隐涅槃住，圣弟子云何修习多修习，于此法、律得尽诸漏，无漏心解脱、慧解脱，现法自知作证：『我生已尽，梵行已立，所作已作，自知不受后有。』？」\n阿那律答：「当住四念处。何等为四？谓内身身观念处，乃至外身、内外身，内受、外受、内外受，内心、外心、内外心，内法、外法、内外法。如是四念处修习多修习，于此法、律得尽诸漏，无漏心解脱、慧解脱，现法自知作证：『我生已尽，梵行已立，所作已作，自知不受后有。』」\n时，诸正士共论议已，欢喜随喜，各从座起而去。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在舍卫国祇树给孤独园。当时，阿那律尊者在舍卫国松林精舍。\n有许多比丘来到阿那律处，互相问讯慰劳后，在一旁坐下，问：「若有比丘还在学地，向上求安隐涅槃而住，圣弟子怎样修习多修习，于此法、律得尽诸漏，无漏心解脱、慧解脱，在现世自己知道、自己作证：『我生已尽，梵行已立，所作已作，自知不再受后有。』？」\n阿那律回答：「应当安住四念处。哪四种？就是内身身观念处，乃至外身、内外身，内受、外受、内外受，内心、外心、内外心，内法、外法、内外法。这样于四念处修习多修习，于此法、律得尽诸漏，无漏心解脱、慧解脱，在现世自己知道、自己作证：『我生已尽，梵行已立，所作已作，自知不再受后有。』」\n当时，诸位正士讨论完毕，欢喜随喜，各自从座位起来离去。",
+  "notes": "本经 SC 平行表所列平行及 `raw_aligned_data.json` 内之巴利本文、Sujato 英译并用以厘定法义；求那跋陀罗汉本用于定位经文与传统术语。confidence=high：primary SN52.4 Paṭhamakaṇḍakī（学地四念处）。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "high",
+  "prior_review_status": "needs_revision",
+  "similarity_to_source": 0.384,
+  "paragraph_parallel": true
+}

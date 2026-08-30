@@ -1,0 +1,83 @@
+{
+  "id": "SA_530",
+  "uid": "sa530",
+  "title": "雜阿含經  卷第二十一  弟子所說相應  （530）  比丘比丘尼等",
+  "chinese_text": "如是我聞：\n\n一時，佛住舍衛國。乃至尊者大目犍連言：「我於路中見一大身眾生，以熾然鐵葉以纏其身，衣被床臥悉皆熱鐵，炎火熾然，食熱鐵丸，乘虛而行，啼哭號呼。」乃至佛告諸比丘：「此眾生者，過去世時，於此舍衛國迦葉佛法中出家作比丘，為眾僧乞衣食，供僧之餘，輒自受用，緣斯罪故，已地獄中受無量苦，地獄餘罪，今得此身，續受斯苦。諸比丘！如大目犍連所見，真實不異，當受持之。」\n\n佛說此經已，諸比丘聞佛所說，歡喜奉行。\n\n如比丘，如是比丘尼、式叉摩那、沙彌、沙彌尼、優婆塞、優婆夷，亦復如是。",
+  "english_sa_text": "",
+  "parallels": [
+    {
+      "uid": "sn19.21",
+      "acronym": "SN 19.21",
+      "root_lang": "pli",
+      "original_title": "Pāpasāmaṇerīsutta",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "sn19.20",
+      "acronym": "SN 19.20",
+      "root_lang": "pli",
+      "original_title": "Pāpasāmaṇerasutta",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "sn19.19",
+      "acronym": "SN 19.19",
+      "root_lang": "pli",
+      "original_title": "Pāpasikkhamānasutta",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "sn19.18",
+      "acronym": "SN 19.18",
+      "root_lang": "pli",
+      "original_title": "Pāpabhikkhunīsutta",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "sn19.17",
+      "acronym": "SN 19.17",
+      "root_lang": "pli",
+      "original_title": "Pāpabhikkhusutta",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    }
+  ],
+  "primary_sn_uid": "sn19.17",
+  "pali_text": "“Idhāhaṁ, āvuso, gijjhakūṭā pabbatā orohanto addasaṁ bhikkhuṁ vehāsaṁ gacchantaṁ. Tassa saṅghāṭipi ādittā sampajjalitā sajotibhūtā, pattopi āditto sampajjalito sajotibhūto, kāyabandhanampi ādittaṁ sampajjalitaṁ sajotibhūtaṁ, kāyopi āditto sampajjalito sajotibhūto. So sudaṁ aṭṭassaraṁ karoti …pe… eso, bhikkhave, bhikkhu kassapassa sammāsambuddhassa pāvacane pāpabhikkhu ahosi …pe…. Sattamaṁ.",
+  "english_sn_text": "“Just now, reverend, as I was descending from Vulture’s Peak Mountain I saw a monk flying through the air. His outer robe, bowl, belt, and body were burning, blazing, and glowing as he screamed in pain. …” … “That monk used to be a bad monk in the time of Buddha Kassapa’s dispensation. …”",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa501-600/sa530_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa501-600/sa530_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛住舍卫国。\n尊者大目犍连言：「我于路中见一大身众生，以炽然铁叶缠其身，衣被床卧悉皆热铁，炎火炽然，食热铁丸，啼哭号呼，乘虚而行，啼哭号呼。」\n佛告诸比丘：「此众生者，过去于此舍卫国为迦叶佛法中出家比丘，为众僧乞衣食，供僧之余辄自受用，缘斯罪故，堕地狱受无量苦；地狱余报，今得此身，续受其苦。诸比丘！如大目犍连所见，真实不虚，应当受持。。」\n如比丘，比丘尼、式叉摩那、沙弥、沙弥尼、优婆塞、优婆夷，亦如是。\n佛说此经已，诸比丘闻佛所说，欢喜奉行。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在舍卫国。\n大目犍连尊者说：「我在路中看见一个身躯巨大的众生，用炽燃的铁叶缠住它的身，衣服、被褥、床席全是热铁，烈火炽燃，吃热的铁丸，啼哭号呼，在空中飞行，啼哭号呼。」\n佛告诉比丘们：「这个众生，过去在此舍卫国做在迦叶佛时代出家做比丘，为众僧乞衣食，供养众僧之余就自己受用，因为那个罪业的缘故，堕入地狱受无量苦；地狱的剩余果报，现在得到这样的身，继续承受那些苦。诸比丘！如同大目犍连所见的，真实不虚，你们应当受持。。」\n如同比丘，比丘尼、式叉摩那、沙弥、沙弥尼、优婆塞、优婆夷，也是这样。\n佛说完这部经，比丘们听佛所说，都欢喜奉行。",
+  "notes": "本经 SC 平行表所列平行及 `raw_aligned_data.json` 内之巴利本文、Sujato 英译并用以厘定法义；求那跋陀罗汉本用于定位经文与传统术语。confidence=high：primary SN19.17 Pāpabhikkhu（恶比丘火身）；汉为众乞衣食而自受用，并摄诸众。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "high",
+  "prior_review_status": "needs_revision",
+  "similarity_to_source": 0.328,
+  "paragraph_parallel": true
+}

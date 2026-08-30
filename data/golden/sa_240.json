@@ -1,0 +1,53 @@
+{
+  "id": "SA_240",
+  "uid": "sa240",
+  "title": "雜阿含經  卷第十  六入處相應  （240）  取法",
+  "chinese_text": "如是我聞：\n\n一時，佛住毘舍離獼猴池側重閣講堂。\n\n爾時，世尊告諸比丘：「我今當說所取法及取法。云何所取法？眼色、耳聲、鼻香、舌味、身觸、意法，是名所取法。云何取法？謂欲貪，是名取法。」\n\n佛說此經已，諸比丘聞佛所說，歡喜奉行。",
+  "english_sa_text": "",
+  "parallels": [
+    {
+      "uid": "sn35.110",
+      "acronym": "SN 35.110",
+      "root_lang": "pli",
+      "original_title": "Upādāniyasutta",
+      "translated_title": "Things That Can Be Clung To",
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "sn35.123",
+      "acronym": "SN 35.123",
+      "root_lang": "pli",
+      "original_title": "Upādāniyadhammasutta",
+      "translated_title": "Things That Can Be Clung To",
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    }
+  ],
+  "primary_sn_uid": "sn35.110",
+  "pali_text": "“Upādāniye ca, bhikkhave, dhamme desessāmi upādānañca. Taṁ suṇātha. Katame ca, bhikkhave, upādāniyā dhammā, katamañca upādānaṁ? Cakkhuṁ, bhikkhave, upādāniyo dhammo. Yo tattha chandarāgo, taṁ tattha upādānaṁ …pe… jivhā upādāniyo dhammo …pe… mano upādāniyo dhammo. Yo tattha chandarāgo, taṁ tattha upādānaṁ. Ime vuccanti, bhikkhave, upādāniyā dhammā, idaṁ upādānan”ti. Sattamaṁ.",
+  "english_sn_text": "“Mendicants, I will teach you the things that fuel grasping, and the grasping. Listen … What are the things that fuel grasping? And what is the grasping? The eye is something that fuels grasping. The desire and greed for it is the grasping. The ear … nose … tongue … body … mind is something that fuels grasping. The desire and greed for it is the grasping. These are called the things that fuel grasping, and this is the grasping.”",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa201-300/sa240_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa201-300/sa240_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时佛在毗舍离猕猴池侧重阁讲堂。\n尔时世尊告诸比丘：我今当说所取法及取法。谛听！\n云何所取法？眼色、耳声、鼻香、舌味、身触、意法，是名所取法。\n云何取法？谓欲贪，是名取法。\n佛说此经已，诸比丘闻佛所说，欢喜奉行。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在毗舍离猕猴池旁的重阁讲堂。\n那时，世尊告诉比丘们：我今天要解说可取之法与取本身。仔细听！\n什么是可取之法？眼与色、耳与声、鼻与香、舌与味、身与触、意与法，就叫做可取之法。\n什么是取？就是欲贪，就叫做取。\n佛说完这部经，比丘们听佛所说，都欢喜奉行。",
+  "notes": "本经 SC 平行表所列平行及 `raw_aligned_data.json` 内之巴利本文、Sujato 英译并用以厘定法义；求那跋陀罗汉本用于定位经文与传统术语。Anālayo 之 SA 英译（DDJBS 18, 2016）止于 SA 229，本批无其逐经英译。confidence=high：SN35.110／35.123（Upādāniya）为 `full` 平行，式同前经：`cakkhuṁ upādāniyo dhammo, yo tattha chandarāgo taṁ tattha upādānaṁ`。「所取法」＝ upādāniya dhammā（可执取之法），「取法」＝ upādāna（执取本身）。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "high",
+  "prior_review_status": "needs_revision",
+  "similarity_to_source": 0.432,
+  "paragraph_parallel": true
+}

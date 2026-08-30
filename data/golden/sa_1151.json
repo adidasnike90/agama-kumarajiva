@@ -1,0 +1,64 @@
+{
+  "id": "SA_1151",
+  "uid": "sa1151",
+  "title": "雜阿含經  卷第五十  婆羅門相應  （1151）  阿修羅鹽",
+  "chinese_text": "如是我聞：\n\n一時，佛住舍衛國。\n\n時，有年少阿修羅來詣佛所，於佛面前麁惡不善語，瞋罵呵責。\n\n爾時，世尊即說偈言：\n\n「不怒勝瞋恚，　　不善以善伏，\n\n　惠施伏慳貪，　　真言壞妄語。\n\n　不罵亦不虐，　　常住賢聖心，\n\n　惡人住瞋恨，　　不動如山石。\n\n　起瞋恚能持，　　勝制狂馬車，\n\n　我說善御士，　　非彼攝繩者。」\n\n時，年少阿修羅白佛言：「瞿曇！我今悔過，如愚如癡，不辯不善，於瞿曇面前訶罵毀辱。」如是懺悔已，時，阿修羅聞佛所說，歡喜隨喜，作禮而去。",
+  "english_sa_text": "",
+  "parallels": [
+    {
+      "uid": "sa-3.25",
+      "acronym": "SA3 25",
+      "root_lang": "lzh",
+      "original_title": "阿修羅鹽",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "sa-2.74",
+      "acronym": "SA2 74",
+      "root_lang": "lzh",
+      "original_title": "阿修羅鹽",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "sn7.3",
+      "acronym": "SN 7.3",
+      "root_lang": "pli",
+      "original_title": "Asurindakasutta",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    }
+  ],
+  "primary_sn_uid": "sn7.3",
+  "pali_text": "Ekaṁ samayaṁ bhagavā rājagahe viharati veḷuvane kalandakanivāpe. Assosi kho asurindakabhāradvājo brāhmaṇo: “bhāradvājagotto brāhmaṇo kira samaṇassa gotamassa santike agārasmā anagāriyaṁ pabbajito”ti kupito anattamano yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṁ asabbhāhi pharusāhi vācāhi akkosati paribhāsati. Evaṁ vutte, bhagavā tuṇhī ahosi. Atha kho asurindakabhāradvājo brāhmaṇo bhagavantaṁ etadavoca: “jitosi, samaṇa, jitosi, samaṇā”ti. “Jayaṁ ve maññati bālo, vācāya pharusaṁ bhaṇaṁ; Jayañcevassa taṁ hoti, yā titikkhā vijānato. Tasseva tena pāpiyo, yo kuddhaṁ paṭikujjhati; Kuddhaṁ appaṭikujjhanto, saṅgāmaṁ jeti dujjayaṁ. Ubhinnamatthaṁ carati, attano ca parassa ca; Paraṁ saṅkupitaṁ ñatvā, yo sato upasammati. Ubhinnaṁ tikicchantānaṁ, attano ca parassa ca; Janā maññanti bāloti, ye dhammassa akovidā”ti. Evaṁ vutte, asurindakabhāradvājo brāhmaṇo bhagavantaṁ etadavoca: “abhikkantaṁ, bho gotama …pe… abbhaññāsi. Aññataro ca panāyasmā bhāradvājo arahataṁ ahosīti.",
+  "english_sn_text": "At one time the Buddha was staying near Rājagaha in the Bamboo Grove, the squirrels’ feeding ground. The brahmin Bhāradvāja the Fiend heard a rumor to the effect that a brahmin of the Bhāradvāja clan had gone forth from the lay life to homelessness in the presence of the ascetic Gotama. Angry and displeased he went to the Buddha and abused and insulted him with rude, harsh words. But when he said this, the Buddha kept silent. Then Bhāradvāja the Fiend said to the Buddha, “You’re beaten, ascetic, you’re beaten!” “‘Ha! I won!’ thinks the fool, when speaking with harsh words. The victory for one who understands is that very endurance. When you get angry at an angry person you just make things worse for yourself. When you don’t get angry at an angry person you win a battle hard to win. When you know that the other is angry, you act for the good of both yourself and the other if you’re mindful and stay calm. People inexpert in Dhamma consider one who heals both oneself and the other to be a fool.” When he had spoken, Bhāradvāja the Fiend said to the Buddha, “Excellent, worthy Gotama! …” … And Venerable Bhāradvāja became one of the perfected.",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa1101-1200/sa1151_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa1101-1200/sa1151_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛住舍卫国。\n时有年少阿修罗盐婆罗门来诣佛所，于世尊前作粗恶不善语，瞋骂呵责。世尊默然。\n婆罗门言：「沙门！汝已败矣！汝已败矣！」\n世尊即说偈言：「愚人以恶语，自谓我已胜；能忍则真胜，智者之所知。报瞋瞋更增，于己转加深；不报瞋恚者，战胜难胜敌。知彼已起瞋，正念而息灭，自他两俱利；不了法之人，反谓此为愚。」\n时年少阿修罗盐白佛：「瞿昙！我今悔过，如愚如痴，于面前诃骂毁辱。」闻已欢喜，作礼而去。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在舍卫国。\n这时有个名叫阿修罗盐的年轻婆罗门来到佛前，用粗恶不善的话瞋骂呵责。佛保持沉默。\n婆罗门说：「沙门！你败了！你败了！」\n佛便说偈：「愚人恶口相向，自以为赢了；能忍才是真胜，这是智者所了知的。以瞋报瞋，只会让自己更糟；不对瞋人起瞋，才打赢那场难胜的仗。知道对方已起瞋，自己正念地平息，对自己和对方都有益；不懂法的人，反而把这样的人当傻瓜。」\n年轻的阿修罗盐对佛说：「瞿昙！我现在悔过，我太愚昧，在您面前诃骂毁辱。」听完欢喜，作礼离去。",
+  "notes": "本经 SC 平行表所列平行及 `raw_aligned_data.json` 内之巴利本文、Sujato 英译并用以厘定法义；求那跋陀罗汉本用于定位经文与传统术语。confidence=high：primary SN7.3 Asurindakasutta。据 SN 校正：佛先默然；对方谓「汝已败」；偈义为忍胜、不报瞋。汉偈「不怒胜瞋恚／善御士」系异本，不从。",
+  "review_status": "gold_reconstructed",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "high",
+  "prior_review_status": "needs_revision",
+  "reconstruction_basis": "汉偈「不怒胜瞋恚／善御士」与 SN7.3 忍胜、不报瞋异；据巴利改正（含默然、「汝已败」）。",
+  "similarity_to_source": 0.082,
+  "paragraph_parallel": true
+}

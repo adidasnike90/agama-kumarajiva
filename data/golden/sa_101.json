@@ -1,0 +1,71 @@
+{
+  "id": "SA_101",
+  "uid": "sa101",
+  "title": "雜阿含經  卷第四  陰相應  （101）  人間",
+  "chinese_text": "如是我聞：\n\n一時，佛在拘薩羅人間遊行，有從迦帝聚落、墮鳩羅聚落二村中間，一樹下坐，入晝正受。\n\n時，有豆磨種姓婆羅門隨彼道行，尋佛後來，見佛脚跡千輻輪相，印文顯現，齊輻圓輞，眾好滿足。見已，作是念：「我未曾見人間有如是足跡，今當隨跡以求其人。」即尋脚跡至於佛所，來見世尊坐一樹下，入晝正受，嚴容絕世，諸根澄靜，其心寂定，第一調伏，正觀成就，光相巍巍，猶若金山。見已，白言：「為是天耶？」\n\n佛告婆羅門：「我非天也。」\n\n「為龍、夜叉、乾闥婆、阿修羅、迦樓羅、緊那羅、摩睺羅伽、人、非人等？」\n\n佛告婆羅門：「我非龍乃至人、非人也。」\n\n婆羅門白佛：「若言非天、非龍，乃至非人、非非人，為是何等？」\n\n爾時，世尊說偈答言：\n\n「天龍乾闥婆，　　緊那羅夜叉，\n\n　無善阿修羅，　　諸摩睺羅伽，\n\n　人與非人等，　　悉由煩惱生，\n\n　如是煩惱漏，　　一切我已捨，\n\n　已破已磨滅，　　如芬陀利生，\n\n　雖生於水中，　　而未曾著水，\n\n　我雖生世間，　　不為世間著，\n\n　歷劫常選擇，　　純苦無暫樂，\n\n　一切有為行，　　悉皆生滅故，\n\n　離垢不傾動，　　已拔諸劍刺，\n\n　究竟生死除，　　故名為佛陀。」\n\n佛說此經已，豆摩種婆羅門聞佛所說，歡喜隨喜，從路而去。",
+  "english_sa_text": "",
+  "parallels": [
+    {
+      "uid": "an4.36",
+      "acronym": "AN 4.36",
+      "root_lang": "pli",
+      "original_title": "Doṇasutta",
+      "translated_title": "Doṇa",
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "sa-2.267",
+      "acronym": "SA2 267",
+      "root_lang": "lzh",
+      "original_title": "人間",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "ea38.3",
+      "acronym": "EA 38.3",
+      "root_lang": "lzh",
+      "original_title": "",
+      "translated_title": null,
+      "type": "full",
+      "resembling": true,
+      "remark": null
+    },
+    {
+      "uid": "gf10",
+      "acronym": "GF 10",
+      "root_lang": "pgd",
+      "original_title": "",
+      "translated_title": null,
+      "type": "full",
+      "resembling": true,
+      "remark": null
+    }
+  ],
+  "primary_sn_uid": null,
+  "pali_text": "",
+  "english_sn_text": "",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa101-200/sa101_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa101-200/sa101_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时佛在拘萨罗人间游行，于迦帝聚落、堕鸠罗聚落二村中间，坐一树下，入昼正受。\n时有豆磨种姓婆罗门随彼道行，寻佛后来，见佛脚迹千辐轮相，印文显现，齐辐圆辋，众好满足。见已作是念：我未曾见人间有如是足迹，今当寻迹以求其人。即随脚迹至于佛所，见世尊坐一树下，入昼正受，严容绝世，诸根澄静，其心寂定，第一调伏，正观成就，光相巍巍，犹若金山。见已白言：为是天耶？\n佛告婆罗门：我非天也。\n为是龙、夜叉、乾闼婆、阿修罗、迦楼罗、紧那罗、摩睺罗伽、人、非人耶？\n佛告婆罗门：我非龙，乃至非人、非非人也。\n婆罗门白佛：若言非天、非龙，乃至非人、非非人，则为是何等？\n尔时世尊说偈答言：\n天龙乾闼婆，紧那罗夜叉，及诸阿修罗，摩睺罗伽等，人与非人类，悉由烦恼生。如是烦恼漏，我悉已舍离，已破已磨灭。譬如芬陀利，虽生于水中，而不为水著；我虽生世间，不为世间染。历劫常观察，纯苦无暂乐，一切有为行，悉皆生灭法。离垢不倾动，已拔诸剑刺，究竟除生死，故名为佛陀。\n佛说此经已，豆磨种婆罗门闻佛所说，欢喜随喜，从路而去。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛在拘萨罗一带游行，在迦帝聚落与堕鸠罗聚落两村之间，坐在一棵树下，入于白天的禅定。\n当时有位豆磨种姓的婆罗门沿着那条路走来，跟在佛后面，看见佛的脚印上有千辐轮相，纹路清晰，辐条齐整、轮辋浑圆，种种妙相圆满。他看了心想：我从没见过人间有这样的脚印，我该顺着脚印去找这个人。于是循迹来到佛所在的地方，见世尊坐在树下入定，仪容庄严世间无匹，诸根清澈宁静，心境寂定，调伏第一，正观成就，光相巍峨，好像一座金山。他看见后问：您是天神吗？\n佛说：我不是天神。\n那您是龙、夜叉、乾闼婆、阿修罗、迦楼罗、紧那罗、摩睺罗伽，是人还是非人？\n佛说：我不是龙，乃至不是人，也不是非人。\n婆罗门说：既然不是天、不是龙，乃至不是人、不是非人，那您到底是什么？\n那时，世尊以偈回答：\n天、龙、乾闼婆，紧那罗、夜叉，以及阿修罗、摩睺罗伽之类，人与非人，都是由烦恼而生的。这些烦恼之漏，我已经全部舍离，已经破除、已经磨灭。就像白莲花虽然生在水中，却不被水沾染；我虽然生在世间，却不被世间染著。历经长劫常加观察：纯是苦而无片刻真乐，一切有为的行，全是生灭之法。离垢而不动摇，已经拔出种种如剑如刺的烦恼，彻底断除生死，所以名为佛陀。\n佛说完这部经，豆磨种婆罗门听佛所说，欢喜随喜，顺路而去。",
+  "notes": "据 AN4.36（Doṇa）：婆罗门问「为天、为乾闼婆、为夜叉、为人」，佛一一否认，以「诸漏已尽（te mayhaṁ āsavā khīṇā）、如青莲白莲生于水而不著水（nupalippāmi lokena）」故答「我是佛」。汉本偈与此全合，唯多「历劫常选择，纯苦无暂乐」等句（与 SA_100 共），今存之。「已拔诸剑刺」＝salla（箭刺），指烦恼之刺。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "high",
+  "similarity_to_source": 0.278
+}

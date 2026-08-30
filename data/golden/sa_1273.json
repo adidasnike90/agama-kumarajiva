@@ -1,0 +1,55 @@
+{
+  "id": "SA_1273",
+  "uid": "sa1273",
+  "title": "雜阿含經  卷第五十  雜相應  （1273）  波純提女",
+  "chinese_text": "如是我聞：\n\n一時，佛住王舍城山谷精舍。\n\n時，有拘迦那娑天女，光明之天女，放電光明，炎照熾然，於後夜時來詣佛所，稽首佛足，退坐一面。其身光明普照山谷，即於佛前而說偈言：\n\n「我能廣分別，　　如來正法律，\n\n　今且但略說，　　足以表其心。\n\n　其心不為惡，　　及身口世間，\n\n　五欲悉虛空，　　正智正繫念。\n\n　不習近眾苦，　　非義和合者。」\n\n佛告天女：「如是，天女！如是，天女！如汝所說：\n\n「『其心不為惡，　　及身口世間，\n\n　　五欲悉虛空，　　正智正繫念。\n\n　　不習近眾苦，　　非義和合者。』」\n\n時，拘迦那娑天女聞佛所說，歡喜稽首，即沒不現。\n\n爾時，世尊夜過晨朝，入於僧前，於大眾中敷座而坐，告諸比丘：「昨後夜時，拘迦那娑天女來詣我所，恭敬作禮，退坐一面而說偈言：\n\n「我能廣分別，　　如來正法律，\n\n　今且但略說，　　足以表我心。\n\n　其心不為惡，　　及身口世間，\n\n　五欲悉虛空，　　正智正繫念。\n\n　不習近眾苦，　　非義和合者。」\n\n「我時答言：『如是，天女！如汝所說：\n\n「『「其心不為惡，　　及身口世間，\n\n　　　五欲悉虛偽，　　正智正繫念。\n\n　　　不習近眾苦，　　非義和合者。」』\n\n「時，彼天女聞我所說，歡喜隨喜，稽首我足，即沒不現。」\n\n佛說此經已，諸比丘聞佛所說，歡喜奉行。",
+  "english_sa_text": "",
+  "parallels": [
+    {
+      "uid": "sa-2.271",
+      "acronym": "SA2 271",
+      "root_lang": "lzh",
+      "original_title": "波純提女",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "sn1.40",
+      "acronym": "SN 1.40",
+      "root_lang": "pli",
+      "original_title": "Dutiyapajjunnadhītusuttaṁ",
+      "translated_title": "Pajjunna’s Daughter (2)",
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    }
+  ],
+  "primary_sn_uid": "sn1.40",
+  "pali_text": "Evaṁ me sutaṁ— ekaṁ samayaṁ bhagavā vesāliyaṁ viharati mahāvane kūṭāgārasālāyaṁ. Atha kho cūḷakokanadā pajjunnassa dhītā abhikkantāya rattiyā abhikkantavaṇṇā kevalakappaṁ mahāvanaṁ obhāsetvā yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṁ abhivādetvā ekamantaṁ aṭṭhāsi. Ekamantaṁ ṭhitā kho sā devatā cūḷakokanadā pajjunnassa dhītā bhagavato santike imā gāthāyo abhāsi: “Idhāgamā vijjupabhāsavaṇṇā, Kokanadā pajjunnassa dhītā; Buddhañca dhammañca namassamānā, Gāthācimā atthavatī abhāsi. Bahunāpi kho taṁ vibhajeyyaṁ, Pariyāyena tādiso dhammo; Saṅkhittamatthaṁ lapayissāmi, Yāvatā me manasā pariyattaṁ. Pāpaṁ na kayirā vacasā manasā, Kāyena vā kiñcana sabbaloke; Kāme pahāya satimā sampajāno, Dukkhaṁ na sevetha anatthasaṁhitan”ti. Satullapakāyikavaggo catuttho. Tassuddānaṁ Sabbhimaccharinā sādhu, na santujjhānasaññino; Saddhā samayo sakalikaṁ, ubho pajjunnadhītaroti.",
+  "english_sn_text": "So I have heard. At one time the Buddha was staying near Vesālī, at the Great Wood, in the hall with the peaked roof. Then, late at night, the glorious Kokanadā the Younger, Pajjunna’s daughter, lighting up the entire Great Wood, went up to the Buddha, bowed, stood to one side, and recited these verses in the Buddha’s presence: “She came here, beautiful as a flash of lightning, Kokanadā, Pajjunna’s daughter. Revering the Buddha and the teaching, she spoke these verses full of meaning. The teaching is such that I could analyze it in many different ways. However, I will state the meaning in brief as far as I have learned it by heart. You should never do anything bad by speech or mind or body in all the world. Having given up sensual pleasures, mindful and aware, you shouldn’t keep doing what’s painful and pointless.”",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa1201-1300/sa1273_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa1201-1300/sa1273_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛住王舍城山谷精舍。\n后夜，拘迦那娑天女——波纯提之女、光明天女——放电炎炽，来诣佛所，礼足退坐，身光普照山谷，说偈：「我能广分别如来正法律；今且略说，以表其心。于一切世间，身口意莫作恶；舍诸欲，正念正知，勿习近无益之苦。」\n佛言：「如是，天女！如汝所言：『于一切世间，身口意莫作恶；舍诸欲，正念正知，勿习近无益之苦。』」天女欢喜礼足，即没不现。\n晨朝佛告诸比丘：「昨后夜拘迦那娑来，先自能广说正法而略表其心，次说四句；我印可之。彼闻已欢喜，礼足即没。」\n佛说此经已，诸比丘闻佛所说，欢喜奉行。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在王舍城山谷精舍。\n后夜，拘迦那娑天女——波纯提的女儿、光明天女——放电光炽盛，来到佛前，顶礼后退坐，身光普照山谷，说偈：「我能广分别如来的正法律；现在只略说，以表达心意。在一切世间，身、口、意都不要作恶；舍离诸欲，保持正念正知，不要习近那无益的苦。」\n佛说：「是的，天女！正如你所说：『在一切世间，身、口、意都不要作恶；舍离诸欲，保持正念正知，不要习近那无益的苦。』」天女欢喜顶礼，随即隐没。\n天明佛对比丘们说：「昨天后夜拘迦那娑来，先说自己能广讲正法而只略表心意，再说四句；我印可了。她听完欢喜，顶礼后隐没。」\n佛说完这部经，比丘们听佛所说，都欢喜奉行。",
+  "notes": "本经 SC 平行表所列平行及 `raw_aligned_data.json` 内之巴利本文、Sujato 英译并用以厘定法义；求那跋陀罗汉本用于定位经文与传统术语。confidence=high：primary SN1.40（Kokanadā the Younger）。据 SN：能广分别而略说；身口意不作恶；舍欲、正念正知、不习无益苦。汉住山谷精舍，巴利近毗舍离大木；框从汉，义从 SN。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "warn",
+    "issues": [],
+    "warnings": [
+      "mark_not_in_output:空"
+    ],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "high",
+  "prior_review_status": "needs_revision",
+  "similarity_to_source": 0.15,
+  "paragraph_parallel": true
+}

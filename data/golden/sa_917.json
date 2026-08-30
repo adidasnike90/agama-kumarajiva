@@ -1,0 +1,93 @@
+{
+  "id": "SA_917",
+  "uid": "sa917",
+  "title": "雜阿含經  卷第三十五  聚落主相應  （917）  惡馬",
+  "chinese_text": "如是我聞：\n\n一時，佛住舍衛國祇樹給孤獨園。\n\n爾時，世尊告諸比丘：「世間有三種調馬。何等為三種？有馬捷疾具足、色不具足、形體不具足。有馬色具足、捷疾具足形體不具足。有馬捷疾具足、色具足、形體具足。如是有三種調士夫相。何等為三？有士夫捷疾具足、色不具足、形體不具足。有士夫捷疾具足、色具足、形體不具足。有士夫捷疾具足、色具足、形體具足。\n\n「比丘！何等為不調士夫捷疾具足、色不具足、形體不具足，有士夫於此苦如實知，此苦集、此苦滅、此苦滅道跡如實知，如是觀者三結斷，身見、戒取、疑。此三結斷得須陀洹，不墮惡趣法，決定正趣三菩提，七有天人往生，究竟苦邊，是名捷疾具足。何等為非色具足？若有問阿毘曇、律，不能以具足句味，次第隨順，具足解說，是名色不具足。云何形體不具足？非大德名聞，感致衣被、飲食、床臥、湯藥、眾具，是名士夫捷疾具足、色不具足、形體不具足。\n\n「何等為捷疾具足、色具足、形體不具足？謂士夫此苦如實知，此苦集、此苦滅、此苦滅道跡如實知，乃至究竟苦邊，是捷疾具足。何等為色具足？若問阿毘曇、律，乃至能為解說，是名色具足。何等為形體不具足？非大德名聞，不能感致衣被、飲食、臥具、湯藥，是名士夫捷疾具足、色具足、形體不具足。\n\n「何等為士夫捷疾具足、色具足、形體具足？謂士夫此苦如實知，此苦集、此苦滅、此苦滅道跡如實知，乃至究竟苦邊，是名捷疾具足。何等為色具足，若問阿毘曇、律，乃至能解說，是名色具足。何等為形體具足，大德名聞，乃至臥具、湯藥，是名形體具足，是名士夫捷疾具足、色具足、形體具足。」\n\n佛說此經已，諸比丘聞佛所說，歡喜奉行。",
+  "english_sa_text": "",
+  "parallels": [
+    {
+      "uid": "an3.140",
+      "acronym": "AN 3.140",
+      "root_lang": "pli",
+      "original_title": "Assakhaḷuṅkasutta",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "sa-2.143",
+      "acronym": "SA2 143",
+      "root_lang": "lzh",
+      "original_title": "惡馬",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "an3.141",
+      "acronym": "AN 3.141",
+      "root_lang": "pli",
+      "original_title": "Assaparassasutta",
+      "translated_title": null,
+      "type": "full",
+      "resembling": true,
+      "remark": null
+    },
+    {
+      "uid": "an9.22",
+      "acronym": "AN 9.22",
+      "root_lang": "pli",
+      "original_title": "Assakhaḷuṅkasutta",
+      "translated_title": null,
+      "type": "full",
+      "resembling": true,
+      "remark": null
+    },
+    {
+      "uid": "sa-2.144",
+      "acronym": "SA2 144",
+      "root_lang": "lzh",
+      "original_title": "順調馬",
+      "translated_title": null,
+      "type": "full",
+      "resembling": true,
+      "remark": null
+    },
+    {
+      "uid": "sa918",
+      "acronym": "SA 918",
+      "root_lang": "lzh",
+      "original_title": "順調馬",
+      "translated_title": null,
+      "type": "full",
+      "resembling": true,
+      "remark": null
+    }
+  ],
+  "primary_sn_uid": null,
+  "pali_text": "",
+  "english_sn_text": "",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa901-1000/sa917_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa901-1000/sa917_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛住舍卫国祇树给孤独园。\n尔时世尊告诸比丘：「世间有三种调马：捷疾具足而色、形体不具；捷疾与色具足而形体不具；捷疾、色、形体皆具足。正法律中士夫亦有三种，如是。\n「何等捷疾具足、色与形体不具？苦集灭道如实知，三结断——身见、戒取、疑——得须陀洹，不堕恶趣，决定正趣菩提，七有天人往生，究竟苦边，是名捷疾。问阿毗昙、律，不能以具足句味次第随顺解说，是名色不具。非大德名闻，不能感衣食卧具汤药，是名形体不具。\n「捷疾与色具而形体不具者：如上如实知乃至究竟苦边；又能次第解说阿毗昙、律；而非名闻大德感诸供养。\n「三者皆具：如实知四谛乃至究竟苦边；能解说阿毗昙、律；又大德名闻，能感衣食卧具汤药。」\n佛说此经已，诸比丘闻佛所说，欢喜奉行。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在舍卫国祇树给孤独园。\n那时世尊告诉比丘们：「世间有三种可调之马：跑得快而毛色、体形不完备；跑得快且毛色好而体形不完备；速度、毛色、体形都完备。正法律里的人也有三种，像这样。\n「什么是速度完备、毛色与体形不完备？如实知苦集灭道，断三结——身见、戒取、疑——得须陀洹，不堕恶趣，决定趣向正觉，最多七次往来人天，究竟苦边，这叫速度完备。若问论藏、律，不能用完备的文句次第随顺解说，这叫毛色不完备。不是名闻大德，不能感得衣食卧具汤药，这叫体形不完备。\n「速度与毛色完备而体形不完备：如上如实知乃至究竟苦边；又能次第解说论藏、律；却不是名闻大德感得供养。\n「三者都完备：如实知四谛乃至究竟苦边；能解说论藏、律；又是名闻大德，能感得衣食卧具汤药。」\n佛说完这部经，比丘们听佛所说，都欢喜奉行。",
+  "notes": "本经 SC 平行表所列平行及 `raw_aligned_data.json` 内之巴利本文、Sujato 英译并用以厘定法义；求那跋陀罗汉本用于定位经文与传统术语。confidence=high：parallels AN3.140–141／AN9.22；三马喻须陀洹：捷疾=见谛断结；色=能说法；形体=名闻利养。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "high",
+  "prior_review_status": "needs_revision",
+  "similarity_to_source": 0.2,
+  "paragraph_parallel": true
+}

@@ -1,0 +1,53 @@
+{
+  "id": "SA_796",
+  "uid": "sa796",
+  "title": "雜阿含經  卷第三十  聖道分相應  （796）  沙門法沙門果",
+  "chinese_text": "如是我聞：\n\n一時，佛住舍衛國祇樹給孤獨園。\n\n爾時，世尊告諸比丘：「有沙門法及沙門果。諦聽，善思，當為汝說。何等為沙門法？謂八聖道——正見乃至正定。何等為沙門果？謂須陀洹果、斯陀含果、阿那含果、阿羅漢果。」\n\n佛說此經已，諸比丘聞佛所說，歡喜奉行。",
+  "english_sa_text": "",
+  "parallels": [
+    {
+      "uid": "sa799",
+      "acronym": "SA 799",
+      "root_lang": "lzh",
+      "original_title": "沙門果",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "sn45.35",
+      "acronym": "SN 45.35",
+      "root_lang": "pli",
+      "original_title": "Paṭhamasāmaññasutta",
+      "translated_title": "Asceticism (1)",
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    }
+  ],
+  "primary_sn_uid": "sn45.35",
+  "pali_text": "Sāvatthinidānaṁ. “Sāmaññañca vo, bhikkhave, desessāmi, sāmaññaphalāni ca. Taṁ suṇātha. Katamañca, bhikkhave, sāmaññaṁ? Ayameva ariyo aṭṭhaṅgiko maggo, seyyathidaṁ— sammādiṭṭhi …pe… sammāsamādhi. Idaṁ vuccati, bhikkhave, sāmaññaṁ. Katamāni ca, bhikkhave, sāmaññaphalāni? Sotāpattiphalaṁ, sakadāgāmiphalaṁ, anāgāmiphalaṁ, arahattaphalaṁ— imāni vuccanti, bhikkhave, sāmaññaphalānī”ti. Pañcamaṁ.",
+  "english_sn_text": "At Sāvatthī. “Mendicants, I will teach you the ascetic life and the fruits of the ascetic life. Listen … And what is the ascetic life? It is simply this noble eightfold path, that is: right view, right purpose, right speech, right action, right livelihood, right effort, right mindfulness, and right immersion. This is called the ascetic life. And what are the fruits of the ascetic life? The fruits of stream-entry, once-return, non-return, and perfection. These are called the fruits of the ascetic life.”",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa701-800/sa796_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa701-800/sa796_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛住舍卫国祇树给孤独园。\n尔时世尊告诸比丘：「有沙门法及沙门果。谛听，善思，当为汝说。何等为沙门法？谓八圣道——正见、正志、正语、正业、正命、正精进、正念、正定。何等为沙门果？谓须陀洹果、斯陀含果、阿那含果、阿罗汉果。」\n佛说此经已，诸比丘闻佛所说，欢喜奉行。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在舍卫国祇树给孤独园。\n那时世尊告诉比丘们：「有沙门法以及沙门果。仔细听，好好想，我当为你们说。什么是沙门法？就是八圣道——正见、正志、正语、正业、正命、正精进、正念、正定。什么是沙门果？就是须陀洹果、斯陀含果、阿那含果、阿罗汉果。」\n佛说完这部经，比丘们听佛所说，都欢喜奉行。",
+  "notes": "本经 SC 平行表所列平行及 `raw_aligned_data.json` 内之巴利本文、Sujato 英译并用以厘定法义；求那跋陀罗汉本用于定位经文与传统术语。confidence=high：primary SN45.35 Sāmaññaphala；法＝八支，果＝四沙门果。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "high",
+  "prior_review_status": "needs_revision",
+  "similarity_to_source": 0.385,
+  "paragraph_parallel": true
+}

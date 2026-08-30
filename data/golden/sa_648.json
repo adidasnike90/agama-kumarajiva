@@ -1,0 +1,63 @@
+{
+  "id": "SA_648",
+  "uid": "sa648",
+  "title": "雜阿含經  卷第二十七  根力相應  （648）  略說",
+  "chinese_text": "如是我聞：\n\n一時，佛住舍衛國祇樹給孤獨園。\n\n爾時，世尊告諸比丘……如上說。差別者：「若比丘於此五根如實觀察已，於三結斷知。何等為三？謂身見、戒取、疑。是名須陀洹，不墮惡趣，決定正向三菩提，七有天人往生，究竟苦邊。」\n\n佛說此經已，諸比丘聞佛所說，歡喜奉行。",
+  "english_sa_text": "",
+  "parallels": [
+    {
+      "uid": "sn48.12",
+      "acronym": "SN 48.12",
+      "root_lang": "pli",
+      "original_title": "Paṭhamasaṁkhittasutta",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "sa735",
+      "acronym": "SA 735",
+      "root_lang": "lzh",
+      "original_title": "果報",
+      "translated_title": null,
+      "type": "full",
+      "resembling": true,
+      "remark": null
+    },
+    {
+      "uid": "sa739",
+      "acronym": "SA 739",
+      "root_lang": "lzh",
+      "original_title": "果報",
+      "translated_title": null,
+      "type": "full",
+      "resembling": true,
+      "remark": null
+    }
+  ],
+  "primary_sn_uid": "sn48.12",
+  "pali_text": "“Pañcimāni, bhikkhave, indriyāni. Katamāni pañca? Saddhindriyaṁ …pe… paññindriyaṁ— imāni kho, bhikkhave, pañcindriyāni. Imesaṁ kho, bhikkhave, pañcannaṁ indriyānaṁ samattā paripūrattā arahaṁ hoti, tato mudutarehi anāgāmī hoti, tato mudutarehi sakadāgāmī hoti, tato mudutarehi sotāpanno hoti, tato mudutarehi dhammānusārī hoti, tato mudutarehi saddhānusārī hotī”ti. Dutiyaṁ.",
+  "english_sn_text": "“Mendicants, there are these five faculties. What five? The faculties of faith, energy, mindfulness, immersion, and wisdom. These are the five faculties. Someone who has completed and fulfilled these five faculties is a perfected one. If they are weaker than that, they’re a non-returner. If they are weaker still, they’re a once-returner. If they are weaker still, they’re a stream-enterer. If they’re weaker still, they’re a follower of teachings. If they’re weaker still, they’re a follower by faith.”",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa601-700/sa648_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa601-700/sa648_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛住舍卫国祇树给孤独园。\n佛告比丘：「有五根——信、精进、念、定、慧。于此五根圆满具足者，是阿罗汉，尽诸苦边；弱于此者，是阿那含；又弱者，是斯陀含；又弱者，是须陀洹；又弱者，是随法行；又弱者，是随信行。」\n佛说此经已，诸比丘闻佛所说，欢喜奉行。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在舍卫国祇树给孤独园。\n佛告比丘：「有五根——信、精进、念、定、慧。这五根圆满具足的，是阿罗汉，尽诸苦边；比这弱的，是阿那含；再弱的，是斯陀含；再弱的，是须陀洹；再弱的，是随法行；再弱的，是随信行。」\n佛说完这部经，比丘们听佛所说，都欢喜奉行。",
+  "notes": "本经 SC 平行表所列平行及 `raw_aligned_data.json` 内之巴利本文、Sujato 英译并用以厘定法义；求那跋陀罗汉本用于定位经文与传统术语。confidence=high：primary SN48.12 Saṁkhitta（五根强弱分果位）。据 SN 校正：汉本略说作须陀洹三结，改为 SN 六阶（阿罗汉→随信行）。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "high",
+  "prior_review_status": "needs_revision",
+  "similarity_to_source": 0.168,
+  "paragraph_parallel": true
+}

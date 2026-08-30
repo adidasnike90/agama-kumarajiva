@@ -1,0 +1,73 @@
+{
+  "id": "SA_1312",
+  "uid": "sa1312",
+  "title": "雜阿含經  卷第五十  雜相應  （1312）  所斷",
+  "chinese_text": "如是我聞：\n\n一時，佛住舍衛國祇樹給孤獨園。\n\n時，有多羅揵陀天子，容色絕妙，於後夜時來詣佛所，稽首佛足，身諸光明遍照祇樹給孤獨園。\n\n時，彼天子說偈問佛：\n\n「斷幾捨幾法？　　幾法上增修？\n\n　超越幾積聚，　　名比丘度流？」\n\n爾時，世尊說偈答言：\n\n「斷五捨於五，　　五法上增修，\n\n　超五種積聚，　　名比丘度流。」\n\n時，彼多羅揵陀天子聞佛所說，歡喜隨喜，稽首佛足，即沒不現。",
+  "english_sa_text": "",
+  "parallels": [
+    {
+      "uid": "sa-2.311",
+      "acronym": "SA2 311",
+      "root_lang": "lzh",
+      "original_title": "所斷",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "sa-2.140",
+      "acronym": "SA2 140",
+      "root_lang": "lzh",
+      "original_title": "思惟",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "sa1002",
+      "acronym": "SA 1002",
+      "root_lang": "lzh",
+      "original_title": "思惟",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "sn1.5",
+      "acronym": "SN 1.5",
+      "root_lang": "pli",
+      "original_title": "Katichindasutta",
+      "translated_title": "How Many Must One Cut?",
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    }
+  ],
+  "primary_sn_uid": "sn1.5",
+  "pali_text": "Sāvatthinidānaṁ. Ekamantaṁ ṭhitā kho sā devatā bhagavato santike imaṁ gāthaṁ abhāsi: “Kati chinde kati jahe, kati cuttari bhāvaye; Kati saṅgātigo bhikkhu, oghatiṇṇoti vuccatī”ti. “Pañca chinde pañca jahe, pañca cuttari bhāvaye; Pañca saṅgātigo bhikkhu, oghatiṇṇoti vuccatī”ti.",
+  "english_sn_text": "At Sāvatthī. Standing to one side, that deity spoke this verse in the Buddha’s presence: “Cut how many? Drop how many? Develop how many more? When a mendicant slips how many chains are they said to have crossed the flood?” “Five to cut, five to drop, and five more to develop. When a mendicant slips five chains they’re said to have crossed the flood.”",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa1301-1400/sa1312_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa1301-1400/sa1312_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛住舍卫国祇树给孤独园。\n后夜分，多罗揵陀天子容色绝妙，来诣佛所，稽首礼足；身诸光明遍照祇园。\n天子说偈问：「断几捨几法？几法上增修？超越几积聚，名比丘度流？」\n世尊说偈答：「断五捨于五，五法上增修；超五种积聚，名比丘度流。」\n时彼天子闻佛所说，欢喜随喜，稽首佛足，即没不现。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在舍卫国祇树给孤独园。\n后夜分，名叫多罗揵陀的天子容色绝妙，来到佛前，顶礼佛足；身上光明遍照祇园。\n天子说偈问：「要断几、捨几？还要增修几法？超越几种系缚，才叫比丘度过流？」\n世尊说偈答：「断五、捨五，再增修五法；超越五种系缚，才叫比丘度过流。」\n那时天子听佛所说，欢喜随喜，顶礼佛足，随即隐没不见。",
+  "notes": "本经 SC 平行表所列平行及 `raw_aligned_data.json` 内之巴利本文、Sujato 英译并用以厘定法义；求那跋陀罗汉本用于定位经文与传统术语。confidence=high：primary SN1.5 Katichindasutta。五断／五捨／五增修／五积聚（saṅga）＝传统五下分结等义，汉本与巴利同轨。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "high",
+  "prior_review_status": "needs_revision",
+  "similarity_to_source": 0.316,
+  "paragraph_parallel": true
+}

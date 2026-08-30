@@ -1,0 +1,33 @@
+{
+  "id": "SA_1035",
+  "uid": "sa1035",
+  "title": "雜阿含經  卷第四十三  業報相應  （1035）  婆藪",
+  "chinese_text": "如是我聞：\n\n一時，佛住波羅㮈國仙人住處鹿野苑中。\n\n時，婆藪長者身遭苦患。\n\n爾時，世尊聞婆藪長者身遭苦患……如前達摩提那長者修多羅廣說，得阿那含果記，乃至從坐起而去。",
+  "english_sa_text": "",
+  "parallels": [],
+  "primary_sn_uid": null,
+  "pali_text": "",
+  "english_sn_text": "",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa1001-1100/sa1035_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa1001-1100/sa1035_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛住波罗奈国仙人住处鹿野苑中。\n时婆薮长者身遭苦患。世尊往看，如达摩提离经广说——依于佛不坏净、于法不坏净、于僧不坏净、圣戒成就修念佛、念法、念僧、念戒、念施、念天，自记阿那含果；受请设供，说法示教照喜已，从坐起去。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在波罗奈国仙人住处鹿野苑中。\n当时婆薮长者身患重病。世尊前去探望，如同达摩提离经中广说——依对佛不坏净、对法不坏净、对僧不坏净，以及圣戒成就修念佛、念法、念僧、念戒、念施、念天，自己记说阿那含果；接受供养，说法开示鼓励后，起身离去。",
+  "notes": "SC 于本经未列可靠巴利平行，故唯以汉本为底，参同相应之巴利定型语厘义；依项目规约「无可靠平行时 confidence 降为 medium/low」。confidence=medium：gold_reconstructed——汉「如前达摩提那广说」peeyāla；据 SA_1033 纲补。住鹿野苑。",
+  "review_status": "gold_reconstructed",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "medium",
+  "prior_review_status": "needs_revision",
+  "reconstruction_basis": "「如前达摩提那广说」→ SA_1033 纲",
+  "similarity_to_source": 0.154,
+  "paragraph_parallel": true
+}

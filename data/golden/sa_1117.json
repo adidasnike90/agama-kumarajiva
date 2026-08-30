@@ -1,0 +1,83 @@
+{
+  "id": "SA_1117",
+  "uid": "sa1117",
+  "title": "雜阿含經  卷第四十八  帝釋相應  （1117）  月八日",
+  "chinese_text": "如是我聞：\n\n一時，佛住舍衛國祇樹給孤獨園。\n\n爾時，世尊告諸比丘：「於月八日，四大天王勅遣大臣，案行世間：『為何等人供養父母、沙門、婆羅門，宗親尊重，作諸福德，見今世惡，畏後世罪，行施作福，受持齋戒，於月八日、十四日、十五日，及神變月，受戒布薩？』至十四日，遣太子下，觀察世間：『為何等人供養父母，乃至受戒布薩？』至十五日，四大天王自下世間，觀察眾生：『為何等人供養父母，乃至受戒布薩？』諸比丘！爾時，世間無有多人供養父母，乃至受戒布薩者。\n\n「時，四天王即往詣三十三天集法講堂，白天帝釋：『天王當知，今諸世間，無有多人供養父母，乃至受戒布薩。』時，三十三天眾聞之不喜，轉相告語：『今世間人，不賢不善，不好不類，無真實行，不供養父母，乃至不受戒布薩。緣斯罪故，諸天眾減，阿修羅眾當漸增廣。』\n\n「諸比丘！爾時，世間若復多人供養父母，乃至受戒布薩者，四天王至三十三天集法講堂，白天帝釋：『天王當知，今諸世間，多有人民供養父母，乃至受戒布薩。』時，三十三天心皆歡喜，轉相告語：『今諸世間，賢聖真實如法，多有人民供養父母，乃至受戒布薩。緣斯福德，阿修羅眾減，諸天眾增廣。』\n\n「時，天帝釋知諸天眾皆歡喜已。即說偈言：\n\n「『若人月八日，　　十四十五日，\n\n　　及神變之月，　　受持八支齋。\n\n　　如我所修行，　　彼亦如是修。』」\n\n爾時，世尊告諸比丘：「彼天帝釋所說偈言：\n\n「『若人月八日，　　十四十五日，\n\n　　及神變之月，　　受持八支齋。\n\n　　如我所修行，　　彼亦如是修。』\n\n「此非善說。所以者何？彼天帝釋自有貪、恚、癡患，不脫生、老、病、死、憂、悲、惱、苦故。\n\n「若阿羅漢比丘！諸漏已盡，所作已作，離諸重擔，斷諸有結，心善解脫，說此偈言：\n\n「『若人月八日，　　十四十五日，\n\n　　及神變之月，　　受持八支齋。\n\n　　如我所修行，　　彼亦如是修。』\n\n「如是說者，則為善說。所以者何？阿羅漢比丘離貪、恚、癡，已脫生、老、病、死、憂、悲、惱、苦，是故此偈則為善說。」\n\n佛說此經已，諸比丘聞佛所說，歡喜奉行。",
+  "english_sa_text": "",
+  "parallels": [
+    {
+      "uid": "an3.38",
+      "acronym": "AN 3.38",
+      "root_lang": "pli",
+      "original_title": "Dutiyacatumahārājasutta",
+      "translated_title": "Kings (2)",
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "an3.37",
+      "acronym": "AN 3.37",
+      "root_lang": "pli",
+      "original_title": "Catumahārājasutta",
+      "translated_title": "Kings (1)",
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "ea24.6",
+      "acronym": "EA 24.6",
+      "root_lang": "lzh",
+      "original_title": "齋戒",
+      "translated_title": "The Three Fasting Days",
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "sa-2.46",
+      "acronym": "SA2 46",
+      "root_lang": "lzh",
+      "original_title": "月八日",
+      "translated_title": "The four guardian kings",
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "sht-sutta55",
+      "acronym": "SHT Sutta 55",
+      "root_lang": "san",
+      "original_title": "",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    }
+  ],
+  "primary_sn_uid": null,
+  "pali_text": "",
+  "english_sn_text": "",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa1101-1200/sa1117_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa1101-1200/sa1117_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛住舍卫国祇树给孤独园。\n尔时世尊告诸比丘：「月八日，四大天王遣大臣案行世间，察人是否供养父母、沙门婆罗门，宗亲尊重，作福畏罪，于八日、十四、十五及神变月受戒布萨；十四日遣太子下观；十五日四王自下观察。」\n「若世间少有如是行者，四王白天帝释，三十三天不喜，言：『世人不善，天众减、阿修罗增。』若多人如法斋戒，则天众喜，言：『天众增、阿修罗减。』」\n「帝释欢喜，说偈：『若人月八日、十四十五日及神变月，受持八支斋，如我所修行，彼亦如是修。』」\n「诸比丘！此偈非善说——帝释自有贪瞋痴，未脱生老病死忧悲恼苦。若漏尽阿罗汉说此偈，乃为善说——彼已离贪瞋痴，已脱生老病死。」\n佛说此经已，诸比丘闻佛所说，欢喜奉行。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在舍卫国祇树给孤独园。\n那时世尊告诉比丘们：「每月八日，四大天王派大臣巡查人间，看人们是否供养父母、沙门婆罗门，尊重宗亲，修福畏罪，在八日、十四、十五和神变月受持斋戒布萨；十四日派太子下来看；十五日四大天王亲自下界观察。」\n「若世间很少有人这样做，四王禀报天帝释，三十三天就不高兴，说：『世人不善，天众减少、阿修罗增多。』若很多人如法斋戒，天众就欢喜，说：『天众增多、阿修罗减少。』」\n「帝释欢喜，说偈：『若有人在月八日、十四、十五和神变月受持八支斋，像我这样修行，那人也是这样修。』」\n「比丘们！这偈说得不好——帝释自己还有贪瞋痴，没能脱离生老病死忧悲苦恼。若是漏尽阿罗汉说这偈，才算善说——因为他已离贪瞋痴，已脱生老病死。」\n佛说完这部经，比丘们听佛所说，都欢喜奉行。",
+  "notes": "本经 SC 平行表所列平行及 `raw_aligned_data.json` 内之巴利本文、Sujato 英译并用以厘定法义；求那跋陀罗汉本用于定位经文与传统术语。confidence=high：parallels AN3.37–38 Catumahārāja／Rājapūjita；四王案行→天众增减；帝释八支斋偈；佛判唯阿罗汉可自称『如我修』。SC 未挂 SN，以 AN 为据。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "high",
+  "prior_review_status": "needs_revision",
+  "similarity_to_source": 0.149,
+  "paragraph_parallel": true
+}

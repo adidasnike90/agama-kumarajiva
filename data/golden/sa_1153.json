@@ -1,0 +1,43 @@
+{
+  "id": "SA_1153",
+  "uid": "sa1153",
+  "title": "雜阿含經  卷第五十  婆羅門相應  （1153）  瞋罵",
+  "chinese_text": "如是我聞：\n\n一時，佛住舍衛國東園鹿子母講堂。\n\n爾時，世尊晡時從禪覺，詣講堂東蔭蔭中，露地經行。\n\n時，有健罵婆羅豆婆遮婆羅門來詣佛所，世尊面前作麁惡不善語，罵詈呵責。世尊經行，彼隨世尊後行。世尊經行已竟，住於一處，彼婆羅門言：「瞿曇伏耶？」\n\n爾時，世尊即說偈言：\n\n「勝者更增怨，　　伏者臥不安，\n\n　勝伏二俱捨，　　是得安隱眠。」\n\n婆羅門白言：「瞿曇！我今悔過，如愚如癡，不辯不善，何於瞿曇面前作麁惡不善語，罵詈呵責？」\n\n時，婆羅門聞佛所說，歡喜隨喜，復道而去。",
+  "english_sa_text": "",
+  "parallels": [
+    {
+      "uid": "sa-2.76",
+      "acronym": "SA2 76",
+      "root_lang": "lzh",
+      "original_title": "瞋罵",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    }
+  ],
+  "primary_sn_uid": null,
+  "pali_text": "",
+  "english_sn_text": "",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa1101-1200/sa1153_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa1101-1200/sa1153_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛住舍卫国东园鹿子母讲堂。\n尔时世尊晡时从禅觉，于讲堂东荫露地经行。\n时健骂婆罗豆婆遮婆罗门来，于佛前作粗恶不善语，骂詈呵责；佛经行，彼随其后。佛住足，彼言：「瞿昙伏耶？」\n世尊说偈：「胜则增怨结，负则卧不安；胜负二俱舍，乃得安隐眠。」\n婆罗门白言：「瞿昙！我今悔过，如愚如痴，于面前骂詈呵责。」闻已欢喜，复道而去。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在舍卫国东园鹿子母讲堂。\n那时佛下午从禅定起来，在讲堂东边树荫下露地经行。\n健骂婆罗豆婆遮婆罗门前来，在佛面前用粗恶话辱骂；佛经行，他就跟在后面。佛停下脚步，他说：「瞿昙，你认输了吗？」\n佛说偈：「赢了会结更多怨，输了躺着也不安；胜负两边都放下，才能睡得安稳。」\n婆罗门说：「瞿昙！我现在悔过，我太愚昧，在您面前辱骂。」听完欢喜，沿原路回去。",
+  "notes": "SC 于本经未列可靠巴利平行，故唯以汉本为底，参同相应之巴利定型语厘义；依项目规约「无可靠平行时 confidence 降为 medium/low」。confidence=medium：SC 唯列汉异译平行，无 SN／AN。偈「胜负二俱舍」同早期「胜则增怨」定型，据汉本顺达雅。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "medium",
+  "prior_review_status": "needs_revision",
+  "similarity_to_source": 0.115,
+  "paragraph_parallel": true
+}

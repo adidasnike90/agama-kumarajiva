@@ -1,0 +1,66 @@
+{
+  "id": "SA_586",
+  "uid": "sa586",
+  "title": "雜阿含經  卷第二十五  天相應  （586）  利劍",
+  "chinese_text": "如是我聞：\n\n一時，佛住舍衛國祇樹給孤獨園。\n\n時，有一天子，容色妙絕，於後夜時來詣佛所，稽首佛足，身諸光明遍照祇樹給孤獨園。\n\n時，彼天子而說偈言：\n\n「猶如利劍害，　　亦如頭火燃，\n\n　斷除貪欲火，　　正念求遠離。」\n\n爾時，世尊說偈答言：\n\n「譬如利劍害，　　亦如頭火燃，\n\n　斷除於後身，　　正念求遠離。」\n\n時，彼天子復說偈言：\n\n「久見婆羅門，　　逮得般涅槃，\n\n　一切怖已過，　　永超世恩愛。」\n\n時，彼天子聞佛所說，歡喜隨喜，稽首佛足，即沒不現。",
+  "english_sa_text": "",
+  "parallels": [
+    {
+      "uid": "sa-2.170",
+      "acronym": "SA2 170",
+      "root_lang": "lzh",
+      "original_title": "利劍",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "sn1.21",
+      "acronym": "SN 1.21",
+      "root_lang": "pli",
+      "original_title": "Sattisutta",
+      "translated_title": "A Sword",
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "sn2.16",
+      "acronym": "SN 2.16",
+      "root_lang": "pli",
+      "original_title": "Vāsudattasutta",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    }
+  ],
+  "primary_sn_uid": "sn1.21",
+  "pali_text": "Sāvatthinidānaṁ. Ekamantaṁ ṭhitā kho sā devatā bhagavato santike imaṁ gāthaṁ abhāsi: “Sattiyā viya omaṭṭho, ḍayhamānova matthake; Kāmarāgappahānāya, sato bhikkhu paribbaje”ti. “Sattiyā viya omaṭṭho, ḍayhamānova matthake; Sakkāyadiṭṭhippahānāya, sato bhikkhu paribbaje”ti.",
+  "english_sn_text": "At Sāvatthī. Standing to one side, that deity spoke this verse in the Buddha’s presence: “Like they’re struck by a sword, like their head was on fire, a mendicant, mindful, should go forth, to give up sensual desire.” “Like they’re struck by a sword, like their head was on fire, a mendicant, mindful, should go forth, to give up substantialist view.”",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa501-600/sa586_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa501-600/sa586_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛在舍卫国祇树给孤独园。时，有一天子容色绝妙，于后夜时来诣佛所，稽首佛足，身诸光明遍照祇树给孤独园。\n时，彼天子说偈白佛：「犹如利剑害，亦如头火燃，断除贪欲火，正念求远离。」\n尔时，世尊说偈答言：「譬如利剑害，亦如头火燃，断除于后身，正念求远离。」\n时，彼天子复说偈言：「久见婆罗门，逮得般涅槃，一切怖已过，永超世恩爱。」\n时，彼天子闻佛所说，欢喜随喜，稽首佛足，即没不现。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在舍卫国祇树给孤独园。当时，有一位天子容色绝妙，在后夜来到佛处，顶礼佛足，身放光明遍照祇树给孤独园。\n天子说偈问佛：「犹如利剑害，亦如头火燃，断除贪欲火，正念求远离。」\n世尊说偈答：「譬如利剑害，亦如头火燃，断除于后身，正念求远离。」\n天子又说偈：「久见婆罗门，逮得般涅槃，一切怖惧已过，永超世间恩爱。」\n当时，那位天子听佛所说，欢喜随喜，顶礼佛足，随即消失。",
+  "notes": "本经 SC 平行表所列平行及 `raw_aligned_data.json` 内之巴利本文、Sujato 英译并用以厘定法义；求那跋陀罗汉本用于定位经文与传统术语。confidence=high：primary SN1.21（利剑、头火喻；断身见／贪欲）。据 SN 校正：汉问贪欲、佛答后身（sakkāya），今从 SN。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "high",
+  "prior_review_status": "needs_revision",
+  "similarity_to_source": 0.453,
+  "paragraph_parallel": true,
+  "quality_gate_reasons": [
+    "lit_mod_gap=0.261>=0.1"
+  ]
+}

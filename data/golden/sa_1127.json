@@ -1,0 +1,44 @@
+{
+  "id": "SA_1127",
+  "uid": "sa1127",
+  "title": "雜阿含經  卷第四十九  不壞淨相應  （1127）  四法",
+  "chinese_text": "如是我聞：\n\n一時，佛住舍衛國祇樹給孤獨園。\n\n爾時，世尊告諸比丘：「若有成就四法者，當知是須陀洹。何等為四？謂於佛不壞淨，於法、僧不壞淨，聖戒成就，是名四法成就者，當知是須陀洹。」\n\n佛說此經已，諸比丘聞佛所說，歡喜奉行。\n\n如不分別說，如是分別，比丘、比丘尼、式叉摩尼、沙彌、沙彌尼、優婆塞、優婆夷成就四法者，當知是須陀洹，一一經如上說。",
+  "english_sa_text": "",
+  "parallels": [
+    {
+      "uid": "sn55.2",
+      "acronym": "SN 55.2",
+      "root_lang": "pli",
+      "original_title": "Brahmacariyogadhasutta",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    }
+  ],
+  "primary_sn_uid": "sn55.2",
+  "pali_text": "“Catūhi, bhikkhave, dhammehi samannāgato ariyasāvako sotāpanno hoti avinipātadhammo niyato sambodhiparāyaṇo. Katamehi catūhi? Idha, bhikkhave, ariyasāvako buddhe aveccappasādena samannāgato hoti: ‘itipi so bhagavā arahaṁ sammāsambuddho vijjācaraṇasampanno sugato lokavidū anuttaro purisadammasārathi satthā devamanussānaṁ buddho bhagavā’ti. Dhamme …pe… saṅghe …pe… ariyakantehi sīlehi samannāgato hoti akhaṇḍehi …pe… samādhisaṁvattanikehi. Imehi kho, bhikkhave, catūhi dhammehi samannāgato ariyasāvako sotāpanno hoti avinipātadhammo niyato sambodhiparāyaṇo”ti. Idamavoca bhagavā. Idaṁ vatvāna sugato athāparaṁ etadavoca satthā: “Yesaṁ saddhā ca sīlañca, Pasādo dhammadassanaṁ; Te ve kālena paccenti, Brahmacariyogadhaṁ sukhan”ti. Dutiyaṁ.",
+  "english_sn_text": "“Mendicants, a noble disciple who has four things is a stream-enterer, not liable to be reborn in the underworld, assured, destined for awakening. What four? It’s when a noble disciple has experiential confidence in the Buddha … the teaching … the Saṅgha … And they have the ethical conduct loved by the noble ones … leading to immersion. A noble disciple who has these four things is a stream-enterer, not liable to be reborn in the underworld, assured, destined for awakening.” That is what the Buddha said. Then the Holy One, the Teacher, went on to say: “Those who have faith and ethics, confidence, and vision of the truth, in time arrive at happiness, the objective of the spiritual life.”",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa1101-1200/sa1127_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa1101-1200/sa1127_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛住舍卫国祇树给孤独园。\n尔时世尊告诸比丘：「若成就四法，当知是须陀洹。何等为四？于佛不坏净、于法不坏净、于僧不坏净、圣戒成就。」\n「如是不分别说；若分别，则比丘、比丘尼、式叉摩那、沙弥、沙弥尼、优婆塞、优婆夷成就四法者，皆当知是须陀洹。」\n佛说此经已，诸比丘闻佛所说，欢喜奉行。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在舍卫国祇树给孤独园。\n那时世尊告诉比丘们：「若成就四种法，就应当知道是须陀洹。哪四种？对佛不坏净、对法不坏净、对僧不坏净，以及圣戒成就。」\n「这样是总说；若分别说，则比丘、比丘尼、式叉摩那、沙弥、沙弥尼、优婆塞、优婆夷成就这四法的，都应当知道是须陀洹。」\n佛说完这部经，比丘们听佛所说，都欢喜奉行。",
+  "notes": "本经 SC 平行表所列平行及 `raw_aligned_data.json` 内之巴利本文、Sujato 英译并用以厘定法义；求那跋陀罗汉本用于定位经文与传统术语。confidence=high：primary SN55.2 Ariyasāvaka；四法成就即须陀洹；汉 peyyāla 七众据邻经略补。",
+  "review_status": "gold_reconstructed",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "high",
+  "prior_review_status": "needs_revision",
+  "reconstruction_basis": "七众「一一经如上」peyyāla → 略补七众同得须陀洹",
+  "similarity_to_source": 0.313,
+  "paragraph_parallel": true
+}

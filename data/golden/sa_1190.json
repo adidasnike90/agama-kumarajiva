@@ -1,0 +1,53 @@
+{
+  "id": "SA_1190",
+  "uid": "sa1190",
+  "title": "雜阿含經  卷第五十  梵天相應  （1190）  梵主",
+  "chinese_text": "如是我聞：\n\n一時，佛住欝毘羅聚落尼連禪河側菩提樹下，成佛未久。\n\n爾時，娑婆世界主梵天王絕妙色身，於後夜時來詣佛所，稽首佛足，退坐一面，而說偈言：\n\n「於諸種姓中，　　剎利兩足尊，\n\n　明行具足者，　　天人中最勝！」\n\n佛告梵天王：「如是，梵天！如是，梵天！\n\n「於諸種姓中，　　剎利兩足尊，\n\n　明行具足者，　　天人中最勝。」\n\n佛說是經已，娑婆世界主梵天王聞佛所說，歡喜隨喜，稽首佛足，即沒不現。",
+  "english_sa_text": "",
+  "parallels": [
+    {
+      "uid": "sa-2.103",
+      "acronym": "SA2 103",
+      "root_lang": "lzh",
+      "original_title": "梵主",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "sn6.11",
+      "acronym": "SN 6.11",
+      "root_lang": "pli",
+      "original_title": "Sanaṅkumārasutta",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    }
+  ],
+  "primary_sn_uid": "sn6.11",
+  "pali_text": "Evaṁ me sutaṁ— ekaṁ samayaṁ bhagavā rājagahe viharati sappinītīre. Atha kho brahmā sanaṅkumāro abhikkantāya rattiyā abhikkantavaṇṇo kevalakappaṁ sappinītīraṁ obhāsetvā yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṁ abhivādetvā ekamantaṁ aṭṭhāsi. Ekamantaṁ ṭhito kho brahmā sanaṅkumāro bhagavato santike imaṁ gāthaṁ abhāsi: “Khattiyo seṭṭho janetasmiṁ, ye gottapaṭisārino; Vijjācaraṇasampanno, so seṭṭho devamānuse”ti. Idamavoca brahmā sanaṅkumāro. Samanuñño satthā ahosi. Atha kho brahmā sanaṅkumāro “samanuñño me satthā”ti bhagavantaṁ abhivādetvā padakkhiṇaṁ katvā tatthevantaradhāyīti.",
+  "english_sn_text": "So I have heard. At one time the Buddha was staying near Rājagaha, on the bank of the Serpentine River. Then, late at night, the glorious divinity Sanaṅkumāra, lighting up the entire Serpentine riverbank, went up to the Buddha, bowed, stood to one side, and spoke this verse in the Buddha’s presence: “The aristocrat is best among people who take clan as the standard. But one accomplished in knowledge and conduct is best among gods and humans.” That is what the divinity Sanaṅkumāra said, and the Teacher concurred. Then the divinity Sanaṅkumāra, knowing that the Teacher concurred, bowed and respectfully circled the Buddha, keeping him on his right, before vanishing right there.",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa1101-1200/sa1190_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa1101-1200/sa1190_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛住郁毘罗聚落尼连禅河侧菩提树下，成佛未久。\n后夜，娑婆世界主梵天王绝妙色身来诣佛所，稽首退坐，说偈：「于诸种姓中，刹利两足尊；明行具足者，天人中最胜！」\n佛告梵天：「如是，梵天！于诸种姓中，刹利两足尊；明行具足者，天人中最胜。」\n梵天王闻已欢喜随喜，稽首佛足，即没不现。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在郁毘罗聚落尼连禅河边菩提树下，成佛还不久。\n后夜，娑婆世界主梵天王以绝妙的色身来到佛前，顶礼后坐在一边，说偈：「在讲究种姓的人里，刹利是两足中的尊贵；但明行具足的人，才是天人中最殊胜！」\n佛告诉梵天：「正是这样，梵天！在讲究种姓的人里，刹利是两足中的尊贵；但明行具足的人，才是天人中最殊胜。」\n梵天王听完欢喜随喜，顶礼佛足，随即隐没不见。",
+  "notes": "本经 SC 平行表所列平行及 `raw_aligned_data.json` 内之巴利本文、Sujato 英译并用以厘定法义；求那跋陀罗汉本用于定位经文与传统术语。confidence=high：primary SN6.11。据 SN：以族姓论则刹利胜；以明行具足论则于天人中最胜。汉作娑婆主梵天，SN 作 Sanaṅkumāra——义同印可。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "high",
+  "prior_review_status": "needs_revision",
+  "similarity_to_source": 0.282,
+  "paragraph_parallel": true
+}

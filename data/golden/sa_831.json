@@ -1,0 +1,53 @@
+{
+  "id": "SA_831",
+  "uid": "sa831",
+  "title": "雜阿含經  卷第三十一  學相應  （831）  戒",
+  "chinese_text": "如是我聞：\n\n一時，佛住舍衛國祇樹給孤獨園。\n\n爾時，世尊告諸比丘：「若諸上座長老比丘初始不樂學戒、不重於戒，見餘比丘初樂學戒、重於戒、讚歎制戒者，彼亦不隨時讚歎，我於此等比丘所亦不讚歎，以其初始不樂學戒故。所以者何？若大師讚歎彼者，餘人當復習近親重，同其所見；以同其所見故，長夜當受不饒益苦。是故我於彼長老，中年、少年亦復如是。樂學戒者，如前說。」\n\n佛說此經已，諸比丘聞佛所說，歡喜奉行。",
+  "english_sa_text": "",
+  "parallels": [
+    {
+      "uid": "an3.91",
+      "acronym": "AN 3.91",
+      "root_lang": "pli",
+      "original_title": "Saṅkavāsutta",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "sf134",
+      "acronym": "SF 134",
+      "root_lang": "san",
+      "original_title": "",
+      "translated_title": null,
+      "type": "full",
+      "resembling": true,
+      "remark": null
+    }
+  ],
+  "primary_sn_uid": null,
+  "pali_text": "",
+  "english_sn_text": "",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa801-900/sa831_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa801-900/sa831_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛住舍卫国祇树给孤独园。\n尔时世尊告诸比丘：「若上座长老，初不乐学戒、不重戒，见余比丘乐学戒、重戒、赞叹制戒，亦不随赞。我于此等亦不赞叹——以其初不乐学戒故。所以者何？若大师赞彼，余人当习近亲重、同其所见；同见故，长夜受不饶益苦。于中年、少年，亦复如是。其乐学戒、重戒、赞叹制戒者，我则随喜赞叹。」\n佛说此经已，诸比丘闻佛所说，欢喜奉行。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在舍卫国祇树给孤独园。\n那时世尊告诉比丘们：「如果上座长老起初不乐学戒、不重戒，看见别的比丘乐学戒、重戒、赞叹制戒，也不跟着赞叹。我对这些人也不赞叹——因为他们起初就不乐学戒。为什么？若大师赞叹他们，别人就会亲近倚重、同其所见；同见之后，长夜会受无益之苦。对中年、少年，也是一样。那些乐学戒、重戒、赞叹制戒的，我则随喜赞叹。」\n佛说完这部经，比丘们听佛所说，都欢喜奉行。",
+  "notes": "SC 于本经未列可靠巴利平行，故唯以汉本为底，参同相应之巴利定型语厘义；依项目规约「无可靠平行时 confidence 降为 medium/low」。confidence=medium：学相应「戒」——上座不乐学戒则不赞；SC 表列 AN3.91 Saṅkavā 与 SA_830 同号，法义不符，不以彼为据。删「如前说」回环，补乐学戒者随喜句以足因果。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "medium",
+  "prior_review_status": "needs_revision",
+  "similarity_to_source": 0.237,
+  "paragraph_parallel": true
+}

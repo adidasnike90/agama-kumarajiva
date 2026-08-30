@@ -1,0 +1,83 @@
+{
+  "id": "SA_611",
+  "uid": "sa611",
+  "title": "雜阿含經  卷第二十六  念處相應  （611）  善聚",
+  "chinese_text": "如是我聞：\n\n一時，佛住舍衛國祇樹給孤獨園。\n\n爾時，世尊告諸比丘：「有善法聚、不善法聚。云何善法聚？所謂四念處，是為正說。所以者何？純一滿淨聚者，所謂四念處。云何為四？謂身身觀念處，受、心、法法觀念處。云何不善聚？不善聚者，所謂五蓋，是為正說。所以者何？純一逸滿不善聚者，所謂五蓋。何等為五？謂貪欲蓋、瞋恚蓋、睡眠蓋、掉悔蓋、疑蓋。」\n\n佛說此經已，諸比丘聞佛所說，歡喜奉行。",
+  "english_sa_text": "",
+  "parallels": [
+    {
+      "uid": "an5.52",
+      "acronym": "AN 5.52",
+      "root_lang": "pli",
+      "original_title": "Akusalarāsisutta",
+      "translated_title": "A Heap",
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "ea32.2",
+      "acronym": "EA 32.2",
+      "root_lang": "lzh",
+      "original_title": "不善",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "sn47.5",
+      "acronym": "SN 47.5",
+      "root_lang": "pli",
+      "original_title": "Akusalarāsisutta",
+      "translated_title": "A Heap of the Wholesome",
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "sa725",
+      "acronym": "SA 725",
+      "root_lang": "lzh",
+      "original_title": "不善聚",
+      "translated_title": null,
+      "type": "full",
+      "resembling": true,
+      "remark": null
+    },
+    {
+      "uid": "sa767",
+      "acronym": "SA 767",
+      "root_lang": "lzh",
+      "original_title": "聚",
+      "translated_title": "Good and Bad Aggregates",
+      "type": "full",
+      "resembling": true,
+      "remark": null
+    }
+  ],
+  "primary_sn_uid": "sn47.5",
+  "pali_text": "Sāvatthinidānaṁ. Tatra kho bhagavā etadavoca: “‘akusalarāsī’ti, bhikkhave, vadamāno pañca nīvaraṇe sammā vadamāno vadeyya. Kevalo hāyaṁ, bhikkhave, akusalarāsi, yadidaṁ—pañca nīvaraṇā. Katame pañca? Kāmacchandanīvaraṇaṁ, byāpādanīvaraṇaṁ, thinamiddhanīvaraṇaṁ, uddhaccakukkuccanīvaraṇaṁ, vicikicchānīvaraṇaṁ. ‘Akusalarāsī’ti, bhikkhave, vadamāno ime pañca nīvaraṇe sammā vadamāno vadeyya. Kevalo hāyaṁ, bhikkhave, akusalarāsi, yadidaṁ—pañca nīvaraṇā. ‘Kusalarāsī’ti, bhikkhave, vadamāno cattāro satipaṭṭhāne sammā vadamāno vadeyya. Kevalo hāyaṁ, bhikkhave, kusalarāsi, yadidaṁ—cattāro satipaṭṭhānā. Katame cattāro? Idha, bhikkhave, bhikkhu kāye kāyānupassī viharati ātāpī sampajāno satimā, vineyya loke abhijjhādomanassaṁ; vedanāsu …pe… citte …pe… dhammesu dhammānupassī viharati ātāpī sampajāno satimā, vineyya loke abhijjhādomanassaṁ. ‘Kusalarāsī’ti, bhikkhave, vadamāno ime cattāro satipaṭṭhāne sammā vadamāno vadeyya. Kevalo hāyaṁ, bhikkhave, kusalarāsi, yadidaṁ—cattāro satipaṭṭhānā”ti. Pañcamaṁ.",
+  "english_sn_text": "At Sāvatthī. There the Buddha said: “Rightly speaking, mendicants, you’d call the five hindrances a ‘heap of the unskillful’. For these five hindrances are entirely a heap of the unskillful. What five? The hindrances of sensual desire, ill will, dullness and drowsiness, restlessness and remorse, and doubt. Rightly speaking, you’d call these five hindrances a ‘heap of the unskillful’. For these five hindrances are entirely a heap of the unskillful. Rightly speaking, you’d call these four kinds of mindfulness meditation a ‘heap of the skillful’. For these four kinds of mindfulness meditation are entirely a heap of the skillful. What four? It’s when a mendicant meditates by observing an aspect of the body—keen, aware, and mindful, rid of covetousness and displeasure for the world. They meditate observing an aspect of feelings … They meditate observing an aspect of the mind … They meditate observing an aspect of principles—keen, aware, and mindful, rid of covetousness and displeasure for the world. Rightly speaking, you’d call these four kinds of mindfulness meditation a ‘heap of the skillful’. For these four kinds of mindfulness meditation are entirely a heap of the skillful.”",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa601-700/sa611_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa601-700/sa611_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛住舍卫国祇树给孤独园。\n佛告比丘：「善法聚者，谓四念处——身、受、心、法，是为正说；不善法聚者，谓五盖——贪欲、瞋恚、睡眠、掉悔、疑，是为正说。所以者何？纯一满净之聚，唯四念处；纯一不善之聚，唯五盖。」\n佛说此经已，诸比丘闻佛所说，欢喜奉行。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在舍卫国祇树给孤独园。\n佛告诉比丘：「善法的聚集，就是四念处——身、受、心、法，这样说才正确；不善法的聚集，就是五盖——贪欲、瞋恚、昏沉睡眠、掉举后悔、疑，这样说才正确。为什么？纯粹圆满清净的聚集，只有四念处；纯粹不善的聚集，只有五盖。」\n佛说完这部经，比丘们听佛所说，都欢喜奉行。",
+  "notes": "本经 SC 平行表所列平行及 `raw_aligned_data.json` 内之巴利本文、Sujato 英译并用以厘定法义；求那跋陀罗汉本用于定位经文与传统术语。confidence=high：primary SN47.5（kusalarāsi／akusalarāsi）。据 SN 校正：善聚＝四念处，不善聚＝五盖；汉本「逸满」从 SN kevalo 作纯一。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "high",
+  "prior_review_status": "needs_revision",
+  "similarity_to_source": 0.239,
+  "paragraph_parallel": true
+}

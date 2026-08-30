@@ -1,0 +1,53 @@
+{
+  "id": "SA_1182",
+  "uid": "sa1182",
+  "title": "雜阿含經  卷第五十  梵天相應  （1182）  婆羅林",
+  "chinese_text": "如是我聞：\n\n一時，佛在拘薩羅人間遊行，於一夜時，住止娑羅林中。\n\n時，有一婆羅門，去娑羅林不遠，營作田業。晨朝起作，至娑羅林中，遙見世尊坐一樹下，儀容端正，諸根清淨，其心寂定，具足成就第一止觀，其身金色，光明徹照。見已，往詣其所，白言：「瞿曇！我近在此經營事業，故樂此林。瞿曇於此有何事業，樂此林中？」復說偈言：\n\n「比丘於此林，　　為何事業故，\n\n　獨一守空閑，　　樂於此林中？」\n\n爾時，世尊說偈答曰：\n\n「無事於此林，　　林根久已斷，\n\n　於林離林脫，　　禪思不樂斷。」\n\n時，彼婆羅門聞佛所說，歡喜隨喜，作禮而去。",
+  "english_sa_text": "",
+  "parallels": [
+    {
+      "uid": "sa-2.96",
+      "acronym": "SA2 96",
+      "root_lang": "lzh",
+      "original_title": "婆羅林",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "sn7.17",
+      "acronym": "SN 7.17",
+      "root_lang": "pli",
+      "original_title": "Navakammikasutta",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    }
+  ],
+  "primary_sn_uid": "sn7.17",
+  "pali_text": "Ekaṁ samayaṁ bhagavā kosalesu viharati aññatarasmiṁ vanasaṇḍe. Tena kho pana samayena navakammikabhāradvājo brāhmaṇo tasmiṁ vanasaṇḍe kammantaṁ kārāpeti. Addasā kho navakammikabhāradvājo brāhmaṇo bhagavantaṁ aññatarasmiṁ sālarukkhamūle nisinnaṁ pallaṅkaṁ ābhujitvā ujuṁ kāyaṁ paṇidhāya parimukhaṁ satiṁ upaṭṭhapetvā. Disvānassa etadahosi: “ahaṁ kho imasmiṁ vanasaṇḍe kammantaṁ kārāpento ramāmi. Ayaṁ samaṇo gotamo kiṁ kārāpento ramatī”ti? Atha kho navakammikabhāradvājo brāhmaṇo yena bhagavā tenupasaṅkami. upasaṅkamitvā bhagavantaṁ gāthāya ajjhabhāsi: “Ke nu kammantā karīyanti, bhikkhu sālavane tava; Yadekako araññasmiṁ, ratiṁ vindati gotamo”ti. “Na me vanasmiṁ karaṇīyamatthi, Ucchinnamūlaṁ me vanaṁ visūkaṁ; Svāhaṁ vane nibbanatho visallo, Eko rame aratiṁ vippahāyā”ti. Evaṁ vutte, navakammikabhāradvājo brāhmaṇo bhagavantaṁ etadavoca: “abhikkantaṁ, bho gotama …pe… upāsakaṁ maṁ bhavaṁ gotamo dhāretu ajjatagge pāṇupetaṁ saraṇaṁ gatan”ti.",
+  "english_sn_text": "At one time the Buddha was staying in the land of the Kosalans in a certain forest grove. Now at that time the brahmin Bhāradvāja the Builder was having some building work done in that jungle thicket. He saw the Buddha sitting down cross-legged at the root of a certain sal tree, his body set straight, and mindfulness brought to the present. Seeing this, it occurred to him, “I enjoy having this building work done here in the jungle. I wonder what the ascetic Gotama enjoys having done?” Then Bhāradvāja the Builder went up to the Buddha and addressed him in verse: “What kind of works are done by you, a mendicant in the sal jungle? How do you find enjoyment alone in the wilderness, Gotama?” “There’s nothing I need do in the jungle; my jungle’s cut at the root, it’s withered away. Free of snarls and thorns in the jungle, I enjoy solitude, having given up discontent.” When he had spoken, the brahmin Bhāradvāja the Builder said to the Buddha, “Excellent, worthy Gotama … From this day forth, may the worthy Gotama remember me as a lay follower who has gone for refuge for life.”",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa1101-1200/sa1182_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa1101-1200/sa1182_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛在拘萨罗人间游行，一夜住娑罗林中。\n有婆罗门近林营田，晨入林见佛坐树下诸根寂定，问：「我营事业故乐此林；瞿昙有何事业乐此？」偈曰：「比丘于此林，为何事业故，独一守空闲，乐于此林中？」\n佛答：「没事于此林，林根久已断；于林离林脱，禅思不乐断。」\n彼闻佛所说，欢喜随喜，作礼而去。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛在拘萨罗人间游行，在娑罗林中住了一夜。\n有个婆罗门在林边耕田，早晨进林看见佛坐在树下诸根寂定，问：「我因为做事才喜欢这片林；瞿昙有什么事，喜欢住在这里？」又说偈：「比丘在这林中，为了什么事业，独自守着空闲，喜欢住在这里？」\n佛答：「我在林中无事可做；『林』的根早已斩断。出离丛林的缠缚，禅思而住，不再有不乐。」\n他听佛所说，欢喜随喜，作礼离去。",
+  "notes": "本经 SC 平行表所列平行及 `raw_aligned_data.json` 内之巴利本文、Sujato 英译并用以厘定法义；求那跋陀罗汉本用于定位经文与传统术语。confidence=high：primary SN7.17。据 SN：林根已断＝烦恼根断；无事无求而乐独坐。汉「不乐断」读为断除不乐（arati），非「厌故不乐」。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "high",
+  "prior_review_status": "needs_revision",
+  "similarity_to_source": 0.146,
+  "paragraph_parallel": true
+}

@@ -1,0 +1,33 @@
+{
+  "id": "SA_868",
+  "uid": "sa868",
+  "title": "雜阿含經  卷第三十二  天相應  （868）  解脫",
+  "chinese_text": "如是我聞：\n\n一時，佛住舍衛國祇樹給孤獨園。\n\n爾時，世尊告諸比丘……如上說。差別者：「彼如是知、如是見，欲有漏心解脫、有有漏心解脫、無明漏心解脫，解脫知見：『我生已盡，梵行已立，所作已作，自知不受後有。』若不解脫，而以彼法，欲法、念法、樂法取中般涅槃；若不爾者，取生般涅槃；若不爾者，取有行般涅槃；若不爾者，取無行般涅槃；若不爾者，取上流般涅槃；若不爾者，彼以欲法、念法、樂法生自性光音天；若不爾者，生無量光天；若不爾者，生少光天。」\n\n佛說此經已，諸比丘聞佛所說，歡喜奉行。",
+  "english_sa_text": "",
+  "parallels": [],
+  "primary_sn_uid": null,
+  "pali_text": "",
+  "english_sn_text": "",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa801-900/sa868_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa801-900/sa868_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛住舍卫国祇树给孤独园。\n尔时世尊告诸比丘：\n「若比丘如是行、如是形、如是相：息有觉有观，内净一心，无觉无观，定生喜乐，第二禅具足住。若不忆念如是行、形、相，而于色、受、想、行、识，作如病、如痈、如刺、如杀、无常、苦、空、非我思惟；于彼法生厌、怖畏、防护。生厌、怖畏、防护已，以甘露法而自饶益——所谓寂静、胜妙、舍离，爱尽、离欲、灭尽、涅槃。如是知、如是见已，欲漏心解脱、有漏心解脱、无明漏心解脱，解脱知见：『我生已尽，梵行已立，所作已作，自知不受后有。』若不得解脱，以欲法、念法、乐法故，取中般涅槃；若不如是，取生般涅槃；若不如是，取有行般涅槃；若不如是，取无行般涅槃；若不如是，取上流般涅槃。若不如是，以欲法、念法、乐法，生光音天、或无量光天、或少光天。」\n佛说此经已，诸比丘闻佛所说，欢喜奉行。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在舍卫国祇树给孤独园。\n那时世尊告诉比丘们：\n「如果比丘这样行、这样形、这样相：息有觉有观，内净一心，无觉无观，定生喜乐，第二禅具足而住。如果不忆念这样的行、形、相，而对色、受、想、行、识，作如病、如痈、如刺、如杀、无常、苦、空、非我的思惟；对这些法生起厌离、怖畏、防护。厌离、怖畏、防护之后，以甘露法饶益自身——就是寂静、胜妙、舍离，爱尽、离欲、灭尽、涅槃。这样知、这样见之后，欲漏心解脱、有漏心解脱、无明漏心解脱，解脱知见：『我生已尽，梵行已立，所作已作，自知不受后有。』如果不得解脱，因为欲法、念法、乐法，取中般涅槃；若还不是，取生般涅槃；若还不是，取有行般涅槃；若还不是，取无行般涅槃；若还不是，取上流般涅槃。若还不是，以欲法、念法、乐法，生光音天、或无量光天、或少光天。」\n佛说完这部经，比丘们听佛所说，都欢喜奉行。",
+  "notes": "SC 于本经未列可靠巴利平行，故唯以汉本为底，参同相应之巴利定型语厘义；依项目规约「无可靠平行时 confidence 降为 medium/low」。confidence=medium：gold_reconstructed——汉「如上说」＋解脱／五不还／光音等；据 SA_867 补二禅纲。「自性光音天」→「光音天」。",
+  "review_status": "gold_reconstructed",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "medium",
+  "prior_review_status": "needs_revision",
+  "reconstruction_basis": "二禅「如上说」→ 解脱＋五不还／光音",
+  "similarity_to_source": 0.284,
+  "paragraph_parallel": true
+}

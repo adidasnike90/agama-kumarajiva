@@ -1,0 +1,43 @@
+{
+  "id": "SA_1293",
+  "uid": "sa1293",
+  "title": "雜阿含經  卷第五十  雜相應  （1293）  甚能",
+  "chinese_text": "如是我聞：\n\n一時，佛住舍衛國祇樹給孤獨園。\n\n時，有一天子，容色絕妙，於後夜時來詣佛所，稽首佛足，退坐一面。身諸光明遍照祇樹給孤獨園。\n\n時，彼天子說偈問佛：\n\n「一切相映障，　　知一切世間，\n\n　樂安慰一切，　　唯願世尊說，\n\n　云何是世間，　　最為難得者？」\n\n是時，世尊說偈答言：\n\n「為主而行忍，　　無財而欲施，\n\n　遭難而行法，　　富貴修遠離，\n\n　如是四法者，　　是則為最難。」\n\n時，彼天子復說偈言：\n\n「久見婆羅門，　　逮得般涅槃，\n\n　一切怖已過，　　永超世恩愛。」\n\n於是，天子聞佛所說，歡喜隨喜，稽首佛足，即沒不現。",
+  "english_sa_text": "",
+  "parallels": [
+    {
+      "uid": "sa-2.291",
+      "acronym": "SA2 291",
+      "root_lang": "lzh",
+      "original_title": "所為",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    }
+  ],
+  "primary_sn_uid": null,
+  "pali_text": "",
+  "english_sn_text": "",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa1201-1300/sa1293_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa1201-1300/sa1293_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛住舍卫国祇树给孤独园。\n后夜分，有天子容色绝妙，来诣佛所，稽首礼足，退坐一面；身诸光明遍照祇树给孤独园。\n天子说偈问：「一切相映障，知一切世间，乐安慰一切——唯愿世尊说：云何是世间最为难得者？」\n世尊说偈答：「为主而行忍，无财而欲施，遭难而行法，富贵修远离——如是四法，是则为最难。」\n天子复说偈：「久见婆罗门，逮得般涅槃，一切怖已过，永超世恩爱。」闻已欢喜，礼足即没。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在舍卫国祇树给孤独园。\n后夜分，有一位天子容色绝妙，来到佛前，顶礼佛足，退坐一面；身上的光明遍照祇树给孤独园。\n天子说偈问：「能映障一切相，了知一切世间，乐于安慰一切——愿世尊说：世间什么最为难得？」\n世尊说偈答：「身居上位还能忍耐，自己没有财物却想布施，遭遇危难仍按法而行，身处富贵却修远离——这四种，才是世间最难得的。」\n天子又说偈：「久见婆罗门，逮得般涅槃，一切怖惧已过，永超世间恩爱。」听完欢喜随喜，顶礼佛足，随即隐没不见。",
+  "notes": "SC 于本经未列可靠巴利平行，故唯以汉本为底，参同相应之巴利定型语厘义；依项目规约「无可靠平行时 confidence 降为 medium/low」。confidence=medium：无 SC 专经；四难（主而忍、贫而施、难而法、富而离）与早期「难得」定型相应。题名汉录或与下经互易，文以「最难得」为准。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "medium",
+  "prior_review_status": "needs_revision",
+  "similarity_to_source": 0.263,
+  "paragraph_parallel": true
+}

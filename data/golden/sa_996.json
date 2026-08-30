@@ -1,0 +1,54 @@
+{
+  "id": "SA_996",
+  "uid": "sa996",
+  "title": "雜阿含經  卷第四十一  諸天相應  （996）  憍慢",
+  "chinese_text": "如是我聞：\n\n一時，佛住舍衛國祇樹給孤獨園。\n\n時，有一天子，容色絕妙，於後夜時來詣佛所，稽首佛足，退坐一面。身諸光明遍照祇樹給孤獨園。\n\n時，彼天子而說偈言：\n\n「不欲起憍慢，　　善自調其心，\n\n　未曾修寂默，　　亦不入正受，\n\n　處林而放逸，　　不度死彼岸。」\n\n爾時，世尊說偈答言：\n\n「已離於憍慢，　　心常入正受，\n\n　明智善分別，　　解脫一切縛，\n\n　獨一處閑林，　　其心不放逸，\n\n　於彼死魔怨，　　疾得度彼岸。」\n\n時，彼天子復說偈言：\n\n「久見婆羅門，　　逮得般涅槃，\n\n　一切怖已過，　　永超世恩愛。」\n\n時，彼天子聞佛所說，歡喜隨喜，稽首佛足，即沒不現。",
+  "english_sa_text": "",
+  "parallels": [
+    {
+      "uid": "sa-2.133",
+      "acronym": "SA2 133",
+      "root_lang": "lzh",
+      "original_title": "憍慢",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "sn1.9",
+      "acronym": "SN 1.9",
+      "root_lang": "pli",
+      "original_title": "Mānakāmasutta",
+      "translated_title": "One Prone to Conceit",
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    }
+  ],
+  "primary_sn_uid": "sn1.9",
+  "pali_text": "Sāvatthinidānaṁ. Ekamantaṁ ṭhitā kho sā devatā bhagavato santike imaṁ gāthaṁ abhāsi: “Na mānakāmassa damo idhatthi, Na monamatthi asamāhitassa; Eko araññe viharaṁ pamatto, Na maccudheyyassa tareyya pāran”ti. “Mānaṁ pahāya susamāhitatto, Sucetaso sabbadhi vippamutto; Eko araññe viharaṁ appamatto, Sa maccudheyyassa tareyya pāran”ti.",
+  "english_sn_text": "At Sāvatthī. Standing to one side, that deity spoke this verse in the Buddha’s presence: “One fond of conceit can’t be tamed, no sage is lacking immersion. Living negligent alone in the wilderness, they can’t cross beyond Death’s dominion.” “Having given up conceit, serene within oneself, with a good heart, everywhere free; living diligent alone in the wilderness, they cross beyond Death’s dominion.”",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa901-1000/sa996_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa901-1000/sa996_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛住舍卫国祇树给孤独园。\n后夜分，有天子来诣佛所，容色绝妙，稽首礼足，退坐一面；身诸光明遍照祇园。\n天子说偈问：「乐慢者难调，未定无寂默；独在林放逸，不度死彼岸。」\n世尊说偈答：「已舍慢善定，善心遍解脱；独在林不逸，能度死彼岸。」\n天子说偈：「久见婆罗门，逮得般涅槃，一切怖已过，永超世恩爱。」闻已欢喜，礼足即没。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在舍卫国祇树给孤独园。\n后夜分，有一位天子，容色绝妙，来到佛前，顶礼佛足，退坐一面；身上的光明遍照祇树给孤独园。\n天子说偈问：「爱著我慢的人难以调伏，心未得定就谈不上牟尼寂默；独自在林中却放逸，不能度越死魔的彼岸。」\n世尊说偈答：「舍弃我慢、内心善定，善心于一切处解脱；独自在林中不放逸，就能度越死魔的彼岸。」\n天子又说偈：「久见婆罗门，逮得般涅槃，一切怖已过，永超世恩爱。」听完欢喜随喜，顶礼佛足，随即隐没不见。",
+  "notes": "本经 SC 平行表所列平行及 `raw_aligned_data.json` 内之巴利本文、Sujato 英译并用以厘定法义；求那跋陀罗汉本用于定位经文与传统术语。confidence=high：primary SN1.9 Mānakāma。据 SN 校正汉问偈：乐慢难调／无定无牟尼／林中放逸不度死；汉「不欲起憍慢」义倒，今从巴利。",
+  "review_status": "gold_reconstructed",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "high",
+  "prior_review_status": "needs_revision",
+  "reconstruction_basis": "汉问偈「不欲起憍慢」与 SN1.9 乐慢难调义倒；据巴利改正。",
+  "similarity_to_source": 0.184,
+  "paragraph_parallel": true
+}

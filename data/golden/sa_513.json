@@ -1,0 +1,43 @@
+{
+  "id": "SA_513",
+  "uid": "sa513",
+  "title": "雜阿含經  卷第二十一  弟子所說相應  （513）  調象子等",
+  "chinese_text": "如是我聞：\n\n一時，佛住王舍城，乃至尊者大目犍連於路中見一大身眾生，舉體生毛，毛如大針，針皆火然，還燒其體，痛徹骨髓。乃至佛告諸比丘：「此眾生者，過去世時，於此王舍城為調象士，緣斯罪故，已百千歲墮地獄中受無量苦，地獄餘罪，今得此身，續受斯苦。諸比丘！如大目犍連所見，真實不異，當受持之。」\n\n佛說此經已，諸比丘聞佛所說，歡喜奉行。\n\n如調象士，如是調馬士、調牛士、好讒人者，及諸種種苦切人者，亦復如是。",
+  "english_sa_text": "",
+  "parallels": [
+    {
+      "uid": "sn19.8",
+      "acronym": "SN 19.8",
+      "root_lang": "pli",
+      "original_title": "Sūcilomasutta",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    }
+  ],
+  "primary_sn_uid": "sn19.8",
+  "pali_text": "“Idhāhaṁ, āvuso, gijjhakūṭā pabbatā orohanto addasaṁ sūcilomaṁ purisaṁ vehāsaṁ gacchantaṁ. Tassa tā sūciyo uppatitvā uppatitvā tasseva kāye nipatanti. So sudaṁ aṭṭassaraṁ karoti …pe… eso, bhikkhave, satto imasmiṁyeva rājagahe sūto ahosi …pe…. Aṭṭhamaṁ.",
+  "english_sn_text": "“Just now, reverend, as I was descending from Vulture’s Peak Mountain I saw a man whose body hairs were needles flying through the air. And those needles kept rising up and falling on his body as he screamed in pain. …” … “That being used to be an equerry right here in Rājagaha. …”",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa501-600/sa513_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa501-600/sa513_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛在王舍城迦兰陀竹园。\n尊者大目犍连于路中见一大身众生，遍身生毛，毛如大针，针皆火然，还烧其体，痛彻骨髓，乘虚而行。\n佛告诸比丘：「此众生者，过去于此王舍城为调象士，缘斯罪故，堕地狱受无量苦；地狱余报，今得此身，续受其苦。诸比丘！如大目犍连所见，真实不虚，应当受持。。」\n如调象士，调马士、调牛士、好谗人及诸苦切人者，亦复如是。\n佛说此经已，诸比丘闻佛所说，欢喜奉行。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在王舍城迦兰陀竹园。\n大目犍连尊者在路中看见一个身躯巨大的众生，遍身长毛，毛像大针，针都着火，反过来烧它的身体，痛彻骨髓，在空中飞行。\n佛告诉比丘们：「这个众生，过去在此王舍城做调象的人，因为那个罪业的缘故，堕入地狱受无量苦；地狱的剩余果报，现在得到这样的身，继续承受那些苦。诸比丘！如同大目犍连所见的，真实不虚，你们应当受持。。」\n如同调象的人，调马、调牛的人，好进谗言的人，以及种种苛刻折磨人的人，也是这样。\n佛说完这部经，比丘们听佛所说，都欢喜奉行。",
+  "notes": "本经 SC 平行表所列平行及 `raw_aligned_data.json` 内之巴利本文、Sujato 英译并用以厘定法义；求那跋陀罗汉本用于定位经文与传统术语。confidence=high：primary SN19.8 Sūciloma（针毛烧身）；汉列调象／马／牛及谗人、苦切人，据汉保留并摄。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "high",
+  "prior_review_status": "needs_revision",
+  "similarity_to_source": 0.262,
+  "paragraph_parallel": true
+}

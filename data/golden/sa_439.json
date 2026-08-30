@@ -1,0 +1,63 @@
+{
+  "id": "SA_439",
+  "uid": "sa439",
+  "title": "雜阿含經  卷第十七  界相應  （439）  山",
+  "chinese_text": "如是我聞：\n\n一時，佛住王舍城迦蘭陀竹園。\n\n爾時，世尊手執土石，問諸比丘：「於意云何？此手中土石為多？彼大雪山土石為多？」\n\n比丘白佛言：「世尊手中土石甚少少耳，雪山土石甚多無量，百千巨億，算數譬類不可為比。」\n\n佛告比丘：「其諸眾生於苦聖諦如實知者，苦集聖諦、苦滅聖諦、苦滅道跡聖諦如實知者，如我手中所執土石；其諸眾生於苦聖諦不如實知，於苦集聖諦、苦滅聖諦、苦滅道跡聖諦不如實知者，如彼雪山土石，其數無量。是故，比丘！於四聖諦未無間等者，當勤方便，起增上欲，學無間等。」\n\n佛說是經已，諸比丘聞佛所說，歡喜奉行。",
+  "english_sa_text": "",
+  "parallels": [
+    {
+      "uid": "sn13.11",
+      "acronym": "SN 13.11",
+      "root_lang": "pli",
+      "original_title": "Tatiyapabbatasutta",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "sn56.49",
+      "acronym": "SN 56.49",
+      "root_lang": "pli",
+      "original_title": "Paṭhamasinerupabbatarājasutta",
+      "translated_title": "Sineru (1)",
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "sa441",
+      "acronym": "SA 441",
+      "root_lang": "lzh",
+      "original_title": "土等",
+      "translated_title": null,
+      "type": "full",
+      "resembling": true,
+      "remark": null
+    }
+  ],
+  "primary_sn_uid": "sn13.11",
+  "pali_text": "Sāvatthiyaṁ viharati. “Seyyathāpi, bhikkhave, puriso sinerussa pabbatarājassa satta muggamattiyo pāsāṇasakkharā upanikkhipeyya. Taṁ kiṁ maññatha, bhikkhave, katamaṁ nu kho bahutaraṁ, yā vā satta muggamattiyo pāsāṇasakkharā upanikkhittā yo vā sineru pabbatarājā”ti? “Etadeva, bhante, bahutaraṁ yadidaṁ sineru pabbatarājā; appamattikā satta muggamattiyo pāsāṇasakkharā upanikkhittā. Neva satimaṁ kalaṁ upenti na sahassimaṁ kalaṁ upenti na satasahassimaṁ kalaṁ upenti sineruṁ pabbatarājānaṁ upanidhāya satta muggamattiyo pāsāṇasakkharā upanikkhittā”ti. “Evameva kho, bhikkhave, ariyasāvakassa diṭṭhisampannassa puggalassa adhigamaṁ upanidhāya aññatitthiyasamaṇabrāhmaṇaparibbājakānaṁ adhigamo neva satimaṁ kalaṁ upeti na sahassimaṁ kalaṁ upeti na satasahassimaṁ kalaṁ upeti. Evaṁ mahādhigamo, bhikkhave, diṭṭhisampanno puggalo, evaṁ mahābhiñño”ti. Ekādasamaṁ. Abhisamayasaṁyuttaṁ samattaṁ. Tassuddānaṁ Nakhasikhā pokkharaṇī, sambhejjaudake ca dve; Dve pathavī dve samuddā, tayo ca pabbatūpamāti.",
+  "english_sn_text": "At Sāvatthī. “Mendicants, suppose a person was to place on Sineru, the king of mountains, seven pebbles the size of mung beans. What do you think, mendicants? Which is more: the seven pebbles the size of mung beans, or Sineru, the king of mountains?” “Sir, Sineru, the king of mountains, is certainly more. The seven pebbles the size of mung beans are tiny. Compared to Sineru, it’s not nearly a hundredth, a thousandth, or a hundred thousandth part.” “In the same way, compared with the achievements of a noble disciple accomplished in view, the achievements of the ascetics, brahmins, and wanderers of other religions is not nearly a hundredth, a thousandth, or a hundred thousandth part. So great is the achievement of the individual accomplished in view, so great is their direct knowledge.” The Linked Discourses on comprehension are complete.",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa401-500/sa439_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa401-500/sa439_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛在王舍城迦兰陀竹园。\n尔时，世尊手执土石，问诸比丘：「此手中土石为多？雪山土石为多？」比丘白佛：「手中甚少；雪山无量，算数譬类所不能及。」佛言：「于苦圣谛、苦集圣谛、苦灭圣谛、苦灭道迹圣谛如实知者，如我手中土石；不如实知者，如彼雪山土石，其数无量。是故当于四圣谛勤修无间等。」\n佛说此经已，诸比丘闻佛所说，欢喜奉行。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在王舍城迦兰陀竹园。\n那时，世尊手里握着一点土石，问比丘们：「我手里这点土石多，还是雪山的土石多？」比丘们禀告：「手里的很少；雪山多得无法计量，没法用数目或比喻相比。」佛说：「对苦圣谛、苦集圣谛、苦灭圣谛、苦灭道迹圣谛如实了知的人，就像我手里这点土石；不能如实了知的人，就像那雪山的土石，数量无量。所以应当对四圣谛勤修无间等。」\n佛说完这部经，比丘们听佛所说，都欢喜奉行。",
+  "notes": "本经 SC 平行表所列平行及 `raw_aligned_data.json` 内之巴利本文、Sujato 英译并用以厘定法义；求那跋陀罗汉本用于定位经文与传统术语。confidence=high：SC 列 SN13.11、SN56.49。SN13.11 以须弥豆许石较外道证得；本经汉文属谛相应，以知／不知四谛多寡为义——保留汉应用，数量喻与 SN 同族。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "high",
+  "prior_review_status": "needs_revision",
+  "similarity_to_source": 0.229,
+  "paragraph_parallel": true
+}

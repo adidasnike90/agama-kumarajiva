@@ -1,0 +1,53 @@
+{
+  "id": "SA_406",
+  "uid": "sa406",
+  "title": "雜阿含經  卷第十六  諦相應  （406）  龜",
+  "chinese_text": "如是我聞：\n\n一時，佛住獼猴池側重閣講堂。\n\n爾時，世尊告諸比丘：「譬如大地悉成大海，有一盲龜壽無量劫，百年一出其頭，海中有浮木，止有一孔，漂流海浪，隨風東西。盲龜百年一出其頭，當得遇此孔不？」\n\n阿難白佛：「不能。世尊！所以者何？此盲龜若至海東，浮木隨風，或至海西，南、北四維圍遶亦爾，不必相得。」\n\n佛告阿難：「盲龜浮木，雖復差違，或復相得。愚癡凡夫漂流五趣，暫復人身，甚難於彼。所以者何？彼諸眾生不行其義、不行法、不行善、不行真實，展轉殺害，強者陵弱，造無量惡故。是故，比丘！於四聖諦當未無間等者，當勤方便，起增上欲，學無間等。」\n\n佛說此經已，諸比丘聞佛所說，歡喜奉行。",
+  "english_sa_text": "",
+  "parallels": [
+    {
+      "uid": "sn56.48",
+      "acronym": "SN 56.48",
+      "root_lang": "pli",
+      "original_title": "Dutiyachiggaḷayugasutta",
+      "translated_title": "Yoke with a Hole (2)",
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "sn56.47",
+      "acronym": "SN 56.47",
+      "root_lang": "pli",
+      "original_title": "Paṭhamachiggaḷayugasutta",
+      "translated_title": "Yoke with a Hole (1)",
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    }
+  ],
+  "primary_sn_uid": "sn56.47",
+  "pali_text": "“Seyyathāpi, bhikkhave, puriso mahāsamudde ekacchiggaḷaṁ yugaṁ pakkhipeyya. Tatrāpissa kāṇo kacchapo. So vassasatassa vassasatassa accayena sakiṁ sakiṁ ummujjeyya. Taṁ kiṁ maññatha, bhikkhave, api nu kho kāṇo kacchapo vassasatassa vassasatassa accayena sakiṁ sakiṁ ummujjanto amusmiṁ ekacchiggaḷe yuge gīvaṁ paveseyyā”ti? “Yadi nūna, bhante, kadāci karahaci dīghassa addhuno accayenā”ti. “Khippataraṁ kho so, bhikkhave, kāṇo kacchapo vassasatassa vassasatassa accayena sakiṁ sakiṁ ummujjanto amusmiṁ ekacchiggaḷe yuge gīvaṁ paveseyya, na tvevāhaṁ, bhikkhave, sakiṁ vinipātagatena bālena manussattaṁ vadāmi. Taṁ kissa hetu? Na hettha, bhikkhave, atthi dhammacariyā, samacariyā, kusalakiriyā, puññakiriyā. Aññamaññakhādikā ettha, bhikkhave, vattati dubbalakhādikā. Taṁ kissa hetu? Adiṭṭhattā, bhikkhave, catunnaṁ ariyasaccānaṁ. Katamesaṁ catunnaṁ? Dukkhassa ariyasaccassa …pe… dukkhanirodhagāminiyā paṭipadāya ariyasaccassa. Tasmātiha, bhikkhave, ‘idaṁ dukkhan’ti yogo karaṇīyo …pe… ‘ayaṁ dukkhanirodhagāminī paṭipadā’ti yogo karaṇīyo”ti. Sattamaṁ.",
+  "english_sn_text": "“Mendicants, suppose a person were to throw a yoke with a single hole into the ocean. And there was a one-eyed turtle who popped up once every hundred years. What do you think, mendicants? Would that one-eyed turtle, popping up once every hundred years, still poke its neck through the hole in that yoke?” “Only after a very long time, sir, if ever.” “That one-eyed turtle might poke its neck through the hole in that yoke, but in any case it’d be sooner than a fool fallen to the underworld is reborn as a human being, I say. Why is that? Because in that place there’s no principled or moral conduct, and no doing what is good and skillful. There they just prey on each other, preying on the weak. Why is that? It’s because they haven’t seen the four noble truths. What four? The noble truths of suffering, its origin, its cessation, and the path. That’s why you should practice meditation …”",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa401-500/sa406_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa401-500/sa406_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛在毗舍离猕猴池侧重阁讲堂。\n尔时，世尊告诸比丘：「譬如大地尽成大海，有人投一孔之轭于海；有一盲龟，百年一出其头。于意云何——盲龟百年一出，能值轭孔不？」比丘白佛：「久远或值，或不值。」\n佛言：「盲龟值孔，犹速于愚人堕恶趣已得复人身。所以者何？恶趣中无法行、等行、善作、福作，唯更相残杀、强者陵弱——以未见四圣谛故。」\n「是故比丘于四圣谛未无间等者，当勤方便，起增上欲，精进修学。何等为四？谓苦圣谛、苦集圣谛、苦灭圣谛、苦灭道迹圣谛。」\n佛说此经已，诸比丘闻佛所说，欢喜奉行。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在毗舍离猕猴池侧重阁讲堂。\n那时，世尊告诉比丘们：「好比整个大地都变成大海，有人把只有一个孔的轭扔进海里；又有一只盲龟，一百年才伸出一次头。你们怎么看——这只盲龟百年一出，能正好套进那个孔吗？」比丘们回答：「要隔很久才可能碰上，也许永远碰不上。」\n佛说：「盲龟套进孔里，还比愚人堕入恶趣以后再得到人身更快。为什么？恶趣里没有法行、等行、善作、福作，只是互相残杀、强者欺凌弱者——因为没有看见四圣谛。」\n「所以比丘对四圣谛还没有无间等的，应当勤加方便，发起强盛愿欲，精进修学。哪四种？就是苦圣谛、苦集圣谛、苦灭圣谛、苦灭道迹圣谛。」\n佛说完这部经，比丘们听佛所说，都欢喜奉行。",
+  "notes": "本经 SC 平行表所列平行及 `raw_aligned_data.json` 内之巴利本文、Sujato 英译并用以厘定法义；求那跋陀罗汉本用于定位经文与传统术语。confidence=high：primary SN56.47（resembling SN56.48）。信-校正：汉作阿难对答；据 SN 改诸比丘对答。一孔之轭（ekacchiggaḷaṁ yugaṁ）＋盲龟＝人身难得；因＝未见四谛。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "high",
+  "prior_review_status": "needs_revision",
+  "similarity_to_source": 0.144,
+  "paragraph_parallel": true
+}

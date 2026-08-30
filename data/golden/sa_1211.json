@@ -1,0 +1,53 @@
+{
+  "id": "SA_1211",
+  "uid": "sa1211",
+  "title": "雜阿含經  卷第五十  比丘尼相應  （1211）  龍脅",
+  "chinese_text": "如是我聞：\n\n一時，佛住王舍城那伽山側，五百比丘俱，皆是阿羅漢，諸漏已盡，所作已作，離諸重擔，逮得己利，斷諸有結，正智心善解脫。\n\n尊者大目揵連觀大眾心，一切皆悉解脫貪欲。時，尊者婆耆舍於大眾中，作是念：「我今當於世尊及比丘僧面前說偈讚歎。」作是念已，即從座起，整衣服，合掌白佛言：「世尊！欲有所說。善逝！欲有所說。」\n\n佛告婆耆舍：「隨所樂說！」\n\n時，尊者婆耆舍即說偈言：\n\n「導師無上士，　　住那伽山側，\n\n　五百比丘眾，　　親奉於大師。\n\n　尊者大目連，　　神通諦明了，\n\n　觀彼大眾心，　　悉皆離貪欲。\n\n　如是具足度，　　牟尼度彼岸，\n\n　持此最後身，　　我今稽首禮。」\n\n尊者婆耆舍說是語時，諸比丘聞其所說，皆大歡喜。",
+  "english_sa_text": "",
+  "parallels": [
+    {
+      "uid": "sa-2.227",
+      "acronym": "SA2 227",
+      "root_lang": "lzh",
+      "original_title": "龍脅",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "sn8.10",
+      "acronym": "SN 8.10",
+      "root_lang": "pli",
+      "original_title": "Moggallānasutta",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    }
+  ],
+  "primary_sn_uid": "sn8.10",
+  "pali_text": "Ekaṁ samayaṁ bhagavā rājagahe viharati isigilipasse kāḷasilāyaṁ mahatā bhikkhusaṅghena saddhiṁ pañcamattehi bhikkhusatehi sabbeheva arahantehi. Tesaṁ sudaṁ āyasmā mahāmoggallāno cetasā cittaṁ samannesati vippamuttaṁ nirupadhiṁ. Atha kho āyasmato vaṅgīsassa etadahosi: “ayaṁ kho bhagavā rājagahe viharati isigilipasse kāḷasilāyaṁ mahatā bhikkhusaṅghena saddhiṁ pañcamattehi bhikkhusatehi sabbeheva arahantehi. Tesaṁ sudaṁ āyasmā mahāmoggallāno cetasā cittaṁ samannesati vippamuttaṁ nirupadhiṁ. Yannūnāhaṁ āyasmantaṁ mahāmoggallānaṁ bhagavato sammukhā sāruppāhi gāthāhi abhitthaveyyan”ti. Atha kho āyasmā vaṅgīso uṭṭhāyāsanā ekaṁsaṁ uttarāsaṅgaṁ karitvā yena bhagavā tenañjaliṁ paṇāmetvā bhagavantaṁ etadavoca: “paṭibhāti maṁ, bhagavā, paṭibhāti maṁ, sugatā”ti. “Paṭibhātu taṁ, vaṅgīsā”ti bhagavā avoca. Atha kho āyasmā vaṅgīso āyasmantaṁ mahāmoggallānaṁ bhagavato sammukhā sāruppāhi gāthāhi abhitthavi: “Nagassa passe āsīnaṁ, muniṁ dukkhassa pāraguṁ; Sāvakā payirupāsanti, tevijjā maccuhāyino. Te cetasā anupariyeti, Moggallāno mahiddhiko; Cittaṁ nesaṁ samannesaṁ, Vippamuttaṁ nirūpadhiṁ. Evaṁ sabbaṅgasampannaṁ, Muniṁ dukkhassa pāraguṁ; Anekākārasampannaṁ, Payirupāsanti gotaman”ti.",
+  "english_sn_text": "At one time the Buddha was staying on the slopes of Isigili at the Black Rock, together with a large Saṅgha of five hundred mendicants, all of whom were perfected ones. Thereupon, with his mind, Venerable Mahāmoggallāna scrutinized whose mind was liberated and free of attachments. Then Venerable Vaṅgīsa thought, “The Buddha is staying on the slopes of Isigili … with five hundred perfected ones. Mahāmoggallāna is scrutinizing whose mind is liberated and free of attachments. Why don’t I extoll him in the Buddha’s presence with fitting verses?” Then Venerable Vaṅgīsa rose from his seat, arranged his robe over one shoulder, raised his cupped palms toward the Buddha, and said, “I feel inspired to speak, Blessed One! I feel inspired to speak, Holy One!” “Then speak as you feel inspired,” said the Buddha. Then Vaṅgīsa extolled Mahāmoggallāna in his presence with fitting verses: “As the sage, who has gone beyond suffering, sits upon the mountain slope, he is revered by disciples with the three knowledges, conquerors of death. Moggallāna, of great psychic power, encompasses with his mind, scrutinizing their minds, liberated, free of attachments. That is how those endowed with many fine qualities revere Gotama, the sage gone beyond suffering, perfect in every respect.”",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa1201-1300/sa1211_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa1201-1300/sa1211_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛住王舍城仙人山黑石侧，与大比丘众五百人俱，皆是阿罗汉。\n尊者大目揵连以心观察大众之心，悉皆解脱、无有执取。时尊者婆耆舍作是念：「我当于世尊前以适意偈赞大目连。」即从座起，整衣服，合掌白佛：「世尊！欲有所说。善逝！欲有所说。」佛告婆耆舍：「随所乐说！」\n时婆耆舍于佛前以偈赞大目连言：「牟尼度苦岸，坐于山崖侧；三明伏死怨，弟子亲奉事。大通目揵连，以心遍观察；观彼诸人心，解脱无执取。众德悉具足，牟尼度彼岸；如是诸弟子，恭敬礼瞿昙。」\n婆耆舍说是语时，诸比丘闻已，皆大欢喜。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在王舍城仙人山黑石侧，与大比丘众约五百人俱，皆是阿罗汉。\n尊者大目揵连用心观察大众的心，都已解脱、无所执取。这时尊者婆耆舍心想：「我应当在世尊面前，用合适的偈赞叹大目连。」便从座起，整衣服，合掌对佛说：「世尊！我想说。善逝！我想说。」佛告诉婆耆舍：「随你乐意说吧！」\n于是婆耆舍在佛前用偈赞叹大目连：「牟尼已度苦岸，坐在山崖边；具三明、胜死亡的弟子们都来亲近奉事。大神通的目揵连，用心遍察；观察他们的心，都已解脱、无所执取。众德具足、已度苦岸的牟尼——弟子们就是这样恭敬礼敬瞿昙。」\n婆耆舍说完时，比丘们听了都大欢喜。",
+  "notes": "本经 SC 平行表所列平行及 `raw_aligned_data.json` 内之巴利本文、Sujato 英译并用以厘定法义；求那跋陀罗汉本用于定位经文与传统术语。confidence=high：primary SN8.10。据 SN 校正：住处作仙人山黑石侧（汉「那伽山侧」）；偈赞对象主要是大目连观心解脱，并归敬佛。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "high",
+  "prior_review_status": "needs_revision",
+  "similarity_to_source": 0.177,
+  "paragraph_parallel": true
+}

@@ -1,0 +1,64 @@
+{
+  "id": "SA_480",
+  "uid": "sa480",
+  "title": "雜阿含經  卷第十九  受相應  （480）  沙門婆羅門",
+  "chinese_text": "如是我聞：\n\n一時，佛住王舍城迦蘭陀竹園。\n\n爾時，世尊告諸比丘：「若沙門、婆羅門於諸受不如實知，受集、受滅、受集道跡、受滅道跡、受味、受患、受離不如實知者；非沙門、非婆羅門，不同沙門、不同婆羅門，非沙門義、非婆羅門義，現法自知作證：『我生已盡，梵行已立，所作已作，自知不受後有。』\n\n「若沙門、婆羅門於諸受如實知，受集、受滅、受集道跡、受滅道跡、受味、受患、受離如實知者，彼是沙門之沙門、婆羅門之婆羅門，同沙門、同婆羅門，沙門義、婆羅門義，現法自知作證：『我生已盡，梵行已立，所作已作，自知不受後有。』」\n\n佛說此經已，諸比丘聞佛所說，歡喜奉行。\n\n如沙門、非沙門，如是沙門數、非沙門數亦如是。",
+  "english_sa_text": "",
+  "parallels": [
+    {
+      "uid": "sn36.29",
+      "acronym": "SN 36.29",
+      "root_lang": "pli",
+      "original_title": "Tatiyasamaṇabrāhmaṇasutta",
+      "translated_title": "Ascetics and Brahmins (3)",
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "sn36.28",
+      "acronym": "SN 36.28",
+      "root_lang": "pli",
+      "original_title": "Dutiyasamaṇabrāhmaṇasutta",
+      "translated_title": "Ascetics and Brahmins (2)",
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "sn36.27",
+      "acronym": "SN 36.27",
+      "root_lang": "pli",
+      "original_title": "Paṭhamasamaṇabrāhmaṇasutta",
+      "translated_title": "Ascetics and Brahmins (1)",
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    }
+  ],
+  "primary_sn_uid": "sn36.27",
+  "pali_text": "“Tisso imā, bhikkhave, vedanā. Katamā tisso? Sukhā vedanā, dukkhā vedanā, adukkhamasukhā vedanā. Ye hi keci, bhikkhave, samaṇā vā brāhmaṇā vā imāsaṁ tissannaṁ vedanānaṁ samudayañca atthaṅgamañca assādañca ādīnavañca nissaraṇañca yathābhūtaṁ nappajānanti. Na me te, bhikkhave, samaṇā vā brāhmaṇā vā samaṇesu vā samaṇasammatā brāhmaṇesu vā brāhmaṇasammatā, na ca pana te āyasmanto sāmaññatthaṁ vā brahmaññatthaṁ vā diṭṭheva dhamme sayaṁ abhiññā sacchikatvā upasampajja viharanti. Ye ca kho keci, bhikkhave, samaṇā vā brāhmaṇā vā imāsaṁ tissannaṁ vedanānaṁ samudayañca atthaṅgamañca assādañca ādīnavañca nissaraṇañca yathābhūtaṁ pajānanti. Te kho me, bhikkhave, samaṇā vā brāhmaṇā vā samaṇesu ceva samaṇasammatā brāhmaṇesu ca brāhmaṇasammatā. Te ca panāyasmanto sāmaññatthañca brahmaññatthañca, diṭṭheva dhamme sayaṁ abhiññā sacchikatvā upasampajja viharantī”ti. Sattamaṁ.",
+  "english_sn_text": "“Mendicants, there are these three feelings. What three? Pleasant, painful, and neutral feeling. There are ascetics and brahmins who don’t truly understand these three feelings’ gratification, drawback, and escape. I don’t deem them as true ascetics and brahmins. Those venerables don’t realize the goal of life as an ascetic or brahmin, and don’t live having realized it with their own insight in this very life. There are ascetics and brahmins who do truly understand these three feelings’ gratification, drawback, and escape. I deem them as true ascetics and brahmins. Those venerables realize the goal of life as an ascetic or brahmin, and live having realized it with their own insight.”",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa401-500/sa480_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa401-500/sa480_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛在王舍城迦兰陀竹园。\n尔时，世尊告诸比丘：「有三受——乐受、苦受、不苦不乐受。若沙门、婆罗门于三受之集、灭、味、患、离不如实知，彼非沙门之沙门、非婆罗门之婆罗门，不能于现法自知作证：我生已尽，梵行已立，所作已作，自知不受后有。若于三受之集、灭、味、患、离如实知，彼是沙门之沙门、婆罗门之婆罗门，能于现法自知作证：我生已尽，梵行已立，所作已作，自知不受后有。」\n佛说此经已，诸比丘闻佛所说，欢喜奉行。\n「若于三受不如实知者，非沙门、非婆罗门；若如实知者，是沙门之沙门、婆罗门之婆罗门——于三受之集、灭、味、患、离，现法自知作证，我生已尽，梵行已立，所作已作，自知不受后有。」\n「若于三受之集、灭、味、患、离不如实知，非沙门数、非婆罗门数；若如实知，是沙门数、是婆罗门数——义同上。」",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在王舍城迦兰陀竹园。\n那时，世尊告诉比丘们：「有三种受——乐受、苦受、不苦不乐受。如果沙门、婆罗门对三受的集、灭、味、患、离不能如实了知，他们就不是真正的沙门、也不是真正的婆罗门，不能在现世亲自作证：我生已尽，梵行已立，所作已作，自知不再受后有。如果对三受的集、灭、味、患、离能如实了知，他们才是真正的沙门、真正的婆罗门，能在现世亲自作证：我生已尽，梵行已立，所作已作，自知不再受后有。」\n佛说完这部经，比丘们听佛所说，都欢喜奉行。\n「如果对三受不能如实了知，就不是沙门、不是婆罗门；如果如实了知，就是沙门中的沙门、婆罗门中的婆罗门——对三受的集、灭、味、患、离，在现世亲自作证：我生已尽，梵行已立，所作已作，自知不再受后有。」\n「如果对三受的集、灭、味、患、离不能如实了知，就不算沙门数、不算婆罗门数；如果如实了知，就是沙门数、就是婆罗门数——意思同上。」",
+  "notes": "本经 SC 平行表所列平行及 `raw_aligned_data.json` 内之巴利本文、Sujato 英译并用以厘定法义；求那跋陀罗汉本用于定位经文与传统术语。confidence=high：primary SN36.27 Paṭhamasamaṇabrāhmaṇa。底本第二段『如沙门非沙门…』为交叉省略；依 SN36.28–29 于不如实／如实知二句重建。",
+  "review_status": "gold_reconstructed",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "high",
+  "prior_review_status": "needs_revision",
+  "reconstruction_basis": "底本『如沙门非沙门…沙门数非沙门数亦如是』为交叉省略；依 SN36.28–29 不如实／如实知二段重建",
+  "similarity_to_source": 0.255,
+  "paragraph_parallel": true
+}

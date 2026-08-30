@@ -1,0 +1,43 @@
+{
+  "id": "SA_507",
+  "uid": "sa507",
+  "title": "雜阿含經  卷第二十一  弟子所說相應  （507）  天",
+  "chinese_text": "如是我聞：\n\n一時，佛住王舍城迦蘭陀竹園。時，有四十天子來詣尊者大目犍連所，稽首作禮，退坐一面。\n\n時，尊者大目犍連語諸天子言：「善哉！諸天子！於佛不壞淨成就，法、僧不壞淨成就。」\n\n時，四十天子從座起，整衣服，偏袒右肩，合掌白尊者大目揵連：「我得於佛不壞淨，於法、僧不壞淨，聖戒成就，故生天上。」有一天言：「得於佛不壞淨。」有言：「得法不壞淨。」有言：「得僧不壞淨。」有言：「聖戒成就，身壞命終，得生天上。」\n\n時，四十天子於尊者大目犍連前，各自記說得須陀洹果，即沒不現。如四十天子。如是四百、八百、十千天子亦如是說。",
+  "english_sa_text": "",
+  "parallels": [
+    {
+      "uid": "sn55.18",
+      "acronym": "SN 55.18",
+      "root_lang": "pli",
+      "original_title": "Paṭhamadevacārikasutta",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    }
+  ],
+  "primary_sn_uid": "sn55.18",
+  "pali_text": "Sāvatthinidānaṁ. Atha kho āyasmā mahāmoggallāno—seyyathāpi nāma balavā puriso samiñjitaṁ vā bāhaṁ pasāreyya, pasāritaṁ vā bāhaṁ samiñjeyya; evameva—jetavane antarahito devesu tāvatiṁsesu pāturahosi. Atha kho sambahulā tāvatiṁsakāyikā devatāyo yenāyasmā mahāmoggallāno tenupasaṅkamiṁsu; upasaṅkamitvā āyasmantaṁ mahāmoggallānaṁ abhivādetvā ekamantaṁ aṭṭhaṁsu. Ekamantaṁ ṭhitā kho tā devatāyo āyasmā mahāmoggallāno etadavoca: “Sādhu kho, āvuso, buddhe aveccappasādena samannāgamanaṁ hoti— itipi so bhagavā …pe… satthā devamanussānaṁ buddho bhagavāti. Buddhe aveccappasādena samannāgamanahetu kho, āvuso, evam’idhekacce sattā kāyassa bhedā paraṁ maraṇā sugatiṁ saggaṁ lokaṁ upapajjanti. Sādhu kho, āvuso, dhamme …pe… saṅghe …pe… sādhu kho, āvuso, ariyakantehi sīlehi samannāgamanaṁ hoti akhaṇḍehi …pe… samādhisaṁvattanikehi. Ariyakantehi sīlehi samannāgamanahetu kho, āvuso, evam’idhekacce sattā kāyassa bhedā paraṁ maraṇā sugatiṁ saggaṁ lokaṁ upapajjantī”ti. “Sādhu kho, mārisa moggallāna, buddhe aveccappasādena samannāgamanaṁ hoti— itipi so bhagavā …pe… satthā devamanussānaṁ buddho bhagavāti. Buddhe aveccappasādena samannāgamanahetu kho, mārisa moggallāna, evam’idhekacce sattā kāyassa bhedā paraṁ maraṇā sugatiṁ saggaṁ lokaṁ upapajjanti. Sādhu kho, mārisa moggallāna, dhamme …pe… saṅghe …pe… ariyakantehi sīlehi samannāgamanaṁ hoti akhaṇḍehi …pe… samādhisaṁvattanikehi. Ariyakantehi sīlehi samannāgamanahetu kho, mārisa moggallāna, evam’idhekacce sattā kāyassa bhedā paraṁ maraṇā sugatiṁ saggaṁ lokaṁ upapajjantī”ti. Aṭṭhamaṁ.",
+  "english_sn_text": "At Sāvatthī. And then Venerable Mahāmoggallāna, as easily as a strong person would extend or contract their arm, vanished from Jeta’s Grove and reappeared among the gods of the thirty-three. Then several deities of the company of the thirty-three went up to Venerable Mahāmoggallāna, bowed, and stood to one side. Moggallāna said to them: “Reverends, it’s good to have experiential confidence in the Buddha. … It’s the reason why some sentient beings, when their body breaks up, after death, are reborn in a good place, a heavenly realm. It’s good to have experiential confidence in the teaching. … the Saṅgha … and to have the ethical conduct that’s loved by the noble ones … leading to immersion. It’s the reason why some sentient beings, when their body breaks up, after death, are reborn in a good place, a heavenly realm.” “My good fellow Moggallāna, it’s good to have experiential confidence in the Buddha … It’s the reason why some sentient beings, when their body breaks up, after death, are reborn in a good place, a heavenly realm. It’s good to have experiential confidence in the teaching. … the Saṅgha … and to have the ethical conduct that’s loved by the noble ones … leading to immersion. It’s the reason why some sentient beings, when their body breaks up, after death, are reborn in a good place, a heavenly realm.”",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa501-600/sa507_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa501-600/sa507_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛在王舍城迦兰陀竹园。\n有四十天子诣尊者大目揵连所，稽首作礼，退坐一面。\n目揵连语诸天子：「善哉！于佛不坏净成就，法、僧不坏净成就。」\n四十天子起，整衣偏袒合掌白目揵连：「我得于佛不坏净、法不坏净、僧不坏净、圣戒成就，故生天上。」或一天言得佛不坏净，有言得法、得僧、圣戒成就故生天上。\n四十天子于目揵连前各自记说得须陀洹果，即没不现。\n如四十天子，四百、八百、十千天子亦如是说。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在王舍城迦兰陀竹园。\n有四十位天子来到大目揵连尊者处，顶礼作礼，退坐一面。\n目揵连对诸天子说：「很好！对佛成就不坏净，对法、僧也成就不坏净。」\n四十位天子起来，整理衣服、偏袒右肩、合掌对目揵连说：「我对佛成就不坏净，对法、僧成就不坏净，圣戒成就，所以生在天界。」有的天子说得佛不坏净，有的说得法、得僧、圣戒成就所以生在天界。\n四十位天子在目揵连面前各自记说证得须陀洹果，随即消失。\n如同四十天子，四百、八百、一万天子也是这样说法。",
+  "notes": "本经 SC 平行表所列平行及 `raw_aligned_data.json` 内之巴利本文、Sujato 英译并用以厘定法义；求那跋陀罗汉本用于定位经文与传统术语。confidence=high：primary SN55.18 Paṭhama Devacārika。据 SN 四天众倍数记说；删汉冗余。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "high",
+  "prior_review_status": "needs_revision",
+  "similarity_to_source": 0.234,
+  "paragraph_parallel": true
+}

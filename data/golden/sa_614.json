@@ -1,0 +1,53 @@
+{
+  "id": "SA_614",
+  "uid": "sa614",
+  "title": "雜阿含經  卷第二十六  念處相應  （614）  大丈夫",
+  "chinese_text": "如是我聞：\n\n一時，佛住舍衛國祇樹給孤獨園。\n\n時，有異比丘來詣佛所，稽首佛足，退坐一面，白佛言：「世尊！如所說『大丈夫』。云何名大丈夫、非大丈夫？」\n\n佛告比丘：「善哉！善哉！比丘能問如來大丈夫義。諦聽，善思，當為汝說。若比丘身身觀念住，彼身身觀念住已，心不離欲，不得解脫，盡諸有漏，我說彼非為大丈夫。所以者何？心不解脫故。若比丘受、心、法法觀念住，心不離欲，不得解脫，盡諸有漏，我不說彼為大丈夫。所以者何？心不解脫故。\n\n「若比丘身身觀念住，心得離欲，心得解脫，盡諸有漏，我說彼為大丈夫也。所以者何？心解脫故。若受、心、法法觀念住，受、心、法法觀念住已，心離貪欲，心得解脫，盡諸有漏，我說彼為大丈夫也。所以者何？心解脫故。是名，比丘！大丈夫及非大丈夫。」\n\n佛說此經已，諸比丘聞佛所說，歡喜隨喜，禮足而去。",
+  "english_sa_text": "",
+  "parallels": [
+    {
+      "uid": "sn47.11",
+      "acronym": "SN 47.11",
+      "root_lang": "pli",
+      "original_title": "Mahāpurisasutta",
+      "translated_title": "A Great Man",
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "cnd6",
+      "acronym": "Cnd 6",
+      "root_lang": "pli",
+      "original_title": "Tissametteyyamāṇavapucchāniddesa",
+      "translated_title": null,
+      "type": "mention",
+      "resembling": false,
+      "remark": null
+    }
+  ],
+  "primary_sn_uid": "sn47.11",
+  "pali_text": "Sāvatthinidānaṁ. Atha kho āyasmā sāriputto yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṁ abhivādetvā ekamantaṁ nisīdi. Ekamantaṁ nisinno kho āyasmā sāriputto bhagavantaṁ etadavoca: “‘mahāpuriso, mahāpuriso’ti, bhante, vuccati. Kittāvatā nu kho, bhante, mahāpuriso hotī”ti? “Vimuttacittattā khvāhaṁ, sāriputta, ‘mahāpuriso’ti vadāmi. Avimuttacittattā ‘no mahāpuriso’ti vadāmi. Kathañca, sāriputta, vimuttacitto hoti? Idha, sāriputta, bhikkhu kāye kāyānupassī viharati ātāpī sampajāno satimā, vineyya loke abhijjhādomanassaṁ. Tassa kāye kāyānupassino viharato cittaṁ virajjati, vimuccati anupādāya āsavehi. Vedanāsu …pe… citte …pe… dhammesu dhammānupassī viharati ātāpī sampajāno satimā, vineyya loke abhijjhādomanassaṁ. Tassa dhammesu dhammānupassino viharato cittaṁ virajjati, vimuccati anupādāya āsavehi. Evaṁ kho, sāriputta, vimuttacitto hoti. Vimuttacittattā khvāhaṁ, sāriputta, ‘mahāpuriso’ti vadāmi. Avimuttacittattā ‘no mahāpuriso’ti vadāmī”ti. Paṭhamaṁ.",
+  "english_sn_text": "At Sāvatthī. Then Sāriputta went up to the Buddha, bowed, sat down to one side, and said to him: “Sir, they speak of ‘a great man’. How is a great man defined?” “Sāriputta, someone whose mind is free is a great man, I say. If their mind is not free, I say they’re not a great man. And how does someone have a free mind? It’s when a mendicant meditates by observing an aspect of the body—keen, aware, and mindful, rid of covetousness and displeasure for the world. As they meditate observing an aspect of the body, their mind becomes dispassionate, and is freed from the defilements by not grasping. They meditate observing an aspect of feelings … mind … principles—keen, aware, and mindful, rid of covetousness and displeasure for the world. As they meditate observing an aspect of principles, their mind becomes dispassionate, and is freed from the defilements by not grasping. That’s how someone has a free mind. Someone whose mind is free is a great man, I say. If their mind is not free, I say they’re not a great man.”",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa601-700/sa614_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa601-700/sa614_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛住舍卫国祇树给孤独园。\n时，有异比丘问佛：「云何大丈夫？云何非大丈夫？」\n佛言：「善哉！谛听。若修四念处而心不离贪、不得解脱、不尽有漏，我不说彼为大丈夫——心未解脱故。若修四念处，心离贪、得解脱、尽诸有漏，我说彼为大丈夫——心解脱故。」\n彼比丘闻已，欢喜随喜，礼足而去。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在舍卫国祇树给孤独园。\n当时，有一位比丘问佛：「怎样是大丈夫？怎样不是大丈夫？」\n佛说：「很好！仔细听。如果修四念处而心不离贪、不得解脱、不尽有漏，我不说他是大丈夫——因为心还没有解脱。如果修四念处，心离贪、得解脱、尽诸有漏，我说他是大丈夫——因为心已解脱。」\n那位比丘听完，欢喜随喜，顶礼后离去。",
+  "notes": "本经 SC 平行表所列平行及 `raw_aligned_data.json` 内之巴利本文、Sujato 英译并用以厘定法义；求那跋陀罗汉本用于定位经文与传统术语。confidence=high：primary SN47.11（mahāpurisa＝心解脱 vimuttacitta）。据 SN 校正：判准在心解脱／未解脱；汉「异比丘」问，SN 作舍利弗，问者从汉本。「离贪」＝virajjati，不作「厌故不乐」。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "high",
+  "prior_review_status": "needs_revision",
+  "similarity_to_source": 0.161,
+  "paragraph_parallel": true
+}

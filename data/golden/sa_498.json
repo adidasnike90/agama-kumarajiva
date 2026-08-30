@@ -1,0 +1,93 @@
+{
+  "id": "SA_498",
+  "uid": "sa498",
+  "title": "雜阿含經  卷第二十  舍利弗相應  （498）  那羅犍陀",
+  "chinese_text": "如是我聞：\n\n一時，佛住那羅揵陀賣衣者菴羅園。\n\n爾時，舍利弗詣世尊所，稽首禮足，退坐一面，白佛言：「世尊！我深信世尊，過去、當來、今現在，諸沙門、婆羅門所有智慧，無有與世尊菩提等者，況復過上？」\n\n佛告舍利弗：「善哉！善哉！舍利弗，善哉所說，第一之說，能於眾中作師子吼，自言深信世尊，言過去、當來、今現在，沙門、婆羅門所有智慧，無有與佛菩提等者，況復過上？」佛問舍利弗：「汝能審知過去三藐三佛陀所有增上戒？」\n\n舍利弗白佛言：「不知。」\n\n世尊復問：「舍利弗！知如是法、如是慧、如是明、如是解脫、如是住不？」\n\n舍利弗白佛言：「不知。世尊！」\n\n佛告舍利弗：「汝復知未來三藐三佛陀所有增上戒。如是法、如是慧、如是明、如是解脫、如是住不？」\n\n舍利弗白佛言：「不知。世尊！」\n\n佛告舍利弗：「汝復能知今現在佛所有增上戒。如是法、如是慧、如是明、如是解脫、如是住不？」\n\n舍利弗白佛言：「不知。世尊！」\n\n佛告舍利弗：「汝若不知過去、未來、今現在諸佛世尊心中所有諸法。云何如是讚歎？於大眾中作師子吼，說言：『我深信世尊，過去、當來諸沙門、婆羅門所有智慧，無有與世尊菩提等者，況復過上』？」\n\n舍利弗白佛言：「世尊！我不能知過去、當來、今現在諸佛世尊心之分齊，然我能知諸佛世尊法之分齊。我聞世尊說法，轉轉深、轉轉勝、轉轉上、轉轉妙，我聞世尊說法，知一法即斷一法，知一法即證一法，知一法即修習一法，究竟於法，於大師所得淨信，心得淨。\n\n「世尊是等正覺。世尊！譬如國王有邊城，城周匝方直，牢固堅密，唯有一門，無第二門，立守門者，人民入出皆從此門，若入若出，其守門者，雖復不知人數多少，要知人民唯從此門，更無他處。如是，我知過去諸佛、如來、應、等正覺悉斷五蓋惱心，令慧力羸、墮障礙品、不向涅槃者，住四念處，修七覺分，得阿耨多羅三藐三菩提。彼當來世諸佛世尊亦斷五蓋惱心，令慧力羸、墮障礙品、不向涅槃者，住四念處，修七覺分，得阿耨多羅三藐三菩提。今現在諸佛世尊、如來、應、等正覺亦斷五蓋惱心，令慧力羸、墮障礙品、不向涅槃者，住四念處，修七覺分，得阿耨多羅三藐三菩提。」\n\n佛告舍利弗：「如是，如是。舍利弗！過去、未來、今現在佛悉斷五蓋惱心，慧力羸、墮障礙品、不向涅槃者，住四念處，修七覺分，得阿耨多羅三藐三菩提。」\n\n佛說是經已，尊者舍利弗聞佛所說，歡喜奉行。",
+  "english_sa_text": "",
+  "parallels": [
+    {
+      "uid": "sn47.12",
+      "acronym": "SN 47.12",
+      "root_lang": "pli",
+      "original_title": "Nālandasutta",
+      "translated_title": "Nalanda",
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "da18",
+      "acronym": "DA 18",
+      "root_lang": "lzh",
+      "original_title": "自歡喜",
+      "translated_title": "Personal Gladness",
+      "type": "full",
+      "resembling": true,
+      "remark": null
+    },
+    {
+      "uid": "dn28",
+      "acronym": "DN 28",
+      "root_lang": "pli",
+      "original_title": "Sampasādanīyasutta",
+      "translated_title": "The Faith That Satisfied",
+      "type": "full",
+      "resembling": true,
+      "remark": null
+    },
+    {
+      "uid": "sf61",
+      "acronym": "SF 61",
+      "root_lang": "san",
+      "original_title": "",
+      "translated_title": null,
+      "type": "full",
+      "resembling": true,
+      "remark": null
+    },
+    {
+      "uid": "sht-sutta83",
+      "acronym": "SHT Sutta 83",
+      "root_lang": "san",
+      "original_title": "",
+      "translated_title": null,
+      "type": "full",
+      "resembling": true,
+      "remark": null
+    },
+    {
+      "uid": "t18",
+      "acronym": "T 18",
+      "root_lang": "lzh",
+      "original_title": "信佛功德",
+      "translated_title": null,
+      "type": "full",
+      "resembling": true,
+      "remark": null
+    }
+  ],
+  "primary_sn_uid": "sn47.12",
+  "pali_text": "Ekaṁ samayaṁ bhagavā nālandāyaṁ viharati pāvārikambavane. Atha kho āyasmā sāriputto yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṁ abhivādetvā ekamantaṁ nisīdi. Ekamantaṁ nisinno kho āyasmā sāriputto bhagavantaṁ etadavoca: “evaṁpasanno ahaṁ, bhante, bhagavati. Na cāhu, na ca bhavissati, na cetarahi vijjati añño samaṇo vā brāhmaṇo vā bhagavatā bhiyyobhiññataro, yadidaṁ—sambodhiyan”ti. “Uḷārā kho tyāyaṁ, sāriputta, āsabhī vācā bhāsitā, ekaṁso gahito, sīhanādo nadito: ‘evaṁpasanno ahaṁ, bhante, bhagavati. Na cāhu, na ca bhavissati na cetarahi vijjati añño samaṇo vā brāhmaṇo vā bhagavatā bhiyyobhiññataro, yadidaṁ—sambodhiyan’ti. Kiṁ nu te, sāriputta, ye te ahesuṁ atītamaddhānaṁ arahanto sammāsambuddhā, sabbe te bhagavanto cetasā ceto paricca viditā: ‘evaṁsīlā te bhagavanto ahesuṁ’ iti vā, ‘evaṁdhammā te bhagavanto ahesuṁ’ iti vā, ‘evaṁpaññā te bhagavanto ahesuṁ’ iti vā, ‘evaṁvihārino te bhagavanto ahesuṁ’ iti vā, ‘evaṁvimuttā te bhagavanto ahesuṁ’ iti vā”ti? “No hetaṁ, bhante”. “Kiṁ pana te, sāriputta, ye te bhavissanti anāgatamaddhānaṁ arahanto sammāsambuddhā, sabbe te bhagavanto cetasā ceto paricca viditā: ‘evaṁsīlā te bhagavanto bhavissanti’ iti vā, ‘evaṁdhammā te bhagavanto bhavissanti’ iti vā, ‘evaṁpaññā te bhagavanto bhavissanti’ iti vā, ‘evaṁvihārino te bhagavanto bhavissanti’ iti vā, ‘evaṁvimuttā te bhagavanto bhavissanti’ iti vā”ti? “No hetaṁ, bhante”. “Kiṁ pana tyāhaṁ, sāriputta, etarahi, arahaṁ sammāsambuddho cetasā ceto paricca vidito: ‘evaṁsīlo bhagavā’ iti vā, ‘evaṁdhammo bhagavā’ iti vā, ‘evaṁpañño bhagavā’ iti vā, ‘evaṁvihārī bhagavā’ iti vā, ‘evaṁvimutto bhagavā’ iti vā”ti? “No hetaṁ, bhante”. “Ettha ca te, sāriputta, atītānāgatapaccuppannesu arahantesu sammāsambuddhesu cetopariyañāṇaṁ natthi. Atha kiñcarahi tyāyaṁ, sāriputta, uḷārā āsabhī vācā bhāsitā, ekaṁso gahito, sīhanādo nadito: ‘evaṁpasanno ahaṁ, bhante, bhagavati. Na cāhu, na ca bhavissati, na cetarahi vijjati añño samaṇo vā brāhmaṇo vā bhagavatā’ bhiyyobhiññataro, yadidaṁ—sambodhiyan”ti? “Na kho me, bhante, atītānāgatapaccuppannesu arahantesu sammāsambuddhesu cetopariyañāṇaṁ atthi, api ca me dhammanvayo vidito. Seyyathāpi, bhante, rañño paccantimaṁ nagaraṁ daḷhuddhāpaṁ daḷhapākāratoraṇaṁ ekadvāraṁ. Tatrassa dovāriko paṇḍito byatto medhāvī aññātānaṁ nivāretā ñātānaṁ pavesetā. So tassa nagarassa samantā anupariyāyapathaṁ anukkamamāno na passeyya pākārasandhiṁ vā pākāravivaraṁ vā, antamaso biḷāranikkhamanamattampi. Tassa evamassa: ‘ye kho keci oḷārikā pāṇā imaṁ nagaraṁ pavisanti vā nikkhamanti vā, sabbe te imināva dvārena pavisanti vā nikkhamanti vā’ti. Evameva kho me, bhante, dhammanvayo vidito: ‘yepi te, bhante, ahesuṁ atītamaddhānaṁ arahanto sammāsambuddhā, sabbe te bhagavanto pañca nīvaraṇe pahāya, cetaso upakkilese paññāya dubbalīkaraṇe, catūsu satipaṭṭhānesu suppatiṭṭhitacittā, satta bojjhaṅge yathābhūtaṁ bhāvetvā, anuttaraṁ sammāsambodhiṁ abhisambujjhiṁsu. Yepi te, bhante, bhavissanti anāgatamaddhānaṁ arahanto sammāsambuddhā, sabbe te bhagavanto pañca nīvaraṇe pahāya, cetaso upakkilese paññāya dubbalīkaraṇe, catūsu satipaṭṭhānesu suppatiṭṭhitacittā, satta bojjhaṅge yathābhūtaṁ bhāvetvā, anuttaraṁ sammāsambodhiṁ abhisambujjhissanti. Bhagavāpi, bhante, etarahi arahaṁ sammāsambuddho pañca nīvaraṇe pahāya, cetaso upakkilese paññāya dubbalīkaraṇe, catūsu satipaṭṭhānesu suppatiṭṭhitacitto, satta bojjhaṅge yathābhūtaṁ bhāvetvā, anuttaraṁ sammāsambodhiṁ abhisambuddho’”ti. “Sādhu sādhu, sāriputta. Tasmātiha tvaṁ, sāriputta, imaṁ dhammapariyāyaṁ abhikkhaṇaṁ bhāseyyāsi bhikkhūnaṁ bhikkhunīnaṁ upāsakānaṁ upāsikānaṁ. Yesampi hi, sāriputta, moghapurisānaṁ bhavissati tathāgate kaṅkhā vā vimati vā, tesampimaṁ dhammapariyāyaṁ sutvā yā tathāgate kaṅkhā vā vimati vā sā pahīyissatī”ti. Dutiyaṁ.",
+  "english_sn_text": "At one time the Buddha was staying near Nāḷandā in Pāvārika’s Mango Grove. Then Sāriputta went up to the Buddha, bowed, sat down to one side, and said to him: “Sir, I have such confidence in the Buddha that I believe there’s no other ascetic or brahmin—whether past, future, or present—whose direct knowledge is superior to the Buddha when it comes to awakening.” “That’s a grand and bold statement, Sāriputta. You’ve roared a definitive, categorical lion’s roar, saying: ‘I have such confidence in the Buddha that I believe there’s no other ascetic or brahmin—whether past, future, or present—whose direct knowledge is superior to the Buddha when it comes to awakening.’ What about all the perfected ones, the fully awakened Buddhas who lived in the past? Have you encompassed their minds to know that those Buddhas had such ethics, or such qualities, or such wisdom, or such meditation, or such freedom?” “No, sir.” “And what about all the perfected ones, the fully awakened Buddhas who will live in the future? Have you encompassed their minds to know that those Buddhas will have such ethics, or such qualities, or such wisdom, or such meditation, or such freedom?” “No, sir.” “And what about me, the perfected one, the fully awakened Buddha at present? Have you encompassed my mind to know that I have such ethics, or such qualities, or such wisdom, or such meditation, or such freedom?” “No, sir.” “In that case, Sāriputta, given that you don’t encompass the minds of Buddhas past, future, or present, what then are you doing, making such a grand and bold statement, roaring such a definitive, categorical lion’s roar?” “Sir, though I don’t encompass the minds of Buddhas past, future, and present, still I understand this by inference from the teaching. Suppose there was a king’s frontier citadel with fortified embankments, ramparts, and arches, and a single gate. And it has a gatekeeper who is astute, competent, and intelligent. He keeps strangers out and lets known people in. As he walks around the patrol path, he doesn’t see a hole or cleft in the wall, not even one big enough for a cat to slip out. He thinks, ‘Whatever sizable creatures enter or leave the citadel, all of them do so via this gate.’ In the same way, I understand this by inference from the teaching: ‘Those who are perfected ones, fully awakened Buddhas—whether past, future, or present—give up the five hindrances, corruptions of the heart that weaken wisdom. Their mind is firmly established in the four kinds of mindfulness meditation. They correctly develop the seven awakening factors. And they awaken to the supreme perfect awakening.’” “Good, good, Sāriputta! So Sāriputta, you should frequently speak this exposition of the teaching to the monks, nuns, laymen, and laywomen. Though there will be some futile people who have doubt or uncertainty regarding the Realized One, when they hear this exposition of the teaching they’ll give up that doubt or uncertainty.”",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa401-500/sa498_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa401-500/sa498_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛在摩竭提国那罗聚落卖衣者庵罗园。\n尊者舍利弗诣世尊所，稽首礼足，退坐，白佛：「我深信世尊——过去、当来、今现在，诸沙门、婆罗门所有智慧，无有与佛菩提等者，况复过上？」\n佛告：「大语、师子吼！汝能审知过去、未来、现在诸佛增上戒、法、慧、明、解脱、住不？」\n答：「不知。」\n「既不能知诸佛心之分齐，云何作此赞叹？」\n舍利弗白佛：「我不能知佛心之分齐，然我能知佛法之分齐。我闻世尊说法，转转深、胜、上、妙；知一法即断一法、证一法、修一法，究竟于法，于大师得净信、心得净。」\n「譬如国王边城，周匝方直、牢固坚密，唯有一门，守門者智而有能，人民出入皆从此门——虽不知人数，要知唯从此门，更无他处。我亦如是，以教推论：过去、当来、今现在诸佛，断五盖、住四念处、修七觉分，得阿耨多罗三藐三菩提。」\n佛说此经已，尊者舍利弗闻佛所说，欢喜奉行。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在摩竭提国那罗聚落卖衣者庵罗园。\n舍利弗尊者来到世尊处，顶礼佛足，退坐，对佛说：「我深心信世尊——过去、未来、现在，一切沙门、婆罗门的智慧，没有能与佛菩提相等的，何况超过？」\n佛告诉舍利弗：「这是大话、师子吼！你能审知过去、未来、现在诸佛的增上戒、法、慧、明、解脱、住吗？」\n他回答：「不能。」\n「既然不能知诸佛心的分际，为什么作这样的赞叹？」\n舍利弗对佛说：「我不能知佛心的分际，但我能知佛法的分际。我听世尊说法，越来越深、胜、上、妙；知一法就断一法、证一法、修一法，究竟于法，对大师得净信、心得净。」\n「譬如国王的边城，四周方正、牢固坚密，只有一个门，守门的人聪明而有能力，人民出入都从这个门——虽然不知道人数，但知道一定只从这个门，没有别处。我也这样，从教法推论：过去、未来、现在的一切佛，断除五盖、住于四念处、修习七觉分，证得阿耨多罗三藐三菩提。」\n佛说完这部经，舍利弗尊者听佛所说，欢喜奉行。",
+  "notes": "本经 SC 平行表所列平行及 `raw_aligned_data.json` 内之巴利本文、Sujato 英译并用以厘定法义；求那跋陀罗汉本用于定位经文与传统术语。confidence=high：primary SN47.12 Nālandā。据 SN 校正边城一门推论；删汉广说余佛心。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "high",
+  "prior_review_status": "needs_revision",
+  "similarity_to_source": 0.172,
+  "paragraph_parallel": true
+}

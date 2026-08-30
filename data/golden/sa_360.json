@@ -1,0 +1,43 @@
+{
+  "id": "SA_360",
+  "uid": "sa360",
+  "title": "雜阿含經  卷第十四  因緣相應  （360）  思量",
+  "chinese_text": "如是我聞：\n\n一時，佛住舍衛國祇樹給孤獨園。\n\n爾時，世尊告諸比丘：「若思量、若妄想者，則有使攀緣識住；有攀緣識住故，入於名色；入名色故，有未來世生、老、病、死、憂、悲、惱、苦。如是純大苦聚集，若不思量、無妄想，無使無攀緣識住；無攀緣識住故，不入名色，不入名色故，生、老、病、死、憂、悲、惱、苦滅，如是純大苦聚滅。」\n\n佛說此經已，諸比丘聞佛所說，歡喜奉行。",
+  "english_sa_text": "",
+  "parallels": [
+    {
+      "uid": "sn12.39",
+      "acronym": "SN 12.39",
+      "root_lang": "pli",
+      "original_title": "Dutiyacetanāsutta",
+      "translated_title": "Volition (2)",
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    }
+  ],
+  "primary_sn_uid": "sn12.39",
+  "pali_text": "Sāvatthiyaṁ viharati. “Yañca, bhikkhave, ceteti yañca pakappeti yañca anuseti, ārammaṇametaṁ hoti viññāṇassa ṭhitiyā. Ārammaṇe sati patiṭṭhā viññāṇassa hoti. Tasmiṁ patiṭṭhite viññāṇe virūḷhe nāmarūpassa avakkanti hoti. Nāmarūpapaccayā saḷāyatanaṁ; saḷāyatanapaccayā phasso; phassapaccayā vedanā …pe… taṇhā … upādānaṁ … bhavo … jāti … jarāmaraṇaṁ … sokaparidevadukkhadomanassupāyāsā sambhavanti. Evametassa kevalassa dukkhakkhandhassa samudayo hoti. No ce, bhikkhave, ceteti no ce pakappeti, atha ce anuseti, ārammaṇametaṁ hoti viññāṇassa ṭhitiyā. Ārammaṇe sati patiṭṭhā viññāṇassa hoti. Tasmiṁ patiṭṭhite viññāṇe virūḷhe nāmarūpassa avakkanti hoti. Nāmarūpapaccayā saḷāyatanaṁ …pe… evametassa kevalassa dukkhakkhandhassa samudayo hoti. Yato ca kho, bhikkhave, no ceva ceteti no ca pakappeti no ca anuseti, ārammaṇametaṁ na hoti viññāṇassa ṭhitiyā. Ārammaṇe asati patiṭṭhā viññāṇassa na hoti. Tadappatiṭṭhite viññāṇe avirūḷhe nāmarūpassa avakkanti na hoti. Nāmarūpanirodhā saḷāyatananirodho …pe… evametassa kevalassa dukkhakkhandhassa nirodho hotī”ti. Navamaṁ.",
+  "english_sn_text": "At Sāvatthī. “Mendicants, what you intend or plan, and what you have underlying tendencies for become a support for the continuation of consciousness. When this support exists, consciousness becomes established. When consciousness is established and grows, name and form are conceived. Name and form are requirements for the six sense fields. The six sense fields are requirements for contact. Contact is a requirement for feeling. … craving … grasping … continued existence … rebirth … old age and death, sorrow, lamentation, pain, sadness, and distress come to be. That is how this entire mass of suffering originates. If you don’t intend or plan, but still have underlying tendencies, this becomes a support for the continuation of consciousness. When this support exists, consciousness becomes established. When consciousness is established and grows, name and form are conceived. Name and form are requirements for the six sense fields. … That is how this entire mass of suffering originates. If you don’t intend or plan or have underlying tendencies, this doesn’t become a support for the continuation of consciousness. With no support, consciousness is not established. When consciousness is not established and doesn’t grow, name and form are not conceived. When name and form cease, the six sense fields cease. … That is how this entire mass of suffering ceases.”",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa301-400/sa360_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa301-400/sa360_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛在舍卫国祇树给孤独园。\n尔时，世尊告诸比丘：「若有思量、有计画，又有使——则成攀缘，识得住立；识住立增长故，名色得生；名色缘六入处，乃至生缘老死忧悲恼苦——如是纯大苦聚集。」\n「若不思量、不计画，而犹有使——亦复如是，纯大苦聚集。」\n「若不思量、不计画、无使——则无攀缘，识不住立；名色不生；名色灭则六入处灭，乃至老死忧悲恼苦灭——如是纯大苦聚灭。」\n佛说此经已，诸比丘闻佛所说，欢喜奉行。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在舍卫国祇树给孤独园。\n那时，世尊告诉比丘们：「若有意乐、有计画，又有随眠——就成了攀缘，识得以住立；识住立增长，名色就会生起；名色缘六入处，乃至生缘老死忧悲恼苦——这样纯大苦聚集。」\n「若没有意乐、没有计画，但还有随眠——也是一样，纯大苦聚集。」\n「若没有意乐、没有计画、也没有随眠——就没有攀缘，识不住立；名色不生；名色灭则六入处灭，乃至老死忧悲恼苦灭——这样纯大苦聚灭。」\n佛说完这部经，比丘们听佛所说，都欢喜奉行。",
+  "notes": "本经 SC 平行表所列平行及 `raw_aligned_data.json` 内之巴利本文、Sujato 英译并用以厘定法义；求那跋陀罗汉本用于定位经文与传统术语。confidence=high：primary SN12.39（Dutiyacetanā）。与 359 同三句；差别在识住后接入名色及以下缘起链。据 SN 补中案。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "high",
+  "prior_review_status": "needs_revision",
+  "similarity_to_source": 0.187,
+  "paragraph_parallel": true
+}

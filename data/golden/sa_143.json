@@ -1,0 +1,32 @@
+{
+  "id": "SA_143",
+  "uid": "sa143",
+  "title": "雜阿含經  卷第七  見相應  （143）  我我所",
+  "chinese_text": "第二、第三經亦復如上。",
+  "english_sa_text": "Saṁyuktāgama\n\n143–144. [Second and Third Discourses on the View of a Self and What Belongs to the Self]\n\nThe second and the third discourse are also as above.\n\nTranslated by Bhikkhu Anālayo. Originally published in ‘On Views and Penetrative Knowledge – A Translation of Saṁyukta-āgama Discourses 139 to 187 (Fascicle 7)’, Dharma Drum Journal of Buddhist Studies, 2015, vol. 17 pp. 43–100.\n\nPrepared for SuttaCentral by Seniya Ariyakumara and Ayya Vimala.",
+  "parallels": [],
+  "primary_sn_uid": null,
+  "pali_text": "",
+  "english_sn_text": "",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa101-200/sa143_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa101-200/sa143_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "第二经亦如上说，所差别者：若多闻圣弟子于此六见处观察非我、非我所，如是观者，于苦、集、灭、道狐疑断。\n如是广说，乃至究竟苦边。佛说此经已，诸比丘闻佛所说，欢喜奉行。",
+  "modern_psychology_text": "第二经也如上面所说，差别在于：如果多闻圣弟子对这六种见处观察为非我、非我所，这样观察的人，对苦、集、灭、道的犹疑就断了。\n以下如上经广说，直到走到苦的尽头。佛说完这部经，比丘们听佛所说，都欢喜奉行。",
+  "notes": "底本仅存「第二、第三經亦復如上」七字，SC 切分时于 SA_143／SA_144 各存全句；今以「第二经」属本经，「第三经」属 SA_144，其差别依 SA_133–135 之次第（四谛除疑）补出。无独立经文，无 SC 平行。gold_reconstructed，confidence=low。",
+  "review_status": "gold_reconstructed",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "low",
+  "prior_review_status": "needs_revision",
+  "similarity_to_source": 0.0,
+  "paragraph_parallel": true
+}

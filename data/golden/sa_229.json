@@ -1,0 +1,32 @@
+{
+  "id": "SA_229",
+  "uid": "sa229",
+  "title": "雜阿含經  卷第九  六入處相應  （229）  有漏無漏",
+  "chinese_text": "如是我聞：\n\n一時，佛住舍衛國祇樹給孤獨園。\n\n爾時，世尊告諸比丘：「我今當說有漏、無漏法。云何有漏法？謂眼色、眼識、眼觸、眼觸因緣生受，內覺若苦、若樂、不苦不樂。耳、鼻、舌、身、意法、意識、意觸、意觸因緣生受，內覺若苦、若樂、不苦不樂，世俗者，是名有漏法。\n\n「云何無漏法？謂出世間意，若法、若意識、意觸、意觸因緣生受，內覺若苦、若樂、不苦不樂，出世間者，是名無漏法。」\n\n佛說此經已，諸比丘聞佛所說，歡喜奉行。",
+  "english_sa_text": "Saṁyuktāgama\n\n229. [Discourse on What is With Influxes and Without Influxes]\n\nThus have I heard. At one time the Buddha was staying at Sāvatthī in Jeta’s Grove, Anāthapiṇḍika’s Park.\n\nAt that time the Blessed One said to the monks: “I will now teach you what is of a nature to be with influxes and to be without influxes. What is of a nature to be with influxes? That is, it is the eye and forms, eye-consciousness, eye-contact, feeling arisen in dependence on eye-contact that is experienced within, be it painful, pleasant, or neutral, [which is mundane].\n\n“It is the ear … the nose … the tongue … the body … the mind and mental objects, mind-consciousness, mind-contact, feeling arisen in dependence on mind-contact that is experienced within, be it painful, pleasant, or neutral, which is mundane. This is called being of a nature to be with influxes.\n\n“What is of a nature to be without influxes? That is, it is … supramundane mind and mental objects, mind-consciousness, mind-contact, feeling arisen in dependence on mind-contact that is experienced within, be it painful, pleasant, or neutral, which is supramundane. This is called being of a nature to be without influxes.”\n\nWhen the Buddha had spoken this discourse, hearing what the Buddha had said the monks were delighted and received it respectfully.\n\nTranslated by Bhikkhu Anālayo. Originally published in \"On the Six Sense-spheres (1) ―A Translation of Saṁyukta-āgama Discourses 188 to 229 (Fascicle 8)\", Dharma Drum Journal of Buddhist Studies, 2016, vol. 18 pp. 1–61.\n\nPrepared for SuttaCentral by Ayya Vimala.",
+  "parallels": [],
+  "primary_sn_uid": null,
+  "pali_text": "",
+  "english_sn_text": "",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa201-300/sa229_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa201-300/sa229_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时佛在舍卫国祇树给孤独园。\n尔时世尊告诸比丘：我今当说有漏法、无漏法。云何有漏法？谓眼、色、眼识、眼触，及眼触因缘所生受——内所觉受，若苦、若乐、不苦不乐。耳、鼻、舌、身、意，法、意识、意触，及意触因缘所生受——内所觉受，若苦、若乐、不苦不乐——属世俗者，是名有漏法。\n云何无漏法？谓出世间之意，及法、意识、意触，及意触因缘所生受——内所觉受，若苦、若乐、不苦不乐——属出世间者，是名无漏法。\n佛说此经已，诸比丘闻佛所说，欢喜奉行。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在舍卫国祇树给孤独园。\n那时，世尊告诉比丘们：我现在要说有漏法与无漏法。什么是有漏法？就是眼、色、眼识、眼触，以及依眼触为缘而生起的感受——内心所领受的，无论是苦、是乐、还是不苦不乐。耳、鼻、舌、身、意，以及法、意识、意触，依意触为缘而生起的感受——内心所领受的，无论是苦、是乐、还是不苦不乐——属于世俗（lokiya）的，这叫做有漏法。\n什么是无漏法？就是出世间的意，以及法、意识、意触，依意触为缘而生起的感受——内心所领受的，无论是苦、是乐、还是不苦不乐——属于出世间（lokuttara）的，这叫做无漏法。（无漏只就意门而说，不就眼等五门而说。）\n佛说完这部经，比丘们听佛所说，都欢喜奉行。",
+  "notes": "本经 SC 平行表所列平行及 `raw_aligned_data.json` 内之巴利本文、Sujato 英译，与 Anālayo 之 SA 英译（DDJBS 18, 2016, Fascicle 8）并用以厘定法义；求那跋陀罗汉本用于定位经文与传统术语。SC 于本经未列任何平行（`parallels` 空、巴利本文阙），故唯以汉本为底，参 Anālayo 之 SA 英译及六入處相應之巴利定型语厘义；依项目规约「无可靠平行时 confidence 降为 medium/low」，本经作 medium。「有漏／无漏」＝ sāsava／anāsava（有诸漏、离诸漏）；「世俗」＝ lokiya，「出世间」＝ lokuttara——皆早期用语，非后来「出世间」之玄谈。信-校正三事：（一）底本「眼色」当读「眼、色」（内入处与外入处），Anālayo: the eye and forms；今分读之。（二）有漏法通举六门（眼……意）而标「世俗者」；无漏法唯举「出世间意」及法、意识、意触、触缘生受——即无漏心只于意门转，不于五色根门转。此为早期教理之通义（出世间心以涅槃为所缘，不依五尘），汉本此分非臆造；Anālayo 于无漏段以省略号标底本「谓出世间意」前或有阙文，今不补五门，存汉本唯出意门之量。（三）卷末「杂阿含经卷第八」为藏经 paratext（卷题；大正藏卷次与 SC 卷第九之异，同 SA_187／188 之例），不入正文，亦不得据以称罗什译。「内觉」同前。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "medium",
+  "prior_review_status": "needs_revision",
+  "similarity_to_source": 0.389,
+  "paragraph_parallel": true
+}

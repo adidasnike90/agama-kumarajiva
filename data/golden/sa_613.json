@@ -1,0 +1,32 @@
+{
+  "id": "SA_613",
+  "uid": "sa613",
+  "title": "雜阿含經  卷第二十六  念處相應  （613）  不善聚",
+  "chinese_text": "如是我聞：\n\n一時，佛住舍衛國祇樹給孤獨園。\n\n爾時，世尊告諸比丘：「有不善聚、善聚。何等為不善聚？謂三不善根，是名正說。所以者何？純不善積聚者，謂三不善根。云何為三？謂貪不善根、恚不善根、癡不善根。云何為善聚？謂四念處。所以者何？純善滿具者，謂四念處，是名善說。云何為四？謂身念處，受、心、法念處。」\n\n佛說此經已，諸比丘聞佛所說，歡喜奉行。\n\n如三不善根，如是三惡行——身惡行、口惡行、意惡行，三想——欲想、恚想、害想，三覺——欲覺、恚覺、害覺，三界——欲界、恚界、害界。\n\n佛說此經已，諸比丘聞佛所說，歡喜奉行。",
+  "english_sa_text": "",
+  "parallels": [],
+  "primary_sn_uid": null,
+  "pali_text": "",
+  "english_sn_text": "",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa601-700/sa613_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa601-700/sa613_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛住舍卫国祇树给孤独园。\n佛告比丘：「不善聚者，谓三不善根——贪、恚、痴，是为正说；善聚者，谓四念处——身、受、心、法，是为正说。」\n「如三不善根，如是三恶行——身口意；三想——欲、恚、害；三觉——欲、恚、害；三界——欲、恚、害：皆以四念处为对治善聚。」\n佛说此经已，诸比丘闻佛所说，欢喜奉行。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在舍卫国祇树给孤独园。\n佛告诉比丘：「不善的聚集，就是三不善根——贪、瞋、痴，这样说才正确；善的聚集，就是四念处——身、受、心、法，这样说才正确。」\n「如同三不善根，三恶行——身、口、意；三想——欲想、恚想、害想；三觉——欲觉、恚觉、害觉；三界——欲界、恚界、害界：都以四念处为对治的善聚。」\n佛说完这部经，比丘们听佛所说，都欢喜奉行。",
+  "notes": "SC 于本经未列可靠巴利平行，故唯以汉本为底，参同相应之巴利定型语厘义；依项目规约「无可靠平行时 confidence 降为 medium/low」。无 SC 巴利专经；与 SA_611／SN47.5 同型而开三不善根及 peyyāla 系列。confidence=medium：从汉本，压缩重复「佛说此经已」为一条。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "medium",
+  "prior_review_status": "needs_revision",
+  "similarity_to_source": 0.216,
+  "paragraph_parallel": true
+}

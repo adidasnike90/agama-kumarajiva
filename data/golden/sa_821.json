@@ -1,0 +1,63 @@
+{
+  "id": "SA_821",
+  "uid": "sa821",
+  "title": "雜阿含經  卷第三十一  學相應  （821）  涅槃",
+  "chinese_text": "如是我聞：\n\n一時，佛住舍衛國祇樹給孤獨園。\n\n爾時，世尊告諸比丘：「過二百五十戒，隨次半月來說波羅提木叉修多羅，若彼善男子自隨意所欲而學者，我為說三學。若學此三學，則攝受一切學戒。何等為三？謂增上戒學、增上意學、增上慧學。\n\n「何等為增上戒學？是比丘重於戒，戒增上，不重於定，定不增上，不重於慧，慧不增上；於彼彼分細微戒，乃至受持學戒。如是知、如是見，斷三結，謂身見、戒取、疑，貪、恚、癡薄，成一種子道。彼地未等覺者，名斯陀含，彼地未等覺者，名家家，彼地未等覺者，名七有，彼地未等覺者，名隨法行，彼地未等覺者，名隨信行，是名增上戒學。\n\n「何等為增上意學？是名比丘重於戒，戒增上，重於定，定增上，不重於慧，慧不增上；於彼彼分細微戒學，乃至受持學戒。如是知、如是見，斷五下分結，謂身見、戒取、疑、貪欲、瞋恚。斷此五下分，能得中般涅槃。彼地未等覺者，得生般涅槃，彼地未等覺者，得無行般涅槃，彼地未等覺者，得有行般涅槃，彼地未等覺者，得上流般涅槃，是名增上意學。\n\n「何等為增上慧學？是比丘重於戒，戒增上，重於定，定增上，重於慧，慧增上。如是知、如是見，欲有漏心解脫、有有漏心解脫、無明有漏心解脫，解脫知見：『我生已盡，梵行已立，所作已作，自知不受後有。』是名增上慧學。」\n\n佛說此經已，諸比丘聞佛所說，歡喜奉行。",
+  "english_sa_text": "",
+  "parallels": [
+    {
+      "uid": "an3.86",
+      "acronym": "AN 3.86",
+      "root_lang": "pli",
+      "original_title": "Paṭhamasikkhāsutta",
+      "translated_title": "One in Training (1)",
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "cnd5",
+      "acronym": "Cnd 5",
+      "root_lang": "pli",
+      "original_title": "Ajitamāṇavapucchāniddesa",
+      "translated_title": null,
+      "type": "mention",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "mnd2",
+      "acronym": "Mnd 2",
+      "root_lang": "pli",
+      "original_title": "Guhaṭṭhakasuttaniddesa",
+      "translated_title": null,
+      "type": "mention",
+      "resembling": false,
+      "remark": null
+    }
+  ],
+  "primary_sn_uid": null,
+  "pali_text": "",
+  "english_sn_text": "",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa801-900/sa821_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa801-900/sa821_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛住舍卫国祇树给孤独园。\n尔时世尊告诸比丘：「过二百五十学处，半月说波罗提木叉；若善男子随意欲学，我为说三学，能摄一切学处——谓增上戒学、增上意学、增上慧学。何等为增上戒学？比丘重戒、戒增上，定慧不增上；于微细学处乃至受持而学。如是知、如是见，断三结，贪恚痴薄，成一种子；彼地未等觉者名斯陀含，未等觉者名家家，未等觉者名七有，未等觉者名随法行，未等觉者名随信行——是名增上戒学。何等为增上意学？比丘重戒、重定，慧不增上；于微细学处乃至受持而学。如是知、如是见，断五下分结，得中般涅槃；彼地未等觉者得生般涅槃，未等觉者得无行般涅槃，未等觉者得有行般涅槃，未等觉者得上流般涅槃——是名增上意学。何等为增上慧学？比丘三学增上。如是知、如是见，欲有漏心解脱、有有漏心解脱、无明有漏心解脱，解脱知见：『我生已尽，梵行已立，所作已作，自知不受后有。』——是名增上慧学。」\n佛说此经已，诸比丘闻佛所说，欢喜奉行。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在舍卫国祇树给孤独园。\n那时世尊告诉比丘们：「学处超过二百五十条，半月宣说波罗提木叉；如果善男子自愿想学，我为他说三学，能含摄一切学处——就是增上戒学、增上意学、增上慧学。什么是增上戒学？比丘看重戒、以戒为增上，定慧不增上；对于微细学处一直到受持而学。这样知、这样见，断除三结，贪恚痴薄，成为一种子；那一地尚未等觉的叫做斯陀含，尚未等觉的叫做家家，尚未等觉的叫做七有，尚未等觉的叫做随法行，尚未等觉的叫做随信行——这叫做增上戒学。什么是增上意学？比丘看重戒、看重定，慧不增上；对于微细学处一直到受持而学。这样知、这样见，断除五下分结，得中般涅槃；那一地尚未等觉的得生般涅槃，尚未等觉的得无行般涅槃，尚未等觉的得有行般涅槃，尚未等觉的得上流般涅槃——这叫做增上意学。什么是增上慧学？比丘三学都增上。这样知、这样见，欲有漏心解脱、有有漏心解脱、无明有漏心解脱，以解脱知见：『我生已尽，梵行已立，所作已作，自知不受后有。』——这叫做增上慧学。」\n佛说完这部经，比丘们听佛所说，都欢喜奉行。",
+  "notes": "本经 SC 平行表所列平行及 `raw_aligned_data.json` 内之巴利本文、Sujato 英译并用以厘定法义；求那跋陀罗汉本用于定位经文与传统术语。confidence=high：近 AN3.86–87（一种子／家家／七有；中般／生般／无行／有行／上流）；「彼地未等觉」＝尚未穿透到上一果位。不引入后期判教用语。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "high",
+  "prior_review_status": "needs_revision",
+  "similarity_to_source": 0.292,
+  "paragraph_parallel": true
+}

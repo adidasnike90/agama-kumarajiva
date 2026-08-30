@@ -1,0 +1,73 @@
+{
+  "id": "SA_440",
+  "uid": "sa440",
+  "title": "雜阿含經  卷第十七  界相應  （440）  湖池等",
+  "chinese_text": "如是我聞：\n\n一時，佛住王舍城迦蘭陀竹園。\n\n爾時，世尊告諸比丘：「譬如湖池，深廣五十由旬，其水盈滿。若有士夫以髮以毛，或以指端渧彼湖水，乃至再三。云何？比丘！如彼士夫所渧水多？湖池水多？」\n\n比丘白佛：「如彼士夫毛髮指端再三渧水，甚少少耳，彼湖大水，其量無數，乃至算數譬類不可為比。」\n\n佛告比丘：「如大湖水，甚多無量。如是多聞聖弟子具足見諦，得聖道果，斷諸苦本，如截多羅樹頭，於未來世成不生法，餘不盡者，如彼士夫髮毛指端所渧之水。是故，比丘！於四聖諦未無間等者，當勤方便，起增上欲，學無間等。」\n\n佛說是經已，諸比丘聞佛所說，歡喜奉行。\n\n如大湖水譬，如是薩羅多吒迦、恒伽、耶符那、薩羅遊、伊羅跋提摩醯，及四大海，其譬亦如上說。",
+  "english_sa_text": "",
+  "parallels": [
+    {
+      "uid": "sn56.53",
+      "acronym": "SN 56.53",
+      "root_lang": "pli",
+      "original_title": "Paṭhamasambhejjasutta",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "sn56.52",
+      "acronym": "SN 56.52",
+      "root_lang": "pli",
+      "original_title": "Pokkharaṇīsutta",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "sn13.7",
+      "acronym": "SN 13.7",
+      "root_lang": "pli",
+      "original_title": "Samuddasutta",
+      "translated_title": null,
+      "type": "full",
+      "resembling": true,
+      "remark": null
+    },
+    {
+      "uid": "sn56.57",
+      "acronym": "SN 56.57",
+      "root_lang": "pli",
+      "original_title": "Paṭhamamahāsamuddasutta",
+      "translated_title": null,
+      "type": "full",
+      "resembling": true,
+      "remark": null
+    }
+  ],
+  "primary_sn_uid": "sn56.52",
+  "pali_text": "“Seyyathāpi, bhikkhave, pokkharaṇī paññāsayojanāni āyāmena, paññāsayojanāni vitthārena, paññāsayojanāni ubbedhena, puṇṇā udakassa samatittikā kākapeyyā. Tato puriso kusaggena udakaṁ uddhareyya. Taṁ kiṁ maññatha, bhikkhave, katamaṁ nu kho bahutaraṁ—yaṁ vā kusaggena ubbhataṁ, yaṁ vā pokkharaṇiyā udakan”ti? “Etadeva, bhante, bahutaraṁ, yadidaṁ—pokkharaṇiyā udakaṁ; appamattakaṁ kusaggena udakaṁ ubbhataṁ. Saṅkhampi na upeti, upanidhampi na upeti, kalabhāgampi na upeti pokkharaṇiyā udakaṁ upanidhāya kusaggena udakaṁ ubbhatan”ti. “Evameva kho, bhikkhave, ariyasāvakassa …pe… yogo karaṇīyo”ti. Dutiyaṁ.",
+  "english_sn_text": "“Mendicants, suppose there was a lotus pond that was fifty leagues long, fifty leagues wide, and fifty leagues deep, full to the brim so a crow could drink from it. Then a person would pick up some water on the tip of a blade of grass. What do you think, mendicants? Which is more: the water on the tip of the blade of grass, or the water in the lotus pond?” “Sir, the water in the lotus pond is certainly more. The water on the tip of a blade of grass is tiny. Compared to the water in the lotus pond, it doesn’t count, there’s no comparison, it’s not worth a fraction.” “In the same way, for a noble disciple … That’s why you should practice meditation …”",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa401-500/sa440_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa401-500/sa440_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛在王舍城迦兰陀竹园。\n尔时，世尊告诸比丘：「譬如湖池，深广五十由旬，水皆盈满。有人以发、以毛、或以指端渧取其水，乃至再三。云何——所渧为多？湖水为多？」比丘白佛：「渧水甚少；湖水无量，不可为比。」佛言：「多闻圣弟子具足见谛、得圣道果，断诸苦本，如截多罗树头，于未来世成不生法；其所余者，如彼指端渧水；已断无量，如大湖水。是故当于四圣谛勤修无间等。」\n如湖池譬，萨罗、恒河、耶符那、及四大海，其譬亦尔。\n佛说此经已，诸比丘闻佛所说，欢喜奉行。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在王舍城迦兰陀竹园。\n那时，世尊告诉比丘们：「好比一座湖池，深广各五十由旬，水满满的。有人用头发、毛，或用指尖蘸那湖水，蘸到两三次。怎么样——蘸起来的水多，还是湖水多？」比丘们禀告：「蘸的水很少；湖水多得无法相比。」佛说：「多闻圣弟子具足见谛、证得圣道果，断除苦的根本，像截断多罗树头一样，在未来世成为不再生起之法；剩下的苦，就像那指尖蘸的水；已经断除的，像大湖的水那样无量。所以应当对四圣谛勤修无间等。」\n像湖池这个比喻一样，萨罗池、恒河、耶符那河、以及四大海，也可以同样说。\n佛说完这部经，比丘们听佛所说，都欢喜奉行。",
+  "notes": "本经 SC 平行表所列平行及 `raw_aligned_data.json` 内之巴利本文、Sujato 英译并用以厘定法义；求那跋陀罗汉本用于定位经文与传统术语。confidence=high：primary SN56.52 Pokkharaṇī（并 SN56.53 等）。汉本明言见谛弟子余苦如渧、已断如湖——据 SN『noble disciple』量喻补全；末列河海异门，略存不演。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "high",
+  "prior_review_status": "needs_revision",
+  "similarity_to_source": 0.229,
+  "paragraph_parallel": true
+}

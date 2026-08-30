@@ -1,0 +1,93 @@
+{
+  "id": "SA_925",
+  "uid": "sa925",
+  "title": "雜阿含經  卷第三十六  釋氏相應  （925）  八種",
+  "chinese_text": "如是我聞：\n\n一時，佛住王舍城迦蘭陀竹園。\n\n爾時，世尊告諸比丘：「世間良馬有八種德成就者，隨人所欲，取道多少。何等為八？生於良馬鄉，是名良馬第一之德。復次，體性溫良，不驚恐人，是名良馬第二之德。復次，良馬不擇飲食，是名良馬第三之德。復次，良馬厭惡不淨，擇地而臥，是名良馬第四之德。復次，良馬諸情態速為調馬者現，馬師調習，速捨其態，是名良馬第五之德。復次，良馬安於駕乘，不顧餘馬，隨其輕重，能盡其力，是名良馬第六之德。復次，良馬常隨正路，不隨非道，是名良馬第七之德。復次，良馬若病、若老，勉力駕乘，不厭不倦，是名良馬第八之德。\n\n「如是，丈夫於正法、律八德成就，當知是賢士夫。何等為八？謂賢士夫住於正戒波羅提木叉律儀，威儀行處具足，見微細罪，能生怖畏，受持學戒，是名丈夫於正法、律第一之德。復次，丈夫性自賢善，善調善住，不惱、不怖諸梵行者，是名丈夫第二之德。復次，丈夫次行乞食，隨其所得，若麁、若細，其心平等，不嫌、不著，是名丈夫第三之德。復次，丈夫心生厭離於身惡業，口、意惡業，惡不善法及諸煩惱，重受諸有熾然苦報，於未來世生、老、病、死、憂、悲、惱、苦，增其厭離，是名丈夫第四之德。復次，丈夫若有沙門過，諂曲不實，速告大師及善知識，大師說法則時除斷，是名丈夫第五之德。復次，丈夫學心具足，作如是念：『設使餘人學以不學，我悉當學。』是名丈夫第六之德。復次，丈夫行八正道，不行非道，是名丈夫第七之德。復次，丈夫乃至盡壽，精勤方便，不厭不倦，是名丈夫第八之德。如是丈夫八德成就，隨其行地，能速昇進。」\n\n佛說此經已，諸比丘聞佛所說，歡喜奉行。",
+  "english_sa_text": "",
+  "parallels": [
+    {
+      "uid": "an8.13",
+      "acronym": "AN 8.13",
+      "root_lang": "pli",
+      "original_title": "Assājānīyasutta",
+      "translated_title": "Thoroughbred",
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "sa-2.150",
+      "acronym": "SA2 150",
+      "root_lang": "lzh",
+      "original_title": "八種",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "an8.14",
+      "acronym": "AN 8.14",
+      "root_lang": "pli",
+      "original_title": "Assakhaḷuṅkasutta",
+      "translated_title": "Wild Colts",
+      "type": "full",
+      "resembling": true,
+      "remark": null
+    },
+    {
+      "uid": "sa-2.149",
+      "acronym": "SA2 149",
+      "root_lang": "lzh",
+      "original_title": "有過",
+      "translated_title": null,
+      "type": "full",
+      "resembling": true,
+      "remark": null
+    },
+    {
+      "uid": "sa924",
+      "acronym": "SA 924",
+      "root_lang": "lzh",
+      "original_title": "有過",
+      "translated_title": null,
+      "type": "full",
+      "resembling": true,
+      "remark": null
+    },
+    {
+      "uid": "t115",
+      "acronym": "T 115",
+      "root_lang": "lzh",
+      "original_title": "佛說馬有八態譬人",
+      "translated_title": null,
+      "type": "full",
+      "resembling": true,
+      "remark": null
+    }
+  ],
+  "primary_sn_uid": null,
+  "pali_text": "",
+  "english_sn_text": "",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa901-1000/sa925_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa901-1000/sa925_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛住王舍城迦兰陀竹园。\n尔时世尊告诸比丘：「世间良马八德：生于良乡；性温不惊人；不择饮食；恶不净择地而卧；态病速现速舍；安于驾乘尽其力；行正路不随非道；病老勉力不厌。「丈夫于正法律八德亦尔：住波罗提木叉律仪，见微细罪生怖，受持学戒；性贤善调，不恼怖诸梵行；乞食粗细心等，不嫌不著；厌离身口意恶业及诸有苦报；有过速白大师善知识，闻法即断；念『设余学不学，我当学』；行八正道不行非道；尽寿精勤不厌不倦。如是八德成就，随其行地速得昇進。」\n佛说此经已，诸比丘闻佛所说，欢喜奉行。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在王舍城迦兰陀竹园。\n那时世尊告诉比丘们：「世上良马有八德：生在良马之乡；性情温顺不吓人；不挑饮食；厌恶不净、择地而卧；毛病很快显出也很快改掉；安心驾乘尽力；走正路不走邪道；病老仍勉力不厌倦。「人在正法律里也有八德：安住波罗提木叉律仪，见微细罪就生怖畏，受持学处；性情贤善调顺，不恼乱、不恐吓梵行同伴；乞食不论粗细，心平等，不嫌恶不贪著；厌离身口意恶业以及各种有的苦报；有过失赶快告诉大师与善知识，听法就断除；心想『即使别人学或不学，我总要学』；行八正道，不走非道；尽形寿精勤，不厌不倦。成就这八德，就能随所修行的境地迅速上进。」\n佛说完这部经，比丘们听佛所说，都欢喜奉行。",
+  "notes": "本经 SC 平行表所列平行及 `raw_aligned_data.json` 内之巴利本文、Sujato 英译并用以厘定法义；求那跋陀罗汉本用于定位经文与传统术语。confidence=high：primary AN8.13；八良马德对贤士夫八德。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "high",
+  "prior_review_status": "needs_revision",
+  "similarity_to_source": 0.097,
+  "paragraph_parallel": true
+}

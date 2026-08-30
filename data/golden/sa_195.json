@@ -1,0 +1,153 @@
+{
+  "id": "SA_195",
+  "uid": "sa195",
+  "title": "雜阿含經  卷第九  六入處相應  （195）  無常苦",
+  "chinese_text": "如是我聞：\n\n一時，佛住舍衛國祇樹給孤獨園。\n\n爾時，世尊告諸比丘：「一切無常。云何一切無常？謂眼無常，若色、眼識、眼觸，若眼觸因緣生受，苦覺、樂覺、不苦不樂覺，彼亦無常。耳、鼻、舌、身、意亦復如是。多聞聖弟子如是觀者，於眼生厭，若色、眼識、眼觸、眼觸因緣生受，苦覺、樂覺、不苦不樂覺，於彼生厭。耳、鼻、舌、身、意，聲、香、味、觸、法、意識、意觸、意觸因緣生受，苦覺、樂覺、不苦不樂覺，彼亦生厭，厭故不樂，不樂故解脫，解脫知見：『我生已盡，梵行已立，所作已作，自知不受後有。』」\n\n佛說此經已，諸比丘聞佛所說，歡喜奉行。\n\n如無常經，如是苦、空、無我，亦如是說。",
+  "english_sa_text": "Saṁyuktāgama\n\n195. [First Discourse on Impermanence]\n\nThus have I heard. At one time the Buddha was staying at Sāvatthī in Jeta’s Grove, Anāthapiṇḍika’s Park.\n\nAt that time the Blessed One said to the monks: “All is impermanent. What is all that is impermanent? That is, the eye is impermanent, forms, eye-consciousness, eye-contact, and feeling arisen in dependence on eye-contact, be it painful feeling, pleasant feeling, or neutral feeling, that is also impermanent.\n\n“The ear … the nose … the tongue … the body … the mind is also like this.\n\n“A learned noble disciple who contemplates like this gives rise to disenchantment for the eye, and gives rise to disenchantment for forms, eye-consciousness, eye-contact, and feeling arisen in dependence on eye-contact, be it painful feeling, pleasant feeling, or neutral feeling.\n\n“He gives also rise to disenchantment for the ear … the nose … the tongue … the body … the mind, and for sounds … odours … flavours … tangibles … mental objects … mind-consciousness, mind-contact, and feeling arisen in dependence on mind-contact, be it painful feeling, pleasant feeling, or neutral feeling.\n\n“Because of being disenchanted, he does not delight in it. Because of not delighting in it, he is liberated. Being liberated, he knows and sees: ‘Birth for me has been eradicated, the holy life has been established, what had to be done has been done, I myself know that there will be no receiving of any further existence.’”\n\nWhen the Buddha had spoken this discourse, hearing what the Buddha had said the monks were delighted and received it respectfully.\n\nAs with the discourse on being impermanent, in the same way also [discourses] are to be recited in this way for being dukkha, empty, and not-self.\n\nTranslated by Bhikkhu Anālayo. Originally published in \"On the Six Sense-spheres (1) ―A Translation of Saṁyukta-āgama Discourses 188 to 229 (Fascicle 8)\", Dharma Drum Journal of Buddhist Studies, 2016, vol. 18 pp. 1–61.\n\nPrepared for SuttaCentral by Ayya Vimala.",
+  "parallels": [
+    {
+      "uid": "sn35.12",
+      "acronym": "SN 35.12",
+      "root_lang": "pli",
+      "original_title": "Bāhirānattātītānāgatasutta",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "sn35.11",
+      "acronym": "SN 35.11",
+      "root_lang": "pli",
+      "original_title": "Bāhiradukkhātītānāgatasutta",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "sn35.10",
+      "acronym": "SN 35.10",
+      "root_lang": "pli",
+      "original_title": "Bāhirāniccātītānāgatasutta",
+      "translated_title": "The External as Impermanent in the Three Times, Etc.",
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "sn35.9",
+      "acronym": "SN 35.9",
+      "root_lang": "pli",
+      "original_title": "Ajjhattānattātītānāgatasutta",
+      "translated_title": "The Internal as Nonself in the Three Times",
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "sn35.8",
+      "acronym": "SN 35.8",
+      "root_lang": "pli",
+      "original_title": "Ajjhattadukkhātītānāgatasutta",
+      "translated_title": "The Internal as Suffering in the Three Times",
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "sn35.7",
+      "acronym": "SN 35.7",
+      "root_lang": "pli",
+      "original_title": "Ajjhattāniccātītānāgatasutta",
+      "translated_title": "The Internal as Impermanent in the Three Times",
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "sn35.6",
+      "acronym": "SN 35.6",
+      "root_lang": "pli",
+      "original_title": "Bāhirānattasutta",
+      "translated_title": "The External as Nonself",
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "sn35.5",
+      "acronym": "SN 35.5",
+      "root_lang": "pli",
+      "original_title": "Bāhiradukkhasutta",
+      "translated_title": "The External as Suffering",
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "sn35.4",
+      "acronym": "SN 35.4",
+      "root_lang": "pli",
+      "original_title": "Bāhirāniccasutta",
+      "translated_title": "The External as Impermanent",
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "sn35.3",
+      "acronym": "SN 35.3",
+      "root_lang": "pli",
+      "original_title": "Ajjhattānattasutta",
+      "translated_title": "The Internal as Nonself",
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "sn35.2",
+      "acronym": "SN 35.2",
+      "root_lang": "pli",
+      "original_title": "Ajjhattadukkhasutta",
+      "translated_title": "The Internal as Suffering",
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "sn35.1",
+      "acronym": "SN 35.1",
+      "root_lang": "pli",
+      "original_title": "Ajjhattāniccasutta",
+      "translated_title": "The Internal as Impermanent",
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    }
+  ],
+  "primary_sn_uid": "sn35.1",
+  "pali_text": "Evaṁ me sutaṁ. Ekaṁ samayaṁ bhagavā sāvatthiyaṁ viharati jetavane anāthapiṇḍikassa ārāme. Tatra kho bhagavā bhikkhū āmantesi: “bhikkhavo”ti. “Bhadante”ti te bhikkhū bhagavato paccassosuṁ. Bhagavā etadavoca: “Cakkhuṁ, bhikkhave, aniccaṁ. Yadaniccaṁ taṁ dukkhaṁ; yaṁ dukkhaṁ tadanattā. Yadanattā taṁ ‘netaṁ mama, nesohamasmi, na meso attā’ti evametaṁ yathābhūtaṁ sammappaññāya daṭṭhabbaṁ. Sotaṁ aniccaṁ. Yadaniccaṁ …pe… ghānaṁ aniccaṁ. Yadaniccaṁ …pe… jivhā aniccā. Yadaniccaṁ taṁ dukkhaṁ; yaṁ dukkhaṁ tadanattā. Yadanattā taṁ ‘netaṁ mama, nesohamasmi, na meso attā’ti evametaṁ yathābhūtaṁ sammappaññāya daṭṭhabbaṁ. Kāyo anicco. Yadaniccaṁ …pe… mano anicco. Yadaniccaṁ taṁ dukkhaṁ; yaṁ dukkhaṁ tadanattā. Yadanattā taṁ ‘netaṁ mama, nesohamasmi, na meso attā’ti evametaṁ yathābhūtaṁ sammappaññāya daṭṭhabbaṁ. Evaṁ passaṁ, bhikkhave, sutavā ariyasāvako cakkhusmimpi nibbindati, sotasmimpi nibbindati, ghānasmimpi nibbindati, jivhāyapi nibbindati, kāyasmimpi nibbindati, manasmimpi nibbindati. Nibbindaṁ virajjati; virāgā vimuccati; vimuttasmiṁ vimuttamiti ñāṇaṁ hoti. ‘Khīṇā jāti, vusitaṁ brahmacariyaṁ, kataṁ karaṇīyaṁ, nāparaṁ itthattāyā’ti pajānātī”ti. Paṭhamaṁ.",
+  "english_sn_text": "So I have heard. At one time the Buddha was staying near Sāvatthī in Jeta’s Grove, Anāthapiṇḍika’s monastery. There the Buddha addressed the mendicants, “Mendicants!” “Venerable sir,” they replied. The Buddha said this: “Mendicants, the eye is impermanent. What’s impermanent is suffering. What’s suffering is not-self. And what’s not-self should be truly seen with right understanding like this: ‘This is not mine, I am not this, this is not my self.’ The ear is impermanent. … The nose is impermanent. … The tongue is impermanent. … The body is impermanent. … The mind is impermanent. What’s impermanent is suffering. What’s suffering is not-self. And what’s not-self should be truly seen with right understanding like this: ‘This is not mine, I am not this, this is not my self.’ Seeing this, a learned noble disciple grows disillusioned with the eye, ear, nose, tongue, body, and mind. Being disillusioned, desire fades away. When desire fades away they’re freed. When they’re freed, they know they’re freed. They understand: ‘Rebirth is ended, the spiritual journey has been completed, what had to be done has been done, there is nothing further for this place.’”",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa101-200/sa195_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa101-200/sa195_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时佛在舍卫国祇树给孤独园。\n尔时世尊告诸比丘：一切无常。云何一切无常？谓眼无常；色、眼识、眼触，及眼触因缘所生受——若苦、若乐、不苦不乐——彼亦无常。耳、鼻、舌、身、意，声、香、味、触、法，乃至意触因缘所生受，亦复如是。\n多闻圣弟子如是观者，于眼生厌，于色、眼识、眼触及眼触因缘所生受生厌；于耳、鼻、舌、身、意，声、香、味、触、法，乃至意触因缘所生受，亦皆生厌。厌故离贪，离贪故解脱，解脱故自知解脱：「我生已尽，梵行已立，所作已作，自知不受后有。」\n佛说此经已，诸比丘闻佛所说，欢喜奉行。\n（省文）如「无常」经，如是「苦」、「空」、「无我」，亦如上说，各成一经。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在舍卫国祇树给孤独园。\n那时，世尊告诉比丘们：一切都是无常的。哪些是「一切」呢？就是说：眼是无常的；色（所见之境）、眼识、眼触，以及依眼触为缘而生起的感受——无论是苦、是乐、还是不苦不乐——也都是无常的。耳、鼻、舌、身、意，以及声、香、味、触、法，乃至依意触为缘而生起的感受，也都是一样。\n多闻圣弟子这样观察的人，对眼生起厌离，对色、眼识、眼触以及依眼触为缘所生的感受，也生起厌离；对耳、鼻、舌、身、意，声、香、味、触、法，乃至依意触为缘所生的感受，同样都生起厌离。厌离便离贪，离贪便得解脱，解脱便自知已解脱：「我的生已尽，梵行已立，该做的已做，自知不再受后有。」\n佛说完这部经，比丘们听佛所说，都欢喜奉行。\n（以下是原典的省文指示）如同这部「无常」经，把「无常」换成「苦」、「空」、「无我」，各按同一格式成一部经。",
+  "notes": "本经 SC 平行表所列巴利平行及 `raw_aligned_data.json` 内之巴利本文、Sujato 英译，与 Anālayo 之 SA 英译（DDJBS 18, 2016, Fascicle 8）并用以厘定法义；求那跋陀罗汉本用于定位经文与传统术语。confidence=medium：SC 于本经所列 SN35.1–12 为内外六处之无常／苦／非我三组，其正文唯举六处而无「色、识、触、触缘生受」之六六列，与本经「一切无常」之量不合；本经实与 SN35.43–51（Aniccādi，`sabbaṁ aniccaṁ` 下开眼、色、眼识、眼触、触缘生受五支）同式，而彼系 SC 系于次经（SA_196）名下。因所据之平行係本篇另行认定，非 SC 所列，依项目规约降为 medium。信-校正：底本「厌故不乐，不乐故解脱」之「不乐」非「不喜欢」，乃 virāga（离贪）；巴利定型语作 `nibbidā virāgo, virāgā vimutti`（厌→离贪→解脱），今作「厌故离贪，离贪故解脱」，沿用本项目 SA_124／127 之例。「解脱知见」即 `vimuttasmiṁ vimuttamiti ñāṇaṁ`（于解脱知其解脱），今作「解脱故自知解脱」。「苦觉、乐觉、不苦不乐觉」之「觉」即 vedayita（所受），非「觉悟」，今作「若苦、若乐、不苦不乐」以免歧读。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "medium",
+  "prior_review_status": "needs_revision",
+  "similarity_to_source": 0.344,
+  "paragraph_parallel": true
+}

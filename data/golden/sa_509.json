@@ -1,0 +1,53 @@
+{
+  "id": "SA_509",
+  "uid": "sa509",
+  "title": "雜阿含經  卷第二十一  弟子所說相應  （509）  屠牛者",
+  "chinese_text": "如是我聞：\n\n一時，佛住王舍城迦蘭陀竹園。爾時，尊者大目犍連與尊者勒叉那在耆闍崛山。\n\n尊者勒叉那於晨朝時詣尊者大目犍連所，語尊者大目犍連：「共出耆闍崛山，入王舍城乞食。」尊者大目犍連默然而許，即共出耆闍崛山，入王舍城乞食。\n\n行至一處，尊者大目犍連心有所念，欣然微笑。尊者勒叉那見尊者大目犍連微笑，即問言：「尊者！若佛及佛聲聞弟子欣然微笑，非無因緣，尊者今日何因何緣而發微笑？」\n\n尊者大目犍連言：「所問非時，且乞食，還於世尊前，當問是事，是應時問。」\n\n尊者大目犍連與尊者勒叉那共入城乞食，食已還，洗足，舉衣鉢，俱詣佛所，稽首佛足，退坐一面。尊者勒叉那問尊者大目犍連：「我今晨朝與汝共入王舍城乞食，汝於一處欣然微笑，我即問汝何因緣笑，汝答我言所問非時，我今問汝何因何緣欣然微笑？」\n\n尊者大目犍連語尊者勒叉那：「我於路中見一眾生，筋骨相連，舉身不淨，臭穢可厭，烏、鵄、鵰、鷲、野干、餓狗隨而擭食，或從脇肋探其內藏而取食之，極大苦痛，啼哭號呼。我見是已，心即念言：『如是眾生得如是身，而受如是不饒益苦。』」\n\n爾時，世尊告諸比丘：「善哉！比丘！我聲聞中住實眼、實智、實義、實法，決定通達，見如是眾生。我亦見是眾生，而不說者，恐不信故。所以者何？如來所說，有不信者，是愚癡人長夜當受不饒益苦。諸比丘！是眾生者，過去世時，於此王舍城為屠牛弟子，緣屠牛罪故，已百千歲墮地獄中受無量苦，彼屠牛惡行餘罪緣故，今得此身，續受如是不饒益苦。諸比丘！如大目揵連所見，真實不異，汝等受持。」\n\n佛說此經已，諸比丘聞佛所說，歡喜奉行。",
+  "english_sa_text": "",
+  "parallels": [
+    {
+      "uid": "pli-tv-bu-vb-pj4",
+      "acronym": "Bu Pj 4",
+      "root_lang": "pli",
+      "original_title": "Uttarimanussadhamma",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "sn19.2",
+      "acronym": "SN 19.2",
+      "root_lang": "pli",
+      "original_title": "Pesisutta",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    }
+  ],
+  "primary_sn_uid": "sn19.2",
+  "pali_text": "“Idhāhaṁ, āvuso, gijjhakūṭā pabbatā orohanto addasaṁ maṁsapesiṁ vehāsaṁ gacchantiṁ. Tamenaṁ gijjhāpi kākāpi kulalāpi anupatitvā anupatitvā vitacchenti virājenti. Sā sudaṁ aṭṭassaraṁ karoti …pe… eso, bhikkhave, satto imasmiṁyeva rājagahe goghātako ahosi …pe…. Dutiyaṁ.",
+  "english_sn_text": "“Just now, reverend, as I was descending from Vulture’s Peak Mountain I saw a scrap of meat flying through the air. Vultures, crows, and hawks kept chasing it, pecking and clawing as it screeched in pain. …” … “That being used to be a cattle butcher right here in Rājagaha. …”",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa501-600/sa509_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa501-600/sa509_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛在王舍城迦兰陀竹园。\n尊者大目揵连与尊者勒叉那在耆闍崛山。勒叉那晨朝诣目揵连：「共出耆闍崛山入城乞食。」目揵连默许，即共出。\n行至一处，目揵连欣然微笑。勒叉那问因缘，答言非时，还佛前当问。\n乞食还，洗足举钵，俱诣佛所礼足退坐。勒叉那再问微笑因缘。目揵连言：「路中见一众生，筋骨相连，举身不净，臭秽可厌，乌、鸱、雕、鹫、野干、饿狗随而擭食，或从胁肋探内藏而取食之，极大苦痛，啼哭号呼。我念：『如是众生得如是身，受不饶益苦。』」\n佛告：「善哉！我声闻中住实眼、实智、实义、实法，决定通达，见如是众生——我亦见而不说，恐不信故；如来说法有不信者，愚痴人长夜当受不饶益苦。」「是众生者，过去世于此王舍城为屠牛弟子，缘屠牛罪，已百千岁堕地狱受无量苦，余罪缘故今得此身，续受不饶益苦。如大目揵连所见真实不异，汝等受持。」\n佛说此经已，诸比丘闻佛所说，欢喜奉行。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在王舍城迦兰陀竹园。\n大目揵连尊者与勒叉那尊者在耆闍崛山。勒叉那早晨来见目揵连：「一起出耆闍崛山入城乞食。」目揵连默然许可，就一起出去。\n走到一处，目揵连欣然微笑。勒叉那问缘故，他回答不是时候，回佛面前应当问。\n乞食回来，洗脚收钵，一起到佛处顶礼退坐。勒叉那再问微笑的因缘。目揵连说：「路上看见一个众生，筋骨相连，全身不净，臭秽可厌，乌鸦、鸱、雕、鹫、野干、饿狗跟着啄食，或从胁肋探取内藏而吃，极大苦痛，啼哭号呼。我想：『这样的众生得到这样的身，受不饶益的苦。』」\n佛告诉比丘们：「很好！我的声闻中住实眼、实智、实义、实法、决定通达，看见这样的众生——我也看见但不说，怕不信；如来说法有人不信，愚痴的人长夜要受不饶益的苦。」「这个众生，过去世在这个王舍城做屠牛弟子，因为屠牛的罪，已经在百千岁中堕地狱受无量苦，因为余罪的缘故现在得到这样的身，继续受不饶益的苦。如同大目揵连所见真实没有不同，你们应当受持。」\n佛说完这部经，比丘们听佛所说，都欢喜奉行。",
+  "notes": "本经 SC 平行表所列平行及 `raw_aligned_data.json` 内之巴利本文、Sujato 英译并用以厘定法义；求那跋陀罗汉本用于定位经文与传统术语。confidence=high：primary SN19.2 Pesi（肉块／屠牛者）。据 Pali goghātaka；与 SA508 同框架。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "high",
+  "prior_review_status": "needs_revision",
+  "similarity_to_source": 0.204,
+  "paragraph_parallel": true
+}

@@ -1,0 +1,53 @@
+{
+  "id": "SA_1340",
+  "uid": "sa1340",
+  "title": "雜阿含經  卷第五十  林相應  （1340）  跋耆子",
+  "chinese_text": "如是我聞：\n\n一時，佛住王舍城迦蘭陀竹園。\n\n時，有尊者金剛子，住巴連弗邑一處林中。時，巴連弗邑人民夏四月過，作憍牟尼大會。\n\n時，尊者金剛子聞世間大會，生不樂心，而說偈言：\n\n「獨一處空林，　　猶如棄枯木，\n\n　夏時四月滿，　　世間樂莊嚴，\n\n　普觀諸世間，　　其苦無過我。」\n\n爾時，林中住止天神即說偈言：\n\n「獨一處空林，　　猶如棄枯木，\n\n　為三十三天，　　心常所願樂，\n\n　猶如地獄中，　　仰思生人道。」\n\n時，金剛子為彼天神所勸發已，專精思惟，斷諸煩惱，得阿羅漢。",
+  "english_sa_text": "",
+  "parallels": [
+    {
+      "uid": "sa-2.360",
+      "acronym": "SA2 360",
+      "root_lang": "lzh",
+      "original_title": "跋耆子",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "sn9.9",
+      "acronym": "SN 9.9",
+      "root_lang": "pli",
+      "original_title": "Vajjiputtasutta",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    }
+  ],
+  "primary_sn_uid": "sn9.9",
+  "pali_text": "Ekaṁ samayaṁ aññataro vajjiputtako bhikkhu vesāliyaṁ viharati aññatarasmiṁ vanasaṇḍe. Tena kho pana samayena vesāliyaṁ vajjiputtako sabbaratticāro hoti. Atha kho so bhikkhu vesāliyā tūriyatāḷitavāditanigghosasaddaṁ sutvā paridevamāno tāyaṁ velāyaṁ imaṁ gāthaṁ abhāsi: “Ekakā mayaṁ araññe viharāma, Apaviddhaṁva vanasmiṁ dārukaṁ; Etādisikāya rattiyā, Ko su nāmamhehi pāpiyo”ti. Atha kho yā tasmiṁ vanasaṇḍe adhivatthā devatā tassa bhikkhuno anukampikā atthakāmā taṁ bhikkhuṁ saṁvejetukāmā yena so bhikkhu tenupasaṅkami; upasaṅkamitvā taṁ bhikkhuṁ gāthāya ajjhabhāsi: “Ekakova tvaṁ araññe viharasi, Apaviddhaṁva vanasmiṁ dārukaṁ; Tassa te bahukā pihayanti, Nerayikā viya saggagāminan”ti. Atha kho so bhikkhu tāya devatāya saṁvejito saṁvegamāpādīti.",
+  "english_sn_text": "At one time a certain Vajjian mendicant was staying near Vesālī in a certain forest grove. Now at that time the Vajjis were holding an all-night event in Vesālī. Then that mendicant, complaining at the noise of musical instruments being beaten and played, on that occasion spoke this verse: “We dwell alone in the wilderness, like a log dumped in the forest. On a night like this, who’s worse off than me?” The deity haunting that forest had sympathy for that mendicant, and wanted what’s best for them. So they approached that mendicant wanting to stir them up, and addressed them in verse: “You dwell alone in the wilderness, like a log dumped in the forest. Lots of people are jealous of you, like beings in hell of those going to heaven.” Impelled by that deity, that mendicant was struck with a sense of urgency.",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa1301-1400/sa1340_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa1301-1400/sa1340_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛住王舍城迦兰陀竹园。\n时尊者金刚子住巴连弗邑林中。邑人夏四月过，作憍牟尼大会。尊者闻世间大会，生不乐心，说偈：「独住空林中，犹如弃枯木；夏满世欢会，观苦无过我。」\n林中天神说偈：「独住空林中，犹如弃枯木——三十三天众，常所愿乐处；如地狱仰望，得生人道中。」\n尊者闻已，专精思惟，断诸烦恼，得阿罗汉。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在王舍城迦兰陀竹园。\n那时尊者金刚子住在巴连弗邑的林中。城里人过了夏四月，举办憍牟尼大会。尊者听见世间的大会，心里生起不乐，说偈：「独自住在空林，像被丢弃的枯木；夏天满了，世人欢会，我看世上的苦，没有比我更苦的。」\n林中的天神说偈：「独自住在空林，像被丢弃的枯木——这正是三十三天众常常向往的地方；就像地狱里的众生仰望，希望能生到人道。」\n尊者听了，专精思惟，断除烦恼，证得阿罗汉。",
+  "notes": "本经 SC 平行表所列平行及 `raw_aligned_data.json` 内之巴利本文、Sujato 英译并用以厘定法义；求那跋陀罗汉本用于定位经文与传统术语。confidence=high：primary SN9.9。巴利为跋耆比丘住毗舍离、跋耆人彻夜节会；汉作金刚子／巴连弗／憍牟尼会，存汉专名。义据 SN：空林独处为天所羡慕，非真苦。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "high",
+  "prior_review_status": "needs_revision",
+  "similarity_to_source": 0.138,
+  "paragraph_parallel": true
+}

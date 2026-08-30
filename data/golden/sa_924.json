@@ -1,0 +1,83 @@
+{
+  "id": "SA_924",
+  "uid": "sa924",
+  "title": "雜阿含經  卷第三十六  釋氏相應  （924）  有過",
+  "chinese_text": "如是我聞：\n\n一時，佛住王舍城迦蘭陀竹園。\n\n爾時，世尊告諸比丘：「世間馬有八態。何等為八？謂惡馬臨駕車時，後脚蹹人，前脚跪地，奮頭齧人，是名世間馬第一態。復次，惡馬就駕車時，低頭振軛，是名世間惡馬第二之態。復次，世間惡馬就駕車時，下道而去，或復偏厲車，令其翻覆，是名第三之態。復次，世間惡馬就駕車時，仰頭却行，是名世間惡馬第四之態。復次，世間惡馬就駕車時，小得鞭杖，或斷繮折勒，縱橫馳走，是名第五之態。復次，世間惡馬就駕車時，舉前兩足，而作人立，是名第六之態。復次，世間惡馬就駕之時，加之鞭杖，安住不動，是名第七之態。復次，世間惡馬就駕之時，叢聚四脚，伏地不起，是名第八之態。\n\n「如是，世間惡丈夫於正法、律有八種過。何等為八？若比丘！諸梵行者以見聞疑罪而發舉時，彼則瞋恚，反呵責彼言：『汝愚癡，不辯不善，他立舉汝，汝云何舉我？』如彼惡馬，後脚雙蹹，前脚跪地，斷鞅折軛，是名丈夫於正法、律第一之過。\n\n「復次，比丘！諸梵行者以見聞疑舉，反出他罪，猶如惡馬怒項折軛，是名丈夫於正法、律第二之過。\n\n「復次，比丘！諸梵行者以見聞疑舉，不以正答，橫說餘事，瞋恚憍慢，隱覆嫌恨，不忍，無所由作，如彼惡馬不由正路，令車翻覆，是名丈夫於正法、律第三之過。\n\n「復次，比丘！諸梵行者以見聞疑舉，令其憶念，而作是言：『我不憶念！』觝突不伏，如彼惡馬却縮轉退，是名丈夫於正法、律第四之過。\n\n「復次，比丘！諸梵行者以見聞疑舉時，輕蔑不數其人，亦不數僧，攝持衣鉢，隨意而去，如彼惡馬加以鞭杖，縱橫馳走，是名丈夫於正法、律第五之過。\n\n「復次，比丘！諸梵行者以見聞疑舉時，自處高床、與諸上座共諍曲直，如彼惡馬雙脚人立，是名丈夫於正法、律第六之過。\n\n「復次，比丘！諸梵行者以見聞疑舉時，默然不應，以惱大眾，如彼惡馬加其鞭杖，兀然不動，是名丈夫於正法、律第七之過。\n\n「復次，比丘！諸梵行者以見聞疑舉時，則便捨戒，自生退沒，到於寺門，而作是言：『汝默然快喜安住，我自捨戒退沒。』如彼惡馬叢聚四足，伏地不動，是名丈夫於正法、律第八之過。是名比丘於正法、律有八種丈夫過惡。」\n\n佛說此經已，諸比丘聞佛所說，歡喜奉行。",
+  "english_sa_text": "",
+  "parallels": [
+    {
+      "uid": "an8.14",
+      "acronym": "AN 8.14",
+      "root_lang": "pli",
+      "original_title": "Assakhaḷuṅkasutta",
+      "translated_title": "Wild Colts",
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "sa-2.149",
+      "acronym": "SA2 149",
+      "root_lang": "lzh",
+      "original_title": "有過",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "an8.13",
+      "acronym": "AN 8.13",
+      "root_lang": "pli",
+      "original_title": "Assājānīyasutta",
+      "translated_title": "Thoroughbred",
+      "type": "full",
+      "resembling": true,
+      "remark": null
+    },
+    {
+      "uid": "sa-2.150",
+      "acronym": "SA2 150",
+      "root_lang": "lzh",
+      "original_title": "八種",
+      "translated_title": null,
+      "type": "full",
+      "resembling": true,
+      "remark": null
+    },
+    {
+      "uid": "sa925",
+      "acronym": "SA 925",
+      "root_lang": "lzh",
+      "original_title": "八種",
+      "translated_title": null,
+      "type": "full",
+      "resembling": true,
+      "remark": null
+    }
+  ],
+  "primary_sn_uid": null,
+  "pali_text": "",
+  "english_sn_text": "",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa901-1000/sa924_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa901-1000/sa924_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛住王舍城迦兰陀竹园。\n尔时世尊告诸比丘：「世间恶马有八态。一者临驾车，后脚蹹人，前脚跪地，奋头啮人；二者低头振轭；三者下道偏厉，令车翻覆；四者仰头却行；五者小得鞭杖，断缰折勒，纵横驰走；六者举前两足作人立；七者加鞭安住不动；八者丛聚四脚伏地不起。「正法律中恶丈夫亦有八过。诸梵行者以见闻疑罪而发举时：一者瞋恚反呵：『汝愚不辩，他举汝，汝云何举我？』如恶马蹹跪啮人；二者反出他罪，如怒项折轭；三者不以正答，横说余事，瞋慢隐覆嫌恨，如偏道翻车；四者言『我不忆念』，觝突不伏，如仰头却行；五者轻蔑人僧，摄持衣钵随意而去，如鞭已纵横驰；六者自处高床与上座共诤，如前足人立；七者默然不应以恼大众，如鞭而不动；八者舍戒自退，至寺门言『汝默然安住，我自退没』，如四足伏地。」\n佛说此经已，诸比丘闻佛所说，欢喜奉行。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在王舍城迦兰陀竹园。\n那时世尊告诉比丘们：「世上恶马有八种毛病。第一种临上车时，后脚踢人，前脚跪地，抬头咬人；第二种低头挣轭；第三种偏道用力，把车弄翻；第四种仰头倒退；第五种稍加鞭杖就断缰乱跑；第六种前脚直立像人；第七种加鞭却呆立不动；第八种四脚收拢趴地不起。「正法律里恶劣的人也有八种过失。梵行同伴以见闻疑的罪过举发他时：第一种瞋怒反骂：『你愚笨不会说话，别人举你，你怎么举我？』像恶马又踢又跪又咬；第二种反过来揭别人的罪，像怒着脖子挣断轭；第三种不正面回答，扯到别的事，又瞋慢隐瞒怨恨，像偏道翻车；第四种说『我不记得』，硬顶不服，像仰头倒退；第五种轻视个人与僧团，拿起衣钵就走，像一鞭就乱跑；第六种自己坐高座与上座争辩，像前脚直立；第七种沉默不理以恼乱大众，像鞭了不动；第八种舍戒自退，到寺门口说『你们安安稳稳住着，我自己退了』，像四脚趴地。」\n佛说完这部经，比丘们听佛所说，都欢喜奉行。",
+  "notes": "本经 SC 平行表所列平行及 `raw_aligned_data.json` 内之巴利本文、Sujato 英译并用以厘定法义；求那跋陀罗汉本用于定位经文与传统术语。confidence=high：primary AN8.14；八恶马态对举罪时八种恶应答。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "high",
+  "prior_review_status": "needs_revision",
+  "similarity_to_source": 0.128,
+  "paragraph_parallel": true
+}

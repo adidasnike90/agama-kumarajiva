@@ -1,0 +1,54 @@
+{
+  "id": "SA_1317",
+  "uid": "sa1317",
+  "title": "雜阿含經  卷第五十  雜相應  （1317）  迦葉",
+  "chinese_text": "如是我聞：\n\n一時，佛住舍衛國祇樹給孤獨園。\n\n時，有迦葉天子，容色絕妙，於後夜時來詣佛所，稽首佛足，退坐一面。其身光明遍照祇樹給孤獨園。\n\n時，彼迦葉天子白佛言：「世尊！我今當說比丘及比丘功德。」\n\n佛告天子：「隨汝所說。」\n\n時，迦葉天子而說偈言：\n\n「比丘修正念，　　其身善解脫，\n\n　晝夜常勤求，　　壞有諸功德。\n\n　了知於世間，　　滅除一切有，\n\n　比丘得無憂，　　心無所染著。\n\n「世尊！是名比丘，是名比丘功德。」\n\n佛告迦葉：「善哉！善哉！如汝所說。」\n\n迦葉天子聞佛所說，歡喜隨喜，稽首佛足，即沒不現。",
+  "english_sa_text": "",
+  "parallels": [
+    {
+      "uid": "sa-2.316",
+      "acronym": "SA2 316",
+      "root_lang": "lzh",
+      "original_title": "迦葉",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "sn2.1",
+      "acronym": "SN 2.1",
+      "root_lang": "pli",
+      "original_title": "Paṭhamakassapasutta",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    }
+  ],
+  "primary_sn_uid": "sn2.1",
+  "pali_text": "Evaṁ me sutaṁ— ekaṁ samayaṁ bhagavā sāvatthiyaṁ viharati jetavane anāthapiṇḍikassa ārāme. Atha kho kassapo devaputto abhikkantāya rattiyā abhikkantavaṇṇo kevalakappaṁ jetavanaṁ obhāsetvā yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṁ abhivādetvā ekamantaṁ aṭṭhāsi. Ekamantaṁ ṭhito kho kassapo devaputto bhagavantaṁ etadavoca: “bhikkhuṁ bhagavā pakāsesi, no ca bhikkhuno anusāsan”ti. “Tena hi, kassapa, taññevettha paṭibhātū”ti. “Subhāsitassa sikkhetha, samaṇūpāsanassa ca; Ekāsanassa ca raho, cittavūpasamassa cā”ti. Idamavoca kassapo devaputto; samanuñño satthā ahosi. Atha kho kassapo devaputto “samanuñño me satthā”ti bhagavantaṁ abhivādetvā padakkhiṇaṁ katvā tatthevantaradhāyīti.",
+  "english_sn_text": "So I have heard. At one time the Buddha was staying near Sāvatthī in Jeta’s Grove, Anāthapiṇḍika’s monastery. Then, late at night, the glorious godling Kassapa, lighting up the entire Jeta’s Grove, went up to the Buddha, bowed, stood to one side, and said to him, “The Buddha has revealed the mendicant, but not his instructions to a mendicant.” “Well then, Kassapa, clarify this matter yourself.” “You should all train to learn well-spoken words, to attend closely to ascetics, to sit alone in hidden places, and to settle the mind.” That is what the godling Kassapa said, and the Teacher concurred. Then Kassapa, knowing that the Teacher concurred, bowed and respectfully circled the Buddha, keeping him on his right, before vanishing right there.",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa1301-1400/sa1317_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa1301-1400/sa1317_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛住舍卫国祇树给孤独园。\n后夜分，迦叶天子容色绝妙，来诣佛所，稽首礼足，退坐一面；身诸光明遍照祇园。\n天子白佛：「世尊已说比丘相，而未说比丘之教诫。」佛言：「迦叶！汝当自说。」\n天子说偈：「当学善说之语，亲近沙门；独坐于静处，令心寂定。」\n世尊印可。天子知佛印可，欢喜礼足，右绕而没。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在舍卫国祇树给孤独园。\n后夜分，名叫迦叶的天子容色绝妙，来到佛前，顶礼佛足，退坐一面；身上光明遍照祇园。\n天子对佛说：「世尊已经开示了比丘的相状，却还没说对比丘的教诫。」佛说：「迦叶！那就由你来说。」\n天子说偈：「应当学善于言说，亲近沙门；独自坐在静处，让心寂定。」\n世尊表示印可。天子知道佛已印可，欢喜顶礼，右绕佛后隐没。",
+  "notes": "本经 SC 平行表所列平行及 `raw_aligned_data.json` 内之巴利本文、Sujato 英译并用以厘定法义；求那跋陀罗汉本用于定位经文与传统术语。confidence=high：primary SN2.1 Paṭhamakassapasutta。汉偈（正念解脱、坏有等）与巴利异；据 SN 校正为四事教诫：subhāsita／samaṇūpāsana／ekāsana raho／cittavūpasama。gold_reconstructed。",
+  "review_status": "gold_reconstructed",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "high",
+  "prior_review_status": "needs_revision",
+  "reconstruction_basis": "汉偈与 SN2.1 异，据巴利四事教诫（善说／亲近沙门／独坐静处／心寂）改写。",
+  "similarity_to_source": 0.114,
+  "paragraph_parallel": true
+}

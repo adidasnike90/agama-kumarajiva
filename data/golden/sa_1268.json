@@ -1,0 +1,53 @@
+{
+  "id": "SA_1268",
+  "uid": "sa1268",
+  "title": "雜阿含經  卷第五十  雜相應  （1268）  解陀",
+  "chinese_text": "如是我聞：\n\n一時，佛住舍衛國祇樹給孤獨園。時，有一天子，容色絕妙，於後夜時來詣佛所，稽首佛足，退坐一面。其身光明遍照祇樹給孤獨園。\n\n時，彼天子白佛言：「比丘知一切眾生所著、所集，決定解脫、廣解脫、極廣解脫耶？」\n\n佛告天子：「我悉知一切眾生所著、所集，決定解脫、廣解脫、極廣解脫。」天子白佛：「比丘云何知一切眾生所著、所集，決定解脫、廣解脫、極廣解脫？」\n\n佛告天子：「愛喜滅盡，我心解脫；心解脫已，故知一切眾生所著、所集，決定解脫、廣解脫、極廣解脫。」\n\n時，彼天子復說偈言：\n\n「久見婆羅門，　　逮得般涅槃，\n\n　一切怖已過，　　永超世恩愛。」\n\n時，彼天子聞佛所說，歡喜隨喜，稽首佛足，即沒不現。",
+  "english_sa_text": "",
+  "parallels": [
+    {
+      "uid": "sa-2.179",
+      "acronym": "SA2 179",
+      "root_lang": "lzh",
+      "original_title": "解陀",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "sn1.2",
+      "acronym": "SN 1.2",
+      "root_lang": "pli",
+      "original_title": "Nimokkhasutta",
+      "translated_title": "Emancipation",
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    }
+  ],
+  "primary_sn_uid": "sn1.2",
+  "pali_text": "Sāvatthinidānaṁ. Atha kho aññatarā devatā abhikkantāya rattiyā abhikkantavaṇṇā kevalakappaṁ jetavanaṁ obhāsetvā yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṁ abhivādetvā ekamantaṁ aṭṭhāsi. Ekamantaṁ ṭhitā kho sā devatā bhagavantaṁ etadavoca: “Jānāsi no tvaṁ, mārisa, sattānaṁ nimokkhaṁ pamokkhaṁ vivekan”ti? “Jānāmi khvāhaṁ, āvuso, sattānaṁ nimokkhaṁ pamokkhaṁ vivekan”ti. “Yathākathaṁ pana tvaṁ, mārisa, jānāsi sattānaṁ nimokkhaṁ pamokkhaṁ vivekan”ti? “Nandībhavaparikkhayā, Saññāviññāṇasaṅkhayā; Vedanānaṁ nirodhā upasamā, Evaṁ khvāhaṁ āvuso jānāmi; Sattānaṁ nimokkhaṁ pamokkhaṁ vivekan”ti.",
+  "english_sn_text": "At Sāvatthī. Then, late at night, a glorious deity, lighting up the entire Jeta’s Grove, went up to the Buddha, bowed, stood to one side, and said to him, “Good fellow, do you know the liberation, emancipation, and seclusion of sentient beings?” “I do, good sir.” “But how is it that you know the liberation, emancipation, and seclusion of sentient beings?” “Due to the ending of relish for rebirth; due to the finishing of perception and consciousness; due to the cessation and stilling of feelings— that, respectable sir, is how I know the liberation, emancipation, and seclusion of sentient beings.”",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa1201-1300/sa1268_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa1201-1300/sa1268_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛住舍卫国祇树给孤独园。\n时有一天子，容色绝妙，于后夜来诣佛所，稽首佛足，退坐一面；身诸光明遍照祇树给孤独园。\n天子白佛：「比丘知众生解脱、遍解脱、远离不？」佛言：「知。」「云何知？」「爱喜有尽，想与识尽，诸受灭息，我如是知众生解脱、遍解脱、远离。」\n天子说偈：「久见婆罗门，逮得般涅槃；一切怖已过，永超世恩爱。」\n时彼天子闻佛所说，欢喜随喜，稽首佛足，即没不现。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在舍卫国祇树给孤独园。\n那时有一位天子，容色绝妙，后夜来到佛前，稽首佛足，退坐一面；身上的光明照遍祇树给孤独园。\n天子问佛：「比丘知道众生的解脱、遍解脱、远离吗？」佛说：「知道。」「怎样知道？」「爱喜于有尽了，想与识尽了，诸受灭息，我这样知道众生的解脱、遍解脱、远离。」\n天子说偈：「久见婆罗门，逮得般涅槃；一切怖已过，永超世恩爱。」\n那时天子听佛所说，欢喜随喜，稽首佛足，随即隐没不见。",
+  "notes": "本经 SC 平行表所列平行及 `raw_aligned_data.json` 内之巴利本文、Sujato 英译并用以厘定法义；求那跋陀罗汉本用于定位经文与传统术语。confidence=high：primary SN1.2 Nimokkhasutta。据 SN：nandībhavaparikkhaya／saññāviññāṇasaṅkhaya／vedanānirodha；汉「爱喜灭尽，我心解脱」收束为有爱尽＋想识尽＋受灭。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "high",
+  "prior_review_status": "needs_revision",
+  "similarity_to_source": 0.266,
+  "paragraph_parallel": true
+}

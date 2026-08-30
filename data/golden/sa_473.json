@@ -1,0 +1,116 @@
+{
+  "id": "SA_473",
+  "uid": "sa473",
+  "title": "雜阿含經  卷第十九  受相應  （473）  禪",
+  "chinese_text": "如是我聞：\n\n一時，佛住王舍城迦蘭陀竹園。\n\n時，有異比丘獨一靜處禪思，念言：「世尊說三受——樂受、苦受、不苦不樂受，又說諸所有受悉皆是苦，此有何義？」是比丘作是念已，從禪起，往詣佛所，稽首禮足，退住一面，白佛言：「世尊！我於靜處禪思，念言：『世尊說三受——樂受、苦受、不苦不樂受，又說諸所有受悉皆是苦，此有何義？』」\n\n佛告比丘：「我以一切行無常故，一切諸行變易法故，說諸所有受悉皆是苦。」\n\n爾時，世尊即說偈言：\n\n「知諸行無常，　　皆是變易法，\n\n　故說受悉苦，　　正覺之所知。\n\n　比丘勤方便，　　正智不傾動，\n\n　於諸一切受，　　黠慧能了知。\n\n　悉知諸受已，　　現法盡諸漏，\n\n　身死不墮數，　　永處般涅槃。」\n\n佛說是經已，諸比丘聞佛所說，歡喜奉行。",
+  "english_sa_text": "",
+  "parallels": [
+    {
+      "uid": "sa474",
+      "acronym": "SA 474",
+      "root_lang": "lzh",
+      "original_title": "止息",
+      "translated_title": "Subsiding",
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "sn36.11",
+      "acronym": "SN 36.11",
+      "root_lang": "pli",
+      "original_title": "Rahogatasutta",
+      "translated_title": "Alone",
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "sn36.1",
+      "acronym": "SN 36.1",
+      "root_lang": "pli",
+      "original_title": "Samādhisutta",
+      "translated_title": "Concentration",
+      "type": "full",
+      "resembling": true,
+      "remark": null
+    },
+    {
+      "uid": "sn36.15",
+      "acronym": "SN 36.15",
+      "root_lang": "pli",
+      "original_title": "Paṭhamaānandasutta",
+      "translated_title": "Ānanda (1)",
+      "type": "full",
+      "resembling": true,
+      "remark": null
+    },
+    {
+      "uid": "sn36.16",
+      "acronym": "SN 36.16",
+      "root_lang": "pli",
+      "original_title": "Dutiyaānandasutta",
+      "translated_title": "Ānanda (2)",
+      "type": "full",
+      "resembling": true,
+      "remark": null
+    },
+    {
+      "uid": "sn36.17",
+      "acronym": "SN 36.17",
+      "root_lang": "pli",
+      "original_title": "Paṭhamasambahulasutta",
+      "translated_title": "A Number of Bhikkhus",
+      "type": "full",
+      "resembling": true,
+      "remark": null
+    },
+    {
+      "uid": "sn36.18",
+      "acronym": "SN 36.18",
+      "root_lang": "pli",
+      "original_title": "Dutiyasambahulasutta",
+      "translated_title": null,
+      "type": "full",
+      "resembling": true,
+      "remark": null
+    },
+    {
+      "uid": "kv2.5",
+      "acronym": "Kv 2.5",
+      "root_lang": "pli",
+      "original_title": "Vacībhedakathā",
+      "translated_title": "Of Articulate Utterance During Ecstasy",
+      "type": "mention",
+      "resembling": false,
+      "remark": null
+    }
+  ],
+  "primary_sn_uid": "sn36.11",
+  "pali_text": "Atha kho aññataro bhikkhu yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṁ abhivādetvā ekamantaṁ nisīdi. Ekamantaṁ nisinno kho so bhikkhu bhagavantaṁ etadavoca: “idha mayhaṁ, bhante, rahogatassa paṭisallīnassa evaṁ cetaso parivitakko udapādi— tisso vedanā vuttā bhagavatā. Sukhā vedanā, dukkhā vedanā, adukkhamasukhā vedanā— imā tisso vedanā vuttā bhagavatā. Vuttaṁ kho panetaṁ bhagavatā: ‘yaṁ kiñci vedayitaṁ taṁ dukkhasmin’ti. Kiṁ nu kho etaṁ bhagavatā sandhāya bhāsitaṁ: ‘yaṁ kiñci vedayitaṁ taṁ dukkhasmin’”ti? “Sādhu sādhu, bhikkhu. Tisso imā, bhikkhu, vedanā vuttā mayā. Sukhā vedanā, dukkhā vedanā, adukkhamasukhā vedanā— imā tisso vedanā vuttā mayā. Vuttaṁ kho panetaṁ, bhikkhu, mayā: ‘yaṁ kiñci vedayitaṁ, taṁ dukkhasmin’ti. Taṁ kho panetaṁ, bhikkhu, mayā saṅkhārānaṁyeva aniccataṁ sandhāya bhāsitaṁ: ‘yaṁ kiñci vedayitaṁ taṁ dukkhasmin’ti. Taṁ kho panetaṁ, bhikkhu, mayā saṅkhārānaṁyeva khayadhammataṁ …pe… vayadhammataṁ …pe… virāgadhammataṁ …pe… nirodhadhammataṁ …pe… vipariṇāmadhammataṁ sandhāya bhāsitaṁ: ‘yaṁ kiñci vedayitaṁ taṁ dukkhasmin’ti. Atha kho pana, bhikkhu, mayā anupubbasaṅkhārānaṁ nirodho akkhāto. Paṭhamaṁ jhānaṁ samāpannassa vācā niruddhā hoti. Dutiyaṁ jhānaṁ samāpannassa vitakkavicārā niruddhā honti. Tatiyaṁ jhānaṁ samāpannassa pīti niruddhā hoti. Catutthaṁ jhānaṁ samāpannassa assāsapassāsā niruddhā honti. Ākāsānañcāyatanaṁ samāpannassa rūpasaññā niruddhā hoti. Viññāṇañcāyatanaṁ samāpannassa ākāsānañcāyatanasaññā niruddhā hoti. Ākiñcaññāyatanaṁ samāpannassa viññāṇañcāyatanasaññā niruddhā hoti. Nevasaññānāsaññāyatanaṁ samāpannassa ākiñcaññāyatanasaññā niruddhā hoti. Saññāvedayitanirodhaṁ samāpannassa saññā ca vedanā ca niruddhā honti. Khīṇāsavassa bhikkhuno rāgo niruddho hoti, doso niruddho hoti, moho niruddho hoti. Atha kho, bhikkhu, mayā anupubbasaṅkhārānaṁ vūpasamo akkhāto. Paṭhamaṁ jhānaṁ samāpannassa vācā vūpasantā hoti. Dutiyaṁ jhānaṁ samāpannassa vitakkavicārā vūpasantā honti …pe… saññāvedayitanirodhaṁ samāpannassa saññā ca vedanā ca vūpasantā honti. Khīṇāsavassa bhikkhuno rāgo vūpasanto hoti, doso vūpasanto hoti, moho vūpasanto hoti. Chayimā, bhikkhu, passaddhiyo. Paṭhamaṁ jhānaṁ samāpannassa vācā paṭippassaddhā hoti. Dutiyaṁ jhānaṁ samāpannassa vitakkavicārā paṭippassaddhā honti. Tatiyaṁ jhānaṁ samāpannassa pīti paṭippassaddhā hoti. Catutthaṁ jhānaṁ samāpannassa assāsapassāsā paṭippassaddhā honti. Saññāvedayitanirodhaṁ samāpannassa saññā ca vedanā ca paṭippassaddhā honti. Khīṇāsavassa bhikkhuno rāgo paṭippassaddho hoti, doso paṭippassaddho hoti, moho paṭippassaddho hotī”ti. Paṭhamaṁ.",
+  "english_sn_text": "Then a mendicant went up to the Buddha, bowed, sat down to one side, and said to him: “Just now, sir, as I was in private retreat this thought came to mind. The Buddha has spoken of three feelings. Pleasant, painful, and neutral feeling. These are the three feelings the Buddha has spoken of. But the Buddha has also said: ‘Suffering includes whatever is felt.’ What was the Buddha referring to when he said this?” “Good, good, mendicant! I have spoken of these three feelings. Pleasant, painful, and neutral feeling. These are the three feelings I have spoken of. But I have also said: ‘Suffering includes whatever is felt.’ When I said this I was referring to the impermanence of conditions, to the fact that conditions are liable to end, vanish, fade away, cease, and perish. But I have also explained the progressive cessation of activities. For someone who has attained the first absorption, speech has ceased. For someone who has attained the second absorption, the placing of the mind and keeping it connected have ceased. For someone who has attained the third absorption, rapture has ceased. For someone who has attained the fourth absorption, breathing has ceased. For someone who has attained the dimension of infinite space, the perception of form has ceased. For someone who has attained the dimension of infinite consciousness, the perception of the dimension of infinite space has ceased. For someone who has attained the dimension of nothingness, the perception of the dimension of infinite consciousness has ceased. For someone who has attained the dimension of neither perception nor non-perception, the perception of the dimension of nothingness has ceased. For someone who has attained the cessation of perception and feeling, perception and feeling have ceased. For a mendicant who has ended the defilements, greed, hate, and delusion have ceased. And I have also explained the progressive settling of activities. For someone who has attained the first absorption, speech has stilled. For someone who has attained the second absorption, the placing of the mind and keeping it connected have stilled. … For someone who has attained the cessation of perception and feeling, perception and feeling have stilled. For a mendicant who has ended the defilements, greed, hate, and delusion have stilled. There are these six levels of tranquility. For someone who has attained the first absorption, speech has been tranquilized. For someone who has attained the second absorption, the placing of the mind and keeping it connected have been tranquilized. For someone who has attained the third absorption, rapture has been tranquilized. For someone who has attained the fourth absorption, breathing has been tranquilized. For someone who has attained the cessation of perception and feeling, perception and feeling have been tranquilized. For a mendicant who has ended the defilements, greed, hate, and delusion have been tranquilized.”",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa401-500/sa473_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa401-500/sa473_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛在王舍城迦兰陀竹园。\n时，一比丘于静处思惟：「世尊说三受，又云一切受皆是苦——二说云何会？」起诣佛所，礼足白佛：「世尊！此义云何？」\n佛告：「以诸行无常、变易故，我说一切受皆是苦。」\n尔时，世尊即说偈言：\n「知诸行无常，皆是变易法，\n故说受悉苦，正觉之所知。\n比丘勤方便，正智不倾动，\n于此一切受，黠慧能了知。\n了知诸受故，现法尽诸漏，\n身死不堕数，永处般涅槃。」\n佛说此经已，诸比丘闻佛所说，欢喜奉行。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在王舍城迦兰陀竹园。\n当时，有一位比丘在静处禅思，心想：「世尊说三受——乐、苦、不苦不乐；又说一切所领受的皆是苦，这是什么意思？」从禅定中起来，到佛处，顶礼退坐，对佛说：「世尊！我在静处禅思，作此念——这是什么意思？」\n佛告诉比丘：「因为一切行无常、一切行是变易法，我说一切所领受的皆是苦。」\n那时，世尊就说偈：\n「知道诸行无常，都是变易法，\n所以说受皆是苦，是正觉所了知。\n比丘勤奋用功，正智不倾动，\n对于这一切受，聪明有智慧的人能够了知。\n了知诸受的缘故，现世尽诸漏，\n身死不落入名数，永远处于涅槃。」\n佛说完这部经，比丘们听佛所说，都欢喜奉行。",
+  "notes": "本经 SC 平行表所列平行及 `raw_aligned_data.json` 内之巴利本文、Sujato 英译并用以厘定法义；求那跋陀罗汉本用于定位经文与传统术语。confidence=high：primary SN36.11 Rahogata（比丘问段）。汉本较短，不含渐次寂灭／止息／轻安（属 SA474 阿难版）；偈据 SN impermanence 句＋受 gāthā。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "high",
+  "prior_review_status": "needs_revision",
+  "similarity_to_source": 0.301,
+  "paragraph_parallel": true,
+  "quality_gate_reasons": [
+    "lit_mod_gap=0.370>=0.1"
+  ]
+}

@@ -1,0 +1,32 @@
+% !TEX program = xelatex
+% 卷一样章 — 《杂阿含经·仿罗什风新译》研究译注本
+\documentclass[UTF8, zihao=-4, openany, fontset=none]{ctexbook}
+
+\input{preamble.tex}
+
+\title{\textbf{杂阿含经·仿罗什风新译}\\[0.5em]\large 研究译注本 · \textbf{卷第一 样章}\\[0.3em]\normalsize Saṃyukta Āgama — Kumarajiva-Style Research Translation}
+\author{Agama–Kumarajiva Project}
+\date{2026}
+
+\begin{document}
+
+\frontmatter
+\maketitle
+\tableofcontents
+\clearpage
+
+\input{frontmatter/preface.tex}
+\input{frontmatter/sources.tex}
+\input{frontmatter/principles.tex}
+\input{frontmatter/introduction.tex}
+
+\mainmatter
+\input{generated/juan_01.tex}
+
+\backmatter
+\chapter*{样章说明}
+\addcontentsline{toc}{chapter}{样章说明}
+\noindent 本书样章仅含 T99 第一卷（SA\_1–SA\_32，陰相應）。
+全经 1362 部见 \texttt{make book-export} 后编译 \texttt{main.tex}。
+
+\end{document}

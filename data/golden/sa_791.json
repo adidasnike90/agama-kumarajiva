@@ -1,0 +1,32 @@
+{
+  "id": "SA_791",
+  "uid": "sa791",
+  "title": "雜阿含經  卷第三十  聖道分相應  （791）  邪正",
+  "chinese_text": "如是我聞：\n\n一時，佛住舍衛國祇樹給孤獨園。\n\n爾時，世尊告諸比丘：「有邪、有邪道，有正、有正道。諦聽，善思，當為汝說。何等為邪？謂地獄、畜生、餓鬼。何等為邪道？謂殺、盜、邪婬、妄語、兩舌、惡口、綺語、貪、恚、邪見。何等為正？謂人、天、涅槃。何等為正道？謂不殺、不盜、不邪婬、不妄語、不兩舌、不惡口、不綺語、無貪、無恚、正見。」\n\n佛說此經已，諸比丘聞佛所說，歡喜奉行。",
+  "english_sa_text": "",
+  "parallels": [],
+  "primary_sn_uid": null,
+  "pali_text": "",
+  "english_sn_text": "",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa701-800/sa791_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa701-800/sa791_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛住舍卫国祇树给孤独园。\n尔时世尊告诸比丘：「有邪、有邪道，有正、有正道。谛听，善思，当为汝说。何等为邪？谓地狱、畜生、饿鬼。何等为邪道？谓杀生、不与取、邪淫、妄语、两舌、恶口、绮语、贪、瞋、邪见。何等为正？谓人、天、涅槃。何等为正道？谓不杀生、不与取、不邪淫、不妄语、不两舌、不恶口、不绮语、无贪、无瞋、正见。」\n佛说此经已，诸比丘闻佛所说，欢喜奉行。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在舍卫国祇树给孤独园。\n那时世尊告诉比丘们：「有邪、有邪道，有正、有正道。仔细听，好好想，我当为你们说。什么是邪？就是地狱、畜生、饿鬼。什么是邪道？就是杀生、不与取、邪淫、妄语、两舌、恶口、绮语、贪、瞋、邪见。什么是正？就是人、天、涅槃。什么是正道？就是不杀生、不与取、不邪淫、不妄语、不两舌、不恶口、不绮语、无贪、无瞋、正见。」\n佛说完这部经，比丘们听佛所说，都欢喜奉行。",
+  "notes": "SC 于本经未列可靠巴利平行，故唯以汉本为底，参同相应之巴利定型语厘义；依项目规约「无可靠平行时 confidence 降为 medium/low」。confidence=medium：近 SN45.21 Micchatta／十业道框架；汉以三恶趣／人天涅槃配十不善／十善，非八支道本经；不杀等作「不与取」以合早期术语。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "medium",
+  "prior_review_status": "needs_revision",
+  "similarity_to_source": 0.367,
+  "paragraph_parallel": true
+}

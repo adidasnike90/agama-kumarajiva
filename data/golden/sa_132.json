@@ -1,0 +1,32 @@
+{
+  "id": "SA_132",
+  "uid": "sa132",
+  "title": "雜阿含經  卷第七  斷知相應  （132）  不習近",
+  "chinese_text": "如是我聞：\n\n一時，佛住舍衛國祇樹給孤獨園。\n\n爾時，世尊告諸比丘：「若沙門、婆羅門於色不習近者，不隨魔自在，不入魔手，不隨魔所欲，非魔縛所縛，解脫魔繫；不習受、想、行、識亦復如是。」\n\n佛說此經已，諸比丘聞佛所說，歡喜奉行。\n\n乃至吐色亦復如是。",
+  "english_sa_text": "Saṁyuktāgama\n\n132. [Discourse on Not Becoming Habituated]\n\nThus have I heard. At one time the Buddha was staying at Sāvatthī in Jeta's Grove, Anāthapiṇḍika's Park.\n\nAt that time the Blessed One said to the monks: “If a recluse or Brahmin does not become habituated to bodily form, then he does not follow Māra's power, does not go into Māra's hand, does not follow Māra's wishes, is not bound by Māra's bondage, and is free from Māra's fetters. Not becoming habituated to feeling … perception … formations … consciousness is also like this.\n\nWhen the Buddha had spoken this discourse, hearing what the Buddha had said the monks were delighted and received it respectfully.\n\nUp to “vomiting out bodily form” is also like this.\n\nTranslated by Bhikkhu Anālayo. Originally published in ‘On Rādha and Views – A Translation of Saṁyukta-āgama Discourses 111 to 138 (Fascicle 6)’, Dharma Drum Journal of Buddhist Studies, 2015, vol. 17 pp. 1–42.\n\nPrepared for SuttaCentral by Seniya Ariyakumara and Ayya Vimala.",
+  "parallels": [],
+  "primary_sn_uid": null,
+  "pali_text": "",
+  "english_sn_text": "",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa101-200/sa132_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa101-200/sa132_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时佛在舍卫国祇树给孤独园。\n尔时世尊告诸比丘：若沙门、婆罗门于色不习近者，不随魔自在，不入魔手，不随魔所欲，不为魔缚所缚，解脱魔系；于受、想、行、识不习近者亦复如是。\n佛说此经已，诸比丘闻佛所说，欢喜奉行。\n如说「不习近」，如是不习著、不味著、不决定染著、不止住、不受驱役、不趣向、不撰择、能舍、能吐者，亦复如是。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在舍卫国祇树给孤独园。\n那时，世尊告诉比丘们：如果沙门、婆罗门对色不亲近沾染，就不任凭魔摆布，不落入魔手，不随魔所欲，不被魔的系缚所缚，解脱魔的系缚；对受、想、行、识不亲近沾染的，也是一样。\n佛说完这部经，比丘们听佛所说，都欢喜奉行。\n像说「不亲近沾染」一样，不习著、不贪味、不决定染著、不停住其中、不被它驱役、不趣向它、不拣择它、能够舍离、能够吐出的人，也都是这样。",
+  "notes": "无 SC 主平行；为前经（SA_131）之正面说，义近 SN22.63–65 之反面（anupādiyaṁ na baddho mārassa）。底本末「乃至吐色亦復如是」为略语，今依前经诸门次第展开，不出其外。confidence=medium。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "medium",
+  "prior_review_status": "needs_revision",
+  "similarity_to_source": 0.265,
+  "paragraph_parallel": true
+}

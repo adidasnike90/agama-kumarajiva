@@ -1,0 +1,54 @@
+{
+  "id": "SA_739",
+  "uid": "sa739",
+  "title": "雜阿含經  卷第二十九  覺支相應  （739）  果報",
+  "chinese_text": "如是我聞：\n\n一時，佛住舍衛國祇樹給孤獨園。\n\n爾時，世尊告諸比丘……如上說。差別者：「若比丘修習七覺分，多修習已，當得四果。何等為四？謂須陀洹果、斯陀含果、阿那含果、阿羅漢果。」\n\n佛說此經已，諸比丘聞佛所說，歡喜奉行。",
+  "english_sa_text": "",
+  "parallels": [
+    {
+      "uid": "sa648",
+      "acronym": "SA 648",
+      "root_lang": "lzh",
+      "original_title": "略說",
+      "translated_title": null,
+      "type": "full",
+      "resembling": true,
+      "remark": null
+    },
+    {
+      "uid": "sn48.12",
+      "acronym": "SN 48.12",
+      "root_lang": "pli",
+      "original_title": "Paṭhamasaṁkhittasutta",
+      "translated_title": null,
+      "type": "full",
+      "resembling": true,
+      "remark": null
+    }
+  ],
+  "primary_sn_uid": "sn48.12",
+  "pali_text": "“Pañcimāni, bhikkhave, indriyāni. Katamāni pañca? Saddhindriyaṁ …pe… paññindriyaṁ— imāni kho, bhikkhave, pañcindriyāni. Imesaṁ kho, bhikkhave, pañcannaṁ indriyānaṁ samattā paripūrattā arahaṁ hoti, tato mudutarehi anāgāmī hoti, tato mudutarehi sakadāgāmī hoti, tato mudutarehi sotāpanno hoti, tato mudutarehi dhammānusārī hoti, tato mudutarehi saddhānusārī hotī”ti. Dutiyaṁ.",
+  "english_sn_text": "“Mendicants, there are these five faculties. What five? The faculties of faith, energy, mindfulness, immersion, and wisdom. These are the five faculties. Someone who has completed and fulfilled these five faculties is a perfected one. If they are weaker than that, they’re a non-returner. If they are weaker still, they’re a once-returner. If they are weaker still, they’re a stream-enterer. If they’re weaker still, they’re a follower of teachings. If they’re weaker still, they’re a follower by faith.”",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa701-800/sa739_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa701-800/sa739_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛住舍卫国祇树给孤独园。\n佛告比丘：「修习七觉支——念觉支、择法觉支、精进觉支、喜觉支、轻安觉支、定觉支、舍觉支——多修习已，当得四果：须陀洹果、斯陀含果、阿那含果、阿罗汉果。」\n佛说此经已，诸比丘闻佛所说，欢喜奉行。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在舍卫国祇树给孤独园。\n佛告诉比丘：「修习七觉支——念觉支、择法觉支、精进觉支、喜觉支、轻安觉支、定觉支、舍觉支——多多修习，当得四果：须陀洹果、斯陀含果、阿那含果、阿罗汉果。」\n佛说完这部经，比丘们听佛所说，都欢喜奉行。",
+  "notes": "本经 SC 平行表所列平行及 `raw_aligned_data.json` 内之巴利本文、Sujato 英译并用以厘定法义；求那跋陀罗汉本用于定位经文与传统术语。confidence=high：与 SA_735 同四果；告大众。gold_reconstructed：peyyāla「如上说」→列七支＋四果。",
+  "review_status": "gold_reconstructed",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "high",
+  "prior_review_status": "needs_revision",
+  "reconstruction_basis": "peyyāla「如上说」→ 七支＋四果",
+  "similarity_to_source": 0.292,
+  "paragraph_parallel": true
+}

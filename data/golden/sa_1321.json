@@ -1,0 +1,53 @@
+{
+  "id": "SA_1321",
+  "uid": "sa1321",
+  "title": "雜阿含經  卷第五十  夜叉相應  （1321）  賓伽羅",
+  "chinese_text": "如是我聞：\n\n一時，佛住王舍城迦蘭陀竹園。\n\n時，尊者阿那律陀於摩竭提國人間遊行，到畢陵伽鬼子母住處宿。時，尊者阿那律陀夜後分時，端身正坐，誦憂陀那、波羅延那、見真諦、諸上座所說偈、比丘尼所說偈、尸路偈、義品、牟尼偈、修多羅，悉皆廣誦。\n\n爾時，畢陵伽鬼子夜啼，畢陵伽鬼子母為其子說偈呵止言：\n\n「畢陵伽鬼子，　　汝今莫得啼，\n\n　當聽彼比丘，　　誦習法句偈。\n\n　若知法句者，　　能自護持戒，\n\n　遠離於殺生，　　實言不妄語，\n\n　能自捨非義，　　解脫鬼神道。」\n\n畢陵伽鬼子母說是偈時，畢陵伽鬼子啼聲即止。",
+  "english_sa_text": "",
+  "parallels": [
+    {
+      "uid": "sa-2.320",
+      "acronym": "SA2 320",
+      "root_lang": "lzh",
+      "original_title": "賓伽羅",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "sn10.6",
+      "acronym": "SN 10.6",
+      "root_lang": "pli",
+      "original_title": "Piyaṅkarasutta",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    }
+  ],
+  "primary_sn_uid": "sn10.6",
+  "pali_text": "Ekaṁ samayaṁ āyasmā anuruddho sāvatthiyaṁ viharati jetavane anāthapiṇḍikassa ārāme. Tena kho pana samayena āyasmā anuruddho rattiyā paccūsasamayaṁ paccuṭṭhāya dhammapadāni bhāsati. Atha kho piyaṅkaramātā yakkhinī puttakaṁ evaṁ tosesi: “Mā saddaṁ kari piyaṅkara, Bhikkhu dhammapadāni bhāsati; Api ca dhammapadaṁ vijāniya, Paṭipajjema hitāya no siyā. Pāṇesu ca saṁyamāmase, Sampajānamusā na bhaṇāmase; Sikkhema susīlyamattano, Api muccema pisācayoniyā”ti.",
+  "english_sn_text": "At one time Venerable Sāriputta was staying near Sāvatthī in Jeta’s Grove, Anāthapiṇḍika’s monastery. Now at that time Venerable Anuruddha rose at the crack of dawn and recited passages of the teaching. Then the native spirit Piyaṅkara’s Mother soothed her little child, saying: “Don’t make a sound, Piyaṅkara! A mendicant recites passages of the teaching. When we understand a passage, we can practice for our welfare. Let us restrain ourselves from harming living creatures, and speak no lying words. We should train ourselves well in ethics, and hopefully we’ll be freed from the goblin realm.”",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa1301-1400/sa1321_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa1301-1400/sa1321_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛住王舍城迦兰陀竹园。\n尊者阿那律于摩竭提人间游行，止毕陵伽鬼母住处。后夜端坐，广诵法句诸偈。\n毕陵伽鬼子夜啼，鬼母说偈止之：「毕陵伽！莫啼。当听比丘诵法句。若解法句，当护戒、离杀、不妄语，自修善戒，冀脱鬼神趣。」\n说是偈时，鬼子啼声即止。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在王舍城迦兰陀竹园。\n阿那律尊者在摩竭提一带游行，住在毕陵伽鬼母的住处。后夜端身正坐，广诵种种法句偈。\n毕陵伽鬼子夜里哭闹，鬼母说偈哄他：「毕陵伽！别哭。听听比丘诵的法句。若懂得法句，就应当护戒、不杀生、不妄语，好好学自己的戒行，但愿能脱出鬼神道。」\n说完这偈，鬼子的哭声就停了。",
+  "notes": "本经 SC 平行表所列平行及 `raw_aligned_data.json` 内之巴利本文、Sujato 英译并用以厘定法义；求那跋陀罗汉本用于定位经文与传统术语。confidence=high：primary SN10.6 Piyaṅkarasutta。据 SN：听法句、护生、不妄语、学善戒，冀 muccema pisācayoni；汉「忧陀那、波罗延…」等诵目压缩为「法句诸偈」。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "high",
+  "prior_review_status": "needs_revision",
+  "similarity_to_source": 0.103,
+  "paragraph_parallel": true
+}

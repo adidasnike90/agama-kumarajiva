@@ -1,0 +1,54 @@
+{
+  "id": "SA_1210",
+  "uid": "sa1210",
+  "title": "雜阿含經  卷第五十  比丘尼相應  （1210）  舍利弗",
+  "chinese_text": "如是我聞：\n\n一時，佛住瞻婆國揭伽池側。\n\n時，尊者舍利弗在供養堂，有眾多比丘集會而為說法，句味滿足，辯才簡淨，易解樂聞，不閡不斷，深義顯現。彼諸比丘專至樂聽，尊重憶念，一心側聽。\n\n時，尊者婆耆舍在於會中，作是念：「我當於尊者舍利弗面前說偈讚歎。」作是念已，即起，合掌白尊者舍利弗：「我欲有所說。」\n\n舍利弗告言：「隨所樂說！」\n\n尊者婆耆舍即說偈言：\n\n「善能略說法，　　令眾廣開解，\n\n　賢優婆提舍，　　於大眾宣暢。\n\n　當所說法時，　　咽喉出美聲，\n\n　悅樂愛念聲，　　調和漸進聲。\n\n　聞聲皆欣樂，　　專念不移轉。」\n\n尊者婆耆舍說此語時，諸比丘聞其所說，皆大歡喜。",
+  "english_sa_text": "",
+  "parallels": [
+    {
+      "uid": "sa-2.226",
+      "acronym": "SA2 226",
+      "root_lang": "lzh",
+      "original_title": "舍利弗",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "sn8.6",
+      "acronym": "SN 8.6",
+      "root_lang": "pli",
+      "original_title": "Sāriputtasutta",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    }
+  ],
+  "primary_sn_uid": "sn8.6",
+  "pali_text": "Ekaṁ samayaṁ āyasmā sāriputto sāvatthiyaṁ viharati jetavane anāthapiṇḍikassa ārāme. Tena kho pana samayena āyasmā sāriputto bhikkhū dhammiyā kathāya sandasseti samādapeti samuttejeti sampahaṁseti poriyā vācāya vissaṭṭhāya anelagalāya atthassa viññāpaniyā. Te ca bhikkhū aṭṭhiṁ katvā manasi katvā sabbacetasā samannāharitvā ohitasotā dhammaṁ suṇanti. Atha kho āyasmato vaṅgīsassa etadahosi: “ayaṁ kho āyasmā sāriputto bhikkhū dhammiyā kathāya sandasseti samādapeti samuttejeti sampahaṁseti poriyā vācāya vissaṭṭhāya anelagalāya atthassa viññāpaniyā. Te ca bhikkhū aṭṭhiṁ katvā manasi katvā sabbacetasā samannāharitvā ohitasotā dhammaṁ suṇanti. Yannūnāhaṁ āyasmantaṁ sāriputtaṁ sammukhā sāruppāhi gāthāhi abhitthaveyyan”ti. Atha kho āyasmā vaṅgīso uṭṭhāyāsanā ekaṁsaṁ uttarāsaṅgaṁ karitvā yenāyasmā sāriputto tenañjaliṁ paṇāmetvā āyasmantaṁ sāriputtaṁ etadavoca: “paṭibhāti maṁ, āvuso sāriputta, paṭibhāti maṁ, āvuso sāriputtā”ti. “Paṭibhātu taṁ, āvuso vaṅgīsā”ti. Atha kho āyasmā vaṅgīso āyasmantaṁ sāriputtaṁ sammukhā sāruppāhi gāthāhi abhitthavi: “Gambhīrapañño medhāvī, maggāmaggassa kovido; Sāriputto mahāpañño, dhammaṁ deseti bhikkhunaṁ. Saṅkhittenapi deseti, vitthārenapi bhāsati; Sāḷikāyiva nigghoso, paṭibhānaṁ udīrayi. Tassa taṁ desayantassa, suṇanti madhuraṁ giraṁ; Sarena rajanīyena, savanīyena vaggunā; Udaggacittā muditā, sotaṁ odhenti bhikkhavo”ti.",
+  "english_sn_text": "At one time Venerable Sāriputta was staying near Sāvatthī in Jeta’s Grove, Anāthapiṇḍika’s monastery. Now at that time Venerable Sāriputta was educating, encouraging, firing up, and inspiring the mendicants in the assembly hall with a Dhamma talk. His words were polished, clear, articulate, and expressed the meaning. And those mendicants were paying attention, applying the mind, concentrating wholeheartedly, and actively listening. Then Venerable Vaṅgīsa thought, “This Venerable Sāriputta is educating the mendicants. … And those mendicants are paying attention, applying the mind, concentrating wholeheartedly, and actively listening. Why don’t I extoll him in his presence with fitting verses?” Then Venerable Vaṅgīsa rose from his seat, arranged his robe over one shoulder, raised his cupped palms toward Sāriputta, and said, “I feel inspired to speak, Reverend Sāriputta! I feel inspired to speak, Reverend Sāriputta!” “Then speak as you feel inspired,” said Sāriputta. Then Vaṅgīsa extolled Sāriputta in his presence with fitting verses: “Deep in wisdom, intelligent, expert in the path and what is not the path; Sāriputta, so greatly wise, teaches Dhamma to the mendicants. He teaches in brief, or he speaks at length. His call, like a myna bird, overflows with eloquence. While he teaches the mendicants listen to his sweet voice, sounding attractive, clear and graceful. They listen joyfully, their hearts elated.”",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa1201-1300/sa1210_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa1201-1300/sa1210_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛住舍卫国祇树给孤独园。\n时尊者舍利弗于堂上为诸比丘说法：言辞善练、明了、畅达、能显义；诸比丘专心侧听。\n婆耆舍念当面前赞之，起白舍利弗欲说；舍利弗听许。\n即说偈：「深慧聪敏，善知道非道；大慧舍利弗，为比丘说法。或略或广；如鹦鹉声，辩才流出。说时闻其美声——可意、清澈、柔和；诸比丘心喜，倾耳而听。」\n诸比丘闻已，皆大欢喜。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在舍卫国祇树给孤独园。\n那时尊者舍利弗在堂上为比丘们说法：言辞熟练、清楚、流畅、能把义理说明白；比丘们都专心侧耳听着。\n婆耆舍心想应当当面赞叹，起身向舍利弗请求；舍利弗答应了。\n便说偈：「智慧深、聪明，善于知道什么是道、什么不是道；大智慧的舍利弗，为比丘说法。有时简略，有时详细；像鹦鹉的叫声，辩才涌流出来。说法时人们听他甜美的声音——可意、清澈、柔和；比丘们心里欢喜，侧耳倾听。」\n比丘们听了，都大为欢喜。",
+  "notes": "本经 SC 平行表所列平行及 `raw_aligned_data.json` 内之巴利本文、Sujato 英译并用以厘定法义；求那跋陀罗汉本用于定位经文与传统术语。confidence=high：primary SN8.6 Sāriputtasutta。据 SN：住处祇园（汉作揭伽池侧，改正）；略广说法、鹦鹉声喻、美声倾耳从巴利。",
+  "review_status": "gold_reconstructed",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "high",
+  "prior_review_status": "needs_revision",
+  "reconstruction_basis": "住处据 SN 祇园（汉揭伽池）；鹦鹉声／略广从巴利。",
+  "similarity_to_source": 0.043,
+  "paragraph_parallel": true
+}

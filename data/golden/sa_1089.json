@@ -1,0 +1,53 @@
+{
+  "id": "SA_1089",
+  "uid": "sa1089",
+  "title": "雜阿含經  卷第四十七  魔相應  （1089）  大毒蛇",
+  "chinese_text": "如是我聞：\n\n一時，佛住王舍城耆闍崛山中。\n\n爾時，世尊夜起經行，至後夜時，洗足入房，正身端坐，繫念在前。\n\n時，魔波旬作是念：「今沙門瞿曇住王舍城耆闍崛山中，夜起經行，後夜入房，正身端坐，繫念在前。我今當往，為作留難。」即化作大龍，遶佛身七匝，舉頭臨佛頂上，身如大船，頭如大帆，眼如銅鑪，舌如曳電，出息入息若雷雹聲。\n\n爾時，世尊作是念：「惡魔波旬欲作嬈亂。」即說偈言：\n\n「猶如空舍宅，　　牟尼心虛寂，\n\n　於中而旋轉，　　佛身亦如是。\n\n　無量凶惡龍，　　蚊虻蠅蚤等，\n\n　普集食其身，　　不能動毛髮。\n\n　破裂於虛空，　　傾覆於大地，\n\n　一切眾生類，　　悉來作恐怖。\n\n　刀矛槍利箭，　　悉來害佛身，\n\n　如是諸暴害，　　不能傷一毛。」\n\n時，魔波旬作是念：「沙門瞿曇已知我心。」內懷憂慼，即沒不現。",
+  "english_sa_text": "",
+  "parallels": [
+    {
+      "uid": "sa-2.28",
+      "acronym": "SA2 28",
+      "root_lang": "lzh",
+      "original_title": "大毒蛇",
+      "translated_title": "Māra transforms himself into a snake to frighten the Buddha",
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "sn4.6",
+      "acronym": "SN 4.6",
+      "root_lang": "pli",
+      "original_title": "Sappasutta",
+      "translated_title": "Serpent",
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    }
+  ],
+  "primary_sn_uid": "sn4.6",
+  "pali_text": "Evaṁ me sutaṁ— ekaṁ samayaṁ bhagavā rājagahe viharati veḷuvane kalandakanivāpe. Tena kho pana samayena bhagavā rattandhakāratimisāyaṁ abbhokāse nisinno hoti, devo ca ekamekaṁ phusāyati. Atha kho māro pāpimā bhagavato bhayaṁ chambhitattaṁ lomahaṁsaṁ uppādetukāmo mahantaṁ sapparājavaṇṇaṁ abhinimminitvā yena bhagavā tenupasaṅkami. Seyyathāpi nāma mahatī ekarukkhikā nāvā; evamassa kāyo hoti. Seyyathāpi nāma mahantaṁ soṇḍikākiḷañjaṁ; evamassa phaṇo hoti. Seyyathāpi nāma mahatī kosalikā kaṁsapāti; evamassa akkhīni bhavanti. Seyyathāpi nāma deve gaḷagaḷāyante vijjullatā niccharanti; evamassa mukhato jivhā niccharati. Seyyathāpi nāma kammāragaggariyā dhamamānāya saddo hoti; evamassa assāsapassāsānaṁ saddo hoti. Atha kho bhagavā “māro ayaṁ pāpimā” iti viditvā māraṁ pāpimantaṁ gāthāhi ajjhabhāsi: “Yo suññagehāni sevati, Seyyā so muni attasaññato; Vossajja careyya tattha so, Patirūpañhi tathāvidhassa taṁ. Carakā bahū bheravā bahū, Atho ḍaṁsasarīsapā bahū; Lomampi na tattha iñjaye, Suññāgāragato mahāmuni. Nabhaṁ phaleyya pathavī caleyya, Sabbepi pāṇā uda santaseyyuṁ; Sallampi ce urasi pakappayeyyuṁ, Upadhīsu tāṇaṁ na karonti buddhā”ti. Atha kho māro pāpimā “jānāti maṁ bhagavā, jānāti maṁ sugato”ti dukkhī dummano tatthevantaradhāyīti.",
+  "english_sn_text": "So I have heard. At one time the Buddha was staying near Rājagaha in the Bamboo Grove, the squirrels’ feeding ground. Now at that time the Buddha was meditating in the open during the dark of night, while a gentle rain drizzled down. Then Māra the Wicked, wanting to make the Buddha feel fear, terror, and goosebumps, manifested in the form of a big cobra king and approached him. Its body was like a big canoe carved from a single tree. Its hood was like a large brewer’s sieve. Its eyes were like big bronze cups from Kosala. Its tongue flickered from its mouth like lightning flashes in a thunderstorm. The sound of its breathing was like the puffing of a blacksmith’s bellows. Then the Buddha, knowing that this was Māra the Wicked, replied to him in verse: “One who frequents empty buildings for lodging—that sage is self-restrained. It’s appropriate for that sort to live there after relinquishing. Though there are lots of creepy crawlies, and lots of flies and reptiles, they wouldn’t stir a hair of a great sage in that empty hut. Though the firmament may split and the earth may quake, and all creatures be stricken with fear; and even if an arrow’s aimed at their breast, the Buddhas take no shelter in attachments.” Then Māra the Wicked, thinking, “The Buddha knows me! The Holy One knows me!” miserable and sad, vanished right there.",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa1001-1100/sa1089_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa1001-1100/sa1089_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛住王舍城耆阇崛山中。\n世尊夜经行，后夜入房端坐。魔化大龙，绕佛七匝，举头临顶——身如大船，眼如铜炉，舌如电，息如雷。\n佛说偈：「牟尼心虚寂，如住空舍；恶龙蚊虻集身，不能动一毛。纵裂虚空、覆大地、众来恐吓、刀箭加害，亦不能伤佛一毛。」\n魔波旬念：「沙门已知我心。」忧惭即没。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在王舍城耆阇崛山中。\n世尊夜里经行，到后夜进房端坐。魔化作大龙，绕佛身七匝，把头举到佛顶上——身体像大船，眼睛像铜炉，舌头像闪电，呼吸像雷声。\n佛说偈：「牟尼的心虚寂，如同住在空屋；恶龙与蚊虻聚在身上，也动不了一根毛。纵使虚空破裂、大地倾覆、众生齐来恐吓、刀枪箭矢加害，也不能伤佛一根毛。」\n魔波旬心想：「沙门已经知道我的心。」忧愁惭愧，随即隐没不见。",
+  "notes": "本经 SC 平行表所列平行及 `raw_aligned_data.json` 内之巴利本文、Sujato 英译并用以厘定法义；求那跋陀罗汉本用于定位经文与传统术语。据 SN4.6 Sappa：魔化大毒蛇怖佛；空舍牟尼、不依著故不动。汉龙喻与巴利蛇王相应；删冗复恐吓句而保义。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "high",
+  "prior_review_status": "needs_revision",
+  "similarity_to_source": 0.094,
+  "paragraph_parallel": true
+}

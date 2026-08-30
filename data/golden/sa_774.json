@@ -1,0 +1,33 @@
+{
+  "id": "SA_774",
+  "uid": "sa774",
+  "title": "雜阿含經  卷第三十  聖道分相應  （774）  彼岸",
+  "chinese_text": "如是，異比丘問尊者阿難、問佛、問諸比丘，此三經亦如上說。",
+  "english_sa_text": "",
+  "parallels": [],
+  "primary_sn_uid": null,
+  "pali_text": "",
+  "english_sn_text": "",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa701-800/sa774_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa701-800/sa774_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛住舍卫国祇树给孤独园。\n尔时世尊告诸比丘：「云何非彼岸？云何彼岸？邪见、邪志、邪语、邪业、邪命、邪方便、邪念、邪定，非彼岸；正见、正志、正语、正业、正命、正方便、正念、正定，是彼岸。」并说彼岸偈。诸比丘闻佛所说，欢喜奉行。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在舍卫国祇树给孤独园。\n那时世尊告诉诸比丘：「什么是非彼岸？什么是彼岸？邪见、邪志、邪语、邪业、邪命、邪方便、邪念、邪定，是非彼岸；正见、正志、正语、正业、正命、正方便、正念、正定，是彼岸。」并说彼岸偈。比丘们听佛所说，都欢喜奉行。",
+  "notes": "本经 SC 平行表所列平行及 `raw_aligned_data.json` 内之巴利本文、Sujato 英译并用以厘定法义；求那跋陀罗汉本用于定位经文与传统术语。confidence=medium：底本仅「问诸比丘等三经亦如上说」peyyāla；据 SA771／SN45.34 补彼岸八支纲。reconstruction=问诸比丘 → 据 SA771／SN45.34 彼岸八支＋偈纲。",
+  "review_status": "gold_reconstructed",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "medium",
+  "prior_review_status": "needs_revision",
+  "reconstruction_basis": "问诸比丘 → 据 SA771／SN45.34 彼岸八支＋偈纲",
+  "similarity_to_source": 0.007,
+  "paragraph_parallel": true
+}

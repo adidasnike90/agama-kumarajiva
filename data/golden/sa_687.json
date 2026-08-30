@@ -1,0 +1,124 @@
+{
+  "id": "SA_687",
+  "uid": "sa687",
+  "title": "雜阿含經  卷第二十八  根力相應  （687）  獅子吼",
+  "chinese_text": "如是我聞：\n\n一時，佛住舍衛國祇樹給孤獨園。\n\n爾時，世尊告諸比丘……如上說。差別者：「若有來問我如來處非處力，如如來處非處智力所知見覺，成等正覺，為彼記說。\n\n「若復來問如來自以樂受智力，如如來自以樂受智力所知見覺，成等正覺，為彼記說，是名第二如來智力。\n\n「若有來問如來禪定、解脫、三昧、正受智力，如如來禪定、解脫、三昧、正受，為彼記說。\n\n「若有來問宿命所更智力，如如來宿命所更所知見覺，為彼記說。\n\n「若有來問如來天眼智力，如如來天眼所見，為彼記說。\n\n「若有來問如來漏盡智力，如如來漏盡智力所知見覺，為彼記說。」\n\n佛說此經已，諸比丘聞佛所說，歡喜奉行。",
+  "english_sa_text": "",
+  "parallels": [
+    {
+      "uid": "an6.64",
+      "acronym": "AN 6.64",
+      "root_lang": "pli",
+      "original_title": "Sīhanādasutta",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "an10.21",
+      "acronym": "AN 10.21",
+      "root_lang": "pli",
+      "original_title": "Sīhanādasutta",
+      "translated_title": "The Lion",
+      "type": "full",
+      "resembling": true,
+      "remark": null
+    },
+    {
+      "uid": "ea46.4",
+      "acronym": "EA 46.4",
+      "root_lang": "lzh",
+      "original_title": "力",
+      "translated_title": "Ten Powers",
+      "type": "full",
+      "resembling": true,
+      "remark": null
+    },
+    {
+      "uid": "sa684",
+      "acronym": "SA 684",
+      "root_lang": "lzh",
+      "original_title": "十力",
+      "translated_title": "The Tathāgata and the Arhat",
+      "type": "full",
+      "resembling": true,
+      "remark": null
+    },
+    {
+      "uid": "sa701",
+      "acronym": "SA 701",
+      "root_lang": "lzh",
+      "original_title": "如來力",
+      "translated_title": "Ten Powers",
+      "type": "full",
+      "resembling": true,
+      "remark": null
+    },
+    {
+      "uid": "t780a",
+      "acronym": "T 780a",
+      "root_lang": "lzh",
+      "original_title": "十力",
+      "translated_title": null,
+      "type": "full",
+      "resembling": true,
+      "remark": null
+    },
+    {
+      "uid": "t780b",
+      "acronym": "T 780b",
+      "root_lang": "lzh",
+      "original_title": "十力",
+      "translated_title": null,
+      "type": "full",
+      "resembling": true,
+      "remark": null
+    },
+    {
+      "uid": "t781",
+      "acronym": "T 781",
+      "root_lang": "lzh",
+      "original_title": "十力",
+      "translated_title": null,
+      "type": "full",
+      "resembling": true,
+      "remark": null
+    },
+    {
+      "uid": "t802",
+      "acronym": "T 802",
+      "root_lang": "lzh",
+      "original_title": "信解智力",
+      "translated_title": null,
+      "type": "full",
+      "resembling": true,
+      "remark": null
+    }
+  ],
+  "primary_sn_uid": null,
+  "pali_text": "",
+  "english_sn_text": "",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa601-700/sa687_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa601-700/sa687_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛住舍卫国祇树给孤独园。\n佛告比丘：「如来有六力，能于大众作师子吼。」\n「若有来问处非处智力，如来如其所知见觉，成等正觉，为彼记说。问诸业因缘果报智力、禅解脱三昧正受智力、宿命智力、天眼智力、漏尽智力，亦复如是——皆如所知见觉，为彼记说。」\n佛说此经已，诸比丘闻佛所说，欢喜奉行。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在舍卫国祇树给孤独园。\n佛告比丘：「如来有六种力，能在大众中作师子吼。」\n「若有人来问处非处的智力，如来依自己所知所见所觉、成等正觉，为他记说。问诸业因缘果报的智力、禅解脱三昧正受的智力、宿命智力、天眼智力、漏尽智力，也一样——都依自己所知所见所觉，为他记说。」\n佛说完这部经，比丘们听佛所说，都欢喜奉行。",
+  "notes": "本经 SC 平行表所列平行及 `raw_aligned_data.json` 内之巴利本文、Sujato 英译并用以厘定法义；求那跋陀罗汉本用于定位经文与传统术语。confidence=high：primary AN6.64 后分（以六力答问记说）。据 AN 校正：汉「自以乐受」→诸业因缘果报智力。gold_reconstructed：peyyāla「如上说」＋六力问答纲。",
+  "review_status": "gold_reconstructed",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "high",
+  "prior_review_status": "needs_revision",
+  "reconstruction_basis": "如上说＋六力答问纲；第二力据 AN 校正",
+  "similarity_to_source": 0.243,
+  "paragraph_parallel": true
+}

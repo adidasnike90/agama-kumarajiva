@@ -1,0 +1,43 @@
+{
+  "id": "SA_189",
+  "uid": "sa189",
+  "title": "雜阿含經  卷第九  六入處相應  （189）  正思惟",
+  "chinese_text": "如是我聞：\n\n一時，佛住舍衛國祇樹給孤獨園。\n\n爾時，世尊告諸比丘：「於眼當正思惟、觀察無常。所以者何？於眼正思惟、觀察無常故，於眼欲貪斷，欲貪斷故，我說心正解脫。耳、鼻、舌、身、意，正思惟、觀察故，欲貪斷，欲貪斷者，我說心正解脫。如是，比丘！心正解脫者，能自記說：『我生已盡，梵行已立，所作已作，自知不受後有。』」\n\n佛說此經已，諸比丘聞佛所說，歡喜奉行。",
+  "english_sa_text": "Saṁyuktāgama\n\n189. [Discourse on Right Attention]\n\nThus have I heard. At one time the Buddha was staying at Sāvatthī in Jeta’s Grove, Anāthapiṇḍika’s Park.\n\nAt that time the Blessed One said to the monks: “You should give right attention to the eye and examine it as impermanent. Why is that? Because of giving right attention to the eye and examining it as impermanent, desire and lust for the eye are abandoned. [Of one who] has abandoned desire and lust, I say, the mind is rightly liberated.\n\n“Because of giving right attention to the ear … the nose … the tongue … the body … the mind and examining it [as impermanent], desire and lust [for it] are abandoned. Of one who has abandoned desire and lust, I say, the mind is rightly liberated.\n\n“Monks, one whose mind is rightly liberated in this way is able to declare of himself: ‘Birth for me has been eradicated, the holy life has been established, what had to be done has been done, I myself know that there will be no receiving of any further existence.’”\n\nWhen the Buddha had spoken this discourse, hearing what the Buddha had said the monks were delighted and received it respectfully.\n\nTranslated by Bhikkhu Anālayo. Originally published in \"On the Six Sense-spheres (1) ―A Translation of Saṁyukta-āgama Discourses 188 to 229 (Fascicle 8)\", Dharma Drum Journal of Buddhist Studies, 2016, vol. 18 pp. 1–61.\n\nPrepared for SuttaCentral by Ayya Vimala.",
+  "parallels": [
+    {
+      "uid": "sn35.158",
+      "acronym": "SN 35.158",
+      "root_lang": "pli",
+      "original_title": "Ajjhattaaniccanandikkhayasutta",
+      "translated_title": null,
+      "type": "full",
+      "resembling": true,
+      "remark": null
+    }
+  ],
+  "primary_sn_uid": "sn35.158",
+  "pali_text": "“Cakkhuṁ, bhikkhave, yoniso manasi karotha, cakkhāniccatañca yathābhūtaṁ samanupassatha. Cakkhuṁ, bhikkhave, bhikkhu yoniso manasikaronto, cakkhāniccatañca yathābhūtaṁ samanupassanto cakkhusmimpi nibbindati. Nandikkhayā rāgakkhayo; rāgakkhayā nandikkhayo. Nandirāgakkhayā cittaṁ suvimuttanti vuccati. Sotaṁ, bhikkhave, yoniso manasi karotha … ghānaṁ … jivhaṁ, bhikkhave, yoniso manasi karotha, jivhāniccatañca yathābhūtaṁ samanupassatha. Jivhaṁ, bhikkhave, bhikkhu yoniso manasikaronto, jivhāniccatañca yathābhūtaṁ samanupassanto jivhāyapi nibbindati. Nandikkhayā rāgakkhayo; rāgakkhayā nandikkhayo. Nandirāgakkhayā cittaṁ suvimuttanti vuccati. Kāyaṁ … manaṁ, bhikkhave, yoniso manasi karotha, manāniccatañca yathābhūtaṁ samanupassatha. Manaṁ, bhikkhave, bhikkhu yoniso manasikaronto, manāniccatañca yathābhūtaṁ samanupassanto manasmimpi nibbindati. Nandikkhayā rāgakkhayo; rāgakkhayā nandikkhayo. Nandirāgakkhayā cittaṁ suvimuttanti vuccatī”ti. Tatiyaṁ.",
+  "english_sn_text": "“Mendicants, rationally apply the mind to the eye. Truly see the impermanence of the eye. When a mendicant does this, they grow disillusioned with the eye. When relishing ends, greed ends. When greed ends, relishing ends. When relishing and greed end, the mind is said to be well freed. Rationally apply the mind to the ear … nose … tongue … body … mind. Truly see the impermanence of the mind. When a mendicant does this, they grow disillusioned with the mind. When relishing ends, greed ends. When greed ends, relishing ends. When relishing and greed end, the mind is said to be well freed.”",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa101-200/sa189_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa101-200/sa189_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时佛在舍卫国祇树给孤独园。\n尔时世尊告诸比丘：于眼当如理作意，如实观其无常。何以故？于眼如理作意、观其无常故，则于眼生厌；厌故欲贪断，欲贪断故，我说是心善解脱。耳、鼻、舌、身、意亦复如是。\n如是，比丘！心善解脱者，能自记说：「我生已尽，梵行已立，所作已作，自知不受后有。」\n佛说此经已，诸比丘闻佛所说，欢喜奉行。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在舍卫国祇树给孤独园。\n那时，世尊告诉比丘们：对于眼，应当如理用心，如实观见它的无常。为什么呢？因为对眼如理用心、观见它的无常，便对眼生起厌离；厌离便断除了欲贪，欲贪断除了，我说这样的心是真正解脱的。耳、鼻、舌、身、意也是一样。\n就是这样，比丘们！心真正解脱的人，能够自己宣说：「我的生已尽，梵行已立，该做的已做，自知不再受后有。」\n佛说完这部经，比丘们听佛所说，都欢喜奉行。",
+  "notes": "本经 SC 平行表所列巴利平行及 `raw_aligned_data.json` 内之巴利本文、Sujato 英译，与 Anālayo 之 SA 英译（DDJBS 18, 2016, Fascicle 8）并用以厘定法义；求那跋陀罗汉本用于定位经文与传统术语。confidence=high（SC 标 SN35.158 为 resembling，其故同 SA_188：SN35.153–158 一系语面几同，非疑法义；所据之句巴利逐字可对）。信-校正二事：（一）底本「正思惟」易与八正道之「正志」（sammāsaṅkappa）相混，巴利实作 `cakkhuṁ yoniso manasi karotha`——yoniso manasikāra，谓「如理作意、循其根源而用心」（Sujato: rationally apply the mind；Anālayo: give right attention），与「正志」之思惟内容无关，今改作「如理作意」而于此志之。（二）底本自「正思惟观察无常」直跳「欲贪断」，脱去中间一支；巴利作 `…samanupassanto cakkhusmimpi nibbindati. nandikkhayā rāgakkhayo…`（观之则于眼生厌，厌故喜尽贪尽），今据补「则于眼生厌」一支，使因果链完足。「欲贪」即 nandirāga（喜贪）之意译，存底本语面。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "high",
+  "prior_review_status": "needs_revision",
+  "similarity_to_source": 0.382,
+  "paragraph_parallel": true
+}

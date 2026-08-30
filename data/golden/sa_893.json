@@ -1,0 +1,32 @@
+{
+  "id": "SA_893",
+  "uid": "sa893",
+  "title": "雜阿含經  卷第三十四  入界陰相應  （893）  五種種子",
+  "chinese_text": "如是我聞：\n\n一時，佛住舍衛國祇樹給孤獨園。\n\n爾時，世尊告諸比丘：「有五種種子生。何等為五？謂根種子、莖種子、節種子、枝種子、種種子。此諸種子不斷、不破、不腐、不傷、不穿堅，新得地界，不得水界，彼諸種子不得生長增廣；得水界，不得地界，彼諸種子不得生長增廣；要得地界、水界，彼諸種子得生長增廣。如是業，煩惱、有、愛、見、慢、無明而生行；若有業而無煩惱、愛、見、無明者，行則滅。」\n\n佛說此經已，諸比丘聞佛所說，歡喜奉行。\n\n如行，如是識、名色、六入處、觸、受、愛、取、有、生、老死，亦如是說。",
+  "english_sa_text": "",
+  "parallels": [],
+  "primary_sn_uid": null,
+  "pali_text": "",
+  "english_sn_text": "",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa801-900/sa893_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa801-900/sa893_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛住舍卫国祇树给孤独园。\n尔时世尊告诸比丘：「有五种子——根种、茎种、节种、枝种、种子。若种不断、不坏、不腐、不穿，得地不得水，不得生长；得水不得地，亦不得生长；地水俱得，乃得生长增广。如是：有业，而烦恼、爱、见、慢、无明未断，则行得生；若有业而无烦恼、爱、见、无明，行则灭。」\n如行，识、名色、六入处、触、受、爱、取、有、生、老死，亦如是说。\n佛说此经已，诸比丘闻佛所说，欢喜奉行。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在舍卫国祇树给孤独园。\n那时世尊告诉比丘们：「有五种种子——根种、茎种、节种、枝种、种子。如果种子不断、不坏、不腐、不破，有地没有水，不能生长；有水没有地，也不能生长；地和水都有，才能生长增广。同样：有业，而烦恼、爱、见、慢、无明还没断，诸行就会生起；如果有业却没有烦恼、爱、见、无明，诸行就会灭。」\n像行一样，识、名色、六入处、触、受、爱、取、有、生、老死，也可以这样说。\n佛说完这部经，比丘们听佛所说，都欢喜奉行。",
+  "notes": "SC 于本经未列可靠巴利平行，故唯以汉本为底，参同相应之巴利定型语厘义；依项目规约「无可靠平行时 confidence 降为 medium/low」。confidence=medium：喻近 SN22.54 Bīja（五种子＋地水）；汉以业／烦恼等生「行」而贯十二支，从汉框架，不整经改作「识住」。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "medium",
+  "prior_review_status": "needs_revision",
+  "similarity_to_source": 0.303,
+  "paragraph_parallel": true
+}

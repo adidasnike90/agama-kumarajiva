@@ -1,0 +1,63 @@
+{
+  "id": "SA_652",
+  "uid": "sa652",
+  "title": "雜阿含經  卷第二十七  根力相應  （652）  成",
+  "chinese_text": "如是我聞：\n\n一時，佛住舍衛國祇樹給孤獨園。\n\n爾時，世尊告諸比丘……如上說。差別者：「若比丘於此五根若利、若滿足，得阿羅漢。若軟、若劣，得阿那含。若軟、若劣，得斯陀含。若軟、若劣，得須陀洹。滿足者成滿足事，不滿足者成不滿足事，於此五根不空無果，若於此五根一切無者，我說彼為外道凡夫之數。」\n\n佛說此經已，諸比丘聞佛所說，歡喜奉行。",
+  "english_sa_text": "",
+  "parallels": [
+    {
+      "uid": "sn48.14",
+      "acronym": "SN 48.14",
+      "root_lang": "pli",
+      "original_title": "Tatiyasaṁkhittasutta",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "sn48.18",
+      "acronym": "SN 48.18",
+      "root_lang": "pli",
+      "original_title": "Paṭipannasutta",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "kv3.6",
+      "acronym": "Kv 3.6",
+      "root_lang": "pli",
+      "original_title": "Aṭṭhamakassaindriyakathā",
+      "translated_title": "Of the Controlling Powers of the Eighth Man",
+      "type": "mention",
+      "resembling": false,
+      "remark": null
+    }
+  ],
+  "primary_sn_uid": "sn48.14",
+  "pali_text": "“Pañcimāni, bhikkhave, indriyāni. Katamāni pañca? Saddhindriyaṁ …pe… paññindriyaṁ— imāni kho, bhikkhave, pañcindriyāni. Imesaṁ kho, bhikkhave, pañcannaṁ indriyānaṁ samattā paripūrattā arahaṁ hoti, tato mudutarehi anāgāmī hoti, tato mudutarehi sakadāgāmī hoti, tato mudutarehi sotāpanno hoti, tato mudutarehi dhammānusārī hoti, tato mudutarehi saddhānusārī hoti. Iti kho, bhikkhave, paripūraṁ paripūrakārī ārādheti, padesaṁ padesakārī ārādheti. ‘Avañjhāni tvevāhaṁ, bhikkhave, pañcindriyānī’ti vadāmī”ti. Catutthaṁ.",
+  "english_sn_text": "“Mendicants, there are these five faculties. What five? The faculties of faith, energy, mindfulness, immersion, and wisdom. These are the five faculties. Someone who has completed and fulfilled these five faculties is a perfected one. If they are weaker than that, they’re a non-returner … a once-returner … a stream-enterer … a follower of teachings … a follower by faith. So, mendicants, if you practice partially you succeed partially. If you practice fully you succeed fully. But in any case, these five faculties are not barren, I say.”",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa601-700/sa652_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa601-700/sa652_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛住舍卫国祇树给孤独园。\n佛告比丘：「有五根——信、精进、念、定、慧。于此五根圆满具足者，得阿罗汉；弱于此者，得阿那含；又弱者，得斯陀含；又弱者，得须陀洹；又弱者，是随法行；又弱者，是随信行。」\n「满足者成满足事，减缺者成减缺事；此五根终不空无果。若于此五根一切无有，我说彼在凡夫之数。」\n佛说此经已，诸比丘闻佛所说，欢喜奉行。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在舍卫国祇树给孤独园。\n佛告比丘：「有五根——信、精进、念、定、慧。这五根圆满具足的，得阿罗汉；比这弱的，得阿那含；再弱的，得斯陀含；再弱的，得须陀洹；再弱的，是随法行；再弱的，是随信行。」\n「满足的成就满足之事，减缺的成就减缺之事；这五根终不空无果。如果对这些五根一无所有，我说他算在凡夫之列。」\n佛说完这部经，比丘们听佛所说，都欢喜奉行。",
+  "notes": "本经 SC 平行表所列平行及 `raw_aligned_data.json` 内之巴利本文、Sujato 英译并用以厘定法义；求那跋陀罗汉本用于定位经文与传统术语。confidence=high：primary SN48.14 Saṁkhitta（五根强弱六阶＋不空无果）。据 SN 校正：汉仅四果 → 补随法行／随信行；保留汉「无诸根＝凡夫」。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "high",
+  "prior_review_status": "needs_revision",
+  "similarity_to_source": 0.216,
+  "paragraph_parallel": true
+}

@@ -1,0 +1,53 @@
+{
+  "id": "SA_1302",
+  "uid": "sa1302",
+  "title": "雜阿含經  卷第五十  雜相應  （1302）  尸毘",
+  "chinese_text": "如是我聞：\n\n一時，佛住舍衛國祇樹給孤獨園。\n\n時，有尸毘天子，容色絕妙，於後夜時來詣佛所，稽首佛足，退坐一面。其身光明遍照祇樹給孤獨園。\n\n時，彼尸毘天子說偈問佛：\n\n「何人應同止？　　何等人共事？\n\n　應知何等法，　　是轉勝非惡？」\n\n爾時，世尊說偈答言：\n\n「與正士同止，　　正士共其事，\n\n　應知正士法，　　是轉勝非惡。」\n\n時，彼尸毘天子聞佛所說，歡喜隨喜，稽首佛足，即沒不現。",
+  "english_sa_text": "",
+  "parallels": [
+    {
+      "uid": "sa-2.301",
+      "acronym": "SA2 301",
+      "root_lang": "lzh",
+      "original_title": "尸毘",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "sn2.21",
+      "acronym": "SN 2.21",
+      "root_lang": "pli",
+      "original_title": "Sivasutta",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    }
+  ],
+  "primary_sn_uid": "sn2.21",
+  "pali_text": "Evaṁ me sutaṁ— ekaṁ samayaṁ bhagavā sāvatthiyaṁ viharati jetavane anāthapiṇḍikassa ārāme. Atha kho sivo devaputto abhikkantāya rattiyā abhikkantavaṇṇo kevalakappaṁ jetavanaṁ obhāsetvā yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṁ abhivādetvā ekamantaṁ aṭṭhāsi. Ekamantaṁ ṭhito kho sivo devaputto bhagavato santike imā gāthāyo abhāsi: “Sabbhireva samāsetha, sabbhi kubbetha santhavaṁ; Sataṁ saddhammamaññāya, seyyo hoti na pāpiyo. Sabbhireva samāsetha, sabbhi kubbetha santhavaṁ; Sataṁ saddhammamaññāya, paññā labbhati nāññato. Sabbhireva samāsetha, sabbhi kubbetha santhavaṁ; Sataṁ saddhammamaññāya, sokamajjhe na socati. Sabbhireva samāsetha, sabbhi kubbetha santhavaṁ; Sataṁ saddhammamaññāya, ñātimajjhe virocati. Sabbhireva samāsetha, sabbhi kubbetha santhavaṁ; Sataṁ saddhammamaññāya, sattā gacchanti suggatiṁ. Sabbhireva samāsetha, sabbhi kubbetha santhavaṁ; Sataṁ saddhammamaññāya, sattā tiṭṭhanti sātatan”ti. Atha kho bhagavā sivaṁ devaputtaṁ gāthāya paccabhāsi: “Sabbhireva samāsetha, sabbhi kubbetha santhavaṁ; Sataṁ saddhammamaññāya, sabbadukkhā pamuccatī”ti.",
+  "english_sn_text": "So I have heard. At one time the Buddha was staying near Sāvatthī in Jeta’s Grove, Anāthapiṇḍika’s monastery. Then, late at night, the glorious godling Shiva, lighting up the entire Jeta’s Grove, went up to the Buddha, bowed, stood to one side, and recited these verses in the Buddha’s presence: “Associate only with the virtuous! Try to get close to the virtuous! Understanding the true teaching of the good, things get better, not worse. Associate only with the virtuous! Try to get close to the virtuous! Understanding the true teaching of the good, wisdom is gained—but not from anyone else. Associate only with the virtuous! Try to get close to the virtuous! Understanding the true teaching of the good, you grieve not among the grieving. Associate only with the virtuous! Try to get close to the virtuous! Understanding the true teaching of the good, you dazzle among your relatives. Associate only with the virtuous! Try to get close to the virtuous! Understanding the true teaching of the good, sentient beings go to a good place. Associate only with the virtuous! Try to get close to the virtuous! Understanding the true teaching of the good, sentient beings live happily.” Then the Buddha replied to Shiva in verse: “Associate only with the virtuous! Try to get close to the virtuous! Understanding the true teaching of the good, you’re released from all suffering.”",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa1301-1400/sa1302_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa1301-1400/sa1302_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛住舍卫国祇树给孤独园。\n后夜分，有尸毘天子容色绝妙，来诣佛所，稽首礼足，退坐一面；身诸光明遍照祇树给孤独园。\n尸毘天子说偈问：「何人应同止？何等人共事？应知何等法，是转胜非恶？」\n世尊说偈答：「与正士同止，与正士共事；应知正士法，是转胜非恶。」\n尸毘天子闻已欢喜，礼足即没。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在舍卫国祇树给孤独园。\n后夜分，有尸毘天子容色绝妙，来到佛前，顶礼佛足，退坐一面；身上的光明遍照祇树给孤独园。\n尸毘天子说偈问：「应当和什么人同住？应当和什么人共事？应当了知什么法，才会转向殊胜而不是恶劣？」\n世尊说偈答：「和正直的人同住，和正直的人共事；应当了知正直人的法，才会转向殊胜而不是恶劣。」\n尸毘天子听完欢喜随喜，顶礼佛足，随即隐没不见。",
+  "notes": "本经 SC 平行表所列平行及 `raw_aligned_data.json` 内之巴利本文、Sujato 英译并用以厘定法义；求那跋陀罗汉本用于定位经文与传统术语。confidence=high：primary SN2.21（Siva）；汉略为一问一答，巴利天子广说亲近善人诸益、佛答「解脱一切苦」。框从汉略本，「正士／正士法」据 SN sabbhi／sataṃ saddhamma。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "high",
+  "prior_review_status": "needs_revision",
+  "similarity_to_source": 0.327,
+  "paragraph_parallel": true
+}

@@ -1,0 +1,53 @@
+{
+  "id": "SA_932",
+  "uid": "sa932",
+  "title": "雜阿含經  卷第三十六  釋氏相應  （932）  十一",
+  "chinese_text": "如是我聞：\n\n一時，佛住迦毘羅衛國尼拘律園中。時，有眾多比丘集於食堂為世尊縫衣。\n\n時，釋氏摩訶男聞眾多比丘集於食堂為世尊縫衣，世尊不久三月安居訖，作衣竟，持衣鉢，人間遊行。聞已，往詣佛所，稽首佛足，退坐一面，白佛言：「世尊！我四體不攝，迷於四方，聞法悉忘。以聞眾多比丘集於食堂為世尊縫衣，世尊不久安居訖，作衣竟，持衣鉢，人間遊行，是故我今思惟：『何時當復得見世尊及諸知識比丘？』」\n\n佛告摩訶男：「汝正使見世尊、不見世尊，見諸知識比丘及與不見，但當念於五法，精勤修習。摩訶男！當以正信為主，非不正信；戒具足、聞具足、施具足、慧具足為本，非不智慧。如是，摩訶男！依此五法，修六念處。何等為六？此摩訶男！念如來，當如是念：『如來、應、等正覺，乃至佛世尊。』當念法、僧、戒、施、天事，乃至自行得智慧。如是，摩訶男！聖弟子成就十一法者，則為學跡，終不腐敗，堪任知見、堪任決定，住甘露門，近於甘露，不能一切疾得甘露涅槃。\n\n「譬如伏鷄伏其卵，或五或十，隨時消息，愛護將養，正復中間放逸，猶能以爪以口啄卵，得生其子。所以者何？以彼鷄母初隨時消息，善愛護故。如是聖弟子成就十一法者，住於學跡，終不腐敗，乃至不能一切疾得甘露涅槃。」\n\n佛說此經已，摩訶男釋氏聞佛所說，歡喜隨喜，作禮而去。",
+  "english_sa_text": "",
+  "parallels": [
+    {
+      "uid": "an11.11",
+      "acronym": "AN 11.11",
+      "root_lang": "pli",
+      "original_title": "Paṭhamamahānāmasutta",
+      "translated_title": "To Mahanama (1)",
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "sa-2.157",
+      "acronym": "SA2 157",
+      "root_lang": "lzh",
+      "original_title": "十一",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    }
+  ],
+  "primary_sn_uid": null,
+  "pali_text": "",
+  "english_sn_text": "",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa901-1000/sa932_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa901-1000/sa932_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛住迦毗罗卫国尼拘律园中。\n时众多比丘集食堂为世尊缝衣。摩诃男闻已，念言：「安居讫、作衣竟，世尊当人间游行，何时复得见世尊及诸知识比丘？」来诣佛所，白言：「我四体不摄，迷于四方，闻法悉忘。」\n佛告摩诃男：「见与不见世尊及知识比丘，皆当依五法，修六念。何等五？有信则成，非无信；有精进则成，非懈怠；有念则成，非失念；有定则成，非散乱；有慧则成，非无慧。依此五法，修六念处：念佛、法、僧、戒、施、天。成就此十一法，住于学迹，终不腐败，堪任知見，近于甘露；然不能一切疾得甘露涅槃。譬如伏鸡伏卵，或五或十，随时爱护；纵中间放逸，犹能啄卵生子——以初善护故。圣弟子成就十一法，亦复如是。」\n摩诃男欢喜随喜，作礼而去。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在迦毗罗卫国尼拘律园中。\n当时许多比丘聚集在食堂为世尊缝衣。摩诃男听说后想：「安居结束、衣服做成，世尊就要人间游行，什么时候才能再见到世尊和知识比丘？」他来到佛处说：「我四肢不听使唤，辨不清方向，听过的法都忘了。」\n佛告诉摩诃男：「无论见不见世尊和知识比丘，都应当依五种法，修六种念。哪五种？有信才能成就，不是无信；有精进才能成就，不是懈怠；有念才能成就，不是失念；有定才能成就，不是散乱；有慧才能成就，不是无慧。依这五法，修六念处：念佛、法、僧、戒、施、天。成就这十一法，住在有学的道路上，终不会腐败，能够知見，接近甘露；但不能说一切人很快就得到甘露涅槃。好比母鸡孵蛋，或五或十，时时爱护；即使中间有些放逸，还能啄破蛋壳让小鸡出生——因为起初好好护持的缘故。圣弟子成就十一法，也是这样。」\n摩诃男欢喜随喜，行礼离去。",
+  "notes": "本经 SC 平行表所列平行及 `raw_aligned_data.json` 内之巴利本文、Sujato 英译并用以厘定法义；求那跋陀罗汉本用于定位经文与传统术语。confidence=high：primary AN11.11；据巴利五法＝信、精进、念、定、慧（汉「戒闻施」系校正）；五＋六念＝十一；伏鸡喻从汉／巴利。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "high",
+  "prior_review_status": "needs_revision",
+  "similarity_to_source": 0.154,
+  "paragraph_parallel": true
+}

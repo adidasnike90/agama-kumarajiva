@@ -1,0 +1,63 @@
+{
+  "id": "SA_1311",
+  "uid": "sa1311",
+  "title": "雜阿含經  卷第五十  雜相應  （1311）  曇摩",
+  "chinese_text": "如是我聞：\n\n一時，佛住舍衛國祇樹給孤獨園。\n\n時，有陀摩尼天子，容色絕妙，於後夜時來詣佛所，稽首佛足，退坐一面。身諸光明遍照祇樹給孤獨園。\n\n時，彼陀摩尼天子而說偈言：\n\n「為婆羅門事，　　學斷莫疲惓，\n\n　斷除諸愛欲，　　不求受後身。」\n\n爾時，世尊說偈答言：\n\n「婆羅門無事，　　所作事已作，\n\n　乃至不得岸，　　晝夜常勤跪。\n\n　已到彼岸住，　　於岸復何跪，\n\n　此是婆羅門，　　專精漏盡禪。\n\n　一切諸憂惱，　　熾然永已斷，\n\n　是則到彼岸，　　涅槃無所求。」\n\n時，陀摩尼天子聞佛所說，歡喜隨喜，稽首佛足，即沒不現。",
+  "english_sa_text": "",
+  "parallels": [
+    {
+      "uid": "sa-2.310",
+      "acronym": "SA2 310",
+      "root_lang": "lzh",
+      "original_title": "曇摩",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "sag",
+      "acronym": "Sag",
+      "root_lang": "san",
+      "original_title": "Śarīrārthagāthā",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "sn2.5",
+      "acronym": "SN 2.5",
+      "root_lang": "pli",
+      "original_title": "Dāmalisutta",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    }
+  ],
+  "primary_sn_uid": "sn2.5",
+  "pali_text": "Sāvatthinidānaṁ. Atha kho dāmali devaputto abhikkantāya rattiyā abhikkantavaṇṇo kevalakappaṁ jetavanaṁ obhāsetvā yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṁ abhivādetvā ekamantaṁ aṭṭhāsi. Ekamantaṁ ṭhito kho dāmali devaputto bhagavato santike imaṁ gāthaṁ abhāsi: “Karaṇīyametaṁ brāhmaṇena, Padhānaṁ akilāsunā; Kāmānaṁ vippahānena, Na tenāsīsate bhavan”ti. “Natthi kiccaṁ brāhmaṇassa, (dāmalīti bhagavā) Katakicco hi brāhmaṇo; Yāva na gādhaṁ labhati nadīsu, Āyūhati sabbagattebhi jantu; Gādhañca laddhāna thale ṭhito yo, Nāyūhatī pāragato hi sova. Esūpamā dāmali brāhmaṇassa, Khīṇāsavassa nipakassa jhāyino; Pappuyya jātimaraṇassa antaṁ, Nāyūhatī pāragato hi so”ti.",
+  "english_sn_text": "At Sāvatthī. Then, late at night, the glorious godling Dāmali, lighting up the entire Jeta’s Grove, went up to the Buddha, bowed, stood to one side, and spoke this verse in the Buddha’s presence: “This is what should be done by a brahmin: unrelenting striving. Then, with the giving up of sensual pleasures, they won’t hope to be reborn.” “The brahmin has nothing left to do,” said the Buddha to Dāmali, “for they’ve completed their task. So long as a personage fails to gain a footing in the river, they swim with every limb. But someone who has gained a footing and stands on dry land need not swim, for they have reached the far shore. Dāmali, this is a simile for the brahmin, alert, a meditator who has ended defilements. Since they’ve reached the end of rebirth and death, they need not swim, for they have reached the far shore.”",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa1301-1400/sa1311_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa1301-1400/sa1311_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛住舍卫国祇树给孤独园。\n后夜分，昙摩尼天子容色绝妙，来诣佛所，稽首礼足，退坐一面；身诸光明遍照祇园。\n天子说偈：「婆罗门所应为：精进勿疲倦；舍离诸爱欲，不望受后有。」\n世尊说偈答：「婆罗门事已办，所作已成办。人未得河中立足处，则肢节用力泅；既得立足立于干地，已到彼岸，则不复泅。昙摩尼！漏尽禅思之婆罗门亦复如是：已至生老死尽边，不复用力，已到彼岸。」\n时彼天子闻佛所说，欢喜随喜，稽首佛足，即没不现。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在舍卫国祇树给孤独园。\n后夜分，名叫昙摩尼的天子容色绝妙，来到佛前，顶礼佛足，退坐一面；身上光明遍照祇园。\n天子说偈：「婆罗门该做的是：精进不要疲倦；舍离爱欲，不指望再受后有。」\n世尊说偈答：「婆罗门的事已经办完，该做的都做成了。人若还没在河里站稳脚跟，就会手脚并用拼命游；一旦站稳、立在干地上，已经到了彼岸，就不必再游。昙摩尼！漏尽而禅思的婆罗门也是这样：已到生老死的尽头，不必再用力，已经到了彼岸。」\n那时天子听佛所说，欢喜随喜，顶礼佛足，随即隐没不见。",
+  "notes": "本经 SC 平行表所列平行及 `raw_aligned_data.json` 内之巴利本文、Sujato 英译并用以厘定法义；求那跋陀罗汉本用于定位经文与传统术语。confidence=high：primary SN2.5 Dāmalisutta。汉「勤跪」＝āyūhati（用力泅），据巴利改「用力泅／不复泅」；未得 gādha（立足）则泅，得立足立干地则不泅——喻漏尽者已到彼岸。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "high",
+  "prior_review_status": "needs_revision",
+  "similarity_to_source": 0.151,
+  "paragraph_parallel": true
+}

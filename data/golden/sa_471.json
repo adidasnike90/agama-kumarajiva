@@ -1,0 +1,53 @@
+{
+  "id": "SA_471",
+  "uid": "sa471",
+  "title": "雜阿含經  卷第十九  受相應  （471）  虛空",
+  "chinese_text": "如是我聞：\n\n一時，佛住王舍城迦蘭陀竹園。\n\n爾時，世尊告諸比丘：「譬如空中狂風卒起，從四方來，有塵土風、無塵土風、毘濕波風、鞞嵐婆風、薄風、厚風，乃至風輪起風。身中受風亦復如是，種種受起——樂受、苦受、不苦不樂受，樂身受、苦身受、不苦不樂身受，樂心受、苦心受、不苦不樂心受，樂食受、苦食受、不苦不樂食受，樂無食、苦無食、不苦不樂無食受，樂貪受、苦貪受、不苦不樂貪受，樂出要受、苦出要受、不樂不苦出要受。」\n\n爾時，世尊即說偈言：\n\n「譬如虛空中，　　種種狂風起，\n\n　東西南北風，　　四維亦如是。\n\n　有塵及無塵，　　乃至風輪起，\n\n　如是此身中，　　諸受起亦然。\n\n　若樂若苦受，　　及不苦不樂，\n\n　有食與無食，　　貪著不貪著。\n\n　比丘勤方便，　　正智不傾動，\n\n　於此一切受，　　黠慧能了知。\n\n　了知諸受故，　　現法盡諸漏，\n\n　身死不墮數，　　永處般涅槃。」\n\n佛說此經已，諸比丘聞佛所說，歡喜奉行。",
+  "english_sa_text": "",
+  "parallels": [
+    {
+      "uid": "sn36.13",
+      "acronym": "SN 36.13",
+      "root_lang": "pli",
+      "original_title": "Dutiyaākāsasutta",
+      "translated_title": "The Sky (2)",
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "sn36.12",
+      "acronym": "SN 36.12",
+      "root_lang": "pli",
+      "original_title": "Paṭhamaākāsasutta",
+      "translated_title": "The Sky (1)",
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    }
+  ],
+  "primary_sn_uid": "sn36.12",
+  "pali_text": "“Seyyathāpi, bhikkhave, ākāse vividhā vātā vāyanti. Puratthimāpi vātā vāyanti, pacchimāpi vātā vāyanti, uttarāpi vātā vāyanti, dakkhiṇāpi vātā vāyanti, sarajāpi vātā vāyanti, arajāpi vātā vāyanti, sītāpi vātā vāyanti, uṇhāpi vātā vāyanti, parittāpi vātā vāyanti, adhimattāpi vātā vāyanti. Evameva kho, bhikkhave, imasmiṁ kāyasmiṁ vividhā vedanā uppajjanti, sukhāpi vedanā uppajjati, dukkhāpi vedanā uppajjati, adukkhamasukhāpi vedanā uppajjatīti. Yathāpi vātā ākāse, vāyanti vividhā puthū; Puratthimā pacchimā cāpi, uttarā atha dakkhiṇā. Sarajā arajā capi, sītā uṇhā ca ekadā; Adhimattā parittā ca, puthū vāyanti mālutā. Tathevimasmiṁ kāyasmiṁ, samuppajjanti vedanā; Sukhadukkhasamuppatti, adukkhamasukhā ca yā. Yato ca bhikkhu ātāpī, sampajaññaṁ na riñcati; Tato so vedanā sabbā, parijānāti paṇḍito. So vedanā pariññāya, diṭṭhe dhamme anāsavo; Kāyassa bhedā dhammaṭṭho, saṅkhyaṁ nopeti vedagū”ti. Dutiyaṁ.",
+  "english_sn_text": "“Mendicants, various winds blow in the atmosphere. Winds blow from the east, the west, the north, and the south. There are winds that are dusty and dustless, cool and warm, weak and strong. In the same way, various feelings arise in this body: pleasant, painful, and neutral feelings. There are many and various winds that blow in the atmosphere. From the east they come, also the west, the north, and then the south. They are dusty and dustless, cool and sometimes warm, strong and weak; these are the different gales that blow. So too, in this body feelings arise, pleasant and painful, and those that are neutral. But when a mendicant is keen, not neglecting situational awareness, that astute person understands all feelings. Completely understanding feelings, they’re without defilements in this very life. That knowledge master is firm in principle; when their body breaks up, they can’t be reckoned.”",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa401-500/sa471_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa401-500/sa471_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛在王舍城迦兰陀竹园。\n尔时，世尊告诸比丘：「譬如空中种种风从四方起——有尘风、无尘风、冷风、暖风、弱风、强风，乃至风轮起风。身中诸受亦如是起——乐受、苦受、不苦不乐受。」\n尔时，世尊即说偈言：\n「譬如虚空中，种种风四起，\n东西南北风，四维亦如是；\n有尘及无尘，冷暖弱与强，\n如是此身中，诸受起亦然。\n若乐若苦受，及不苦不乐，\n比丘勤方便，正智不倾动；\n于此一切受，黠慧能了知。\n了知诸受故，现法尽诸漏，\n身死不堕数，永处般涅槃。」\n佛说此经已，诸比丘闻佛所说，欢喜奉行。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在王舍城迦兰陀竹园。\n那时，世尊告诉比丘们：「譬如空中种种风从四方起——有尘风、无尘风、冷风、暖风、弱风、强风，乃至风轮起风。身中的种种受也是这样生起——乐受、苦受、不苦不乐受。」\n那时，世尊就说偈：\n「譬如虚空中，种种风四起，\n东西南北风，四维也一样；\n有尘及无尘，冷暖弱与强，\n同样在此身，诸受起亦然。\n无论是乐受、苦受，或不苦不乐，\n比丘勤奋用功，正智不倾动；\n对于一切受，有智慧的人能了知。\n了知诸受故，现世尽诸漏，\n身死不落名数，永远处于涅槃。」\n佛说完这部经，比丘们听佛所说，都欢喜奉行。",
+  "notes": "本经 SC 平行表所列平行及 `raw_aligned_data.json` 内之巴利本文、Sujato 英译并用以厘定法义；求那跋陀罗汉本用于定位经文与传统术语。confidence=high：primary SN36.12 Paṭhamaākāsa。据 SN 校正：风喻东西南北、有尘无尘、冷暖强弱；受唯三（删汉广列身受心受食无食等）；偈据巴利。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "high",
+  "prior_review_status": "needs_revision",
+  "similarity_to_source": 0.311,
+  "paragraph_parallel": true
+}

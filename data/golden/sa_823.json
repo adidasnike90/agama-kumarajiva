@@ -1,0 +1,32 @@
+{
+  "id": "SA_823",
+  "uid": "sa823",
+  "title": "雜阿含經  卷第三十一  學相應  （823）  學",
+  "chinese_text": "如是我聞：\n\n一時，佛住舍衛國祇樹給孤獨園。\n\n爾時，世尊告諸比丘：「若比丘具足戒住，善攝波羅提木叉，具足威儀行處，見微細罪，能生怖畏，受持學戒住，滿足三學。何等為三？謂增上戒、增上意、增上慧。\n\n「何等為增上戒？是比丘戒滿足，少定、少慧，於彼彼分細微戒，乃至受持學戒。如是知、如是見，斷三結，貪、恚、癡薄，得一種子道。若彼地未等覺者，得斯陀含，彼地未等覺者，名家家，彼地未等覺者，得須陀洹，彼地未等覺者，得隨法行，彼地未等覺者，得隨信行，是名增上戒學。\n\n「何等為增上意學？是比丘戒滿足、定滿足、少於慧，於彼彼分細微戒，乃至受持學戒。如是知、如是見，斷五下分結，謂身見、戒取、疑、貪欲、瞋恚，斷此五下分結，得中般涅槃，於彼未等覺者，得生般涅槃，於彼未等覺者，得無行般涅槃，於彼未等覺者，得有行般涅槃，於彼未等覺者，得上流般涅槃，是名增上意學。\n\n「何等為增上慧學？是比丘學戒滿足、定滿足、慧滿足。如是知、如是見，欲有漏心解脫、有有漏心解脫、無明漏心解脫，解脫知見：『我生已盡，梵行是立，所作已作，自知不受後有。』是名增上慧學。」\n\n佛說此經已，諸比丘聞佛所說，歡喜奉行。",
+  "english_sa_text": "",
+  "parallels": [],
+  "primary_sn_uid": null,
+  "pali_text": "",
+  "english_sn_text": "",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa801-900/sa823_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa801-900/sa823_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛住舍卫国祇树给孤独园。\n尔时世尊告诸比丘：「若比丘具足戒住，善摄波罗提木叉，威仪行处具足，见微细罪能生怖畏，受持学处，满足增上戒学、增上意学、增上慧学。何等为增上戒？比丘戒满足，定慧尚少；于微细学处乃至受持而学。如是知、如是见，断三结，贪恚痴薄，得一种子；若彼地未等觉，得斯陀含；未等觉，名家家；未等觉，得须陀洹；未等觉，得随法行；未等觉，得随信行——是名增上戒学。何等为增上意学？比丘戒定满足，慧尚少；于微细学处乃至受持而学。如是知、如是见，断五下分结，得中般涅槃；于彼未等觉，得生般、无行般、有行般、上流般涅槃——是名增上意学。何等为增上慧学？比丘戒定慧皆满足。如是知、如是见，欲有漏心解脱、有有漏心解脱、无明有漏心解脱，解脱知见：『我生已尽，梵行已立，所作已作，自知不受后有。』——是名增上慧学。」\n佛说此经已，诸比丘闻佛所说，欢喜奉行。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在舍卫国祇树给孤独园。\n那时世尊告诉比丘们：「如果比丘具足戒而住，善能摄持波罗提木叉，威仪行处具足，见到微细的罪能生怖畏，受持学处，满足增上戒学、增上意学、增上慧学。什么是增上戒？比丘戒已满足，定慧还少；对于微细学处一直到受持而学。这样知、这样见，断除三结，贪恚痴薄，得一种子；若那一地尚未等觉，得斯陀含；尚未等觉，叫做家家；尚未等觉，得须陀洹；尚未等觉，得随法行；尚未等觉，得随信行——这叫做增上戒学。什么是增上意学？比丘戒定已满足，慧还少；对于微细学处一直到受持而学。这样知、这样见，断除五下分结，得中般涅槃；在那一地尚未等觉的，得生般、无行般、有行般、上流般涅槃——这叫做增上意学。什么是增上慧学？比丘戒定慧都满足。这样知、这样见，欲有漏心解脱、有有漏心解脱、无明有漏心解脱，以解脱知见：『我生已尽，梵行已立，所作已作，自知不受后有。』——这叫做增上慧学。」\n佛说完这部经，比丘们听佛所说，都欢喜奉行。",
+  "notes": "SC 于本经未列可靠巴利平行，故唯以汉本为底，参同相应之巴利定型语厘义；依项目规约「无可靠平行时 confidence 降为 medium/low」。confidence=medium：与 SA_821／AN3.86–87 同族而阶次列举略异；信-校正：汉「梵行是立」作「梵行已立」。无专平行，medium。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "medium",
+  "prior_review_status": "needs_revision",
+  "similarity_to_source": 0.289,
+  "paragraph_parallel": true
+}

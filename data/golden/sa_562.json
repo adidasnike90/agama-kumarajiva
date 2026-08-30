@@ -1,0 +1,32 @@
+{
+  "id": "SA_562",
+  "uid": "sa562",
+  "title": "雜阿含經  卷第二十四  阿難相應  （562）  瞿師多",
+  "chinese_text": "如是我聞：\n\n一時，佛住拘睒彌國瞿師羅園，尊者阿難亦在彼住。\n\n爾時，瞿師羅長者詣尊者阿難所，稽首禮足，退坐一面，白尊者阿難：「云何名為世間說法者？云何名世間善向？云何名世間善到？」\n\n尊者阿難語瞿師羅長者：「我今問汝，隨意答我。長者！於意云何？若有說法，調伏貪欲、調伏瞋恚、調伏愚癡，得名世間說法者不？」\n\n長者答言：「尊者阿難！若有說法，能調伏貪欲、瞋恚、愚癡，是則名為世間說法。」\n\n復問：「長者！於意云何？若世間向調伏貪欲、調伏瞋恚、調伏愚癡，是名世間善向；若世間已調伏貪欲、瞋恚、愚癡，是名善到耶？為非耶？」\n\n長者答言：「尊者阿難！若調伏貪欲，已斷無餘，瞋恚、愚癡已斷無餘，是名善到。」\n\n尊者阿難答言：「長者！我試問汝，汝便真實答我，其義如此，當受持之。」\n\n瞿師羅長者聞尊者阿難所說，歡喜隨喜，作禮而去。",
+  "english_sa_text": "",
+  "parallels": [],
+  "primary_sn_uid": null,
+  "pali_text": "",
+  "english_sn_text": "",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa501-600/sa562_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa501-600/sa562_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛在拘睒弥国瞿师罗园。尊者阿难亦在彼住。\n时，瞿师罗长者诣尊者阿难所，稽首礼足，退坐一面，白言：「云何名为世间说法者？云何名世间善向？云何名世间善到？」\n阿难言：「我今问汝，随答。若有说法，能调伏贪欲、瞋恚、愚痴，得名世间说法者不？」\n长者答：「若有说法，能调伏贪欲、瞋恚、愚痴，是则名为世间说法。」\n复问：「若世间向调伏贪欲、瞋恚、愚痴，是名善向；若已调伏贪欲、瞋恚、愚痴，已断无余，是名善到耶？」\n长者答：「若调伏贪欲、瞋恚、愚痴，已断无余，是名善到。」\n阿难言：「我试问汝，汝便真实答我，其义如此，当受持之。」\n瞿师罗长者闻所说，欢喜随喜，作礼而去。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在拘睒弥国瞿师罗园。阿难尊者也在那里住。\n当时，瞿师罗长者来到阿难尊者处，顶礼足，退坐一面，说：「什么叫做世间的说法者？什么叫做世间善向？什么叫做世间善到？」\n阿难说：「我现在问你，你随答。如果有说法，能调伏贪欲、瞋恚、愚痴，可以叫做世间的说法者吗？」\n长者答：「如果有说法，能调伏贪欲、瞋恚、愚痴，这就叫做世间的说法。」\n又问：「如果世间向于调伏贪欲、瞋恚、愚痴，叫做善向；如果已经调伏贪欲、瞋恚、愚痴，断尽无余，叫做善到吗？」\n长者答：「如果调伏贪欲、瞋恚、愚痴，已经断尽无余，就叫做善到。」\n阿难说：「我试着问你，你就真实回答，义理就是这样，应当受持。」\n瞿师罗长者听所说，欢喜随喜，行礼后离去。",
+  "notes": "SC 于本经未列可靠巴利平行，故唯以汉本为底，参同相应之巴利定型语厘义；依项目规约「无可靠平行时 confidence 降为 medium/low」。瞿师罗问世间说法／善向／善到；调伏三毒。无 SC 专经，从汉本，confidence=medium。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "medium",
+  "prior_review_status": "needs_revision",
+  "similarity_to_source": 0.225,
+  "paragraph_parallel": true
+}

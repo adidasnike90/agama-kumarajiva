@@ -1,0 +1,63 @@
+{
+  "id": "SA_142",
+  "uid": "sa142",
+  "title": "雜阿含經  卷第七  見相應  （142）  我我所",
+  "chinese_text": "如是我聞：\n\n一時，佛住舍衛國祇樹給孤獨園。\n\n爾時，世尊告諸比丘：「何所有故，何所起？何所繫著，何所見我？未起我、我所、我慢繫著使起，已起我、我所、我慢繫著使重令增廣？」\n\n諸比丘白佛：「世尊是法根、法眼、法依……」如是廣說，乃至……。\n\n佛說此經已，諸比丘聞佛所說，歡喜奉行。",
+  "english_sa_text": "Saṁyuktāgama\n\n142. [First Discourse on the View of a Self and What Belongs to the Self]\n\nThus have I heard. At one time the Buddha was staying at Sāvatthī in Jeta's Grove, Anāthapiṇḍika's Park.\n\nAt that time the Blessed One said to the monks: “The existence of what is the cause, by clinging to what, by being fettered and attached to what, by seeing what as the self, do not yet arisen I-conceit andbeing fettered by attachment to a self and what belongs to a self arise, and already arisen I-conceit and being fettered by attachment to a self and what belongs to a self increase further?”\n\nThe monks said to the Buddha: “The Blessed One is the root of the Dharma, the eye of the Dharma, the foundation of the Dharma …” to be recited fully in the same way up to … when the Buddha had spoken this discourse, hearing what the Buddha had said the monks were delighted and received it respectfully.\n\nTranslated by Bhikkhu Anālayo. Originally published in ‘On Views and Penetrative Knowledge – A Translation of Saṁyukta-āgama Discourses 139 to 187 (Fascicle 7)’, Dharma Drum Journal of Buddhist Studies, 2015, vol. 17 pp. 43–100.\n\nPrepared for SuttaCentral by Seniya Ariyakumara and Ayya Vimala.",
+  "parallels": [
+    {
+      "uid": "sn22.151",
+      "acronym": "SN 22.151",
+      "root_lang": "pli",
+      "original_title": "Etaṁmamasutta",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "sn24.2",
+      "acronym": "SN 24.2",
+      "root_lang": "pli",
+      "original_title": "Etaṁmamasutta",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "sa133",
+      "acronym": "SA 133",
+      "root_lang": "lzh",
+      "original_title": "何所有故",
+      "translated_title": "[Discourse on What is the Cause]",
+      "type": "full",
+      "resembling": true,
+      "remark": null
+    }
+  ],
+  "primary_sn_uid": "sn22.151",
+  "pali_text": "Sāvatthinidānaṁ. “Kismiṁ nu kho, bhikkhave, sati, kiṁ upādāya, kiṁ abhinivissa: ‘etaṁ mama, esohamasmi, eso me attā’ti samanupassatī”ti? Bhagavaṁmūlakā no, bhante, dhammā …pe… “rūpe kho, bhikkhave, sati, rūpaṁ upādāya, rūpaṁ abhinivissa …pe… viññāṇe sati, viññāṇaṁ upādāya, viññāṇaṁ abhinivissa: ‘etaṁ mama, esohamasmi, eso me attā’ti samanupassati. Taṁ kiṁ maññatha, bhikkhave, rūpaṁ niccaṁ vā aniccaṁ vā”ti? “Aniccaṁ, bhante” …pe… vipariṇāmadhammaṁ, api nu taṁ anupādāya etaṁ mama, esohamasmi, eso me attāti samanupasseyyāti? “No hetaṁ, bhante”. “Vedanā … saññā … saṅkhārā … viññāṇaṁ niccaṁ vā aniccaṁ vā”ti? “Aniccaṁ, bhante” …pe… vipariṇāmadhammaṁ, api nu taṁ anupādāya etaṁ mama, esohamasmi, eso me attāti samanupasseyyāti? “No hetaṁ, bhante”. “Evaṁ passaṁ …pe… nāparaṁ itthattāyāti pajānātī”ti. Dutiyaṁ.",
+  "english_sn_text": "At Sāvatthī. “Mendicants, when what exists, because of grasping what and insisting on what, does someone regard things like this: ‘This is mine, I am this, this is my self’?” “Our teachings are rooted in the Buddha. …” “When form exists, because of grasping form and insisting on form … When consciousness exists, because of grasping consciousness and insisting on consciousness, someone regards it like this: ‘This is mine, I am this, this is my self.’ What do you think, mendicants? Is form permanent or impermanent?” “Impermanent, sir.” … “But by not grasping what’s impermanent, suffering, and perishable, would you regard it like this: ‘This is mine, I am this, this is my self’?” “No, sir.” “Is feeling … perception … choices … consciousness permanent or impermanent?” “Impermanent, sir.” … “But by not grasping what’s impermanent, suffering, and perishable, would you regard it like this: ‘This is mine, I am this, this is my self’?” “No, sir.” “Seeing this … They understand: ‘… there is nothing further for this place.’”",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa101-200/sa142_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa101-200/sa142_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时佛在舍卫国祇树给孤独园。\n尔时世尊告诸比丘：有何法故、取何法、著何法，令未起之我执、我所执、我慢随眠而得生起，已起者重令增广？\n诸比丘白佛：世尊为法根、法眼、法依。善哉世尊！唯愿哀愍，广说其义；诸比丘闻已，当受奉行。\n佛告比丘：谛听，善思，当为汝说。诸比丘！有色故，取色、著色，令未起之我执、我所执、我慢随眠而得生起，已起者重令增广。受、想、行、识亦复如是。诸比丘！于意云何？色为常耶？为非常耶？\n答曰：无常，世尊。\n复问：若无常者，是苦耶？\n答曰：是苦，世尊。\n复问：若无常、苦、变易之法，不取著者，宁令我执、我所执、我慢随眠生起、增广不？\n答曰：不也，世尊。\n佛告比丘：如是，比丘！是故诸所有色，若过去、若未来、若现在，若内、若外，若麤、若细，若好、若丑，若远、若近，彼一切非我、非异我、不相在，是名正慧；受、想、行、识亦复如是。若多闻圣弟子于此六见处观察非我、非我所，如是观者，于佛狐疑断，于法、僧狐疑断。是名多闻圣弟子不复堪任作身、口、意业趣三恶道；正使放逸，圣弟子决定向三菩提，极七往来天人之间，究竟苦边。\n佛说此经已，诸比丘闻佛所说，欢喜奉行。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在舍卫国祇树给孤独园。\n那时，世尊告诉比丘们：因为有什么、执取什么、固执什么，还没生起的我执、我所执、我慢的随眠才生了起来，已经生起的更加加重扩大？\n比丘们对佛说：世尊是法的根本、法眼、法的依止。很好，世尊！但愿您哀愍我们，详说这个义理；我们听了，当受持奉行。\n佛告诉比丘们：仔细听，好好思惟，我为你们说。比丘们！因为有色，执取色、固执色，还没生起的我执、我所执、我慢随眠才生了起来，已经生起的更加加重扩大。受、想、行、识也是一样。比丘们！你们怎么想？色是常的，还是无常的？\n回答说：无常，世尊。\n又问：既然无常，那是苦吗？\n回答说：是苦，世尊。\n又问：既然是无常、是苦、是会变坏的法，若不去执取它，我执、我所执、我慢的随眠还会生起、还会加重扩大吗？\n回答说：不会，世尊。\n佛告诉比丘们：正是这样，比丘！所以一切所有的色，无论过去、未来、现在，内在、外在，粗的、细的，好的、丑的，远的、近的，那一切都不是我、不异于我、也不互相含摄，这叫做正慧；受、想、行、识也是一样。如果多闻圣弟子对这六种见处观察为非我、非我所，这样观察的人，对佛的犹疑就断了，对法、对僧的犹疑也断了。这样的多闻圣弟子，再也做不出会把自己带向三恶道的身业、口业、意业；纵使一时放逸，圣弟子也已确定趣向正觉，至多在天界人间往来七次，就走到苦的尽头。\n佛说完这部经，比丘们听佛所说，都欢喜奉行。",
+  "notes": "据 SN22.151（Etaṁmama）及同型经：汉译「我、我所、我慢繫著使」即 ahaṅkāra-mamaṅkāra-mānānusaya（我作／我执、我所作／我所执、慢随眠），「使」为 anusaya（随眠）之旧译，非「驱役」，今作「我执、我所执、我慢随眠」以显其义。底本作「如是廣說，乃至……」，全体略写；今依 SA_133 之纲展开问答，未出汉本与巴利之外。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "high",
+  "prior_review_status": "needs_revision",
+  "similarity_to_source": 0.114,
+  "paragraph_parallel": true
+}

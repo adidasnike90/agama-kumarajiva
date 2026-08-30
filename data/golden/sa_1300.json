@@ -1,0 +1,53 @@
+{
+  "id": "SA_1300",
+  "uid": "sa1300",
+  "title": "雜阿含經  卷第五十  雜相應  （1300）  因陀羅",
+  "chinese_text": "如是我聞：\n\n一時，佛住舍衛國祇樹給孤獨園。\n\n爾時，釋提桓因於後夜時來詣佛所，稽首佛足，退坐一面。其身光明遍照祇樹給孤獨園。\n\n時，釋提桓因說偈問佛：\n\n「何法命不知？　　何法命不覺？\n\n　何法鏁於命？　　何法為命縛？」\n\n爾時，世尊說偈答言：\n\n「色者命不知，　　諸行命不覺，\n\n　身鏁於其命，　　受縛於命者。」\n\n釋提桓因復說偈言：\n\n「色者非為命，　　諸佛之所說，\n\n　云何而得熟？　　於彼甚深藏，\n\n　云何段肉住？　　云何知命身？」\n\n爾時，世尊說偈答言：\n\n「迦羅邏為初，　　迦羅邏生胞，\n\n　胞生於肉段，　　肉段生堅厚，\n\n　堅厚生肢節，　　及諸毛髮等，\n\n　色等諸情根，　　漸次成形體，\n\n　因母飲食等，　　長養彼胎身。」\n\n爾時，釋提桓因聞佛所說，歡喜隨喜，稽首佛足，即沒不現。",
+  "english_sa_text": "",
+  "parallels": [
+    {
+      "uid": "sa-2.298",
+      "acronym": "SA2 298",
+      "root_lang": "lzh",
+      "original_title": "因陀羅",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "sn10.1",
+      "acronym": "SN 10.1",
+      "root_lang": "pli",
+      "original_title": "Indakasutta",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    }
+  ],
+  "primary_sn_uid": "sn10.1",
+  "pali_text": "Evaṁ me sutaṁ— ekaṁ samayaṁ bhagavā rājagahe viharati indakūṭe pabbate, indakassa yakkhassa bhavane. Atha kho indako yakkho yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṁ gāthāya ajjhabhāsi: “Rūpaṁ na jīvanti vadanti buddhā, Kathaṁ nvayaṁ vindatimaṁ sarīraṁ; Kutassa aṭṭhīyakapiṇḍameti, Kathaṁ nvayaṁ sajjati gabbharasmin”ti. “Paṭhamaṁ kalalaṁ hoti, kalalā hoti abbudaṁ; Abbudā jāyate pesi, pesi nibbattatī ghano; Ghanā pasākhā jāyanti, kesā lomā nakhāpi ca. Yañcassa bhuñjatī mātā, annaṁ pānañca bhojanaṁ; Tena so tattha yāpeti, mātukucchigato naro”ti.",
+  "english_sn_text": "So I have heard. At one time the Buddha was staying near Rājagaha on Mount Indra’s Peak, the haunt of the native spirit Indaka. Then the native spirit Indaka went up to the Buddha, and addressed him in verse: “The Buddhas say that form is not the soul. Then how does this one obtain this body? From where do his bones and organs come? How does this one coalesce in the womb?” “First there’s the zygote; then there’s the blastocyst; from there arises the gastrula; which produces the embryonic mass. From that the limb buds appear, the head hair, body hair, and nails. And whatever the mother eats— the food and drink that she consumes— nourishes them there, the person in the mother’s womb.”",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa1201-1300/sa1300_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa1201-1300/sa1300_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛住舍卫国祇树给孤独园。\n后夜分，释提桓因来诣佛所，稽首礼足，退坐一面；身诸光明遍照祇树给孤独园。\n释提桓因说偈问：「何法命不知？何法命不觉？何法锁于命？何法为命缚？」\n世尊说偈答：「色者命不知，诸行命不觉；身锁于其命，受缚于命者。」\n释提桓因复问：「色者非为命，诸佛之所说。云何而得熟？云何段肉住？云何知命身？」\n世尊说偈答：「迦罗逻为初，迦罗逻生胞，胞生肉段，肉段生坚厚；坚厚生肢节及诸毛发等，色等诸情根渐次成形体；因母饮食等，长养彼胎身。」\n释提桓因闻已欢喜，礼足即没。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在舍卫国祇树给孤独园。\n后夜分，释提桓因来到佛前，顶礼佛足，退坐一面；身上的光明遍照祇树给孤独园。\n释提桓因说偈问：「什么是命所不知的？什么是命所不觉的？什么锁住命？什么把命绑住？」\n世尊说偈答：「色，是命所不知的；诸行，是命所不觉的；身体锁住那命；受，把命绑住。」\n释提桓因又问：「诸佛说色并不是命。那身体怎样成熟？怎样成为肉团而住？怎样知道这命身？」\n世尊说偈答：「最初是迦罗逻，由迦罗逻生胞，由胞生肉段，由肉段生坚厚；由坚厚生出肢节和毛发等，色等诸根渐渐形成身体；靠着母亲的饮食等，长养那在胎中的身。」\n释提桓因听完欢喜随喜，顶礼佛足，随即隐没不见。",
+  "notes": "本经 SC 平行表所列平行及 `raw_aligned_data.json` 内之巴利本文、Sujato 英译并用以厘定法义；求那跋陀罗汉本用于定位经文与传统术语。confidence=high：primary SN10.1（Indaka）；巴利在王舍城因陀罗山、夜叉因陀罗，汉作祇园／释提桓因——框从汉，胚胎次第据巴利 kalala→abbuda→pesi→ghana→pasākhā。汉前半「命不知／不觉」无 SN 对应，保守保留；义从早期非命／色受行。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "high",
+  "prior_review_status": "needs_revision",
+  "similarity_to_source": 0.313,
+  "paragraph_parallel": true
+}

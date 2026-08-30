@@ -1,0 +1,53 @@
+{
+  "id": "SA_705",
+  "uid": "sa705",
+  "title": "雜阿含經  卷第二十八  覺支相應  （705）  不退",
+  "chinese_text": "如是我聞：\n\n一時，佛住舍衛國祇樹給孤獨園。\n\n爾時，世尊告諸比丘：「有五退法。何等為五？謂貪欲、瞋恚、睡眠、掉悔、疑蓋，是則退法。若修習七覺支，多修習令增廣，是則不退法。何等為七？謂念覺支、擇法覺支、精進覺支、猗覺支、喜覺支、定覺支、捨覺支，是名不退法。」\n\n佛說此經已，諸比丘聞佛所說，歡喜奉行。",
+  "english_sa_text": "",
+  "parallels": [
+    {
+      "uid": "sa708",
+      "acronym": "SA 708",
+      "root_lang": "lzh",
+      "original_title": "木封",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "sn46.36",
+      "acronym": "SN 46.36",
+      "root_lang": "pli",
+      "original_title": "Buddhisutta",
+      "translated_title": "Growth",
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    }
+  ],
+  "primary_sn_uid": "sn46.36",
+  "pali_text": "“Sattime, bhikkhave, bojjhaṅgā bhāvitā bahulīkatā buddhiyā aparihānāya saṁvattanti. Katame satta? Satisambojjhaṅgo …pe… upekkhāsambojjhaṅgo. Ime kho, bhikkhave, satta bojjhaṅgā bhāvitā bahulīkatā buddhiyā aparihānāya saṁvattantī”ti. Sattamaṁ.",
+  "english_sn_text": "“Mendicants, when the seven awakening factors are developed and cultivated they lead to growth and progress. What seven? The awakening factors of mindfulness, investigation of principles, energy, rapture, tranquility, immersion, and equanimity. When these seven awakening factors are developed and cultivated they lead to growth and progress.”",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa701-800/sa705_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa701-800/sa705_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛住舍卫国祇树给孤独园。\n佛告比丘：「有五退法——贪欲、瞋恚、睡眠、掉悔、疑盖，是名退法。」\n「若修习七觉支——念觉支、择法觉支、精进觉支、喜觉支、猗觉支、定觉支、舍觉支——多修令增广，是名不退法。」\n佛说此经已，诸比丘闻佛所说，欢喜奉行。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在舍卫国祇树给孤独园。\n佛告比丘：「有五种退堕之法——贪欲、瞋恚、昏沉睡眠、掉举后悔、疑盖，叫做退法。」\n「如果修习七觉支——念觉支、择法觉支、精进觉支、喜觉支、猗觉支、定觉支、舍觉支——多多修习使它增广，叫做不退法。」\n佛说完这部经，比丘们听佛所说，都欢喜奉行。",
+  "notes": "本经 SC 平行表所列平行及 `raw_aligned_data.json` 内之巴利本文、Sujato 英译并用以厘定法义；求那跋陀罗汉本用于定位经文与传统术语。confidence=high：primary SN46.36 Aparihāniya（七觉支→不退减）。汉有五退法对举，义与邻经五盖／七觉配对相合，故保留；SN 正文唯强调七觉不退。觉支次第据 SN。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "high",
+  "prior_review_status": "needs_revision",
+  "similarity_to_source": 0.387,
+  "paragraph_parallel": true
+}

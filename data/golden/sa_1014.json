@@ -1,0 +1,53 @@
+{
+  "id": "SA_1014",
+  "uid": "sa1014",
+  "title": "雜阿含經  卷第四十三  諸天相應  （1014）  第二",
+  "chinese_text": "如是我聞：\n\n一時，佛住舍衛國祇樹給孤獨園。\n\n時，有一天子，容色絕妙，於後夜時來詣佛所，稽首佛足，退坐一面。身諸光明遍照祇樹給孤獨園。\n\n時，彼天子說偈問佛：\n\n「云何為比丘，　　同己之第二？\n\n　云何為比丘，　　隨順教授者？\n\n　比丘於何處，　　遊心自娛樂，\n\n　娛樂彼處已，　　能斷諸結縛？」\n\n爾時，世尊說偈答言：\n\n「信為同己二，　　智慧教授者，\n\n　涅槃喜樂處，　　比丘斷結縛。」\n\n時，彼天子復說偈言：\n\n「久見婆羅門，　　逮得般涅槃，\n\n　一切怖已過，　　永超世恩愛。」\n\n時，彼天子聞佛所說，歡喜隨喜，稽首佛足，即沒不現。",
+  "english_sa_text": "",
+  "parallels": [
+    {
+      "uid": "sa-2.241",
+      "acronym": "SA2 241",
+      "root_lang": "lzh",
+      "original_title": "第二",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "sn1.59",
+      "acronym": "SN 1.59",
+      "root_lang": "pli",
+      "original_title": "Dutiyasutta",
+      "translated_title": "Partner",
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    }
+  ],
+  "primary_sn_uid": "sn1.59",
+  "pali_text": "“Kiṁsu dutiyā purisassa hoti, Kiṁsu cenaṁ pasāsati; Kissa cābhirato macco, Sabbadukkhā pamuccatī”ti. “Saddhā dutiyā purisassa hoti, Paññā cenaṁ pasāsati; Nibbānābhirato macco, Sabbadukkhā pamuccatī”ti.",
+  "english_sn_text": "“What is a person’s partner? What instructs them? Enjoying what is a mortal released from all suffering?” “Faith is a person’s partner. Wisdom instructs them. Delighting in extinguishment a mortal is released from all suffering.”",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa1001-1100/sa1014_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa1001-1100/sa1014_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛住舍卫国祇树给孤独园。\n后夜分，有天子来诣佛所，容色绝妙，稽首礼足，退坐一面；身诸光明遍照祇园。\n天子说偈问：「比丘同己第二谁？谁为随顺教授者？何处游心自娱乐，娱乐已能断诸结？」\n世尊说偈答：「信为同己之第二，智慧为彼教授者，涅槃喜乐处游心，比丘于是断结缚。」\n天子说偈：「久见婆罗门，逮得般涅槃，一切怖已过，永超世恩爱。」闻已欢喜，礼足即没。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在舍卫国祇树给孤独园。\n后夜分，有一位天子，容色绝妙，来到佛前，顶礼佛足，退坐一面；身上的光明遍照祇树给孤独园。\n天子说偈问：「比丘以谁为同伴第二？谁是随顺教授他的？心在何处自娱，娱已能断诸结？」\n世尊说偈答：「信是同伴第二，智慧是教授者，心游于涅槃喜乐处，比丘因此断结缚。」\n天子又说偈：「久见婆罗门，逮得般涅槃，一切怖已过，永超世恩爱。」听完欢喜随喜，顶礼佛足，随即隐没不见。",
+  "notes": "本经 SC 平行表所列平行及 `raw_aligned_data.json` 内之巴利本文、Sujato 英译并用以厘定法义；求那跋陀罗汉本用于定位经文与传统术语。confidence=high：primary SN1.59；信为伴、慧为教、乐涅槃断苦。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "high",
+  "prior_review_status": "needs_revision",
+  "similarity_to_source": 0.234,
+  "paragraph_parallel": true
+}

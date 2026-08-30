@@ -1,0 +1,43 @@
+{
+  "id": "SA_1159",
+  "uid": "sa1159",
+  "title": "雜阿含經  卷第五十  婆羅門相應  （1159）  摩佉",
+  "chinese_text": "如是我聞：\n\n一時，佛住舍衛國祇樹給孤獨園。\n\n時，有魔瞿婆羅門來詣佛所，與世尊面相問訊慰勞已，退坐一面，白佛言：「瞿曇！我於家中常行布施，若一人來，施於一人；若二人、三人，乃至百千，悉皆施與。我如是施，得多福不？」\n\n佛告婆羅門：「汝如是施，實得大福。所以者何？以於家中常行布施，一人來乞，即施一人，二人、三人，乃至百千，悉皆施與故，即得大福。」\n\n時，魔瞿婆羅門即說偈言：\n\n「在家所為作，　　布施復大會，\n\n　因此惠施故，　　欲求大功德。\n\n　今問於牟尼，　　我之所應知，\n\n　同梵天所見，　　為我分別說。\n\n　云何為解脫，　　勝妙之善趣？\n\n　云何修方便，　　得生於梵世？\n\n　云何隨樂施，　　生明勝梵天？」\n\n爾時，世尊說偈答言：\n\n「施者設大會，　　隨彼愛樂施，\n\n　歡喜淨信心，　　攀緣善功德。\n\n　以其所建立，　　求離諸過惡，\n\n　遠離於貪欲，　　其心善解脫。\n\n　修習於慈心，　　其功德無量，\n\n　況復加至誠，　　廣施設大會。\n\n　若於其中間，　　所得諸善心，\n\n　正向善解脫，　　或餘純善趣。\n\n　如是勝因緣，　　得生於梵世，\n\n　如是之惠施，　　其心平等故。\n\n　得生於梵世，　　其壽命延長。」\n\n時，魔瞿婆羅門聞佛所說，歡喜隨喜，從座起而去。",
+  "english_sa_text": "",
+  "parallels": [
+    {
+      "uid": "sa-2.82",
+      "acronym": "SA2 82",
+      "root_lang": "lzh",
+      "original_title": "摩佉",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    }
+  ],
+  "primary_sn_uid": null,
+  "pali_text": "",
+  "english_sn_text": "",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa1101-1200/sa1159_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa1101-1200/sa1159_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛住舍卫国祇树给孤独园。\n时魔瞿婆罗门来诣，问讯已，白佛：「瞿昙！我于家中常行布施，一人乃至百千来乞，悉皆施与。如是施，得多福不？」\n佛告：「实得大福。以常施、随来随与故。」\n魔瞿说偈：「在家设大会，惠施求大福；今问于牟尼，云何得解脱、胜善趣？云何方便生梵世？云何随乐施，生胜梵天？」\n世尊答偈：「随彼所乐施，欢喜净信心，离贪心解脱；修慈功德广。至诚设大会，善心正向解脱，或趣纯善，因平等施，得生梵世，寿命延长。」\n闻佛所说，欢喜随喜，从座起而去。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在舍卫国祇树给孤独园。\n魔瞿婆罗门前来问讯后说：「瞿昙！我在家常行布施，一个人来就给一个人，乃至百千人都给。这样布施，能得大福吗？」\n佛说：「确实得大福。因为你常施，来多少就给多少。」\n魔瞿说偈：「在家办大会，布施求大福；请问牟尼，怎样得解脱、得胜善趣？怎样能生梵世？怎样随喜布施，生到殊胜梵天？」\n佛答偈：「随对方所愿而施，怀着欢喜净信，离贪而心解脱；修慈的功德广大。至诚办大会，善心趋向解脱，或往生纯善趣；因心平等而施，得生梵世，寿命延长。」\n听佛所说，欢喜随喜，从座起身离去。",
+  "notes": "SC 于本经未列可靠巴利平行，故唯以汉本为底，参同相应之巴利定型语厘义；依项目规约「无可靠平行时 confidence 降为 medium/low」。confidence=medium：SC 唯列汉异译；题「摩佉」或关 Magha 系，然无可靠 SN。据汉本：等心随乐施、修慈、离贪，得梵世。不臆造平行。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "medium",
+  "prior_review_status": "needs_revision",
+  "similarity_to_source": 0.144,
+  "paragraph_parallel": true
+}

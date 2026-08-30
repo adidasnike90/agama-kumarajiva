@@ -1,0 +1,32 @@
+{
+  "id": "SA_1347",
+  "uid": "sa1347",
+  "title": "雜阿含經  卷第五十  林相應  （1347）  味",
+  "chinese_text": "如是我聞：\n\n一時，佛住舍衛國祇樹給孤獨園。\n\n時，尊者舍利弗在拘薩羅人間，依一聚落，止住田側。時，尊者舍利弗於晨朝時著衣持鉢，入村乞食。\n\n時，有一尼揵子飲酒狂醉，持一瓶酒從聚落出，見尊者舍利弗，而說偈言：\n\n「米膏熏我身，　　持米膏一瓶，\n\n　山地草樹木，　　視之一金色。」\n\n爾時，尊者舍利弗作是念：「作此惡聲，是惡邪物，而說是偈，我豈不能以偈答之？」時，尊者舍利弗即說偈言：\n\n「無想味所熏，　　持空三昧瓶，\n\n　山地草樹木，　　視之如涕唾。」",
+  "english_sa_text": "",
+  "parallels": [],
+  "primary_sn_uid": null,
+  "pali_text": "",
+  "english_sn_text": "",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa1301-1400/sa1347_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa1301-1400/sa1347_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛住舍卫国祇树给孤独园。\n尊者舍利弗在拘萨罗人间，依聚落田侧而住。晨著衣持钵入村乞食。\n有尼揵子酒醉，持酒瓶出，见尊者说偈：「米膏熏我身，持瓶而行；山河草木，视作金色。」\n尊者念：「恶邪作此声，我岂不能答？」即说偈：「无想定所熏，持空三昧瓶；山河草木，视之如涕唾。」",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在舍卫国祇树给孤独园。\n尊者舍利弗在拘萨罗人间，依着一处聚落的田边住。清晨穿衣持钵进村乞食。\n有一个尼揵子喝醉了，拿着酒瓶出来，看见尊者说偈：「米酒的气味熏着我的身体，我拿着酒瓶走；山河草木，看起来一片金色。」\n尊者心想：「这种恶邪发出这样的声音，我难道不能回答吗？」便说偈：「无想定熏习我，我持着空三昧之瓶；山河草木，在我看来如同涕唾。」",
+  "notes": "SC 于本经未列可靠巴利平行，故唯以汉本为底，参同相应之巴利定型语厘义；依项目规约「无可靠平行时 confidence 降为 medium/low」。confidence=medium：无 SC 专经；醉酒外道与空三昧对举，早期禅喻可解，不臆造 SN 编号。「无想／空三昧」按汉本禅定语境理解，不作后有部专名发挥。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "medium",
+  "prior_review_status": "needs_revision",
+  "similarity_to_source": 0.2,
+  "paragraph_parallel": true
+}

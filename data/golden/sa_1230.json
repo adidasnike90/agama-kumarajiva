@@ -1,0 +1,54 @@
+{
+  "id": "SA_1230",
+  "uid": "sa1230",
+  "title": "雜阿含經  卷第五十  剎利相應  （1230）  鹿穽",
+  "chinese_text": "如是我聞：\n\n一時，佛住舍衛國祇樹給孤獨園。\n\n時，波斯匿王獨靜思惟，作是念：「世少有人得勝妙財利能不放逸，能不貪著，能於眾生不起惡行。世多有人得勝妙財利起於放逸，增其貪著，起諸邪行。」作是念已，往詣佛所，稽首佛足，退坐一面，白佛言：「世尊！我獨靜思惟，作是念：『世間少有人得勝妙財，能於財利不起放逸，不起貪著，不作邪行。世多有人得勝妙財而起放逸，生於貪著，多起邪行。』」\n\n佛告波斯匿王：「如是，大王！如是，大王！世少有人得勝妙財利能不貪著，不起放逸，不起邪行。世多有人得勝妙財利，於財放逸，而起貪著，起諸邪行。大王當知，彼諸世人得勝財利，於財放逸，而起貪著，作邪行者，愚癡人，長夜當得不饒益苦。大王！譬如獵師、獵師弟子，空野林中張網施羂，多殺禽獸，困苦眾生，惡業增廣。如是，世人得勝妙財利，於財放逸，而起貪著，造諸邪行，亦復如是。是愚癡人，長夜當得不饒益苦。」爾時，世尊復說偈言：\n\n「貪欲於勝財，　　為貪所迷醉，\n\n　狂亂不自覺，　　猶如捕獵者，\n\n　緣斯放逸故，　　當受大苦報。」\n\n佛說此經已，波斯匿王聞佛所說，歡喜隨喜，作禮而去。",
+  "english_sa_text": "",
+  "parallels": [
+    {
+      "uid": "sa-2.58",
+      "acronym": "SA2 58",
+      "root_lang": "lzh",
+      "original_title": "鹿穽",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "sn3.6",
+      "acronym": "SN 3.6",
+      "root_lang": "pli",
+      "original_title": "Appakasutta",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    }
+  ],
+  "primary_sn_uid": "sn3.6",
+  "pali_text": "Sāvatthinidānaṁ. Ekamantaṁ nisinno kho rājā pasenadi kosalo bhagavantaṁ etadavoca: “idha mayhaṁ, bhante, rahogatassa paṭisallīnassa evaṁ cetaso parivitakko udapādi: ‘appakā te sattā lokasmiṁ ye uḷāre uḷāre bhoge labhitvā na ceva majjanti, na ca pamajjanti, na ca kāmesu gedhaṁ āpajjanti, na ca sattesu vippaṭipajjanti. Atha kho eteva bahutarā sattā lokasmiṁ ye uḷāre uḷāre bhoge labhitvā majjanti ceva pamajjanti ca kāmesu ca gedhaṁ āpajjanti, sattesu ca vippaṭipajjantī’”ti. “Evametaṁ, mahārāja, evametaṁ, mahārāja. Appakā te, mahārāja, sattā lokasmiṁ, ye uḷāre uḷāre bhoge labhitvā na ceva majjanti, na ca pamajjanti, na ca kāmesu gedhaṁ āpajjanti, na ca sattesu vippaṭipajjanti. Atha kho eteva bahutarā sattā lokasmiṁ, ye uḷāre uḷāre bhoge labhitvā majjanti ceva pamajjanti ca kāmesu ca gedhaṁ āpajjanti, sattesu ca vippaṭipajjantī”ti. Idamavoca …pe… “Sārattā kāmabhogesu, giddhā kāmesu mucchitā; Atisāraṁ na bujjhanti, migā kūṭaṁva oḍḍitaṁ; Pacchāsaṁ kaṭukaṁ hoti, vipāko hissa pāpako”ti.",
+  "english_sn_text": "At Sāvatthī. Seated to one side, King Pasenadi said to the Buddha, “Just now, sir, as I was in private retreat this thought came to mind: ‘Few are the sentient beings in the world who, when they obtain luxury possessions, don’t grow indulgent and negligent, giving in to greed for sensual pleasures, and doing the wrong thing by others. There are many more who, when they obtain luxury possessions, do grow indulgent and negligent, giving in to greed for sensual pleasures, and doing the wrong thing by others.’” “That’s so true, Great King! That’s so true!” said the Buddha. And he repeated the king’s statement, adding: “Full of desire for possessions and pleasures, greedy, infatuated by sensual pleasures; they don’t notice that they’ve gone too far, like deer ensnared in a trap set out. It’ll be bitter later on; for the result will be bad for them.”",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa1201-1300/sa1230_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa1201-1300/sa1230_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛住舍卫国祇树给孤独园。\n时波斯匿王独静思惟：「世少有人得胜妙财而不放逸、不贪着、不于他作恶；世多有人得财即放逸、增贪、作诸邪行。」往白世尊。\n佛言：「如是，大王！得财而放逸贪着作恶者，长夜得不饶益苦。譬如鹿入猎人陷阱，后受苦果；财欲空无实，不可依怙。」即说偈：「贪着胜妙财，欲醉不自觉；如鹿陷阱中，后当受大苦。」\n佛说此经已，波斯匿王闻佛所说，欢喜随喜，作礼而去。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在舍卫国祇树给孤独园。\n当时波斯匿王独自静思：「世上很少有人得到胜妙财利还能不放逸、不贪着、不对别人作恶；世上多数人一得财就放逸、增贪、作种种邪行。」前来禀告世尊。\n佛说：「正是这样，大王！得财却放逸贪着作恶的人，长夜会得到不利益的苦。就像鹿落入猎人的陷阱，后来要受苦果；财欲空无坚实，不可依怙。」便说偈：「贪着胜妙财，被欲所醉而不自觉；像鹿陷在阱里，后来必受大苦。」\n佛说完这部经，波斯匿王听佛所说，欢喜随喜，作礼而去。",
+  "notes": "本经 SC 平行表所列平行及 `raw_aligned_data.json` 内之巴利本文、Sujato 英译并用以厘定法义；求那跋陀罗汉本用于定位经文与传统术语。confidence=high：primary SN3.6。据 SN 校正：喻作鹿陷阱（汉「猎师张网杀禽兽」→鹿穽，与经题／巴利一致）。",
+  "review_status": "gold_reconstructed",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "high",
+  "prior_review_status": "needs_revision",
+  "reconstruction_basis": "喻据 SN3.6 改鹿陷阱（对经题鹿穽）。",
+  "similarity_to_source": 0.124,
+  "paragraph_parallel": true
+}

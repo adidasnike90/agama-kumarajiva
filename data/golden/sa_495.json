@@ -1,0 +1,213 @@
+{
+  "id": "SA_495",
+  "uid": "sa495",
+  "title": "雜阿含經  卷第二十  舍利弗相應  （495）  戒",
+  "chinese_text": "如是我聞：\n\n一時，佛住王舍城迦蘭陀竹園。時，尊者舍利弗在耆闍崛山中。\n\n爾時，尊者舍利弗告諸比丘：「其犯戒者，以破戒故，所依退減，心不樂住；不樂住已，失喜、息、樂、寂靜三昧、如實知見、厭離、離欲、解脫已，永不能得無餘涅槃。如樹根壞，枝葉華果悉不成就，犯戒比丘亦復如是。功德退減，心不樂住，不信樂已，失喜、息、樂、寂靜三昧、如實知見、厭離、離欲、解脫，失解脫已，永不能得無餘涅槃。\n\n「持戒比丘根本具足，所依具足，心得信樂；得信樂已，心得歡喜、息、樂、寂靜三昧、如實知見、厭離、離欲、解脫；得解脫已，悉能疾得無餘涅槃。譬如樹根不壞，枝葉華果悉得成就，持戒比丘亦復如是。根本具足，所依成就，心得信樂，得信樂已，歡喜、息、樂、寂靜三昧、如實知見、厭離、離欲、解脫，疾得無餘涅槃。」\n\n尊者舍利弗說是經已，諸比丘聞其所說，歡喜奉行。",
+  "english_sa_text": "",
+  "parallels": [
+    {
+      "uid": "an5.168",
+      "acronym": "AN 5.168",
+      "root_lang": "pli",
+      "original_title": "Sīlasutta",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "an5.24",
+      "acronym": "AN 5.24",
+      "root_lang": "pli",
+      "original_title": "Dussīlasutta",
+      "translated_title": "Immoral",
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "ma46",
+      "acronym": "MA 46",
+      "root_lang": "lzh",
+      "original_title": "慚愧",
+      "translated_title": "Conscience and Modesty (2)",
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "an10.3",
+      "acronym": "AN 10.3",
+      "root_lang": "pli",
+      "original_title": "Paṭhamaupanisasutta",
+      "translated_title": "Virtuous Behavior",
+      "type": "full",
+      "resembling": true,
+      "remark": null
+    },
+    {
+      "uid": "an10.4",
+      "acronym": "AN 10.4",
+      "root_lang": "pli",
+      "original_title": "Dutiyaupanisasutta",
+      "translated_title": "Proximate Cause",
+      "type": "full",
+      "resembling": true,
+      "remark": null
+    },
+    {
+      "uid": "an11.3",
+      "acronym": "AN 11.3",
+      "root_lang": "pli",
+      "original_title": "Paṭhamaupanisāsutta",
+      "translated_title": null,
+      "type": "full",
+      "resembling": true,
+      "remark": null
+    },
+    {
+      "uid": "an11.4",
+      "acronym": "AN 11.4",
+      "root_lang": "pli",
+      "original_title": "Dutiyaupanisāsutta",
+      "translated_title": null,
+      "type": "full",
+      "resembling": true,
+      "remark": null
+    },
+    {
+      "uid": "an5.21",
+      "acronym": "AN 5.21",
+      "root_lang": "pli",
+      "original_title": "Paṭhamaagāravasutta",
+      "translated_title": "Irreverent (1)",
+      "type": "full",
+      "resembling": true,
+      "remark": null
+    },
+    {
+      "uid": "an5.22",
+      "acronym": "AN 5.22",
+      "root_lang": "pli",
+      "original_title": "Dutiyaagāravasutta",
+      "translated_title": "Irreverent (2)",
+      "type": "full",
+      "resembling": true,
+      "remark": null
+    },
+    {
+      "uid": "an6.50",
+      "acronym": "AN 6.50",
+      "root_lang": "pli",
+      "original_title": "Indriyasaṁvarasutta",
+      "translated_title": null,
+      "type": "full",
+      "resembling": true,
+      "remark": null
+    },
+    {
+      "uid": "an7.65",
+      "acronym": "AN 7.65",
+      "root_lang": "pli",
+      "original_title": "Hirīottappasutta",
+      "translated_title": null,
+      "type": "full",
+      "resembling": true,
+      "remark": null
+    },
+    {
+      "uid": "an8.81",
+      "acronym": "AN 8.81",
+      "root_lang": "pli",
+      "original_title": "Satisampajaññasutta",
+      "translated_title": null,
+      "type": "full",
+      "resembling": true,
+      "remark": null
+    },
+    {
+      "uid": "ma44",
+      "acronym": "MA 44",
+      "root_lang": "lzh",
+      "original_title": "念",
+      "translated_title": "Mindfulness",
+      "type": "full",
+      "resembling": true,
+      "remark": null
+    },
+    {
+      "uid": "ma45",
+      "acronym": "MA 45",
+      "root_lang": "lzh",
+      "original_title": "慚愧",
+      "translated_title": "Conscience and Modesty",
+      "type": "full",
+      "resembling": true,
+      "remark": null
+    },
+    {
+      "uid": "ma47",
+      "acronym": "MA 47",
+      "root_lang": "lzh",
+      "original_title": "戒",
+      "translated_title": "Precepts",
+      "type": "full",
+      "resembling": true,
+      "remark": null
+    },
+    {
+      "uid": "ma48",
+      "acronym": "MA 48",
+      "root_lang": "lzh",
+      "original_title": "戒",
+      "translated_title": "Precepts (2)",
+      "type": "full",
+      "resembling": true,
+      "remark": null
+    },
+    {
+      "uid": "ma49",
+      "acronym": "MA 49",
+      "root_lang": "lzh",
+      "original_title": "恭敬",
+      "translated_title": "Veneration",
+      "type": "full",
+      "resembling": true,
+      "remark": null
+    },
+    {
+      "uid": "ma50",
+      "acronym": "MA 50",
+      "root_lang": "lzh",
+      "original_title": "恭敬",
+      "translated_title": "Veneration (2)",
+      "type": "full",
+      "resembling": true,
+      "remark": null
+    }
+  ],
+  "primary_sn_uid": null,
+  "pali_text": "",
+  "english_sn_text": "",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa401-500/sa495_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa401-500/sa495_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛在王舍城迦兰陀竹园。尊者舍利弗在耆闍崛山中。\n舍利弗告诸比丘：「犯戒者以破戒故所依退减，心不安住；不住则失喜、息、乐、寂静三昧、如实知见、厌离、离欲、解脱，永不得无余涅槃——如树根坏，枝叶华果悉不成就。持戒者根本具足、所依具足，心得信乐；信乐则得欢喜、息、乐、寂静三昧、如实知见、厌离、离欲、解脱，疾得无余涅槃——如树根不坏，枝叶华果悉得成就。」\n尊者舍利弗说是经已，诸比丘闻其所说，欢喜奉行。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在王舍城迦兰陀竹园。舍利弗尊者在耆闍崛山中。\n舍利弗告诉比丘们：「犯戒的人因为破戒，所依退减，心不能安住；不能安住就失去喜、息、乐、寂静三昧、如实知见、厌离、离欲、解脱，永远得不到无余涅槃——就像树根坏了，枝叶花果都不能成就。」\n舍利弗尊者说完这部经，比丘们听其所说，都欢喜奉行。",
+  "notes": "SC 于本经未列可靠巴利平行，故唯以汉本为底，参同相应之巴利定型语厘义；依项目规约「无可靠平行时 confidence 降为 medium/low」，本经作 medium。义据 SN39.20 Sīla 树根喻；保留喜息乐三昧链，改冗复，medium。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "medium",
+  "prior_review_status": "needs_revision",
+  "similarity_to_source": 0.287,
+  "paragraph_parallel": true
+}

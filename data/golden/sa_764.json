@@ -1,0 +1,43 @@
+{
+  "id": "SA_764",
+  "uid": "sa764",
+  "title": "雜阿含經  卷第三十  聖道分相應  （764）  修",
+  "chinese_text": "如是我聞：\n\n一時，佛住舍衛國祇樹給孤獨園。\n\n爾時，世尊告諸比丘：「我今當說修八聖道。諦聽，善思。何等為修八聖道？是比丘修正見，依遠離、依無欲、依滅、向於捨，修正志、正語、正業、正命、正方便、正念、正定，依遠離、依無欲、依滅、向於捨，是名修八聖道。」\n\n佛說此經已，諸比丘聞佛所說，歡喜奉行。",
+  "english_sa_text": "",
+  "parallels": [
+    {
+      "uid": "sn45.15",
+      "acronym": "SN 45.15",
+      "root_lang": "pli",
+      "original_title": "Dutiyauppādasutta",
+      "translated_title": "Arising (2)",
+      "type": "full",
+      "resembling": true,
+      "remark": null
+    }
+  ],
+  "primary_sn_uid": "sn45.15",
+  "pali_text": "Sāvatthinidānaṁ. “Aṭṭhime, bhikkhave, dhammā bhāvitā bahulīkatā anuppannā uppajjanti, nāññatra sugatavinayā. Katame aṭṭha? Seyyathidaṁ—sammādiṭṭhi …pe… sammāsamādhi. Ime kho, bhikkhave, aṭṭha dhammā bhāvitā bahulīkatā anuppannā uppajjanti, nāññatra sugatavinayā”ti. Pañcamaṁ.",
+  "english_sn_text": "At Sāvatthī. “Mendicants, these eight things don’t arise to be developed and cultivated apart from the Holy One’s training. What eight? They are: right view, right purpose, right speech, right action, right livelihood, right effort, right mindfulness, and right immersion. These are the eight things that don’t arise to be developed and cultivated apart from the Holy One’s training.”",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa701-800/sa764_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa701-800/sa764_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛住舍卫国祇树给孤独园。\n佛告比丘：「云何修习八圣道？谛听。比丘修习正见，依远离、依离欲、依灭、向于舍；正志、正语、正业、正命、正方便、正念、正定，皆依远离、依离欲、依灭、向于舍——是名修八圣道。」\n佛说此经已，诸比丘闻佛所说，欢喜奉行。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在舍卫国祇树给孤独园。\n佛告诉比丘：「怎样修习八圣道？仔细听。比丘修习正见，依于远离、依于离欲、依于灭、而趋向舍；正志、正语、正业、正命、正方便、正念、正定，都依于远离、依于离欲、依于灭、而趋向舍——这叫做修八圣道。」\n佛说完这部经，比丘们听佛所说，都欢喜奉行。",
+  "notes": "本经 SC 平行表所列平行及 `raw_aligned_data.json` 内之巴利本文、Sujato 英译并用以厘定法义；求那跋陀罗汉本用于定位经文与传统术语。confidence=high：SC 列 SN45.15（生起）；汉正文为 viveka-nissita 修习式，据道相应常法保留；「依無欲」作「依离欲」。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "high",
+  "prior_review_status": "needs_revision",
+  "similarity_to_source": 0.331,
+  "paragraph_parallel": true
+}

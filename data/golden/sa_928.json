@@ -1,0 +1,53 @@
+{
+  "id": "SA_928",
+  "uid": "sa928",
+  "title": "雜阿含經  卷第三十六  釋氏相應  （928）  得果",
+  "chinese_text": "如是我聞：\n\n一時，佛住迦毘羅衛國尼拘律園中。\n\n爾時，釋氏摩訶男與五百優婆塞來詣佛所，稽首佛足，退坐一面，白佛言：「世尊！云何名優婆塞？」\n\n佛告摩訶男：「優婆塞者，在家淨住，乃至盡壽，歸依三寶，為優婆塞，證知我！」\n\n摩訶男白佛言：「世尊！云何名優婆塞須陀洹？」\n\n佛告摩訶男：「優婆塞須陀洹者，三結已斷已知，謂身見、戒取、疑。摩訶男！是名優婆塞須陀洹。」\n\n摩訶男白佛言：「世尊！云何名優婆塞斯陀含？」\n\n佛告摩訶男：「謂優婆塞三結已斷已知，貪、恚、癡薄。摩訶男！是名優婆塞斯陀含。」\n\n摩訶男白佛言：「世尊！云何名優婆塞阿那含？」\n\n佛告摩訶男：「優婆塞阿那含者，五下分結已斷已知，謂身見、戒取、疑、貪欲、瞋恚。摩訶男！是名優婆塞阿那含。」\n\n時，摩訶男釋氏顧視五百優婆塞，而作是言：「奇哉！諸優婆塞，在家清白，乃得如是深妙功德。」\n\n時，摩訶男優婆塞聞佛所說，歡喜隨喜，從坐起，作禮而去。",
+  "english_sa_text": "",
+  "parallels": [
+    {
+      "uid": "sa-2.153",
+      "acronym": "SA2 153",
+      "root_lang": "lzh",
+      "original_title": "得果",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "sn55.49",
+      "acronym": "SN 55.49",
+      "root_lang": "pli",
+      "original_title": "Mahānāmasutta",
+      "translated_title": null,
+      "type": "full",
+      "resembling": true,
+      "remark": null
+    }
+  ],
+  "primary_sn_uid": "sn55.49",
+  "pali_text": "Kapilavatthunidānaṁ. Ekamantaṁ nisinnaṁ kho mahānāmaṁ sakkaṁ bhagavā etadavoca: “catūhi kho, mahānāma, dhammehi samannāgato ariyasāvako sotāpanno hoti …pe… sambodhiparāyaṇo. Katamehi catūhi? Idha, mahānāma, ariyasāvako buddhe …pe… dhamme …pe… saṅghe …pe… ariyakantehi sīlehi samannāgato hoti akhaṇḍehi …pe… samādhisaṁvattanikehi. Imehi kho, mahānāma, catūhi dhammehi samannāgato ariyasāvako sotāpanno hoti avinipātadhammo niyato sambodhiparāyaṇo”ti. Navamaṁ.",
+  "english_sn_text": "At Kapilavatthu. Seated to one side, the Buddha said to Mahānāma the Sakyan: “Mahānāma, a noble disciple who has four things is a stream-enterer …”",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa901-1000/sa928_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa901-1000/sa928_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛住迦毗罗卫国尼拘律园中。\n时摩诃男与五百优婆塞来诣佛所，问：「云何名优婆塞？」佛言：「在家净住，尽寿归依三宝，为优婆塞，证知我！」\n「云何优婆塞须陀洹？」「三结已断已知：身见、戒取、疑。」\n「云何斯陀含？」「三结已断，贪恚痴薄。」\n「云何阿那含？」「五下分结已断已知：身见、戒取、疑、贪欲、瞋恚。」\n摩诃男顾视五百优婆塞言：「奇哉！在家清白，乃得如是深妙功德。」欢喜随喜，作礼而去。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在迦毗罗卫国尼拘律园中。\n当时摩诃男与五百优婆塞来到佛处，问：「怎样叫做优婆塞？」佛说：「在家清净而住，尽形寿归依三宝，作优婆塞，请为我作证！」\n「怎样是优婆塞须陀洹？」「三结已经断除并已知：身见、戒取、疑。」\n「怎样是斯陀含？」「三结已断，贪、瞋、痴减薄。」\n「怎样是阿那含？」「五下分结已经断除并已知：身见、戒取、疑、贪欲、瞋恚。」\n摩诃男环顾五百优婆塞说：「真希有！在家清净，竟能得到这样深妙的功德。」欢喜随喜，行礼离去。",
+  "notes": "本经 SC 平行表所列平行及 `raw_aligned_data.json` 内之巴利本文、Sujato 英译并用以厘定法义；求那跋陀罗汉本用于定位经文与传统术语。confidence=high：primary SN55.49；在家得三果；SN 略异而义同三结／五下分结。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "high",
+  "prior_review_status": "needs_revision",
+  "similarity_to_source": 0.195,
+  "paragraph_parallel": true
+}

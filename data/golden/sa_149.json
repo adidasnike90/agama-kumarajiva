@@ -1,0 +1,73 @@
+{
+  "id": "SA_149",
+  "uid": "sa149",
+  "title": "雜阿含經  卷第七  見相應  （149）  我勝",
+  "chinese_text": "如是我聞：\n\n一時，佛住舍衛國祇樹給孤獨園。\n\n爾時，世尊告諸比丘：「何所有故，何所起？何所繫著，何所見我？令諸眾生作如是見、如是說：『我勝、我等、我卑。』？」\n\n諸比丘白佛言：「世尊是法根、法眼、法依……」如是廣說，次第如上三經。",
+  "english_sa_text": "Saṁyuktāgama\n\n149. [First Discourse on Feeling Superior]\n\nThus have I heard. At one time the Buddha was staying at Sāvatthī in Jeta's Grove, Anāthapiṇḍika's Park.\n\nAt that time the Blessed One said to the monks: “The existence of what is the cause, by clinging to what, by being fettered and attached to what, by seeing what as the self, do living beings have a view like this and speak like this: 'I am superior, I am equal, I am inferior?'”\n\nThe monks said to the Buddha: “The Blessed One is the root of the Dharma, the eye of the Dharma, the foundation of the Dharma …” to be recited fully in the same way in the sequence of the above three discourses.\n\nTranslated by Bhikkhu Anālayo. Originally published in ‘On Views and Penetrative Knowledge – A Translation of Saṁyukta-āgama Discourses 139 to 187 (Fascicle 7)’, Dharma Drum Journal of Buddhist Studies, 2015, vol. 17 pp. 43–100.\n\nPrepared for SuttaCentral by Seniya Ariyakumara and Ayya Vimala.",
+  "parallels": [
+    {
+      "uid": "sn35.108",
+      "acronym": "SN 35.108",
+      "root_lang": "pli",
+      "original_title": "Seyyohamasmisutta",
+      "translated_title": "I Am Superior",
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "sa151",
+      "acronym": "SA 151",
+      "root_lang": "lzh",
+      "original_title": "我勝",
+      "translated_title": "[Third Discourse on Feeling Superior]",
+      "type": "full",
+      "resembling": true,
+      "remark": null
+    },
+    {
+      "uid": "sa150",
+      "acronym": "SA 150",
+      "root_lang": "lzh",
+      "original_title": "我勝",
+      "translated_title": "[Second Discourse on Feeling Superior]",
+      "type": "full",
+      "resembling": true,
+      "remark": null
+    },
+    {
+      "uid": "sa101-200",
+      "acronym": null,
+      "root_lang": "lzh",
+      "original_title": "Saṁyuktāgama 101–200",
+      "translated_title": null,
+      "type": "full",
+      "resembling": true,
+      "remark": null
+    }
+  ],
+  "primary_sn_uid": "sn35.108",
+  "pali_text": "“Kismiṁ nu kho, bhikkhave, sati kiṁ upādāya kiṁ abhinivissa seyyohamasmīti vā hoti, sadisohamasmīti vā hoti, hīnohamasmīti vā hotī”ti? “Bhagavaṁmūlakā no, bhante, dhammā …pe…. “Cakkhusmiṁ kho, bhikkhave, sati cakkhuṁ upādāya cakkhuṁ abhinivissa seyyohamasmīti vā hoti, sadisohamasmīti vā hoti, hīnohamasmīti vā hoti …pe… jivhāya sati …pe… manasmiṁ sati manaṁ upādāya manaṁ abhinivissa seyyohamasmīti vā hoti, sadisohamasmīti vā hoti, hīnohamasmīti vā hoti. Taṁ kiṁ maññatha, bhikkhave, cakkhu niccaṁ vā aniccaṁ vā”ti? “Aniccaṁ, bhante”. “Yaṁ panāniccaṁ dukkhaṁ vā taṁ sukhaṁ vā”ti? “Dukkhaṁ, bhante”. “Yaṁ panāniccaṁ dukkhaṁ vipariṇāmadhammaṁ, api nu taṁ anupādāya seyyohamasmīti vā assa, sadisohamasmīti vā assa, hīnohamasmīti vā assā”ti? “No hetaṁ, bhante” …pe… jivhā … niccā vā aniccā vā”ti? “Aniccā, bhante” …pe…. “Mano nicco vā anicco vā”ti? “Anicco, bhante”. “Yaṁ panāniccaṁ dukkhaṁ vā taṁ sukhaṁ vā”ti? “Dukkhaṁ, bhante”. “Yaṁ panāniccaṁ dukkhaṁ vipariṇāmadhammaṁ, api nu taṁ anupādāya seyyohamasmīti vā assa, sadisohamasmīti vā assa, hīnohamasmīti vā assā”ti? “No hetaṁ, bhante”. “Evaṁ passaṁ, bhikkhave, sutavā ariyasāvako cakkhusmimpi nibbindati …pe… manasmimpi nibbindati. Nibbindaṁ virajjati; virāgā vimuccati; vimuttasmiṁ vimuttamiti ñāṇaṁ hoti. ‘Khīṇā jāti, vusitaṁ brahmacariyaṁ, kataṁ karaṇīyaṁ, nāparaṁ itthattāyā’ti pajānātī”ti. Pañcamaṁ.",
+  "english_sn_text": "“Mendicants, when what exists, because of grasping what and insisting on what, do people think ‘I’m better’ or ‘I’m equal’ or ‘I’m worse’?” “Our teachings are rooted in the Buddha. …” “When there’s an eye, because of grasping the eye and insisting on the eye, people think ‘I’m better’ or ‘I’m equal’ or ‘I’m worse’. … When there’s a mind, because of grasping the mind and insisting on the mind, people think ‘I’m better’ or ‘I’m equal’ or ‘I’m worse’. What do you think, mendicants? Is the eye permanent or impermanent?” “Impermanent, sir.” “But if it’s impermanent, is it suffering or happiness?” “Suffering, sir.” “But by not grasping what’s impermanent, suffering, and perishable, would people think ‘I’m better’ or ‘I’m equal’ or ‘I’m worse’?” “No, sir.” … “Is the mind permanent or impermanent?” “Impermanent, sir.” “But if it’s impermanent, is it suffering or happiness?” “Suffering, sir.” “But by not grasping what’s impermanent, suffering, and perishable, would people think ‘I’m better’ or ‘I’m equal’ or ‘I’m worse’?” “No, sir.” “Seeing this, a learned noble disciple grows disillusioned with the eye, ear, nose, tongue, body, and mind. Being disillusioned, desire fades away. When desire fades away they’re freed. When they’re freed, they know they’re freed. They understand: ‘Rebirth is ended, the spiritual journey has been completed, what had to be done has been done, there is nothing further for this place.’”",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa101-200/sa149_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa101-200/sa149_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时佛在舍卫国祇树给孤独园。\n尔时世尊告诸比丘：有何法故、取何法、著何法，令诸众生作如是见、如是说：「我胜、我等、我卑」？\n诸比丘白佛：世尊为法根、法眼、法依。善哉世尊！唯愿哀愍，广说其义；诸比丘闻已，当受奉行。\n佛告比丘：谛听，善思，当为汝说。诸比丘！有色故，取色、著色，令诸众生作如是见、如是说：「我胜、我等、我卑」；受、想、行、识亦复如是。诸比丘！于意云何？色为常耶？为非常耶？\n答曰：无常，世尊。\n复问：若无常者，是苦耶？\n答曰：是苦，世尊。\n复问：若无常、苦、变易之法，不取著者，宁作是见、是说「我胜、我等、我卑」不？\n答曰：不也，世尊。\n佛告比丘：如是，比丘！多闻圣弟子如是见者，于色厌，于受、想、行、识厌；厌故离欲，离欲故解脱，解脱知见生：我生已尽，梵行已立，所作已作，自知不受后有。若多闻圣弟子于此六见处观察非我、非我所，如是观者，于佛狐疑断，于法、僧狐疑断。是名多闻圣弟子不复堪任作身、口、意业趣三恶道；正使放逸，圣弟子决定向三菩提，极七往来天人之间，究竟苦边。\n次二经亦如是说，所差别者：一者于苦、集、灭、道狐疑断；一者于佛、法、僧狐疑断，于苦、集、灭、道狐疑断。\n佛说此经已，诸比丘闻佛所说，欢喜奉行。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在舍卫国祇树给孤独园。\n那时，世尊告诉比丘们：因为有什么、执取什么、固执什么，才使众生生出这样的见解、说出这样的话：「我胜过人、我与人相等、我不如人」？\n比丘们对佛说：世尊是法的根本、法眼、法的依止。很好，世尊！但愿您哀愍我们，详说这个义理；我们听了，当受持奉行。\n佛告诉比丘们：仔细听，好好思惟，我为你们说。比丘们！因为有色，执取色、固执色，才使众生生出这样的见解、说出这样的话：「我胜过人、我与人相等、我不如人」；受、想、行、识也是一样。比丘们！你们怎么想？色是常的，还是无常的？\n回答说：无常，世尊。\n又问：既然无常，那是苦吗？\n回答说：是苦，世尊。\n又问：既然是无常、是苦、是会变坏的法，若不去执取它，还会生出这样的见解、说出「我胜过人、我与人相等、我不如人」这样的话吗？\n回答说：不会，世尊。\n佛告诉比丘们：正是这样，比丘！多闻圣弟子这样见了，就对色厌离，对受、想、行、识厌离；厌离就离欲，离欲就解脱，解脱知见生起：我生已尽，梵行已立，所作已作，自知不受后有。如果多闻圣弟子对这六种见处观察为非我、非我所，这样观察的人，对佛的犹疑就断了，对法、对僧的犹疑也断了。这样的多闻圣弟子，再也做不出会把自己带向三恶道的身业、口业、意业；纵使一时放逸，圣弟子也已确定趣向正觉，至多在天界人间往来七次，就走到苦的尽头。\n接下来的两经也这样说，差别在于：一经说对苦、集、灭、道的犹疑断除；一经说对佛、法、僧的犹疑断除，对苦、集、灭、道的犹疑也断除。\n佛说完这部经，比丘们听佛所说，都欢喜奉行。",
+  "notes": "据 SN35.108（Seyyasutta，SC 主平行）：「我胜、我等、我卑」＝ seyyohamasmi／sadisohamasmi／hīnohamasmi，即三种慢（māna）；巴利以六内入处（眼…意）为所依，本经在见相应中以五受阴为所依，所依不同而义一，今依汉本作五阴，于此标明。末段厌、离欲、解脱、解脱知见依巴利补。底本作「如是廣說，次第如上三經」，今依 SA_133–135 之纲展开，并以一段存其三经差别。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "high",
+  "prior_review_status": "needs_revision",
+  "similarity_to_source": 0.101,
+  "paragraph_parallel": true
+}

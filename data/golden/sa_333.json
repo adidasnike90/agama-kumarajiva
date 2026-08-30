@@ -1,0 +1,93 @@
+{
+  "id": "SA_333",
+  "uid": "sa333",
+  "title": "雜阿含經  卷第十三  因緣相應  （333）  過去",
+  "chinese_text": "如是我聞：\n\n一時，佛住舍衛國祇樹給孤獨園。\n\n爾時，世尊告諸比丘：「過去、未來眼無常，況現在眼，多聞聖弟子如是觀者，不顧過去眼，不欣未來眼，於現在眼生厭、離欲、滅盡向。耳、鼻、舌、身、意亦如是說。」\n\n如無常。如是苦、空、非我，亦如是說。如內入處四經、外入處四經，亦如是說。",
+  "english_sa_text": "",
+  "parallels": [
+    {
+      "uid": "sn35.12",
+      "acronym": "SN 35.12",
+      "root_lang": "pli",
+      "original_title": "Bāhirānattātītānāgatasutta",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "sn35.11",
+      "acronym": "SN 35.11",
+      "root_lang": "pli",
+      "original_title": "Bāhiradukkhātītānāgatasutta",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "sn35.10",
+      "acronym": "SN 35.10",
+      "root_lang": "pli",
+      "original_title": "Bāhirāniccātītānāgatasutta",
+      "translated_title": "The External as Impermanent in the Three Times, Etc.",
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "sn35.9",
+      "acronym": "SN 35.9",
+      "root_lang": "pli",
+      "original_title": "Ajjhattānattātītānāgatasutta",
+      "translated_title": "The Internal as Nonself in the Three Times",
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "sn35.8",
+      "acronym": "SN 35.8",
+      "root_lang": "pli",
+      "original_title": "Ajjhattadukkhātītānāgatasutta",
+      "translated_title": "The Internal as Suffering in the Three Times",
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "sn35.7",
+      "acronym": "SN 35.7",
+      "root_lang": "pli",
+      "original_title": "Ajjhattāniccātītānāgatasutta",
+      "translated_title": "The Internal as Impermanent in the Three Times",
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    }
+  ],
+  "primary_sn_uid": "sn35.10",
+  "pali_text": "“Rūpā, bhikkhave, aniccā atītānāgatā; ko pana vādo paccuppannānaṁ. Evaṁ passaṁ, bhikkhave, sutavā ariyasāvako atītesu rūpesu anapekkho hoti; anāgate rūpe nābhinandati; paccuppannānaṁ rūpānaṁ nibbidāya virāgāya nirodhāya paṭipanno hoti. Saddā … gandhā … rasā … phoṭṭhabbā … dhammā aniccā atītānāgatā; ko pana vādo paccuppannānaṁ. Evaṁ passaṁ, bhikkhave, sutavā ariyasāvako atītesu dhammesu anapekkho hoti; anāgate dhamme nābhinandati; paccuppannānaṁ dhammānaṁ nibbidāya virāgāya nirodhāya paṭipanno hotī”ti. Dasamaṁ.",
+  "english_sn_text": "“Mendicants, sights of the past and future are impermanent, let alone the present. …”",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa301-400/sa333_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa301-400/sa333_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛在舍卫国祇树给孤独园。\n尔时，世尊告诸比丘：「过去、未来眼无常，何况现在眼。多闻圣弟子如是观者：不顾过去眼，不欣未来眼，于现在眼生厌、离欲、向于灭尽。耳、鼻、舌、身、意亦复如是。」\n「如说无常，苦、空、非我亦如是说。内入处四经、外入处四经，亦如是说。」",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在舍卫国祇树给孤独园。\n那时，世尊告诉比丘们：「过去、未来的眼是无常的，何况现在的眼。多闻圣弟子这样观察：不顾恋过去的眼，不欣求未来的眼，对现在的眼生起厌离、离贪、趋向灭尽。耳、鼻、舌、身、意也是一样。」\n「如同说无常，苦、空、非我也是这样说。内入处四经、外入处四经，也是这样说。」",
+  "notes": "本经 SC 平行表所列平行及 `raw_aligned_data.json` 内之巴利本文、Sujato 英译并用以厘定法义；求那跋陀罗汉本用于定位经文与传统术语。confidence=high：primary SN35.10（Bāhirāniccātītānāgata）；SC 并列 SN35.7–12（内／外 × 无常／苦／非我）。信-校正：汉「况现在眼」＝巴利 ko pana vādo paccuppannānaṁ；「生厌、离欲、灭尽向」＝nibbindati virajjati nirodhāya…末段「内入处四经、外入处四经」为 peyyāla 省文，如实存，不回填全文。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "high",
+  "prior_review_status": "needs_revision",
+  "similarity_to_source": 0.387,
+  "paragraph_parallel": true
+}

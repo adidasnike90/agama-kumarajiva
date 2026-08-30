@@ -1,0 +1,53 @@
+{
+  "id": "SA_661",
+  "uid": "sa661",
+  "title": "雜阿含經  卷第二十七  根力相應  （661）  二力",
+  "chinese_text": "如是我聞：\n\n一時，佛住舍衛國祇樹給孤獨園。\n\n爾時，世尊告諸比丘：「有二種力。何等為二？謂數力及修力。何等為數力？謂聖弟子空閑林中樹下，作如是思惟：『身惡行，現法、後世受於惡報。我若行身惡行者，我當自悔教，他亦悔我，大師亦當悔我，大德梵行亦當悔我，以法責我惡名流布，身壞命終，當生惡趣泥犁中。』如是現法後報，身惡行斷，修身善行。如身惡行，口、意惡行亦如是說，是名數力。何等為修力？若比丘學於數力，聖弟子數力成就已，隨得修力，得修力已，修力滿足。」\n\n佛說此經已，諸比丘聞佛所說，歡喜奉行。",
+  "english_sa_text": "",
+  "parallels": [
+    {
+      "uid": "an2.11-20",
+      "acronym": "AN 2.11–20",
+      "root_lang": "pli",
+      "original_title": "Adhikaraṇavagga",
+      "translated_title": "",
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "sa-3.16",
+      "acronym": "SA3 16",
+      "root_lang": "lzh",
+      "original_title": "二力",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    }
+  ],
+  "primary_sn_uid": null,
+  "pali_text": "",
+  "english_sn_text": "",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa601-700/sa661_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa601-700/sa661_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛住舍卫国祇树给孤独园。\n佛告比丘：「有二种力——思择力、修习力。」\n「何等思择力？圣弟子于空闲林树下作是思惟：『身恶行，现法、后世受恶报。我若行身恶行，则自悔、他人亦悔我，大师、梵行者皆当责我，恶名流布，身坏命终，堕恶趣泥犁。』如是思择已，断身恶行，修身善行；口、意恶行亦如是断、修——是名思择力。」\n「何等修习力？圣弟子思择力成就已，随得修习力；得已，修习力满足。」\n佛说此经已，诸比丘闻佛所说，欢喜奉行。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在舍卫国祇树给孤独园。\n佛告比丘：「有二种力——思择力、修习力。」\n「什么是思择力？圣弟子在空闲林树下这样思惟：『身恶行，现法、后世会受恶报。我若行身恶行，自己后悔，他人也因我后悔，大师、梵行者都会责备我，恶名流传，身坏命终，堕入恶趣地狱。』这样思择之后，断身恶行，修身善行；口、意恶行也这样断、修——这叫思择力。」\n「什么是修习力？圣弟子思择力成就之后，随之得到修习力；得到以后，修习力满足。」\n佛说完这部经，比丘们听佛所说，都欢喜奉行。",
+  "notes": "本经 SC 平行表所列平行及 `raw_aligned_data.json` 内之巴利本文、Sujato 英译并用以厘定法义；求那跋陀罗汉本用于定位经文与传统术语。confidence=high：primary AN2.11–20 系（paṭisaṅkhānabala／bhāvanābala）。「数力」据巴利作「思择力」（计数／思择）；修力＝修习力。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "high",
+  "prior_review_status": "needs_revision",
+  "similarity_to_source": 0.203,
+  "paragraph_parallel": true
+}

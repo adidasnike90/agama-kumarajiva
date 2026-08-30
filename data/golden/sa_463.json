@@ -1,0 +1,32 @@
+{
+  "id": "SA_463",
+  "uid": "sa463",
+  "title": "雜阿含經  卷第十九  受相應  （463）  三界",
+  "chinese_text": "如是我聞：\n\n一時，佛住拘睒彌國瞿師羅園。\n\n爾時，瞿師羅長者詣尊者阿難所，稽首禮足，退坐一面，白尊者阿難：「所說種種界。云何為種種界？」\n\n尊者阿難答瞿師羅長者：「謂三種出界。云何三？謂從欲界出至色界，色界出至無色界、一切諸行一切思想滅界，是名三出界。」即說偈言：\n\n「知從欲界出，　　超踰於色界，\n\n　一切行寂滅，　　勤修正方便。\n\n　斷除一切愛，　　一切行滅盡，\n\n　知一切有餘，　　不復轉還有。」\n\n尊者阿難說是經已，瞿師羅長者歡喜隨喜，作禮而去。",
+  "english_sa_text": "",
+  "parallels": [],
+  "primary_sn_uid": null,
+  "pali_text": "",
+  "english_sn_text": "",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa401-500/sa463_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa401-500/sa463_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛在拘睒弥国瞿师罗园。\n尔时，瞿师罗长者诣尊者阿难所，稽首礼足，退坐一面，白言：「尊者！所论种种界——云何为种种界？」\n尊者阿难答言：「谓三种出界。云何三？从欲界出至色界，从色界出至无色界，一切诸行、一切想灭——是名灭界。是名三出界。」\n即说偈言：「知从欲界出，超逾于色界；一切行寂灭，勤修正方便。断除一切爱，一切行灭尽；知一切有余，不复转还有。」\n尊者阿难说是经已，瞿师罗长者欢喜随喜，作礼而去。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在拘睒弥国瞿师罗园。\n那时，瞿师罗长者来到阿难尊者处，顶礼足，退坐一面，说：「尊者！所说的种种界——什么是种种界？」\n阿难尊者回答：「是三种出离之界。哪三种？从欲界出到色界，从色界出到无色界，一切诸行、一切想都灭尽——叫做灭界。这叫做三出界。」\n接着说偈：「知道从欲界出离，超越色界；一切行寂灭，精勤修正确的方便。断除一切爱，一切行灭尽；了知一切有余，不再转回诸有。」\n阿难尊者说完这部经，瞿师罗长者欢喜随喜，作礼离去。",
+  "notes": "SC 于本经未列可靠巴利平行，故唯以汉本为底，参同相应之巴利定型语厘义；依项目规约「无可靠平行时 confidence 降为 medium/low」，本经作 medium。三出界＝欲→色、色→无色、行想灭；依汉保守，medium。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "medium",
+  "prior_review_status": "needs_revision",
+  "similarity_to_source": 0.339,
+  "paragraph_parallel": true
+}

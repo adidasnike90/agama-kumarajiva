@@ -1,0 +1,32 @@
+{
+  "id": "SA_872",
+  "uid": "sa872",
+  "title": "雜阿含經  卷第三十二  天相應  （872）  傘蓋覆燈",
+  "chinese_text": "如是我聞：\n\n一時，佛住舍衛國祇樹給孤獨園。\n\n爾時，世尊於夜闇中，天時小雨，電光焰照。佛告阿難：「汝可以傘蓋覆燈持出。」\n\n尊者阿難即受教，以傘蓋覆燈，隨佛後行，至一處，世尊微笑。尊者阿難白佛言：「世尊不以無因緣而笑，不審世尊今日何因何緣而發微笑？」\n\n佛告阿難：「如是！如是！如來不以無因緣而笑，汝今持傘蓋覆燈，隨我而行；我見梵天亦復如是持傘蓋覆燈，隨拘隣比丘後行；釋提桓因亦復持傘蓋覆燈，隨摩訶迦葉後行；袟栗帝羅色吒羅天王亦持傘蓋覆燈，隨舍利弗後行；毘樓勒迦天王亦持傘蓋覆燈，隨大目揵連後行；毘樓匐叉天王亦持傘蓋覆燈，隨摩訶拘絺羅後行；毘沙門天王亦持傘蓋覆燈，隨摩訶劫賓那後行。」\n\n佛說此經已，尊者阿難聞佛所說，歡喜奉行。",
+  "english_sa_text": "",
+  "parallels": [],
+  "primary_sn_uid": null,
+  "pali_text": "",
+  "english_sn_text": "",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa801-900/sa872_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa801-900/sa872_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛住舍卫国祇树给孤独园。\n尔时世尊于夜暗中，天时小雨，电光焰照。佛告阿难：「可以伞盖覆灯，持以随行。」\n尊者阿难受教，以伞盖覆灯，随佛后行。至一处，世尊微笑。阿难白佛：「世尊不以无因缘而笑；不審今日何因缘而发微笑？」\n佛告阿难：「如是！如来不以无因缘而笑。汝今持伞盖覆灯随我而行；我见梵天亦复如是，持伞盖覆灯，随拘邻比丘后行；帝释亦持伞盖覆灯，随摩诃迦叶后行；持国天王亦持伞盖覆灯，随舍利弗后行；增长天王亦持伞盖覆灯，随大目犍连后行；广目天王亦持伞盖覆灯，随摩诃拘絺罗后行；多闻天王亦持伞盖覆灯，随摩诃劫宾那后行。」\n佛说此经已，尊者阿难闻佛所说，欢喜奉行。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在舍卫国祇树给孤独园。\n那时世尊在夜暗中，天正下着小雨，电光闪耀。佛告诉阿难：「可以用伞盖罩住灯，拿着跟随。」\n尊者阿难受教，用伞盖罩住灯，跟在佛后面走。到了一处，世尊微笑。阿难对佛说：「世尊不会无因无缘而笑；请问今天是什么因缘而发微笑？」\n佛告诉阿难：「是的！如来不会无因无缘而笑。你现在拿着伞盖罩灯跟着我走；我看见梵天也是这样，拿着伞盖罩灯，跟在拘邻比丘后面；帝释也拿着伞盖罩灯，跟在摩诃迦叶后面；持国天王也拿着伞盖罩灯，跟在舍利弗后面；增长天王也拿着伞盖罩灯，跟在大目犍连后面；广目天王也拿着伞盖罩灯，跟在摩诃拘絺罗后面；多闻天王也拿着伞盖罩灯，跟在摩诃劫宾那后面。」\n佛说完这部经，尊者阿难听佛所说，都欢喜奉行。",
+  "notes": "SC 于本经未列可靠巴利平行，故唯以汉本为底，参同相应之巴利定型语厘义；依项目规约「无可靠平行时 confidence 降为 medium/low」。confidence=medium：天王名据通例作持国／增长／广目／多闻（汉本袟栗帝罗色吒罗等音译压缩）；拘隣→拘邻，大目揵连→大目犍连。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "medium",
+  "prior_review_status": "needs_revision",
+  "similarity_to_source": 0.255,
+  "paragraph_parallel": true
+}

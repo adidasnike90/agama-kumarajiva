@@ -1,0 +1,130 @@
+[
+  {
+    "id": "SA_17",
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "confidence": "high",
+    "review_status": "gold"
+  },
+  {
+    "id": "SA_18",
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "confidence": "high",
+    "review_status": "gold"
+  },
+  {
+    "id": "SA_19",
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "confidence": "high",
+    "review_status": "gold"
+  },
+  {
+    "id": "SA_20",
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "confidence": "medium",
+    "review_status": "gold_reconstructed"
+  },
+  {
+    "id": "SA_21",
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "confidence": "high",
+    "review_status": "gold"
+  },
+  {
+    "id": "SA_22",
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "confidence": "high",
+    "review_status": "gold"
+  },
+  {
+    "id": "SA_23",
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "confidence": "high",
+    "review_status": "gold"
+  },
+  {
+    "id": "SA_24",
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "confidence": "high",
+    "review_status": "gold"
+  },
+  {
+    "id": "SA_25",
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "confidence": "medium",
+    "review_status": "gold"
+  },
+  {
+    "id": "SA_26",
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "confidence": "high",
+    "review_status": "gold"
+  },
+  {
+    "id": "SA_27",
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "confidence": "high",
+    "review_status": "gold"
+  },
+  {
+    "id": "SA_28",
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "confidence": "medium",
+    "review_status": "gold"
+  },
+  {
+    "id": "SA_29",
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "confidence": "high",
+    "review_status": "gold"
+  },
+  {
+    "id": "SA_30",
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "confidence": "high",
+    "review_status": "gold"
+  },
+  {
+    "id": "SA_31",
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "confidence": "high",
+    "review_status": "gold"
+  },
+  {
+    "id": "SA_32",
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "confidence": "medium",
+    "review_status": "gold"
+  }
+]

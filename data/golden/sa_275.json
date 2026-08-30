@@ -1,0 +1,63 @@
+{
+  "id": "SA_275",
+  "uid": "sa275",
+  "title": "雜阿含經  卷第十一  六入處相應  （275）  難陀",
+  "chinese_text": "如是我聞：\n\n一時，佛住舍衛國祇樹給孤獨園。\n\n爾時，世尊告諸比丘：「其有說言大力者，其唯難陀！此是正說。其有說言最端政者，其唯難陀！是則正說。其有說言愛欲重者，其唯難陀！是則正說。\n\n「諸比丘！而今難陀關閉根門，飲食知量，初夜、後夜精勤修習，正智成就，堪能盡壽純一滿淨，梵行清白。彼難陀比丘關閉根門故，若眼見色，不取色相，不取隨形好。若諸眼根增不律儀、無明闇障、世間貪、愛、惡不善法不漏其心，生諸律儀；防護於眼、耳、鼻、舌、身、意根，生諸律儀，是名難陀比丘關閉根門。\n\n「飲食知量者，難陀比丘於食繫數：『不自高、不放逸、不著色、不著莊嚴，支身而已。任其所得，為止飢渴，修梵行故。故起苦覺令息滅，未起苦覺令不起故，成其崇向故。氣力安樂，無罪觸住故。如人乘車，塗以膏油，不為自高，乃至莊嚴，為載運故。又如塗瘡，不貪其味，為息苦故。』如是，善男子難陀知量而食，乃至無罪觸住，是名難陀知量而食。\n\n「彼善男子難陀初夜、後夜精勤修業者，彼難陀晝則經行、坐禪，除去陰障，以淨其身。於初夜時，經行、坐禪，除去陰障，以淨其身。於中夜時，房外洗足，入於室中，右脇而臥，屈膝累足，係念明想，作起覺想。於後夜時，徐覺徐起，經行、坐禪，是名善男子難陀初夜、後夜精勤修集。\n\n「彼善男子難陀勝念正知者，是善男子難陀觀察東方，一心正念，安住觀察；觀察南、西、北方，亦復如是。一心正念，安住觀察。如是觀者，世間貪、愛、惡不善法不漏其心。彼善男子難陀覺諸受起，覺諸受住，覺諸受滅，正念而住，不令散亂；覺諸想起，覺諸想住，覺諸想滅，覺諸覺起，覺諸覺住，覺諸覺滅，正念心住，不令散亂，是名善男子難陀正念正智成就。\n\n「是故，諸比丘！當作是學：『關閉根門，如善男子難陀；飲食知量，如善男子難陀；初夜、後夜精勤修業，如善男子難陀；正念正智成就，如善男子難陀。』如教授難陀法，亦當持是為其餘人說。」\n\n時，有異比丘而說偈言：\n\n「善關閉根門，　　正念攝心住，\n\n　飲食知節量，　　覺知諸心相，\n\n　善男子難陀，　　世尊之所歎。」\n\n佛說此經已，諸比丘聞佛所說，歡喜奉行。",
+  "english_sa_text": "",
+  "parallels": [
+    {
+      "uid": "an8.9",
+      "acronym": "AN 8.9",
+      "root_lang": "pli",
+      "original_title": "Nandasutta",
+      "translated_title": "Nanda",
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "sa-2.6",
+      "acronym": "SA2 6",
+      "root_lang": "lzh",
+      "original_title": "難陀",
+      "translated_title": "Nanda 2—Nanda is praised",
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "sa1066",
+      "acronym": "SA 1066",
+      "root_lang": "lzh",
+      "original_title": "難陀",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    }
+  ],
+  "primary_sn_uid": null,
+  "pali_text": "",
+  "english_sn_text": "",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa201-300/sa275_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa201-300/sa275_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛在舍卫国祇树给孤独园。\n尔时，世尊告诸比丘：「若言有大力者，唯难陀（Nanda）——此为正说；若言端正第一者，唯难陀——此为正说；若言爱欲最重者，唯难陀——此为正说。」\n「而今难陀关闭根门、饮食知量、初夜后夜精勤、正念正知，堪能尽寿，梵行清白。」\n「何谓关闭根门？眼见于色，不取相、不取随好；不令世间贪爱恶不善法漏心，防护眼根；耳、鼻、舌、身、意亦复如是——是名难陀关闭根门。」\n「何谓饮食知量？于食系念：不为自高、不为放逸、不为色力庄严，唯为支身、止饥渴、修梵行；已起苦令息、未起苦令不起——如涂车轮、如涂疮口，不为味著，为载运、为息苦。是名知量而食。」\n「何谓初夜后夜精勤？昼则经行、坐禅，除诸障盖；初夜经行、坐禅；中夜右胁而卧，系念明想、作起觉想；后夜徐觉徐起，经行、坐禅——是名精勤。」\n「何谓正念正知？观察四方，一心安住；觉受之起住灭，觉想之起住灭，觉觉之起住灭，正念不散——是名正念正知。」\n「是故汝等当学：关闭根门、饮食知量、初夜后夜精勤、正念正知，如难陀；亦当以此法教授他人。」\n时有比丘说偈：「善关闭根门，正念摄心住；饮食知节量，觉知诸心相——善男子难陀，世尊之所叹。」\n佛说此经已，诸比丘闻佛所说，欢喜奉行。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在舍卫国祇树给孤独园。\n佛告诉比丘：「若说『有大力』，只有难陀（Nanda）才算正说；若说『端正第一』，只有难陀才算正说；若说『爱欲最重』，只有难陀才算正说。」\n「然而现在，难陀关闭根门、饮食知量、初夜后夜精勤、正念正知，能够尽其寿命，梵行清白。」\n「什么叫关闭根门？眼见色，不取相、不取随好；不让世间贪爱恶不善法漏进心里，防护眼根；耳、鼻、舌、身、意也一样——这叫做难陀关闭根门。」\n「什么叫饮食知量？对饮食系念：不为自高、不为放逸、不为色力庄严，只为维持身体、止饥渴、修梵行；已起的苦令其息灭、未起的苦令其不起——像给车轮涂油、给疮口敷药，不为贪味，只为运载、只为息苦。这叫做知量而食。」\n「什么叫初夜后夜精勤？白天经行、坐禅，除去障盖；初夜经行、坐禅；中夜右胁而卧，系念明想、保持起身的觉醒；后夜慢慢醒来起床，经行、坐禅——这叫做精勤。」\n「什么叫正念正知？观察四方，一心安住；觉知受的生起、住留、灭没，觉知想的生起、住留、灭没，觉知寻思的生起、住留、灭没，正念而不散乱——这叫做正念正知。」\n「所以你们应当学：关闭根门、饮食知量、初夜后夜精勤、正念正知，像难陀一样；也应当用这法教授他人。」\n当时有比丘说偈：「善关闭根门，正念摄心住；饮食知节量，觉知诸心相——善男子难陀，世尊之所叹。」\n佛说完这部经，比丘们听佛所说，都欢喜奉行。",
+  "notes": "本经 SC 平行表所列平行及 `raw_aligned_data.json` 内之巴利本文、Sujato 英译并用以厘定法义；求那跋陀罗汉本用于定位经文与传统术语。confidence=medium：依 AN8.9（Nanda）法义重译（大力／端正／重贪及关根、知量、昼夜精勤、正念正知），非繁转简；SC 列 AN 而非 SN。难陀＝ Nanda（佛弟）；「爱欲重」＝ rāgarāgo。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "medium",
+  "prior_review_status": "needs_revision",
+  "similarity_to_source": 0.113,
+  "paragraph_parallel": true
+}

@@ -1,0 +1,2089 @@
+[
+  {
+    "id": "SA_651",
+    "uid": "sa651",
+    "title": "雜阿含經  卷第二十七  根力相應  （651）  第651經",
+    "chinese_text": "Saṁyuktāgama雜阿含經\n\n如是我聞：\n\n一時，佛住舍衛國祇樹給孤獨園。\n\n爾時，世尊告諸比丘……如上說。差別者：「諸比丘！我此信根集、信根沒、信根味、信根患、信根離不如實知者，我不得於諸天、魔、梵、沙門、婆羅門眾中，為解脫，為出為離，心離顛倒，成阿耨多羅三藐三菩提。如是精進根、念根、定根、慧根亦如是說。\n\n「諸比丘！我於信根、信根集、信根沒、信根味、信根患、信根離如實知故，於諸天、魔、梵、沙門、婆羅門眾中，為解脫，為出為離，心離顛倒，得成阿耨多羅三藐三菩提。」\n\n佛說此經已，諸比丘聞佛所說，歡喜奉行。",
+    "english_sa_text": "",
+    "parallels": [
+      {
+        "uid": "sn48.7",
+        "acronym": "SN 48.7",
+        "root_lang": "pli",
+        "original_title": "Dutiyasamaṇabrāhmaṇasutta",
+        "translated_title": null,
+        "type": "full",
+        "resembling": false,
+        "remark": null
+      },
+      {
+        "uid": "sn48.6",
+        "acronym": "SN 48.6",
+        "root_lang": "pli",
+        "original_title": "Paṭhamasamaṇabrāhmaṇasutta",
+        "translated_title": null,
+        "type": "full",
+        "resembling": false,
+        "remark": null
+      }
+    ],
+    "primary_sn_uid": "sn48.6",
+    "pali_text": "“Pañcimāni, bhikkhave, indriyāni. Katamāni pañca? Saddhindriyaṁ …pe… paññindriyaṁ. Ye hi keci, bhikkhave, samaṇā vā brāhmaṇā vā imesaṁ pañcannaṁ indriyānaṁ assādañca ādīnavañca nissaraṇañca yathābhūtaṁ nappajānanti, na me te, bhikkhave, samaṇā vā brāhmaṇā vā samaṇesu vā samaṇasammatā brāhmaṇesu vā brāhmaṇasammatā, na ca panete āyasmanto sāmaññatthaṁ vā brahmaññatthaṁ vā diṭṭheva dhamme sayaṁ abhiññā sacchikatvā upasampajja viharanti. Ye ca kho keci, bhikkhave, samaṇā vā brāhmaṇā vā imesaṁ pañcannaṁ indriyānaṁ samudayañca atthaṅgamañca assādañca ādīnavañca nissaraṇañca yathābhūtaṁ pajānanti, te kho me, bhikkhave, samaṇā vā brāhmaṇā vā samaṇesu ceva samaṇasammatā brāhmaṇesu ca brāhmaṇasammatā; te ca panāyasmanto sāmaññatthañca brahmaññatthañca diṭṭheva dhamme sayaṁ abhiññā sacchikatvā upasampajja viharantī”ti. Chaṭṭhaṁ.",
+    "english_sn_text": "“Mendicants, there are these five faculties. What five? The faculties of faith, energy, mindfulness, immersion, and wisdom. There are ascetics and brahmins who don’t truly understand the gratification, drawback, and escape when it comes to these five faculties. I don’t deem them as true ascetics and brahmins. Those venerables don’t realize the goal of life as an ascetic or brahmin, and don’t live having realized it with their own insight in this very life. There are ascetics and brahmins who do truly understand the origin, disappearance, gratification, drawback, and escape when it comes to these five faculties. I deem them as true ascetics and brahmins. Those venerables realize the goal of life as an ascetic or brahmin, and live having realized it with their own insight.”",
+    "errors": [
+      "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa601-700/sa651_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+      "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa601-700/sa651_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+      "used_analayo_fallback"
+    ],
+    "kumarajiva_style_text": "",
+    "modern_psychology_text": "",
+    "notes": "",
+    "review_status": "raw"
+  },
+  {
+    "id": "SA_652",
+    "uid": "sa652",
+    "title": "雜阿含經  卷第二十七  根力相應  （652）  第652經",
+    "chinese_text": "Saṁyuktāgama雜阿含經\n\n如是我聞：\n\n一時，佛住舍衛國祇樹給孤獨園。\n\n爾時，世尊告諸比丘……如上說。差別者：「若比丘於此五根若利、若滿足，得阿羅漢。若軟、若劣，得阿那含。若軟、若劣，得斯陀含。若軟、若劣，得須陀洹。滿足者成滿足事，不滿足者成不滿足事，於此五根不空無果，若於此五根一切無者，我說彼為外道凡夫之數。」\n\n佛說此經已，諸比丘聞佛所說，歡喜奉行。",
+    "english_sa_text": "",
+    "parallels": [
+      {
+        "uid": "sn48.14",
+        "acronym": "SN 48.14",
+        "root_lang": "pli",
+        "original_title": "Tatiyasaṁkhittasutta",
+        "translated_title": null,
+        "type": "full",
+        "resembling": false,
+        "remark": null
+      },
+      {
+        "uid": "sn48.18",
+        "acronym": "SN 48.18",
+        "root_lang": "pli",
+        "original_title": "Paṭipannasutta",
+        "translated_title": null,
+        "type": "full",
+        "resembling": false,
+        "remark": null
+      },
+      {
+        "uid": "kv3.6",
+        "acronym": "Kv 3.6",
+        "root_lang": "pli",
+        "original_title": "Aṭṭhamakassaindriyakathā",
+        "translated_title": "Of the Controlling Powers of the Eighth Man",
+        "type": "mention",
+        "resembling": false,
+        "remark": null
+      }
+    ],
+    "primary_sn_uid": "sn48.14",
+    "pali_text": "“Pañcimāni, bhikkhave, indriyāni. Katamāni pañca? Saddhindriyaṁ …pe… paññindriyaṁ— imāni kho, bhikkhave, pañcindriyāni. Imesaṁ kho, bhikkhave, pañcannaṁ indriyānaṁ samattā paripūrattā arahaṁ hoti, tato mudutarehi anāgāmī hoti, tato mudutarehi sakadāgāmī hoti, tato mudutarehi sotāpanno hoti, tato mudutarehi dhammānusārī hoti, tato mudutarehi saddhānusārī hoti. Iti kho, bhikkhave, paripūraṁ paripūrakārī ārādheti, padesaṁ padesakārī ārādheti. ‘Avañjhāni tvevāhaṁ, bhikkhave, pañcindriyānī’ti vadāmī”ti. Catutthaṁ.",
+    "english_sn_text": "“Mendicants, there are these five faculties. What five? The faculties of faith, energy, mindfulness, immersion, and wisdom. These are the five faculties. Someone who has completed and fulfilled these five faculties is a perfected one. If they are weaker than that, they’re a non-returner … a once-returner … a stream-enterer … a follower of teachings … a follower by faith. So, mendicants, if you practice partially you succeed partially. If you practice fully you succeed fully. But in any case, these five faculties are not barren, I say.”",
+    "errors": [
+      "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa601-700/sa652_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+      "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa601-700/sa652_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+      "used_analayo_fallback"
+    ],
+    "kumarajiva_style_text": "",
+    "modern_psychology_text": "",
+    "notes": "",
+    "review_status": "raw"
+  },
+  {
+    "id": "SA_653",
+    "uid": "sa653",
+    "title": "雜阿含經  卷第二十七  根力相應  （653）  第653經",
+    "chinese_text": "Saṁyuktāgama雜阿含經\n\n如是我聞：\n\n一時，佛住舍衛國祇樹給孤獨園。\n\n爾時，世尊告諸比丘……如上說。差別者：「若比丘於彼五根增上明利滿足者，得阿羅漢俱分解脫。若軟、若劣者，得身證。於彼若軟、若劣，得見到。於彼若軟、若劣，得信解脫。於彼若軟、若劣，得一種。於彼若軟、若劣，得斯陀含。於彼若軟、若劣，得家家。於彼若軟、若劣，得七有。於彼若軟、若劣，得法行。於彼若軟、若劣，得信行。是名比丘根波羅蜜因緣知果波羅蜜，果波羅蜜因緣知人波羅蜜。如是滿足者作滿足事，減少者作減少事，彼諸根則不空無果，若無此諸根者，我說彼為作凡夫數。」\n\n佛說此經已，諸比丘聞佛所說，歡喜奉行。",
+    "english_sa_text": "",
+    "parallels": [
+      {
+        "uid": "sn48.13",
+        "acronym": "SN 48.13",
+        "root_lang": "pli",
+        "original_title": "Dutiyasaṁkhittasutta",
+        "translated_title": null,
+        "type": "full",
+        "resembling": false,
+        "remark": null
+      }
+    ],
+    "primary_sn_uid": "sn48.13",
+    "pali_text": "“Pañcimāni, bhikkhave, indriyāni. Katamāni pañca? Saddhindriyaṁ …pe… paññindriyaṁ— imāni kho, bhikkhave, pañcindriyāni. Imesaṁ kho, bhikkhave, pañcannaṁ indriyānaṁ samattā paripūrattā arahaṁ hoti, tato mudutarehi anāgāmī hoti, tato mudutarehi sakadāgāmī hoti, tato mudutarehi sotāpanno hoti, tato mudutarehi dhammānusārī hoti, tato mudutarehi saddhānusārī hoti. Iti kho, bhikkhave, indriyavemattatā phalavemattatā hoti, phalavemattatā puggalavemattatā”ti. Tatiyaṁ.",
+    "english_sn_text": "“Mendicants, there are these five faculties. What five? The faculties of faith, energy, mindfulness, immersion, and wisdom. These are the five faculties. Someone who has completed and fulfilled these five faculties is a perfected one. If they are weaker than that, they’re a non-returner … a once-returner … a stream-enterer … a follower of teachings … a follower by faith. So from a disparity of faculties there’s a disparity of fruits. And from a disparity of fruits there’s a disparity of individuals.”",
+    "errors": [
+      "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa601-700/sa653_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+      "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa601-700/sa653_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+      "used_analayo_fallback"
+    ],
+    "kumarajiva_style_text": "",
+    "modern_psychology_text": "",
+    "notes": "",
+    "review_status": "raw"
+  },
+  {
+    "id": "SA_654",
+    "uid": "sa654",
+    "title": "雜阿含經  卷第二十七  根力相應  （654）  第654經",
+    "chinese_text": "Saṁyuktāgama雜阿含經\n\n如是我聞：\n\n一時，佛住舍衛國祇樹給孤獨園。\n\n爾時，世尊告諸比丘：「有五根。何等為五？謂信根、精進根、念根、定根、慧根。此五根，一切皆為慧根所攝受。譬如堂閣眾材，棟為其首，皆依於棟，以攝持故。如是五根，慧為其首，以攝持故。」\n\n佛說此經已，諸比丘聞佛所說，歡喜奉行。",
+    "english_sa_text": "",
+    "parallels": [
+      {
+        "uid": "sn48.52",
+        "acronym": "SN 48.52",
+        "root_lang": "pli",
+        "original_title": "Mallikasutta",
+        "translated_title": null,
+        "type": "full",
+        "resembling": false,
+        "remark": null
+      },
+      {
+        "uid": "sa658",
+        "acronym": "SA 658",
+        "root_lang": "lzh",
+        "original_title": "堂閣",
+        "translated_title": null,
+        "type": "full",
+        "resembling": true,
+        "remark": null
+      },
+      {
+        "uid": "sa657",
+        "acronym": "SA 657",
+        "root_lang": "lzh",
+        "original_title": "堂閣",
+        "translated_title": null,
+        "type": "full",
+        "resembling": true,
+        "remark": null
+      },
+      {
+        "uid": "sa656",
+        "acronym": "SA 656",
+        "root_lang": "lzh",
+        "original_title": "堂閣",
+        "translated_title": null,
+        "type": "full",
+        "resembling": true,
+        "remark": null
+      },
+      {
+        "uid": "sa655",
+        "acronym": "SA 655",
+        "root_lang": "lzh",
+        "original_title": "信",
+        "translated_title": null,
+        "type": "full",
+        "resembling": true,
+        "remark": null
+      },
+      {
+        "uid": "sa601-700",
+        "acronym": null,
+        "root_lang": "lzh",
+        "original_title": "Saṁyuktāgama 601–700",
+        "translated_title": null,
+        "type": "full",
+        "resembling": true,
+        "remark": null
+      }
+    ],
+    "primary_sn_uid": "sn48.52",
+    "pali_text": "Evaṁ me sutaṁ— ekaṁ samayaṁ bhagavā mallesu viharati uruvelakappaṁ nāma mallānaṁ nigamo. Tatra kho bhagavā bhikkhū āmantesi: “yāvakīvañca, bhikkhave, ariyasāvakassa ariyañāṇaṁ na uppannaṁ hoti neva tāva catunnaṁ indriyānaṁ saṇṭhiti hoti, neva tāva catunnaṁ indriyānaṁ avaṭṭhiti hoti. Yato ca kho, bhikkhave, ariyasāvakassa ariyañāṇaṁ uppannaṁ hoti, atha catunnaṁ indriyānaṁ saṇṭhiti hoti, atha catunnaṁ indriyānaṁ avaṭṭhiti hoti. Seyyathāpi, bhikkhave, yāvakīvañca kūṭāgārassa kūṭaṁ na ussitaṁ hoti, neva tāva gopānasīnaṁ saṇṭhiti hoti, neva tāva gopānasīnaṁ avaṭṭhiti hoti. Yato ca kho, bhikkhave, kūṭāgārassa kūṭaṁ ussitaṁ hoti, atha gopānasīnaṁ saṇṭhiti hoti, atha gopānasīnaṁ avaṭṭhiti hoti. Evameva kho, bhikkhave, yāvakīvañca ariyasāvakassa ariyañāṇaṁ na uppannaṁ hoti, neva tāva catunnaṁ indriyānaṁ saṇṭhiti hoti, neva tāva catunnaṁ indriyānaṁ avaṭṭhiti hoti. Yato ca kho, bhikkhave, ariyasāvakassa ariyañāṇaṁ uppannaṁ hoti, atha catunnaṁ indriyānaṁ …pe… avaṭṭhiti hoti. Katamesaṁ catunnaṁ? Saddhindriyassa, vīriyindriyassa, satindriyassa, samādhindriyassa. Paññavato, bhikkhave, ariyasāvakassa tadanvayā saddhā saṇṭhāti, tadanvayaṁ vīriyaṁ saṇṭhāti, tadanvayā sati saṇṭhāti, tadanvayo samādhi saṇṭhātī”ti. Dutiyaṁ.",
+    "english_sn_text": "So I have heard. At one time the Buddha was staying in the land of the Mallas, near the Mallian town named Uruvelakappa. There the Buddha addressed the mendicants: “Mendicants, as long as noble knowledge hasn’t arisen for a noble disciple the four faculties are not stable and fixed. But when noble knowledge has arisen for a noble disciple the four faculties become stable and fixed. It’s just like in a bungalow. As long as the roof peak is not lifted into place, the rafters are not stable or fixed. But when the roof peak is lifted into place, the rafters become stable and fixed. In the same way, as long as noble knowledge hasn’t arisen for a noble disciple the four faculties are not stable and fixed. But when noble knowledge has arisen for a noble disciple the four faculties become stable and fixed. What four? The faculties of faith, energy, mindfulness, and immersion. When a noble disciple has wisdom, the faith, energy, mindfulness, and immersion that follow along with that become stabilized.”",
+    "errors": [
+      "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa601-700/sa654_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+      "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa601-700/sa654_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+      "used_analayo_fallback"
+    ],
+    "kumarajiva_style_text": "",
+    "modern_psychology_text": "",
+    "notes": "",
+    "review_status": "raw"
+  },
+  {
+    "id": "SA_655",
+    "uid": "sa655",
+    "title": "雜阿含經  卷第二十七  根力相應  （655）  第655經",
+    "chinese_text": "Saṁyuktāgama雜阿含經\n\n如是我聞：\n\n一時，佛住舍衛國祇樹給孤獨園。\n\n爾時，世尊告諸比丘：「有五根。何等為五？謂信根、精進根、念根、定根、慧根。信根者，當知是四不壞淨；精進根者，當知是四正斷；念根者，當知是四念處；定根者，當知是四禪；慧根者，當知是四聖諦。此諸功德，一切皆是慧為其首，以攝持故。」乃至……。\n\n佛說此經已，諸比丘聞佛所說，歡喜奉行。",
+    "english_sa_text": "",
+    "parallels": [
+      {
+        "uid": "sn48.10",
+        "acronym": "SN 48.10",
+        "root_lang": "pli",
+        "original_title": "Dutiyavibhaṅgasutta",
+        "translated_title": null,
+        "type": "full",
+        "resembling": true,
+        "remark": null
+      }
+    ],
+    "primary_sn_uid": "sn48.10",
+    "pali_text": "“Pañcimāni, bhikkhave, indriyāni. Katamāni pañca? Saddhindriyaṁ …pe… paññindriyaṁ. Katamañca, bhikkhave, saddhindriyaṁ? Idha, bhikkhave, ariyasāvako saddho hoti, saddahati tathāgatassa bodhiṁ: ‘itipi so bhagavā arahaṁ sammāsambuddho vijjācaraṇasampanno sugato lokavidū anuttaro purisadammasārathi satthā devamanussānaṁ buddho bhagavā’ti— idaṁ vuccati, bhikkhave, saddhindriyaṁ. Katamañca, bhikkhave, vīriyindriyaṁ? Idha, bhikkhave, ariyasāvako āraddhavīriyo viharati akusalānaṁ dhammānaṁ pahānāya, kusalānaṁ dhammānaṁ upasampadāya, thāmavā daḷhaparakkamo anikkhittadhuro kusalesu dhammesu. So anuppannānaṁ pāpakānaṁ akusalānaṁ dhammānaṁ anuppādāya chandaṁ janeti vāyamati vīriyaṁ ārabhati cittaṁ paggaṇhāti padahati; uppannānaṁ pāpakānaṁ akusalānaṁ dhammānaṁ pahānāya chandaṁ janeti vāyamati vīriyaṁ ārabhati cittaṁ paggaṇhāti padahati; anuppannānaṁ kusalānaṁ dhammānaṁ uppādāya chandaṁ janeti vāyamati vīriyaṁ ārabhati cittaṁ paggaṇhāti padahati; uppannānaṁ kusalānaṁ dhammānaṁ ṭhitiyā asammosāya bhiyyobhāvāya vepullāya bhāvanāya pāripūriyā chandaṁ janeti vāyamati vīriyaṁ ārabhati cittaṁ paggaṇhāti padahati— idaṁ vuccati, bhikkhave, vīriyindriyaṁ. Katamañca, bhikkhave, satindriyaṁ? Idha, bhikkhave, ariyasāvako satimā hoti paramena satinepakkena samannāgato, cirakatampi cirabhāsitampi saritā anussaritā. So kāye kāyānupassī viharati ātāpī sampajāno satimā, vineyya loke abhijjhādomanassaṁ; vedanāsu …pe… citte …pe… dhammesu dhammānupassī viharati ātāpī sampajāno satimā, vineyya loke abhijjhādomanassaṁ— idaṁ vuccati, bhikkhave, satindriyaṁ. Katamañca, bhikkhave, samādhindriyaṁ? Idha, bhikkhave, ariyasāvako vossaggārammaṇaṁ karitvā labhati samādhiṁ, labhati cittassa ekaggataṁ. So vivicceva kāmehi vivicca akusalehi dhammehi savitakkaṁ savicāraṁ vivekajaṁ pītisukhaṁ paṭhamaṁ jhānaṁ upasampajja viharati. Vitakkavicārānaṁ vūpasamā ajjhattaṁ sampasādanaṁ cetaso ekodibhāvaṁ avitakkaṁ avicāraṁ samādhijaṁ pītisukhaṁ dutiyaṁ jhānaṁ upasampajja viharati. Pītiyā ca virāgā upekkhako ca viharati sato ca sampajāno sukhañca kāyena paṭisaṁvedeti yaṁ taṁ ariyā ācikkhanti ‘upekkhako satimā sukhavihārī’ti tatiyaṁ jhānaṁ upasampajja viharati. Sukhassa ca pahānā dukkhassa ca pahānā pubbeva somanassadomanassānaṁ atthaṅgamā adukkhamasukhaṁ upekkhāsatipārisuddhiṁ catutthaṁ jhānaṁ upasampajja viharati— idaṁ vuccati, bhikkhave, samādhindriyaṁ. Katamañca, bhikkhave, paññindriyaṁ? Idha, bhikkhave, ariyasāvako paññavā hoti udayatthagāminiyā paññāya samannāgato ariyāya nibbedhikāya, sammā dukkhakkhayagāminiyā. So ‘idaṁ dukkhan’ti yathābhūtaṁ pajānāti, ‘ayaṁ dukkhasamudayo’ti yathābhūtaṁ pajānāti, ‘ayaṁ dukkhanirodho’ti yathābhūtaṁ pajānāti, ‘ayaṁ dukkhanirodhagāminī paṭipadā’ti yathābhūtaṁ pajānāti— idaṁ vuccati, bhikkhave, paññindriyaṁ. Imāni kho, bhikkhave, pañcindriyānī”ti. Dasamaṁ. Suddhikavaggo paṭhamo. Tassuddānaṁ Suddhikañceva dve sotā, arahantā apare duve; Samaṇabrāhmaṇā daṭṭhabbaṁ, vibhaṅgā apare duveti.",
+    "english_sn_text": "“Mendicants, there are these five faculties. What five? The faculties of faith, energy, mindfulness, immersion, and wisdom. And what is the faculty of faith? It’s when a noble disciple has faith in the Realized One’s awakening: ‘That Blessed One is perfected, a fully awakened Buddha, accomplished in knowledge and conduct, holy, knower of the world, supreme guide for those fit for training, teacher of gods and humans, awakened, blessed.’ This is called the faculty of faith. And what is the faculty of energy? It’s when a noble disciple lives with energy roused up for giving up unskillful qualities and embracing skillful qualities. They’re strong, staunchly vigorous, not slacking off when it comes to developing skillful qualities. They generate enthusiasm, try, make an effort, exert the mind, and strive so that bad, unskillful qualities don’t arise. They generate enthusiasm, try, make an effort, exert the mind, and strive so that bad, unskillful qualities that have arisen are given up. They generate enthusiasm, try, make an effort, exert the mind, and strive so that skillful qualities arise. They generate enthusiasm, try, make an effort, exert the mind, and strive so that skillful qualities that have arisen remain, are not lost, but increase, mature, and are fully developed. This is called the faculty of energy. And what is the faculty of mindfulness? It’s when a noble disciple is mindful. They have utmost mindfulness and alertness, and can remember and recall what was said and done long ago. They meditate observing an aspect of the body—keen, aware, and mindful, rid of covetousness and displeasure for the world. They meditate observing an aspect of feelings … mind … principles—keen, aware, and mindful, rid of covetousness and displeasure for the world. This is called the faculty of mindfulness. And what is the faculty of immersion? It’s when a noble disciple, relying on letting go, gains immersion, gains unification of mind. Quite secluded from sensual pleasures, secluded from unskillful qualities, they enter and remain in the first absorption, which has the rapture and bliss born of seclusion, while placing the mind and keeping it connected. As the placing of the mind and keeping it connected are stilled, they enter and remain in the second absorption, which has the rapture and bliss born of immersion, with internal clarity and mind at one, without placing the mind and keeping it connected. And with the fading away of rapture, they enter and remain in the third absorption, where they meditate with equanimity, mindful and aware, experiencing for themselves the bliss of which the noble ones declare, ‘Equanimous and mindful, one meditates in bliss.’ With the giving up of pleasure and pain and the disappearance of former happiness and sadness, they enter and remain in the fourth absorption, without pleasure or pain, with pure equanimity and mindfulness. This is called the faculty of immersion. And what is the faculty of wisdom? It’s when a noble disciple is wise. They have the wisdom of arising and passing away which is noble, penetrative, and leads to the complete ending of suffering. They truly understand: ‘This is suffering’ … ‘This is the origin of suffering’ … ‘This is the cessation of suffering’ … ‘This is the practice that leads to the cessation of suffering’. This is called the faculty of wisdom. These are the five faculties.”",
+    "errors": [
+      "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa601-700/sa655_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+      "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa601-700/sa655_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+      "used_analayo_fallback"
+    ],
+    "kumarajiva_style_text": "",
+    "modern_psychology_text": "",
+    "notes": "",
+    "review_status": "raw"
+  },
+  {
+    "id": "SA_656",
+    "uid": "sa656",
+    "title": "雜阿含經  卷第二十七  根力相應  （656）  第656經",
+    "chinese_text": "Saṁyuktāgama雜阿含經\n\n如是我聞：\n\n一時，佛住舍衛國祇樹給孤獨園。\n\n爾時，世尊告諸比丘：「有五根。何等為五？信根、精進根、念根、定根、慧根。若聖弟子成就慧根者，能修信根，依離、依無欲、依滅、向於捨，是名信根成就，信根成就，即是慧根。如信根，如是精進根、念根、定根、慧根亦如是說。是故就此五根，慧根為其首，以攝持故。譬如堂閣，棟為其首，眾材所依，以攝持故。如是五根，慧為其首，以攝持故。」\n\n佛說此經已，諸比丘聞佛所說，歡喜奉行。",
+    "english_sa_text": "",
+    "parallels": [
+      {
+        "uid": "sa654",
+        "acronym": "SA 654",
+        "root_lang": "lzh",
+        "original_title": "堂閣",
+        "translated_title": null,
+        "type": "full",
+        "resembling": true,
+        "remark": null
+      },
+      {
+        "uid": "sn48.52",
+        "acronym": "SN 48.52",
+        "root_lang": "pli",
+        "original_title": "Mallikasutta",
+        "translated_title": null,
+        "type": "full",
+        "resembling": true,
+        "remark": null
+      }
+    ],
+    "primary_sn_uid": "sn48.52",
+    "pali_text": "Evaṁ me sutaṁ— ekaṁ samayaṁ bhagavā mallesu viharati uruvelakappaṁ nāma mallānaṁ nigamo. Tatra kho bhagavā bhikkhū āmantesi: “yāvakīvañca, bhikkhave, ariyasāvakassa ariyañāṇaṁ na uppannaṁ hoti neva tāva catunnaṁ indriyānaṁ saṇṭhiti hoti, neva tāva catunnaṁ indriyānaṁ avaṭṭhiti hoti. Yato ca kho, bhikkhave, ariyasāvakassa ariyañāṇaṁ uppannaṁ hoti, atha catunnaṁ indriyānaṁ saṇṭhiti hoti, atha catunnaṁ indriyānaṁ avaṭṭhiti hoti. Seyyathāpi, bhikkhave, yāvakīvañca kūṭāgārassa kūṭaṁ na ussitaṁ hoti, neva tāva gopānasīnaṁ saṇṭhiti hoti, neva tāva gopānasīnaṁ avaṭṭhiti hoti. Yato ca kho, bhikkhave, kūṭāgārassa kūṭaṁ ussitaṁ hoti, atha gopānasīnaṁ saṇṭhiti hoti, atha gopānasīnaṁ avaṭṭhiti hoti. Evameva kho, bhikkhave, yāvakīvañca ariyasāvakassa ariyañāṇaṁ na uppannaṁ hoti, neva tāva catunnaṁ indriyānaṁ saṇṭhiti hoti, neva tāva catunnaṁ indriyānaṁ avaṭṭhiti hoti. Yato ca kho, bhikkhave, ariyasāvakassa ariyañāṇaṁ uppannaṁ hoti, atha catunnaṁ indriyānaṁ …pe… avaṭṭhiti hoti. Katamesaṁ catunnaṁ? Saddhindriyassa, vīriyindriyassa, satindriyassa, samādhindriyassa. Paññavato, bhikkhave, ariyasāvakassa tadanvayā saddhā saṇṭhāti, tadanvayaṁ vīriyaṁ saṇṭhāti, tadanvayā sati saṇṭhāti, tadanvayo samādhi saṇṭhātī”ti. Dutiyaṁ.",
+    "english_sn_text": "So I have heard. At one time the Buddha was staying in the land of the Mallas, near the Mallian town named Uruvelakappa. There the Buddha addressed the mendicants: “Mendicants, as long as noble knowledge hasn’t arisen for a noble disciple the four faculties are not stable and fixed. But when noble knowledge has arisen for a noble disciple the four faculties become stable and fixed. It’s just like in a bungalow. As long as the roof peak is not lifted into place, the rafters are not stable or fixed. But when the roof peak is lifted into place, the rafters become stable and fixed. In the same way, as long as noble knowledge hasn’t arisen for a noble disciple the four faculties are not stable and fixed. But when noble knowledge has arisen for a noble disciple the four faculties become stable and fixed. What four? The faculties of faith, energy, mindfulness, and immersion. When a noble disciple has wisdom, the faith, energy, mindfulness, and immersion that follow along with that become stabilized.”",
+    "errors": [
+      "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa601-700/sa656_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+      "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa601-700/sa656_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+      "used_analayo_fallback"
+    ],
+    "kumarajiva_style_text": "",
+    "modern_psychology_text": "",
+    "notes": "",
+    "review_status": "raw"
+  },
+  {
+    "id": "SA_657",
+    "uid": "sa657",
+    "title": "雜阿含經  卷第二十七  根力相應  （657）  第657經",
+    "chinese_text": "Saṁyuktāgama雜阿含經\n\n如是我聞：\n\n一時，佛住舍衛國祇樹給孤獨園。\n\n爾時，世尊告諸比丘：「有五根。何等為五？信根、精進根、念根、定根、慧根。若聖弟子成就信根者，作如是學。聖弟子無始生死，無明所著，愛所繫，眾生長夜生死，往來流馳，不知本際，有因故有生死，因永盡者，則無生死，無明大闇聚障礙，誰般涅槃？唯苦滅、苦息、清涼、沒。如信根，如是精進根、念根、定根、慧根亦如是說。此五根，慧為首，慧所攝持。譬如堂閣，棟為首，棟所攝持。」\n\n佛說此經已，諸比丘聞佛所說，歡喜奉行。",
+    "english_sa_text": "",
+    "parallels": [
+      {
+        "uid": "sa654",
+        "acronym": "SA 654",
+        "root_lang": "lzh",
+        "original_title": "堂閣",
+        "translated_title": null,
+        "type": "full",
+        "resembling": true,
+        "remark": null
+      },
+      {
+        "uid": "sn48.52",
+        "acronym": "SN 48.52",
+        "root_lang": "pli",
+        "original_title": "Mallikasutta",
+        "translated_title": null,
+        "type": "full",
+        "resembling": true,
+        "remark": null
+      }
+    ],
+    "primary_sn_uid": "sn48.52",
+    "pali_text": "Evaṁ me sutaṁ— ekaṁ samayaṁ bhagavā mallesu viharati uruvelakappaṁ nāma mallānaṁ nigamo. Tatra kho bhagavā bhikkhū āmantesi: “yāvakīvañca, bhikkhave, ariyasāvakassa ariyañāṇaṁ na uppannaṁ hoti neva tāva catunnaṁ indriyānaṁ saṇṭhiti hoti, neva tāva catunnaṁ indriyānaṁ avaṭṭhiti hoti. Yato ca kho, bhikkhave, ariyasāvakassa ariyañāṇaṁ uppannaṁ hoti, atha catunnaṁ indriyānaṁ saṇṭhiti hoti, atha catunnaṁ indriyānaṁ avaṭṭhiti hoti. Seyyathāpi, bhikkhave, yāvakīvañca kūṭāgārassa kūṭaṁ na ussitaṁ hoti, neva tāva gopānasīnaṁ saṇṭhiti hoti, neva tāva gopānasīnaṁ avaṭṭhiti hoti. Yato ca kho, bhikkhave, kūṭāgārassa kūṭaṁ ussitaṁ hoti, atha gopānasīnaṁ saṇṭhiti hoti, atha gopānasīnaṁ avaṭṭhiti hoti. Evameva kho, bhikkhave, yāvakīvañca ariyasāvakassa ariyañāṇaṁ na uppannaṁ hoti, neva tāva catunnaṁ indriyānaṁ saṇṭhiti hoti, neva tāva catunnaṁ indriyānaṁ avaṭṭhiti hoti. Yato ca kho, bhikkhave, ariyasāvakassa ariyañāṇaṁ uppannaṁ hoti, atha catunnaṁ indriyānaṁ …pe… avaṭṭhiti hoti. Katamesaṁ catunnaṁ? Saddhindriyassa, vīriyindriyassa, satindriyassa, samādhindriyassa. Paññavato, bhikkhave, ariyasāvakassa tadanvayā saddhā saṇṭhāti, tadanvayaṁ vīriyaṁ saṇṭhāti, tadanvayā sati saṇṭhāti, tadanvayo samādhi saṇṭhātī”ti. Dutiyaṁ.",
+    "english_sn_text": "So I have heard. At one time the Buddha was staying in the land of the Mallas, near the Mallian town named Uruvelakappa. There the Buddha addressed the mendicants: “Mendicants, as long as noble knowledge hasn’t arisen for a noble disciple the four faculties are not stable and fixed. But when noble knowledge has arisen for a noble disciple the four faculties become stable and fixed. It’s just like in a bungalow. As long as the roof peak is not lifted into place, the rafters are not stable or fixed. But when the roof peak is lifted into place, the rafters become stable and fixed. In the same way, as long as noble knowledge hasn’t arisen for a noble disciple the four faculties are not stable and fixed. But when noble knowledge has arisen for a noble disciple the four faculties become stable and fixed. What four? The faculties of faith, energy, mindfulness, and immersion. When a noble disciple has wisdom, the faith, energy, mindfulness, and immersion that follow along with that become stabilized.”",
+    "errors": [
+      "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa601-700/sa657_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+      "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa601-700/sa657_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+      "used_analayo_fallback"
+    ],
+    "kumarajiva_style_text": "",
+    "modern_psychology_text": "",
+    "notes": "",
+    "review_status": "raw"
+  },
+  {
+    "id": "SA_658",
+    "uid": "sa658",
+    "title": "雜阿含經  卷第二十七  根力相應  （658）  第658經",
+    "chinese_text": "Saṁyuktāgama雜阿含經\n\n如是我聞：\n\n一時，佛住舍衛國祇樹給孤獨園。\n\n爾時，世尊告諸比丘：「有五根——信根、精進根、念根、定根、慧根。何等為信根？謂聖弟子於如來所起信心，根本堅固，諸天、魔、梵、沙門、婆羅門及諸世間法所不能壞，是名信根。何等為精進根？謂四正斷。何等為念根？謂四念處。何等為定根？謂四禪。何等為慧根？謂四聖諦，此諸功德，皆以慧為首。譬如堂閣，棟為其首。」\n\n佛說此經已，諸比丘聞佛所說，歡喜奉行。",
+    "english_sa_text": "",
+    "parallels": [
+      {
+        "uid": "sn48.10",
+        "acronym": "SN 48.10",
+        "root_lang": "pli",
+        "original_title": "Dutiyavibhaṅgasutta",
+        "translated_title": null,
+        "type": "full",
+        "resembling": true,
+        "remark": null
+      }
+    ],
+    "primary_sn_uid": "sn48.10",
+    "pali_text": "“Pañcimāni, bhikkhave, indriyāni. Katamāni pañca? Saddhindriyaṁ …pe… paññindriyaṁ. Katamañca, bhikkhave, saddhindriyaṁ? Idha, bhikkhave, ariyasāvako saddho hoti, saddahati tathāgatassa bodhiṁ: ‘itipi so bhagavā arahaṁ sammāsambuddho vijjācaraṇasampanno sugato lokavidū anuttaro purisadammasārathi satthā devamanussānaṁ buddho bhagavā’ti— idaṁ vuccati, bhikkhave, saddhindriyaṁ. Katamañca, bhikkhave, vīriyindriyaṁ? Idha, bhikkhave, ariyasāvako āraddhavīriyo viharati akusalānaṁ dhammānaṁ pahānāya, kusalānaṁ dhammānaṁ upasampadāya, thāmavā daḷhaparakkamo anikkhittadhuro kusalesu dhammesu. So anuppannānaṁ pāpakānaṁ akusalānaṁ dhammānaṁ anuppādāya chandaṁ janeti vāyamati vīriyaṁ ārabhati cittaṁ paggaṇhāti padahati; uppannānaṁ pāpakānaṁ akusalānaṁ dhammānaṁ pahānāya chandaṁ janeti vāyamati vīriyaṁ ārabhati cittaṁ paggaṇhāti padahati; anuppannānaṁ kusalānaṁ dhammānaṁ uppādāya chandaṁ janeti vāyamati vīriyaṁ ārabhati cittaṁ paggaṇhāti padahati; uppannānaṁ kusalānaṁ dhammānaṁ ṭhitiyā asammosāya bhiyyobhāvāya vepullāya bhāvanāya pāripūriyā chandaṁ janeti vāyamati vīriyaṁ ārabhati cittaṁ paggaṇhāti padahati— idaṁ vuccati, bhikkhave, vīriyindriyaṁ. Katamañca, bhikkhave, satindriyaṁ? Idha, bhikkhave, ariyasāvako satimā hoti paramena satinepakkena samannāgato, cirakatampi cirabhāsitampi saritā anussaritā. So kāye kāyānupassī viharati ātāpī sampajāno satimā, vineyya loke abhijjhādomanassaṁ; vedanāsu …pe… citte …pe… dhammesu dhammānupassī viharati ātāpī sampajāno satimā, vineyya loke abhijjhādomanassaṁ— idaṁ vuccati, bhikkhave, satindriyaṁ. Katamañca, bhikkhave, samādhindriyaṁ? Idha, bhikkhave, ariyasāvako vossaggārammaṇaṁ karitvā labhati samādhiṁ, labhati cittassa ekaggataṁ. So vivicceva kāmehi vivicca akusalehi dhammehi savitakkaṁ savicāraṁ vivekajaṁ pītisukhaṁ paṭhamaṁ jhānaṁ upasampajja viharati. Vitakkavicārānaṁ vūpasamā ajjhattaṁ sampasādanaṁ cetaso ekodibhāvaṁ avitakkaṁ avicāraṁ samādhijaṁ pītisukhaṁ dutiyaṁ jhānaṁ upasampajja viharati. Pītiyā ca virāgā upekkhako ca viharati sato ca sampajāno sukhañca kāyena paṭisaṁvedeti yaṁ taṁ ariyā ācikkhanti ‘upekkhako satimā sukhavihārī’ti tatiyaṁ jhānaṁ upasampajja viharati. Sukhassa ca pahānā dukkhassa ca pahānā pubbeva somanassadomanassānaṁ atthaṅgamā adukkhamasukhaṁ upekkhāsatipārisuddhiṁ catutthaṁ jhānaṁ upasampajja viharati— idaṁ vuccati, bhikkhave, samādhindriyaṁ. Katamañca, bhikkhave, paññindriyaṁ? Idha, bhikkhave, ariyasāvako paññavā hoti udayatthagāminiyā paññāya samannāgato ariyāya nibbedhikāya, sammā dukkhakkhayagāminiyā. So ‘idaṁ dukkhan’ti yathābhūtaṁ pajānāti, ‘ayaṁ dukkhasamudayo’ti yathābhūtaṁ pajānāti, ‘ayaṁ dukkhanirodho’ti yathābhūtaṁ pajānāti, ‘ayaṁ dukkhanirodhagāminī paṭipadā’ti yathābhūtaṁ pajānāti— idaṁ vuccati, bhikkhave, paññindriyaṁ. Imāni kho, bhikkhave, pañcindriyānī”ti. Dasamaṁ. Suddhikavaggo paṭhamo. Tassuddānaṁ Suddhikañceva dve sotā, arahantā apare duve; Samaṇabrāhmaṇā daṭṭhabbaṁ, vibhaṅgā apare duveti.",
+    "english_sn_text": "“Mendicants, there are these five faculties. What five? The faculties of faith, energy, mindfulness, immersion, and wisdom. And what is the faculty of faith? It’s when a noble disciple has faith in the Realized One’s awakening: ‘That Blessed One is perfected, a fully awakened Buddha, accomplished in knowledge and conduct, holy, knower of the world, supreme guide for those fit for training, teacher of gods and humans, awakened, blessed.’ This is called the faculty of faith. And what is the faculty of energy? It’s when a noble disciple lives with energy roused up for giving up unskillful qualities and embracing skillful qualities. They’re strong, staunchly vigorous, not slacking off when it comes to developing skillful qualities. They generate enthusiasm, try, make an effort, exert the mind, and strive so that bad, unskillful qualities don’t arise. They generate enthusiasm, try, make an effort, exert the mind, and strive so that bad, unskillful qualities that have arisen are given up. They generate enthusiasm, try, make an effort, exert the mind, and strive so that skillful qualities arise. They generate enthusiasm, try, make an effort, exert the mind, and strive so that skillful qualities that have arisen remain, are not lost, but increase, mature, and are fully developed. This is called the faculty of energy. And what is the faculty of mindfulness? It’s when a noble disciple is mindful. They have utmost mindfulness and alertness, and can remember and recall what was said and done long ago. They meditate observing an aspect of the body—keen, aware, and mindful, rid of covetousness and displeasure for the world. They meditate observing an aspect of feelings … mind … principles—keen, aware, and mindful, rid of covetousness and displeasure for the world. This is called the faculty of mindfulness. And what is the faculty of immersion? It’s when a noble disciple, relying on letting go, gains immersion, gains unification of mind. Quite secluded from sensual pleasures, secluded from unskillful qualities, they enter and remain in the first absorption, which has the rapture and bliss born of seclusion, while placing the mind and keeping it connected. As the placing of the mind and keeping it connected are stilled, they enter and remain in the second absorption, which has the rapture and bliss born of immersion, with internal clarity and mind at one, without placing the mind and keeping it connected. And with the fading away of rapture, they enter and remain in the third absorption, where they meditate with equanimity, mindful and aware, experiencing for themselves the bliss of which the noble ones declare, ‘Equanimous and mindful, one meditates in bliss.’ With the giving up of pleasure and pain and the disappearance of former happiness and sadness, they enter and remain in the fourth absorption, without pleasure or pain, with pure equanimity and mindfulness. This is called the faculty of immersion. And what is the faculty of wisdom? It’s when a noble disciple is wise. They have the wisdom of arising and passing away which is noble, penetrative, and leads to the complete ending of suffering. They truly understand: ‘This is suffering’ … ‘This is the origin of suffering’ … ‘This is the cessation of suffering’ … ‘This is the practice that leads to the cessation of suffering’. This is called the faculty of wisdom. These are the five faculties.”",
+    "errors": [
+      "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa601-700/sa658_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+      "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa601-700/sa658_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+      "used_analayo_fallback"
+    ],
+    "kumarajiva_style_text": "",
+    "modern_psychology_text": "",
+    "notes": "",
+    "review_status": "raw"
+  },
+  {
+    "id": "SA_659",
+    "uid": "sa659",
+    "title": "雜阿含經  卷第二十七  根力相應  （659）  第659經",
+    "chinese_text": "Saṁyuktāgama雜阿含經\n\n如是我聞：\n\n一時，佛住舍衛國祇樹給孤獨園。\n\n爾時，世尊告諸比丘：「有五根。何等為五？謂信根、精進根、念根、定根、慧根。何等為信根？若聖弟子於如來發菩提心所得淨信心，是名信根。何等為精進根？於如來發菩提心所起精進方便，是名精進根。何等念根？於如來初發菩提心所起念根。何等為定根？於如來初發菩提心所起三昧，是名定根。何等為慧根？於如來初發菩提心所起智慧，是名慧根。所餘堂閣，譬如上說。」\n\n佛說此經已，諸比丘聞佛所說，歡喜奉行。",
+    "english_sa_text": "",
+    "parallels": [
+      {
+        "uid": "sn48.50",
+        "acronym": "SN 48.50",
+        "root_lang": "pli",
+        "original_title": "Āpaṇasutta",
+        "translated_title": null,
+        "type": "full",
+        "resembling": false,
+        "remark": null
+      },
+      {
+        "uid": "sa-2.346",
+        "acronym": "SA2 346",
+        "root_lang": "lzh",
+        "original_title": "麤雨諦雨",
+        "translated_title": null,
+        "type": "full",
+        "resembling": true,
+        "remark": null
+      },
+      {
+        "uid": "sa953",
+        "acronym": "SA 953",
+        "root_lang": "lzh",
+        "original_title": "麤雨諦雨",
+        "translated_title": null,
+        "type": "full",
+        "resembling": true,
+        "remark": null
+      }
+    ],
+    "primary_sn_uid": "sn48.50",
+    "pali_text": "Evaṁ me sutaṁ— ekaṁ samayaṁ bhagavā aṅgesu viharati āpaṇaṁ nāma aṅgānaṁ nigamo. Tatra kho bhagavā āyasmantaṁ sāriputtaṁ āmantesi: “yo so, sāriputta, ariyasāvako tathāgate ekantagato abhippasanno, na so tathāgate vā tathāgatasāsane vā kaṅkheyya vā vicikiccheyya vā”ti? “Yo so, bhante, ariyasāvako tathāgate ekantagato abhippasanno, na so tathāgate vā tathāgatasāsane vā kaṅkheyya vā vicikiccheyya vā. saddhassa hi, bhante, ariyasāvakassa etaṁ pāṭikaṅkhaṁ yaṁ āraddhavīriyo viharissati—akusalānaṁ dhammānaṁ pahānāya, kusalānaṁ dhammānaṁ upasampadāya, thāmavā daḷhaparakkamo anikkhittadhuro kusalesu dhammesu. Yaṁ hissa, bhante, vīriyaṁ tadassa vīriyindriyaṁ. Saddhassa hi, bhante, ariyasāvakassa āraddhavīriyassa etaṁ pāṭikaṅkhaṁ yaṁ satimā bhavissati, paramena satinepakkena samannāgato, cirakatampi cirabhāsitampi saritā anussaritā. Yā hissa, bhante, sati tadassa satindriyaṁ. Saddhassa hi, bhante, ariyasāvakassa āraddhavīriyassa upaṭṭhitassatino etaṁ pāṭikaṅkhaṁ yaṁ vossaggārammaṇaṁ karitvā labhissati samādhiṁ, labhissati cittassa ekaggataṁ. Yo hissa, bhante, samādhi tadassa samādhindriyaṁ. Saddhassa hi, bhante, ariyasāvakassa āraddhavīriyassa upaṭṭhitassatino samāhitacittassa etaṁ pāṭikaṅkhaṁ yaṁ evaṁ pajānissati— anamataggo kho saṁsāro. Pubbakoṭi na paññāyati avijjānīvaraṇānaṁ sattānaṁ taṇhāsaṁyojanānaṁ sandhāvataṁ saṁsarataṁ. Avijjāya tveva tamokāyassa asesavirāganirodho santametaṁ padaṁ paṇītametaṁ padaṁ, yadidaṁ— sabbasaṅkhārasamatho sabbūpadhipaṭinissaggo taṇhākkhayo virāgo nirodho nibbānaṁ. Yā hissa, bhante, paññā tadassa paññindriyaṁ. Saddho so, bhante, ariyasāvako evaṁ padahitvā padahitvā evaṁ saritvā saritvā evaṁ samādahitvā samādahitvā evaṁ pajānitvā pajānitvā evaṁ abhisaddahati: ‘ime kho te dhammā ye me pubbe sutavā ahesuṁ. Tenāhaṁ etarahi kāyena ca phusitvā viharāmi, paññāya ca ativijjha passāmī’ti. Yā hissa, bhante, saddhā tadassa saddhindriyan”ti. “Sādhu sādhu, sāriputta. Yo so, sāriputta, ariyasāvako tathāgate ekantagato abhippasanno, na so tathāgate vā tathāgatasāsane vā kaṅkheyya vā vicikiccheyya vā. Saddhassa hi, sāriputta, ariyasāvakassa etaṁ pāṭikaṅkhaṁ yaṁ āraddhavīriyo viharissati— akusalānaṁ dhammānaṁ pahānāya, kusalānaṁ dhammānaṁ upasampadāya, thāmavā daḷhaparakkamo anikkhittadhuro kusalesu dhammesu. Yaṁ hissa, sāriputta, vīriyaṁ tadassa vīriyindriyaṁ. Saddhassa hi, sāriputta, ariyasāvakassa āraddhavīriyassa etaṁ pāṭikaṅkhaṁ yaṁ satimā bhavissati, paramena satinepakkena samannāgato, cirakatampi cirabhāsitampi saritā anussaritā. Yā hissa, sāriputta, sati tadassa satindriyaṁ. Saddhassa hi, sāriputta, ariyasāvakassa āraddhavīriyassa upaṭṭhitassatino etaṁ pāṭikaṅkhaṁ yaṁ vossaggārammaṇaṁ karitvā labhissati samādhiṁ, labhissati cittassa ekaggataṁ. Yo hissa, sāriputta, samādhi tadassa samādhindriyaṁ. Saddhassa hi, sāriputta, ariyasāvakassa āraddhavīriyassa upaṭṭhitassatino samāhitacittassa etaṁ pāṭikaṅkhaṁ yaṁ evaṁ pajānissati— anamataggo kho saṁsāro. Pubbakoṭi na paññāyati avijjānīvaraṇānaṁ sattānaṁ taṇhāsaṁyojanānaṁ sandhāvataṁ saṁsarataṁ. Avijjāya tveva tamokāyassa asesavirāganirodho santametaṁ padaṁ paṇītametaṁ padaṁ, yadidaṁ— sabbasaṅkhārasamatho sabbūpadhipaṭinissaggo taṇhākkhayo virāgo nirodho nibbānaṁ. Yā hissa, sāriputta, paññā tadassa paññindriyaṁ. Saddho so, sāriputta, ariyasāvako evaṁ padahitvā padahitvā evaṁ saritvā saritvā evaṁ samādahitvā samādahitvā evaṁ pajānitvā pajānitvā evaṁ abhisaddahati: ‘ime kho te dhammā ye me pubbe sutavā ahesuṁ. Tenāhaṁ etarahi kāyena ca phusitvā viharāmi, paññāya ca ativijjha passāmī’ti. Yā hissa, sāriputta, saddhā tadassa saddhindriyan”ti. Dasamaṁ. Jarāvaggo pañcamo. Tassuddānaṁ Jarā uṇṇābho brāhmaṇo, sāketo pubbakoṭṭhako; Pubbārāme ca cattāri, piṇḍolo āpaṇena cāti.",
+    "english_sn_text": "So I have heard. At one time the Buddha was staying in the land of the Aṅgas, near the Aṅgan town named Āpaṇa. Then the Buddha said to Venerable Sāriputta: “Sāriputta, would a noble disciple who is sure and devoted to the Realized One have any doubt or uncertainty about the Realized One or his instructions?” “Sir, a noble disciple who is sure and devoted to the Realized One would have no doubt or uncertainty about the Realized One or his instructions. You can expect that a faithful noble disciple will live with energy roused up for giving up unskillful qualities and embracing skillful qualities. They’re strong, staunchly vigorous, not slacking off when it comes to developing skillful qualities. For their energy is the faculty of energy. You can expect that a faithful and energetic noble disciple will be mindful, with utmost mindfulness and alertness, able to remember and recall what was said and done long ago. For their mindfulness is the faculty of mindfulness. You can expect that a faithful, energetic, and mindful noble disciple will, relying on letting go, gain immersion, gain unification of mind. For their immersion is the faculty of immersion. You can expect that a faithful, energetic, mindful noble disciple with their mind immersed in samādhi will understand this: ‘Transmigration has no known beginning. No first point is found of sentient beings roaming and transmigrating, shrouded by ignorance and fettered by craving. But when that dark mass of ignorance fades away and ceases with no residue left behind, that state is peaceful and sublime. That is, the stilling of all activities, the letting go of all attachments, the ending of craving, fading away, cessation, extinguishment.’ For their noble wisdom is the faculty of wisdom. When a noble disciple has tried again and again, recollected again and again, entered immersion again and again, and understood with wisdom again and again, they will be confident of this: ‘I have previously heard of these things. But now I have direct meditative experience of them, and see them with penetrating wisdom.’ For their faith is the faculty of faith.” “Good, good, Sāriputta! Sāriputta, a noble disciple who is sure and devoted to the Realized One would have no doubt or uncertainty about the Realized One or his instructions. …” The Buddha then repeated Sāriputta’s answer word for word.",
+    "errors": [
+      "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa601-700/sa659_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+      "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa601-700/sa659_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+      "used_analayo_fallback"
+    ],
+    "kumarajiva_style_text": "",
+    "modern_psychology_text": "",
+    "notes": "",
+    "review_status": "raw"
+  },
+  {
+    "id": "SA_660",
+    "uid": "sa660",
+    "title": "雜阿含經  卷第二十七  根力相應  （660）  第660經",
+    "chinese_text": "Saṁyuktāgama雜阿含經\n\n如是我聞：\n\n一時，佛住舍衛國祇樹給孤獨園。\n\n爾時，世尊告諸比丘：「有五根。何等為五？謂信根、精進根、念根、定根、慧根。於此五根修習多修習，過去、未來、現在一切苦斷。」\n\n佛說此經已，諸比丘聞佛所說，歡喜奉行。\n\n如苦斷，如是究竟苦邊、苦盡、苦息、苦沒，度苦流，於縛得解，害諸色，過去、未來、現在一切漏盡，亦如是說。",
+    "english_sa_text": "",
+    "parallels": [],
+    "primary_sn_uid": null,
+    "pali_text": "",
+    "english_sn_text": "",
+    "errors": [
+      "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa601-700/sa660_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+      "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa601-700/sa660_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+      "used_analayo_fallback"
+    ],
+    "kumarajiva_style_text": "",
+    "modern_psychology_text": "",
+    "notes": "",
+    "review_status": "raw"
+  },
+  {
+    "id": "SA_661",
+    "uid": "sa661",
+    "title": "雜阿含經  卷第二十七  根力相應  （661）  第661經",
+    "chinese_text": "Saṁyuktāgama雜阿含經\n\n如是我聞：\n\n一時，佛住舍衛國祇樹給孤獨園。\n\n爾時，世尊告諸比丘：「有二種力。何等為二？謂數力及修力。何等為數力？謂聖弟子空閑林中樹下，作如是思惟：『身惡行，現法、後世受於惡報。我若行身惡行者，我當自悔教，他亦悔我，大師亦當悔我，大德梵行亦當悔我，以法責我惡名流布，身壞命終，當生惡趣泥犁中。』如是現法後報，身惡行斷，修身善行。如身惡行，口、意惡行亦如是說，是名數力。何等為修力？若比丘學於數力，聖弟子數力成就已，隨得修力，得修力已，修力滿足。」\n\n佛說此經已，諸比丘聞佛所說，歡喜奉行。",
+    "english_sa_text": "",
+    "parallels": [
+      {
+        "uid": "an2.11-20",
+        "acronym": "AN 2.11–20",
+        "root_lang": "pli",
+        "original_title": "Adhikaraṇavagga",
+        "translated_title": "",
+        "type": "full",
+        "resembling": false,
+        "remark": null
+      },
+      {
+        "uid": "sa-3.16",
+        "acronym": "SA3 16",
+        "root_lang": "lzh",
+        "original_title": "二力",
+        "translated_title": null,
+        "type": "full",
+        "resembling": false,
+        "remark": null
+      }
+    ],
+    "primary_sn_uid": null,
+    "pali_text": "",
+    "english_sn_text": "",
+    "errors": [
+      "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa601-700/sa661_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+      "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa601-700/sa661_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+      "used_analayo_fallback"
+    ],
+    "kumarajiva_style_text": "",
+    "modern_psychology_text": "",
+    "notes": "",
+    "review_status": "raw"
+  },
+  {
+    "id": "SA_662",
+    "uid": "sa662",
+    "title": "雜阿含經  卷第二十七  根力相應  （662）  第662經",
+    "chinese_text": "Saṁyuktāgama雜阿含經\n\n如是我聞：\n\n一時，佛住舍衛國祇樹給孤獨園。\n\n爾時，世尊告諸比丘……如上說。差別者：「聖弟子學數力成就已，貪、恚、癡若節若盡。如是聖弟子依於數力，盡立數力，隨得修力，得修力已，修力滿足。」\n\n佛說此經已，諸比丘聞佛所說，歡喜奉行。",
+    "english_sa_text": "",
+    "parallels": [],
+    "primary_sn_uid": null,
+    "pali_text": "",
+    "english_sn_text": "",
+    "errors": [
+      "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa601-700/sa662_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+      "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa601-700/sa662_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+      "used_analayo_fallback"
+    ],
+    "kumarajiva_style_text": "",
+    "modern_psychology_text": "",
+    "notes": "",
+    "review_status": "raw"
+  },
+  {
+    "id": "SA_663",
+    "uid": "sa663",
+    "title": "雜阿含經  卷第二十七  根力相應  （663）  第663經",
+    "chinese_text": "Saṁyuktāgama雜阿含經\n\n如是我聞：\n\n一時，佛住舍衛國祇樹給孤獨園。\n\n爾時，世尊告諸比丘……如上說。差別者：「何等為修力？謂修四念處。」\n\n佛說此經已，諸比丘聞佛所說，歡喜奉行。\n\n如四念處，如是修四正斷、四如意足、五根、五力、七覺分、八聖道分、四道、四法句、止觀，亦如是說。",
+    "english_sa_text": "",
+    "parallels": [],
+    "primary_sn_uid": null,
+    "pali_text": "",
+    "english_sn_text": "",
+    "errors": [
+      "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa601-700/sa663_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+      "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa601-700/sa663_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+      "used_analayo_fallback"
+    ],
+    "kumarajiva_style_text": "",
+    "modern_psychology_text": "",
+    "notes": "",
+    "review_status": "raw"
+  },
+  {
+    "id": "SA_664",
+    "uid": "sa664",
+    "title": "雜阿含經  卷第二十七  根力相應  （664）  第664經",
+    "chinese_text": "Saṁyuktāgama雜阿含經\n\n如是我聞：\n\n一時，佛住舍衛國祇樹給孤獨園。\n\n爾時，世尊告諸比丘：「有三種力。何等為三？謂信力、精進力、慧力。復次三力。何等為三？謂信力、念力、慧力。復次三力。何等為三？謂信力、定力、慧力。」\n\n佛說此經已，諸比丘聞佛所說，歡喜奉行。",
+    "english_sa_text": "",
+    "parallels": [],
+    "primary_sn_uid": null,
+    "pali_text": "",
+    "english_sn_text": "",
+    "errors": [
+      "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa601-700/sa664_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+      "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa601-700/sa664_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+      "used_analayo_fallback"
+    ],
+    "kumarajiva_style_text": "",
+    "modern_psychology_text": "",
+    "notes": "",
+    "review_status": "raw"
+  },
+  {
+    "id": "SA_665",
+    "uid": "sa665",
+    "title": "雜阿含經  卷第二十七  根力相應  （665）  第665經",
+    "chinese_text": "Saṁyuktāgama雜阿含經\n\n如是我聞：\n\n一時，佛住舍衛國祇樹給孤獨園。\n\n爾時，世尊告諸比丘：「有三力，謂信力、精進力、慧力。如是，比丘！當作是學：『我當成就信力、精進力、慧力。』」\n\n佛說此經已，諸比丘聞佛所說，歡喜奉行。\n\n如精進力，念力、定力，亦如是說。",
+    "english_sa_text": "",
+    "parallels": [],
+    "primary_sn_uid": null,
+    "pali_text": "",
+    "english_sn_text": "",
+    "errors": [
+      "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa601-700/sa665_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+      "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa601-700/sa665_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+      "used_analayo_fallback"
+    ],
+    "kumarajiva_style_text": "",
+    "modern_psychology_text": "",
+    "notes": "",
+    "review_status": "raw"
+  },
+  {
+    "id": "SA_666",
+    "uid": "sa666",
+    "title": "雜阿含經  卷第二十七  根力相應  （666）  第666經",
+    "chinese_text": "Saṁyuktāgama雜阿含經\n\n如是我聞：\n\n一時，佛住舍衛國祇樹給孤獨園。\n\n爾時，世尊告諸比丘：「有三力——信力、念力、慧力。何等為信力？謂聖弟子於如來所入於淨信，根本堅固，諸天、魔、梵、沙門、婆羅門及諸同法所不能壞，是名信力。何等為精進力？謂修四正斷。何等為慧力？謂四聖諦。」\n\n佛說此經已，諸比丘聞佛所說，歡喜奉行。\n\n餘二力如上說。",
+    "english_sa_text": "",
+    "parallels": [],
+    "primary_sn_uid": null,
+    "pali_text": "",
+    "english_sn_text": "",
+    "errors": [
+      "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa601-700/sa666_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+      "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa601-700/sa666_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+      "used_analayo_fallback"
+    ],
+    "kumarajiva_style_text": "",
+    "modern_psychology_text": "",
+    "notes": "",
+    "review_status": "raw"
+  },
+  {
+    "id": "SA_667",
+    "uid": "sa667",
+    "title": "雜阿含經  卷第二十七  根力相應  （667）  第667經",
+    "chinese_text": "Saṁyuktāgama雜阿含經\n\n如是我聞：\n\n一時，佛住舍衛國祇樹給孤獨園。\n\n爾時，世尊告諸比丘：「有四力。何等為四？謂信力、精進力、念力、慧力。復次四力——信力、念力、定力、慧力。復次四力——覺力、精進力、無罪力、攝力。」\n\n此諸經如上三力說。差別者：「何等為覺力？於善、不善法如實知，有罪、無罪，習近、不習近，卑法、勝法，黑法、白法，有分別法、無分別法，緣起法、非緣起法如實知，是名覺力。何等為精進力？謂四正斷……」如前廣說。「何等為無罪力？謂無罪身、口、意，是名無罪力。何等為攝力？謂四攝事，惠施、愛語、行利、同利。」\n\n佛說此經已，諸比丘聞佛所說，歡喜奉行。",
+    "english_sa_text": "",
+    "parallels": [
+      {
+        "uid": "an4.152",
+        "acronym": "AN 4.152",
+        "root_lang": "pli",
+        "original_title": "Saddhābalasutta",
+        "translated_title": null,
+        "type": "full",
+        "resembling": true,
+        "remark": null
+      },
+      {
+        "uid": "sa-3.18",
+        "acronym": "SA3 18",
+        "root_lang": "lzh",
+        "original_title": "四力",
+        "translated_title": null,
+        "type": "full",
+        "resembling": true,
+        "remark": null
+      }
+    ],
+    "primary_sn_uid": null,
+    "pali_text": "",
+    "english_sn_text": "",
+    "errors": [
+      "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa601-700/sa667_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+      "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa601-700/sa667_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+      "used_analayo_fallback"
+    ],
+    "kumarajiva_style_text": "",
+    "modern_psychology_text": "",
+    "notes": "",
+    "review_status": "raw"
+  },
+  {
+    "id": "SA_668",
+    "uid": "sa668",
+    "title": "雜阿含經  卷第二十七  根力相應  （668）  第668經",
+    "chinese_text": "Saṁyuktāgama雜阿含經\n\n如是我聞：\n\n一時，佛住舍衛國祇樹給孤獨園。\n\n爾時，世尊告諸比丘……如上說。差別者：「若最勝施者，謂法施。最勝愛語者，謂善男子樂聞，應時說法。行利最勝者，諸不信者能令入信，建立於信；立戒者以淨戒，慳者以施，惡智者以正智令入建立。同利最勝者，謂阿羅漢以阿羅漢、阿那含以阿那含、斯陀含以斯陀含、須陀洹以須陀洹、淨戒者以淨而授於彼。」\n\n佛說此經已，諸比丘聞佛所說，歡喜奉行。",
+    "english_sa_text": "",
+    "parallels": [],
+    "primary_sn_uid": null,
+    "pali_text": "",
+    "english_sn_text": "",
+    "errors": [
+      "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa601-700/sa668_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+      "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa601-700/sa668_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+      "used_analayo_fallback"
+    ],
+    "kumarajiva_style_text": "",
+    "modern_psychology_text": "",
+    "notes": "",
+    "review_status": "raw"
+  },
+  {
+    "id": "SA_669",
+    "uid": "sa669",
+    "title": "雜阿含經  卷第二十七  根力相應  （669）  第669經",
+    "chinese_text": "Saṁyuktāgama雜阿含經\n\n如是我聞：\n\n一時，佛住舍衛國祇樹給孤獨園。\n\n爾時，世尊告諸比丘……如上說。差別者：「若所有法，是眾之所取，一切皆是四攝事。或有一取施者，或一取愛語者，或一取行利者，或一取同利者。過去世時，過去世眾，以有所取者，亦是四攝事。未來世眾，當有所取者，亦是四攝事。或一取施者，或一取愛語，或一取行利者，或一取同利。」\n\n爾時，世尊即說偈言：\n\n「布施及愛語，　　或有行利者，\n\n　同利諸行生，　　各隨其所應。\n\n　以此攝世間，　　猶車因釭運。\n\n　世無四攝事，　　母恩子養忘，\n\n　亦無父等尊，　　謙下之奉事。\n\n　以有四攝事，　　隨順之法故，\n\n　是故有大士，　　德被於世間。」\n\n佛說此經已，諸比丘聞佛所說，歡喜奉行。",
+    "english_sa_text": "",
+    "parallels": [
+      {
+        "uid": "an4.32",
+        "acronym": "AN 4.32",
+        "root_lang": "pli",
+        "original_title": "Saṅgahasutta",
+        "translated_title": "Sustaining",
+        "type": "full",
+        "resembling": false,
+        "remark": null
+      },
+      {
+        "uid": "ea-2.6",
+        "acronym": "EA2 6",
+        "root_lang": "lzh",
+        "original_title": "",
+        "translated_title": null,
+        "type": "full",
+        "resembling": false,
+        "remark": null
+      }
+    ],
+    "primary_sn_uid": null,
+    "pali_text": "",
+    "english_sn_text": "",
+    "errors": [
+      "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa601-700/sa669_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+      "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa601-700/sa669_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+      "used_analayo_fallback"
+    ],
+    "kumarajiva_style_text": "",
+    "modern_psychology_text": "",
+    "notes": "",
+    "review_status": "raw"
+  },
+  {
+    "id": "SA_670",
+    "uid": "sa670",
+    "title": "雜阿含經  卷第二十七  根力相應  （670）  第670經",
+    "chinese_text": "Saṁyuktāgama雜阿含經\n\n如是我聞：\n\n一時，佛住舍衛國祇樹給孤獨園。\n\n爾時，世尊告諸比丘：「有四力。何等為四？謂覺力、精進力、無罪力、攝力……」如上說。「若比丘成就此四力者，得離五恐怖。何等五？謂不活恐怖、惡名恐怖、眾中恐怖、死恐怖、惡趣恐怖，是名五恐怖。」\n\n佛說此經已，諸比丘聞佛所說，歡喜奉行。",
+    "english_sa_text": "",
+    "parallels": [
+      {
+        "uid": "an4.153",
+        "acronym": "AN 4.153",
+        "root_lang": "pli",
+        "original_title": "Paññābalasutta",
+        "translated_title": null,
+        "type": "full",
+        "resembling": true,
+        "remark": null
+      }
+    ],
+    "primary_sn_uid": null,
+    "pali_text": "",
+    "english_sn_text": "",
+    "errors": [
+      "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa601-700/sa670_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+      "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa601-700/sa670_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+      "used_analayo_fallback"
+    ],
+    "kumarajiva_style_text": "",
+    "modern_psychology_text": "",
+    "notes": "",
+    "review_status": "raw"
+  },
+  {
+    "id": "SA_671",
+    "uid": "sa671",
+    "title": "雜阿含經  卷第二十七  根力相應  （671）  第671經",
+    "chinese_text": "Saṁyuktāgama雜阿含經\n\n如是我聞：\n\n一時，佛住舍衛國祇樹給孤獨園。\n\n爾時，世尊告諸比丘……如上說。差別者：「聖弟子成就此四力者，當作是學。我不畏不活，我何緣畏不活？若身行不淨行、口不淨行、意不淨行，作諸邪貪，不信、懈怠、不精進、失念、不定、惡慧、慳、不攝者，彼應畏不活。我有四力，謂覺力、精進力、無罪力、攝力，有此四力成就故，不應畏如不活畏。如是惡名畏、眾中畏、死畏、惡趣畏亦如上說。」\n\n佛說此經已，諸比丘聞佛所說，歡喜奉行。",
+    "english_sa_text": "",
+    "parallels": [
+      {
+        "uid": "an4.153",
+        "acronym": "AN 4.153",
+        "root_lang": "pli",
+        "original_title": "Paññābalasutta",
+        "translated_title": null,
+        "type": "full",
+        "resembling": true,
+        "remark": null
+      }
+    ],
+    "primary_sn_uid": null,
+    "pali_text": "",
+    "english_sn_text": "",
+    "errors": [
+      "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa601-700/sa671_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+      "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa601-700/sa671_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+      "used_analayo_fallback"
+    ],
+    "kumarajiva_style_text": "",
+    "modern_psychology_text": "",
+    "notes": "",
+    "review_status": "raw"
+  },
+  {
+    "id": "SA_672",
+    "uid": "sa672",
+    "title": "雜阿含經  卷第二十七  根力相應  （672）  第672經",
+    "chinese_text": "Saṁyuktāgama雜阿含經\n\n如是我聞：\n\n一時，佛住舍衛國祇樹給孤獨園。\n\n爾時，世尊告諸比丘：「有四力——覺力、精進力、無罪力、攝力。何等為覺力？謂慧、大慧、深慧、難勝慧，是名覺力。何等為精進力？若於不善法不善數、黑黑數、有罪有罪數、不應親近不應親近數，離此諸法已，若諸餘善善數、白白數、無罪無罪數、應親近應親近數，如此等修習，增上精勤、欲、方便、堪能，正念正知而學，是名精進力。無罪力、攝力如上修多羅說。」\n\n佛說此經已，諸比丘聞佛所說，歡喜奉行。",
+    "english_sa_text": "",
+    "parallels": [
+      {
+        "uid": "an4.153",
+        "acronym": "AN 4.153",
+        "root_lang": "pli",
+        "original_title": "Paññābalasutta",
+        "translated_title": null,
+        "type": "full",
+        "resembling": true,
+        "remark": null
+      }
+    ],
+    "primary_sn_uid": null,
+    "pali_text": "",
+    "english_sn_text": "",
+    "errors": [
+      "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa601-700/sa672_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+      "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa601-700/sa672_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+      "used_analayo_fallback"
+    ],
+    "kumarajiva_style_text": "",
+    "modern_psychology_text": "",
+    "notes": "",
+    "review_status": "raw"
+  },
+  {
+    "id": "SA_673",
+    "uid": "sa673",
+    "title": "雜阿含經  卷第二十八  根力相應  （673）  第673經",
+    "chinese_text": "Saṁyuktāgama雜阿含經\n\n如是我聞：\n\n一時，佛住舍衛國祇樹給孤獨園。\n\n爾時，世尊告諸比丘：「有五力。何等為五？信力、精進力、念力、定力、慧力。」\n\n佛說是經已，諸比丘聞佛所說，歡喜奉行。",
+    "english_sa_text": "",
+    "parallels": [
+      {
+        "uid": "an5.13",
+        "acronym": "AN 5.13",
+        "root_lang": "pli",
+        "original_title": "Saṁkhittasutta",
+        "translated_title": "In Brief",
+        "type": "full",
+        "resembling": true,
+        "remark": null
+      },
+      {
+        "uid": "arv17",
+        "acronym": "Arv 17",
+        "root_lang": "san",
+        "original_title": "Pañca Balāni",
+        "translated_title": "The Five Strengths",
+        "type": "full",
+        "resembling": true,
+        "remark": null
+      },
+      {
+        "uid": "sn50.1-12",
+        "acronym": "SN 50.1–12",
+        "root_lang": "pli",
+        "original_title": "Gaṅgāpeyyālavagga",
+        "translated_title": null,
+        "type": "full",
+        "resembling": true,
+        "remark": null
+      }
+    ],
+    "primary_sn_uid": "sn50.1-12",
+    "pali_text": "",
+    "english_sn_text": "",
+    "errors": [
+      "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa601-700/sa673_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+      "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa601-700/sa673_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+      "used_analayo_fallback",
+      "Unsupported SN uid: sn50.1-12"
+    ],
+    "kumarajiva_style_text": "",
+    "modern_psychology_text": "",
+    "notes": "",
+    "review_status": "raw"
+  },
+  {
+    "id": "SA_674",
+    "uid": "sa674",
+    "title": "雜阿含經  卷第二十八  根力相應  （674）  第674經",
+    "chinese_text": "Saṁyuktāgama雜阿含經\n\n如是我聞：\n\n一時，佛住舍衛國祇樹給孤獨園。\n\n爾時，世尊告諸比丘……如上說。差別者：「諸比丘當作是學：『我當勤加精進，成就信力、精進力、念力、定力、慧力。』」\n\n佛說此經已，諸比丘聞佛所說，歡喜奉行。",
+    "english_sa_text": "",
+    "parallels": [],
+    "primary_sn_uid": null,
+    "pali_text": "",
+    "english_sn_text": "",
+    "errors": [
+      "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa601-700/sa674_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+      "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa601-700/sa674_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+      "used_analayo_fallback"
+    ],
+    "kumarajiva_style_text": "",
+    "modern_psychology_text": "",
+    "notes": "",
+    "review_status": "raw"
+  },
+  {
+    "id": "SA_675",
+    "uid": "sa675",
+    "title": "雜阿含經  卷第二十八  根力相應  （675）  第675經",
+    "chinese_text": "Saṁyuktāgama雜阿含經\n\n如是我聞：\n\n一時，佛住舍衛國祇樹給孤獨園。\n\n爾時，世尊告諸比丘……如上說。差別者：「彼信力，當知是四不壞淨。精進力者，當知是四正斷。念力者，當知四念處。定力者，當知是四禪。慧力者，當知是四聖諦。」\n\n佛說此經已，諸比丘聞佛所說，歡喜奉行。",
+    "english_sa_text": "",
+    "parallels": [
+      {
+        "uid": "an5.15",
+        "acronym": "AN 5.15",
+        "root_lang": "pli",
+        "original_title": "Daṭṭhabbasutta",
+        "translated_title": "To be Seen",
+        "type": "full",
+        "resembling": false,
+        "remark": null
+      },
+      {
+        "uid": "an5.14",
+        "acronym": "AN 5.14",
+        "root_lang": "pli",
+        "original_title": "Vitthatasutta",
+        "translated_title": "In Detail",
+        "type": "full",
+        "resembling": false,
+        "remark": null
+      },
+      {
+        "uid": "sa646",
+        "acronym": "SA 646",
+        "root_lang": "lzh",
+        "original_title": "當知",
+        "translated_title": null,
+        "type": "full",
+        "resembling": true,
+        "remark": null
+      },
+      {
+        "uid": "sn48.8",
+        "acronym": "SN 48.8",
+        "root_lang": "pli",
+        "original_title": "Daṭṭhabbasutta",
+        "translated_title": null,
+        "type": "full",
+        "resembling": true,
+        "remark": null
+      }
+    ],
+    "primary_sn_uid": "sn48.8",
+    "pali_text": "“Pañcimāni, bhikkhave, indriyāni. Katamāni pañca? Saddhindriyaṁ …pe… paññindriyaṁ. Kattha ca, bhikkhave, saddhindriyaṁ daṭṭhabbaṁ? Catūsu sotāpattiyaṅgesu— ettha saddhindriyaṁ daṭṭhabbaṁ. Kattha ca, bhikkhave, vīriyindriyaṁ daṭṭhabbaṁ? Catūsu sammappadhānesu— ettha vīriyindriyaṁ daṭṭhabbaṁ. Kattha ca, bhikkhave, satindriyaṁ daṭṭhabbaṁ? Catūsu satipaṭṭhānesu— ettha satindriyaṁ daṭṭhabbaṁ. Kattha ca, bhikkhave, samādhindriyaṁ daṭṭhabbaṁ? Catūsu jhānesu— ettha samādhindriyaṁ daṭṭhabbaṁ. Kattha ca, bhikkhave, paññindriyaṁ daṭṭhabbaṁ? Catūsu ariyasaccesu— ettha paññindriyaṁ daṭṭhabbaṁ. Imāni kho, bhikkhave, pañcindriyānī”ti. Aṭṭhamaṁ.",
+    "english_sn_text": "“Mendicants, there are these five faculties. What five? The faculties of faith, energy, mindfulness, immersion, and wisdom. And where should the faculty of faith be seen? In the four factors of stream-entry. And where should the faculty of energy be seen? In the four right efforts. And where should the faculty of mindfulness be seen? In the four kinds of mindfulness meditation. And where should the faculty of immersion be seen? In the four absorptions. And where should the faculty of wisdom be seen? In the four noble truths. These are the five faculties.”",
+    "errors": [
+      "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa601-700/sa675_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+      "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa601-700/sa675_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+      "used_analayo_fallback"
+    ],
+    "kumarajiva_style_text": "",
+    "modern_psychology_text": "",
+    "notes": "",
+    "review_status": "raw"
+  },
+  {
+    "id": "SA_676",
+    "uid": "sa676",
+    "title": "雜阿含經  卷第二十八  根力相應  （676）  第676經",
+    "chinese_text": "Saṁyuktāgama雜阿含經\n\n如是我聞：\n\n一時，佛住舍衛國祇樹給孤獨園。\n\n爾時，世尊告諸比丘……如上說。差別者：「是故，諸比丘！當作是學：『我成就信力、精進力、念力、定力、慧力。』」\n\n佛說此經已，諸比丘聞佛所說，歡喜奉行。",
+    "english_sa_text": "",
+    "parallels": [],
+    "primary_sn_uid": null,
+    "pali_text": "",
+    "english_sn_text": "",
+    "errors": [
+      "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa601-700/sa676_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+      "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa601-700/sa676_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+      "used_analayo_fallback"
+    ],
+    "kumarajiva_style_text": "",
+    "modern_psychology_text": "",
+    "notes": "",
+    "review_status": "raw"
+  },
+  {
+    "id": "SA_677",
+    "uid": "sa677",
+    "title": "雜阿含經  卷第二十八  根力相應  （677）  第677經",
+    "chinese_text": "Saṁyuktāgama雜阿含經\n\n如是我聞：\n\n一時，佛住舍衛國祇樹給孤獨園。\n\n爾時，世尊告諸比丘：「有五學力。何等為五？謂信力是學力、精進力是學力、慚力是學力、愧力是學力、慧力是學力。」\n\n佛說此經已，諸比丘聞佛所說，歡喜奉行。",
+    "english_sa_text": "",
+    "parallels": [
+      {
+        "uid": "an5.1",
+        "acronym": "AN 5.1",
+        "root_lang": "pli",
+        "original_title": "Saṁkhittasutta",
+        "translated_title": "In Brief",
+        "type": "full",
+        "resembling": false,
+        "remark": null
+      }
+    ],
+    "primary_sn_uid": null,
+    "pali_text": "",
+    "english_sn_text": "",
+    "errors": [
+      "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa601-700/sa677_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+      "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa601-700/sa677_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+      "used_analayo_fallback"
+    ],
+    "kumarajiva_style_text": "",
+    "modern_psychology_text": "",
+    "notes": "",
+    "review_status": "raw"
+  },
+  {
+    "id": "SA_678",
+    "uid": "sa678",
+    "title": "雜阿含經  卷第二十八  根力相應  （678）  第678經",
+    "chinese_text": "Saṁyuktāgama雜阿含經\n\n如是我聞：\n\n一時，佛住舍衛國祇樹給孤獨園。\n\n爾時，世尊告諸比丘……如上說。差別者：「諸比丘！當作是學：『我當成就信力是學力、成就精進力是學力、成就慙力是學力、成就愧力是學力、成就慧力是學力。』」\n\n佛說此經已，諸比丘聞佛所說，歡喜奉行。",
+    "english_sa_text": "",
+    "parallels": [
+      {
+        "uid": "an5.1",
+        "acronym": "AN 5.1",
+        "root_lang": "pli",
+        "original_title": "Saṁkhittasutta",
+        "translated_title": "In Brief",
+        "type": "full",
+        "resembling": false,
+        "remark": null
+      }
+    ],
+    "primary_sn_uid": null,
+    "pali_text": "",
+    "english_sn_text": "",
+    "errors": [
+      "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa601-700/sa678_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+      "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa601-700/sa678_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+      "used_analayo_fallback"
+    ],
+    "kumarajiva_style_text": "",
+    "modern_psychology_text": "",
+    "notes": "",
+    "review_status": "raw"
+  },
+  {
+    "id": "SA_679",
+    "uid": "sa679",
+    "title": "雜阿含經  卷第二十八  根力相應  （679）  第679經",
+    "chinese_text": "Saṁyuktāgama雜阿含經\n\n如是我聞：\n\n一時，佛住舍衛國祇樹給孤獨園。\n\n爾時，世尊告諸比丘……如上說。差別者：「何等信力是學力？於如來所善入於信，根本堅固，諸天、魔、梵、沙門、婆羅門及餘同法所不能壞。何等為精進力是學力？謂四正斷……」如前廣說。「何等為慚力是學力？謂羞恥，恥於起惡不善法諸煩惱數，受諸有熾然苦報，於未來世生、老、病、死、憂、悲、苦、惱，是名慚力是學力。何等為愧力是學力？謂諸可愧事而愧，愧起諸惡不善法煩惱數，受諸有熾然苦報，於未來世生、老、病、死、憂、悲、苦、惱，是名愧力是學力。何等為慧力是學力？謂聖弟子住於智慧，成就世間生滅智慧，賢聖出厭離，決定正盡苦，是名慧力是學力。」\n\n佛說此經已，諸比丘聞佛所說，歡喜奉行。",
+    "english_sa_text": "",
+    "parallels": [],
+    "primary_sn_uid": null,
+    "pali_text": "",
+    "english_sn_text": "",
+    "errors": [
+      "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa601-700/sa679_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+      "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa601-700/sa679_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+      "used_analayo_fallback"
+    ],
+    "kumarajiva_style_text": "",
+    "modern_psychology_text": "",
+    "notes": "",
+    "review_status": "raw"
+  },
+  {
+    "id": "SA_680",
+    "uid": "sa680",
+    "title": "雜阿含經  卷第二十八  根力相應  （680）  第680經",
+    "chinese_text": "Saṁyuktāgama雜阿含經\n\n如是我聞：\n\n一時，佛住舍衛國祇樹給孤獨園。\n\n爾時，世尊告諸比丘，如上所說。差別者：「是故，諸比丘！當作是學：『我當成就信力是學力，精進力、慚力、愧力、慧力是學力。』」\n\n佛說此經已，諸比丘聞佛所說，歡喜奉行。",
+    "english_sa_text": "",
+    "parallels": [],
+    "primary_sn_uid": null,
+    "pali_text": "",
+    "english_sn_text": "",
+    "errors": [
+      "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa601-700/sa680_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+      "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa601-700/sa680_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+      "used_analayo_fallback"
+    ],
+    "kumarajiva_style_text": "",
+    "modern_psychology_text": "",
+    "notes": "",
+    "review_status": "raw"
+  },
+  {
+    "id": "SA_681",
+    "uid": "sa681",
+    "title": "雜阿含經  卷第二十八  根力相應  （681）  第681經",
+    "chinese_text": "Saṁyuktāgama雜阿含經\n\n如是我聞：\n\n一時，佛住舍衛國祇樹給孤獨園。\n\n爾時，世尊告諸比丘：「若比丘於善法若變、若退、若不久住者，他人當以五種白法來呵責汝。何等為五？言汝不以信入於善法，若依信者，能離不善法，修諸善法。汝無精進、無慚、無愧、無慧入於善法故。若依慧者，能離諸不善法，修諸善法。\n\n「若比丘於正法不變、不退、久住者，他人當以五種白法來慶慰汝。何等為五？正信入於善法，若依信者，離不善法，修諸善法，精進、慚、愧、慧入於善法，若依慧者，離不善法，修諸善法。」\n\n佛說此經已，諸比丘聞佛所說，歡喜奉行。",
+    "english_sa_text": "",
+    "parallels": [
+      {
+        "uid": "an5.5",
+        "acronym": "AN 5.5",
+        "root_lang": "pli",
+        "original_title": "Sikkhāsutta",
+        "translated_title": "Training",
+        "type": "full",
+        "resembling": false,
+        "remark": null
+      }
+    ],
+    "primary_sn_uid": null,
+    "pali_text": "",
+    "english_sn_text": "",
+    "errors": [
+      "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa601-700/sa681_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+      "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa601-700/sa681_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+      "used_analayo_fallback"
+    ],
+    "kumarajiva_style_text": "",
+    "modern_psychology_text": "",
+    "notes": "",
+    "review_status": "raw"
+  },
+  {
+    "id": "SA_682",
+    "uid": "sa682",
+    "title": "雜阿含經  卷第二十八  根力相應  （682）  第682經",
+    "chinese_text": "Saṁyuktāgama雜阿含經\n\n如是我聞：\n\n一時，佛住舍衛國祇樹給孤獨園。\n\n爾時，世尊告諸比丘：「若比丘還戒者、退戒者，他人當以五種白法來呵責汝。何等為五？若比丘不以信入於善法，若依信者，離不善法，修諸善法。不以精進、慙、愧、慧入於善法；若依慧者，離不善法，修諸善法。若比丘盡其壽命，純一滿淨，梵行清白者，他人當以五種白法來慶慰汝……」如上說。\n\n佛說此經已，諸比丘聞佛所說，歡喜奉行。",
+    "english_sa_text": "",
+    "parallels": [
+      {
+        "uid": "an5.5",
+        "acronym": "AN 5.5",
+        "root_lang": "pli",
+        "original_title": "Sikkhāsutta",
+        "translated_title": "Training",
+        "type": "full",
+        "resembling": false,
+        "remark": null
+      }
+    ],
+    "primary_sn_uid": null,
+    "pali_text": "",
+    "english_sn_text": "",
+    "errors": [
+      "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa601-700/sa682_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+      "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa601-700/sa682_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+      "used_analayo_fallback"
+    ],
+    "kumarajiva_style_text": "",
+    "modern_psychology_text": "",
+    "notes": "",
+    "review_status": "raw"
+  },
+  {
+    "id": "SA_683",
+    "uid": "sa683",
+    "title": "雜阿含經  卷第二十八  根力相應  （683）  第683經",
+    "chinese_text": "Saṁyuktāgama雜阿含經\n\n如是我聞：\n\n一時，佛住舍衛國祇樹給孤獨園。\n\n爾時，世尊告諸比丘：「若比丘若不欲令惡不善法生者，唯有信善法，若信退滅者，不信永住，諸不善法則生。乃至欲令惡不善法不生者，唯有精進、慙、愧、慧，若精進、慙、愧、慧力退滅，惡慧永住者，惡不善法則生。若比丘依於信者，則離不善法，修諸善法，依精進、慚、愧、慧者，則離不善法，修諸善法。」\n\n佛說此經已，諸比丘聞佛所說，歡喜奉行。",
+    "english_sa_text": "",
+    "parallels": [
+      {
+        "uid": "an5.5",
+        "acronym": "AN 5.5",
+        "root_lang": "pli",
+        "original_title": "Sikkhāsutta",
+        "translated_title": "Training",
+        "type": "full",
+        "resembling": false,
+        "remark": null
+      }
+    ],
+    "primary_sn_uid": null,
+    "pali_text": "",
+    "english_sn_text": "",
+    "errors": [
+      "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa601-700/sa683_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+      "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa601-700/sa683_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+      "used_analayo_fallback"
+    ],
+    "kumarajiva_style_text": "",
+    "modern_psychology_text": "",
+    "notes": "",
+    "review_status": "raw"
+  },
+  {
+    "id": "SA_684",
+    "uid": "sa684",
+    "title": "雜阿含經  卷第二十八  根力相應  （684）  第684經",
+    "chinese_text": "Saṁyuktāgama雜阿含經\n\n如是我聞：\n\n一時，佛住舍衛國祇樹給孤獨園。\n\n爾時，世尊告諸比丘：「若比丘於色生厭、離欲、滅盡、不起、解脫，是名阿羅訶三藐三佛陀。受、想、行、識亦如是說。若復比丘於色生厭、離欲、不起、解脫者，是名阿羅漢慧解脫。受、想、行、識亦如是說。諸比丘！如來應等正覺、阿羅漢慧解脫有何種種別異。」\n\n諸比丘白佛：「世尊是法根、法眼、法依，唯願為說，諸比丘聞已，當受奉行。」\n\n佛告比丘：「諦聽，善思，當為汝說。如來、應、等正覺者，先未聞法，能自覺知，現法自知，得三菩提，於未來世能說正法，覺諸聲聞，所謂四念處、四正斷、四如意足、五根、五力、七覺分、八聖道分，是名如來、應、等正覺。所未得法能得，未制梵行能制，能善知道、善說道，為眾將導，然後聲聞成就隨法隨道，樂奉大師教誡、教授，善於正法，是名如來應等正覺、阿羅漢慧解脫種種別異。\n\n「復次，五學力、如來十力。何等為學力？謂信力、精進力、念力、定力、慧力。何等為如來十力？謂如來處非處如實知，是名如來初力。若成就此力者，如來、應、等正覺得先佛最勝處智，轉於梵輪，於大眾中能師子吼而吼。\n\n「復次，如來於過去、未來、現在業法，受因事報如實知，是名第二如來力。如來、應、等正覺成就此力，得先佛最勝處，能轉梵輪，於大眾中作師子吼而吼。\n\n「復次，如來、應、等正覺禪解脫，三昧正受，染惡清淨，處淨如實知，是名如來第三力。若此力成就，如來、應、等正覺得先佛最勝處智，能轉梵輪，於大眾中師子吼而吼。\n\n「復次，如來知眾生種種諸根差別如實知，是名如來第四力。若成就此力，如來、應、等正覺得先佛最勝處智，能轉梵輪，於大眾中師子吼而吼。\n\n「復次，如來悉知眾生種種意解如實知，是名第五如來力。若此力成就，如來、應、等正覺得先佛最勝處智，能轉梵輪，於大眾中師子吼而吼。\n\n「復次，如來悉知世間眾生種種諸界如實知，是名第六如來力。若於此力成就，如來、應、等正覺得先佛最勝處智，能轉梵輪，於大眾中師子吼而吼。\n\n「復次，如來於一切至處道如實知，是名第七如來力。若此力成就，如來、應、等正覺得先佛最勝處智，能轉梵輪，於大眾中師子吼而吼。\n\n「復次，如來於過去宿命種種事憶念：『從一生至百千生，從一劫至百千劫。我爾時於彼生如是族、如是姓、如是名、如是食、如是苦樂覺、如是長壽、如是久住、如是壽分齊。我於彼處死、此處生，彼處生、此處死，如是行、如是因、如是方。』宿命所更悉如實知，是名第八如來力。若此力成就，如來、應、等正覺得先佛最勝處智，能轉梵輪，於大眾中師子吼而吼。\n\n「復次，如來以天眼淨過於人眼，見眾生死時、生時，妙色、惡色、下色、上色，向於惡趣、向於善趣、隨業法受悉如實知：『此眾生身惡業成就，口、意惡業成就，謗毀賢聖，受邪見業；以是因緣，身壞命終，墮惡趣，生地獄中。此眾生身善行，口、意善行，不謗賢聖，正見業法受；彼因彼緣，身壞命終，生善趣天上。』悉如實知，是名第九如來力。若此力成就，如來、應、等正覺得先佛最勝處智，能轉梵輪，於大眾中師子吼而吼。\n\n「復次，如來諸漏已盡，無漏心解脫、慧解脫，現法自知身作證：『我生已盡，梵行已立，所作已作，自知不受後有。』是名第十如來力。若此力成就，如來、應、等正覺得先佛最勝處智，能轉梵輪，於大眾中師子吼而吼。\n\n「如此十力，唯如來成就，是名如來與聲聞種種差別。」\n\n佛說此經已，諸比丘聞佛所說，歡喜奉行。",
+    "english_sa_text": "",
+    "parallels": [
+      {
+        "uid": "an10.21",
+        "acronym": "AN 10.21",
+        "root_lang": "pli",
+        "original_title": "Sīhanādasutta",
+        "translated_title": "The Lion",
+        "type": "full",
+        "resembling": false,
+        "remark": null
+      },
+      {
+        "uid": "ea46.4",
+        "acronym": "EA 46.4",
+        "root_lang": "lzh",
+        "original_title": "力",
+        "translated_title": "Ten Powers",
+        "type": "full",
+        "resembling": false,
+        "remark": null
+      },
+      {
+        "uid": "sa701",
+        "acronym": "SA 701",
+        "root_lang": "lzh",
+        "original_title": "如來力",
+        "translated_title": "Ten Powers",
+        "type": "full",
+        "resembling": false,
+        "remark": null
+      },
+      {
+        "uid": "t780a",
+        "acronym": "T 780a",
+        "root_lang": "lzh",
+        "original_title": "十力",
+        "translated_title": null,
+        "type": "full",
+        "resembling": false,
+        "remark": null
+      },
+      {
+        "uid": "t780b",
+        "acronym": "T 780b",
+        "root_lang": "lzh",
+        "original_title": "十力",
+        "translated_title": null,
+        "type": "full",
+        "resembling": false,
+        "remark": null
+      },
+      {
+        "uid": "t781",
+        "acronym": "T 781",
+        "root_lang": "lzh",
+        "original_title": "十力",
+        "translated_title": null,
+        "type": "full",
+        "resembling": false,
+        "remark": null
+      },
+      {
+        "uid": "t802",
+        "acronym": "T 802",
+        "root_lang": "lzh",
+        "original_title": "信解智力",
+        "translated_title": null,
+        "type": "full",
+        "resembling": false,
+        "remark": null
+      },
+      {
+        "uid": "an6.64",
+        "acronym": "AN 6.64",
+        "root_lang": "pli",
+        "original_title": "Sīhanādasutta",
+        "translated_title": null,
+        "type": "full",
+        "resembling": true,
+        "remark": null
+      },
+      {
+        "uid": "arv22",
+        "acronym": "Arv 22",
+        "root_lang": "san",
+        "original_title": "Daśa Tathāgata-Balāni",
+        "translated_title": "The Ten Strengths of a Realised One",
+        "type": "full",
+        "resembling": true,
+        "remark": null
+      },
+      {
+        "uid": "mn12",
+        "acronym": "MN 12",
+        "root_lang": "pli",
+        "original_title": "Mahāsīhanādasutta",
+        "translated_title": "The Greater Discourse on the Lion’s Roar",
+        "type": "full",
+        "resembling": true,
+        "remark": null
+      },
+      {
+        "uid": "sa687",
+        "acronym": "SA 687",
+        "root_lang": "lzh",
+        "original_title": "獅子吼",
+        "translated_title": null,
+        "type": "full",
+        "resembling": true,
+        "remark": null
+      },
+      {
+        "uid": "sa601-700",
+        "acronym": null,
+        "root_lang": "lzh",
+        "original_title": "Saṁyuktāgama 601–700",
+        "translated_title": null,
+        "type": "full",
+        "resembling": true,
+        "remark": null
+      },
+      {
+        "uid": "sa686",
+        "acronym": "SA 686",
+        "root_lang": "lzh",
+        "original_title": "師子吼",
+        "translated_title": null,
+        "type": "full",
+        "resembling": true,
+        "remark": null
+      },
+      {
+        "uid": "sf141",
+        "acronym": "SF 141",
+        "root_lang": "san",
+        "original_title": "",
+        "translated_title": null,
+        "type": "full",
+        "resembling": true,
+        "remark": null
+      },
+      {
+        "uid": "sf243",
+        "acronym": "SF 243",
+        "root_lang": "san",
+        "original_title": "",
+        "translated_title": null,
+        "type": "full",
+        "resembling": true,
+        "remark": null
+      },
+      {
+        "uid": "sf261",
+        "acronym": "SF 261",
+        "root_lang": "san",
+        "original_title": "",
+        "translated_title": null,
+        "type": "full",
+        "resembling": true,
+        "remark": null
+      },
+      {
+        "uid": "sf95",
+        "acronym": "SF 95",
+        "root_lang": "san",
+        "original_title": "",
+        "translated_title": null,
+        "type": "full",
+        "resembling": true,
+        "remark": null
+      },
+      {
+        "uid": "sht-sutta36",
+        "acronym": "SHT Sutta 36",
+        "root_lang": "san",
+        "original_title": "",
+        "translated_title": null,
+        "type": "full",
+        "resembling": true,
+        "remark": null
+      },
+      {
+        "uid": "t757",
+        "acronym": "T 757",
+        "root_lang": "lzh",
+        "original_title": "身毛喜豎",
+        "translated_title": null,
+        "type": "full",
+        "resembling": true,
+        "remark": null
+      }
+    ],
+    "primary_sn_uid": null,
+    "pali_text": "",
+    "english_sn_text": "",
+    "errors": [
+      "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa601-700/sa684_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+      "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa601-700/sa684_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+      "used_analayo_fallback"
+    ],
+    "kumarajiva_style_text": "",
+    "modern_psychology_text": "",
+    "notes": "",
+    "review_status": "raw"
+  },
+  {
+    "id": "SA_685",
+    "uid": "sa685",
+    "title": "雜阿含經  卷第二十八  根力相應  （685）  第685經",
+    "chinese_text": "Saṁyuktāgama雜阿含經\n\n如是我聞：\n\n一時，佛住舍衛國祇樹給孤獨園。\n\n爾時，世尊告諸比丘：「譬如嬰兒，父母生已，付其乳母，隨時摩拭，隨時沐浴，隨時乳哺，隨時消息。若乳母不謹慎者，兒或以草、以土諸不淨物著其口中，乳母當即教令除去。能時除却者善，兒不能自却者，乳母當以左手持其頭，右手探其哽，嬰兒當時雖苦，乳母要當苦探其哽，為欲令其子長夜安樂故。」\n\n佛告諸比丘：「若嬰兒長大，有所識別，復持草、土諸不淨物著口中不？」\n\n比丘白佛：「不也，世尊！嬰兒長大，有所別知，尚不以脚觸諸不淨物，況著口中。」\n\n佛告比丘：「嬰兒小時，乳母隨時料理消息，及其長大，智慧成就，乳母放捨，不勤消息，以其長大不自放逸故。如是，比丘！若諸聲聞始學，智慧未足，如來以法隨時教授而消息之；若久學智慧深固，如來放捨，不復隨時慇懃教授，以其智慧成就不放逸故。是故，聲聞五種學力，如來成就十種智力……」如上廣說。\n\n佛說此經已，諸比丘聞佛所說，歡喜奉行。",
+    "english_sa_text": "",
+    "parallels": [],
+    "primary_sn_uid": null,
+    "pali_text": "",
+    "english_sn_text": "",
+    "errors": [
+      "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa601-700/sa685_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+      "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa601-700/sa685_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+      "used_analayo_fallback"
+    ],
+    "kumarajiva_style_text": "",
+    "modern_psychology_text": "",
+    "notes": "",
+    "review_status": "raw"
+  },
+  {
+    "id": "SA_686",
+    "uid": "sa686",
+    "title": "雜阿含經  卷第二十八  根力相應  （686）  第686經",
+    "chinese_text": "Saṁyuktāgama雜阿含經\n\n如是我聞：\n\n一時，佛住舍衛國祇樹給孤獨園。\n\n爾時，世尊告諸比丘：「如來有六種力。若六種力成就，如來、應、等正覺得先佛最勝處智，能轉梵輪，於大眾中師子吼而吼。謂處非處如實知，如來初力。復次，過去、未來、現在心樂法受如實知……」如上廣說，「是名第二如來力。復次，如來禪、解脫、三昧、正受如實知……」如上廣說，「是名如來第三力。復次，如來過去種種宿命之事如實知……」如上廣說，「是名如來第四力。復次，如來天眼淨過於人眼，見諸眾生死此生彼……」如上廣說，「是名如來第五力。復次，如來結漏已盡，無漏心解脫、慧解脫……」如上廣說，乃至「於眾中師子吼而吼，是名如來第六力。」\n\n佛說此經已，諸比丘聞佛所說，歡喜奉行。",
+    "english_sa_text": "",
+    "parallels": [
+      {
+        "uid": "an6.64",
+        "acronym": "AN 6.64",
+        "root_lang": "pli",
+        "original_title": "Sīhanādasutta",
+        "translated_title": null,
+        "type": "full",
+        "resembling": false,
+        "remark": null
+      },
+      {
+        "uid": "an10.21",
+        "acronym": "AN 10.21",
+        "root_lang": "pli",
+        "original_title": "Sīhanādasutta",
+        "translated_title": "The Lion",
+        "type": "full",
+        "resembling": true,
+        "remark": null
+      },
+      {
+        "uid": "ea46.4",
+        "acronym": "EA 46.4",
+        "root_lang": "lzh",
+        "original_title": "力",
+        "translated_title": "Ten Powers",
+        "type": "full",
+        "resembling": true,
+        "remark": null
+      },
+      {
+        "uid": "sa684",
+        "acronym": "SA 684",
+        "root_lang": "lzh",
+        "original_title": "十力",
+        "translated_title": "The Tathāgata and the Arhat",
+        "type": "full",
+        "resembling": true,
+        "remark": null
+      },
+      {
+        "uid": "sa701",
+        "acronym": "SA 701",
+        "root_lang": "lzh",
+        "original_title": "如來力",
+        "translated_title": "Ten Powers",
+        "type": "full",
+        "resembling": true,
+        "remark": null
+      },
+      {
+        "uid": "t780a",
+        "acronym": "T 780a",
+        "root_lang": "lzh",
+        "original_title": "十力",
+        "translated_title": null,
+        "type": "full",
+        "resembling": true,
+        "remark": null
+      },
+      {
+        "uid": "t780b",
+        "acronym": "T 780b",
+        "root_lang": "lzh",
+        "original_title": "十力",
+        "translated_title": null,
+        "type": "full",
+        "resembling": true,
+        "remark": null
+      },
+      {
+        "uid": "t781",
+        "acronym": "T 781",
+        "root_lang": "lzh",
+        "original_title": "十力",
+        "translated_title": null,
+        "type": "full",
+        "resembling": true,
+        "remark": null
+      },
+      {
+        "uid": "t802",
+        "acronym": "T 802",
+        "root_lang": "lzh",
+        "original_title": "信解智力",
+        "translated_title": null,
+        "type": "full",
+        "resembling": true,
+        "remark": null
+      }
+    ],
+    "primary_sn_uid": null,
+    "pali_text": "",
+    "english_sn_text": "",
+    "errors": [
+      "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa601-700/sa686_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+      "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa601-700/sa686_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+      "used_analayo_fallback"
+    ],
+    "kumarajiva_style_text": "",
+    "modern_psychology_text": "",
+    "notes": "",
+    "review_status": "raw"
+  },
+  {
+    "id": "SA_687",
+    "uid": "sa687",
+    "title": "雜阿含經  卷第二十八  根力相應  （687）  第687經",
+    "chinese_text": "Saṁyuktāgama雜阿含經\n\n如是我聞：\n\n一時，佛住舍衛國祇樹給孤獨園。\n\n爾時，世尊告諸比丘……如上說。差別者：「若有來問我如來處非處力，如如來處非處智力所知見覺，成等正覺，為彼記說。\n\n「若復來問如來自以樂受智力，如如來自以樂受智力所知見覺，成等正覺，為彼記說，是名第二如來智力。\n\n「若有來問如來禪定、解脫、三昧、正受智力，如如來禪定、解脫、三昧、正受，為彼記說。\n\n「若有來問宿命所更智力，如如來宿命所更所知見覺，為彼記說。\n\n「若有來問如來天眼智力，如如來天眼所見，為彼記說。\n\n「若有來問如來漏盡智力，如如來漏盡智力所知見覺，為彼記說。」\n\n佛說此經已，諸比丘聞佛所說，歡喜奉行。",
+    "english_sa_text": "",
+    "parallels": [
+      {
+        "uid": "an6.64",
+        "acronym": "AN 6.64",
+        "root_lang": "pli",
+        "original_title": "Sīhanādasutta",
+        "translated_title": null,
+        "type": "full",
+        "resembling": false,
+        "remark": null
+      },
+      {
+        "uid": "an10.21",
+        "acronym": "AN 10.21",
+        "root_lang": "pli",
+        "original_title": "Sīhanādasutta",
+        "translated_title": "The Lion",
+        "type": "full",
+        "resembling": true,
+        "remark": null
+      },
+      {
+        "uid": "ea46.4",
+        "acronym": "EA 46.4",
+        "root_lang": "lzh",
+        "original_title": "力",
+        "translated_title": "Ten Powers",
+        "type": "full",
+        "resembling": true,
+        "remark": null
+      },
+      {
+        "uid": "sa684",
+        "acronym": "SA 684",
+        "root_lang": "lzh",
+        "original_title": "十力",
+        "translated_title": "The Tathāgata and the Arhat",
+        "type": "full",
+        "resembling": true,
+        "remark": null
+      },
+      {
+        "uid": "sa701",
+        "acronym": "SA 701",
+        "root_lang": "lzh",
+        "original_title": "如來力",
+        "translated_title": "Ten Powers",
+        "type": "full",
+        "resembling": true,
+        "remark": null
+      },
+      {
+        "uid": "t780a",
+        "acronym": "T 780a",
+        "root_lang": "lzh",
+        "original_title": "十力",
+        "translated_title": null,
+        "type": "full",
+        "resembling": true,
+        "remark": null
+      },
+      {
+        "uid": "t780b",
+        "acronym": "T 780b",
+        "root_lang": "lzh",
+        "original_title": "十力",
+        "translated_title": null,
+        "type": "full",
+        "resembling": true,
+        "remark": null
+      },
+      {
+        "uid": "t781",
+        "acronym": "T 781",
+        "root_lang": "lzh",
+        "original_title": "十力",
+        "translated_title": null,
+        "type": "full",
+        "resembling": true,
+        "remark": null
+      },
+      {
+        "uid": "t802",
+        "acronym": "T 802",
+        "root_lang": "lzh",
+        "original_title": "信解智力",
+        "translated_title": null,
+        "type": "full",
+        "resembling": true,
+        "remark": null
+      }
+    ],
+    "primary_sn_uid": null,
+    "pali_text": "",
+    "english_sn_text": "",
+    "errors": [
+      "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa601-700/sa687_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+      "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa601-700/sa687_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+      "used_analayo_fallback"
+    ],
+    "kumarajiva_style_text": "",
+    "modern_psychology_text": "",
+    "notes": "",
+    "review_status": "raw"
+  },
+  {
+    "id": "SA_688",
+    "uid": "sa688",
+    "title": "雜阿含經  卷第二十八  根力相應  （688）  第688經",
+    "chinese_text": "Saṁyuktāgama雜阿含經\n\n如是我聞：\n\n一時，佛住舍衛國祇樹給孤獨園。\n\n爾時，世尊告諸比丘：「有七力。何等為七？信力、精進力、慚力、愧力、念力、定力、慧力。」\n\n爾時，世尊即說偈言：\n\n「信力精進力，　　慚力及愧力，\n\n　正念定慧力，　　是說名七力，\n\n　成就七力者，　　得盡諸有漏。」\n\n佛說此經已，諸比丘聞佛所說，歡喜奉行。",
+    "english_sa_text": "",
+    "parallels": [
+      {
+        "uid": "an7.3",
+        "acronym": "AN 7.3",
+        "root_lang": "pli",
+        "original_title": "Saṁkhittabalasutta",
+        "translated_title": null,
+        "type": "full",
+        "resembling": false,
+        "remark": null
+      },
+      {
+        "uid": "sa689",
+        "acronym": "SA 689",
+        "root_lang": "lzh",
+        "original_title": "七力",
+        "translated_title": null,
+        "type": "full",
+        "resembling": false,
+        "remark": null
+      },
+      {
+        "uid": "sa690",
+        "acronym": "SA 690",
+        "root_lang": "lzh",
+        "original_title": "七力",
+        "translated_title": null,
+        "type": "full",
+        "resembling": false,
+        "remark": null
+      }
+    ],
+    "primary_sn_uid": null,
+    "pali_text": "",
+    "english_sn_text": "",
+    "errors": [
+      "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa601-700/sa688_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+      "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa601-700/sa688_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+      "used_analayo_fallback"
+    ],
+    "kumarajiva_style_text": "",
+    "modern_psychology_text": "",
+    "notes": "",
+    "review_status": "raw"
+  },
+  {
+    "id": "SA_689",
+    "uid": "sa689",
+    "title": "雜阿含經  卷第二十八  根力相應  （689）  第689經",
+    "chinese_text": "Saṁyuktāgama雜阿含經\n\n如是我聞：\n\n一時，佛住舍衛國祇樹給孤獨園。\n\n爾時，世尊告諸比丘：「有七力……」如上說。差別者：「是故，比丘！當如是學：『我當成就信力。』如是精進力、慚力、愧力、念力、定力、慧力亦當學。」\n\n佛說此經已，諸比丘聞佛所說，歡喜奉行。",
+    "english_sa_text": "",
+    "parallels": [
+      {
+        "uid": "an7.3",
+        "acronym": "AN 7.3",
+        "root_lang": "pli",
+        "original_title": "Saṁkhittabalasutta",
+        "translated_title": null,
+        "type": "full",
+        "resembling": false,
+        "remark": null
+      },
+      {
+        "uid": "sa688",
+        "acronym": "SA 688",
+        "root_lang": "lzh",
+        "original_title": "七力",
+        "translated_title": null,
+        "type": "full",
+        "resembling": false,
+        "remark": null
+      },
+      {
+        "uid": "sa690",
+        "acronym": "SA 690",
+        "root_lang": "lzh",
+        "original_title": "七力",
+        "translated_title": null,
+        "type": "full",
+        "resembling": false,
+        "remark": null
+      }
+    ],
+    "primary_sn_uid": null,
+    "pali_text": "",
+    "english_sn_text": "",
+    "errors": [
+      "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa601-700/sa689_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+      "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa601-700/sa689_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+      "used_analayo_fallback"
+    ],
+    "kumarajiva_style_text": "",
+    "modern_psychology_text": "",
+    "notes": "",
+    "review_status": "raw"
+  },
+  {
+    "id": "SA_690",
+    "uid": "sa690",
+    "title": "雜阿含經  卷第二十八  根力相應  （690）  第690經",
+    "chinese_text": "Saṁyuktāgama雜阿含經\n\n如是我聞：\n\n一時，佛住舍衛國祇樹給孤獨園。\n\n爾時，世尊告諸比丘：「有七力……」如上說。差別者，爾時，世尊即說偈言：\n\n「信力精進力，　　及說慚愧力，\n\n　念力定慧力，　　是名為七力。\n\n　七力成就者，　　疾斷諸有漏。」\n\n佛說此經已，諸比丘聞佛所說，歡喜奉行。",
+    "english_sa_text": "",
+    "parallels": [
+      {
+        "uid": "an7.3",
+        "acronym": "AN 7.3",
+        "root_lang": "pli",
+        "original_title": "Saṁkhittabalasutta",
+        "translated_title": null,
+        "type": "full",
+        "resembling": false,
+        "remark": null
+      },
+      {
+        "uid": "sa688",
+        "acronym": "SA 688",
+        "root_lang": "lzh",
+        "original_title": "七力",
+        "translated_title": null,
+        "type": "full",
+        "resembling": false,
+        "remark": null
+      },
+      {
+        "uid": "sa689",
+        "acronym": "SA 689",
+        "root_lang": "lzh",
+        "original_title": "七力",
+        "translated_title": null,
+        "type": "full",
+        "resembling": false,
+        "remark": null
+      }
+    ],
+    "primary_sn_uid": null,
+    "pali_text": "",
+    "english_sn_text": "",
+    "errors": [
+      "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa601-700/sa690_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+      "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa601-700/sa690_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+      "used_analayo_fallback"
+    ],
+    "kumarajiva_style_text": "",
+    "modern_psychology_text": "",
+    "notes": "",
+    "review_status": "raw"
+  },
+  {
+    "id": "SA_691",
+    "uid": "sa691",
+    "title": "雜阿含經  卷第二十八  根力相應  （691）  第691經",
+    "chinese_text": "Saṁyuktāgama雜阿含經\n\n如是我聞：\n\n一時，佛住舍衛國祇樹給孤獨園。\n\n爾時，世尊告諸比丘：「有七力。何等為七？信力、精進力、慚力、愧力、念力、定力、慧力。何等為信力？於如來所起信心，深入堅固，諸天、魔、梵、沙門、婆羅門及餘同法所不能壞，是名信力。何等為精進力？謂四正斷……」如上廣說。「何等為慚力？謂恥惡不善法……」如上說。「何等為愧力？於可愧事愧，愧起惡不善法……」如上說。「何等為念力？謂四念處……」如上說。「何等為定力？謂四禪……」如上說。「何等為慧力？謂四聖諦……」如上說。\n\n佛說此經已，諸比丘聞佛所說，歡喜奉行。",
+    "english_sa_text": "",
+    "parallels": [
+      {
+        "uid": "an7.4",
+        "acronym": "AN 7.4",
+        "root_lang": "pli",
+        "original_title": "Vitthatabalasutta",
+        "translated_title": null,
+        "type": "full",
+        "resembling": false,
+        "remark": null
+      }
+    ],
+    "primary_sn_uid": null,
+    "pali_text": "",
+    "english_sn_text": "",
+    "errors": [
+      "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa601-700/sa691_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+      "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa601-700/sa691_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+      "used_analayo_fallback"
+    ],
+    "kumarajiva_style_text": "",
+    "modern_psychology_text": "",
+    "notes": "",
+    "review_status": "raw"
+  },
+  {
+    "id": "SA_692",
+    "uid": "sa692",
+    "title": "雜阿含經  卷第二十八  根力相應  （692）  第692經",
+    "chinese_text": "Saṁyuktāgama雜阿含經\n\n如是我聞：\n\n一時，佛住舍衛國祇樹給孤獨園。\n\n爾時，世尊告諸比丘：「有八力。何等為八？謂自在王者力、斷事大臣力、結恨女人力、啼泣嬰兒力、毀呰愚人力、審諦黠慧力、忍辱出家力、計數多聞力。」\n\n佛說此經已，諸比丘聞佛所說，歡喜奉行。",
+    "english_sa_text": "",
+    "parallels": [
+      {
+        "uid": "an8.27",
+        "acronym": "AN 8.27",
+        "root_lang": "pli",
+        "original_title": "Paṭhamabalasutta",
+        "translated_title": "Powers (1)",
+        "type": "full",
+        "resembling": false,
+        "remark": null
+      },
+      {
+        "uid": "sa693",
+        "acronym": "SA 693",
+        "root_lang": "lzh",
+        "original_title": "八力",
+        "translated_title": null,
+        "type": "full",
+        "resembling": false,
+        "remark": null
+      },
+      {
+        "uid": "ea38.1",
+        "acronym": "EA 38.1",
+        "root_lang": "lzh",
+        "original_title": "",
+        "translated_title": null,
+        "type": "full",
+        "resembling": true,
+        "remark": null
+      }
+    ],
+    "primary_sn_uid": null,
+    "pali_text": "",
+    "english_sn_text": "",
+    "errors": [
+      "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa601-700/sa692_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+      "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa601-700/sa692_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+      "used_analayo_fallback"
+    ],
+    "kumarajiva_style_text": "",
+    "modern_psychology_text": "",
+    "notes": "",
+    "review_status": "raw"
+  },
+  {
+    "id": "SA_693",
+    "uid": "sa693",
+    "title": "雜阿含經  卷第二十八  根力相應  （693）  第693經",
+    "chinese_text": "Saṁyuktāgama雜阿含經\n\n如是我聞：\n\n一時，佛住舍衛國祇樹給孤獨園。\n\n爾時，世尊告諸比丘……如上說。差別者：「謂自在王力者，王者現自在威力。斷事大臣力者，大臣現斷事之力。結恨女人力者，女人之法現結恨力。啼泣嬰兒力者，嬰兒之法現啼泣力。毀呰愚人力者，愚人之法觸事毀呰。審諦黠慧力者，智慧之人常現審諦。忍辱出家力者，出家之人常現忍辱。計數多聞力者，多聞之人常現思惟計數。」\n\n佛說此經已，諸比丘聞佛所說，歡喜奉行。",
+    "english_sa_text": "",
+    "parallels": [
+      {
+        "uid": "an8.27",
+        "acronym": "AN 8.27",
+        "root_lang": "pli",
+        "original_title": "Paṭhamabalasutta",
+        "translated_title": "Powers (1)",
+        "type": "full",
+        "resembling": false,
+        "remark": null
+      },
+      {
+        "uid": "sa692",
+        "acronym": "SA 692",
+        "root_lang": "lzh",
+        "original_title": "八力",
+        "translated_title": null,
+        "type": "full",
+        "resembling": false,
+        "remark": null
+      },
+      {
+        "uid": "ea38.1",
+        "acronym": "EA 38.1",
+        "root_lang": "lzh",
+        "original_title": "",
+        "translated_title": null,
+        "type": "full",
+        "resembling": true,
+        "remark": null
+      }
+    ],
+    "primary_sn_uid": null,
+    "pali_text": "",
+    "english_sn_text": "",
+    "errors": [
+      "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa601-700/sa693_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+      "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa601-700/sa693_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+      "used_analayo_fallback"
+    ],
+    "kumarajiva_style_text": "",
+    "modern_psychology_text": "",
+    "notes": "",
+    "review_status": "raw"
+  },
+  {
+    "id": "SA_694",
+    "uid": "sa694",
+    "title": "雜阿含經  卷第二十八  根力相應  （694）  第694經",
+    "chinese_text": "Saṁyuktāgama雜阿含經\n\n如是我聞：\n\n一時，佛住舍衛國祇樹給孤獨園。\n\n爾時，尊者舍利弗詣世尊所，稽首禮足，退坐一面，白佛言：「世尊！漏盡比丘有幾力？」\n\n佛告舍利弗：「漏盡比丘有八力。何等為八？謂漏盡比丘心順趣於離、流注於離、浚輸於離，順趣於出、流注於出、浚輸於出，順趣涅槃、流注涅槃、浚輸涅槃。若見五欲，猶見火坑。如是見已，於欲念、欲受、欲著，心不永住，修四念處、四正斷、四如意足、五根、五力、七覺分、八聖道分。」\n\n佛說此經已，尊者舍利弗聞佛所說，歡喜奉行。",
+    "english_sa_text": "",
+    "parallels": [
+      {
+        "uid": "an10.90",
+        "acronym": "AN 10.90",
+        "root_lang": "pli",
+        "original_title": "Khīṇāsavabalasutta",
+        "translated_title": null,
+        "type": "full",
+        "resembling": true,
+        "remark": null
+      },
+      {
+        "uid": "an8.28",
+        "acronym": "AN 8.28",
+        "root_lang": "pli",
+        "original_title": "Dutiyabalasutta",
+        "translated_title": "Powers (2)",
+        "type": "full",
+        "resembling": true,
+        "remark": null
+      }
+    ],
+    "primary_sn_uid": null,
+    "pali_text": "",
+    "english_sn_text": "",
+    "errors": [
+      "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa601-700/sa694_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+      "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa601-700/sa694_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+      "used_analayo_fallback"
+    ],
+    "kumarajiva_style_text": "",
+    "modern_psychology_text": "",
+    "notes": "",
+    "review_status": "raw"
+  },
+  {
+    "id": "SA_695",
+    "uid": "sa695",
+    "title": "雜阿含經  卷第二十八  根力相應  （695）  第695經",
+    "chinese_text": "Saṁyuktāgama雜阿含經\n\n如尊者舍利弗問經。如是異比丘問佛。",
+    "english_sa_text": "",
+    "parallels": [
+      {
+        "uid": "an10.90",
+        "acronym": "AN 10.90",
+        "root_lang": "pli",
+        "original_title": "Khīṇāsavabalasutta",
+        "translated_title": null,
+        "type": "full",
+        "resembling": true,
+        "remark": null
+      },
+      {
+        "uid": "an8.28",
+        "acronym": "AN 8.28",
+        "root_lang": "pli",
+        "original_title": "Dutiyabalasutta",
+        "translated_title": "Powers (2)",
+        "type": "full",
+        "resembling": true,
+        "remark": null
+      }
+    ],
+    "primary_sn_uid": null,
+    "pali_text": "",
+    "english_sn_text": "",
+    "errors": [
+      "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa601-700/sa695_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+      "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa601-700/sa695_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+      "used_analayo_fallback"
+    ],
+    "kumarajiva_style_text": "",
+    "modern_psychology_text": "",
+    "notes": "",
+    "review_status": "raw"
+  },
+  {
+    "id": "SA_696",
+    "uid": "sa696",
+    "title": "雜阿含經  卷第二十八  根力相應  （696）  第696經",
+    "chinese_text": "Saṁyuktāgama雜阿含經\n\n問諸比丘經亦如上說。",
+    "english_sa_text": "",
+    "parallels": [
+      {
+        "uid": "an10.90",
+        "acronym": "AN 10.90",
+        "root_lang": "pli",
+        "original_title": "Khīṇāsavabalasutta",
+        "translated_title": null,
+        "type": "full",
+        "resembling": true,
+        "remark": null
+      },
+      {
+        "uid": "an8.28",
+        "acronym": "AN 8.28",
+        "root_lang": "pli",
+        "original_title": "Dutiyabalasutta",
+        "translated_title": "Powers (2)",
+        "type": "full",
+        "resembling": true,
+        "remark": null
+      }
+    ],
+    "primary_sn_uid": null,
+    "pali_text": "",
+    "english_sn_text": "",
+    "errors": [
+      "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa601-700/sa696_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+      "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa601-700/sa696_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+      "used_analayo_fallback"
+    ],
+    "kumarajiva_style_text": "",
+    "modern_psychology_text": "",
+    "notes": "",
+    "review_status": "raw"
+  },
+  {
+    "id": "SA_697",
+    "uid": "sa697",
+    "title": "雜阿含經  卷第二十八  根力相應  （697）  第697經",
+    "chinese_text": "Saṁyuktāgama雜阿含經\n\n如是我聞：\n\n一時，佛住舍衛國祇樹給孤獨園。\n\n爾時，世尊告諸比丘：「有九力。何等為九力？謂信力、精進力、慚力、愧力、念力、定力、慧力、數力、修力。」\n\n佛說此經已，諸比丘聞佛所說，歡喜奉行。",
+    "english_sa_text": "",
+    "parallels": [
+      {
+        "uid": "an10.90",
+        "acronym": "AN 10.90",
+        "root_lang": "pli",
+        "original_title": "Khīṇāsavabalasutta",
+        "translated_title": null,
+        "type": "full",
+        "resembling": true,
+        "remark": null
+      },
+      {
+        "uid": "an8.28",
+        "acronym": "AN 8.28",
+        "root_lang": "pli",
+        "original_title": "Dutiyabalasutta",
+        "translated_title": "Powers (2)",
+        "type": "full",
+        "resembling": true,
+        "remark": null
+      }
+    ],
+    "primary_sn_uid": null,
+    "pali_text": "",
+    "english_sn_text": "",
+    "errors": [
+      "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa601-700/sa697_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+      "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa601-700/sa697_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+      "used_analayo_fallback"
+    ],
+    "kumarajiva_style_text": "",
+    "modern_psychology_text": "",
+    "notes": "",
+    "review_status": "raw"
+  },
+  {
+    "id": "SA_698",
+    "uid": "sa698",
+    "title": "雜阿含經  卷第二十八  根力相應  （698）  第698經",
+    "chinese_text": "Saṁyuktāgama雜阿含經\n\n如是我聞：\n\n一時，佛住舍衛國祇樹給孤獨園。\n\n爾時，世尊告諸比丘：「有九力。何等為九？謂信力、精進力、慚力、愧力、念力、定力、慧力、數力、修力。何等為信力？於如來所起正信心，深入堅固……」如上說。「何等為精進力？謂四正斷……」如上說。「何等為慚力？……」如上說。「何等為愧力？……」如上說。「何等為念力？謂內身身觀住……」如上說。「何等為定力？謂四禪。何等為慧力？謂四聖諦。何等為數力？謂聖弟子若於閑房、樹下作如是學：『身、口惡行者於現法後世當受惡報……』」如上廣說。「何等為修力？謂修四念處……」如前說。\n\n佛說此經已，諸比丘聞佛所說，歡喜奉行。",
+    "english_sa_text": "",
+    "parallels": [
+      {
+        "uid": "an10.90",
+        "acronym": "AN 10.90",
+        "root_lang": "pli",
+        "original_title": "Khīṇāsavabalasutta",
+        "translated_title": null,
+        "type": "full",
+        "resembling": true,
+        "remark": null
+      },
+      {
+        "uid": "an8.28",
+        "acronym": "AN 8.28",
+        "root_lang": "pli",
+        "original_title": "Dutiyabalasutta",
+        "translated_title": "Powers (2)",
+        "type": "full",
+        "resembling": true,
+        "remark": null
+      }
+    ],
+    "primary_sn_uid": null,
+    "pali_text": "",
+    "english_sn_text": "",
+    "errors": [
+      "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa601-700/sa698_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+      "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa601-700/sa698_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+      "used_analayo_fallback"
+    ],
+    "kumarajiva_style_text": "",
+    "modern_psychology_text": "",
+    "notes": "",
+    "review_status": "raw"
+  },
+  {
+    "id": "SA_699",
+    "uid": "sa699",
+    "title": "雜阿含經  卷第二十八  根力相應  （699）  第699經",
+    "chinese_text": "Saṁyuktāgama雜阿含經\n\n如是我聞：\n\n一時，佛住舍衛國祇樹給孤獨園。\n\n爾時，世尊告諸比丘：「有十力。何等為十？自在王者力、斷事大臣力、機關工巧力、刀劍賊盜力、怨恨女人力、啼泣嬰兒力、毀呰愚人力、審諦黠慧力、忍辱出家力、計數多聞力。」\n\n佛說此經已，諸比丘聞佛所說，歡喜奉行。",
+    "english_sa_text": "",
+    "parallels": [],
+    "primary_sn_uid": null,
+    "pali_text": "",
+    "english_sn_text": "",
+    "errors": [
+      "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa601-700/sa699_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+      "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa601-700/sa699_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+      "used_analayo_fallback"
+    ],
+    "kumarajiva_style_text": "",
+    "modern_psychology_text": "",
+    "notes": "",
+    "review_status": "raw"
+  },
+  {
+    "id": "SA_700",
+    "uid": "sa700",
+    "title": "雜阿含經  卷第二十八  根力相應  （700）  第700經",
+    "chinese_text": "Saṁyuktāgama雜阿含經\n\n如是我聞：\n\n一時，佛住舍衛國祇樹給孤獨園。\n\n爾時，世尊告諸比丘……如上說。差別者：「謂自在王力者，王者現自在威力。斷事大臣力者，大臣現斷事之功力。機關工巧力，造機關者現其工巧力。刀劍盜賊力，盜賊必現刀劍力。計數多聞力者，凡思惟計數現多聞之力。」\n\n佛說此經已，諸比丘聞佛所說，歡喜奉行。",
+    "english_sa_text": "",
+    "parallels": [],
+    "primary_sn_uid": null,
+    "pali_text": "",
+    "english_sn_text": "",
+    "errors": [
+      "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa601-700/sa700_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+      "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa601-700/sa700_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+      "used_analayo_fallback"
+    ],
+    "kumarajiva_style_text": "",
+    "modern_psychology_text": "",
+    "notes": "",
+    "review_status": "raw"
+  }
+]

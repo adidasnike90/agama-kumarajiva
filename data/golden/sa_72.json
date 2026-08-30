@@ -1,0 +1,50 @@
+{
+  "id": "SA_72",
+  "uid": "sa72",
+  "title": "雜阿含經  卷第三  陰相應  （七二）  知法",
+  "chinese_text": "如是我聞：\n\n一時，佛住舍衛國祇樹給孤獨園。\n\n爾時，世尊告諸比丘：「當說所知法、智及智者。諦聽，善思，當為汝說。云何所知法？謂五受陰。何等為五？色受陰，受、想、行、識受陰，是名所知法。\n\n「云何為智？調伏貪欲、斷貪欲、越貪欲，是名為智。\n\n「云何智者？阿羅漢是。阿羅漢者，非有他世死、非無他世死、非有無他世死、非非有無他世死，廣說無量，諸數永滅。\n\n「是名說所知法、智及智者。」\n\n佛說此經已，諸比丘聞佛所說，歡喜奉行。",
+  "english_sa_text": "Saṁyuktāgama\n\n72. Discourse on Understanding Things\n\nThus have I heard. At one time the Buddha was staying at Sāvatthī in Jeta’s Grove, Anāthapiṇḍika’s Park.\n\nAt that time the Blessed One said to the monks: “I will teach you things to be understood, knowledge, and one who knows. Listen and pay careful attention to what I shall tell you.\n\n“What are the things to be understood? That is, they are the five aggregates of clinging. What are the five? They are the bodily form aggregate of clinging … the feeling … the perception … the formations … the consciousness aggregate of clinging. These are called things to be understood.\n\n“What is knowledge? The disciplining of lustful desire, the abandoning of lustful desire, the going beyond lustful desire—this is called knowledge.\n\n“Who is the one who knows? It is the arahant. The arahant neither exists in another world after death, nor does he not exist in another world after death, nor does he exist-and-not-exist in another world after death, nor does he neither-exist-nor-not-exist in another world after death. Stating this in detail is without limit, as for him all reckonings have forever ceased.\n\n“This is called the teaching of things to be understood, knowledge, and one who knows.”\n\nWhen the Buddha had spoken this discourse, the monks, hearing what the Buddha had said, were delighted and received it respectfully.\n\nTranslated by Bhikkhu Anālayo. Originally published in ‘On the Five Aggregates (3)—A Translation of Saṁyukta-āgama Discourses 59 to 87’. Dharma Drum Journal of Buddhist Studies, vol. 13, pp. 1–65 (2013). New Taipei City: Dharma Drum Buddhist College.\n\nPrepared for SuttaCentral by Bhikkhu Sujato.",
+  "parallels": [
+    {
+      "uid": "sn22.106",
+      "acronym": "SN 22.106",
+      "root_lang": "pli",
+      "original_title": "Pariññeyyasutta",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "sn22.23",
+      "acronym": "SN 22.23",
+      "root_lang": "pli",
+      "original_title": "Pariññasutta",
+      "translated_title": "Full Understanding",
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    }
+  ],
+  "primary_sn_uid": "sn22.106",
+  "pali_text": "Sāvatthinidānaṁ. “Pariññeyye ca, bhikkhave, dhamme desessāmi pariññañca pariññātāviñca puggalaṁ. Taṁ suṇātha. Katame ca, bhikkhave, pariññeyyā dhammā? Rūpaṁ, bhikkhave, pariññeyyo dhammo. Vedanā …pe… saññā … saṅkhārā … viññāṇaṁ pariññeyyo dhammo. Ime vuccanti, bhikkhave, pariññeyyā dhammā. Katamā ca, bhikkhave, pariññā? Rāgakkhayo, dosakkhayo, mohakkhayo— ayaṁ vuccati, bhikkhave, pariññā. Katamo ca, bhikkhave, pariññātāvī puggalo? Arahātissa vacanīyaṁ. Yvāyaṁ āyasmā evaṁnāmo evaṅgotto— ayaṁ vuccati, bhikkhave, pariññātāvī puggalo”ti. Catutthaṁ.",
+  "english_sn_text": "At Sāvatthī. “Mendicants, I will teach you the things that should be completely understood, complete understanding, and the individual who has completely understood. Listen … And what things should be completely understood? Form, feeling, perception, choices, and consciousness. These are called the things that should be completely understood. And what is complete understanding? The ending of greed, hate, and delusion. This is called complete understanding. And who is the individual who has completely understood? It should be said: a perfected one, the venerable of such name and such clan. This is called the individual who has completely understood.”",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa1-100/sa72_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa1-100/sa72_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时佛在舍卫国祇树给孤独园。\n尔时世尊告诸比丘：当说所知法、智及智者。谛听，善思，当为汝说。云何所知法？谓五受阴——色受阴，受、想、行、识受阴，是名所知法。云何为智？谓调伏贪欲、断贪欲、越贪欲；贪尽、恚尽、痴尽，是名为智。云何智者？谓阿罗汉是。阿罗汉者，不可说死后有、死后无、死后亦有亦无、死后非有非无；如是广说无量，一切言数永灭。是名所知法、智及智者。\n佛说此经已，诸比丘闻佛所说，欢喜奉行。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在舍卫国祇树给孤独园。\n那时，世尊告诉比丘们：我要讲应当遍知之法、遍知之智、以及有智的人。仔细听，好好思惟，我为你们说。什么是应当遍知之法？就是五受阴——色受阴，以及受、想、行、识受阴，这叫做所知法。什么是智？就是调伏贪欲、断除贪欲、超越贪欲；贪尽、瞋尽、痴尽，这叫做智。谁是有智的人？就是阿罗汉。对阿罗汉，不能说他死后存在、死后不存在、死后既存在又不存在、死后既非存在又非不存在；这样广说下去也无量无边，一切言说计量在他身上都已止息。这就是所知法、智与智者。\n佛说完这部经，比丘们听佛所说，都欢喜奉行。",
+  "notes": "据 SN22.106：所遍知法＝五蕴，遍知＝贪尽、瞋尽、痴尽，遍知者＝阿罗汉。汉本「调伏／断／越贪欲」义合而偏狭，今并存巴利之三毒尽。汉本另有阿罗汉死后四句不可记说一段（无记，同 SN44 系），巴利本无，仍依汉本保留，改作可读之四句。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "high"
+}

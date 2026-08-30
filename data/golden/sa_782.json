@@ -1,0 +1,33 @@
+{
+  "id": "SA_782",
+  "uid": "sa782",
+  "title": "雜阿含經  卷第三十  聖道分相應  （782）  非法是法",
+  "chinese_text": "如是我聞：\n\n一時，佛住舍衛國祇樹給孤獨園。\n\n爾時，世尊告諸比丘：「有非法、是法。諦聽，善思，當為汝說。何等為非法、是法？謂邪見非法、正見是法，乃至邪定非法、正定是法。」\n\n佛說此經已，諸比丘聞佛所說，歡喜奉行。\n\n如非法、是法，如是非律、正律，非聖、是聖，不善法、善法，非習法、習法，非善哉法、善哉法，黑法、白法，非義、正義，卑法、勝法，有罪法、無罪法，應去法、不去法，一一經皆如上說。",
+  "english_sa_text": "",
+  "parallels": [],
+  "primary_sn_uid": null,
+  "pali_text": "",
+  "english_sn_text": "",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa701-800/sa782_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa701-800/sa782_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛住舍卫国祇树给孤独园。\n尔时世尊告诸比丘：「有非法、是法。谛听，善思，当为汝说。何等非法、是法？谓邪见、邪志、邪语、邪业、邪命、邪方便、邪念、邪定为非法，正见、正志、正语、正业、正命、正方便、正念、正定为是法。」\n「如非法／是法，非律／正律，非圣／是圣，不善／善，非习／习，非善哉／善哉，黑／白，非义／正义，卑／胜，有罪／无罪，应去／不去——一一经皆如上说。」\n佛说此经已，诸比丘闻佛所说，欢喜奉行。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在舍卫国祇树给孤独园。\n那时世尊告诉诸比丘：「有非法，也有正法。仔细听，好好想，我为你们说。什么是非法、什么是正法？就是邪见、邪志、邪语、邪业、邪命、邪方便、邪念、邪定是非法，正见、正志、正语、正业、正命、正方便、正念、正定是正法。」\n「就像非法与正法这样，非律与正律、非圣与是圣、不善与善、非习与习、非善哉与善哉、黑与白、非义与正义、卑与胜、有罪与无罪、应舍与不应舍——每一经都如上说。」\n佛说完这部经，比丘们听佛所说，都欢喜奉行。",
+  "notes": "SC 于本经未列可靠巴利平行，故唯以汉本为底，参同相应之巴利定型语厘义；依项目规约「无可靠平行时 confidence 降为 medium/low」。confidence=medium：首经举八邪／八正；其余对举皆「如上说」peyyāla，摄记不展开。reconstruction=非法是法等十一对 peyyāla 压缩。",
+  "review_status": "gold_reconstructed",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "medium",
+  "prior_review_status": "needs_revision",
+  "reconstruction_basis": "非法／是法以下十一对举 peyyāla 压缩",
+  "similarity_to_source": 0.261,
+  "paragraph_parallel": true
+}

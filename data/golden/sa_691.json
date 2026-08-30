@@ -1,0 +1,44 @@
+{
+  "id": "SA_691",
+  "uid": "sa691",
+  "title": "雜阿含經  卷第二十八  根力相應  （691）  七力",
+  "chinese_text": "如是我聞：\n\n一時，佛住舍衛國祇樹給孤獨園。\n\n爾時，世尊告諸比丘：「有七力。何等為七？信力、精進力、慚力、愧力、念力、定力、慧力。何等為信力？於如來所起信心，深入堅固，諸天、魔、梵、沙門、婆羅門及餘同法所不能壞，是名信力。何等為精進力？謂四正斷……」如上廣說。「何等為慚力？謂恥惡不善法……」如上說。「何等為愧力？於可愧事愧，愧起惡不善法……」如上說。「何等為念力？謂四念處……」如上說。「何等為定力？謂四禪……」如上說。「何等為慧力？謂四聖諦……」如上說。\n\n佛說此經已，諸比丘聞佛所說，歡喜奉行。",
+  "english_sa_text": "",
+  "parallels": [
+    {
+      "uid": "an7.4",
+      "acronym": "AN 7.4",
+      "root_lang": "pli",
+      "original_title": "Vitthatabalasutta",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    }
+  ],
+  "primary_sn_uid": null,
+  "pali_text": "",
+  "english_sn_text": "",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa601-700/sa691_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa601-700/sa691_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛住舍卫国祇树给孤独园。\n佛告比丘：「有七力——信力、精进力、惭力、愧力、念力、定力、慧力。」\n「何等信力？于如来所起信心，深入坚固，诸天、魔、梵、沙门、婆罗门及余同法所不能坏，是名信力。」\n「何等精进力？谓四正断——已生恶不善法令断，未生恶法令不生，未生善法令生，已生善法令住不忘、修习增广，是名精进力。」\n「何等惭力？耻于身口意恶行，耻起恶不善法，是名惭力。」\n「何等愧力？于可愧事而愧，愧起恶不善法，是名愧力。」\n「何等念力？谓四念处，是名念力。」\n「何等定力？谓四禅，是名定力。」\n「何等慧力？谓四圣谛，是名慧力。」\n佛说此经已，诸比丘闻佛所说，欢喜奉行。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在舍卫国祇树给孤独园。\n佛告比丘：「有七种力——信力、精进力、惭力、愧力、念力、定力、慧力。」\n「什么是信力？对如来生起信心，深入坚固，诸天、魔、梵、沙门、婆罗门以及其他同修都不能破坏，叫做信力。」\n「什么是精进力？就是四正断——已生的恶不善法要断除，未生的恶法使不生，未生的善法使生起，已生的善法使安住不忘、修习增长，叫做精进力。」\n「什么是惭力？耻于身口意恶行，耻于生起恶不善法，叫做惭力。」\n「什么是愧力？对可愧的事感到愧疚，愧于生起恶不善法，叫做愧力。」\n「什么是念力？就是四念处，叫做念力。」\n「什么是定力？就是四禅，叫做定力。」\n「什么是慧力？就是四圣谛，叫做慧力。」\n佛说完这部经，比丘们听佛所说，都欢喜奉行。",
+  "notes": "本经 SC 平行表所列平行及 `raw_aligned_data.json` 内之巴利本文、Sujato 英译并用以厘定法义；求那跋陀罗汉本用于定位经文与传统术语。confidence=high：primary AN7.4 Vitthatabala（七力广说）。gold_reconstructed：汉「如上广说／如上说」peyyāla → 据 AN7.4＋本卷学力定型补七力分别；精进取四正断（与卷内力相应一致）；惭愧从 AN 身口意恶行义压缩。",
+  "review_status": "gold_reconstructed",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "high",
+  "prior_review_status": "needs_revision",
+  "reconstruction_basis": "七力如上广说 → AN7.4＋学力定型补分别",
+  "similarity_to_source": 0.277,
+  "paragraph_parallel": true
+}

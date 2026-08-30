@@ -1,0 +1,56 @@
+{
+  "id": "SA_580",
+  "uid": "sa580",
+  "title": "雜阿含經  卷第二十五  天相應  （580）  善調",
+  "chinese_text": "如是我聞：\n\n一時，佛在舍衛國祇樹給孤獨園。\n\n時，有天子容色絕妙，於後夜時來詣佛所，稽首佛足，身諸光明遍照祇樹給孤獨園。\n\n時，彼天子而說偈言：\n\n「以法善調伏，　　不隨於諸見，\n\n　雖復著睡眠，　　則能隨時悟。」\n\n爾時，世尊說偈答言：\n\n「若以法調伏，　　不隨餘異見，\n\n　無知已究竟，　　能度世恩愛。」\n\n時，彼天子復說偈言：\n\n「久見婆羅門，　　逮得般涅槃，\n\n　一切怖已過，　　永超世恩愛。」\n\n時，彼天子聞佛所說，歡喜隨喜，稽首佛足，即沒不現。",
+  "english_sa_text": "",
+  "parallels": [
+    {
+      "uid": "sa-2.165",
+      "acronym": "SA2 165",
+      "root_lang": "lzh",
+      "original_title": "善調",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "sn1.8",
+      "acronym": "SN 1.8",
+      "root_lang": "pli",
+      "original_title": "Susammuṭṭhasutta",
+      "translated_title": "Utterly Muddled",
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    }
+  ],
+  "primary_sn_uid": "sn1.8",
+  "pali_text": "Sāvatthinidānaṁ. Ekamantaṁ ṭhitā kho sā devatā bhagavato santike imaṁ gāthaṁ abhāsi: “Yesaṁ dhammā susammuṭṭhā, paravādesu nīyare; Suttā te nappabujjhanti, kālo tesaṁ pabujjhitun”ti. “Yesaṁ dhammā asammuṭṭhā, paravādesu na nīyare; Te sambuddhā sammadaññā, caranti visame saman”ti.",
+  "english_sn_text": "At Sāvatthī. Standing to one side, that deity spoke this verse in the Buddha’s presence: “Those who are very confused about the teachings may be led astray by the doctrines of others. Asleep, they have not woken up: it is time for them to wake!” “Those who are unconfused about the teachings, won’t be led astray by the doctrines of others. They have woken up, they rightly know, smoothly they walk in the rough.”",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa501-600/sa580_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa501-600/sa580_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛在舍卫国祇树给孤独园。时，有一天子容色绝妙，于后夜时来诣佛所，稽首佛足，身诸光明遍照祇树给孤独园。\n时，彼天子说偈白佛：「以法善调伏，不随于诸见，虽复著睡眠，则能随时悟。」\n尔时，世尊说偈答言：「若以法调伏，不随余异见，无知已究竟，能度世恩爱。」\n时，彼天子复说偈言：「久见婆罗门，逮得般涅槃，一切怖已过，永超世恩爱。」\n时，彼天子闻佛所说，欢喜随喜，稽首佛足，即没不现。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在舍卫国祇树给孤独园。当时，有一位天子容色绝妙，在后夜来到佛处，顶礼佛足，身放光明遍照祇树给孤独园。\n天子说偈问佛：「以法善调伏，不随于诸见，虽复著睡眠，则能随时悟。」\n世尊说偈答：「若以法调伏，不随余异见，无知已究竟，能度世恩爱。」\n天子又说偈：「久见婆罗门，逮得般涅槃，一切怖惧已过，永超世间恩爱。」\n当时，那位天子听佛所说，欢喜随喜，顶礼佛足，随即消失。",
+  "notes": "本经 SC 平行表所列平行及 `raw_aligned_data.json` 内之巴利本文、Sujato 英译并用以厘定法义；求那跋陀罗汉本用于定位经文与传统术语。confidence=high：primary SN1.8（依法调伏、不随异见）。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "high",
+  "prior_review_status": "needs_revision",
+  "similarity_to_source": 0.456,
+  "paragraph_parallel": true,
+  "quality_gate_reasons": [
+    "lit_mod_gap=0.252>=0.1"
+  ]
+}

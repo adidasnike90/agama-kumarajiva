@@ -1,0 +1,32 @@
+{
+  "id": "SA_887",
+  "uid": "sa887",
+  "title": "雜阿含經  卷第三十三  修證相應  （887）  信",
+  "chinese_text": "如是我聞：\n\n一時，佛住舍衛國祇樹給孤獨園。\n\n時，有異婆羅門來詣佛所，與世尊面相慰勞，慰勞已，退坐一面，白佛：「瞿曇！我名信。」\n\n佛告婆羅門：「所謂信者，信增上戒、施、聞、捨、慧，是則為信，非名字是信也。」\n\n時，婆羅門聞佛所說，歡喜隨喜，從坐起而去。",
+  "english_sa_text": "",
+  "parallels": [],
+  "primary_sn_uid": null,
+  "pali_text": "",
+  "english_sn_text": "",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa801-900/sa887_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa801-900/sa887_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛住舍卫国祇树给孤独园。\n时有异婆罗门来诣佛所，与世尊面相问讯，问讯已，退坐一面，白佛言：「瞿昙！我名信。」\n佛告婆罗门：「所谓信者，信增上于戒、施、闻、舍、慧，是名为信——非但名字为信也。」\n时婆罗门闻佛所说，欢喜随喜，从座起去。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在舍卫国祇树给孤独园。\n当时有一位婆罗门来到佛那里，与世尊互相问候，问候完毕，坐在一边，对佛说：「瞿昙！我名叫信。」\n佛告诉婆罗门：「所谓信，是在戒、施、闻、舍、慧上增长信心，这才叫做信——不是仅仅有个名字叫信。」\n当时婆罗门听了佛所说，欢喜随喜，从座位起来离去。",
+  "notes": "SC 于本经未列可靠巴利平行，故唯以汉本为底，参同相应之巴利定型语厘义；依项目规约「无可靠平行时 confidence 降为 medium/low」。confidence=medium：名字义经；信＝于戒施闻舍慧增上（早期五法），非唯名。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "medium",
+  "prior_review_status": "needs_revision",
+  "similarity_to_source": 0.29,
+  "paragraph_parallel": true
+}

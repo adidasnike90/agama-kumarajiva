@@ -1,0 +1,43 @@
+{
+  "id": "SA_759",
+  "uid": "sa759",
+  "title": "雜阿含經  卷第二十九  聖道分相應  （759）  學",
+  "chinese_text": "如是我聞：\n\n一時，佛住舍衛國祇樹給孤獨園。\n\n爾時，世尊告諸比丘：「有三受，無常、有為、心所緣生。何等為三？謂樂受、苦受、不苦不樂受。」\n\n諸比丘白佛：「世尊！有道有跡，修習多修習，斷此三受不？」\n\n佛告比丘：「有道有跡，修習多修習，斷此三受。何等為道，何等為跡，修習多修習，斷此三受？」\n\n佛告比丘：「謂八聖道，正見、正志、正語、正業、正命、正方便、正念、正定。」\n\n佛說此經已，諸比丘聞佛所說，歡喜奉行。",
+  "english_sa_text": "",
+  "parallels": [
+    {
+      "uid": "sn45.29",
+      "acronym": "SN 45.29",
+      "root_lang": "pli",
+      "original_title": "Vedanāsutta",
+      "translated_title": "Feeling",
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    }
+  ],
+  "primary_sn_uid": "sn45.29",
+  "pali_text": "Sāvatthinidānaṁ. “Tisso imā, bhikkhave, vedanā. Katamā tisso? Sukhā vedanā, dukkhā vedanā, adukkhamasukhā vedanā— imā kho, bhikkhave, tisso vedanā. Imāsaṁ kho, bhikkhave, tissannaṁ vedanānaṁ pariññāya ariyo aṭṭhaṅgiko maggo bhāvetabbo. Katamo ariyo aṭṭhaṅgiko maggo? Seyyathidaṁ—sammādiṭṭhi …pe… sammāsamādhi. Imāsaṁ kho, bhikkhave, tissannaṁ vedanānaṁ pariññāya ariyo aṭṭhaṅgiko maggo bhāvetabbo”ti. Navamaṁ.",
+  "english_sn_text": "At Sāvatthī. “Mendicants, there are these three feelings. What three? Pleasant, painful, and neutral feeling. These are the three feelings. The noble eightfold path should be developed to completely understand these three feelings. What is the noble eightfold path? It is right view, right purpose, right speech, right action, right livelihood, right effort, right mindfulness, and right immersion. This noble eightfold path should be developed to completely understand these three feelings.”",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa701-800/sa759_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa701-800/sa759_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛住舍卫国祇树给孤独园。\n佛告比丘：「受有三种，皆无常、有为、由心缘而生起——乐、苦、不苦不乐。」\n比丘问：「修何道迹，能断此三？」佛言：「修八圣道——正见、正志、正语、正业、正命、正方便、正念、正定。」\n佛说此经已，诸比丘闻佛所说，欢喜奉行。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在舍卫国祇树给孤独园。\n佛告诉比丘：「受有三种，都是无常、有为、由心的所缘而生起——乐、苦、不苦不乐。」\n比丘问：「修什么道路，能断这三种？」佛说：「修八圣道——正见、正志、正语、正业、正命、正方便、正念、正定。」\n佛说完这部经，比丘们听佛所说，都欢喜奉行。",
+  "notes": "本经 SC 平行表所列平行及 `raw_aligned_data.json` 内之巴利本文、Sujato 英译并用以厘定法义；求那跋陀罗汉本用于定位经文与传统术语。confidence=high：primary SN45.29 Vedanā（汉题「学」，正文为三受）。SN 作「为遍知三受当修八支道」；汉问「断」——义相容，从汉问答形。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "high",
+  "prior_review_status": "needs_revision",
+  "similarity_to_source": 0.279,
+  "paragraph_parallel": true
+}

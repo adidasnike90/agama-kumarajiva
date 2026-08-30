@@ -1,0 +1,53 @@
+{
+  "id": "SA_194",
+  "uid": "sa194",
+  "title": "雜阿含經  卷第九  六入處相應  （194）  生喜",
+  "chinese_text": "如是我聞：\n\n一時，佛住舍衛國祇樹給孤獨園。\n\n爾時，世尊告諸比丘：「若於眼生喜者，則於苦生喜，若於苦生喜者，我說彼不解脫於苦。於耳、鼻、舌、身、意生喜者，則於苦生喜，於苦生喜者，我說彼不解脫於苦。\n\n「諸比丘！若於眼不生喜者，則於苦不生喜，於苦不生喜者，我說彼解脫於苦。於耳、鼻、舌、身、意不生喜者，則於苦不生喜，於苦不生喜者，我說彼解脫於苦。」\n\n佛說此經已，諸比丘聞佛所說，歡喜奉行。",
+  "english_sa_text": "Saṁyuktāgama\n\n194. [Discourse on Giving Rise to Delight]\n\nThus have I heard. At one time the Buddha was staying at Sāvatthī in Jeta’s Grove, Anāthapiṇḍika’s Park.\n\nAt that time the Blessed One said to the monks: “If one gives rise to delight in relation to the eye, then one gives rise to delight in relation to what is dukkha. If one gives rise to delight in relation to dukkha, I say, one is not liberated from dukkha. [If] one gives rise to delight in relation to the ear … the nose … the tongue … the body … the mind, then one gives rise to delight in relation to dukkha. [If] one gives rise to delight in relation to what is dukkha, I say, one is not liberated from dukkha.\n\n“Monks, if one does not give rise to delight in relation to the eye, then one does not give rise to delight in relation to what is dukkha. One who does not give rise to delight in relation to dukkha, I say, is liberated from dukkha. [If] one does not give rise to delight in relation to the ear … the nose … the tongue … the body … the mind, then one does not give rise to delight in relation to what is dukkha. One who does not give rise to delight in relation to dukkha, I say, is liberated from dukkha.”\n\nWhen the Buddha had spoken this discourse, hearing what the Buddha had said the monks were delighted and received it respectfully.\n\nTranslated by Bhikkhu Anālayo. Originally published in \"On the Six Sense-spheres (1) ―A Translation of Saṁyukta-āgama Discourses 188 to 229 (Fascicle 8)\", Dharma Drum Journal of Buddhist Studies, 2016, vol. 18 pp. 1–61.\n\nPrepared for SuttaCentral by Ayya Vimala.",
+  "parallels": [
+    {
+      "uid": "sn35.20",
+      "acronym": "SN 35.20",
+      "root_lang": "pli",
+      "original_title": "Dutiyābhinandasutta",
+      "translated_title": "Delight (2)",
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "sn35.19",
+      "acronym": "SN 35.19",
+      "root_lang": "pli",
+      "original_title": "Paṭhamābhinandasutta",
+      "translated_title": "Delight (1)",
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    }
+  ],
+  "primary_sn_uid": "sn35.19",
+  "pali_text": "“Yo, bhikkhave, cakkhuṁ abhinandati, dukkhaṁ so abhinandati. Yo dukkhaṁ abhinandati, ‘aparimutto so dukkhasmā’ti vadāmi. Yo sotaṁ …pe… yo ghānaṁ …pe… yo jivhaṁ abhinandati, dukkhaṁ so abhinandati. Yo dukkhaṁ abhinandati, ‘aparimutto so dukkhasmā’ti vadāmi. Yo kāyaṁ …pe… yo manaṁ abhinandati, dukkhaṁ so abhinandati. Yo dukkhaṁ abhinandati, ‘aparimutto so dukkhasmā’ti vadāmi. Yo ca kho, bhikkhave, cakkhuṁ nābhinandati, dukkhaṁ so nābhinandati. Yo dukkhaṁ nābhinandati, ‘parimutto so dukkhasmā’ti vadāmi. Yo sotaṁ …pe… yo ghānaṁ …pe… yo jivhaṁ nābhinandati, dukkhaṁ so nābhinandati. Yo dukkhaṁ nābhinandati, ‘parimutto so dukkhasmā’ti vadāmi. Yo kāyaṁ …pe… yo manaṁ nābhinandati, dukkhaṁ so nābhinandati. Yo dukkhaṁ nābhinandati, ‘aparimutto so dukkhasmā’ti vadāmi.” Sattamaṁ.",
+  "english_sn_text": "“Mendicants, if you take pleasure in the eye, you take pleasure in suffering. If you take pleasure in suffering, you’re not free from suffering, I say. If you take pleasure in the ear … nose … tongue … body … mind, you take pleasure in suffering. If you take pleasure in suffering, you’re not free from suffering, I say. If you don’t take pleasure in the eye, you don’t take pleasure in suffering. If you don’t take pleasure in suffering, you’re free from suffering, I say. If you don’t take pleasure in the ear … nose … tongue … body … mind, you don’t take pleasure in suffering. If you don’t take pleasure in suffering, you’re free from suffering, I say.”",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa101-200/sa194_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa101-200/sa194_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时佛在舍卫国祇树给孤独园。\n尔时世尊告诸比丘：于眼生喜，则于苦生喜；喜于苦者，我说于苦不得解脱。耳、鼻、舌、身、意亦复如是。\n诸比丘，于眼不生喜，则不喜于苦；不喜于苦者，我说于苦得解脱。耳、鼻、舌、身、意亦复如是。\n佛说此经已，诸比丘闻佛所说，欢喜奉行。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在舍卫国祇树给孤独园。\n那时，世尊告诉比丘们：对眼生起爱乐耽著，就是对苦生起爱乐；对苦生起爱乐的人，我说他不能从苦中解脱。耳、鼻、舌、身、意也是一样。\n比丘们，对眼不生爱乐耽著，就不对苦生爱乐；不对苦生爱乐的人，我说他能从苦中解脱。耳、鼻、舌、身、意也是一样。\n佛说完这部经，比丘们听佛所说，都欢喜奉行。",
+  "notes": "本经 SC 平行表所列巴利平行及 `raw_aligned_data.json` 内之巴利本文、Sujato 英译，与 Anālayo 之 SA 英译（DDJBS 18, 2016, Fascicle 8）并用以厘定法义；求那跋陀罗汉本用于定位经文与传统术语。confidence=high：SN35.19／35.20（Abhinanda）为 `full`、非 resembling 之平行，巴利之式与本经逐句相符（Sujato: if you take pleasure in the eye, you take pleasure in suffering… you're not free from suffering, I say）。「生喜」即 abhinandati——耽著爱乐而非泛言欢喜；正与经末「欢喜奉行」之「欢喜」（`attamanā`，心悦）异义，故文言栏存「生喜」之简，而现代栏作「生起爱乐耽著」以别之。雅：改「若于眼生喜者……不解脫於苦」之求那体为「于眼生喜，则于苦生喜」四字节奏。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "high",
+  "prior_review_status": "needs_revision",
+  "similarity_to_source": 0.329,
+  "paragraph_parallel": true
+}

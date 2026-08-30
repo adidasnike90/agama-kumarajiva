@@ -1,0 +1,43 @@
+{
+  "id": "SA_430",
+  "uid": "sa430",
+  "title": "雜阿含經  卷第十七  界相應  （430）  杖",
+  "chinese_text": "如是我聞：\n\n一時，佛住王舍城迦蘭陀竹園。\n\n爾時，佛告諸比丘：「如人擲杖於虛空中，尋即還墮，或根著地，或腹著地，或頭著地。如是，沙門、婆羅門於此苦聖諦不如實知，苦集聖諦、苦滅聖諦、苦滅道跡聖諦不如實知，當知是沙門、婆羅門或墮地獄，或墮畜生，或墮餓鬼。是故，比丘！於四聖諦未無間等者，當勤方便，學無間等。」\n\n佛說此經已，諸比丘聞佛所說，歡喜奉行。",
+  "english_sa_text": "",
+  "parallels": [
+    {
+      "uid": "sn56.33",
+      "acronym": "SN 56.33",
+      "root_lang": "pli",
+      "original_title": "Daṇḍasutta",
+      "translated_title": "Stick",
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    }
+  ],
+  "primary_sn_uid": "sn56.33",
+  "pali_text": "“Seyyathāpi, bhikkhave, daṇḍo uparivehāsaṁ khitto sakimpi mūlena nipatati, sakimpi aggena nipatati; evameva kho, bhikkhave, avijjānīvaraṇā sattā taṇhāsaṁyojanā sandhāvantā saṁsarantā sakimpi asmā lokā paraṁ lokaṁ gacchanti, sakimpi parasmā lokā imaṁ lokaṁ āgacchanti. Taṁ kissa hetu? Adiṭṭhattā, bhikkhave, catunnaṁ ariyasaccānaṁ. Katamesaṁ catunnaṁ? Dukkhassa ariyasaccassa …pe… dukkhanirodhagāminiyā paṭipadāya ariyasaccassa. Tasmātiha, bhikkhave, ‘idaṁ dukkhan’ti yogo karaṇīyo …pe… ‘ayaṁ dukkhanirodhagāminī paṭipadā’ti yogo karaṇīyo”ti. Tatiyaṁ.",
+  "english_sn_text": "“Mendicants, suppose a stick was tossed up in the air. Sometimes it’d fall on its bottom and sometimes the top. It’s the same for sentient beings roaming and transmigrating, shrouded by ignorance and fettered by craving. Sometimes they go from this world to the other world, and sometimes they come from the other world to this world. Why is that? It’s because they haven’t seen the four noble truths. What four? The noble truths of suffering, its origin, its cessation, and the path. That’s why you should practice meditation …”",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa401-500/sa430_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa401-500/sa430_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛在王舍城迦兰陀竹园。\n尔时，佛告诸比丘：「譬如有人掷杖虚空，寻即还堕——或根著地，或头著地。如是有情无明所覆、渴爱所系，流转诸趣——或从此世往彼世，或从彼世还来此世。所以者何？于四圣谛未如实见故。何等为四？谓苦圣谛、苦集圣谛、苦灭圣谛、苦灭道迹圣谛。是故当于四圣谛勤修无间等。」\n佛说此经已，诸比丘闻佛所说，欢喜奉行。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在王舍城迦兰陀竹园。\n那时，佛告诉比丘们：「好比有人把杖抛向虚空，立刻又落下来——有时根部着地，有时头部着地。同样，有情被无明所覆盖、被渴爱所系缚，在诸趣中流转——有时从此世到彼世，有时从彼世回到此世。为什么？因为对四圣谛还没有如实看见。哪四种？就是苦圣谛、苦集圣谛、苦灭圣谛、苦灭道迹圣谛。所以应当对四圣谛勤修无间等。」\n佛说完这部经，比丘们听佛所说，都欢喜奉行。",
+  "notes": "本经 SC 平行表所列平行及 `raw_aligned_data.json` 内之巴利本文、Sujato 英译并用以厘定法义；求那跋陀罗汉本用于定位经文与传统术语。confidence=high：primary SN56.33 Daṇḍa。信-校正：汉『或堕地狱／畜生／饿鬼』据 SN 改为无明覆、渴爱系、彼此世流转（sakimpi asmā lokā paraṁ lokaṁ…）；杖或根或头落地为喻。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "high",
+  "prior_review_status": "needs_revision",
+  "similarity_to_source": 0.163,
+  "paragraph_parallel": true
+}

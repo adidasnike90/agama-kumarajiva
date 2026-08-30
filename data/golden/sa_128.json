@@ -1,0 +1,44 @@
+{
+  "id": "SA_128",
+  "uid": "sa128",
+  "title": "雜阿含經  卷第六  羅睺羅相應  （128）  斷法",
+  "chinese_text": "如是我聞：\n\n一時，佛住摩拘羅山。時，有侍者比丘名曰羅陀。\n\n爾時，世尊告羅陀言：「諸所有色，若過去、若未來、若現在，若內、若外，若麁、若細，若好、若醜，若遠、若近，彼一切當觀皆是斷法。觀察已，於色欲貪斷，色貪斷已，我說心善解脫。受、想、行、識亦復如是。」\n\n佛說此經已，羅陀比丘聞佛所說，歡喜奉行。\n\n如是比十四經，亦如上說。",
+  "english_sa_text": "Saṁyuktāgama\n\n128. [Second Discourse on Being of the Nature to be Abandoned]\n\nThus have I heard. At one time the Buddha was staying at Mount Makula, at that time being with an attendant monk by the name of Rādha.\n\nThen the Blessed One said to Rādha: “Whatever bodily form, whether past, future or present, internal or external, gross or subtle, sublime or repugnant, far or near, it should all be contemplated as being completely of the nature to be abandoned. Having examined it, desire and lust for bodily form are abandoned. Desire and lust having been abandoned, I say that the mind is well liberated. Feeling … perception … formations … consciousness is also like this.”\n\nWhen the Buddha had spoken this discourse, hearing what the Buddha had said the monk Rādha was delighted and received it respectfully.\n\nIn this way fourteen discourses are also as said above.\n\nTranslated by Bhikkhu Anālayo. Originally published in ‘On Rādha and Views – A Translation of Saṁyukta-āgama Discourses 111 to 138 (Fascicle 6)’, Dharma Drum Journal of Buddhist Studies, 2015, vol. 17 pp. 1–42.\n\nPrepared for SuttaCentral by Seniya Ariyakumara and Ayya Vimala.",
+  "parallels": [
+    {
+      "uid": "sn31",
+      "acronym": null,
+      "root_lang": "pli",
+      "original_title": "Gandhabbakāyasaṁyutta",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    }
+  ],
+  "primary_sn_uid": "sn31",
+  "pali_text": "",
+  "english_sn_text": "",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa101-200/sa128_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa101-200/sa128_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback",
+    "Unsupported SN uid: sn31"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时佛住摩拘罗山，有侍者比丘名曰罗陀。\n尔时世尊告罗陀言：诸所有色，过去、未来、现在，内外、粗细、好丑、远近，彼一切当观皆是断法。如是观已，于色欲贪断；色贪断已，我说心善解脱。受、想、行、识亦复如是。\n佛说此经已，罗陀比丘闻佛所说，欢喜奉行。\n如是比十四经，亦如上说。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在摩拘罗山，身边有位侍者比丘名叫罗陀。\n那时世尊对罗陀说：一切色，不论过去、未来、现在，内在外在、粗糙细微、美好丑陋、远近，都应当观察它们全是会断尽之法。这样观察之后，对色的欲贪就断了；对色的贪断了，我就说他心得善解脱。受、想、行、识也是一样。\n佛说完这部经，罗陀比丘听佛所说，欢喜奉行。\n像这样的一类共十四部经，也都照上面所说。",
+  "notes": "本经较 SA_127 多出「观已则欲贪断，贪断故心善解脱」一转，正当 SN23.35 以下一组：「yaṁ… aniccaṁ… tatra te chandarāgo pahātabbo」（于无常者应断其欲贪），以「断欲贪」为观之所归，故观门虽同而果异。SC 于本经及 SA_129 所列 sn31（Gandhabbakāyasaṁyutta，乾闼婆身相应）与内容全然不合，当为 SC 平行表切分时之错位标注，今不据之，改依 SN23 罗陀相应之「欲贪应断」一组。confidence=medium。末句「如是比十四经，亦如上说」为底本之摄举，如实保留，不演全文。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "medium",
+  "similarity_to_source": 0.338,
+  "prior_review_status": "needs_revision",
+  "paragraph_parallel": true
+}

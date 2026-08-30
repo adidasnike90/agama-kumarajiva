@@ -1,0 +1,53 @@
+{
+  "id": "SA_1336",
+  "uid": "sa1336",
+  "title": "雜阿含經  卷第五十  林相應  （1336）  闍利那",
+  "chinese_text": "如是我聞：\n\n一時，佛住舍衛國祇樹給孤獨園。\n\n爾時，尊者阿那律陀在拘薩羅人間，住一林中。\n\n時，有天神名闍隣尼，是尊者阿那律陀本善知識，往詣尊者阿那律陀所。到阿那律所，說偈言：\n\n「汝今可發願，　　願還生本處，\n\n　三十三天上，　　五欲樂悉備。\n\n　百種諸音樂，　　常以自歡娛，\n\n　每至睡眠時，　　音樂以覺悟。\n\n　諸天玉女眾，　　晝夜侍左右。」\n\n尊者阿那律陀說偈答言：\n\n「諸天玉女眾，　　此皆大苦聚，\n\n　以彼顛倒想，　　繫著有身見。\n\n　諸求生彼者，　　斯亦是大苦，\n\n　闍隣尼當知，　　我不願生彼。\n\n　生死已永盡，　　不受後有故。」\n\n尊者阿那律說是語時，闍隣尼天子聞尊者阿那律所說，歡喜隨喜，即沒不現。",
+  "english_sa_text": "",
+  "parallels": [
+    {
+      "uid": "sa-2.356",
+      "acronym": "SA2 356",
+      "root_lang": "lzh",
+      "original_title": "闍利那",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    },
+    {
+      "uid": "sn9.6",
+      "acronym": "SN 9.6",
+      "root_lang": "pli",
+      "original_title": "Anuruddhasutta",
+      "translated_title": null,
+      "type": "full",
+      "resembling": false,
+      "remark": null
+    }
+  ],
+  "primary_sn_uid": "sn9.6",
+  "pali_text": "Ekaṁ samayaṁ āyasmā anuruddho kosalesu viharati aññatarasmiṁ vanasaṇḍe. Atha kho aññatarā tāvatiṁsakāyikā devatā jālinī nāma āyasmato anuruddhassa purāṇadutiyikā yenāyasmā anuruddho tenupasaṅkami; upasaṅkamitvā āyasmantaṁ anuruddhaṁ gāthāya ajjhabhāsi: “Tattha cittaṁ paṇidhehi, yattha te vusitaṁ pure; Tāvatiṁsesu devesu, sabbakāmasamiddhisu; Purakkhato parivuto, devakaññāhi sobhasī”ti. “Duggatā devakaññāyo, sakkāyasmiṁ patiṭṭhitā; Te cāpi duggatā sattā, devakaññāhi patthitā”ti. “Na te sukhaṁ pajānanti, ye na passanti nandanaṁ; Āvāsaṁ naradevānaṁ, tidasānaṁ yasassinan”ti. “Na tvaṁ bāle vijānāsi, yathā arahataṁ vaco; Aniccā sabbasaṅkhārā, uppādavayadhammino; Uppajjitvā nirujjhanti, tesaṁ vūpasamo sukho. Natthi dāni punāvāso, devakāyasmi jālini; Vikkhīṇo jātisaṁsāro, natthi dāni punabbhavo”ti.",
+  "english_sn_text": "At one time Venerable Anuruddha was staying in the land of the Kosalans in a certain forest grove. Then a certain deity of the company of the thirty-three named Penelope had been Anuruddha’s partner in a former life. She went up to Anuruddha, and recited these verses: “Set your heart there, where you used to live: among the gods of the thirty-three, whose every desire is granted! At the fore of a retinue of divine maidens, you’ll shine!” “Divine maidens are in a sorry state, stuck in substantial reality. And those beings too are in a sorry state, who are attached to divine maidens.” “They don’t know pleasure who don’t see the Garden of Delight! It’s the abode of lordly gods, the glorious host of Thirty!” “Fool, don’t you understand the saying of the perfected ones: All conditions are impermanent, their nature is to rise and fall; having arisen, they cease; their settling is such bliss. O Penelope, weaver of the web— there are no more abodes for me in the heavenly host. Transmigration through births is finished, now there’ll be no more future lives.”",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa1301-1400/sa1336_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa1301-1400/sa1336_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛住舍卫国祇树给孤独园。\n尔时尊者阿那律陀在拘萨罗人间，住一林中。有天神名阇邻尼，是尊者本善知识，来诣其所，说偈言：「当愿生本处，三十三天上；五欲悉具足，天女常围绕。」\n尊者说偈答：「天女大苦聚，著有身见故；求生彼趣者，亦复是大苦。阇邻尼当知：我不乐生彼。生死已永尽，不受于后有。」\n阇邻尼闻已，欢喜随喜，即没不现。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在舍卫国祇树给孤独园。\n那时尊者阿那律陀在拘萨罗人间，住在一座林中。有一位天神名叫阇邻尼，是尊者从前的善知识，来到他那里，说偈：「你应当发愿回到本处，生在三十三天；五欲都具足，天女常常围绕。」\n尊者用偈回答：「天女其实是大苦聚，因为执著有身见；那些想生到那里的人，同样是大苦。阇邻尼你应当知道：我不愿生到那里。我的生死已经永尽，不再受后有。」\n阇邻尼听了，欢喜随喜，随即隐没不见。",
+  "notes": "本经 SC 平行表所列平行及 `raw_aligned_data.json` 内之巴利本文、Sujato 英译并用以厘定法义；求那跋陀罗汉本用于定位经文与传统术语。confidence=high：primary SN9.6。巴利尚有欢喜园往复及「诸行无常」偈，汉本较略；核心拒天欲、尽后有与 SN 合，不臆补欢喜园段。「阇邻尼」＝Jālinī；「有身见」＝sakkāyadiṭṭhi。",
+  "review_status": "gold",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "high",
+  "prior_review_status": "needs_revision",
+  "similarity_to_source": 0.212,
+  "paragraph_parallel": true
+}

@@ -1,0 +1,33 @@
+{
+  "id": "SA_1130",
+  "uid": "sa1130",
+  "title": "雜阿含經  卷第五十  不壞淨相應  （1130）  行住坐臥",
+  "chinese_text": "如是我聞：\n\n一時，佛住舍衛國祇樹給孤獨園。\n\n爾時，世尊告諸比丘：「若於彼處，有比丘經行於彼處，四沙門果中得一一果者，彼比丘盡其形壽，常念彼處。」\n\n佛說此經已，諸比丘聞佛所說，歡喜奉行。\n\n如經行處，如是住處、坐處、臥處，亦如是說。\n\n如是比丘，如是比丘尼、式叉摩尼、沙彌、沙彌尼、優婆塞、優婆夷一一四經如上說。",
+  "english_sa_text": "",
+  "parallels": [],
+  "primary_sn_uid": null,
+  "pali_text": "",
+  "english_sn_text": "",
+  "errors": [
+    "bilara_zh:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/lzh/sct/sutta/sa/sa1101-1200/sa1130_root-lzh-sct.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "bilara_en_patton:Client error '404 Not Found' for url 'https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/patton/sutta/sa/sa1101-1200/sa1130_translation-en-patton.json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+    "used_analayo_fallback"
+  ],
+  "kumarajiva_style_text": "如是我闻：一时，佛住舍卫国祇树给孤独园。\n尔时世尊告诸比丘：「若有比丘于某处经行，而于四沙门果中得一一果，彼尽形寿当念彼处。如经行，如是住处、坐处、卧处亦然。」\n「如是比丘；比丘尼、式叉摩那、沙弥、沙弥尼、优婆塞、优婆夷，亦各于行住坐卧如是说。」\n佛说此经已，诸比丘闻佛所说，欢喜奉行。",
+  "modern_psychology_text": "我是这样听说的：有一次，佛住在舍卫国祇树给孤独园。\n那时世尊告诉比丘们：「如果有比丘在某处经行，而在四沙门果中证得任何一果，他尽形寿都应当忆念那个地方。经行如此，住处、坐处、卧处也是如此。」\n「比丘是这样；比丘尼、式叉摩那、沙弥、沙弥尼、优婆塞、优婆夷，各自在行、住、坐、卧上也是这样说。」\n佛说完这部经，比丘们听佛所说，都欢喜奉行。",
+  "notes": "SC 于本经未列可靠巴利平行，故唯以汉本为底，参同相应之巴利定型语厘义；依项目规约「无可靠平行时 confidence 降为 medium/low」。confidence=medium：无 SC 巴利专经；证果处当尽寿忆念；peyyāla 住坐卧及七众据汉略补。",
+  "review_status": "gold_reconstructed",
+  "translator": "cursor-agent",
+  "validation": {
+    "status": "ok",
+    "issues": [],
+    "warnings": [],
+    "forbidden_hits": []
+  },
+  "forbidden_hits": [],
+  "confidence": "medium",
+  "prior_review_status": "needs_revision",
+  "reconstruction_basis": "住坐卧／七众 peyyāla → 据汉略补",
+  "similarity_to_source": 0.312,
+  "paragraph_parallel": true
+}
