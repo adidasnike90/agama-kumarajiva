@@ -62,9 +62,17 @@ cd web && npm run build
 
 ---
 
-## 2. 研究译注本 PDF（LaTeX）
+## 2. 研究译注本与法义读本 PDF（LaTeX）
 
-### 一键构建
+```bash
+make book      # V1 研究译注本（大正卷序）→ book/build/main.pdf
+make book-v2   # V2 研究译注本（经序重排）→ book_v2/build/main.pdf
+make book-v3   # V3 法义读本（通读熔文）→ book_v3/build/main.pdf
+```
+
+V3 仅正文＋今译＋附注；篇题新拟。详见 [V3_DHARMA_READER.md](V3_DHARMA_READER.md)。
+
+### V1 一键构建细节
 
 ```bash
 make book

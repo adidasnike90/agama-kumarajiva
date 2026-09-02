@@ -1,0 +1,46 @@
+% !TEX program = xelatex
+% 《杂阿含经·仿罗什风新译》法义读本（V3）
+\documentclass[UTF8, zihao=-4, openany, fontset=none]{ctexbook}
+
+\input{../book/preamble.tex}
+\hypersetup{
+  pdftitle={杂阿含经·仿罗什风新译·法义读本},
+  pdfauthor={Agama–Kumarajiva Project}
+}
+\fancyhead[LE,RO]{\small\itshape 杂阿含经·仿罗什风新译（法义读本）}
+
+\title{\textbf{杂阿含经·仿罗什风新译}\\[0.5em]
+\large 法义读本\\[0.35em]
+\normalsize 通读删定 · 正文与今译对照}
+\author{Agama–Kumarajiva Project}
+\date{2026}
+
+\begin{document}
+
+\input{frontmatter/cover.tex}
+\clearpage
+\pagenumbering{roman}
+\setcounter{page}{1}
+\tableofcontents
+\clearpage
+
+\input{frontmatter/preface.tex}
+\input{frontmatter/principles.tex}
+\input{frontmatter/introduction.tex}
+
+\mainmatter
+\input{generated/all_body.tex}
+
+\backmatter
+\input{generated/source_index.tex}
+
+\chapter*{数据与版本}
+\addcontentsline{toc}{chapter}{数据与版本}
+\noindent 本册为 \textbf{法义读本 · V3}。\\
+研究本：\texttt{book/}（V1 大正卷序）、\texttt{book\_v2/}（V2 经序重排）。\\
+单元与编辑表：\texttt{data/translated/v3\_reader\_units.json}、
+\texttt{data/metadata/v3/edition\_map.json}（\texttt{make v3-reader}）。\\
+原则：\texttt{docs/V3\_DHARMA\_READER.md}。\\
+编译：\texttt{make book-v3}。
+
+\end{document}

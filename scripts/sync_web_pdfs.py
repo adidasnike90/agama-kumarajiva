@@ -12,6 +12,7 @@ OUT = ROOT / "web" / "public" / "books"
 COPIES = [
     (ROOT / "book" / "build" / "main.pdf", "v1-taisho.pdf"),
     (ROOT / "book_v2" / "build" / "main.pdf", "v2-reorder.pdf"),
+    (ROOT / "book_v3" / "build" / "main.pdf", "v3-dharma.pdf"),
 ]
 
 

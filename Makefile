@@ -1,4 +1,4 @@
-.PHONY: align align-full metadata translate-corpus gold gold11 gold31 web sync-web sync-web-pdfs book-export book book-v2-export book-v2 publication-audit publication-fix v2-order
+.PHONY: align align-full metadata translate-corpus gold gold11 gold31 web sync-web sync-web-pdfs book-export book book-v2-export book-v2 book-v3-export book-v3 publication-audit publication-fix v2-order v3-reader
 
 align:
 	python scripts/run.py align --count 10
@@ -11,6 +11,9 @@ metadata:
 
 v2-order:
 	python scripts/build_v2_academic_order.py
+
+v3-reader:
+	PYTHONPATH=. python scripts/build_v3_dharma_reader.py
 
 translate-corpus:
 	python scripts/translate_corpus.py --start 51 --end 1362
@@ -30,6 +33,7 @@ web:
 sync-web:
 	python scripts/sync_web_corpus.py
 	python scripts/sync_web_v2_order.py
+	-python scripts/sync_web_v3_reader.py
 	-python scripts/sync_web_pdfs.py
 
 sync-web-pdfs:
@@ -54,6 +58,15 @@ book-v2: book-v2-export
 	cd book_v2 && xelatex -interaction=nonstopmode -output-directory=build main.tex
 	cd book_v2 && xelatex -interaction=nonstopmode -output-directory=build main.tex
 	cd book_v2 && xelatex -interaction=nonstopmode -output-directory=build main.tex
+
+book-v3-export: v3-reader
+	PYTHONPATH=. python scripts/export_book_v3_latex.py
+
+book-v3: book-v3-export
+	mkdir -p book_v3/build
+	cd book_v3 && xelatex -interaction=nonstopmode -output-directory=build main.tex
+	cd book_v3 && xelatex -interaction=nonstopmode -output-directory=build main.tex
+	cd book_v3 && xelatex -interaction=nonstopmode -output-directory=build main.tex
 
 publication-audit:
 	python scripts/publication_corpus.py audit

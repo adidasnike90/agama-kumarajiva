@@ -13,7 +13,8 @@
 | 文档 | 内容 |
 |------|------|
 | [XIN_DA_YA.md](XIN_DA_YA.md) | 信=巴利义、达=段平行、雅=罗什风；v1 不做全典错简重排 |
-| [V2_ORDER.md](V2_ORDER.md) | **两部书**：V1 保留；V2 另册；网页开关；双编号与附录政策 |
+| [V2_ORDER.md](V2_ORDER.md) | **研究本**：V1 大正卷序；V2 经序重排；双编号 |
+| [V3_DHARMA_READER.md](V3_DHARMA_READER.md) | **V3 法义读本**：通读新拟篇题、多经熔文；可读性第一 |
 | [STYLE_GUIDE.md](STYLE_GUIDE.md) | 删冗、四字节奏、禁用大乘后出词 |
 | [EDITION_PRINCIPLES.md](EDITION_PRINCIPLES.md) | 研究译注本五层、标记、版权与 CC0/Anālayo |
 | [CONTRIBUTING.md](CONTRIBUTING.md) | 如何改经、merge、审计、提 PR |
@@ -23,7 +24,7 @@
 | 文档 | 内容 |
 |------|------|
 | [ARCHITECTURE.md](ARCHITECTURE.md) | 语料字段、管线、导出路径 |
-| [ROADMAP.md](ROADMAP.md) | 阶段目标；v2 学术序进行中 |
+| [ROADMAP.md](ROADMAP.md) | 阶段目标；V1–V3 产品并行 |
 | [../book/README.md](../book/README.md) | LaTeX 全书与卷样章 |
 | [../web/README.md](../web/README.md) | 三栏阅读器 |
 

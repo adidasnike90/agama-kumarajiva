@@ -24,10 +24,11 @@ jobs:
           node-version: "22"
           cache: npm
           cache-dependency-path: web/package-lock.json
-      - name: Sync corpus and V2 order into web/public
+      - name: Sync corpus and edition indexes into web/public
         run: |
           python scripts/sync_web_corpus.py
           python scripts/sync_web_v2_order.py
+          python scripts/sync_web_v3_reader.py
       - name: Install and build
         working-directory: web
         env:

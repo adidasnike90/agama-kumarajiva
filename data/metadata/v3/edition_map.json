@@ -1,0 +1,718 @@
+[
+  {
+    "v3_unit_id": "V3-01-0001",
+    "seq": 1,
+    "chapter_id": 1,
+    "chapter_title": "开经·正信",
+    "title_zh": "听法因缘",
+    "title_kind": "pedagogical_new",
+    "source_sa_t99": [
+      902,
+      903,
+      904
+    ],
+    "requested_sa_t99": [
+      902,
+      903,
+      904
+    ],
+    "edit_ops": "melt_continuous",
+    "rationale": "罗什风通读：新拟篇题，多经熔文，去重复程式"
+  },
+  {
+    "v3_unit_id": "V3-01-0002",
+    "seq": 2,
+    "chapter_id": 1,
+    "chapter_title": "开经·正信",
+    "title_zh": "不坏净与四果之基",
+    "title_kind": "pedagogical_new",
+    "source_sa_t99": [
+      1121,
+      1122,
+      1123,
+      1125,
+      1127,
+      1129
+    ],
+    "requested_sa_t99": [
+      1121,
+      1122,
+      1123,
+      1125,
+      1127,
+      1129
+    ],
+    "edit_ops": "melt_continuous",
+    "rationale": "罗什风通读：新拟篇题，多经熔文，去重复程式"
+  },
+  {
+    "v3_unit_id": "V3-01-0003",
+    "seq": 3,
+    "chapter_id": 1,
+    "chapter_title": "开经·正信",
+    "title_zh": "学处总说",
+    "title_kind": "pedagogical_new",
+    "source_sa_t99": [
+      816,
+      820,
+      830,
+      840,
+      850,
+      860
+    ],
+    "requested_sa_t99": [
+      816,
+      820,
+      830,
+      840,
+      850,
+      860
+    ],
+    "edit_ops": "melt_continuous",
+    "rationale": "罗什风通读：新拟篇题，多经熔文，去重复程式"
+  },
+  {
+    "v3_unit_id": "V3-02-0004",
+    "seq": 4,
+    "chapter_id": 2,
+    "chapter_title": "观五蕴",
+    "title_zh": "五阴无常",
+    "title_kind": "pedagogical_new",
+    "source_sa_t99": [
+      1,
+      2,
+      8,
+      9,
+      10
+    ],
+    "requested_sa_t99": [
+      1,
+      2,
+      8,
+      9,
+      10
+    ],
+    "edit_ops": "melt_continuous",
+    "rationale": "罗什风通读：新拟篇题，多经熔文，去重复程式"
+  },
+  {
+    "v3_unit_id": "V3-02-0005",
+    "seq": 5,
+    "chapter_id": 2,
+    "chapter_title": "观五蕴",
+    "title_zh": "五阴是苦",
+    "title_kind": "pedagogical_new",
+    "source_sa_t99": [
+      11,
+      12,
+      13,
+      14,
+      15
+    ],
+    "requested_sa_t99": [
+      11,
+      12,
+      13,
+      14,
+      15
+    ],
+    "edit_ops": "melt_continuous",
+    "rationale": "罗什风通读：新拟篇题，多经熔文，去重复程式"
+  },
+  {
+    "v3_unit_id": "V3-02-0006",
+    "seq": 6,
+    "chapter_id": 2,
+    "chapter_title": "观五蕴",
+    "title_zh": "空与非我",
+    "title_kind": "pedagogical_new",
+    "source_sa_t99": [
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22
+    ],
+    "requested_sa_t99": [
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22
+    ],
+    "edit_ops": "melt_continuous",
+    "rationale": "罗什风通读：新拟篇题，多经熔文，去重复程式"
+  },
+  {
+    "v3_unit_id": "V3-02-0007",
+    "seq": 7,
+    "chapter_id": 2,
+    "chapter_title": "观五蕴",
+    "title_zh": "厌离与解脱",
+    "title_kind": "pedagogical_new",
+    "source_sa_t99": [
+      30,
+      31,
+      32,
+      33,
+      34,
+      50,
+      51
+    ],
+    "requested_sa_t99": [
+      30,
+      31,
+      32,
+      33,
+      34,
+      50,
+      51
+    ],
+    "edit_ops": "melt_continuous",
+    "rationale": "罗什风通读：新拟篇题，多经熔文，去重复程式"
+  },
+  {
+    "v3_unit_id": "V3-02-0008",
+    "seq": 8,
+    "chapter_id": 2,
+    "chapter_title": "观五蕴",
+    "title_zh": "炽然与出要",
+    "title_kind": "pedagogical_new",
+    "source_sa_t99": [
+      70,
+      80,
+      90,
+      100,
+      108
+    ],
+    "requested_sa_t99": [
+      70,
+      80,
+      90,
+      100,
+      108
+    ],
+    "edit_ops": "melt_continuous",
+    "rationale": "罗什风通读：新拟篇题，多经熔文，去重复程式"
+  },
+  {
+    "v3_unit_id": "V3-03-0009",
+    "seq": 9,
+    "chapter_id": 3,
+    "chapter_title": "观六入",
+    "title_zh": "六入处总观",
+    "title_kind": "pedagogical_new",
+    "source_sa_t99": [
+      188,
+      189,
+      190,
+      195,
+      200
+    ],
+    "requested_sa_t99": [
+      188,
+      189,
+      190,
+      195,
+      200
+    ],
+    "edit_ops": "melt_continuous",
+    "rationale": "罗什风通读：新拟篇题，多经熔文，去重复程式"
+  },
+  {
+    "v3_unit_id": "V3-03-0010",
+    "seq": 10,
+    "chapter_id": 3,
+    "chapter_title": "观六入",
+    "title_zh": "触受与系缚",
+    "title_kind": "pedagogical_new",
+    "source_sa_t99": [
+      210,
+      220,
+      230,
+      240,
+      250
+    ],
+    "requested_sa_t99": [
+      210,
+      220,
+      230,
+      240,
+      250
+    ],
+    "edit_ops": "melt_continuous",
+    "rationale": "罗什风通读：新拟篇题，多经熔文，去重复程式"
+  },
+  {
+    "v3_unit_id": "V3-03-0011",
+    "seq": 11,
+    "chapter_id": 3,
+    "chapter_title": "观六入",
+    "title_zh": "护根与离染",
+    "title_kind": "pedagogical_new",
+    "source_sa_t99": [
+      255,
+      273,
+      274,
+      280,
+      1164,
+      1170
+    ],
+    "requested_sa_t99": [
+      255,
+      273,
+      274,
+      280,
+      1164,
+      1170
+    ],
+    "edit_ops": "melt_continuous",
+    "rationale": "罗什风通读：新拟篇题，多经熔文，去重复程式"
+  },
+  {
+    "v3_unit_id": "V3-04-0012",
+    "seq": 12,
+    "chapter_id": 4,
+    "chapter_title": "观缘起",
+    "title_zh": "缘起法住",
+    "title_kind": "pedagogical_new",
+    "source_sa_t99": [
+      283,
+      284,
+      285,
+      286,
+      287
+    ],
+    "requested_sa_t99": [
+      283,
+      284,
+      285,
+      286,
+      287
+    ],
+    "edit_ops": "melt_continuous",
+    "rationale": "罗什风通读：新拟篇题，多经熔文，去重复程式"
+  },
+  {
+    "v3_unit_id": "V3-04-0013",
+    "seq": 13,
+    "chapter_id": 4,
+    "chapter_title": "观缘起",
+    "title_zh": "十二支流转",
+    "title_kind": "pedagogical_new",
+    "source_sa_t99": [
+      290,
+      295,
+      300,
+      310,
+      320
+    ],
+    "requested_sa_t99": [
+      290,
+      295,
+      300,
+      310,
+      320
+    ],
+    "edit_ops": "melt_continuous",
+    "rationale": "罗什风通读：新拟篇题，多经熔文，去重复程式"
+  },
+  {
+    "v3_unit_id": "V3-04-0014",
+    "seq": 14,
+    "chapter_id": 4,
+    "chapter_title": "观缘起",
+    "title_zh": "还灭与中道",
+    "title_kind": "pedagogical_new",
+    "source_sa_t99": [
+      330,
+      340,
+      350,
+      360,
+      370
+    ],
+    "requested_sa_t99": [
+      330,
+      340,
+      350,
+      360,
+      370
+    ],
+    "edit_ops": "melt_continuous",
+    "rationale": "罗什风通读：新拟篇题，多经熔文，去重复程式"
+  },
+  {
+    "v3_unit_id": "V3-05-0015",
+    "seq": 15,
+    "chapter_id": 5,
+    "chapter_title": "食受谛见",
+    "title_zh": "四食",
+    "title_kind": "pedagogical_new",
+    "source_sa_t99": [
+      371,
+      372,
+      373,
+      374,
+      375
+    ],
+    "requested_sa_t99": [
+      371,
+      372,
+      373,
+      374,
+      375
+    ],
+    "edit_ops": "melt_continuous",
+    "rationale": "罗什风通读：新拟篇题，多经熔文，去重复程式"
+  },
+  {
+    "v3_unit_id": "V3-05-0016",
+    "seq": 16,
+    "chapter_id": 5,
+    "chapter_title": "食受谛见",
+    "title_zh": "诸受",
+    "title_kind": "pedagogical_new",
+    "source_sa_t99": [
+      455,
+      456,
+      460,
+      470,
+      480
+    ],
+    "requested_sa_t99": [
+      455,
+      456,
+      460,
+      470,
+      480
+    ],
+    "edit_ops": "melt_continuous",
+    "rationale": "罗什风通读：新拟篇题，多经熔文，去重复程式"
+  },
+  {
+    "v3_unit_id": "V3-05-0017",
+    "seq": 17,
+    "chapter_id": 5,
+    "chapter_title": "食受谛见",
+    "title_zh": "四圣谛",
+    "title_kind": "pedagogical_new",
+    "source_sa_t99": [
+      379,
+      380,
+      385,
+      390,
+      400,
+      406
+    ],
+    "requested_sa_t99": [
+      379,
+      380,
+      385,
+      390,
+      400,
+      406
+    ],
+    "edit_ops": "melt_continuous",
+    "rationale": "罗什风通读：新拟篇题，多经熔文，去重复程式"
+  },
+  {
+    "v3_unit_id": "V3-05-0018",
+    "seq": 18,
+    "chapter_id": 5,
+    "chapter_title": "食受谛见",
+    "title_zh": "断知与离见",
+    "title_kind": "pedagogical_new",
+    "source_sa_t99": [
+      130,
+      131,
+      133,
+      140,
+      150,
+      160,
+      170
+    ],
+    "requested_sa_t99": [
+      130,
+      131,
+      133,
+      140,
+      150,
+      160,
+      170
+    ],
+    "edit_ops": "melt_continuous",
+    "rationale": "罗什风通读：新拟篇题，多经熔文，去重复程式"
+  },
+  {
+    "v3_unit_id": "V3-06-0019",
+    "seq": 19,
+    "chapter_id": 6,
+    "chapter_title": "修道",
+    "title_zh": "四念处",
+    "title_kind": "pedagogical_new",
+    "source_sa_t99": [
+      605,
+      606,
+      610,
+      620,
+      630,
+      639
+    ],
+    "requested_sa_t99": [
+      605,
+      606,
+      610,
+      620,
+      630,
+      639
+    ],
+    "edit_ops": "melt_continuous",
+    "rationale": "罗什风通读：新拟篇题，多经熔文，去重复程式"
+  },
+  {
+    "v3_unit_id": "V3-06-0020",
+    "seq": 20,
+    "chapter_id": 6,
+    "chapter_title": "修道",
+    "title_zh": "五根五力",
+    "title_kind": "pedagogical_new",
+    "source_sa_t99": [
+      642,
+      650,
+      660,
+      670,
+      680,
+      690,
+      700
+    ],
+    "requested_sa_t99": [
+      642,
+      650,
+      660,
+      670,
+      680,
+      690,
+      700
+    ],
+    "edit_ops": "melt_continuous",
+    "rationale": "罗什风通读：新拟篇题，多经熔文，去重复程式"
+  },
+  {
+    "v3_unit_id": "V3-06-0021",
+    "seq": 21,
+    "chapter_id": 6,
+    "chapter_title": "修道",
+    "title_zh": "七觉支",
+    "title_kind": "pedagogical_new",
+    "source_sa_t99": [
+      704,
+      710,
+      720,
+      730,
+      740,
+      747
+    ],
+    "requested_sa_t99": [
+      704,
+      710,
+      720,
+      730,
+      740,
+      747
+    ],
+    "edit_ops": "melt_continuous",
+    "rationale": "罗什风通读：新拟篇题，多经熔文，去重复程式"
+  },
+  {
+    "v3_unit_id": "V3-06-0022",
+    "seq": 22,
+    "chapter_id": 6,
+    "chapter_title": "修道",
+    "title_zh": "八正道",
+    "title_kind": "pedagogical_new",
+    "source_sa_t99": [
+      748,
+      750,
+      760,
+      770,
+      780,
+      790,
+      796
+    ],
+    "requested_sa_t99": [
+      748,
+      750,
+      760,
+      770,
+      780,
+      790,
+      796
+    ],
+    "edit_ops": "melt_continuous",
+    "rationale": "罗什风通读：新拟篇题，多经熔文，去重复程式"
+  },
+  {
+    "v3_unit_id": "V3-06-0023",
+    "seq": 23,
+    "chapter_id": 6,
+    "chapter_title": "修道",
+    "title_zh": "安那般那念",
+    "title_kind": "pedagogical_new",
+    "source_sa_t99": [
+      797,
+      800,
+      805,
+      810,
+      815
+    ],
+    "requested_sa_t99": [
+      797,
+      800,
+      805,
+      810,
+      815
+    ],
+    "edit_ops": "melt_continuous",
+    "rationale": "罗什风通读：新拟篇题，多经熔文，去重复程式"
+  },
+  {
+    "v3_unit_id": "V3-07-0024",
+    "seq": 24,
+    "chapter_id": 7,
+    "chapter_title": "修证",
+    "title_zh": "向果与证果",
+    "title_kind": "pedagogical_new",
+    "source_sa_t99": [
+      873,
+      875,
+      880,
+      885,
+      890,
+      891
+    ],
+    "requested_sa_t99": [
+      873,
+      875,
+      880,
+      885,
+      890,
+      891
+    ],
+    "edit_ops": "melt_continuous",
+    "rationale": "罗什风通读：新拟篇题，多经熔文，去重复程式"
+  },
+  {
+    "v3_unit_id": "V3-07-0025",
+    "seq": 25,
+    "chapter_id": 7,
+    "chapter_title": "修证",
+    "title_zh": "解脱知見",
+    "title_kind": "pedagogical_new",
+    "source_sa_t99": [
+      1124,
+      1130,
+      1131,
+      1135,
+      1136
+    ],
+    "requested_sa_t99": [
+      1124,
+      1130,
+      1131,
+      1135,
+      1136
+    ],
+    "edit_ops": "melt_continuous",
+    "rationale": "罗什风通读：新拟篇题，多经熔文，去重复程式"
+  },
+  {
+    "v3_unit_id": "V3-08-0026",
+    "seq": 26,
+    "chapter_id": 8,
+    "chapter_title": "善说与对机",
+    "title_zh": "舍利弗与目连之说",
+    "title_kind": "pedagogical_new",
+    "source_sa_t99": [
+      490,
+      491,
+      495,
+      500,
+      501,
+      502,
+      503
+    ],
+    "requested_sa_t99": [
+      490,
+      491,
+      495,
+      500,
+      501,
+      502,
+      503
+    ],
+    "edit_ops": "melt_continuous",
+    "rationale": "罗什风通读：新拟篇题，多经熔文，去重复程式"
+  },
+  {
+    "v3_unit_id": "V3-08-0027",
+    "seq": 27,
+    "chapter_id": 8,
+    "chapter_title": "善说与对机",
+    "title_zh": "阿难与质多之问",
+    "title_kind": "pedagogical_new",
+    "source_sa_t99": [
+      537,
+      540,
+      556,
+      560,
+      566,
+      570,
+      575
+    ],
+    "requested_sa_t99": [
+      537,
+      540,
+      556,
+      560,
+      566,
+      570,
+      575
+    ],
+    "edit_ops": "melt_continuous",
+    "rationale": "罗什风通读：新拟篇题，多经熔文，去重复程式"
+  },
+  {
+    "v3_unit_id": "V3-08-0028",
+    "seq": 28,
+    "chapter_id": 8,
+    "chapter_title": "善说与对机",
+    "title_zh": "譬喻与决外道",
+    "title_kind": "pedagogical_new",
+    "source_sa_t99": [
+      940,
+      950,
+      960,
+      1023,
+      1030,
+      1241,
+      1250,
+      1260
+    ],
+    "requested_sa_t99": [
+      940,
+      950,
+      960,
+      1023,
+      1030,
+      1241,
+      1250,
+      1260
+    ],
+    "edit_ops": "melt_continuous",
+    "rationale": "罗什风通读：新拟篇题，多经熔文，去重复程式"
+  }
+]

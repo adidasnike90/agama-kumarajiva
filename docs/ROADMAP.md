@@ -8,19 +8,26 @@ Honest scope: this is a **digital humanities + LLM style-transfer** project, not
 |-------|-------------|--------|
 | 1–5 | Align, dual output, web reader, golden set, optional LoRA | earlier |
 | 6 | Full-corpus gold (1362), LaTeX edition, web sync | **done (v1)** |
-| **7** | **V2 as a separate book** + web V1/V2 edition switch (Anesaki/Yinshun order; V1 kept) | **in progress** |
-| 8 | Yinshun 51-saṃyukta range map; refine juan 23/25; V2 PDF release | next |
-| 9 | TTS, print-on-demand packaging | later |
+| **7** | **V2** 研究译注本（经序重排）+ 网页开关 | **done** |
+| **8** | **V3** 法义读本（通读熔文）+ 网页双栏 | **done (v3.0)** |
+| 9 | Yinshun 51-saṃyukta range map; refine V2 juan 23/25 | next |
+| 10 | Deeper V3 literary rewrite; TTS; print packaging | later |
 
 ## V2 (separate academic edition) — policy
 
-- **Two products, one series**「研究译注本」: V1（大正卷序）`book/` · `make book`; V2（经序重排）`book_v2/` · `make book-v2`.
-- **Website**: edition switch **V1 大正卷序 / V2 经序重排**.
+- **Products**: V1（大正卷序）`book/`; V2（经序重排）`book_v2/`; see also V3 below.
+- **Website**: edition switch **V1 / V2 / V3**.
 - **Framing**: scholarly reading order, **not** “restoring the original scripture.”
 - **Stable anchor**: T99 / `sa_t99` never renumbered.
-- **Main sequence**: Anesaki 48-fascicle order as adopted by Yinshun CSA; insertions SA 604, 640–641 → appendix.
-- **Data first**: reorder tables before rewriting prose; see [V2_ORDER.md](V2_ORDER.md).
-- **Build**: `make v2-order` → `data/metadata/v2/`; then `make book-v2` / `make sync-web`.
+- **Build**: `make v2-order` → `make book-v2` / `make sync-web`.
+
+## V3 (dharma reader) — policy
+
+- **Readable first**: new pedagogical titles; melt many SA into continuous sections.
+- **Layers**: literary + modern + notes only (no base/parallel panels).
+- **Not** 序分/正宗分/流通分 chapter labels; spirit of open→doctrine→close only.
+- **Build**: `make v3-reader` → `make book-v3`.
+- See [V3_DHARMA_READER.md](V3_DHARMA_READER.md).
 
 ## What we will **not** over-claim
 
