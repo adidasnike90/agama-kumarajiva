@@ -2,6 +2,26 @@ import { useEffect, useMemo, useState, type ReactNode } from "react";
 import type { SutraRecord } from "./types";
 import { cleanChineseText, cleanNotes, englishSourceLabel, normalizeChineseQuotes, suttaReaderTag } from "./reader";
 
+type Edition = "v1" | "v2";
+
+type OrderIndex = {
+  by_sa_t99: Record<
+    string,
+    {
+      seq?: number;
+      seq_appendix?: number;
+      role: string;
+    }
+  >;
+  reading_order_sa_t99: number[];
+  appendix_sa_t99: number[];
+};
+
+function saNum(id: string): number {
+  const m = id.match(/(\d+)/);
+  return m ? Number(m[1]) : 0;
+}
+
 function Panel({
   title,
   subtitle,
@@ -39,19 +59,33 @@ function Panel({
 
 export default function App() {
   const [records, setRecords] = useState<SutraRecord[]>([]);
+  const [orderIndex, setOrderIndex] = useState<OrderIndex | null>(null);
+  const [edition, setEdition] = useState<Edition>(() => {
+    const saved = localStorage.getItem("agama-edition");
+    return saved === "v2" ? "v2" : "v1";
+  });
   const [activeId, setActiveId] = useState<string>("");
   const [error, setError] = useState<string>("");
   const [query, setQuery] = useState("");
 
   useEffect(() => {
-    const dataUrl = `${import.meta.env.BASE_URL}final_translated_data.json`;
-    fetch(dataUrl)
-      .then((r) => {
-        if (!r.ok) throw new Error(`HTTP ${r.status}`);
+    localStorage.setItem("agama-edition", edition);
+  }, [edition]);
+
+  useEffect(() => {
+    const base = import.meta.env.BASE_URL;
+    Promise.all([
+      fetch(`${base}final_translated_data.json`).then((r) => {
+        if (!r.ok) throw new Error(`语料 HTTP ${r.status}`);
         return r.json();
-      })
-      .then((data: SutraRecord[]) => {
+      }),
+      fetch(`${base}academic_order_index.json`)
+        .then((r) => (r.ok ? r.json() : null))
+        .catch(() => null),
+    ])
+      .then(([data, idx]: [SutraRecord[], OrderIndex | null]) => {
         setRecords(data);
+        setOrderIndex(idx);
         if (data[0]) setActiveId(data[0].id);
       })
       .catch((e: Error) => setError(e.message));
@@ -59,16 +93,34 @@ export default function App() {
 
   const filtered = useMemo(() => {
     const q = query.trim().toLowerCase();
-    if (!q) return records;
-    return records.filter(
-      (r) =>
-        r.id.toLowerCase().includes(q) ||
-        r.title.toLowerCase().includes(q) ||
-        (r.primary_sn_uid || "").toLowerCase().includes(q),
-    );
-  }, [records, query]);
+    let list = records;
+    if (q) {
+      list = records.filter(
+        (r) =>
+          r.id.toLowerCase().includes(q) ||
+          r.title.toLowerCase().includes(q) ||
+          (r.primary_sn_uid || "").toLowerCase().includes(q),
+      );
+    }
+    if (edition !== "v2" || !orderIndex) return list;
+
+    const rank = (id: string): number => {
+      const n = saNum(id);
+      const info = orderIndex.by_sa_t99[String(n)];
+      if (!info) return 1_000_000 + n;
+      if (info.role === "appendix") return 2_000_000 + (info.seq_appendix || 0);
+      return info.seq || 1_000_000 + n;
+    };
+    return [...list].sort((a, b) => rank(a.id) - rank(b.id));
+  }, [records, query, edition, orderIndex]);
 
   const active = records.find((r) => r.id === activeId) || filtered[0];
+  const activeOrder = active
+    ? orderIndex?.by_sa_t99[String(saNum(active.id))]
+    : undefined;
+  const base = import.meta.env.BASE_URL;
+  const pdfV1 = `${base}books/v1-taisho.pdf`;
+  const pdfV2 = `${base}books/v2-reorder.pdf`;
 
   return (
     <div className="flex h-full flex-col overflow-hidden">
@@ -77,12 +129,39 @@ export default function App() {
           <div>
             <h1 className="text-2xl text-[#f0d9a8]">杂阿含 · 罗什风对照</h1>
             <p className="mt-1 text-sm text-[#a89880]">
-              风格迁移 · 信＝巴利／梵本义 · 雅＝罗什风（非汉译简体化） · 平行据 SuttaCentral
+              {edition === "v1"
+                ? "V1 研究译注本（大正卷序）· 经号与五十卷依 T99"
+                : "V2 研究译注本（经序重排）· Anesaki／印顺卷次（大正经号仍保留）"}
             </p>
+            <div className="mt-2 flex flex-wrap gap-x-3 gap-y-1 text-xs">
+              <a
+                href={pdfV1}
+                download="杂阿含-研究译注本-大正卷序.pdf"
+                className="text-[#c4a35a] underline-offset-2 hover:text-[#f0d9a8] hover:underline"
+              >
+                下载 V1 PDF（大正卷序）
+              </a>
+              <span className="text-[#5c4a2e]">·</span>
+              <a
+                href={pdfV2}
+                download="杂阿含-研究译注本-经序重排.pdf"
+                className="text-[#c4a35a] underline-offset-2 hover:text-[#f0d9a8] hover:underline"
+              >
+                下载 V2 PDF（经序重排）
+              </a>
+            </div>
           </div>
           {active ? (
             <div className="text-right text-xs text-[#b8a48a]">
               <div>{active.id}</div>
+              {edition === "v2" &&
+              activeOrder?.role === "main" &&
+              activeOrder.seq != null ? (
+                <div>学术序 seq {activeOrder.seq}</div>
+              ) : null}
+              {edition === "v2" && activeOrder?.role === "appendix" ? (
+                <div>V2 附录（T99 插入）</div>
+              ) : null}
               <div>
                 {active.primary_sn_uid
                   ? `主平行 ${active.primary_sn_uid}`
@@ -104,6 +183,32 @@ export default function App() {
       <div className="mx-auto flex min-h-0 w-full max-w-[1600px] flex-1 gap-4 overflow-hidden p-4">
         <aside className="flex h-full max-h-full w-64 shrink-0 flex-col overflow-hidden rounded-xl border border-[#5c4a2e]/40 bg-[#18140f]">
           <div className="shrink-0 border-b border-white/10 p-3">
+            <div className="mb-2 flex gap-1 text-xs">
+              <button
+                type="button"
+                onClick={() => setEdition("v1")}
+                className={`flex-1 rounded px-2 py-1.5 ${
+                  edition === "v1"
+                    ? "bg-[#3a2e1c] text-[#f0d9a8]"
+                    : "text-[#8a7a60] hover:bg-[#241c14]"
+                }`}
+              >
+                V1 大正卷序
+              </button>
+              <button
+                type="button"
+                onClick={() => setEdition("v2")}
+                disabled={!orderIndex}
+                className={`flex-1 rounded px-2 py-1.5 ${
+                  edition === "v2"
+                    ? "bg-[#3a2e1c] text-[#f0d9a8]"
+                    : "text-[#8a7a60] hover:bg-[#241c14]"
+                } disabled:opacity-40`}
+                title="研究译注本（经序重排）"
+              >
+                V2 经序重排
+              </button>
+            </div>
             <input
               value={query}
               onChange={(e) => setQuery(e.target.value)}
@@ -112,13 +217,16 @@ export default function App() {
             />
             <p className="mt-2 text-xs text-[#8a7a60]">
               共 {filtered.length} 部
+              {edition === "v2" ? " · 按学术序排列" : " · 按大正经号排列"}
             </p>
           </div>
           <nav className="min-h-0 flex-1 overflow-y-auto overscroll-contain p-2">
             {error ? (
               <p className="p-2 text-sm text-red-300">加载失败：{error}</p>
             ) : null}
-            {filtered.map((r) => (
+            {filtered.map((r) => {
+              const info = orderIndex?.by_sa_t99[String(saNum(r.id))];
+              return (
               <button
                 key={r.id}
                 type="button"
@@ -129,10 +237,19 @@ export default function App() {
                     : "text-[#cbb89a] hover:bg-[#241c14]"
                 }`}
               >
-                <div className="font-medium">{r.id}</div>
+                <div className="font-medium">
+                  {r.id}
+                  {edition === "v2" && info?.role === "main" && info.seq != null
+                    ? ` · seq ${info.seq}`
+                    : ""}
+                  {edition === "v2" && info?.role === "appendix"
+                    ? " · 附录"
+                    : ""}
+                </div>
                 <div className="truncate text-xs opacity-70">{r.title}</div>
               </button>
-            ))}
+            );
+            })}
           </nav>
         </aside>
 

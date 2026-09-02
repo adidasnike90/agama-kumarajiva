@@ -1,11 +1,16 @@
-# 《杂阿含经·仿罗什风新译》研究译注本（LaTeX）
+# 《杂阿含经·仿罗什风新译》研究译注本（大正卷序）· V1（LaTeX）
+
+系列另册见 [`book_v2/`](../book_v2/)（经序重排）。
+
+**杂阿含经·仿罗什风新译** · **研究译注本（大正卷序）**
 
 > 项目总文档：[../README.md](../README.md) · [../docs/README.md](../docs/README.md) · 入门：[../docs/GETTING_STARTED.md](../docs/GETTING_STARTED.md)
 
 ## 书名
 
-**杂阿含经·仿罗什风新译**（研究译注本）  
+**杂阿含经·仿罗什风新译** · **研究译注本（大正卷序）**  
 副题：Saṃyukta Āgama — A Kumarajiva-Style Research Translation
+（另册 V2：研究译注本（经序重排））
 
 ## 内容
 

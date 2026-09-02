@@ -1,0 +1,11 @@
+generated/*.tex
+!generated/.gitkeep
+
+*.aux
+*.log
+*.out
+*.toc
+*.fdb_latexmk
+*.fls
+*.synctex.gz
+build/

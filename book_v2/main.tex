@@ -1,0 +1,48 @@
+% !TEX program = xelatex
+% 《杂阿含经·仿罗什风新译》研究译注本（经序重排）— V2；与 book/ V1 并行
+\documentclass[UTF8, zihao=-4, openany, fontset=none]{ctexbook}
+
+\input{../book/preamble.tex}
+\hypersetup{
+  pdftitle={杂阿含经·仿罗什风新译·研究译注本（经序重排）},
+  pdfauthor={Agama–Kumarajiva Project}
+}
+\fancyhead[LE,RO]{\small\itshape 杂阿含经·仿罗什风新译（经序重排）}
+
+\title{\textbf{杂阿含经·仿罗什风新译}\\[0.5em]
+\large 研究译注本（经序重排）\\[0.35em]
+\normalsize Saṃyukta Āgama: A Kumarajiva-Style Research Translation\\[0.2em]
+\normalsize Fascicle Order Reconstructed}
+\author{Agama–Kumarajiva Project}
+\date{2026}
+
+\begin{document}
+
+\input{frontmatter/cover.tex}
+\clearpage
+\pagenumbering{roman}
+\setcounter{page}{1}
+\tableofcontents
+\clearpage
+
+\input{frontmatter/preface.tex}
+\input{frontmatter/sources.tex}
+\input{frontmatter/principles.tex}
+\input{frontmatter/introduction.tex}
+\input{generated/reconstructed_index.tex}
+
+\mainmatter
+\input{generated/all_body.tex}
+
+\backmatter
+\chapter*{数据与版本}
+\addcontentsline{toc}{chapter}{数据与版本}
+\noindent 本册为 \textbf{研究译注本（经序重排）· V2}；
+\textbf{研究译注本（大正卷序）· V1}见仓库 \texttt{book/} 与 \texttt{make book}。\\
+源数据：\texttt{data/translated/final\_translated\_data.json}（1362 经）。\\
+序表：\texttt{data/metadata/v2/academic\_order.json}（\texttt{make v2-order}）。\\
+体例全文：\texttt{docs/EDITION\_PRINCIPLES.md}；经序政策：\texttt{docs/V2\_ORDER.md}。\\
+导出：\texttt{scripts/export\_book\_v2\_latex.py}（\texttt{make book-v2}）。\\
+编译：\texttt{make book-v2}（需 XeLaTeX 与 ctex 宏集）。
+
+\end{document}

@@ -8,7 +8,10 @@
 - **现代白话** 今译意（逐段平行）  
 - **T99 底本** + 巴利／英译平行 + 校勘说明  
 
-> **这不是历史伪造**：不声称鸠摩罗什曾译《杂阿含》；v1 **不**自动重排 Taishō 经序错简，只在 notes 中标注。
+> **这不是历史伪造**：不声称鸠摩罗什曾译《杂阿含》。  
+> **两部书并行**（同系列「研究译注本」）：
+> **V1** 研究译注本（大正卷序）；**V2** 研究译注本（经序重排）。
+> 网站用 **V1／V2 开关**切换，不是改掉 V1。
 
 ---
 
@@ -16,9 +19,11 @@
 
 | 产出 | 路径 / 命令 | 说明 |
 |------|-------------|------|
-| **三栏对照网页** | 本地 `make web`；线上 [GitHub Pages](https://adidasnike90.github.io/agama-kumarajiva/) | 罗什风｜底本+平行｜白话；1362 经可检索 |
-| **研究译注 PDF** | `make book` → `book/build/main.pdf`；亦见 [Releases](https://github.com/adidasnike90/agama-kumarajiva/releases) | LaTeX 五层排版，约 2100+ 页 |
-| **语料 JSON** | `data/translated/final_translated_data.json` | 全书源数据；亦在 `web/public/` |
+| **三栏对照网页** | 本地 `make web`；线上 [GitHub Pages](https://adidasnike90.github.io/agama-kumarajiva/) | 罗什风｜底本+平行｜白话；**V1／V2 版本开关** |
+| **V1 PDF** | `make book` → `book/build/main.pdf`；[Releases](https://github.com/adidasnike90/agama-kumarajiva/releases) | **研究译注本（大正卷序）**；约 2100+ 页 |
+| **V2 PDF** | `make book-v2` → `book_v2/build/main.pdf` | **研究译注本（经序重排）**；经号不变 |
+| **V2 序表数据** | `make v2-order` → `data/metadata/v2/` | 双编号；见 [docs/V2_ORDER.md](docs/V2_ORDER.md) |
+| **语料 JSON** | `data/translated/final_translated_data.json` | 全书源数据（两部书共用译文）；亦在 `web/public/` |
 | **黄金逐经稿** | `data/golden/sa_*.json` | 1362 文件，与 merge 脚本对应 |
 
 ---
@@ -44,8 +49,9 @@ python3 -m venv .venv && source .venv/bin/activate
 pip install -r requirements.txt
 cd web && npm install && cd ..
 
-make web              # 三栏阅读器
-make book             # 需 TeX Live + ctex；见 docs/GETTING_STARTED.md
+make web              # 三栏阅读器（侧栏可切换 V1／V2）
+make book             # V1：研究译注本（大正卷序）
+make book-v2          # V2：研究译注本（经序重排）
 make publication-audit  # 语料质量审计
 ```
 
@@ -63,9 +69,11 @@ python scripts/run.py align --count 10   # 试点
 | 命令 | 作用 |
 |------|------|
 | `make web` | 启动三栏阅读器（Vite，127.0.0.1:5173） |
-| `make sync-web` | 语料 JSON → `web/public/` |
-| `make book-export` | 语料 → `book/generated/juan_*.tex` |
-| `make book` | 导出 + XeLaTeX ×3 → `book/build/main.pdf` |
+| `make sync-web` | 语料 JSON → `web/public/`（含 V2 序索引；有则同步 PDF） |
+| `make sync-web-pdfs` | V1／V2 PDF → `web/public/books/` |
+| `make v2-order` | 生成 V2 学术阅读序（`data/metadata/v2/`） |
+| `make book-export` / `make book` | V1：`book/` → `book/build/main.pdf` |
+| `make book-v2-export` / `make book-v2` | V2 另册：`book_v2/` → `book_v2/build/main.pdf` |
 | `make publication-audit` | 出版级语料 + gold 审计 |
 | `make align` | 对齐 10 经试点 |
 | `make align-full` | 全库对齐（需网络） |
@@ -78,11 +86,12 @@ python scripts/run.py align --count 10   # 试点
 
 | 路径 | 作用 |
 |------|------|
-| [`web/`](web/) | 三栏对照阅读器（Vite + React） |
-| [`book/`](book/) | LaTeX 研究译注本 |
+| [`web/`](web/) | 三栏对照阅读器（Vite + React；V1／V2 开关） |
+| [`book/`](book/) | **V1** 研究译注本（大正卷序） |
+| [`book_v2/`](book_v2/) | **V2** 研究译注本（经序重排） |
 | [`data/translated/`](data/translated/) | 成书语料、审计报告、进度 |
 | [`data/golden/`](data/golden/) | 逐经黄金 JSON |
-| [`data/metadata/`](data/metadata/) | 五十卷界、相应品目 |
+| [`data/metadata/`](data/metadata/) | 五十卷界、相应品目；`v2/` 为学术序 |
 | [`data/aligned/`](data/aligned/) | Bilara 对齐缓存 |
 | [`pipeline/`](pipeline/) | SC / Bilara 抓取与 SA↔SN 对齐 |
 | [`translate/`](translate/) | 校验、相似度、质量门禁 |
@@ -105,8 +114,10 @@ python scripts/run.py align --count 10   # 试点
 | [docs/STYLE_GUIDE.md](docs/STYLE_GUIDE.md) | 罗什风改写范例 |
 | [docs/ROADMAP.md](docs/ROADMAP.md) | 阶段规划与不承诺事项 |
 | [docs/CONTRIBUTING.md](docs/CONTRIBUTING.md) | 参与翻译与提交流程 |
-| [book/README.md](book/README.md) | LaTeX 构建细节 |
-| [web/README.md](web/README.md) | 三栏阅读器说明 |
+| [docs/V2_ORDER.md](docs/V2_ORDER.md) | V1／V2 两部书与学术序政策 |
+| [book/README.md](book/README.md) | V1 LaTeX 构建 |
+| [book_v2/README.md](book_v2/README.md) | V2 另册构建 |
+| [web/README.md](web/README.md) | 三栏阅读器与版本开关 |
 
 ---
 
